@@ -1,0 +1,37 @@
+From alerts@corpsecure.com Fri Nov 26 10:23:45 2021
+Return-Path: <alerts@corpsecure.com>
+Received: from mail.corpsecure.com (mail.corpsecure.com [198.51.100.23])
+	by recipient.mailserver.com with ESMTP id ABC123;
+	Fri, 26 Nov 2021 10:23:45 -0500 (EST)
+Message-ID: <20211126102345.abc123@mail.corpsecure.com>
+Date: Fri, 26 Nov 2021 10:23:45 -0500
+From: Secure Portal Alerts <alerts@corpsecure.com>
+Reply-To: IT Support <it-support@externalhelpdesk.net>
+To: user@targetcompany.com
+Subject: Immediate Action Required: Security Alert for Your Corporate Secure-Mail
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #c00;">URGENT SECURITY ALERT</h2>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unauthorized access attempts</strong> to your Corporate Secure-Mail portal. To prevent account <em>compromise</em>, <strong>immediate action is required</strong>.</p>
+    <p>Please review the activity by clicking the button below:</p>
+    <p style="text-align: center;">
+      <a href="http://203.0.113.5/verify?uid=user123&sid=456"><img src="https://cdn.corpsecure.com/assets/alert_button.png" alt="View Alert" style="border: none;"></a>
+    </p>
+    <p>If the image does not load, you can also access your alerts via this link:</p>
+    <ul>
+      <li><a href="http://192.0.2.1/check?token=789">click here</a> to secure your account.</li>
+      <li>Visit <a href="http://204.0.113.7/portal-login">https://secureportal.corpsecure.com/login</a> to verify details.</li>
+      <li>Privacy Policy: <a href="https://corpsecure.com/privacy-policy">https://corpsecure.com/privacy-policy</a></li>
+      <li>Help Center: <a href="https://support.corpsecure.com/help">https://support.corpsecure.com/help</a></li>
+    </ul>
+    <p><strong>Note:</strong> Failure to verify within 24 hours may result in suspension of your secure-mail service.</p>
+    <p>For assistance, reply to <a href="mailto:it-support@externalhelpdesk.net">it-support@externalhelpdesk.net</a> or visit our support portal <a href="https://corpsecure.com/support">here</a>.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>Corporate Secure-Mail Team</p>
+  </body>
+</html>

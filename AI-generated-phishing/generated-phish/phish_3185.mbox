@@ -1,0 +1,34 @@
+From phishing@trustedsite.com Tue Sep 05 12:34:56 2023
+Return-Path: <phishing@trustedsite.com>
+Received: from mail.trustedsite.com (mail.trustedsite.com [192.0.2.1])
+	by victimmail.com with ESMTP id ABC123DEF
+	for <victim@victimmail.com>; Tue,  5 Sep 2023 12:34:56 +0200
+Message-ID: <20230905123456.phish@mail.trustedsite.com>
+Date: Tue, 5 Sep 2023 12:34:56 +0200
+From: "Trusted Rewards" <phishing@trustedsite.com>
+To: victim@victimmail.com
+Reply-To: <contact@urgent-support.com>
+Subject: URGENT: Account Password Verification Required to Claim Your €100 Voucher
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Reward Voucher</title></head>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We have detected unusual activity on your account. To prevent any <strong>immediate</strong> security <em>alert</em> and ensure your eligibility, you must verify your account <span style="color:red;">password</span> <strong>URGENTLY</strong>.</p>
+<p>As a token of apology, you are now eligible for a <strong>€100 Gift Voucher</strong>! But hurry, this offer expires in 24 hours.</p>
+<p>Click the link below to verify and claim instantly:</p>
+<p><a href="http://198.51.100.23/claim" title="secure claim">https://secure.rewards.voucher.claim.net</a></p>
+<p>Alternatively, visit <a href="http://203.0.113.10/login">https://offers.rewards.free.gift.claim</a> for direct access.</p>
+<p>Or <a href="http://malware.bad/claim">click here</a> to redeem.</p>
+<p>You can also redeem via image below:</p>
+<p><a href="http://198.51.100.23/redeem"><img src="http://trustedcdn.com/images/voucher.png" alt="Your €100 Voucher"></a></p>
+<p>For more info, visit our <a href="https://support.trustedsite.com/privacy-policy">privacy-policy</a> or <a href="https://help.trustedsite.com/faq">help</a>.</p>
+<p>If you do not act <strong>immediately</strong>, your voucher will be <em>forfeited</em> and your account may be <strong>suspended</strong> due to security concerns.</p>
+<p>Thank you,<br>
+Trusted Rewards Team</p>
+<p><a href="http://phishingsite.com/verify">here</a> to verify details.</p>
+</body>
+</html>

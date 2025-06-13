@@ -1,0 +1,45 @@
+From attacker@phishingsim.test Sat Jul 20 12:34:56 2024
+Return-Path: <security-alert@banksecure.com>
+Received: from phishingsim.test by mail.domain.test with SMTP; Sat, 20 Jul 2024 12:34:56 +0000
+Message-ID: <20240720123456.12345@phishingsim.test>
+Date: Sat, 20 Jul 2024 12:34:56 +0000
+From: "Bank Secure" <security-alert@banksecure.com>
+To: user@domain.test
+Subject: Urgent: Account Verification Required Immediately!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your password expires today – reset immediately to avoid account suspension. We detected an unusual sign-in attempt on your account that requires immediate attention.
+
+Action required: verify now to secure your account.
+
+Visit the following links:
+http://192.0.2.123/verify-account
+http://secure.login.verify.portal.payments.com/verify
+
+Failure to comply will result in account limitations.
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Action Required: Unusual sign-in detected—verify now!</strong></p>
+<p>Dear Customer,</p>
+<p>We detected an <em>unusual</em> sign-in attempt to your account. Your password expires today – reset immediately to avoid <span style="color:red;">ACCOUNT SUSPENSION</span>.</p>
+<p><a href="http://203.0.113.45/validate"><img src="http://203.0.113.45/images/secure.png" alt="Secure Verification" /></a></p>
+<p>Please <a href="http://secure.login.verify.portal.payments.com/verify">click here</a> to verify your identity.</p>
+<p>Reset your password at <a href="http://198.51.100.23/reset">https://www.bank-secure.com/update</a>.</p>
+<p><a href="http://192.0.2.123/login"></a></p>
+<p>Need help? Visit our <a href="https://support.securebanking.com/help-center">Help Center</a> or review our <a href="https://help.securebanking.com/privacy-policy">Privacy Policy</a>. Access your account <a href="http://modal.auth-lb.security.net">here</a>.</p>
+</body>
+</html>
+
+--==BOUNDARY==--

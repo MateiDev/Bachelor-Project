@@ -1,0 +1,54 @@
+From security@bankalerts.com Wed Jun 26 10:30:00 2024
+From: "B.O.A. Security Team" <security@bankalerts.com>
+To: victim@domain.com
+Subject: Urgent Account Password Update Required
+Date: Wed, 26 Jun 2024 10:30:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity in your account and have temporarily locked access to protect your information. A small refund of $12.67 USD is pending confirmation.
+
+Please confirm your banking details to release the funds:
+
+Click here: http://192.168.0.100/verify
+
+Or copy and paste the URL into your browser.
+
+For more information, visit our help page or the privacy policy:
+https://www.bank-of-america.com/help/contact-us
+https://www.bank-of-america.com/privacy/policy.html
+
+Thank you,
+B.O.A. Security Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity in your <strong>account</strong> and have temporarily locked access to protect your information. A small refund of <strong>$12.67 USD</strong> is pending confirmation.</p>
+    <p>Please confirm your banking details to release your funds:</p>
+    <p><a href="http://123.45.67.89/verify/refund?user=abc">click here</a> to verify now.</p>
+    <p>Or you can <a href="https://bank-modal-security.com/login">here</a> to authenticate securely.</p>
+    <p>
+      <a href="http://malicious.domain123.com/secure"><img src="http://111.222.333.444/images/secure-banner.jpg" alt="Secure Verification" width="468" height="60"></a>
+    </p>
+    <p>For your reference, our legitimate pages:</p>
+    <ul>
+      <li><a href="https://www.bank-of-america.com/help/contact-us">Help Center</a></li>
+      <li><a href="https://www.bank-of-america.com/privacy/policy.html">Privacy Policy</a></li>
+    </ul>
+    <p>Failure to confirm within 24 hours will result in permanent account suspension.</p>
+    <p>Thank you,<br>B.O.A. Security Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

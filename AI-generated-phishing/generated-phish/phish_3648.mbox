@@ -1,0 +1,54 @@
+From security@bigbank.com Sat Jul 13 12:34:56 2024
+Date: Sat, 13 Jul 2024 12:34:56 -0400
+From: "Big Bank Security" <security@bigbank.com>
+Reply-To: "Support Team" <support@bigbanksupport-update.com>
+To: user@example.com
+Subject: Urgent: Unusual Sign-In Detected & Password Expires Today – Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_abcdefg"
+
+----=_Part_0_abcdefg
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account. As a precautionary measure, your password expires today.
+To prevent any interruption to your online banking services, please verify your identity and reset your password immediately.
+
+Verify now: https://account.bigbank.com/verify
+Reset password: http://198.51.100.45/reset
+
+If you have any questions, please visit our Help Center: https://bigbank.com/help
+
+Thank you,
+Big Bank Security Team
+
+----=_Part_0_abcdefg
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Account Security Alert – Urgent</title></head>
+<body>
+  <p style="color:#900; font-weight:bold;">URGENT ALERT: Unusual sign-in detected on your <u>account</u>!</p>
+  <p>Your <strong>password expires today</strong>. You must <em>reset immediately</em> to avoid <span style="color:red;">account suspension</span>.</p>
+  <p>Action Required: 
+    <a href="http://192.0.2.123/verify">here</a> to verify your account now.
+  </p>
+  <p>Reset your password at 
+    <a href="http://198.51.100.45/reset">https://secure.login.bank.com</a>
+  </p>
+  <p>Alternate login page: 
+    <a href="http://login-update.bigbank.verify.secure.example.com">https://bigbank-login.com</a>
+  </p>
+  <p>Quick Links: 
+    <a href="https://bigbank.com/privacy-policy">privacy-policy</a> | 
+    <a href="https://bigbank.com/help">help center</a> | 
+    <a href="http://malicious.bad.domain"></a>
+  </p>
+  <p style="font-size:small; color:#666;">If you do not verify within 24 hours, your account will be temporarily disabled.</p>
+</body>
+</html>
+
+----=_Part_0_abcdefg--

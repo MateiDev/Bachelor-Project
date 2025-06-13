@@ -1,0 +1,48 @@
+```
+From nobody@example.com Wed Oct 18 14:26:48 2023
+Return-Path: <noreply@dhl-urgent-parcels.com>
+Received: from unknown (HELO dhl.com) (192.168.1.1)
+  by mail.example.org with SMTP; Wed, 18 Oct 2023 14:26:48 +0000
+Date: Wed, 18 Oct 2023 14:26:48 +0000
+From: DHL Support <noreply@dhl-urgent-parcels.com>
+Subject: Urgent: Action Required for Your Pending DHL Package Delivery
+To: user@example.com
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We attempted to deliver your package, but there is an issue requiring your attention. Please visit the link below to confirm your delivery details.
+
+http://192.0.2.0/track-your-package
+
+If not resolved within 48 hours, your parcel will be returned to the sender. 
+
+Thank you for choosing DHL.
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We attempted to deliver your package, but there is an issue requiring your attention. Please click the link below to confirm your delivery details.</p>
+
+<p><a href="http://192.0.2.0/track-your-package">Track your package</a></p>
+
+<p>If not resolved within 48 hours, your parcel will be returned to the sender.</p>
+
+<p><img src="http://192.0.2.0/images/dhl-logo.png" alt="DHL Logo" width="100"></p>
+
+<p>Thank you for choosing DHL.</p>
+
+<p>Visit our official website for more information: <a href="http://dhl.support.account-info.com">DHL Official Site</a></p>
+
+</body>
+</html>
+
+--boundary123--
+```

@@ -1,0 +1,48 @@
+From service@paypal.com Sat Jul 1 12:00:00 2023
+Return-Path: <service@paypal.com>
+From: "PayPal Service" <service@paypal.com>
+Reply-To: <alerts@paypal-security.com>
+To: user@testmail.test
+Subject: Action Required: Unusual Sign-in Detected – Verify Now
+Date: Sat, 1 Jul 2023 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_001"
+
+------=_Boundary_001
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your PayPal account.
+Your password expires today – reset immediately: http://192.0.2.123/reset
+
+Alternatively, visit our security center:
+https://www.paypal.com/security
+
+If you do not act within 24 hours, your account will be temporarily suspended.
+
+------=_Boundary_001
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected an <strong>unusual sign-in</strong> attempt on your PayPal account.
+    For your security, your <em>password expires today – reset immediately</em>:
+    <a href="http://192.0.2.123/reset" style="color:#00457C;">Reset Password</a>.</p>
+    <p>Alternatively, visit our security center:
+    <a href="http://203.0.113.45/security">https://www.paypal.com/security</a></p>
+    <p>Need help? <a href="https://help.paypal.com/" target="_blank">Visit Help Center</a> or
+    review our <a href="http://198.51.100.77/privacy.html">Privacy Policy</a>.</p>
+    <p>To confirm your account now, <a href="http://modal.paypal.verify.com/login">here</a>.</p>
+    <p>
+      <a href="http://198.51.100.77/verify">
+        <img src="http://198.51.100.77/images/secure.png" alt="Verify Now" border="0"/>
+      </a>
+    </p>
+    <p>Thank you for your prompt attention to this important matter.</p>
+    <p>PayPal Support Team</p>
+  </body>
+</html>
+
+------=_Boundary_001--

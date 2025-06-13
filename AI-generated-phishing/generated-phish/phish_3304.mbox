@@ -1,0 +1,32 @@
+From security@mybank.com Wed Sep 15 10:23:45 2021
+Return-Path: <security@mybank.com>
+Received: by mail.mybank.com id ab1234;
+    Wed, 15 Sep 2021 10:23:45 -0500 (CDT)
+From: MyBank Security Team <security@mybank.com>
+Reply-To: support@198.51.100.23
+To: user@mail.com
+Subject: URGENT: Unusual Sign-In Detected & Password Expiring Today
+Date: Wed, 15 Sep 2021 10:23:45 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <h2 style="color:red">Immediate Action Required</h2>
+    <p>Dear Valued Customer,</p>
+    <p>We detected an <strong>unusual sign-in</strong> attempt from a new device. To protect your account, please verify your identity <strong>immediately</strong>. Failure to act within 24 hours will result in <strong>account suspension</strong>.</p>
+    <p>Additionally, your password <strong>expires today</strong>. You must reset it <strong>right away</strong> to avoid any service interruption.</p>
+    <p style="text-align:center">
+      <a href="http://secure.login.verify.mybankupdate.info/login"><img src="http://198.51.100.23/images/verify.png" alt="Verify Now" style="border:none"/></a>
+    </p>
+    <p>Or <a href="http://123.45.67.89/reset">click here</a> to log in and secure your account.</p>
+    <p>Visit: <a href="http://198.51.100.23/security">https://mybank.com/security</a> for details.</p>
+    <a href="http://198.51.100.23/end"></a>
+    <p>If you need assistance, please click <a href="http://192.0.2.123/assist">here</a>.</p>
+    <hr/>
+    <p style="font-size:12px; color:#888">
+      <a href="https://www.mybank.com/privacy-policy">Privacy Policy</a> |
+      <a href="https://support.mybank.com/help">Help Center</a>
+    </p>
+  </body>
+</html>

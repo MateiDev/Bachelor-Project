@@ -1,0 +1,25 @@
+From phishing@taxdept.gov Fri Jul  1 12:34:56 2023
+From: "Tax Department" <noreply@taxdept.gov>
+Reply-To: "Support Team" <support@taxhelp.net>
+Subject: Urgent: Verify Account Password for Tax Refund
+Date: Tue, 10 Oct 2023 14:23:01 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p><strong>Immediate Action Required:</strong> Your <em>tax refund</em> is pending and may be forfeited if you do not confirm your banking details within 24 hours to avoid penalties.</p>
+    <p>
+      <a href="http://203.0.113.10/secure.login.confirm.payment/verify?ref=ABC123...">
+        <img src="http://1.2.3.4/logo.png" alt="Tax Department" style="border:0;" />
+      </a>
+    </p>
+    <p>Dear Taxpayer,</p>
+    <p>We have detected an <strong>urgent</strong> issue with your account. Please verify your password and bank information immediately to process your refund.</p>
+    <p>If you fail to respond, you risk missing the deadline and incurring a <em>late filing penalty</em>. This is a critical notice.</p>
+    <p><a href="http://203.0.113.10/secure.login.confirm.payment/verify?ref=ABC123..."></a></p>
+    <p>Thank you for your prompt attention to this matter.<br/>
+    Sincerely,<br/>
+    Tax Department Support Team</p>
+  </body>
+</html>

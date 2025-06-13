@@ -1,0 +1,45 @@
+```
+From phishing-scam@example.com Fri Oct 27 14:00:00 2023
+Return-Path: <phishing-scam@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+ by mail-user.com (Postfix) with ESMTP id 123456789
+ for <victim@example.com>; Fri, 27 Oct 2023 14:00:00 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="boundary-string"
+MIME-Version: 1.0
+Subject: Important: Action Required for Your Parcel Delivery!
+To: victim@example.com
+From: DHL Notification <info@dhl-services.com>
+Date: Fri, 27 Oct 2023 14:00:00 +0000
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today. Unfortunately, no one was available to receive it. Please visit our site to arrange for a redelivery or pick-up at your nearest facility.
+
+[Schedule your delivery](http://192.168.0.1/delivery/reschedule)
+
+Thank you,
+DHL Services
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package today. Unfortunately, no one was available to receive it. Please visit our site to arrange for a redelivery or pick-up at your nearest facility.</p>
+    <img src="http://example.com/images/dhl_logo.png" alt="DHL Logo"/>
+    <p>
+      <a href="http://192.168.0.1/delivery/reschedule">Click here</a> to schedule your delivery.
+    </p>
+    <p>For more information, please read our <a href="http://www.dhl.com/privacy-policy">privacy policy</a> or visit our <a href="http://www.dhl.com/help">help center</a>.</p>
+    <a href="http://malicious-site.com" style="color:transparent;"></a>
+  </body>
+</html>
+
+--boundary-string--
+```

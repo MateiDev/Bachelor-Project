@@ -1,0 +1,58 @@
+From dhl-tracking@mailer.tracker Wed Mar  1 12:00:00 2023
+Return-Path: <no-reply@dhl-tracking.com>
+Reply-To: support@dhl.com
+From: DHL Delivery <no-reply@dhl-tracking.com>
+To: user@domain.com
+Subject: Urgent: Parcel Delivery Notification
+Date: Wed,  1 Mar 2023 12:00:00 +0000
+Message-ID: <20230301120000.0001@dhl-tracking.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001"
+
+----=_Part_000_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Attention!
+
+We attempted to deliver your parcel but were unable to complete the delivery due to unpaid service fees.
+Immediate action required to release your package valued at $45.20.
+
+Please visit the following link to pay the small fee and reschedule delivery:
+http://192.0.2.123/secure-release?id=ABC123
+
+Or click here: http://phish.evilserver.com/confirm
+
+Alternatively, visit http://dhl-status.com/verify
+
+Failure to act within 24 hours will result in return to sender and potential storage charges.
+
+Thank you for choosing DHL.
+
+Privacy Policy: https://www.dhl.com/us-en/home/privacy.html
+Help Center: https://www.dhl.com/contact.html
+
+----=_Part_000_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p><strong>Urgent Notice:</strong> Your parcel delivery is pending!</p>
+  <p>We were unable to deliver your package due to an outstanding fee of <strong>$45.20</strong>.</p>
+  <p>To avoid return or storage fees, <a href="http://192.0.2.123/secure-release?id=ABC123">click here</a> to pay now.</p>
+  <p>Alternatively, <a href="http://phish.evilserver.com/confirm"></a></p>
+  <p>Track your shipment status: <a href="http://dhl.com/track">http://dhl.com/track</a></p>
+  <p>Or use this link: <a href="http://tracker.fake-domain.net/validate">http://dhl-status.com/verify</a></p>
+  <p>Resume delivery at: <a href="http://ship.update.dhl-service-info.com/resume?id=XYZ">here</a></p>
+  <p>Review our <a href="https://www.dhl.com/us-en/home/privacy.html">Privacy Policy</a> or visit our <a href="https://www.dhl.com/contact.html">Help Center</a>.</p>
+  <p>
+    <a href="http://shipping-update.tracking.dhl.maps.company.com/verify">
+      <img src="cid:logo" alt="DHL Logo">
+    </a>
+  </p>
+  <p>Please respond within <strong>24 hours</strong> to avoid package return.</p>
+</body>
+</html>
+
+----=_Part_000_001--

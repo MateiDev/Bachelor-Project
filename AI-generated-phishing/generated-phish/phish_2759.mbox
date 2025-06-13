@@ -1,0 +1,46 @@
+```
+From - Fri Oct 27 15:35:00 2023
+X-Gmail-Received: f0ef1c909b3445aeee5b953a8a74e5c5cf5e729a; Fri, 27 Oct 2023 15:35:00 -0700 (PDT)
+Return-Path: <security-alert@securemail.com>
+Received: from unknown (HELO 192.0.2.123) (192.0.2.123)
+    by mail.example.com with SMTP; Fri, 27 Oct 2023 15:35:00 -0700
+Reply-To: noreply@fakealerts.com
+From: "Account Security" <security-alert@securemail.com>
+Date: Fri, 27 Oct 2023 15:35:00 -0700
+Subject: Urgent: Immediate Action Required on Your Account
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000a123b045f999456"
+
+--000000000000a123b045f999456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Immediate action is required to secure your account. Click the following link to verify your details:
+http://192.0.2.123/secure-login
+
+Best Regards,
+Account Security Team
+
+--000000000000a123b045f999456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+    <title>Urgent: Immediate Action Required on Your Account</title>
+  </head>
+  <body>
+    <p>Dear User,</p>
+    <p>Your account has been flagged for suspicious activity, and immediate action is required. Please <a href="http://192.0.2.123/secure-login">click here</a> to verify your details and restore full access.</p>
+    <p>If you do not respond within 24 hours, your account may be temporarily suspended for your protection.</p>
+    <p><a href="http://www.officialsite.com">http://www.officialsite.com</a></p>
+    <p>Best Regards,</p>
+    <p>Account Security Team</p>
+    <p><img src="http://192.0.2.123/tracking-image.jpg" alt=" " width="1" height="1"></p>
+  </body>
+</html>
+
+--000000000000a123b045f999456--
+```

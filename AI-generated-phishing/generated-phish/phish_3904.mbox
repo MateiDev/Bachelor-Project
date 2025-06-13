@@ -1,0 +1,55 @@
+From noreply@dhl-delivery.com Wed Jun 26 12:34:56 2024
+Return-Path: <noreply@dhl-delivery.com>
+Received: from mail.dhl-delivery.com (mail.dhl-delivery.com [198.51.100.45])
+	by smtp.domain.com with ESMTP id ABC123
+	for <user@mail.com>; Wed, 26 Jun 2024 12:34:56 +0000
+Date: Wed, 26 Jun 2024 12:34:56 +0000
+From: "DHL Delivery" <noreply@dhl-delivery.com>
+Reply-To: support@security.dhl-supports.co.uk
+To: user@mail.com
+Subject: Urgent Account Password Verification - Parcel Held
+Message-ID: <20240626123456.ABC123@mail.dhl-delivery.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001"
+
+----=_Part_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent delivery attempt has failed due to incorrect account password details.
+To release your parcel, you must verify your account urgently to avoid shipment cancellation.
+
+Please visit the secure link below to update your information:
+https://www.dhl.com/verify
+
+Failure to do so will result in the package being returned to sender.
+
+Thank you,
+DHL Delivery Team
+
+----=_Part_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your recent delivery attempt has <b>failed</b> due to <span style="color:red;">incorrect account password details</span>. 
+       You must verify your <b>account</b> <i>immediately</i> to release your parcel and avoid <span style="color:red;">urgent cancellation</span>.</p>
+    <p>
+      <a href="http://198.51.100.45/dhl_verify?ref=delivery">
+        <img src="http://assets.dhl-logo.tracking-system.cd/images/dhl_banner.png" alt="DHL Tracking" width="400" height="100" style="border:none;" />
+      </a>
+    </p>
+    <p>If the image does not load, click here: <a href="http://198.51.100.45/dhl_verify?ref=delivery"></a></p>
+    <p>Alternatively, you may visit 
+      <a href="http://198.51.100.45/login.validate.dhl-tracking.com/verify">https://www.dhl.com/login</a> to verify your details.
+    </p>
+    <p>Thank you,<br/>
+       DHL Delivery Support</p>
+  </body>
+</html>
+
+----=_Part_000_001--

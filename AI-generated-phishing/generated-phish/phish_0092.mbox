@@ -1,0 +1,36 @@
+From nobody Tue Oct 24 18:15:24 2023
+Return-Path: <noreply@fakeups.com>
+Date: Tue, 24 Oct 2023 18:15:24 +0000
+From: UPS Notification <noreply@fakeups.com>
+Subject: URGENT: Action Required for Your Pending Package Delivery
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+
+<p>We are contacting you regarding an issue with your package delivery. Your item is on hold and requires immediate attention. To ensure your package can be delivered to you as quickly as possible, please follow the instructions below:</p>
+
+<p>Visit our <a href="http://delivery.ups-helper.com/track">tracking center</a> to verify your shipping address and pay a small fee.</p>
+
+<p>Details:</p>
+<ul>
+    <li><strong>Package ID:</strong> 123456789</li>
+    <li><strong>Status:</strong> On Hold</li>
+    <li><strong>Next Action:</strong> Immediate Verification Required</li>
+</ul>
+
+<p>Failure to take action within 24 hours will result in your package being returned to the sender.</p>
+
+<p>For your privacy, visit <a href="https://www.ups.com/privacy-policy">UPS Privacy Policy</a>. If you have any questions, please refer to our <a href="#">Help Center</a>.</p>
+
+<p>Click <a href="http://secureupstrack.com/track">here</a> to resolve this issue and ensure prompt delivery.</p>
+
+<p>Thank you for your attention to this urgent matter.</p>
+
+<p>Kind regards,<br>
+UPS Customer Service Team</p>
+</body>
+</html>

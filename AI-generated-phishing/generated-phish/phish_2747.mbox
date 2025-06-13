@@ -1,0 +1,48 @@
+```mbox
+From - Thu Oct 19 14:33:00 2023
+X-Account-Key: account2
+X-UIDL: 00003
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                 
+Return-path: <security@secureportal.com>
+Envelope-to: user@example.com
+Delivery-date: Thu, 19 Oct 2023 14:33:00 +0000
+Received: from secureportal.com ([192.168.1.100])
+	by mail.example.com with esmtpa (Exim 4.89)
+	(envelope-from <security@secureportal.com>)
+	id 1abcde-0003De-7d
+	for user@example.com; Thu, 19 Oct 2023 14:33:00 +0000
+Date: Thu, 19 Oct 2023 14:33:00 +0000
+From: "Security Alert" <security@secureportal.com>
+Subject: Urgent: Account Security Update Required
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Secure Portal Alert</title>
+</head>
+<body>
+<p>Dear user,</p>
+
+<p>We have detected suspicious activity on your account, and immediate action is required to ensure your information is safe. Please verify your account details to avoid any interruption in service. Failure to respond within 24 hours <b>will result in account suspension.</b></p>
+
+<p>Click <a href="http://secureportal-update.com/login" style="text-decoration: none;">here</a> to secure your account now.</p>
+
+<p></p>
+
+<p>For more details, visit our <a href="http://secureportal.com/privacy-policy">Privacy Policy</a> and <a href="http://secureportal.com/help">Help Center</a>.</p>
+
+<p><img src="http://192.168.1.101/security_update.jpg" alt="Security Update"></p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best regards,<br>
+Secure Portal Security Team</p>
+
+</body>
+</html>
+```

@@ -1,0 +1,28 @@
+```mbox
+From nobody Mon Oct 16 09:09:02 2023
+Return-Path: <no-reply@deals-reward.com>
+Delivered-To: you@example.com
+Received: from 192.0.2.1 (192.0.2.1)
+	by mail.example.com with SMTP; Mon, 16 Oct 2023 09:09:02 +0000
+Date: Mon, 16 Oct 2023 09:08:00 +0000
+From: Exclusive Deals <no-reply@deals-reward.com>
+Reply-To: rewards@contact-support-claim.com
+Subject: Urgent: Claim Your Exclusive €500 Voucher Now!
+To: you@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <h2>Congratulations!</h2>
+    <p>You're eligible for an exclusive €500 voucher. This is a limited-time offer, and it's important that you claim your reward now!</p>
+    <p>Click <a href="http://192.0.2.1/claim/voucher">here</a> to claim your voucher.</p>
+    <p>Make sure to redeem it before it expires.</p>
+    <p>Need more information? Visit our <a href="https://www.reputable-site.com/help">help center</a> or check our <a href="https://www.reputable-site.com/privacy-policy">privacy policy</a>.</p>
+    <p>If you have any questions, feel free to contact us at <a href="mailto:support@contact-support-claim.com">support@contact-support-claim.com</a>.</p>
+    <p>Thank you for choosing our exclusive deals!</p>
+    <hr>
+    <p>&copy; 2023 Deals Reward Inc.</p>
+  </body>
+</html>
+```

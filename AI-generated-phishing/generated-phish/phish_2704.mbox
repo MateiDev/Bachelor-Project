@@ -1,0 +1,52 @@
+```mbox
+From phishing@example.com Sun Oct 22 17:24:36 2023
+Return-Path: <phishing@example.com>
+Delivered-To: victim@example.com
+Received: from unknown (HELO mail.example.com) (192.0.2.1)
+    by mail.example.com with SMTP; Sun, 22 Oct 2023 17:24:36 +0000
+Date: Sun, 22 Oct 2023 17:24:30 +0000
+From: "Tax Support" <support@taxrefund123.com>
+Reply-To: refund-help@taxrefund2023.com
+Subject: Urgent: Verify Your Pending Refund Now
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_7890123456789"
+
+------=_Part_123456_7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We are contacting you regarding an urgent issue with your tax account. You have a pending refund of $385.25. To process this refund, please confirm your bank details immediately. Click the link below to resolve this issue:
+
+http://192.0.2.2/tax-refund
+Failure to verify your information will result in delays and could cause penalties.
+
+For further assistance, visit our help center:
+http://example.com/help
+
+Thank you.
+
+Tax Support Team
+
+------=_Part_123456_7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We are contacting you regarding an <b>urgent</b> issue with your tax account. You have a pending refund of $385.25. To process this refund, please confirm your bank details immediately. Click the link below to resolve this issue:</p>
+<p><a href="http://192.0.2.2.taxes.local/tax-refund">Verify Now</a></p>
+<p>Failure to verify your information will result in delays and could cause penalties.</p>
+<p>For further assistance, visit our <a href="http://example.com/help">help center</a> or read our <a href="http://example.com/privacy-policy">privacy policy</a>.</p>
+<p><img src="http://phishing-example.com/logo.png" alt="Tax Support Logo" /></p>
+<p>Thank you.</p>
+<p>Tax Support Team</p>
+</body>
+</html>
+
+------=_Part_123456_7890123456789--
+```

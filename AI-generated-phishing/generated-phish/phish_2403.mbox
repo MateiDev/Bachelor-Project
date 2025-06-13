@@ -1,0 +1,45 @@
+From no-reply@dhl.com Wed Oct 25 09:21:00 2023
+Return-Path: <no-reply@dhl.com>
+Received: from mail.domain.com (unknown [203.0.113.5])
+    by mx.domain.com with ESMTP id A1B2C3D4
+    for <user@domain.com>; Wed, 25 Oct 2023 09:21:00 +0000
+From: DHL Delivery <no-reply@dhl.com>
+Reply-To: support@dhl-tracking.com
+To: user@domain.com
+Subject: Urgent Account Delivery Notification - Immediate Action Required
+Date: Wed, 25 Oct 2023 09:21:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held due to a mismatch with your account details. This is a critical notification and requires your immediate attention.
+
+Please respond to this notice within 24 hours to avoid return to sender or additional fees.
+
+Visit the following link to resolve the issue: http://dhl-tracking.com/verify
+
+Thank you for your prompt response,
+DHL Delivery Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your package is being held due to a mismatch with your <strong>account</strong> details. This is an <em>urgent</em> notification and requires your <strong>immediate</strong> attention to avoid delays.</p>
+<p>Please <a href="http://malicious-tracker.com/update">click here</a> to confirm your information.</p>
+<p>Alternatively, verify your delivery by visiting <a href="http://malicious-tracker.com/verify">http://dhl-tracking.com/verify</a>.</p>
+<p><a href="http://malicious-tracker.com/release"></a></p>
+<p>Failure to comply within 24 hours will result in your parcel being <span style="color:red;">returned to sender</span> and may incur <span style="color:red;">additional fees</span>.</p>
+<p>Regards,<br>DHL Delivery Team</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

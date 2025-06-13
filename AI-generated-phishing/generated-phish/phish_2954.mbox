@@ -1,0 +1,57 @@
+```mbox
+From - Fri Oct 13 14:59:29 2023
+X-Account-Key: account2
+X-UIDL: UID12345-1593847560
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+Return-Path: <security@alerts.securebank.com>
+Received: from 192.0.2.199 (helo=malicious.com)
+    by myserver.com with ESMTPA; Fri, 13 Oct 2023 14:59:29 -0400
+Reply-To: <noreply@fakesupport.com>
+From: "SecureBank Alert" <security@alerts.securebank.com>
+To: victimuser@example.com
+Subject: Urgent Action Required: Password expires today
+Date: Fri, 13 Oct 2023 14:59:29 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--=_NextPart_000_01A7_01"
+
+----=_NextPart_000_01A7_01
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual sign-in activity on your account from a new device. As a precaution, your account has been temporarily restricted. To avoid permanent suspension, please verify your identity immediately.
+
+Visit the link below to reset your password, which expires today:
+
+http://192.0.2.199/security-update
+
+If this was not you, please contact our support center at http://malicious.com/support
+
+Ensure you verify your information correctly to regain full access to your account.
+
+Best regards,
+SecureBank Security Team
+
+----=_NextPart_000_01A7_01
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>We have detected <strong>unusual sign-in activity</strong> on your account from a new device. As a precaution, your account has been temporarily restricted. To avoid permanent suspension, please verify your identity immediately.</p>
+    <p>Visit the link below to reset your password, which <strong>expires today</strong>:</p>
+    <p><a href="http://192.0.2.199/security-update">http://securebank.com/security-update</a></p>
+    <p>If this was not you, please contact our support center at <a href="http://malicious.com/support">http://securebank.com/support</a></p>
+    <p>Ensure you verify your information correctly to regain full access to your account.</p>
+    <p><img src="http://malicious.com/image.jpg" alt="SecureBank Logo"></p>
+    <p>For privacy policy, <a href="http://securebank.com/privacy-policy">click here</a>.</p>
+    <p>Best regards,<br>
+    SecureBank Security Team</p>
+</body>
+</html>
+----=_NextPart_000_01A7_01--
+```

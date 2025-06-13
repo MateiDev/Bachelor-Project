@@ -1,0 +1,54 @@
+From - Fri Oct 13 15:32:45 2023
+X-Account-Key: account2
+X-UIDL: 3K84-23FK-UJF93K-S949F
+X-Mozilla-Status: 0019
+X-Mozilla-Status2: 00000000
+Return-Path: <fake-tax-office@example.com>
+Received: from mail.fake-server.com (192.168.1.1) by mail.example.com; Fri, 13 Oct 2023 15:32:45 -0400
+Message-ID: <03JKD938349828934923@example.com>
+Date: Fri, 13 Oct 2023 15:32:45 -0400
+From: "Tax Refund Department" <no-reply@taxoffice.com>
+Subject: Urgent: Confirm your Refund Details to Avoid Delay
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------Boundary123"
+
+This is a multi-part message in MIME format.
+--------------Boundary123
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Attention,
+
+We have calculated the last year's taxes and determined that you are eligible for an urgent refund of $320.45. Please confirm your banking details immediately to avoid delay.
+
+Access your refund: 
+https://secure-account-update.com
+
+For help click 
+https://help.taxoffice.com
+
+Sincerely,
+Tax Refund Department
+
+--------------Boundary123
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Urgent: Confirm your Refund Details to Avoid Delay</title>
+</head>
+<body>
+    <p>Attention,</p>
+    <p>We have calculated the last year's taxes and determined that you are eligible for an urgent refund of $320.45. Please confirm your banking details immediately to avoid delay.</p>
+    <p>Access your refund: <a href="http://93.184.216.34/secureportal/refund">http://www.tax-office-refund.com</a></p>
+    <p>For help click <a href="https://help.taxoffice.com"></a></p>
+    <p>Sincerely,<br/>Tax Refund Department</p>
+</body>
+</html>
+
+--------------Boundary123--

@@ -1,0 +1,34 @@
+From support@legitbank.com Mon Mar  8 12:34:56 2024
+Return-Path: <support@legitbank.com>
+Received: from mail.legitbank.com (mail.legitbank.com [203.0.113.5])
+	by mail.legitbank.com (8.14.4/8.14.4) with ESMTP id o28E3DKk021234
+	for <user@example.com>; Mon,  8 Mar 2024 12:34:56 -0500
+Subject: URGENT: Verify Your Account Password – Action Required
+From: "Legit Bank Support" <support@legitbank.com>
+Reply-To: "Customer Service" <service@legitsecure-helpdesk.com>
+To: user@example.com
+Date: Mon,  8 Mar 2024 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family:Arial, sans-serif; color:#333;">
+    <p>Dear Valued Customer,</p>
+    <p style="font-weight:bold; color:#c00;">
+      We detected an <strong>unusual sign-in</strong> attempt on your account and your password <strong>expires today</strong>. This is a <em>critical</em> security alert. You must verify your credentials immediately to prevent permanent suspension.</p>
+    <p>
+      <a href="http://192.0.2.100/reset">
+        <img src="http://phish-secure-company.com/tracker.png" alt="Verify Now" border="0" style="display:block; margin:0 auto;"/>
+      </a>
+    </p>
+    <p>To secure your account now, <a href="http://malicious-site.login-server.supp0rt.com/verify">click here</a>. This <em>urgent</em> action is required to avoid service interruption.</p>
+    <p>If you need assistance, visit our <a href="https://legitbank.com/help/contact">Help Center</a> or view our <a href="https://www.legitbank.com/privacy-policy">Privacy Policy</a>. </p>
+    <p style="color:#c00;">
+      Failure to act <strong>immediately</strong> will result in account deactivation under our security policy.
+    </p>
+    <p>Thank you for your prompt attention.<br/>
+       Sincerely,<br/>
+       Legit Bank Security Team
+    </p>
+  </body>
+</html>

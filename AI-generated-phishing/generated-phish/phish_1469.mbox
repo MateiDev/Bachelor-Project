@@ -1,0 +1,55 @@
+From support@securebank.com Fri Jun 28 12:34:56 2024
+Return-Path: <support@securebank.com>
+Received: from mail.securebank.com (mail.securebank.com [203.0.113.10]) by mx.mailserver.com with ESMTP id ABC12345 for <user@clientmail.com>; Fri, 28 Jun 2024 12:34:55 +0000
+Delivered-To: user@clientmail.com
+From: "Bank Secure Support" <support@securebank.com>
+Reply-To: support-team@securebank-security.net
+Subject: URGENT: Account Password Expires Today – Action Required
+Message-ID: <20240628123456.12345@mail.securebank.com>
+Date: Fri, 28 Jun 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_ABC1_01D8A2B0.00012345"
+
+------=_NextPart_000_ABC1_01D8A2B0.00012345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in to your account. Your password expires today and requires immediate resetting.
+
+Please verify your account now by visiting the following link:
+
+http://198.51.100.23/reset?token=ABCD1234
+
+If you did not initiate this request, please contact our help center:
+https://securebank.com/help
+
+Thank you for your prompt attention.
+
+Bank Secure Support Team
+
+------=_NextPart_000_ABC1_01D8A2B0.00012345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Account Password Expiry Urgent Notification</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+  <h2 style="color:#D9534F;">Unusual sign-in detected—verify now</h2>
+  <p>Dear Customer,</p>
+  <p>We noticed an <strong>unusual sign-in</strong> to your account. <span style="color:#D9534F;">Your password expires today</span> and must be reset immediately to avoid suspension.</p>
+  <p><a href="http://198.51.100.23/reset?token=ABCD1234">click here</a> to reset your password now.</p>
+  <p>For secure information, please review our 
+     <a href="https://securebank.com/help">help center</a> 
+     or <a href="https://securebank.com/privacy-policy">privacy policy</a>.
+  </p>
+  <p><a href="http://198.51.100.23/unusual"></a></p>
+  <p>Thank you for choosing Bank Secure.</p>
+</body>
+</html>
+
+------=_NextPart_000_ABC1_01D8A2B0.00012345--

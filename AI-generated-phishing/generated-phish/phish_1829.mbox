@@ -1,0 +1,31 @@
+From support@legitbank.com Thu Oct 12 14:28:16 2021
+Return-Path: <no-reply@legitbank.com>
+Received: from mail.legitbank.com (mail.legitbank.com [203.0.113.45])
+    by victimmail.com with ESMTP id ABC123456
+    Thu, 12 Oct 2021 14:28:16 +0000
+MIME-Version: 1.0
+From: "Secure Support" <support@legitbank.com>
+Reply-To: phishing@attackersite.ru
+To: user@victim.com
+Subject: URGENT: Account Password Expires Today – Reset Immediately
+Date: Thu, 12 Oct 2021 14:28:16 +0000
+Message-ID: <CA+kx1+randomid@legitbank.com>
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected an <strong>unusual sign-in</strong> on your account. For your protection, your <strong>password expires today</strong> and needs immediate attention.</p>
+<p>Please <a href="https://security-legit-dashboard.com/login">https://secure.legitbank.com/login</a> to verify your identity.</p>
+<p>Alternatively, you can <a href="http://192.0.2.123/reset-credentials">click here</a> to reset your password now.</p>
+<p>For more information, visit our <a href="http://privacy.policy.legitbank.com/privacy">privacy policy</a> or <a href="http://helpdesk.legitbank.com/support">help center</a>.</p>
+<p><a href="http://198.51.100.45/verify"></a></p>
+<p>If you have any questions, please contact us as soon as possible.</p>
+<p>Sincerely,<br/>
+Secure Support Team<br/>
+LegitBank</p>
+</body>
+</html>

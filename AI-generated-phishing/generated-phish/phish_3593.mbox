@@ -1,0 +1,55 @@
+From security-noreply@google.com Mon Mar 25 09:30:00 2024
+Return-Path: <security-noreply@google.com>
+Received: from mail.prod.google.com (mail.prod.google.com [74.125.200.20]) by mx.google.com with ESMTP id h8si720905vkd.5.2024.03.25.09.30.00; Mon, 25 Mar 2024 09:30:00 -0700 (PDT)
+Date: Mon, 25 Mar 2024 09:30:00 -0700
+From: "Google Security Team" <security-noreply@google.com>
+Reply-To: help@phishingsite.net
+To: recipient@domain.org
+Message-ID: <CAMWL=abc123@mail.prod.google.com>
+Subject: Urgent: Verify Your Google Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--boundary_text_string"
+
+----boundary_text_string
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Suspicious activity detected on your Google account.
+Your account is at risk of suspension. Please verify your password immediately.
+Simply follow the link below to confirm your details.
+
+----boundary_text_string
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p style="color:red; font-weight:bold;">
+    URGENT: Suspicious activity detected on your Google account.
+  </p>
+  <p>
+    To ensure uninterrupted access, please verify your credentials immediately.
+    Failure to do so may result in suspension within 24 hours.
+  </p>
+  <p>
+    Secure verification link:
+    <a href="http://198.51.100.23/login"></a>
+  </p>
+  <p>
+    Visit:
+    <a href="http://login.verify.security.google.services.com/auth">
+      https://accounts.google.com
+    </a>
+  </p>
+  <p>
+    For assistance, click
+    <a href="http://203.0.113.7/verify?next=signin">here</a>.
+  </p>
+  <p>
+    Privacy & Terms:
+    <a href="https://policies.google.com">https://policies.google.com</a>
+  </p>
+</body>
+</html>
+
+----boundary_text_string--

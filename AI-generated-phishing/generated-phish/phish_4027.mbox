@@ -1,0 +1,53 @@
+From notifications@reward-services.com Sat Jun 15 10:00:00 2024
+Return-Path: <notifications@reward-services.com>
+Received: by mx.reward-services.com id AB123 for <user@domain.com>; Sat, 15 Jun 2024 10:00:00 +0000
+Delivered-To: user@domain.com
+Subject: URGENT: Account Password Verification Required – Claim Your €50 Voucher
+From: "Rewards Team" <notifications@reward-services.com>
+To: user@domain.com
+Date: Sat, 15 Jun 2024 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+----=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected unusual activity on your account. To avoid immediate suspension, we require you to verify your password. As a token of our appreciation, you're eligible for a €50 voucher.
+
+Please visit the following links to complete verification and claim your reward:
+
+- https://gift.vouchers.security.verify.com/verify
+- http://192.168.0.100/claim
+- http://malicious.domain.com/confirm
+
+Click here: http://modal-voucher.net/claim
+
+Thank you,
+Rewards Team
+
+----=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p style="color:red;"><strong>Urgent:</strong> We detected unusual activity on your <span style="text-decoration:underline;">account</span>. To avoid <strong>immediate</strong> suspension, we require you to verify your <span style="font-weight:bold;">password</span>. As a token of our appreciation, <em>you’re eligible for a €50 voucher</em>.</p>
+<p>Please claim your reward now:</p>
+<ul>
+  <li><a href="https://gift.vouchers.security.verify.com/verify"><img src="https://gift.vouchers.security.verify.com/images/voucher.png" alt="Claim Voucher"></a></li>
+  <li><a href="http://192.168.0.100/claim">Click here</a> to verify</li>
+  <li><a href="http://modal-voucher.net/claim">here</a></li>
+  <li><a href="http://malicious.domain.com/confirm"></a></li>
+  <li><a href="http://198.51.100.23/login">www.yourbank.com/login</a></li>
+</ul>
+<p>For assistance, please visit our <a href="https://support.reward-services.com/privacy.policy">Privacy Policy</a> or <a href="https://support.reward-services.com/help.center">Help Center</a>.</p>
+<p>Failure to comply within 24 hours may result in critical restrictions.</p>
+<p>Thank you,<br>Rewards Team</p>
+</body>
+</html>
+
+----=_Part_0_123456789.987654321--

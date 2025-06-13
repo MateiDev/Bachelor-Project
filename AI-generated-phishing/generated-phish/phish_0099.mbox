@@ -1,0 +1,44 @@
+```mbox
+From nobody Sat Oct  7 12:18:12 2023
+Return-Path: <alert@secure-account.com>
+Received: from phisherserver.com (phisherserver.com. [192.0.2.123])
+        by mx.google.com with ESMTP id z123-v6si1234560wml.232.2023.10.07.12.18.12;
+        Sat, 07 Oct 2023 12:18:12 -0700 (PDT)
+Received-SPF: pass (google.com: domain of alert@secure-account.com designates 192.0.2.123 as permitted sender) client-ip=192.0.2.123;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@secure-account.com header.s=default header.b=abc123xyz;
+       spf=pass (google.com: domain of alert@secure-account.com designates 192.0.2.123 as permitted sender) smtp.mailfrom=alert@secure-account.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=secure-account.com
+Received: by phisherserver.com id h123ip465oik; Sat, 7 Oct 2023 15:18:12 -0400 (EDT)
+Date: Sat, 7 Oct 2023 15:18:12 -0400
+From: Secure Account Alerts <alert@secure-account.com>
+Reply-To: no-reply@secure-account.com
+To: victim@example.com
+Subject: Urgent: Action Required to Secure Your Account
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Message-ID: <1234567890.0987654321@secure-account.com>
+
+<html>
+<body>
+<p>Dear user,</p>
+
+<p>We have detected suspicious activity on your account. For your security, we strongly urge you to verify your details immediately to prevent unauthorized access.</p>
+
+<p>It is crucial that you update your information at the following secure link:</p>
+
+<p><a href="http://192.0.2.45/login-update" target="_blank">Click here to update your account</a></p>
+
+<p>Please note, failing to update your details may result in temporary suspension of your account.</p>
+
+<p>For help, please visit our <a href="https://support-secure-account.com">Help Center</a> or our <a href="https://secure-account.com/privacy-policy">Privacy Policy</a>.</p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best regards,<br>
+The Secure Account Team</p>
+
+</body>
+</html>
+```

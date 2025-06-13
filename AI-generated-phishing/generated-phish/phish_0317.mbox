@@ -1,0 +1,29 @@
+```mbox
+From phishing-scam@example.com Wed Oct 18 16:13:37 2023
+Return-Path: <phishing-scam@example.com>
+Received: from unknown (HELO fakehost.com) (192.0.2.1)
+  by mail.example.com with SMTP; Wed, 18 Oct 2023 16:13:37 -0000
+Date: Wed, 18 Oct 2023 16:13:37 +0000
+From: "Customer Service" <support@rewards-example.com>
+Reply-To: urgent-notice@claimrewards.com
+Subject: URGENT: Claim Your €100 Reward Voucher Now!
+To: undisclosed-recipients:;
+
+Dear Valued Customer,
+
+Congratulations! You're eligible to receive a €100 reward voucher valid at popular stores. This is an exclusive offer selected just for you, but it's only available for a limited time.
+
+To claim your reward, please act fast and <a href="http://192.0.2.50/maliciouspath/giftcard">click here</a> to verify your details. Failure to complete verification today will result in the forfeit of your voucher.
+
+Need help? Visit our <a href="http://rewards-example.com/help">Help Center</a> or read our <a href="http://rewards-example.com/privacy">Privacy Policy</a>.
+
+Don't miss this opportunity — act now to avoid losing out!
+
+Best Regards,
+
+Customer Service Team
+support@rewards-example.com
+
+---
+This email was sent by Rewards Group LLC, 123 Phish Lane, Scam City, SC. If you wish to unsubscribe, please visit our <a href="http://notarealunsubscribe.com">Unsubscribe Page</a>.
+```

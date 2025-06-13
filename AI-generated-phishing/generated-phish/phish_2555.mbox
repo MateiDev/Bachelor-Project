@@ -1,0 +1,48 @@
+From - Wallet Security <noreply-wallet@security-alert.com>
+To - undisclosed-recipients:;
+Reply-To - noreply.departments@security-alert.com
+Subject - [IMPORTANT] Immediate Action Required – Secure Your Account Now!
+Date - Tue, 17 Oct 2023 08:45:00 -0500
+
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b4c6e705e5abeabc"
+
+--000000000000b4c6e705e5abeabc
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued User,
+
+Your wallet account has been flagged for unusual activity. We urgently ask you to verify your identity to prevent account suspension. 
+
+Click the secure link below to proceed:
+
+[Verify Account](http://192.168.0.1/security-check/)
+
+Thank you,
+Wallet Security Team
+
+--000000000000b4c6e705e5abeabc
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+
+<p>Dear Valued User,</p>
+
+<p>Your wallet account has been flagged for <strong>unusual activity</strong>. We <span style="color: red;">urgently</span> ask you to verify your identity to prevent account suspension.</p>
+
+<p><a href="http://192.168.0.1/security-check/" style="color: #FFFFFF;"><img src="http://security-check-image.com/login.jpg" alt="Verify Account" style="border: none;"></a></p>
+
+<p>Click the secure link below to proceed:</p>
+
+<p><a href="http://192.168.0.1/security-check/" style="color: #0073e6; text-decoration: none;">http://wallet.security-alert.com/secure-login/<!--Non-matching URL--></a></p>
+
+<p>If you do not take action immediately, your account access will be disabled. Please <a href="http://legitimate-domain.com/privacy-policy" style="color: #0073e6; text-decoration: none;">click here</a> for more details.</p>
+
+<p>Thank you,<br>
+Wallet Security Team</p>
+
+</body>
+</html>
+
+--000000000000b4c6e705e5abeabc--

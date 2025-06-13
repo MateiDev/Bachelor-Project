@@ -1,0 +1,46 @@
+```
+From example-dhl123@randomlogistics.com Sun Oct 22 19:14:55 2023
+Date: Sun, 22 Oct 2023 19:14:55 +0000
+From: DHL Express <support@dhl-notifications.com>
+Reply-To: DHL Express <support@dhl-notifications.com>
+To: user@example.com
+Subject: Urgent: Action Required for Your Pending DHL Delivery
+
+--f4e4h3o2f3c2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We tried to deliver your parcel today, but there was an issue. To avoid returning the package, please confirm your address and pay the pending shipping fee.</p>
+    <p><strong>Failure to address this will result in your package being returned to sender.</strong></p>
+    <p>Click <a href="http://192.168.1.1/verify?dhl" style="color:#fff;text-decoration:none;">here</a> to confirm your details.</p>
+    <p>Preview parcel information: <a href="http://your.delivery-track.com/trackparcel" style="color:#fff;text-decoration:none;">
+      <img src="http://your.delivery-track.com/trackParcelImage.jpg" alt="Track Parcel"></a></p>
+    <p>For help, visit <a href="https://www.dhl.com/help" style="text-decoration:none;">our help center</a>.</p>
+    <p>Thank you,<br>DHL Express Team</p>
+  </body>
+</html>
+
+--f4e4h3o2f3c2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We tried to deliver your parcel today, but there was an issue. To avoid returning the package, please confirm your address and pay the pending shipping fee.
+
+Failure to address this will result in your package being returned to sender.
+
+Click here (http://192.168.1.1/verify?dhl) to confirm your details.
+
+Preview parcel information:Track Parcel (http://your.delivery-track.com/trackparcel)
+
+For help, visit our help center: https://www.dhl.com/help
+
+Thank you,
+DHL Express Team
+
+--f4e4h3o2f3c2--
+```

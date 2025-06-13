@@ -1,0 +1,24 @@
+```mbox
+From nobody@example.com Sat Jan  1 12:00:00 2022
+From: "Portal Security Alert" <no-reply@secureportal.com>
+To: victim@example.com
+Subject: Urgent: Verify Your Account Information
+
+Dear Valued User,
+
+We have detected unusual activity in your account. To ensure your security, please reverify your information. Failure to comply may result in restricted access.
+
+Please take action immediately to update your details securely by clicking the link below:
+
+<a href="http://192.0.2.0/update-account"> </a>
+
+Important: To safeguard your information, do not share your password with anyone. Refer to our <a href="http://192.0.2.0/privacy-policy">privacy policy</a> and <a href="http://secureportal.support.com.help.docs/">help documents</a> if needed.
+
+Thank you for your prompt attention to this urgent matter.
+
+Sincerely,
+
+Portal Security Team
+
+<a href="http://secureportal.com/login">click here</a> to log in securely.
+```

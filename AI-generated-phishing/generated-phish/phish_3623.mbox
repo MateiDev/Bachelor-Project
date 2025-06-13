@@ -1,0 +1,54 @@
+From support@notifications.bankofamerica.com Mon Sep 13 14:28:32 2021
+Return-Path: <support@notifications.bankofamerica.com>
+Delivered-To: customer@mailbox.com
+Received: from mx.bankofamerica.com (mx.bankofamerica.com [192.0.2.1])
+    by mail.hackingtest.com with ESMTP id ABC12345
+    Mon, 13 Sep 2021 14:28:32 -0400 (EDT)
+From: Bank of America <support@notifications.bankofamerica.com>
+Reply-To: security@bofa-secure.com
+To: customer@mailbox.com
+Subject: Urgent: Verify Your Account Password Immediately
+Date: Mon, 13 Sep 2021 14:28:32 -0400
+Message-ID: <20210913142832.ABC12345@mx.bankofamerica.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity on your Bank of America account. Your account access is temporarily limited. To restore full access, you must verify your account password immediately.
+
+Please visit: https://account.bankofamerica.com/login to verify your details.
+
+Failure to do so within 24 hours will result in permanent suspension of your account.
+
+Thank you,
+Bank of America Security Team
+
+Privacy Policy: https://www.bankofamerica.com/privacy-policy
+Help Center: https://www.bankofamerica.com/help-center
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>suspicious activity</strong> on your <em>Bank of America</em> account. Your account access is <span style="color:red;">temporarily limited</span>. To <strong>restore full access</strong>, you must verify your <u>account password</u> <em>immediately</em>.</p>
+<p>
+<a href="http://198.51.100.23/bofa/login.php">https://account.bankofamerica.com/login</a>
+</p>
+<p><a href="http://198.51.100.23"></a></p>
+<p>Alternatively, <a href="http://198.51.100.23/bofa/login.php">click here</a> to verify your account now.</p>
+<p><a href="https://www.bankofamerica.com/privacy-policy">Privacy Policy</a> | <a href="https://www.bankofamerica.com/help-center">Help Center</a></p>
+</body>
+</html>
+
+--BOUNDARY123--

@@ -1,0 +1,60 @@
+From shipping@dhl.com Sat Jan  1 00:00:00 2022
+Return-Path: <shipping@dhl.com>
+From: DHL Express <shipping@dhl.com>
+To: user@postmail.com
+Subject: Urgent: Account Password Verification Required to Release Your Package
+Message-ID: <20220101000000.12345@dhl.com>
+Date: Sat, 1 Jan 2022 00:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_abcdef.123456"
+
+------=_Part_123456_abcdef.123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent shipment (Tracking ID: 123456789012) is being held due to a security verification issue. 
+To avoid return to sender, please verify your account password immediately by clicking the link below:
+
+http://198.51.100.23/verify
+
+Thank you for choosing DHL Express.
+
+DHL Express Support Team
+
+------=_Part_123456_abcdef.123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your package (Tracking ID: <strong>123456789012</strong>) is currently <span style="color:red;font-weight:bold;">held</span> at the local depot due to an unresolved verification issue.</p>
+<p>Please <a href="http://198.51.100.23/verify">click here</a> to verify your account password and pay the small handling fee of $2.99 to release your parcel immediately.</p>
+<p>If you do not verify within 24 hours, your package will be returned to the sender.</p>
+<!-- Empty visible text link -->
+<p><a href="http://198.51.100.23/malware"></a></p>
+<!-- Link with multiple dots -->
+<p>Alternatively, use our secure portal: <a href="http://secure.track.shipping.dhl.update-package.com/login">here</a>.</p>
+<!-- Benign-looking links intact -->
+<p><a href="https://www.dhl.com/privacy">Privacy Policy</a> | <a href="https://www.dhl.com/help">Help Center</a></p>
+<!-- Image-based link -->
+<p><a href="http://tracking.scam.domain.com"><img src="cid:dhllogo" alt="DHL Logo"></a></p>
+<hr>
+<p>Best regards,<br>DHL Express Delivery Team</p>
+</body>
+</html>
+
+------=_Part_123456_abcdef.123456
+Content-Type: image/png; name="logo.png"
+Content-Transfer-Encoding: base64
+Content-ID: <dhllogo>
+
+iVBORw0KGgoAAAANSUhEUgAAAAUA
+...base64 data...
+------=_Part_123456_abcdef.123456--

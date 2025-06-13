@@ -1,0 +1,45 @@
+From no-reply@irs.gov Sat Jul 27 10:30:00 2024
+Return-Path: <no-reply@irs.gov>
+Received: by smtp.irs.gov id ABC123; Sat, 27 Jul 2024 10:30:00 -0400
+From: "IRS Online Services" <no-reply@irs.gov>
+To: user@domain.com
+Subject: Urgent: Tax Refund Confirmation Required
+Date: Sat, 27 Jul 2024 10:30:00 -0400
+Message-ID: <20240727103000.ABC123@smtp.irs.gov>
+Reply-To: account.support@secure-bank-refund.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_12345"
+
+------=_Boundary_12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate you have a pending tax refund of $47.22. To process your reimbursement, we require confirmation of your bank account details. Failure to respond within 48 hours will lead to automatic cancellation, and you will forfeit your refund.
+
+Visit the following link to confirm:
+https://www.irs.gov/confirm
+
+Thank you,
+IRS Online Services
+
+------=_Boundary_12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p><a href="http://192.0.2.123/refund?id=ABC123"><img src="http://192.0.2.123/logo.png" alt="IRS Logo"></a></p>
+  <p><a href="http://192.0.2.123/refund?id=ABC123"><img src="http://192.0.2.123/button.png" alt="Confirm Now"></a></p>
+  <p><strong>Urgent!</strong> You have a <em>pending refund</em> of <strong>$47.22</strong>.</p>
+  <p>To avoid <span style="color:red;">automatic cancellation</span>, confirm your bank details <strong>now</strong>.</p>
+  <p><a href="http://192.0.2.123/refund?id=ABC123">https://www.irs.gov/confirm</a></p>
+  <p>Alternatively, verify via our secure portal: <a href="http://bank.support.tax-refund.verify.payment.info/confirm">click here</a></p>
+  <p>Need help? Click <a href="http://verify.taxrefund-modal.com/confirm">here</a> or visit our <a href="http://192.0.2.123/privacy-policy"></a>privacy policy.</p>
+  <p>Failure to respond within <strong>48 hours</strong> may lead to cancellation and loss of your refund.</p>
+  <p><a href=""></a></p>
+</body>
+</html>
+
+------=_Boundary_12345--

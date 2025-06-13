@@ -1,0 +1,55 @@
+```mbox
+From - Tue Sep 26 12:00:00 2023
+X-From-Line: support@secure-bank-services.com Tue Sep 26 12:00:00 2023
+Return-Path: <support@secure-bank-services.com>
+Received: from mail.secure-bank-services.com (mail.secure-bank-services.com. [198.51.100.1])
+        by mx.google.com with ESMTP id e11si1234567qkb.67.2023.09.26.12.00.00
+        for <user@example.com>;
+        Tue, 26 Sep 2023 12:00:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of support@secure-bank-services.com designates 198.51.100.1 as permitted sender) client-ip=198.51.100.1;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@secure-bank-services.com header.s=default header.b=aBc1234D;
+       spf=pass (google.com: domain of support@secure-bank-services.com designates 198.51.100.1 as permitted sender) smtp.mailfrom=support@secure-bank-services.com;
+       dmarc=pass (p=QUARANTINE sp=NONE dis=NONE) header.from=secure-bank-services.com
+Received: by mail.secure-bank-services.com with SMTP id 12345
+        Tue, 26 Sep 2023 12:00:00 -0700 (PDT)
+Content-Type: multipart/alternative; boundary="000000000000b4f8de0601234"
+Message-ID: <1234567890@mail.secure-bank-services.com>
+Date: Tue, 26 Sep 2023 12:00:00 -0700
+From: Secure Bank <support@secure-bank-services.com>
+Reply-To: <alert@account-secure-update.com>
+To: user@example.com
+Subject: Urgent: Unusual activity detected on your account
+
+--000000000000b4f8de0601234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account. Due to security reasons, please verify your identity by following the secure link below:
+
+<a href="http://secure.verification-service.com"></a>
+
+Failure to do so may result in suspension of your account.
+
+Thank you,
+Secure Bank Team
+
+--000000000000b4f8de0601234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity on your account. Due to security reasons, please verify your identity by following the secure link below:</p>
+    <p><a href="http://secure.verification-service.com">here</a></p>
+    <p>Failure to do so may result in suspension of your account.</p>
+    <p>Thank you,<br>Secure Bank Team</p>
+    <p><a href="http://secure-bank-services.com/privacy-policy">Privacy Policy</a> | <a href="http://secure-bank-services.com/help">Help</a></p>
+  </body>
+</html>
+
+--000000000000b4f8de0601234--
+```

@@ -1,0 +1,36 @@
+```mbox
+From phishing@fakealerts.com Tue Oct 03 14:22:01 2023
+Return-Path: <phishing@fakealerts.com>
+Delivered-To: victim@example.com
+Received: from 192.168.1.100 (192.168.1.100) by mx.example.com with SMTP; Tue, 03 Oct 2023 14:21:59 -0700 (PDT)
+Received: by 192.168.1.100 with SMTP id A1CAA12345 for <victim@example.com>; Tue, 03 Oct 2023 14:21:58 -0700 (PDT)
+Date: Tue, 03 Oct 2023 14:21:58 -0700
+From: "Account Security" <no-reply@secure-alerts.com>
+Reply-To: "Account Help" <support@securityalerts-mismatch.com>
+Message-ID: <1234567890@example.com>
+Subject: Urgent: Password expires today - action required immediately!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <h2 style="color:red;">Attention Required: Unusual Sign-In Detected!</h2>
+    <p>Dear User,</p>
+    <p>We have detected an <strong>unusual sign-in attempt</strong> on your account. To secure your account, please verify your identity immediately:</p>
+    <p><a href="http://198.51.100.1/verify" style="display:none"></a></p>
+    <p>Access your account via the secure link below and verify your activities:</p>
+    <p><a href="http://secure.yourbank.com.verify-now.com"><img src="http://example.com/image.jpg" alt="Verify Now"></a></p>
+    <p><a href="http://203.0.113.0/reset">Reset your password here to avoid account lockout.</a></p>
+    <p>If this was not you, your <em>immediate action</em> is required:</p>
+    <ol>
+      <li>Double-check your recent activities.</li>
+      <li>Visit <a href="http://secure-account.yourbank.com/verify"><?php echo ""; ?></a> to update your password immediately.</li>
+      <li>Review additional <a href="http://94.142.241.111/support">support options</a>.</li>
+    </ol>
+    <p>We are here to <strong>assist you in safeguarding</strong> your account.</p>
+    <p>Best Regards,<br>
+       Account Security Team</p>
+  </body>
+</html>
+```

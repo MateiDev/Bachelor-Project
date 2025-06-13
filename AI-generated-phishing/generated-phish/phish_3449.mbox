@@ -1,0 +1,60 @@
+From voucher@promo.org Fri Jul 19 10:00:00 2024
+Return-Path: <voucher@promo.org>
+Received: from mail.promo.org (mail.promo.org [198.51.100.24]) by mx.test-domain.com with ESMTP id DE15C9CD for <user@test-domain.com>; Fri, 19 Jul 2024 10:00:00 +0000 (UTC)
+From: "Rewards Department" <voucher@promo.org>
+Reply-To: support@payments-secure.com
+To: user@test-domain.com
+Subject: Urgent: Verify Your Account & Claim €200 Voucher Now!
+Message-ID: <20240719100000.abcdef@mail.promo.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account has been selected for an exclusive €200 reward voucher! This offer is urgent and will expire in 24 hours. To claim your voucher, please verify your details:
+
+Visit the following link:
+https://account.secure-login.payment-services.com/verify
+
+Alternatively, confirm via:
+https://secure.verify.payments-secure.com/claim
+
+Please act now to avoid losing your reward. If you have any questions, see our privacy policy or help page:
+https://www.promo-privacy.net/policy
+https://help.promo-privacy.net
+
+Best regards,
+Rewards Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>Your <strong>account</strong> has been selected for an exclusive <strong>€200 reward voucher</strong>! This offer is <em>urgent</em> and will expire in 24 hours.</p>
+<p>To claim your voucher, please verify your details by visiting the following link:</p>
+<ul>
+  <li><a href="https://secure-svc-claim.com/confirm">https://secure-login.payment-services.com/confirm</a></li>
+  <li><a href="https://rewards-verify.net/redeem"></a></li>
+  <li><a href="https://secure-svc-claim.com/landing">here</a></li>
+</ul>
+<p>If you prefer, you can also verify via our help page or review our privacy policy:</p>
+<ul>
+  <li><a href="https://help.promo-privacy.net">help</a></li>
+  <li><a href="https://www.promo-privacy.net/policy">privacy policy</a></li>
+</ul>
+<p>Please act now to avoid losing your reward! If you fail to verify your password, your voucher will be cancelled.</p>
+<p>Best regards,<br>Rewards Team</p>
+</body>
+</html>
+
+----=_Part_12345_67890--

@@ -1,0 +1,57 @@
+```mbox
+From - Thu Oct 12 17:34:36 2023
+X-Account-Key: account12345
+X-UIDL: UID1234567
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <security-notify@securealerts.com>
+Delivered-To: victim@example.com
+Received: from unknown (192.157.198.234) by mx.example.com with SMTP; Thu, 12 Oct 2023 17:34:36 +0000
+Message-ID: <1675357621422@securealerts.com>
+Date: Thu, 12 Oct 2023 8:25:22 -0700
+From: "Account Security" <security-notify@securealerts.com>
+Reply-To: support@alerts-security.com
+Subject: Urgent: Unusual Sign-In Attempt Detected on Your Account!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------001738273274839"
+X-Spam-Flag: NO
+
+--------------001738273274839
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your account. To ensure your account's safety, please verify your recent activity immediately using the secure link below:
+
+http://192.168.1.1/account-verify
+
+Failure to verify within 24 hours will result in account suspension.
+
+Regards,
+Account Security Team
+
+--------------001738273274839
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p style="color:red;"><strong>Immediate Action Required</strong></p>
+<p>We have detected an <strong>unusual sign-in attempt</strong> on your account. To protect your account, please verify your activity by <a href="http://192.168.1.1/account-verify" style="color:#ff0000;">clicking here</a>.</p>
+
+<p>If you do not verify within <strong>24 hours</strong>, your account will be <strong>suspended</strong>.</p>
+
+<p>For your security, reset your <strong>password immediately</strong> by visiting: <a href="http://www.security-update.com/reset" style="color:#ff0000">www.security-update.com/reset</a></p>
+
+<p>Need help? <a href="http://support.example.com/">&#8203;</a></p>
+
+<img src="http://192.168.1.1/image.png" alt="Verify Now"/>
+
+<p>Regards, <br/>Account Security Team</p>
+</body>
+</html>
+
+--------------001738273274839--
+```

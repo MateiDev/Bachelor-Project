@@ -1,0 +1,40 @@
+From support@microsoft.com Thu Jul 16 10:00:00 2020
+Return-Path: <support@microsoft.com>
+From: "Microsoft Support" <support@microsoft.com>
+Reply-To: <attacker@malicious.net>
+Subject: Urgent: Account €50 Voucher Reward!
+Date: Thu, 16 Jul 2020 10:00:00 +0000
+Message-ID: <1234567890@microsoft.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_01D6A5C0.4B6E7C80"
+
+------=_NextPart_000_0000_01D6A5C0.4B6E7C80
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+You have been selected to receive a €50 voucher. Visit the link below to claim it now:
+
+http://1.2.3.4/claim
+
+Best regards,
+Microsoft Support
+
+------=_NextPart_000_0000_01D6A5C0.4B6E7C80
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>Congratulations!</strong> You are eligible for a <span style="color:green;">€50 voucher</span>. To claim your reward, please proceed by clicking the button below:</p>
+    <!-- Empty visible link for layout manipulation -->
+    <a href="http://9.10.11.12/promo"></a>
+    <!-- Image-based link -->
+    <a href="http://1.2.3.4/claim"><img src="http://5.6.7.8/banner.png" alt="Claim Your Voucher" style="border:none;"/></a>
+    <p>Alternatively, <a href="http://1.2.3.4/claim">here</a> to claim.</p>
+    <p>For more information, visit our <a href="https://support.microsoft.com/en-us/help">Help Center</a> or read our <a href="https://support.microsoft.com/en-us/privacy">Privacy Policy</a>.</p>
+    <p>Regards,<br/>Microsoft Support Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_0000_01D6A5C0.4B6E7C80--

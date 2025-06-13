@@ -1,0 +1,47 @@
+```mbox
+From - Mon Oct 16 09:30:37 2023
+X-Account-Key: account2
+X-UIDL: 0000000045
+X-Mozilla-Keys:                                                                                 
+Return-Path: <promo@giftcards.com>
+Delivered-To: user@example.com
+Received: from mail.giftcards.com (unknown [192.0.2.1])
+        by mail.example.com with SMTP id 003D5C8ED2
+        for <user@example.com>; Mon, 16 Oct 2023 09:30:37 -0700 (PDT)
+Message-ID: <09203A4B798E.20317.000001A32HVF@mail.giftcards.com>
+Date: Mon, 16 Oct 2023 09:30:37 -0700 (PDT)
+From: "Gift Cards Promo" <promo@giftcards.com>
+To: user@example.com
+Subject: Urgent: Claim Your €100 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_2093123_892380742.0161016093037"
+
+------=_Part_2093123_892380742.0161016093037
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive a €100 voucher. Obtain it now by visiting our promotional page.
+
+Claim now: http://www.getyourvoucher.today/offer?id=12345
+
+For more details, visit our privacy policy or help section.
+
+------=_Part_2093123_892380742.0161016093037
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+    <body>
+        <p>Congratulations!</p>
+        <p>You have been selected to receive a <strong>€100 voucher</strong>. Obtain it now by visiting our promotional page.</p>
+        <p><a href="http://www.getyourvoucher.today/offer?id=12345">Click here</a> to claim your reward!</p>
+        <p>Visit our <a href="http://www.giftcards.com/privacy-policy">privacy policy</a> or <a href="http://www.giftcards.com/help">help</a> section for more details.</p>
+        <p><img src="http://www.images.giftcards.com/promo.jpg" alt="Claim Your Voucher" /></p>
+    </body>
+</html>
+
+------=_Part_2093123_892380742.0161016093037--
+```

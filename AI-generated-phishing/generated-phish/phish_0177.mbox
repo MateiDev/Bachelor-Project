@@ -1,0 +1,53 @@
+```mbox
+From fake-service@securemail.com Thu Oct 26 10:48:56 2023
+Return-Path: <fake-service@securemail.com>
+Received: from [93.184.216.34] (unknown [93.184.216.34])
+    by mail.example.com (Postfix) with ESMTP id 4FAD91234A7
+    for <user@example.com>; Thu, 26 Oct 2023 10:48:56 -0500 (CDT)
+Message-ID: <20231026104856.ABCD1234@example.com>
+Date: Thu, 26 Oct 2023 10:48:56 -0500
+From: "Service Security" <fake-service@securemail.com>
+Reply-To: "Service Support" <support@phishing.com>
+To: user@example.com
+Subject: Urgent: Action Required - Verify Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="B_3657583412_5041775"
+
+--B_3657583412_5041775
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We've detected suspicious activity on your account and your access will be revoked unless you verify immediately. Click the link to restore your account access:
+
+http://93.184.216.34/secure-login
+
+Thank you,
+Service Security Team
+
+--B_3657583412_5041775
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We've detected <strong>suspicious activity</strong> on your account=
+ and your access will be <span style="color: red;">revoked</span> unless yo=
+u verify immediately. Click the link to restore your account access:</p>
+    <a href="http://93.184.216.34/secure-login">https://www.securelogin.co=
+m</a>
+    <p><a href="http://simple-update.com/ljs">https://www.update-service.c=
+om/status</a></p>
+    <p><a href="http://123.456.789.10/checkpoint">Account Checkpoint</a></=
+p>
+    <p><a href="http://malicious-link.com"><img src="http://93.184.216.34/=
+images/secure_login.png" alt="Secure Login"/></a></p>
+    <p>Thank you,<br>Service Security Team</p>
+  </body>
+</html>
+
+--B_3657583412_5041775--
+```

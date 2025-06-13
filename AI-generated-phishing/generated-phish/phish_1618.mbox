@@ -1,0 +1,40 @@
+From support@yourbank.com Mon Feb  1 10:23:00 2021
+Return-Path: <support@yourbank.com>
+Received: from mail.yourbank.com (mail.yourbank.com [192.0.2.1])
+	by mx.domain.com with ESMTP id abcd1234;
+	Mon,  1 Feb 2021 10:23:00 -0500 (EST)
+From: "YourBank Support" <support@yourbank.com>
+Reply-To: "Security Team" <security@secure-verify.net>
+To: user@domain.com
+Subject: Important Security Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account. To prevent suspension, please visit the link below to re-verify your credentials securely:
+
+https://secure.login.bank.yourbank.verify.account-update.com/login
+
+Thank you,
+YourBank Security Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <a href="https://secure.login.bank.yourbank.verify.account-update.com/login" title="urgent account password update"></a>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity on your account. To prevent suspension, please <a href="https://secure.login.bank.yourbank.verify.account-update.com/login" title="urgent password verification">click here</a> to re-verify your credentials securely.</p>
+    <p><a href="https://secure.login.bank.yourbank.verify.account-update.com/login"><img src="https://cdn.yourbank.com/images/logo.png" alt="YourBank" border="0"></a></p>
+    <p>Thank you,<br>YourBank Security Team</p>
+  </body>
+</html>
+
+--===============123456789==--

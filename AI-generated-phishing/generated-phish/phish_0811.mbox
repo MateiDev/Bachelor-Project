@@ -1,0 +1,26 @@
+From support@securebanking.com Fri Jul 21 10:30:00 2023
+Subject: Urgent: Your €50 Voucher is Waiting – Verify Your Account Now
+From: "Secure Banking Services" <support@securebanking.com>
+To: user@example.com
+Date: Fri, 21 Jul 2023 10:30:00 +0200
+Message-ID: <20230721103000.1@securebanking.com>
+Reply-To: helpdesk@alerts-secure.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head><title>Urgent Account Verification Needed</title></head>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Congratulations! You are eligible to receive a €50 voucher for our gift card promotion. To claim your reward, please verify your account details.</p>
+<ul>
+<li><a href="http://192.0.2.123/verify">https://secure-bank.com/verify</a></li>
+<li><a href="http://malicious-claim.com/redeem" title="Redeem Now">Redeem Voucher</a></li>
+<li><a href="http://198.51.100.45/claim"></a></li>
+<li><a href="http://203.0.113.7/track"><img src="http://images.bad/voucher.png" alt="Your Gift Card"></a></li>
+</ul>
+<p>Please complete the verification within 24 hours to avoid forfeiture of your voucher. This is an urgent request to secure your reward.</p>
+<p>Note: If you have already updated your password, please disregard this message.</p>
+<p>Best regards,<br>Secure Banking Services Team</p>
+</body>
+</html>

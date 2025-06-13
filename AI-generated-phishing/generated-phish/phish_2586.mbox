@@ -1,0 +1,55 @@
+```mbox
+From - Fri Oct 20 20:22:48 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <notice@delivery-alert.com>
+Received: from unknown (HELO mail.fakehost.com) (192.168.1.100)
+  by mail.example.com with SMTP; Fri, 20 Oct 2023 20:22:48 +0000
+Received: by mail.fakehost.com (Postfix, from userid 1001)
+  id A1B2C3D4; Fri, 20 Oct 2023 20:22:48 +0000 (UTC)
+To: victim@example.com
+Subject: Urgent: Your Package is Held - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------040106070000070003050205"
+From: Customer Support <notice@delivery-alert.com>
+Reply-To: support@secure-releaseshipping.net
+
+This is a multi-part message in MIME format.
+--------------040106070000070003050205
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are holding your parcel due to unpaid charges. Immediate action is required to release your delivery.
+
+Please visit [releaseshipping-update.com](http://92.123.45.67/security-check) to confirm the payment and avoid return.
+
+Thank you for your understanding.
+
+Customer Support
+
+--------------040106070000070003050205
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Delivery Notice: Urgent Action Required</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have an <strong>urgent</strong> notification regarding your package. An <em>unpaid fee</em> is holding up your delivery. To ensure prompt release and prevent return, you must take immediate action.</p>
+    <p><a href="http://92.123.45.67/security-check" style="color: #ff0000;"><img src="http://example.com/images/package.png" alt="Click here to release your package"></a></p>
+    <p>For more details, visit our <a href="http://track-your-package.org/details">official tracking page</a>.</p>
+    <p>Thank you for your understanding.</p>
+    <p>Customer Support</p>
+  </body>
+</html>
+--------------040106070000070003050205--
+```

@@ -1,0 +1,51 @@
+From phishing@malicious.com Sat Jun 29 12:34:56 2024
+Return-Path: <security@bank.com>
+Delivered-To: victim@example.com
+Received: from mail.malicious.org (mail.malicious.org [203.0.113.45])
+    by mailproxy.example.com with ESMTP id X1Y2Z3
+    for <victim@example.com>; Sat, 29 Jun 2024 12:34:56 -0400 (EDT)
+Date: Sat, 29 Jun 2024 12:34:56 -0400
+From: "Security Team" <security@bank.com>
+Reply-To: <support@malicious.org>
+To: victim@example.com
+Subject: URGENT: Password Reset Required for Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============1234567890=="
+
+--===============1234567890==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in attempt on your account. Immediate action is required to secure your account. Your password expires today – reset immediately to prevent unauthorized access.
+
+Click here to verify now:
+https://bank.com/security-check
+
+If you do not reset your password within 24 hours, your account will be locked.
+
+Thank you,
+Security Team
+
+--===============1234567890==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Password Expires Today</title></head>
+<body>
+<p>Dear User,</p>
+<p style="color:red;"><strong>Unusual sign-in detected &mdash; verify now!</strong></p>
+<p>Your <em>account</em> is at risk. Your password expires <strong>today</strong>&mdash;reset <u>immediately</u> to avoid <span style="color:red;">unauthorized access</span>.</p>
+<p>Verify your identity here:</p>
+<ul>
+<li><a href="http://malicious.evil/reset-password">https://bank.com/reset-password</a></li>
+<li><a href="http://malicious.evil/verify">Click to verify</a></li>
+<li><a href="http://malicious.evil/login"></a></li>
+</ul>
+<p>If you fail to reset your password in the next few hours, your account will be locked.</p>
+<p>Regards,<br/>Security Team</p>
+</body>
+</html>
+--===============1234567890==--

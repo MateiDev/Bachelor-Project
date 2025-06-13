@@ -1,0 +1,33 @@
+From - Wed Oct 25 14:23:02 2023
+X-Account-Key: account1
+X-UIDL: UID12345
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <notification@taxrefund.com>
+Delivered-To: recipient@example.com
+Received: by 10.0.0.1 with SMTP id a123csp789456; Wed, 25 Oct 2023 14:22:57 -0700 (PDT)
+X-Received: by 10.0.1.2 with SMTP id b432ljx456789; Wed, 25 Oct 2023 14:22:57 -0700 (PDT)
+Authentication-Results: mx.example.com; spf=pass (example.com: domain of notification@taxrefund.com designates 192.0.2.1 as permitted sender) smtp.mailfrom=notification@taxrefund.com
+Message-ID: <1234567890.12345.67890@taxrefund.com>
+Date: Wed, 25 Oct 2023 21:22:57 +0000
+From: "Tax Refund Notification" <notification@taxrefund.com>
+To: recipient@example.com
+Subject: Urgent: Confirm Your Tax Refund Details Now
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <p>Dear Valued Customer,</p>
+    <p>We are pleased to inform you that you have a pending tax refund of $489.23. To ensure the refund is credited to your account, please confirm your bank details at the earliest.</p>
+    <p>Click <a href="http://192.0.2.254/refund" onmouseover="this.style.color='#0000FF'">here</a> to access the secure refund confirmation page.</p>
+    <p>This link will redirect you to our secure processing page: <a href="http://192.0.2.254/refund">www.tax-refund-secure.com/process</a>.</p>
+    <p>For your reference, our privacy policy and help pages are below:</p>
+    <ul>
+        <li><a href="http://www.taxrefund-help.com/privacy">Privacy Policy</a></li>
+        <li><a href="http://www.taxrefund-help.com/help">Help</a></li>
+    </ul>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>The Tax Refund Processing Team</p>
+</body>
+</html>

@@ -1,0 +1,47 @@
+From support@securebank.com Fri Oct 13 09:23:45 2023
+Return-Path: <support@securebank.com>
+Received: from mail.securebank.com (mail.securebank.com [192.0.2.5]) by mx.provider.com with ESMTP id ABC12345 for <user@example.com>; Fri, 13 Oct 2023 09:23:45 -0400
+Date: Fri, 13 Oct 2023 09:23:45 -0400
+From: "SecureBank Support" <support@securebank.com>
+Reply-To: service@helpdesk-actions.net
+To: user@example.com
+Subject: Important: Unusual sign-in detected—verify now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XXXXboundarytext"
+
+--XXXXboundarytext
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your SecureBank account. Your password expires today and immediate action is required to prevent your account from being suspended.
+
+To secure your account, please visit the link below:
+https://securebank.com/reset-password
+
+If you do not verify now, your account will be locked.
+
+Thank you,
+SecureBank Support
+
+--XXXXboundarytext
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red; font-weight:bold;">Urgent: Unusual sign-in detected—verify now</p>
+<p>We have noticed suspicious activity on your SecureBank account. <strong>Your password expires today – reset immediately</strong> to avoid suspension.</p>
+<p><a href="http://secure-update.login.verify-account.info/verify"><img src="https://securebank.com/images/security-alert.png" alt="Security Alert" style="border:none;"></a></p>
+<p>Verify your account by clicking the button above or by <a href="http://help.security.update-account.login.info">click here</a>.</p>
+<p>You can also verify immediately by clicking <a href="http://verify-now.security-center-update.info">here</a>.</p>
+<p>If that link doesn’t work, copy and paste the following into your browser:</p>
+<p><a href="http://login.securebank.com.verify.security-alert.info/reset">https://securebank.com/reset-password</a></p>
+<p style="color:red;">Failure to act within 12 hours will result in account suspension.</p>
+<p>Thank you,<br>SecureBank Support Team</p>
+</body>
+</html>
+
+--XXXXboundarytext--

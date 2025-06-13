@@ -1,0 +1,42 @@
+```
+From nobody@invalid Fri Oct  6 10:23:14 2023
+Return-Path: <customerservice@online-rewardcenter.com>
+Delivered-To: recipient@example.com
+Received: from 192.0.2.123 (192.0.2.123) by mail.example.com with SMTP;
+	 Fri, 6 Oct 2023 10:23:14 +0000
+Date: Fri, 06 Oct 2023 10:23:14 +0000
+From: Customer Service <customerservice@online-rewardcenter.com>
+Subject: Congratulations! You're eligible for a €500 voucher
+To: recipient@example.com
+Content-Type: multipart/alternative; boundary="boundary-text-1234567890"
+
+--boundary-text-1234567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear valued customer,
+
+You have been selected to receive a €500 gift card! Act fast to claim your prize by clicking on the link below. Offer valid for the next 24 hours only.
+
+Visit this link to claim: http://192.0.2.123/claim-reward
+
+Sincerely,
+The Reward Center Team
+
+--boundary-text-1234567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear valued customer,</p>
+  <p>You have been selected to receive a €500 gift card! Act fast to claim your prize by clicking on the link below. Offer valid for the next 24 hours only.</p>
+  <p><a href="http://192.0.2.123/claim-reward">              </a></p>
+  <p>Visit this <a href="http://192.0.2.123/claim-reward">link</a> to claim.</p>
+  <p>For further information, feel free to <a href="http://www.official-website.com/help">visit our help page</a> or read our <a href="http://www.official-website.com/privacy-policy">privacy policy</a>.</p>
+  <p>Sincerely,<br>The Reward Center Team</p>
+</body>
+</html>
+
+--boundary-text-1234567890--
+```

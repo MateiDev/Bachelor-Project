@@ -1,0 +1,29 @@
+From rewards@company.com Fri Jul 21 10:15:00 2023
+Date: Fri, 21 Jul 2023 10:15:00 +0100
+From: "Rewards Center" <rewards@company.com>
+To: user@domain.com
+Subject: Urgent: Claim Your €100 Gift Voucher
+Reply-To: claims@urgent-dept.net
+Message-ID: <20230721101500.12345@company.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <h2>Urgent: Claim Your €100 Gift Voucher</h2>
+    <p>Dear valued member,</p>
+    <p>Our system shows that you are eligible for a <strong>€100 voucher</strong>. This is a <strong>limited-time</strong> offer and will expire in 24 hours. Act now to avoid losing this reward!</p>
+    <p>Click <a href="http://account.verify.security.modal-status.com/claim">here</a> to redeem immediately.</p>
+    <p>If you prefer, visit this IP address directly: <a href="http://192.0.2.123/voucher">Voucher Redeem</a></p>
+    <p>Or paste into your browser: <a href="http://45.76.123.34/voucher"></a></p>
+    <p>For secure confirmation, go to <a href="http://malicious-central.net/confirm">https://secure.company.com/confirm</a></p>
+    <p>
+      <a href="http://support.company-services.co.uk/privacy-policy.html">Privacy Policy</a> |
+      <a href="http://help.company.com">Help Center</a>
+    </p>
+    <p>Failure to claim may result in forfeiture of your voucher.</p>
+    <br>
+    Regards,<br>
+    Rewards Center
+  </body>
+</html>

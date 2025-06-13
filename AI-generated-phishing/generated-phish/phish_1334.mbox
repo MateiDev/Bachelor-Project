@@ -1,0 +1,24 @@
+From security@securemail.com Mon Jun 10 12:34:56 2024
+Return-Path: <security@securemail.com>
+Received: from securemail.com (securemail.com [198.51.100.23]) by mail.example.org with ESMTP id ABC123 for <user@example.com>; Mon, 10 Jun 2024 12:34:56 -0400
+From: "SecureMail Alerts" <security@securemail.com>
+Reply-To: support@securemail-alert.com
+Subject: URGENT: Encrypted Secure-Mail Notice – Immediate Verification Required
+To: user@example.com
+Date: Mon, 10 Jun 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Critical Alert:</strong> We have detected a failure in the encryption process of your incoming secure-mail.</p>
+    <p>Your account security is at risk. Immediate verification is required to prevent loss of access.</p>
+    <p>To review the encrypted message, please click the link below:</p>
+    <p><a href="http://192.0.2.123/verify">https://secure.portal.bank-login.com/account.security/verify</a></p>
+    <p>If the link above does not work, <a href="http://192.0.2.123/verify">click here</a> to access your secure mailbox now.</p>
+    <p><a href="http://203.0.113.45/policy"></a></p>
+    <p>For assistance, visit our <a href="https://securemail.com/help">help center</a> or review our <a href="https://securemail.com/privacy-policy">Privacy Policy</a>.</p>
+    <p><em>This is an automated notification. Reply within 24 hours to avoid account suspension.</em></p>
+  </body>
+</html>

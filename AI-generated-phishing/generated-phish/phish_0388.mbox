@@ -1,0 +1,39 @@
+```mbox
+From phishing@example.com Mon Oct 23 14:23:43 2023
+Return-Path: <phishing@example.com>
+Date: Mon, 23 Oct 2023 15:23:43 +0100
+From: "Security Alert" <alert@example.com>
+To: user@example.org
+Subject: Important: Unusual Sign-in Activity
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+We've detected unusual sign-in activities on your account. Please verify your account to avoid suspension.
+
+http://security-verify.example.com/account-review
+
+Sincerely,
+Security Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We've detected unusual sign-in activities on your account. Please verify your account to avoid suspension.</p>
+    <p><a href="http://security-update.domainverify-safety.example.com/account-review"><img src="http://example.com/images/verify-button.jpg" alt="Verify Now"></a></p>
+    <hr>
+    <p>Alternatively, you can <a href="http://verify.session-login-updateSafe.example.org/secure">click here</a> for more details.</p>
+    <p>Don't hesitate to check our <a href="http://example.com/privacy-policy">Privacy Policy</a> or <a href="">Help</a>.</p>
+    <p>Sincerely,</p>
+    <p>Security Team</p>
+  </body>
+</html>
+--boundary-string--
+```

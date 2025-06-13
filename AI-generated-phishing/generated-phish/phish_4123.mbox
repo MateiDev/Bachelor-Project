@@ -1,0 +1,55 @@
+From rewards@promo-specials.com Mon Jun 20 10:00:00 2024
+Return-Path: <noreply@promo-specials.com>
+Received: from internal-server.promo-specials.com (internal-server.promo-specials.com [192.168.1.10])
+    by mail.promo-specials.com with ESMTP id ABC12345
+    for <victim@user.com>; Mon, 20 Jun 2024 10:00:00 +0200
+From: "Rewards Team" <rewards@promo-specials.com>
+Reply-To: support@securealerts.com
+To: victim@user.com
+Subject: URGENT: Verify Your Account Now to Claim €100 Voucher
+Message-ID: <20240620001.promo@promo-specials.com>
+Date: Mon, 20 Jun 2024 10:00:00 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============XYZ==="
+
+--===============XYZ===
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+You are eligible for a €100 voucher. Please verify your account to claim your reward. Copy and paste the link below into your browser:
+
+http://secure.promo-specials.com/verify.account.info
+
+If you have any questions, refer to our Privacy Policy: http://promo-specials.com/privacy-policy
+
+Thank you,
+Rewards Team
+
+--===============XYZ===
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Verification Urgent</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>You’re eligible for a <strong>€100 voucher</strong>. To claim your reward, <a href="http://193.201.23.45/redeem">click here</a> now!</p>
+  <p>Or copy/paste this link:<br/>
+     <a href="http://172.16.254.1/track">http://secure.promo-specials.com/verify.account.info</a>
+  </p>
+  <p>Or use our quick link: <a href="http://45.77.123.11/steal">http://update.promo-specials.com/claim.voucher</a></p>
+  <p><img src="http://promo-specials.com/images/voucher.png" alt="Voucher Image" width="600" height="200" usemap="#voucher-map"/></p>
+  <map name="voucher-map">
+    <area shape="rect" coords="0,0,600,200" href="http://203.120.223.10/gift" alt="Redeem Voucher"/>
+  </map>
+  <p>Need help? <a href="http://promo-specials.com/help">Help Center</a> | <a href="http://promo-specials.com/privacy-policy">Privacy Policy</a></p>
+  <p>Empty link: <a href="http://45.77.123.11/track"></a></p>
+</body>
+</html>
+
+--===============XYZ===--
+

@@ -1,0 +1,46 @@
+From alerts@securemail.com Mon Jun 24 10:00:00 2024
+Return-Path: <alerts@securemail.com>
+Received: from mail.securemail.com (mail.securemail.com [192.0.2.1]) by mx.google.com with ESMTP id abc123; Mon, 24 Jun 2024 10:00:02 -0400 (EDT)
+Date: Mon, 24 Jun 2024 10:00:00 -0400
+From: SecureMail Alerts <alerts@securemail.com>
+Reply-To: support@service-update.net
+To: user@clientdomain.com
+Subject: [URGENT] Account Verification Required - Password Expiring Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456789"
+
+----=_Part_0_123456.7890123456789
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected an unusual sign-in attempt on your SecureMail account. Your password expires today. Action required: verify your account and reset your password immediately to avoid suspension.
+
+Please visit the following link to verify now:
+https://securemail.com/verify?user=123
+
+If the above link does not work, copy and paste this URL into your browser:
+https://secure.reset.mail-server.co.uk/reset?token=abc123
+
+Failure to act immediately will result in account suspension.
+
+Sincerely,
+SecureMail Security Team
+
+----=_Part_0_123456.7890123456789
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We detected an <b>unusual sign-in</b> attempt on your SecureMail account. Your <b>password expires today</b>. <span style="color:red;">Action required: verify now and reset immediately</span> to avoid suspension.</p>
+    <p>Click here to verify: <a href="https://malicious-domain.net/verify?user=123">https://securemail.com/verify?user=123</a></p>
+    <p>Or click here to reset: <a href="https://secure.reset.mail-server.co.uk/reset?token=abc123"></a></p>
+    <p>Failure to act immediately will result in account suspension.</p>
+    <p>Sincerely,<br>SecureMail Security Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.7890123456789--

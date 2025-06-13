@@ -1,0 +1,43 @@
+```
+From - Mon Oct 23 14:22:01 2023
+Return-Path: <security-notice@trusted-portal.com>
+Delivered-To: victim@example.com
+Received: from mail.trusted-portal.com (mail.trusted-portal.com [192.0.2.5])
+	by mail.example.com with ESMTP id m23NMBtp027169
+	for <victim@example.com>; Mon, 23 Oct 2023 14:22:01 -0700 (PDT)
+To: victim@example.com
+From: Trusted Portal Security Team <no-reply@trustedalerts.com>
+Reply-To: support@emergency-access.com
+Subject: Urgent: Immediate Action Required to Secure Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+Your account has been compromised and immediate verification is required to prevent suspension. Please click the link below to secure your account:
+
+[Secure Your Account](http://192.168.1.1/account/verify)
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head></head>
+<body>
+<p>Dear User,</p>
+<p>Your <b>account</b> has been compromised, and immediate <b>action</b> is required to prevent <b>suspension</b>. Please click below to <b>secure</b> your account immediately:</p>
+
+<p><a href="http://192.168.1.1/account/verify"><img src="http://192.168.1.1/images/secure-now.png" alt="Secure Now"></a></p>
+
+<p>For more information, visit our <a href="http://www.trusted-portal.com/privacy-policy">privacy policy</a> or visit <a></a> for FAQs.</p>
+
+<p>Regards,<br>
+Trusted Portal Security Team</p>
+</body>
+</html>
+
+--boundary123--
+```

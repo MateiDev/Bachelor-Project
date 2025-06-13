@@ -1,0 +1,42 @@
+```
+From - Thu Oct 19 11:00:00 2023
+Return-Path: <noreply@giftrewards.com>
+Delivered-To: user@example.com
+Received: from mail.giftrewards.com (mail.giftrewards.com [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 1234567890A
+    for <user@example.com>; Thu, 19 Oct 2023 11:00:00 +0000 (UTC)
+Reply-To: rewards@claimcenter.com
+Date: Thu, 19 Oct 2023 11:00:00 +0000
+From: Gift Rewards <noreply@giftrewards.com>
+Subject: URGENT: Claim Your €1000 Gift Card Now!
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset=UTF-8
+
+Congratulations!
+You’re eligible for an exclusive €1000 gift card. Act now before it expires!
+
+Claim your reward here: [http://www.genuine-gifts.com](http://fake-coupon.com)
+[Unsubscribe Here](http://unsubscribe-fake-link.com)
+
+--
+
+boundary-string
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <h2>Congratulations!</h2>
+    <p>You’re eligible for an exclusive <strong>€1000 gift card</strong>. <em>Act fast!</em> This offer expires soon.</p>
+    <p>Click the link to claim your reward:</p>
+    <a href="http://fake-coupon.com"><img src="https://images.fake-coupon.com/banner.jpg" alt="Claim Now"/></a>
+    <p><a href="http://unsubscribe-fake-link.com"></a></p>
+    <p>To ensure you continue receiving our exclusive offers, add us to your safe senders list.</p>
+</body>
+</html>
+
+--boundary-string--
+```

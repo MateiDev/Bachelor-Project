@@ -1,0 +1,68 @@
+From - Mon Oct 23 14:28:43 2023
+X-GM-THRID: 1533339815641234567
+X-Gmail-Labels: Import
+Delivered-To: victim@example.com
+Received: by 2002:a9c:6742:0:0:0:0:0 with SMTP id b66csp658883iod;
+        Mon, 23 Oct 2023 07:28:43 -0700 (PDT)
+X-Received: by 2002:a0c:d382:: with SMTP id b129mr20283065qke.4.1698067723292;
+        Mon, 23 Oct 2023 07:28:43 -0700 (PDT)
+Return-Path: <urgent.notification@example.com>
+Received: from mail.evilphishingsite.com (mail.evilphishingsite.com. [192.168.1.1])
+        by mx.google.com with ESMTPS id o9si12345678qka.61.2023.10.23.07.28.42
+        for <victim@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 23 Oct 2023 07:28:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of urgent.notification@example.com designates 192.168.1.1 as permitted sender) client-ip=192.168.1.1;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@example.com header.s=2023 header.b="abc1234";
+       spf=pass (google.com: domain of urgent.notification@example.com designates 192.168.1.1 as permitted sender) smtp.mailfrom=urgent.notification@example.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=example.com
+Received: by mail.evilphishingsite.com (Postfix, from userid 12345)
+	id DB123XYZ456; Mon, 23 Oct 2023 10:28:42 -0400 (EDT)
+To: victim@example.com
+From: "Customer Support" <urgent.notification@example.com>
+Reply-To: rewards@example.com
+Subject: Urgent: Claim your €1000 Reward Voucher Now!
+Message-ID: <123456abcd.1234.abcde@evilphishingsite.com>
+Date: Mon, 23 Oct 2023 10:28:42 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_1234567_1234567890.1234567890123"
+
+------=_Part_1234567_1234567890.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+You've been selected to receive a €1000 reward voucher. This is a limited-time offer, act now to claim your prize before it's too late.
+
+Urgent links for claiming your voucher:
+1. http://www.notrealwebsite.com/claim
+2. http://www.safe-site.com 
+
+Please contact our support team for more details by visiting our website.
+
+Best,
+Customer Support Team
+
+------=_Part_1234567_1234567890.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Urgent: Claim your Voucher</title>
+</head>
+<body>
+  <h2>Congratulations!</h2>
+  <p>You've been selected to receive a <strong>€1000 reward voucher</strong>. This is a <em>limited-time offer</em>, act <strong>now</strong> to claim your prize before it's <strong>too late</strong>.</p>
+  <p>Click <a href="http://www.evilphishingsite.com/claim">here</a> to claim your voucher.</p>
+  <a href="http://www.evilphishingsite.com/claim"><img src="cid:rewardvoucher" alt="Claim your reward"></a>
+  <p>For your reference, visit our <a href="http://www.safe-site.com">privacy policy</a>.</p>
+  <p>For more details, please visit our <a href="http://www.safe-site.com">homepage</a> or contact <a href="mailto:rewards@example.com"></a>.</p>
+  <p>Best,<br>Customer Support Team</p>
+</body>
+</html>
+
+------=_Part_1234567_1234567890.1234567890123--

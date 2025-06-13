@@ -1,0 +1,47 @@
+From support@paypal.com Wed Mar  1 12:34:56 2023
+Return-Path: <support@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.1])
+	by mx.domain.com with ESMTP id ABC123DEF
+	for <user@domain.com>; Wed,  1 Mar 2023 12:34:56 +0000
+From: PayPal <support@paypal.com>
+Reply-To: security@verify-login.com
+Subject: URGENT: Account Password Verification Needed
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_12345"
+
+------=_Boundary_12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal Customer,
+
+We have detected unusual activity on your account. Please verify your account immediately by signing in:
+http://192.168.0.55/secure-login
+
+Alternatively, click here to update your password:
+http://login.paypal.security-update.verify-account.login.validation.com/reset
+
+Failure to comply within 24 hours will result in permanent account suspension.
+
+PayPal Security Team
+
+------=_Boundary_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear PayPal Customer,</p>
+<p>We have detected unusual activity on your <strong>account</strong>. To ensure your security, you must <strong>verify your account immediately</strong> by signing in through our secure server.</p>
+<p><a href="http://192.168.0.55/secure-login">Sign In Now</a></p>
+<p>Alternatively, <a href="http://login.paypal.security-update.verify-account.login.validation.com/reset">click here</a> to update your password.</p>
+<p>Read our <a href="https://paypal.com/privacy">Privacy Policy</a> or contact <a href="mailto:support@paypal.com">Help</a>.</p>
+<p>Or simply click the image below:</p>
+<p><a href="http://login.login.secure-paypal.account-confirmation.info"><img src="http://157.47.53.19/images/secure_login.png" alt="Secure Login" /></a></p>
+<p>Failure to comply within 24 hours will result in <strong>permanent account suspension</strong>.</p>
+<p><a href="http://188.123.45.67/update"></a></p>
+</body>
+</html>
+
+------=_Boundary_12345--

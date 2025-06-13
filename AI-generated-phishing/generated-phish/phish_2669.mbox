@@ -1,0 +1,61 @@
+```
+From - Sat Oct  7 12:00:00 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: by 10.140.28.1 with SMTP id z1csp204545qge;
+        Sat, 7 Oct 2023 12:00:00 -0700 (PDT)
+X-Received: by 2002:a05:6d23:c128:: with SMTP id s189mr5237444qka.20.1696696800000;
+        Sat, 7 Oct 2023 12:00:00 -0700 (PDT)
+Received: from unknown (21.89.202.138) by smtp.spam.com with ESMTP id j1si6547890qka.32.2023.10.07.12.00.00;
+        Sat, 7 Oct 2023 12:00:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of alert@fakeportal.com designates 21.89.202.138 as permitted sender) client-ip=21.89.202.138;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@fakeportal.com;
+       spf=pass (google.com: domain of alert@fakeportal.com designates 21.89.202.138 as permitted sender) smtp.mailfrom=alert@fakeportal.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=QUARANTINE) header.from=fakeportal.com
+Received: by 10.200.200.1 with SMTP id e9shACBCDE1.3.2023.10.07.12.00.00;
+        Sat, 7 Oct 2023 12:00:00 -0700 (PDT)
+MIME-Version: 1.0
+From: Portal Security <alert@fakeportal.com>
+To: victim@example.com
+Date: Sat, 7 Oct 2023 12:00:00 -0700
+Subject: Urgent Account Alert: Immediate Action Required for Secure Access
+Content-Type: multipart/alternative; boundary=00000000000012345678
+Reply-To: noreply@security.com
+
+--00000000000012345678
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+Important: Your account is at risk of temporary suspension. Verify now at this secure link: http://192.133.45.66/view/security. 
+
+Thank you, 
+Security Team
+
+--00000000000012345678
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>Important: Your account is at risk of temporary suspension. Click <a href="http://192.133.45.66/view/security">here</a> to verify now using our secure portal.</p>
+
+<table border="0" cellpadding="5" cellspacing="0" align="center">
+  <tr>
+    <td align="center">
+      <a href="http://192.133.45.66/view/security"><img src="http://fakeportal.com/logo.png" alt="Secure Portal" width="200" height="50"></a>
+    </td>
+  </tr>
+</table>
+
+<p></p>
+
+<p>Thank you, <br>
+Security Team</p>
+
+</body>
+</html>
+--00000000000012345678--
+```

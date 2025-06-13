@@ -1,0 +1,21 @@
+From noreply@banktax.gov Mon Jul 10 12:34:56 2023
+Subject: Urgent: Account Refund Confirmation Required
+From: "Bank Tax Department" <noreply@banktax.gov>
+Reply-To: support@banktax-refunds.com
+To: user@acme.com
+Date: Mon, 10 Jul 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p><strong>Urgent action required:</strong> You have a pending tax refund of <strong>$72.15</strong>. To receive your refund, please confirm your bank details <em>immediately</em>. Failure to respond may result in account suspension and delay of your refund.</p>
+    <p>Please <a href="http://198.51.100.23/confirm">click here</a> to verify your account now.</p>
+    <p>Alternatively, visit <a href="http://malicious-login.com/login">https://secure.banktax.gov/login</a> to update your password.</p>
+    <p>For account support, see our <a href="https://banktax.gov/privacy-policy.html">privacy-policy</a>.</p>
+    <p><a href="https://secure.tax.bankgov.co.uk/confirm"></a></p>
+    <p>If you have any questions, reply to this email or contact support via <a href="http://203.0.113.45/support">http://tax-support.bank.gov</a>.</p>
+    <p>Thank you,<br>Bank Tax Department</p>
+  </body>
+</html>

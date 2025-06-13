@@ -1,0 +1,44 @@
+From phishing@dhltracker.net Sat Jul 27 12:34:56 2024
+Return-Path: <phishing@dhltracker.net>
+Received: from smtp.dhlupdate.com (smtp.dhlupdate.com [192.0.2.45]) by mail.domain.com with ESMTP id ABC123 for <victim@domain.com>; Sat, 27 Jul 2024 12:34:56 -0400 (EDT)
+From: "DHL Delivery" <no-reply@dhltracker.net>
+Reply-To: support@dhl-customers.com
+To: victim@domain.com
+Subject: Urgent: Account Password Verification Required
+Date: Sat, 27 Jul 2024 16:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+
+------=_Part_123456_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery is currently on hold due to missing confirmation. To avoid permanent return of your parcel, please verify your account details immediately by following the link below:
+
+https://www.dhl.com/track
+
+Failure to complete verification within 24 hours will result in cancellation of your delivery.
+
+Best Regards,
+DHL Delivery Department
+
+------=_Part_123456_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;font-weight:bold;">Urgent: Your parcel delivery is <u>on hold</u> due to <strong>unverified details</strong>. Immediate action is required!</p>
+    <p>Please <a href="http://192.0.2.123/verify?uid=74bcaf">click here</a> to confirm your delivery information. If you do not verify within 24 hours, your package will be returned to the sender.</p>
+    <p>Alternatively, you can track your shipment at <a href="http://login.dhl.com.urgent-update.systems/track?ref=8d1f3a">https://www.dhl.com/track</a>.</p>
+    <p><a href="http://203.0.113.77/secret"></a></p>
+    <p>For details on our terms, visit our <a href="http://privacy.dhlupdate.net/policy">Privacy Policy</a> or <a href="http://help.dhlsupport.com/contact">Help Center</a>.</p>
+    <p>Thank you,<br/>
+       DHL Delivery Team</p>
+  </body>
+</html>
+
+------=_Part_123456_abcdef--

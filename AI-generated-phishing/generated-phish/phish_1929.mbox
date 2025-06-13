@@ -1,0 +1,24 @@
+From no-reply@dhl.com Wed Jan 18 09:32:17 2023
+From: "DHL Express" <no-reply@dhl.com>
+Reply-To: "Customer Support" <support@parcelrelease.com>
+To: victim@example.com
+Subject: Urgent: Account Password Verification Required
+Date: Wed, 18 Jan 2023 09:32:17 -0500
+Message-ID: <20230118093217.abcdef@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We regret to inform you that your recent shipment is on hold due to incomplete account verification. To avoid further delay, please verify your account password immediately and pay a release fee of $1.99.</p>
+    <p>You can verify your shipment by following one of the options below:</p>
+    <ul>
+      <li>Instant Verification: <a href="http://192.0.2.123/verify">https://dhl.com/verify</a></li>
+      <li>Pay Fee and Release: <a href="http://203.0.113.5/parcel/verify"><img src="http://203.0.113.5/assets/track.png" alt="Track Your Package" style="border:0;"></a></li>
+      <li>Alternative Link: <a href="http://phishingsite.com/modal">here</a></li>
+    </ul>
+    <p>If you have any questions, click <a href="http://198.51.100.23/support"></a> to contact our support team.</p>
+    <p>Thank you for choosing DHL Express.</p>
+  </body>
+</html>

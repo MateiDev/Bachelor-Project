@@ -1,0 +1,41 @@
+```
+From fake-tax@example.com Fri Oct 20 14:19:00 2023
+Return-Path: <fake-tax@example.com>
+Delivered-To: victim@example.com
+Received: from suspicious-ip [192.168.1.10] by mail.example.com with SMTP; Fri, 20 Oct 2023 14:19:00 -0000
+Date: Fri, 20 Oct 2023 14:18:36 -0000
+From: "Tax Refund Agency" <fake-tax@example.com>
+Subject: Urgent: Pending Tax Refund Notification
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We tried to send the refund to your bank account, but were unable to complete the transaction due to incorrect information. To avoid penalties and ensure you receive your refund, please confirm your bank details immediately by following this link: 
+
+http://192.168.1.20/secureform
+
+Failure to act within 24 hours will result in the loss of your refund.
+
+Sincerely,
+Tax Refund Processing
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We tried to send the refund to your bank account, but were unable to complete the transaction due to incorrect information. To avoid penalties and ensure you receive your refund, please confirm your bank details immediately by following this link:</p>
+<p><a href="http://192.168.1.20/secureform"><img src="http://192.168.1.20/refund.png" alt="Refund Now"/></a></p>
+<p style="color:red;">Failure to act within 24 hours will result in the loss of your refund.</p>
+<p><img src="http://192.168.1.21/tracking.png" alt="" /></p>
+<p>Sincerely,<br>Tax Refund Processing</p>
+</body>
+</html>
+
+--boundary123--
+```

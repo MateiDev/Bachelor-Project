@@ -1,0 +1,64 @@
+From support@linkedin.com Wed Mar 15 10:00:00 2023
+Return-Path: <support@linkedin.com>
+Received: by mail.linkedin.com with SMTP id abc123; Wed, 15 Mar 2023 10:00:00 +0000
+Date: Wed, 15 Mar 2023 10:00:00 +0000
+From: LinkedIn Support <support@linkedin.com>
+Reply-To: security-team@secure-alerts.com
+To: user@example.org
+Subject: URGENT: Account Password Verification Required
+Message-ID: <20230315100000.abc123@mail.linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your password will expire in 24 hours if not verified. Please click here to secure your account:
+
+http://linkedin.com/security
+
+If you do not act soon, your account will be locked.
+
+Thank you,
+LinkedIn Security Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>URGENT: Account Password Verification</title>
+  </head>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;"><strong>Your account security is at risk!</strong></p>
+    <p>Your password will <em>expire in 24 hours</em> if you do not verify it now.</p>
+    <p>Please <a href="http://secure-login.verify-account.com/">here</a> to secure your account.</p>
+    <p>
+      Or copy and paste this link into your browser:<br/>
+      <a href="http://phishingportal.alerts-login.com/verify">https://linkedin.com/security</a>
+    </p>
+    <p>If you do not act immediately, your account will be locked permanently.</p>
+    <p>
+      <a href="http://secure-login.verify-account.com/">
+        <img src="http://images.verify-account.com/logo.png" alt="LinkedIn" width="200" height="50" />
+      </a>
+    </p>
+    <p>
+      <a href="http://modal-domain.portal-link.com/alert"></a>
+    </p>
+    <hr/>
+    <p>
+      Need help? Visit our
+      <a href="https://help.docs.linkedin.com">Help Center</a> or read the
+      <a href="https://privacy-policy.linkedin.com">Privacy Policy</a>.
+    </p>
+    <p>LinkedIn Security Team</p>
+  </body>
+</html>
+
+--==BOUNDARY==--

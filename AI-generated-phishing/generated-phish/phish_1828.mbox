@@ -1,0 +1,59 @@
+From support@paypal.com Sat Jul 29 08:15:07 2023
+X-Message-Id: <20230729081507.abcdefg@paypal.com>
+From: PayPal Support <support@paypal.com>
+Reply-To: security-team@paypal-secured.net
+To: user@domain.com
+Subject: URGENT: Your account will be LIMITED within 24 hours!
+Date: Sat, 29 Jul 2023 08:15:07 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal user,
+
+We detected unauthorized login attempts on your account and it has been temporarily locked for your protection. You must verify your identity IMMEDIATELY to avoid permanent suspension.
+
+Please click one of the secure links below to restore access:
+
+• http://192.0.2.1/auth
+• https://signin.pay-pal.verify.account.com.login-confirm.net/
+
+WARNING: Failure to act within 12 hours will result in account closure.
+
+Thank you for your prompt attention.
+
+Sincerely,
+PayPal Account Security Team
+
+----=_NextPart_000_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear PayPal user,</p>
+    <p><b style="color:red;">Your account has been <i>locked</i> due to suspicious activity!</b><br>
+    Immediate <u>action required</u> to avoid permanent suspension.</p>
+    <p>Please verify your account NOW:</p>
+    <p>
+      <a href="http://203.0.113.5/login">
+        <img src="http://203.0.113.5/images/paypal_logo.png" alt="PayPal Secure Login" border="0">
+      </a>
+    </p>
+    <p>Or click here: 
+      <a href="https://secure.paypal-login.cc/verify">https://secure.paypal-login.cc/verify</a>
+    </p>
+    <p>Authorized links:</p>
+    <ul>
+      <li><a href="http://192.0.2.1/auth">http://192.0.2.1/auth</a></li>
+      <li><a href="https://signin.pay-pal.verify.account.com.login-confirm.net/">https://signin.pay-pal.verify.account.com.login-confirm.net/</a></li>
+    </ul>
+    <p>Thank you,<br>
+    PayPal Security Department</p>
+  </body>
+</html>
+
+----=_NextPart_000_001--

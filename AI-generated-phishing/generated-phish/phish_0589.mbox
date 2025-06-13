@@ -1,0 +1,42 @@
+From rewards@amazon.co.uk Tue Jun 25 14:05:00 2024
+Return-Path: <rewards@amazon.co.uk>
+Delivered-To: user@domain.com
+Received: from mailserver.amazon.co.uk (mailserver.amazon.co.uk [203.0.113.10])
+	by inbound.domain.com with ESMTP id ABC123XYZ
+	for <user@domain.com>; Tue, 25 Jun 2024 14:05:00 +0200 (CEST)
+Message-ID: <20240625140500.54321@amazon.co.uk>
+Date: Tue, 25 Jun 2024 14:05:00 +0200
+From: Amazon Rewards <rewards@amazon.co.uk>
+To: user@domain.com
+Subject: Urgent: Account Security Alert – €100 Voucher Reward
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #d9534f;">Urgent: Account Locked</h2>
+    <p>Dear Customer,</p>
+    <p>We detected unusual activity on your Amazon account. To ensure your data remains secure, we’ve temporarily locked your account and require you to <strong>reset your password</strong> immediately.</p>
+    <p>As a goodwill gesture, you’re eligible for a <strong>€100 voucher</strong>—but you must claim it within 24 hours or it will expire!</p>
+    <p>
+      To recover your account and claim your voucher, please <a href="http://secure.payments.amazon-confirm.co.uk/claim">here</a>.
+    </p>
+    <p style="text-align: center;">
+      <a href="http://192.0.2.123/voucher">
+        <img src="http://203.0.113.45/images/voucher.jpg" alt="Claim Your €100 Voucher" style="border: none; max-width: 100%; height: auto;">
+      </a>
+    </p>
+    <p>If the button above does not work, copy and paste one of the links below into your browser:</p>
+    <ul>
+      <li>https://claim.modal-voucher.co.uk/secure/step1</li>
+      <li>http://203.0.113.45/reward/verify</li>
+    </ul>
+    <p>Please act now—failure to claim your voucher will result in automatic forfeiture, and prolonged inactivity may lead to permanent account suspension for your protection.</p>
+    <hr style="border: none; border-top: 1px solid #ccc;">
+    <p style="font-size: 0.9em; color: #666;">
+      Need help? Visit our Privacy Policy: https://www.amazon.com/privacy or Help Center: https://www.amazon.co.uk/help. These are official pages to review your options.
+    </p>
+    <p style="font-size: 0.9em; color: #666;">© 1996-2024, Amazon.com, Inc. or its affiliates</p>
+  </body>
+</html>

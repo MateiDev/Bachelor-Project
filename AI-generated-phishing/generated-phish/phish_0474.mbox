@@ -1,0 +1,37 @@
+```mbox
+From nobody Mon Oct  2 14:21:21 2023
+Return-Path: <fake-tax-refund@irs-services.com>
+Received: from unknown (HELO server.irs-services.com) (192.0.2.1)
+  by mail.example.com with SMTP; Mon, 2 Oct 2023 14:21:21 -0000
+Date: Mon, 2 Oct 2023 14:21:21 +0000
+From: "IRS Official" <fake-tax-refund@irs-services.com>
+Reply-To: refund-assistance@impostor-services.com
+Subject: Important: Final Notice For Your Tax Refund
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_7890123456789"
+
+------=_Part_123456_7890123456789
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have been trying to reach you regarding an outstanding tax refund. You are eligible for a refund of $599.99. However, we require you to confirm your bank details to process this amount. Please visit the following link to recover your payment: http://92.242.132.15/taxrefund. Failure to do so will result in the cancellation of this refund.
+
+Regards,
+IRS Support Team
+
+------=_Part_123456_7890123456789
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Taxpayer,</p>
+<p>We have been <strong>trying to reach you regarding an outstanding tax refund</strong>. You are eligible for a refund of <b>$599.99</b>. However, we require you to confirm your bank details to process this amount. Please visit the following link to recover your payment: <a href="http://92.242.132.15/taxrefund"></a>. Failure to do so will result in the cancellation of this refund.</p>
+<p><b><a href="http://192.0.2.2/update">Confirm Here</a></b></p>
+<p>Regards,<br>IRS Support Team</p>
+</body></html>
+
+------=_Part_123456_7890123456789--
+```

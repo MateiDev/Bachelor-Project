@@ -1,0 +1,47 @@
+From notification@dhl-express.com Fri Jun 21 10:00:00 2024
+Return-Path: <notification@dhl-express.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl-express.com (mail.dhl-express.com [203.0.113.45]) by mail.example.com with ESMTP id ABC123 for <victim@example.com>; Fri, 21 Jun 2024 10:00:00 +0000
+From: "DHL Express" <notification@dhl-express.com>
+Reply-To: support@dhl.com
+To: victim@example.com
+Subject: URGENT: Shipment Held! Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_12345"
+
+------=_Boundary_12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL package (Tracking ID: 123456789) is currently HELD due to unpaid duties. This is an URGENT ALERT to prevent further delay!
+
+To immediately release your package, please click the link below to pay the release fee:
+http://198.51.100.25/release.php?tracking=123456789
+
+Failure to act now may result in RETURN TO SENDER or additional storage charges.
+
+Thank you,
+DHL Customs Support Team
+
+------=_Boundary_12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <p>Dear Customer,</p>
+    <p style="color:#D8000C;font-size:16px;font-weight:bold;">URGENT ALERT: Your DHL package (<strong>123456789</strong>) is currently <em>HELD</em> due to unpaid duties.</p>
+    <p>To avoid additional fees or return, please <a href="http://203.0.113.10/release.php?tracking=123456789" style="color:#005EA6;text-decoration:none;">here</a> to complete payment <strong>IMMEDIATELY</strong>.</p>
+    <p style="margin:20px 0;">
+      <a href="http://verify.dhl.express.service.uk.secure-login.com/free-release?id=123456789">
+        <img src="http://203.0.113.10/images/dhl_banner.png" alt="DHL Express" style="border:none;width:600px;height:auto;">
+      </a>
+    </p>
+    <p>If the image above does not load, you can also <a href="http://verify.dhl.express.service.uk.secure-login.com/free-release?id=123456789" style="color:#005EA6;">click here</a> to release your package now and avoid FAILURE or RETURN TO SENDER.</p>
+    <p>Thank you,<br>DHL Customs Support Team</p>
+  </body>
+</html>
+
+------=_Boundary_12345--

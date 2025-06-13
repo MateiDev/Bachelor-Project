@@ -1,0 +1,46 @@
+From phishing-alert@secure-mail.com Mon Jul 15 12:34:56 2024
+Date: Mon, 15 Jul 2024 12:34:56 +0000
+From: SecureMail Alerts <security@secure-mail.com>
+Reply-To: support-team@anotherdomain.net
+To: user@company.com
+Subject: Urgent: Secure-Mail Access Suspended!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XXXXboundary_text"
+
+--XXXXboundary_text
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+DEAR USER,
+
+Your secure-mail access has been SUSPENDED due to suspicious activity.
+Immediate action is required to avoid PERMANENT ACCOUNT LOCKOUT.
+Please click the verification link to restore access:
+
+https://securemail.com/verify
+
+If you do not respond within 24 hours, your messages will be permanently deleted.
+
+--XXXXboundary_text
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;"><strong>URGENT SECURITY ALERT</strong></p>
+    <p>We detected unusual login attempts and your Secure-Mail account has been temporarily suspended. To <strong>avoid permanent lockout</strong>, verify your identity immediately by clicking the link below:</p>
+    <p>
+      <a href="http://192.0.2.45/secure-login">https://securemail.com/verify</a>
+    </p>
+    <p>
+      <a href="http://192.0.2.45/secure-login"></a>
+      Click on the blank link above if the URL is not visible.
+    </p>
+    <p>Need help? <a href="http://help.securemail.com/privacy">Privacy Policy</a> or click <a href="http://modal-secure.com">here</a> for assistance.</p>
+    <p>Failure to act within 24 hours will result in irreversible data loss.</p>
+    <p>Regards,<br/>SecureMail Security Team</p>
+  </body>
+</html>
+
+--XXXXboundary_text--

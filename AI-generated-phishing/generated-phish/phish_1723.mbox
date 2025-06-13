@@ -1,0 +1,49 @@
+From support@tax-refunds.gov Mon Sep 20 10:15:00 2023
+Return-Path: <support@tax-refunds.gov>
+Received: from mail.tax-refunds.gov (mail.tax-refunds.gov [192.0.2.1])
+    by mx.victim.com with ESMTP id ABC123
+    for <user@victim.com>; Wed, 20 Sep 2023 10:15:00 +0000 (UTC)
+Date: Wed, 20 Sep 2023 10:15:00 +0000
+From: "Tax Refunds Support" <support@tax-refunds.gov>
+Reply-To: <account-update@secure-update.com>
+To: user@victim.com
+Subject: URGENT: Confirm Your Account for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000007b3aa40501"
+
+--0000000000007b3aa40501
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our records indicate you have a pending tax refund of $85.00.
+To receive your refund, please confirm your bank details immediately:
+
+http://185.45.123.67/verify
+
+If you prefer, you can visit the official tax refunds portal:
+http://secure.taxrefunds.gov
+
+Sincerely,
+Tax Refunds Support
+
+--0000000000007b3aa40501
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <a href="http://185.45.123.67/verify">
+      <img src="https://tax-refunds.gov/logo.png" alt="Tax Department">
+    </a>
+    <p>Dear Customer,</p>
+    <p>Our records show you have a pending tax refund of <strong>$85.00</strong>.
+    To receive your refund, please <a href="http://185.45.123.67/verify">confirm your bank details</a> immediately. This is an <strong>urgent</strong> requirement.</p>
+    <p>Click <a href="http://192.0.2.123/update">here</a> to confirm now.</p>
+    <p>If you have any questions, see our <a href="https://www.tax-refunds.gov/privacy-policy">Privacy Policy</a> or <a href="https://www.tax-refunds.gov/help">Help Center</a>.</p>
+    <p>Alternatively, visit <a href="http://malicious.phish/confirm">http://www.tax-refunds.gov/update</a> to update your account information and password.</p>
+  </body>
+</html>
+
+--0000000000007b3aa40501--

@@ -1,0 +1,23 @@
+From security@yourbank.com Sat Jul 15 08:22:10 2023
+Return-Path: <security@yourbank.com>
+Date: Sat, 15 Jul 2023 08:22:10 +0200
+From: "YourBank Support" <security@yourbank.com>
+To: victim@mybank.com
+Subject: URGENT: Account Password Reset & Voucher Claim
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We have detected suspicious activity on your account and need you to confirm your password immediately to secure your access. As a token of our appreciation, you are also eligible for a <strong>€50 gift voucher</strong>! This offer is <em>highly time-sensitive</em>—you must act within the next <strong>24 hours</strong> or this reward will be permanently revoked.</p>
+<p><a href="http://malicious-claim.com/submit"><img src="http://malicious-claim.com/voucher-image.png" alt="Your €50 Voucher" border="0" /></a></p>
+<p>Confirm now: <a href="http://malicious-tracker.com/track"></a></p>
+<p>Or visit <a href="http://malicious-claim.com/verify">https://secure.yourbank.com/verify</a> to complete the process.</p>
+<p>To redeem, <a href="http://malicious-claim.com/redeem">click here</a> to claim your voucher instantly.</p>
+<p>If you have questions, please visit our <a href="https://www.yourbank.com/help">help center</a> or review our <a href="https://www.yourbank.com/privacy-policy">privacy policy</a>.</p>
+<p>Failure to comply immediately may lead to account suspension.</p>
+<p>Best regards,<br>YourBank Security Team</p>
+</body>
+</html>

@@ -1,0 +1,58 @@
+From no-reply@yourbank-secure.com Sat Oct  9 12:00:00 2021
+Return-Path: <no-reply@yourbank-secure.com>
+Received: from mail.yourbank-secure.com (mail.yourbank-secure.com [198.51.100.23])
+    by mx.google.com with ESMTP id abcdefg;
+    Sat, 09 Oct 2021 12:00:00 -0700 (PDT)
+Subject: Urgent: Verify your account password now and claim your voucher
+From: YourBank Secure <no-reply@yourbank-secure.com>
+To: victim@userdomain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000abc123"
+
+--000000000000abc123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We noticed an issue with your account security. To ensure uninterrupted service, please verify your account password immediately and claim your €50 voucher.
+
+Visit:
+https://secure.yourbank.com/login
+
+Or click here: http://free-vouchers.net/claim
+
+Thank you,
+YourBank Support Team
+
+--000000000000abc123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We noticed an issue with your <b>account</b> security. To ensure uninterrupted service, please verify your <i>password</i> immediately and claim your <span style="color:green;">€50 voucher</span>.</p>
+<p>
+<a href="http://login.verify.update.account-security.payments.net/claim"></a>
+</p>
+<p>
+Redeem now: 
+<a href="http://free-vouchers.net/claim">
+<img src="http://cdn.safecontent.net/banner.png" alt="Redeem Now" style="border:none;">
+</a>
+</p>
+<p>
+You can also log in at 
+<a href="http://malicious.attacker.ru/login">https://secure.yourbank.com/login</a>
+</p>
+<p>
+For more information, click <a href="http://free-vouchers.net/claim">here</a>.
+</p>
+<p>
+<a href="https://secure.yourbank.com/privacy-policy">Privacy Policy</a> | <a href="https://secure.yourbank.com/help">Help Center</a>
+</p>
+</body>
+</html>
+
+--000000000000abc123--

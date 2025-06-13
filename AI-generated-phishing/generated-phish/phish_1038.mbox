@@ -1,0 +1,35 @@
+From rewards@banksecure.com Fri Jan 27 10:00:00 2023
+Date: Fri, 27 Jan 2023 10:00:00 +0000
+From: Rewards Team <rewards@banksecure.com>
+To: user@domain.com
+Subject: Urgent Account Verification Required – Claim Your €50 Voucher Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We noticed unusual activity on your account. Immediate action is required to verify your information and claim your complimentary €50 voucher. Failure to comply within 24 hours will result in cancellation of your reward and possible account restrictions.
+
+To secure your voucher, visit https://secure.bank.com/rewards or click here: http://203.0.113.45/redeem
+
+Thank you,
+Rewards Team
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear User,</p>
+<p>We detected <strong>urgent</strong> and <strong>critical</strong> activity on your <strong>account</strong>. You must verify your password immediately to claim your complimentary <strong>€50 voucher</strong>. Failure to respond within <em>24 hours</em> will lead to immediate cancellation of your reward and <strong>account restrictions</strong>.</p>
+<p>Please <a href="http://203.0.113.45/redeem">click here</a> to secure your voucher now.</p>
+<p>For assistance, visit <a href="http://203.0.113.45/privacy"></a> our privacy policy or <a href="http://203.0.113.45/help">help</a>.</p>
+<p>Alternatively, you can go to <a href="http://203.0.113.45">https://secure.bank.com</a>.</p>
+<p>Best regards,<br>Rewards Team</p>
+</body></html>
+
+--BOUNDARY--

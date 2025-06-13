@@ -1,0 +1,40 @@
+```mbox
+From user-12345@example.com Sat Oct 21 10:32:01 2023
+Return-Path: <user-12345@example.com>
+Received: from unknown (HELO mail.example.com) (192.168.1.25)
+  by mail.example.com with SMTP; Sat, 21 Oct 2023 10:32:01 -0700
+Date: Sat, 21 Oct 2023 10:32:01 -0700
+From: Rewards Team <rewards@example.com>
+Subject: Urgent: Claim Your Reward Voucher Now!
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000c3887c05ef56c933"
+
+--000000000000c3887c05ef56c933
+Content-Type: text/plain; charset="UTF-8"
+
+Congratulations! As a valued customer, you're eligible for a €100 reward voucher. Click the link below to claim your gift:
+
+http://192.0.2.1/claim-reward
+
+Thank you for being with us!
+
+--000000000000c3887c05ef56c933
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <h2>Congratulations!</h2>
+    <p>As a valued customer, you&#39;re eligible for a <b>€100 reward voucher</b>. Click below to claim your gift:</p>
+    <a href="http://192.0.2.1/claim-reward" target="_blank">
+      <img src="http://example.com/images/reward.jpg" alt="Claim Your Reward">
+    </a>
+    <br>
+    Please visit our official site for more information: 
+    <a href="http://malicious-site.com" target="_blank">http://rewards.example.com</a>
+    <br>
+    Don't miss out on this limited offer!
+  </body>
+</html>
+
+--000000000000c3887c05ef56c933--
+```

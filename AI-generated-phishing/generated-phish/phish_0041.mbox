@@ -1,0 +1,40 @@
+```mbox
+From r3wards@promotions-rewards.com Fri Oct 20 09:00:00 2023
+Received: from 203.0.113.10 (203.0.113.10)
+        by mail.promotions-rewards.com with SMTP; Fri, 20 Oct 2023 09:00:00 -0700
+Message-ID: <001a113e64b84f4d8a0499a3b1c@promotions-rewards.com>
+Date: Fri, 20 Oct 2023 09:00:00 -0700
+From: Reward Support <r3wards@promotions-rewards.com>
+Reply-To: claim-now@uncertain-future.net
+Subject: URGENT: Claim Your €1000 Reward Now!
+To: undisclosed-recipients:;
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_0000_01D1_26A5DD20"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D1_26A5DD20
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Congratulations! You're eligible for a €1000 voucher. You must act quickly to claim this exclusive offer. Visit now: [Click here to claim][1]
+
+[1]: http://192.0.2.1/rewards
+
+Failure to claim your voucher within 24 hours will result in the loss of this incredible offer. Don't miss out on your chance to enjoy great savings!
+
+------=_NextPart_000_0000_01D1_26A5DD20
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Congratulations! You're eligible for a <strong>€1000 voucher</strong>. You must act quickly to claim this exclusive offer.</p>
+    <p>Visit now: <a href="http://192.0.2.1/rewards">http://rewards.promotions.com/claim</a></p>
+    <p>Failure to claim your voucher within <span style="color: red;">24 hours</span> will result in the loss of this incredible offer. Don't miss out on your chance to enjoy great savings!</p>
+  </body>
+</html>
+
+------=_NextPart_000_0000_01D1_26A5DD20--
+```

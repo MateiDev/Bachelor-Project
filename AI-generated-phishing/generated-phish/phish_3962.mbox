@@ -1,0 +1,48 @@
+From noreply@irs.gov Fri Mar 12 10:14:16 2021
+Return-Path: <noreply@irs.gov>
+Received: from irs.gov (mail.irs.gov [192.0.2.1])
+    by mx.example.com with ESMTP id abc123
+    for <user@example.com>; Fri, 12 Mar 2021 10:14:16 -0500 (EST)
+From: "IRS Notification" <noreply@irs.gov>
+Reply-To: "Support Team" <support@bank-secure.com>
+Subject: URGENT: Tax Refund Account Confirmation Required
+Date: Fri, 12 Mar 2021 10:14:16 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789"
+
+------=_Part_0_123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have detected that your federal tax refund is pending. You must confirm your bank account password immediately to avoid cancellation. Please verify your details by visiting the link below:
+
+http://secure.bank-login.update.phishingsite.com/confirm
+
+Failure to respond within 24 hours will result in the loss of your refund and may put your account at risk.
+
+Thank you,
+IRS E-Services Team
+
+------=_Part_0_123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Your federal tax refund is <strong>pending</strong>, but we require <span style="color:red">URGENT</span> <em>account</em> confirmation to proceed. Failure to comply within 24 hours will lead to cancellation and could put your <strong>account</strong> at risk.</p>
+    <p><a href="http://secure.bank-login.update.phishingsite.com/confirm">www.irs.gov</a></p>
+    <p><a href="http://modal-window.com"></a></p>
+    <p>
+      <a href="http://phishingsite.com/refund">
+        <img src="http://phishingsite.com/images/confirm-button.jpg" alt="Click here to confirm refund" />
+      </a>
+    </p>
+    <p>You can review our <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> or visit the <a href="https://www.irs.gov/help">Help Center</a>, or click <a href="http://malicious.example.com/login?session=123">here</a> to confirm your details immediately.</p>
+    <p>Best regards,<br/>IRS E-Services Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456789--

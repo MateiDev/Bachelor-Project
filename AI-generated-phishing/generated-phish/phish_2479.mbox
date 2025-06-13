@@ -1,0 +1,52 @@
+From no-reply@tax.gov Thu Apr  4 12:34:56 2024
+From: "IRS Tax Dept" <no-reply@tax.gov>
+To: user@example.com
+Subject: Urgent: Tax Refund - Confirm Your Account Details Immediately
+Date: Thu, 4 Apr 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_01D12345"
+
+------=_NextPart_000_0000_01D12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate you are eligible for a small tax refund of $54.32. This is a critical notice. To receive your refund, you must confirm your bank details immediately. Failure to act within 48 hours will result in cancellation of your refund.
+
+Please visit:
+http://tax.refund.confirmation.pay.gov/confirm
+or
+http://secure.bank.example.com.fake-site.org/verify
+
+Thank you,
+IRS Tax Dept
+
+------=_NextPart_000_0000_01D12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>urgent account password alert</title></head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+  <h2 style="color: #a00;">Immediate Action Required!</h2>
+  <p>Dear Taxpayer,</p>
+  <p>Our records indicate you are eligible for a small tax refund of <strong>$54.32</strong>. This is a <em>critical notice</em>. To receive your refund, you must confirm your bank details <strong>immediately</strong>. Failure to act within <span style="color: #a00;">48 hours</span> will result in cancellation of your refund.</p>
+  <p style="margin:20px 0;">
+    <a href="http://tax.refund.confirmation.pay.gov/confirm"></a>
+  </p>
+  <p>
+    You can also verify here: 
+    <a href="http://secure.bank.example.com.fake-site.org/verify">Verify Now</a>
+  </p>
+  <p style="margin:20px 0;">
+    <a href="http://update.tax.gov.claim-refund.com/action">
+      <img src="http://images.tax.gov/button.png" alt="Confirm Refund" style="border: none;"/>
+    </a>
+  </p>
+  <p style="color: #777; font-size: 12px;">If you have any questions, please contact our support team.</p>
+  <p>Thank you,<br/>IRS Tax Dept</p>
+</body>
+</html>
+
+------=_NextPart_000_0000_01D12345--

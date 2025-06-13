@@ -1,0 +1,31 @@
+```mbox
+From phishing-account@security-notification-service.com Fri Oct 13 10:23:47 2023
+Return-Path: <phishing-account@security-notification-service.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from suspicious-server.com (suspicious-server.com [192.168.1.100])
+        by trusted-email-server.com (Postfix) with ESMTP id ABC12345
+        for <victim@example.com>; Fri, 13 Oct 2023 10:23:47 -0700 (PDT)
+Message-ID: <1536072739.11663498267304@security-notification-service.com>
+Reply-To: suspicious-reply@malware-site.com
+Date: Fri, 13 Oct 2023 10:23:47 -0700
+From: No-Reply Security Team <phishing-account@security-notification-service.com>
+Subject: Urgent: Unusual Sign-In Attempt Detected
+
+Dear Customer,
+
+We have noticed an <b>unusual sign-in attempt</b> on your account. To ensure your account security, <b>immediate action is required</b>. Failure to verify your account may result in suspension.
+
+<img src="https://trusted-service.com/images/warning.png" alt="Security Notification" />
+
+<b>You must verify your account <a href="http://malicious-link.com/verify" style="color:red;text-decoration:none;">here</a>.</b>
+
+To reset your password immediately, go <a href="http://another-malicious-link.com/reset">here</a> now.
+
+For more information, visit our <a href="http://trusted-service.com/help">help page</a> or read our <a href="http://trusted-service.com/privacy-policy">privacy policy</a>.
+
+Thank you,
+Security Team
+
+<a href="http://trusted-site.com"></a>
+```

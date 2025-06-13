@@ -1,0 +1,46 @@
+From noreply@secure-update.support.com Tue Apr 23 14:22:16 2024
+Return-Path: <noreply@secure-update.support.com>
+From: "MyBank Security Team" <noreply@secure-update.support.com>
+Reply-To: security-alerts@mybank-verify.com
+Subject: URGENT: Unusual Sign-in Detected – Verify Your Account Now
+Date: Tue, 23 Apr 2024 14:22:16 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====boundary1===="
+
+--====boundary1====
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account from a new device. Immediate action required: your password expires today. If you do not reset your password within the next hour, your account will be suspended for security reasons.
+
+Reset now: https://secure.mybank.com/reset-password
+Verify recent activity: https://secure.mybank.com/verify-activity
+
+Thank you for your prompt attention.
+
+Sincerely,
+MyBank Security Team
+
+--====boundary1====
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong style="color:red;">URGENT:</strong> Unusual sign-in detected on your account!</p>
+    <p>Your <em>password expires today</em>—reset immediately to avoid permanent suspension.</p>
+    <p>Click one of the links below to verify your account:</p>
+    <ul>
+      <li><a href="https://secure-login.mybank-support.com/login">https://secure-update.mybank-support.com/login</a></li>
+      <li><a href="https://verify.mybank.security-update.com/user/verify">https://secure-account.mybank.com/verify</a></li>
+      <li><a href="https://account.mybank.verify.secure-update.org/reset"> </a></li>
+    </ul>
+    <p>If you did not authorize this activity, reply immediately or contact support.</p>
+    <p>Regards,<br>MyBank Security Team</p>
+  </body>
+</html>
+
+--====boundary1====--
+

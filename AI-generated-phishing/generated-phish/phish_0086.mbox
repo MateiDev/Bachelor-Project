@@ -1,0 +1,25 @@
+```mbox
+From nobody Fri Oct 13 10:06:29 2023
+From: "DHL Delivery" <support@dhl.com>
+To: victim@example.com
+Subject: URGENT: Action Required to Release Your Held Parcel
+Date: Fri, 13 Oct 2023 10:06:29 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package that was sent on <strong>October 10, 2023</strong>, could not be delivered due to unpaid fees. Immediate action is required to release your parcel. Failure to act will result in your parcel being returned to sender.</p>
+    <p>Click the link below to confirm your delivery details and complete payment:</p>
+    <p><a href="http://203.0.113.5/secure/delivery-update" style="font-size: 16px; color: blue;"><img src="http://203.0.113.5/images/dhl-logo.png" alt="DHL" width="100"></a></p>
+    <p>For more information, visit our <a href="https://www.dhl.com/en/help.html">Help Center</a>.</p>
+    <p>Your parcel ID: <strong>XYZ1234567890</strong></p>
+    <p>To track your parcel, click <a href="http://203.0.113.5/track-now">here</a>.</p>
+    <p>This is an automated notification. Please do not reply to this email.</p>
+    <p>Thank you for choosing DHL Express.</p>
+    <p>Best regards,<br/>
+       DHL Support Team</p>
+  </body>
+</html>
+```

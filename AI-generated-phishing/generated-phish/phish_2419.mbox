@@ -1,0 +1,49 @@
+From service@officialbank.com Sat Jul  9 12:34:56 2022
+Message-ID: <msgid.20220709.123456@officialbank.com>
+Date: Sat,  9 Jul 2022 12:34:56 +0000
+Subject: Urgent Account Refund Confirmation Required
+From: "Official Banking Service" <service@officialbank.com>
+Reply-To: "Customer Support" <support@secureservice.com>
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====XYZ1234===="
+
+--====XYZ1234====
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Immediate action is required! A small refund is pending in your account.
+We could not confirm your bank details during a routine update.
+To avoid account suspension, please verify your information:
+
+https://officialbank.com/verify
+
+Failure to confirm within 24 hours may lead to suspension of your account.
+
+Thank you for your prompt cooperation,
+
+Official Banking Service
+
+--====XYZ1234====
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Immediate action is required!</strong> A small refund is pending in your account.</p>
+    <p>We could not confirm your bank details during a routine update. To avoid account suspension, please verify your information:</p>
+    <p>
+      <a href="http://secure-update-info.com/verify?id=12345">https://officialbank.com/verify</a><br>
+      <a href="http://secure-update-info.com/confirm">here</a><br>
+      <a href="http://secure-update-info.com/empty"></a>
+    </p>
+    <p>For more information, see our <a href="https://officialbank.com/privacy">Privacy Policy</a> or <a href="https://officialbank.com/help">Help Center</a>.</p>
+    <p>Thank you for your prompt cooperation,</p>
+    <p>Official Banking Service</p>
+  </body>
+</html>
+
+--====XYZ1234====--

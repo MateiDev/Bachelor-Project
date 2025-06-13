@@ -1,0 +1,27 @@
+From support@securemail.com Tue Jun 18 10:15:32 2024
+Return-Path: <support@securemail.com>
+Received: from mx1.securemail.com (mx1.securemail.com [192.0.2.10])
+	by mail.example.org with ESMTP id abc123
+	for <user@example.org>; Tue, 18 Jun 2024 10:15:32 -0400 (EDT)
+From: "SecureMail Support" <support@securemail.com>
+Reply-To: admin@secureprotection.net
+To: user@example.org
+Subject: Urgent Security Alert: Account Verification Required
+Date: Tue, 18 Jun 2024 10:15:32 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued User,</p>
+    <p><strong>URGENT:</strong> We have detected an immediate security threat on your account. Failure to act now may result in permanent suspension.</p>
+    <p>Please verify your credentials by visiting the secure portal below:</p>
+    <p><a href="http://login.secure-protection.net/verify">https://secureportal.securemail.com/login</a></p>
+    <p>To review our updated policy, <a href="http://123.45.67.89/privacy">click here</a>.</p>
+    <p>Alternatively, access the temporary verification page:</p>
+    <p><a href="http://123.45.67.89/update">https://portal.securemail.com/secure</a></p>
+    <p>For additional information, visit our <a href="https://securemail.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Thank you for your immediate attention,<br/>SecureMail Team</p>
+    <p><a href="http://login.secure-update.net/secure"></a></p>
+  </body>
+</html>

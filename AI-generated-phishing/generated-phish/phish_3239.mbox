@@ -1,0 +1,41 @@
+From support@legitcompany.com Wed Mar 10 10:10:15 2021
+Return-Path: <no-reply@legitcompany.com>
+From: "Customer Support" <no-reply@legitcompany.com>
+Reply-To: "Help Desk" <helpdesk@192.0.2.200>
+Subject: Urgent: Your account has an exclusive €50 voucher
+Date: Wed, 10 Mar 2021 10:10:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1615371000000"
+
+------=_Part_0_123456.1615371000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Congratulations! You're eligible for an exclusive €50 voucher.
+To claim your reward, please visit one of the following links as soon as possible:
+
+http://192.0.2.123/voucher
+http://promo.secure-update.malicious.com/activate
+
+Also, feel free to review our privacy page at www.legitcompany.com/privacy.
+
+Best regards,
+Customer Support Team
+
+------=_Part_0_123456.1615371000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Hello,</p>
+    <p>Congratulations! You're eligible for an <strong>exclusive €50 voucher</strong>.</p>
+    <p>To claim your reward, please click <a href="http://192.0.2.123/voucher"></a> or <a href="http://promo.secure-update.malicious.com/activate">here</a> immediately.</p>
+    <p>For details, visit our <a href="http://198.51.100.45/privacy-policy">www.legitcompany.com/privacy</a>.</p>
+    <p>Best regards,<br>Customer Support Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.1615371000000--

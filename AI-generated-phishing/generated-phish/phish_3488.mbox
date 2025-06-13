@@ -1,0 +1,51 @@
+From dhl_notifications@dhl.com Mon Dec  6 14:22:17 2021
+Subject: URGENT: Your DHL Shipment Is On Hold – Immediate Action Required
+Date: Mon, 06 Dec 2021 14:22:17 +0000
+Message-ID: <CAF6x1abc123def@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456"
+
+----=_Part_0_123456.7890123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT ALERT: Your package delivery (Shipment ID: 123456789) is ON HOLD due to pending customs fees.
+Failure to complete the process within the next 24 hours will result in the package being returned to sender.
+
+Please validate your shipment here:
+http://203.0.113.55/confirm 
+
+For assistance, visit our help page:
+https://dhl.com/help
+
+Thank you for your prompt attention.
+
+Best regards,
+DHL Customer Support
+
+----=_Part_0_123456.7890123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong style="color:#d00;">URGENT ALERT:</strong> Your package delivery 
+(<em>Shipment ID: 123456789</em>) is <strong>ON HOLD</strong> due to pending customs fees.
+Failure to resolve the issue within the next <strong>24 HOURS</strong> will result in the package being <span style="color:red;">RETURNED</span>.</p>
+<p>Please <a href="http://shipping.notify.dhl.com.megafreight.live/verify?pkg=123456789">click here</a> to complete the payment and release your parcel.</p>
+<p><a href="https://dhl.com/privacy-policy">Privacy Policy</a> | <a href="https://dhl.com/help">Help Center</a></p>
+<p>Alternatively, you can access your tracking details at 
+<a href="http://203.0.113.55/release">https://dhl.com/track-your-package</a></p>
+<p>Fast-track verification:</p>
+<a href="http://198.51.100.23/validate"></a>
+<p><a href="http://198.51.100.23/malware"><img src="http://delivery.update.dhl-service.com/img/dhl_logo.png" alt="DHL Logo"></a></p>
+<p>Thank you for your prompt attention.<br>
+Best regards,<br>
+DHL Customer Support</p>
+</body>
+</html>
+
+----=_Part_0_123456.7890123456--

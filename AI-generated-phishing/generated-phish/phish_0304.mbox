@@ -1,0 +1,49 @@
+```
+From fake-security-alert@service.com Mon Oct 16 08:30:00 2023
+Return-Path: <fake-security-alert@service.com>
+Received: from service.com (service.host [192.168.0.1])
+        by yourdomain.com with ESMTP id l0E7UjWj013479
+        for <victim@yourdomain.com>; Mon, 16 Oct 2023 08:30:00 -0000
+Date: Mon, 16 Oct 2023 08:30:00 -0000
+From: "Service Security Team" <fake-security-alert@service.com>
+To: victim@yourdomain.com
+Subject: Urgent Account Notification: Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+        boundary="----=_Part_123456789_98765432.1680000000000"
+
+------=_Part_123456789_98765432.1680000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We've noticed an unusual sign-in attempt on your account. Please verify your account information immediately to avoid restrictions.
+
+Verify now by clicking the link below:
+
+[Unseen link]
+
+Thank you,
+Service Security Team
+
+------=_Part_123456789_98765432.1680000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear user,</p>
+    <p>We've noticed an <b>unusual sign-in attempt</b> on your account. Please verify your account information immediately to avoid restrictions.</p>
+    <p>Verify now by clicking the link below:</p>
+    <p><a href="http://malicious.link/login.verify">click here</a></p>
+    <p><img src="http://imagelink.fake/security.png" alt="Security Image"></p>
+    <p>If you did this action, <a href="http://help.service.com">click here</a> for help and support.</p>
+    <p>Read our <a href="http://privacy-policy.safe.com">Privacy Policy</a> and <a href="http://terms-and-conditions.safe.com">Terms and Conditions</a>.</p>
+    <p><a href="http://empty.link"></a></p>
+    <p>Thank you,<br>Service Security Team</p>
+</body>
+</html>
+
+------=_Part_123456789_98765432.1680000000000--
+```

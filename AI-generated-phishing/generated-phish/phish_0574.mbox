@@ -1,0 +1,61 @@
+From no-reply@dhl.com Mon Jan  1 10:00:00 2024
+From: DHL Delivery <no-reply@dhl.com>
+Reply-To: service-team@secure-update.net
+Subject: URGENT: DHL Account Password Verification Required
+Date: Mon, 1 Jan 2024 10:00:00 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_1000"
+
+------=_Part_000_1000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your shipment is on hold due to an urgent verification issue. To avoid delays and release your package immediately, please verify your account and password now by visiting the link below:
+
+http://malicious.example.com/release
+
+Failure to act immediately may result in return of your parcel. This is urgent!
+
+Thank you,
+DHL Delivery Team
+
+------=_Part_000_1000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p>Dear Customer,</p>
+    <p style="color: #D8000C; font-weight: bold;">
+      Your shipment is <span style="text-transform: uppercase;">on hold</span> due to an <span style="font-style: italic;">urgent</span> verification issue.
+    </p>
+    <p>
+      To avoid delays and <strong>release your package immediately</strong>, please verify your 
+      <span style="text-decoration: underline;">account</span> and <span style="text-decoration: underline;">password</span> now:
+    </p>
+    <p>
+      <a href="http://malicious.example.com/track">
+        <img src="http://tracking.dhl.com/logo.png" alt="DHL Tracking" width="120" height="40" style="border: none;">
+      </a>
+    </p>
+    <p>
+      <a href="http://malicious.example.com/release"></a>
+      <!-- Invisible link for release fee -->
+    </p>
+    <p>
+      For more information, click <a href="http://malicioustracker.net/modal">here</a>.
+    </p>
+    <hr>
+    <p style="font-size: 0.9em; color: #666;">
+      <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> | 
+      <a href="https://www.dhl.com/help-center">Help Center</a>
+    </p>
+    <p style="font-size: 0.8em; color: #999;">
+      This is an automated message, please do not reply.
+    </p>
+  </body>
+</html>
+
+------=_Part_000_1000--

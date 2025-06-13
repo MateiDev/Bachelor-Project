@@ -1,0 +1,47 @@
+From MAILER-DAEMON Wed Jun 26 12:34:56 2024
+From: DHL Delivery <notifications@dhl.com>
+Reply-To: support@dhl-update.net
+To: user@domain.net
+Subject: Urgent: Delivery Hold Notice
+Date: Wed, 26 Jun 2024 12:34:56 +0000
+Message-ID: <20240626123456.1F3B@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890.1593787236543"
+
+------=_Part_1234_567890.1593787236543
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery failed due to unpaid customs fees. Immediate action is required to avoid permanent return to sender and additional charges.
+
+Please visit the link below to confirm payment and release your shipment:
+https://www.dhl.com/track?trackingnumber=1Z999AA10123456784
+http://secure.dhl-supportsystem.com/unlock?ref=ABC123
+
+Failure to pay within 24 hours will result in cancellation of delivery. Act now to avoid delays!
+
+Thank you,
+DHL Delivery Support
+
+------=_Part_1234_567890.1593787236543
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your package delivery <strong>failed</strong> due to unpaid customs fees. <span style="color:red;">Immediate action is required</span> to avoid <em>permanent return</em> to sender and additional charges.</p>
+<p>Please <a href="http://secure.dhl-supportsystem.com/unlock?ref=ABC123"></a>confirm payment and release your shipment by visiting the link below:</p>
+<ul>
+<li><a href="http://www.dhl.com/tracking?trackingnumber=1Z999AA10123456784">http://www.dhl.com/tracking?trackingnumber=1Z999AA10123456784</a></li>
+<li><a href="http://malicious.dhl-verification.security-check.com/confirm?uid=98765">http://malicious.dhl-verification.security-check.com/confirm?uid=98765</a></li>
+</ul>
+<p><span style="font-weight:bold;">Failure to pay within 24 hours</span> will result in cancellation of delivery. Act now to avoid delays!</p>
+<p>Thank you,<br/>
+DHL Delivery Support</p>
+</body>
+</html>
+
+------=_Part_1234_567890.1593787236543--

@@ -1,0 +1,52 @@
+```mbox
+From someone@safe-mail.com Wed Oct  4 14:32:19 2023
+Received: from mailer.example.net (mailer.example.net. [203.0.113.1])
+        by mx.google.com with ESMTP id v5si1234567qkb.42.2023.10.04.14.32.19
+        for <victim@example.com>;
+        Wed, 04 Oct 2023 14:32:19 -0700 (PDT)
+From: "Account Security Team" <security@alerts.example.net>
+Reply-To: "noreply-secure@secure-mail.com" <noreply-secure@secure-mail.com>
+To: victim@example.com
+Subject: Urgent: Unusual Sign-in Detected - Action Required
+Date: Wed, 04 Oct 2023 14:32:19 -0700
+Message-ID: <1234567890.1234567890.sending@example.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7891230.1234567890987"
+
+------=_Part_123456_7891230.1234567890987
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your account. For your secur=
+ity, we require immediate verification of your account information. Failure=
+ to verify within 24 hours will result in suspension of your account.
+
+To verify your account, please follow this link: [Act Now](https://secure-v=
+erification.example.com.verify-account.security-account-check.net)
+
+Thank you,
+Account Security Team
+
+------=_Part_123456_7891230.1234567890987
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected an <b>unusual sign-in attempt</b> on your account. =
+For your security, we require <b>immediate verification</b> of your account=
+ information. Failure to verify within 24 hours will result in suspension o=
+f your account.</p>
+    <p>Please verify your account by clicking <a href=3D"https://safety-che=
+ck.actual-website.com.password-reset.alerts.action-now.com"><img src=3D"htt=
+ps://www.example.com/link.png" alt=3D"Verify Now"></a></p>
+    <p>For more details, please visit our privacy policy <a href=3D"https:/=
+/www.example.com/privacy-policy">here</a>.</p>
+  </body>
+</html>
+
+------=_Part_123456_7891230.1234567890987--
+```

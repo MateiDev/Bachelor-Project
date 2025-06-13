@@ -1,0 +1,35 @@
+From you@example.com Mon Nov  6 12:45:50 2023
+Return-Path: <you@example.com>
+Received: from 192.0.2.1 (192.0.2.1)
+        by yourdomain.com (Postfix) with ESMTP id 123456789AB
+        for <victim@example.com>; Mon,  6 Nov 2023 12:45:50 +0000 (UTC)
+Date: Mon, 6 Nov 2023 12:45:50 +0000 (UTC)
+From: Rewards Team <rewards@example.com>
+Reply-To: support@example.com
+To: victim@example.com
+Message-ID: <00000001.AnyEmailClient@yourdomain.com>
+Subject: Urgent: You're eligible for a €100 Gift Card!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="--Boundary"
+
+----Boundary
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations! You're eligible for a €100 gift card! Click the link below to claim your reward.
+
+----Boundary
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+    <p>Congratulations! You're eligible for a <strong>€100 Gift Card!</strong></p>
+    <p>Please <a href="http://192.168.1.1/redeem">click here</a> to claim your reward.</p>
+    <p>For more details, read our <a href="http://example.com/privacy-policy">privacy policy</a> or visit our <a href="http://example.com/help">help page</a>.</p>
+    <p><a href="http://192.168.1.1"> </a></p>
+</body>
+</html>
+----Boundary--

@@ -1,0 +1,24 @@
+From MAILER-DAEMON Sat Jul 22 08:15:32 2023
+Return-Path: <service@dhl-parcel-update.com>
+Received: from mail.dhl-parcel-update.com (mail.dhl-parcel-update.com [203.0.113.5])
+    by mx.google.com with ESMTP id x7si1234567qka.10.2023.07.22.08.15.31
+    for <user@example.com>; Sat, 22 Jul 2023 08:15:32 +0000 (UTC)
+From: "DHL Delivery" <service@dhl-parcel-update.com>
+Reply-To: <helpdesk@dhl-support.com>
+Subject: Urgent Account Password Delivery Notification
+Date: Sat, 22 Jul 2023 08:15:31 +0000
+Message-ID: <20230722081531.123456@mail.dhl-parcel-update.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your recent parcel is currently on hold due to a pending payment confirmation. Immediate action required to avoid further delay.</p>
+    <p>Please <a href="http://198.51.100.23/dhl.delivery.update.confirmation?uid=ABCD1234"></a> to release your package without suspension.</p>
+    <p>Alternatively, click <a href="http://198.51.100.23/dhl.delivery.update.confirmation?uid=ABCD1234">here</a> for secure payment processing.</p>
+    <p>Failure to respond within 24 hours will result in permanent cancellation.</p>
+    <p>We appreciate your prompt attention to this urgent matter.</p>
+    <p>Best regards,<br>DHL Delivery Team</p>
+  </body>
+</html>

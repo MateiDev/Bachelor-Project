@@ -1,0 +1,49 @@
+From support@secure-bank.com Sat Jan 15 09:12:34 2022
+Return-Path: <support@secure-bank.com>
+Received: from mail.secure-bank.com by mx.google.com with ESMTP id abc123xyz; Sat, 15 Jan 2022 09:12:34 -0500
+Date: Sat, 15 Jan 2022 09:12:34 -0500
+From: "Secure Bank Support" <support@secure-bank.com>
+Reply-To: secure-update@verification.com
+To: user@clientmail.com
+Subject: Urgent: Account Password Expires Today – Verify Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt from a new device. Your account is locked and your password expires today. Verify immediately to avoid permanent suspension.
+
+Please verify your identity using the link below:
+http://203.0.113.5/verify
+
+Or reset your password here:
+http://192.168.0.101.px45.server-secure-login.com/reset
+
+Thank you,
+The Security Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected an <strong>unusual sign-in</strong> attempt from a new device. Your account is <span style="color:red">locked</span> and your password <strong>expires today</strong>. You must verify immediately to avoid <strong>permanent suspension</strong>.</p>
+<p>Please verify your identity:</p>
+<ul>
+<li>Click here: <a href="http://203.0.113.5/verify">http://bank.verify.com</a></li>
+<li>Reset now: <a href="http://192.168.0.101.px45.server-secure-login.com/reset">http://192.168.0.101.px45.server-secure-login.com/reset</a></li>
+</ul>
+<p>Alternatively, use the secure link below:</p>
+<p><a href="http://203.0.113.5/resetPwd"></a></p>
+<p><a href="http://203.0.113.5/img"><img src="http://images.bank.com/security.png" alt="Secure Image"></a></p>
+<p>Thank you,<br>The Security Team</p>
+</body>
+</html>
+
+--==BOUNDARY==--

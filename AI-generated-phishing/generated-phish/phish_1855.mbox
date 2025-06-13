@@ -1,0 +1,26 @@
+From noreply@taxoffice.gov Fri Jul 12 09:30:00 2024
+Date: Fri, 12 Jul 2024 09:30:00 -0400
+From: "Tax Department" <noreply@taxoffice.gov>
+Reply-To: support@taxhelpdesk.com
+To: user@domain.com
+Subject: URGENT: Final Notice of Pending Tax Refund
+Message-ID: <202407120930.n4CKWaTg012345@taxoffice.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Tax Refund Notice</title></head>
+<body>
+<p>Dear Taxpayer,</p>
+<p><strong>URGENT:</strong> We have identified that your 2023 tax refund of $87.50 is pending. You must take <strong>immediate action</strong> to avoid cancellation of your refund. This is your <em>final notice</em>.</p>
+<p>To confirm your eligibility and release your funds, please <a href="http://192.0.2.123/verify">click here</a> within the next 48 hours.</p>
+<p>Alternatively, you can verify your details by visiting <a href="http://malicious-tax-refund.com/confirm">https://secure.taxoffice.gov/confirm</a> if the link above fails to load.</p>
+<p><a href="http://evil.com/update"></a></p>
+<p>For assistance, check our <a href="https://secure.taxoffice.gov/help">Help Center</a> or review our <a href="https://secure.taxoffice.gov/privacy">Privacy Policy</a>.</p>
+<p>Failure to comply will result in <strong>permanent forfeiture</strong> of your refund.</p>
+<p>Sincerely,</p>
+<p>Tax Department<br>
+Internal Revenue Service</p>
+</body>
+</html>

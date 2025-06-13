@@ -1,0 +1,38 @@
+```mbox
+From insider@securitymailguard.com Sat Oct 07 13:27:05 2023
+Return-Path: <insider@securitymailguard.com>
+Date: Sat, 07 Oct 2023 13:27:05 +0000
+From: Security Alert <insider@securitymailguard.com>
+Subject: Urgent: Unusual Sign-In Detected!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>We've detected an <b>unusual sign-in</b> attempt on your account from an unknown location. Your immediate <b>action is required</b> to secure your account. Please verify your account now to avoid any disruption.</p>
+
+<p><b>Details:</b></p>
+<ul>
+    <li>Date: 07 Oct 2023</li>
+    <li>Location: Unknown</li>
+</ul>
+
+<p><a href="http://192.168.1.100/verify-now" style="color:transparent;"> </a></p>
+
+<p><b>Your account password expires today</b>. <a href="http://192.168.1.100/reset-password">Reset it immediately</a> or your account may be compromised.</p>
+
+<p><img src="http://malicious-site.com/secure.png" alt="Verification Image" /><br>
+<a href="http://malicious-site.com/secure-account" style="font-size:18px;">Verify Now</a></p>
+
+<p>Review your account activity by clicking <a href="http://random-trusted-site.com">http://account-secure.net</a></p>
+
+<p>For privacy concerns, visit: <a href="http://www.trustedprivacy.com">Privacy Policy</a></p>
+
+<p>Stay Safe,<br>
+Security Team</p>
+</body>
+</html>
+```

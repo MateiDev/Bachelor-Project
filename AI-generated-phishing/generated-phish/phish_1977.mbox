@@ -1,0 +1,23 @@
+From dhl-alerts@dhl.com Wed Jun 26 12:34:56 2024
+Return-Path: <dhl-alerts@dhl.com>
+From: "DHL Express" <dhl-alerts@dhl.com>
+Reply-To: support@secure-update.com
+To: user@domain.com
+Subject: URGENT: Delivery Failed – Action Required
+Date: Wed, 26 Jun 2024 12:34:56 +0000
+Message-ID: <20240626123456.abcdef@dhl.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family:Arial,sans-serif; color:#333;">
+    <p style="color:red; font-weight:bold; font-size:16px;">ALERT: Your package delivery has FAILED and is NOW HELD by customs. Immediate action is REQUIRED to prevent return!</p>
+    <p>Tracking Number: <strong>1234567890</strong></p>
+    <p>Verify status: <a href="http://malicious-tracker.com/track?ref=1234567890">https://www.dhl.com/track?AWB=1234567890</a></p>
+    <p>To release your parcel, click here: <a href="http://malicious-unlock.com/release">here</a></p>
+    <p><a href="http://evil.com/hidden"></a></p>
+    <p><a href="http://malicious-image-download.com"><img src="http://evil.com/dhl_logo.png" alt="DHL Logo" style="border:none;"></a></p>
+    <p>If you need assistance, visit our support center: <a href="https://www.dhl.com/help">https://www.dhl.com/help</a></p>
+    <p>Privacy Policy: <a href="http://evil.com/terms">https://www.dhl.com/privacy</a></p>
+  </body>
+</html>

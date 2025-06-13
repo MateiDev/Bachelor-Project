@@ -1,0 +1,51 @@
+```
+From someone@secureportal.com Thu Oct  5 13:45:32 2023
+Received: from unknown (HELO secure-server.com) (192.168.1.1)
+  by mail.someoneelse.com with SMTP; Thu, 5 Oct 2023 13:45:32 +0000
+Message-ID: <1122334455.67890@secureportal.com>
+Date: Thu, 5 Oct 2023 13:45:32 +0000
+From: "Secure Portal" <support@secureportal.com>
+To: victim@example.com
+Subject: Urgent: Account Security Alert - Immediate Action Required
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_789012345.678901234"
+
+------=_Part_123456_789012345.678901234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. Immediate action is required to secure your account and prevent unauthorized access.
+
+Please update your security credentials by clicking the link below:
+https://secureportal.com/update [Link removed]
+
+Note: Failure to comply will result in termination of your account.
+
+Thank you for understanding.
+Secure Portal Team
+
+Need help? Visit our support page: https://secureportal.com/support
+Privacy Policy: https://secureportal.com/privacy
+
+------=_Part_123456_789012345.678901234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have <strong>detected suspicious activity</strong> on your account. <strong>Immediate action is required</strong> to secure your account and prevent unauthorized access.</p>
+    <p>Please update your security credentials by clicking the link below: </p>
+    <a href="http://malicious-site.com/update"></a>
+    <p>Note: <strong>Failure to comply will result in termination of your account.</strong></p>
+    <p>Thank you for understanding.<br>Secure Portal Team</p>
+    <p>Need help? <a href="https://secureportal.com/support">Visit our support page</a><br>
+    Privacy Policy: <a href="https://secureportal.com/privacy">https://secureportal.com/privacy</a></p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.678901234--
+```

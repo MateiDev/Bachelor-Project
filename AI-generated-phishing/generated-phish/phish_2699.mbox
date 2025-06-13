@@ -1,0 +1,42 @@
+```mbox
+From phishingtest@example.com Fri Oct 13 21:22:00 2023
+Return-Path: <phishingtest@example.com>
+Received: from mail.fakeportal.com (mail.fakeportal.com. [123.456.789.101])
+        by mx.google.com with ESMTP id c7-v6nfc103
+        for <victim@example.com>;
+        Fri, 13 Oct 2023 21:22:00 -0700 (PDT)
+Date: Fri, 13 Oct 2023 21:22:00 -0700
+From: "Secure Portal" <no-reply@secureportal.com>
+Reply-To: support@maliciouslink.ru
+To: victim@example.com
+Subject: Urgent: Action Required for Your Account Security
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en">
+<body>
+<p>Dear user,</p>
+<p>We have detected unusual activity on your account. For your security, ple=
+ase verify your account immediately to prevent any unauthorized access.</p>
+
+<p>Click <a href=3D"https://192.0.2.1/security-update">here</a> to verify your account now.=
+</p>
+
+<p>Alternatively, paste the following URL into your browser:<br>
+<a href=3D"http://secure-update.com/login">http://192.0.2.2/profile</a></p>
+
+<p>Make sure to check our <a href=3D"https://benigndomain.com/pri=acy-policy" target=3D"_blank">privacy policy</a> to stay informed about =
+our security measures.</p>
+
+<p>If you have additional questions, visit <a style=3D"color:blue;text-decoration:underline;" href=3D"http://maliciouslink.svc/help-support">support</a> 
+<span style=3D"display:none;">[empty]</span></p>
+
+<img src=3D"https://images.secureportal.com/update-alert.png" alt=3D"Security Update" />
+
+<p>Thank you,<br>
+Secure Portal Team</p>
+
+</body>
+</html>
+```

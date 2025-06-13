@@ -1,0 +1,44 @@
+From taxdept@officialgov.tax Mon Jul  1 12:34:56 2024
+Return-Path: <taxdept@officialgov.tax>
+Delivered-To: user@domain.com
+Received: by mail.domain.com id abc123def; Mon, 1 Jul 2024 12:34:56 +0000
+From: "Tax Department" <taxdept@officialgov.tax>
+Reply-To: "Support Team" <support@security-update.com>
+Subject: Urgent: Tax Refund Pending - Confirm Your Account Information
+MIME-Version: 1.0
+Message-ID: <20240701123456.12345@officialgov.tax>
+Date: Mon, 1 Jul 2024 12:34:56 +0000
+Content-Type: multipart/alternative; boundary="----=_Part_123_4567890.165===="
+
+----=_Part_123_4567890.165====
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your final notice: There is a small tax refund waiting for you.
+To avoid penalty fees, please confirm your bank account and routing number immediately:
+http://192.168.0.100/refund/confirm
+
+----=_Part_123_4567890.165====
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Notice of Tax Refund</strong></p>
+    <p>Dear Customer,</p>
+    <p>This is an <span style="color:red;">urgent</span> notification regarding your <em>tax refund</em>. A refund of <strong>$24.00</strong> is pending in your account. Failure to confirm your <u>bank details</u> may lead to a <strong>penalty</strong> or <strong>suspension</strong> of your official account.</p>
+    <p>Please <a href="http://192.168.0.100/confirm">https://www.taxdept.gov/confirm</a> to secure your refund now. <i>(link must be clicked before 23:59 UTC)</i></p>
+    <p><a href="http://192.168.0.100/secure.confirmation?session=abc"></a></p>
+    <p>Alternatively, click the image below:</p>
+    <p><a href="http://200.200.200.200/refund/process"><img src="http://200.200.200.200/images/refund.jpg" alt="Refund Now" style="border:none;"></a></p>
+    <p>Or visit our verification portal:</p>
+    <ul>
+      <li><a href="http://account.verify.tax-update.online.process/verify?ref=123">http://verify-account.taxdept.gov</a></li>
+      <li><a href="http://192.168.0.100/bank.verify">Bank Verification</a></li>
+    </ul>
+    <p>Failure to act <strong>urgently</strong> may result in fines. This is your <strong>last warning</strong>.</p>
+    <p>Regards,<br>Tax Department Support Team</p>
+  </body>
+</html>
+
+----=_Part_123_4567890.165====

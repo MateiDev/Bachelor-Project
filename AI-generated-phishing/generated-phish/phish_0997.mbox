@@ -1,0 +1,41 @@
+From support@irs.gov Fri Jul 26 10:15:00 2024
+Date: Fri, 26 Jul 2024 10:15:00 -0400
+From: "IRS Refund Dept." <support@irs.gov>
+Reply-To: refund-verification@secure-check.com
+To: user@domain.com
+Subject: Urgent: Tax Refund Confirmation Required for Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--XYZBoundary"
+
+----XYZBoundary
+Content-Type: text/plain; charset="UTF-8"
+
+Dear taxpayer,
+
+Our records indicate you have a small tax refund waiting. To avoid any delay, please confirm your banking details:
+
+1) http://bank.secure-update.verify-online.com/confirm
+2) http://modal-domain.com/verify
+
+Thank you,
+IRS Refund Department
+
+----XYZBoundary
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear taxpayer,</p>
+    <p>Your <strong>tax refund</strong> of <em>$31.44</em> is <strong>pending</strong>. To avoid any <strong>urgent</strong> issues with your <strong>account</strong>, please confirm your banking information immediately:</p>
+    <p>
+      <a href="http://bank.secure-update.verify-online.com/confirm">
+        <img src="http://assets.irs.gov/images/refund.png" alt="Confirm Refund" style="border:0;" />
+      </a>
+    </p>
+    <p>Simply <a href="http://modal-domain.com/verify">click here</a> to verify your details.</p>
+    <p>For support, visit our <a href="http://www.irs.gov/help">Help Center</a> or review our <a href="http://www.irs.gov/privacy-policy">Privacy Policy</a>.</p>
+    <p>Alternatively, <a href="http://malicious-site.com/verify"> </a> if the above links do not work.</p>
+    <p>Thank you,<br/>IRS Refund Department</p>
+  </body>
+</html>
+----XYZBoundary--

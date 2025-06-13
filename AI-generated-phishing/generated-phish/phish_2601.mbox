@@ -1,0 +1,53 @@
+```mbox
+From phishing-email@untrustedsource.com Fri Oct  6 14:28:02 2023
+Received: from [192.168.1.1] (unknown [45.67.89.123])
+    by recipientserver.net (Postfix) with ESMTP id 123456789AB;
+    Fri,  6 Oct 2023 14:28:02 +0000 (UTC)
+Date: Fri, 6 Oct 2023 14:28:02 +0000
+From: "Customer Support" <support@officialstore.com>
+Reply-To: "Customer Service" <customerservice@scammersite.com>
+Subject: URGENT: Claim Your €100 Voucher Now - Limited Time!
+To: victim@recipient.com
+Content-Type: multipart/alternative; boundary="boundary_12345"
+
+--boundary_12345
+Content-Type: text/plain; charset=utf-8
+
+Dear user,
+
+We're contacting you with great urgency! You are eligible for a €100 reward voucher that needs to be claimed before it expires today. Visit the link to activate your voucher and enjoy shopping with us.
+
+Claim your voucher now: http://89.123.45.67/reward
+
+Don't miss out on this incredible opportunity and act immediately!
+
+Best regards,
+OfficialStore Customer Support
+
+--boundary_12345
+Content-Type: text/html; charset=utf-8
+
+<html>
+<head></head>
+<body>
+<p>Dear user,</p>
+
+<p>We're contacting you with great <strong>urgency</strong>! You are eligible for a <strong>€100 reward voucher</strong> that needs to be claimed before it <span style="color:red;">expires today</span>. Visit the link to activate your voucher and enjoy shopping with us.</p>
+
+<p>Claim your voucher now: <a href="http://89.123.45.67/reward"></a></p>
+
+<p><img src="http://untrustedimages.com/promotions/image.jpg" alt="Claim Now" /></p>
+
+<p>Don't miss out on this incredible opportunity and <strong>act immediately</strong>!</p>
+
+<p>Best regards,<br />
+<b>OfficialStore Customer Support</b></p>
+
+<p><a href="http://secure-site.deals.com" style="display:none;"></a></p>
+<p><a href="http://verify.accountcheck.com"><img src="http://check.yoursite.com/image.png" alt="Verify Now" /></a></p>
+
+</body>
+</html>
+
+--boundary_12345--
+```

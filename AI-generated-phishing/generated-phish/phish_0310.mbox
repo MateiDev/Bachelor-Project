@@ -1,0 +1,52 @@
+```mbox
+From nobody Fri Oct  20 10:28:42 2023
+Return-Path: <alerts@security-checkup.com>
+Delivered-To: victim@example.com
+Received: from 192.168.1.2 (unknown [192.0.2.45])
+    by mx.example.com (Postfix) with ESMTP id 1234ABCD
+    for <victim@example.com>; Fri, 20 Oct 2023 10:28:42 +0000 (UTC)
+Received: from MAILER.local (MAILER.local [10.0.0.5])
+    by mail.security-checkup.com (Postfix) with SMTP id 5678EFGH
+    for <victim@example.com>; Fri, 20 Oct 2023 10:26:35 +0000 (UTC)
+Reply-To: urgent@account-secure.com
+From: "Account Security" <alerts@security-checkup.com>
+Date: Fri, 20 Oct 2023 10:25:00 +0000
+Subject: Unusual Sign-In Activity Detected - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="001a1140b3a5de144305f67789e3"
+
+--001a1140b3a5de144305f67789e3
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've detected unusual sign-in activity on your account and need you to verify your identity immediately. If you don't verify now, you may lose access to your account.
+
+To verify your account, please click here: http://192.0.2.55/verify
+
+Thank you for your prompt attention to this matter.
+
+Best Regards,
+Account Security Team
+
+--001a1140b3a5de144305f67789e3
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+    <body>
+        <p>Dear User,</p>
+        <p>We've detected unusual sign-in activity on your account and need you to verify your identity immediately. If you don't verify now, you may lose access to your account.</p>
+        <p>
+            To verify your account, please click here: 
+            <a href="http://192.0.2.55/verify"><img src='http://192.0.2.55/verify_button.png' alt='Verify Now' /></a>
+        </p>
+        <p>For your security, also reset your password immediately using this link: 
+            <a href="http://198.51.100.23/reset"><b>Reset Password</b></a>.
+        </p>
+        <p>Thank you for your prompt attention to this matter.</p>
+        <p>Best Regards,<br />
+        Account Security Team</p>
+    </body>
+</html>
+--001a1140b3a5de144305f67789e3--
+```

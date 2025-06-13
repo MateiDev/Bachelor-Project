@@ -1,0 +1,47 @@
+From phishing@bankservice.com Fri Jul 21 10:15:30 2023
+From: Support <support@bankservice.com>
+To: user@recipient.com
+Subject: Action Required: Unusual Sign-In Detected
+Date: Fri, 21 Jul 2023 10:15:30 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Unusual sign-in detected—verify now.
+Password expires today – reset immediately.
+
+Verify Now:
+https://secure.verify.bankservice.com/reset
+Alternate Link:
+http://203.0.113.45/secure
+
+Thank you,
+BankService Security Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Unusual sign-in detected—verify now.</strong><br>
+    <strong>Password expires today – reset immediately.</strong></p>
+    <p>
+      <a href="http://malicious-server.net/verify?uid=12345">www.bankservice.com/login</a>
+    </p>
+    <p>
+      <a href="http://203.0.113.45/secure">https://secure.verify.bankservice.com/reset</a>
+    </p>
+    <p>
+      <a href="http://malicious-server.net/"><img src="http://192.0.2.100/logo.png" alt="Bank Logo"></a>
+    </p>
+    <p>Thank you,<br>BankService Security Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

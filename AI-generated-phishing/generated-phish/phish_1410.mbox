@@ -1,0 +1,62 @@
+From no-reply@bankservice.com Tue Apr 30 12:34:56 2024
+Return-Path: <no-reply@bankservice.com>
+Received: from smtp.bankservice.com (smtp.bankservice.com [203.0.113.1])
+    by mx.bankservice.com with ESMTPS id ABC123XYZ
+    for <victim@example.org>; Tue, 30 Apr 2024 12:34:56 +0000 (UTC)
+From: Bankservice Alerts <no-reply@bankservice.com>
+To: victim@example.org
+Subject: Urgent: Account Voucher Claim - Verify Password
+Date: Tue, 30 Apr 2024 12:34:56 +0000
+Message-ID: <20240430123456.ABC123XYZ@smtp.bankservice.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+IMPORTANT URGENT NOTICE:
+
+Dear Valued Customer,
+
+Your account security team has detected a potential issue that requires your immediate attention. To claim your exclusive €50 voucher, please verify your account and password and confirm your eligibility:
+http://192.0.2.55/activate?uid=12345
+
+This offer is time-sensitive and will expire in 24 hours. Failure to verify now will result in forfeiture of your reward.
+
+If you have any questions, please visit our support pages:
+Privacy Policy: https://www.bankservice.com/privacy
+Help Center: https://www.bankservice.com/help
+Customer Support: https://www.bankservice.com/support
+
+Thank you for your prompt action,
+Bankservice Rewards Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #b30000;">URGENT ALERT!</h2>
+    <p>Your account is at <strong>risk</strong>! Verify your password and claim your <strong>€50 voucher</strong> now to avoid losing this exclusive reward. This is a <em>time-sensitive</em> offer.</p>
+    <p>
+      <a href="http://203.0.113.45/claim?user=12345" style="background-color: #0072c6; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-size: 16px;">Activate Now</a>
+    </p>
+    <p>Or click <a href="http://203.0.113.45/activate?user=12345">here</a> to claim your voucher immediately.</p>
+    <p>
+      <a href="http://203.0.113.45/redeem?uid=12345">
+        <img src="http://192.0.2.55/logo.png" alt="Voucher Reward" width="200" height="100" style="border: none; display: block;">
+      </a>
+    </p>
+    <hr style="border: none; border-top: 1px solid #ccc;">
+    <p style="font-size: 12px; color: #555;">
+      <a href="https://www.bankservice.com/privacy" style="color: #0072c6; text-decoration: none;">Privacy Policy</a> |
+      <a href="https://www.bankservice.com/help" style="color: #0072c6; text-decoration: none;">Help Center</a> |
+      <a href="https://www.bankservice.com/support" style="color: #0072c6; text-decoration: none;">Customer Support</a>
+    </p>
+    <p style="font-size: 12px; color: #999;">© 2024 Bankservice. All rights reserved.</p>
+  </body>
+</html>
+
+--==BOUNDARY==--

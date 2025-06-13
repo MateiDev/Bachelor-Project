@@ -1,0 +1,24 @@
+From support@netflix.com Wed Oct 20 15:03:17 2021
+Return-Path: <support@netflix.com>
+From: "Netflix Support" <support@netflix.com>
+Reply-To: "Netflix Helpdesk" <helpdesk@verify-net-support.io>
+To: jane.doe@personalmail.com
+Subject: Action Required: Confirm Your Netflix Account
+Date: Wed, 20 Oct 2021 15:03:17 +0000
+Message-ID: <CA+9w8x7y@mail.netflix.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear jane.doe@personalmail.com,</p>
+    <p>We detected an unusual sign-in attempt on your Netflix account from a new device. To secure your account and prevent suspension, please confirm your credentials immediately by visiting the secure link below:</p>
+    <p><a href="http://203.0.113.5/securelogin/login.html"></a></p>
+    <p>Alternatively, you can copy and paste this link into your browser:</p>
+    <p><a href="http://login.secure.verification.account-login.com/confirm">https://www.netflix.com/login</a></p>
+    <p>For more information, click <a href="http://modal.policy-domain.org/details">here</a>.</p>
+    <p>Thank you for your prompt attention.<br>
+       Best regards,<br>
+       Netflix Security Team</p>
+  </body>
+</html>

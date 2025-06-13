@@ -1,0 +1,55 @@
+From scammer@dhl-dispatch.com Fri Oct 13 07:15:00 2023
+Return-Path: <scammer@dhl-dispatch.com>
+Received: from mail.dhl-dispatch.com (mail.dhl-dispatch.com [198.51.100.200])
+    by target.server.com with ESMTP id abc123
+    for <user@example.com>; Fri, 13 Oct 2023 07:15:00 -0500 (CDT)
+Subject: Urgent: Account Password Verification Required for Delivery Notification
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1234567890"
+
+------=_Part_0_123456.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear UPS Customer,
+
+Your shipment is currently on hold due to an unverified delivery address and pending fee. Please verify your account password to release your package:
+
+1) Go to: http://198.51.100.123/verify?ref=XYZ789
+2) Or use our backup portal: http://update.track.verify.service.dhl-info.com/hold?ref=XYZ789
+
+Failure to verify within 24 hours may result in return to sender.
+
+Thank you for choosing UPS.
+
+UPS Delivery Team
+Privacy Policy: http://www.ups.com/privacy
+
+------=_Part_0_123456.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear UPS Customer,</p>
+<p>Your shipment is currently on hold due to an unverified delivery address and pending fee. Please verify your <b>account password</b> to release your package:</p>
+<ul>
+<li>Verify now: <a href="http://198.51.100.123/verify?ref=XYZ789">click here</a></li>
+<li>Backup portal: <a href="http://update.track.verify.service.dhl-info.com/hold?ref=XYZ789">Release your package</a></li>
+</ul>
+<p>You may also track your shipment by clicking the image below:</p>
+<p><a href="http://203.0.113.45/collect"><img src="http://203.0.113.45/images/ups_track.png" alt="UPS Delivery Notification" border="0"></a></p>
+<p>Other access points:</p>
+<p>
+<a href="http://secure.delivery.ups-update.track.com/confirm">Secure Verification Portal</a><br>
+<a href="http://192.0.2.55/auth">Authentication Page</a>
+</p>
+<p>Failure to verify within <b>24 hours</b> may result in return to sender.</p>
+<p>Thank you for choosing UPS.</p>
+<p>UPS Delivery Team</p>
+<p><a href="http://www.ups.com/privacy">Privacy Policy</a></p>
+</body>
+</html>
+
+------=_Part_0_123456.1234567890--

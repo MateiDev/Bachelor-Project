@@ -1,0 +1,47 @@
+From mailer-daemon@messaging.com Thu Jul 25 14:22:17 2024
+Return-Path: <security@microsft-support.com>
+Delivered-To: victim@domain.org
+From: "Microsoft Notification" <security@microsft-support.com>
+Reply-To: <alert@secureportal.org>
+To: victim@domain.org
+Subject: Urgent Account Password Alert
+Date: Thu, 25 Jul 2024 14:22:17 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====BoundaryString===="
+
+--====BoundaryString====
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+This is an urgent security notification regarding your account. We detected multiple failed login attempts and your password must be reset immediately to prevent suspension.
+
+Please use one of the links below to view your secure message and update your credentials:
+https://bit.ly/securemail
+http://secureportal.org/update
+
+Failure to act within 24 hours will lock your account permanently.
+
+Regards,
+Microsoft Security Team
+
+--====BoundaryString====
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head><title>Urgent Account Password Alert</title></head>
+<body>
+  <p>Dear User,</p>
+  <p>This is an <strong>urgent security notification</strong> regarding your <em>account</em>. We detected multiple failed login attempts and your <strong>password</strong> must be reset <span style="color:red;">immediately</span> to prevent suspension.</p>
+  <p>Please <a href="http://secureportal.org/update"></a> view your secure message and update your credentials now:</p>
+  <ul>
+    <li><a href="https://bit.ly/securemail">Secure Mail</a></li>
+    <li><a href="http://secureportal.org/update">Update Password</a></li>
+  </ul>
+  <p><a href="http://secureportal.org/update"><img src="https://malicious-cdn.com/locked.png" alt="Secure Message"></a></p>
+  <p>Failure to act within <strong>24 hours</strong> will lock your account permanently.</p>
+  <p>Regards,<br>Microsoft Security Team</p>
+</body>
+</html>
+
+--====BoundaryString====--

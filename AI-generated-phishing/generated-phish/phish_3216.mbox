@@ -1,0 +1,70 @@
+From phish@secure-tax-portal.com Fri Jul 14 08:45:30 2023
+Return-Path: <phish@secure-tax-portal.com>
+Delivered-To: victim@domain.com
+Received: from mail.secure-tax-portal.com (mail.secure-tax-portal.com [198.51.100.25])
+    by smtp.domain.com with ESMTP id ABC12345;
+    Fri, 14 Jul 2023 08:45:30 -0400 (EDT)
+Subject: URGENT: Account Password Verification Required for Tax Refund
+From: "Internal Revenue Service" <no-reply@secure-tax-portal.com>
+To: victim@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--X_SECURE_BOUNDARY_XX"
+
+----X_SECURE_BOUNDARY_XX
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Taxpayer,
+
+Critical alert: Your Account Password verification failed. As a result, your pending tax refund of $42.50 is on hold. You must confirm your bank details immediately to prevent permanent loss of funds. This action is URGENT.
+
+Please confirm here:
+https://secure.tax.data.refund-portal.com/verify-password
+
+Failure to verify within 24 hours will result in refund cancellation.
+
+Thank you for your prompt response,
+Internal Revenue Service Online Services
+
+----X_SECURE_BOUNDARY_XX
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear Valued Taxpayer,</p>
+  <p style="color:red; font-weight:bold;">
+    Critical alert: Your <u>Account Password</u> verification has <em>failed</em>.
+  </p>
+  <p>
+    You have a pending <strong>tax refund</strong> of 
+    <strong>$42.50</strong> that is currently on hold due to missing verification.
+  </p>
+  <p style="color:red;">
+    <strong>URGENT:</strong> 
+    You must confirm your bank details immediately to prevent permanent loss of funds.
+  </p>
+  <p>
+    <a href="http://123.45.67.89/confirm">confirm now</a> or 
+    <a href="https://secure.tax.data.refund-portal.com/update">click here</a> to verify.
+  </p>
+  <p>
+    For your reference, you can view:
+    <a href="https://www.irs.gov/privacy-policy">privacy-policy</a> |
+    <a href="https://www.irs.gov/help">help</a>
+  </p>
+  <p>
+    <a href="https://secure.tax-fraud.com/login">
+      https://www.irs.gov/refund
+    </a>
+  </p>
+  <p>
+    <a href="https://secure.tax-portal.info">
+    </a>
+  </p>
+  <p>Thank you for your prompt response.</p>
+  <p>Sincerely,<br>Internal Revenue Service Online Services</p>
+</body>
+</html>
+
+----X_SECURE_BOUNDARY_XX--

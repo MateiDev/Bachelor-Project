@@ -1,0 +1,26 @@
+From rewards-notify@trusted-ecom.com Sun Mar 26 12:34:56 2024
+From: "Rewards Notification" <rewards-notify@trusted-ecom.com>
+To: testuser@example.net
+Subject: URGENT: Password Update Required to Claim Your €100 Voucher
+Date: Sun, 26 Mar 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head><title>Urgent Account Notification</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We regret to inform you that your account has been flagged for suspicious activity. To avoid <strong>permanent suspension</strong> and claim your entitled <strong>€100 voucher</strong>, you must update your payment details <strong>immediately</strong>. Failure to act within <strong>48 hours</strong> will result in account closure and loss of all pending rewards.</p>
+<p>Click the secure link below to verify now:<br>
+<a href="http://203.120.223.65/verify?uid=AB123" target="_blank">https://secure.trustedpay.com/account/verify</a></p>
+<p>Alternatively, you can <a href="https://click.rewards.voucher.login.verify.com/claim">here</a> to claim your reward.</p>
+<p><img src="https://bonus.voucher.final.claim/images/voucher100.png" alt="Claim Your Voucher" border="0" usemap="#voucherMap"></p>
+<map name="voucherMap">
+  <area shape="rect" coords="0,0,200,50" href="http://192.0.2.123/claim" alt="Voucher">
+</map>
+<p>For more information about our policies, visit our <a href="http://198.51.100.45/privacy-policy">http://trusted-ecom.com/privacy-policy</a> page.</p>
+<p>Regards,<br>
+Rewards Team<br>
+trusted-ecom.com</p>
+</body>
+</html>

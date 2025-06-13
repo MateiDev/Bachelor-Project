@@ -1,0 +1,44 @@
+```mbox
+From phishingalert@example.com Fri Oct 29 13:42:34 2023
+Date: Fri, 29 Oct 2023 13:42:34 +0000
+From: Security Alert <security@example.com>
+Reply-To: noreply@343.55.129.211
+Subject: Unusual Sign-In Activity Detected - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've detected unusual sign-in activity on your account. As a precaution, please verify your identity immediately by following the link below:
+
+[Verify Account](http://security-alert.example.com)
+
+Your account may be temporarily suspended if you do not take action within 24 hours.
+
+Best,
+Security Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We've detected <strong>unusual sign-in activity</strong> on your account. As a precaution, please verify your identity immediately by following the link below:</p>
+    <p><a href="http://198.51.100.209/security/verify">Verify Account</a></p>
+    <p>Your account may be temporarily suspended if you do not take action within 24 hours.</p>
+    <p><img src="http://198.51.100.209/images/alert-banner.png" alt="Security Alert"></p>
+    <p>Best,<br>Security Team</p>
+    <footer>
+      <a href="http://example.com/privacy-policy">Privacy Policy</a> |
+      <a href="http://example.com/help">Help</a> |
+      <a href="http://example.com">example.com</a>
+    </footer>
+  </body>
+</html>
+
+--boundary123--
+```

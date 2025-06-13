@@ -1,0 +1,42 @@
+From noreply@irs.gov Thu Jun 04 10:15:00 2024
+Return-Path: <noreply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.65.15.20])
+    by mail.domain.com (Postfix) with ESMTP id 123456789
+    for <user@domain.com>; Thu,  4 Jun 2024 10:15:00 -0500 (CDT)
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: support@irs-accounts-update.com
+To: user@domain.com
+Subject: Urgent: Tax Refund Confirmation for Your Account
+Date: Thu, 4 Jun 2024 10:15:00 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000008d3d3c05cc188a3"
+
+--0000000000008d3d3c05cc188a3
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have a small refund pending for your account. To receive your refund, please confirm your bank details immediately. Failure to confirm within 48 hours will result in suspension of your refund request.
+
+Visit https://secure.irs.gov/verify now.
+
+Thank you,
+Internal Revenue Service
+
+--0000000000008d3d3c05cc188a3
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Urgent Account Confirmation Required</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have a <strong>small refund</strong> waiting for you. To <span style="color:red;">avoid delay</span>, please <a href="https://taxrefund.verify.bank-confirm.secure-login.com/confirm"></a>confirm your bank details <strong>IMMEDIATELY</strong>. Failure to confirm within <strong>48 hours</strong> will <em>suspend</em> your refund request.</p>
+<p>For assistance, please visit our <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> or get <a href="https://www.irs.gov/help">help</a>.</p>
+<p>Alternatively, you can confirm by clicking <a href="https://taxrefund.verify.bank-confirm.secure-login.com/confirm">here</a>.</p>
+<p>Or go directly: <a href="https://taxrefund.verify.bank-confirm.secure-login.com/confirm">https://secure.irs.gov/verify</a></p>
+</body>
+</html>
+
+--0000000000008d3d3c05cc188a3--

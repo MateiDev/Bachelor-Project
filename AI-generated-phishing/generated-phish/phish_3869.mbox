@@ -1,0 +1,59 @@
+From security@paypal.com Tue Nov 12 09:15:00 2024
+Return-Path: <security@paypal.com>
+Delivered-To: victim@victimdomain.com
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.10])
+    by victimdomain.com with ESMTP id 1A2B3C4D5E
+    for <victim@victimdomain.com>; Tue, 12 Nov 2024 09:15:00 -0500 (EST)
+From: "Security Team" <security@paypal.com>
+Reply-To: "PayPal Support" <support@paypal-security.com>
+To: victim@victimdomain.com
+Subject: Urgent: Password Verification Required for Your PayPal Account
+Date: Tue, 12 Nov 2024 09:15:00 -0500
+Message-ID: <202411120915.SECURITY@mail.paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1413878500"
+
+------=_Part_12345_678901234.1413878500
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. Immediate action is required to prevent suspension.
+Please verify your password within the next 24 hours to avoid service interruption.
+
+Verify Now:
+http://198.51.100.23/login?session=11847b
+
+Thank you,
+PayPal Security Team
+
+------=_Part_12345_678901234.1413878500
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent! Account Password Verification</title></head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Unauthorized access</strong> attempts were detected on your <em>PayPal account</em>. You must verify your <u>password</u> <span style="color:red;">now</span> to <strong>avoid suspension</strong>.</p>
+<p>
+<a href="http://198.51.100.23/login?session=11847b"></a>
+</p>
+<p>
+Click here to verify:&nbsp;
+<a href="http://203.0.113.45/auth">
+<img src="http://evil.com/images/paypal_logo.png" alt="PayPal" />
+</a>
+</p>
+<p>
+Or use the secure link:<br/>
+<a href="http://secure.paypal.com.login.verify.ssl.site.com/auth">https://www.paypal.com/login</a>
+</p>
+<p>If you do not verify your account within 24 hours, your access will be suspended due to <em>security protocols</em>.</p>
+<p>Thank you,<br/>
+The PayPal Team</p>
+</body>
+</html>
+
+------=_Part_12345_678901234.1413878500--

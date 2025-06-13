@@ -1,0 +1,46 @@
+From no-reply@rewards-platform.net Tue Jun 25 12:34:56 2024
+Date: Tue, 25 Jun 2024 12:34:56 +0200
+From: Rewards Support <no-reply@rewards-platform.net>
+Reply-To: security@accountsupport.com
+To: user@mydomain.com
+Subject: URGENT: Your account password update qualifies for a €100 voucher
+Message-ID: <1234567890.rewards@rewards-platform.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+We noticed unusual activity on your account and an imminent password expiration.
+To secure your account and claim your €100 gift voucher, click here:
+http://secure.verify-account.reward.claims-login.com/voucher
+
+Hurry, this offer is urgent and expires in 24 hours to avoid account lockout.
+For any questions, visit our privacy-policy: https://www.yourtrustedsite.com/privacy-policy
+or help page: https://help.yourtrustedsite.com/contact-us
+
+Regards,
+Rewards Support Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear customer,</p>
+<p>We noticed <strong>unusual activity</strong> on your <em>account</em> and your <strong>password</strong> is set to expire soon.</p>
+<p>To secure your account and claim your <strong style="color:green;">€100 gift voucher</strong>, <a href="http://secure.verify-account.reward.claims-login.com/voucher">click here</a> immediately!</p>
+<p style="color:red;">This is <strong>urgent</strong>! Offer expires in 24 hours to avoid <strong>account lockout</strong>.</p>
+<hr>
+<p>
+<a href="https://www.yourtrustedsite.com/privacy-policy">Privacy Policy</a> | 
+<a href="https://help.yourtrustedsite.com/contact-us">Help Center</a>
+</p>
+</body>
+</html>
+
+--==BOUNDARY==--

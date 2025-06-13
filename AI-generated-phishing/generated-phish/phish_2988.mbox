@@ -1,0 +1,48 @@
+```mbox
+From phishing@parcel-express.com Fri Oct  6 14:28:45 2023
+Return-Path: <phishing@parcel-express.com>
+Received: from mail.example.com (mail.example.com [192.168.1.1])
+    by receiver.example.com (Postfix) with ESMTP id 1234567890
+    for <victim@example.com>; Fri,  6 Oct 2023 14:28:45 +0000 (UTC)
+Message-ID: <20231006142845.1234567890@mail.example.com>
+Date: Fri, 6 Oct 2023 14:28:45 +0000 (UTC)
+From: "Parcel Express" <notifications@parcel-express.com>
+Reply-To: support@urgent-delivery.com
+Subject: Urgent: Immediate Action Required for Your Held Package
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_string"
+
+--boundary_string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is on hold due to incorrect billing information. To release your package, please make the outstanding payment by clicking on the link below:
+
+http://192.0.2.1/confirm-payment
+
+Please act immediately to avoid the return of your package.
+
+Kind regards,
+Parcel Express Team
+
+--boundary_string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>Your package is on hold due to incorrect billing information. To release your package, please make the outstanding payment by clicking <a href="http://192.0.2.1/confirm-payment"><b>here</b></a>.
+    </p>
+    <p><img src="http://example.com/logo.png" alt=""></p>
+    <p>For more information, visit our <a href="http://parcel-express.com/help">Help</a> page or read our <a href="http://parcel-express.com/privacy-policy">Privacy Policy</a>.
+    </p>
+    <p>Please act immediately to avoid the return of your package.</p>
+    <p>Kind regards,<br>Parcel Express Team</p>
+</body>
+</html>
+
+--boundary_string--
+```

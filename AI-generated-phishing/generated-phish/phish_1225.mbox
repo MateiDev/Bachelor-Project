@@ -1,0 +1,73 @@
+From no-reply@irs.gov Tue Oct 10 12:34:56 2023
+Return-Path: <no-reply@irs.gov>
+Envelope-To: user@domain.com
+Delivery-Date: Tue, 10 Oct 2023 12:34:56 -0400
+Received: from smtp1.irs.gov by mail.domain.com with ESMTP id ABC123DEF456 for <user@domain.com>; Tue, 10 Oct 2023 12:34:56 -0400
+Date: Tue, 10 Oct 2023 12:34:56 -0400
+From: "Internal Revenue Service" <no-reply@irs.gov>
+To: user@domain.com
+Subject: URGENT: Small Tax Refund Pending - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="001a114e5b9f3b4b6c0558b15cda"
+
+--001a114e5b9f3b4b6c0558b15cda
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+URGENT: Your tax refund of $82.50 is pending and requires IMMEDIATE confirmation. Failure to confirm your banking details by the deadline will result in PERMANENT CANCELLATION of your refund.
+
+Please verify your information immediately:
+
+- Confirmation link: https://secure.tax.gov.refunds-claim.com
+- Policy details: http://privacy.policy.gov.com/policy
+- Help Center: https://help.irs.gov/support
+
+Or click here: http://bit.ly/refund-verify
+
+Thank you for your prompt attention.
+
+Sincerely,
+Internal Revenue Service
+
+--001a114e5b9f3b4b6c0558b15cda
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p style="font-size:14px; color:#d32f2f; font-weight:bold;">
+      URGENT: Your tax refund of $82.50 is <u>pending</u> and <strong>requires immediate confirmation</strong>!
+    </p>
+    <p>If you do not confirm your bank account <strong>within 24 HOURS</strong>, your refund will be <span style="color:red;">permanently cancelled</span>.</p>
+    <p>Please choose one of the options below:</p>
+    <ol>
+      <li>
+        Verify now:
+        <a href="http://malicious-site.com/confirm">
+          https://secure.tax.gov.refunds-verify.com
+        </a>
+      </li>
+      <li>
+        Account overview:
+        <a href="http://malicious-site.com/account">
+          https://accounts.irs.gov.review-panel.com/overview
+        </a>
+      </li>
+      <li>
+        <a href="http://malicious-site.com/confirm">click here</a> to confirm your details
+      </li>
+    </ol>
+    <p>For our <a href="http://malicious-site.com/privacy">privacy policy</a> and <a href="http://malicious-site.com/help">help center</a>.</p>
+    <p>
+      <a href="http://malicious-site.com/confirm">
+        <img src="https://cdn.irs.gov/buttons/confirm-bank.png" alt="Confirm Bank Info" width="200" height="50" border="0"/>
+      </a>
+    </p>
+    <p>Sincerely,<br/>Internal Revenue Service</p>
+  </body>
+</html>
+
+--001a114e5b9f3b4b6c0558b15cda--

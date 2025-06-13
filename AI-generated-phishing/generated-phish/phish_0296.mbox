@@ -1,0 +1,32 @@
+```mbox
+From dhl-notification@shipment-tracker.com Wed Oct 25 14:32:10 2023
+Return-Path: <dhl-notification@shipment-tracker.com>
+Delivered-To: user@example.com
+Received: from unknown (HELO unknown) (192.0.2.1)
+        by mail.example.com with SMTP; Wed, 25 Oct 2023 14:32:10 +0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+        by unknown (Postfix) with ESMTP id 1234567890AB;
+        Wed, 25 Oct 2023 14:32:05 +0000 (UTC)
+Date: Wed, 25 Oct 2023 14:32:05 +0000
+From: DHL Express <dhl-notification@shipment-tracker.com>
+Reply-To: noreply@dhl-express-tracking.net
+Subject: Urgent: Your Package is On Hold! Confirm Now
+To: user@example.com
+Content-Type: text/html; charset=UTF-8
+Message-ID: <20231025143210.1234567890AB@unknown>
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>We are writing to inform you that your package is on hold and requires immediate action <b>to avoid delay</b>. Please verify your shipping details by clicking the link below:</p>
+    <p><a href="http://192.0.2.5/verify">Click here</a> to confirm your delivery details.</p>
+    <p>For more information, visit our <a href="https://dhl.com/privacy-policy">privacy policy</a>.</p>
+    <p>If you do not take action within <b>48 hours</b>, your package will be returned to sender. Avoid this by confirming your details now!</p>
+    <p>Alternatively, you can visit <a href="http://dhl.support-track.com/details">here</a> to verify your package information directly.</p>
+    <p>Thank you for choosing DHL Express.</p>
+    <p>Best regards,</p>
+    <p>DHL Customer Service</p>
+    <p><a href="https://dhl.com/help">Help</a> | <a href="https://dhl.com/locations">Locations</a></p>
+</body>
+</html>
+```

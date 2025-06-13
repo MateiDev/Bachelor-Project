@@ -1,0 +1,26 @@
+From alerts@securemail.com Mon Jun 10 12:34:56 2024
+Return-Path: <securemail-no-reply@securemail.com>
+Received: from smtp.securemail.com (smtp.securemail.com [203.0.113.5]) by mx.corporate.com with ESMTP id ABC123 for <victim@corporate.com>; Mon, 10 Jun 2024 12:34:56 -0400 (EDT)
+From: "SecureMail Alerts" <alerts@securemail.com>
+Reply-To: support@scurmail.support.com
+To: victim@corporate.com
+Subject: urgent - Account Password Security Alert
+Date: Mon, 10 Jun 2024 12:34:56 -0400
+Message-ID: <20240610123456.12345@securemail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Our records show that your SecureMail account password will expire within 24 hours. To prevent loss of access to your encrypted mailbox, immediate action is required.</p>
+    <p>Please <a href="http://192.0.2.123/securelogin?token=abc123">View Secure Message</a> to confirm your credentials.</p>
+    <p>If you encounter any issues, <a href="http://malicious-co.com/verify">click here</a> to update your account details.</p>
+    <p>You may also <a href="http://modal-fake.com/confirm">here</a> confirm your identity.</p>
+    <p>For tracking purposes: <a href="http://evil-tracker.com/track"></a></p>
+    <p><a href="http://phishingsite.org/login"><img src="http://192.0.2.45/images/secure.png" alt="SecureMail"/></a></p>
+    <p>Thank you for your prompt attention to this urgent security alert.</p>
+    <hr/>
+    <p><a href="https://securemail.com/privacy">Privacy Policy</a> | <a href="https://securemail.com/help">Help Center</a></p>
+  </body>
+</html>

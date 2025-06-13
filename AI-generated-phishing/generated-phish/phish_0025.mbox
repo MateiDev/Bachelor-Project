@@ -1,0 +1,47 @@
+```mbox
+From nobody Tue Oct 31 18:00:00 2023
+Return-Path: <no-reply@secure-alerts.com>
+Received: from [192.0.2.1] (unknown [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 123456789
+    for <victim@example.com>; Tue, 31 Oct 2023 18:00:00 +0000 (UTC)
+Subject: Urgent: Action Required for Your Account Security
+To: victim@example.com
+Date: Tue, 31 Oct 2023 18:00:00 +0000
+From: Secure Alerts <no-reply@secure-alerts.com>
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected unusual activity on your account and your immediate attention is required. Please click the link below to secure your account:
+
+http://192.0.2.2/security-update
+
+Thank you,
+Secure Alerts Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Account Security Alert</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected unusual activity on your account and your immediate attention is required. To avoid any disruption, please click <a href="http://192.0.2.2/security-update">here</a> to update your account information.</p>
+<p>For more information, you can read our <a href="https://secure-alerts.com/privacy-policy">Privacy Policy</a> or visit our <a href="https://help.secure-alerts.com">Help Center</a>.</p>
+<p>Thank you,<br>
+<strong>Secure Alerts Team</strong></p>
+
+<!-- Multiple URLs and Links with multiple '.' -->
+<a href="http://192.0.2.2/login">Login to your account</a><br>
+<a href="http://192.0.2.2/settings/update">Update your settings</a>
+
+</body>
+</html>
+
+--boundary123--
+```

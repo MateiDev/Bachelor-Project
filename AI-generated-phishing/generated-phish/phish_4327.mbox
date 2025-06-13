@@ -1,0 +1,54 @@
+From rewards@legitshop.com Tue Sep 12 10:15:00 2023
+Message-ID: <202309120815.rewardsX@legitshop.com>
+Date: Wed, 13 Sep 2023 08:45:00 +0200
+From: "Rewards Team" <rewards@legitshop.com>
+Reply-To: "Support Desk" <helpdesk@123-phishingsite.net>
+To: user@domain.com
+Subject: URGENT: Verify your account password to claim €100 voucher!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Round_Trip_0001"
+
+------=_Round_Trip_0001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is your FINAL NOTICE! You are eligible for a €100 voucher, but you must verify your account password immediately. Failure to update within 24 hours will void your reward.
+
+Visit one of the links below to claim:
+- http://192.168.1.10/claim
+- https://offer.rewards.global.com.claims/launch
+- https://secure.rewardservice.com/claim
+
+If you have questions, reply to helpdesk@123-phishingsite.net.
+
+Best regards,
+Rewards Team
+
+------=_Round_Trip_0001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Update</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;"><strong>URGENT:</strong> This is your <em>FINAL NOTICE</em>! You’ve been selected to receive a <strong>€100 voucher</strong>. You must verify your <u>account</u> password <strong>immediately</strong> to secure your reward.</p>
+<p>Click the links below:</p>
+<ul>
+  <li><a href="http://192.168.1.10/claim">http://192.168.1.10/claim</a></li>
+  <li><a href="http://203.0.113.5/verify">https://secure.rewardservice.com/claim</a></li>
+  <li><a href="https://offer.rewards.global.com.claims/launch">https://offer.rewards.global.com.claims/launch</a></li>
+</ul>
+<p>Or click the voucher image:</p>
+<p><a href="http://192.0.2.123/reward"><img src="http://cdn.images.global.vouchers/promo.png" alt="Your Voucher"/></a></p>
+<p>Verify now: <a href="http://malicious.local"></a></p>
+<p>If you have questions, reply to <a href="mailto:helpdesk@123-phishingsite.net">helpdesk@123-phishingsite.net</a>.</p>
+<p>Thank you,<br/>Rewards Team</p>
+</body>
+</html>
+
+------=_Round_Trip_0001--

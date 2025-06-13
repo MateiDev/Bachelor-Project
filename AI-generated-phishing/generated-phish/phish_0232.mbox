@@ -1,0 +1,29 @@
+```
+From somebank@mailer.com Mon Oct 16 15:14:12 2023
+Received: from unknown (HELO mailer.com) (192.168.1.1)
+    by mail.example.com with SMTP; Mon, 16 Oct 2023 15:14:12 +0000
+Message-ID: <00234@example.com>
+Date: Mon, 16 Oct 2023 15:14:12 +0000
+From: "Some Bank" <somebank@mailer.com>
+Subject: Urgent: Action Required - Unusual Sign-In Detected
+
+Dear Customer,
+
+We detected <strong>unusual sign-in activity</strong> on your account, and we need you to verify your identity immediately. <strong>Your password will expire today</strong>, and failure to reset it might lead to an account lock.
+
+For your safety, please follow the link below to verify your account and reset your password now:
+
+<a href="http://www.account-security.support.login-update.com"> <img src="http://www.account-security.support.login-update.com/image.png" alt="Secure Link Image"/> </a>
+
+If this was not you, kindly reach out to our support team urgently using the contact info available on our website.
+
+To avoid any interruptions, you are encouraged to verify this unusual activity within the next 24 hours.
+
+Thank you for your prompt attention to this critical matter.
+
+<a href="http://www.somebank.com/privacy"> </a> | <a href="http://www.somebank.com/help"> </a> | <a href="http://www.somebank.com/contact"> </a>
+
+Best Regards,
+Some Bank Security Team
+
+```

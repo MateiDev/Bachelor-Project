@@ -1,0 +1,47 @@
+From notifications@trustedbank.com Sat Jan  7 13:45:00 2023
+Return-Path: <notifications@trustedbank.com>
+Received: from mail.trustedbank.com (mail.trustedbank.com [192.0.2.1])
+    by mx.sample.com with ESMTP id ABC123456
+    for <user@sample.com>; Sat, 7 Jan 2023 13:45:00 -0500 (EST)
+From: "Trusted Bank Notifications" <notifications@trustedbank.com>
+Reply-To: support@trustedbank-security.com
+To: user@sample.com
+Subject: Urgent: Unusual Sign-in Detected – Verify Your Account Now
+Message-ID: <20230107134500.ABC123@trustedbank.com>
+Date: Sat, 7 Jan 2023 13:45:00 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b8f3dd05cc9e95d4"
+
+--000000000000b8f3dd05cc9e95d4
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt to your account. Your password expires today – reset immediately to avoid service interruption.
+
+Please verify your account now:
+http://maliciousdomain.com/verify
+
+For help, visit https://www.trustedbank.com/help
+View our policy at https://www.trustedbank.com/privacy-policy
+
+Thank you,
+The Trusted Bank Team
+
+--000000000000b8f3dd05cc9e95d4
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected an <strong>unusual sign-in</strong> attempt to your account. Your <strong>password expires today – reset immediately</strong> to avoid service interruption.</p>
+    <p>Your immediate action is required. Please verify your account by <a href="http://maliciousdomain.com/verify">here</a>.</p>
+    <p>Or you can <a href="http://maliciousdomain.com/verify" ></a> to reset your password now.</p>
+    <p>If you have any questions, visit our <a href="https://www.trustedbank.com/help">Help Center</a> or read our <a href="https://www.trustedbank.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>For direct access copy and paste this link: <a href="http://maliciousdomain.com/login">https://www.trustedbank.com/login</a></p>
+    <p>Thank you,<br>The Trusted Bank Team</p>
+  </body>
+</html>
+
+--000000000000b8f3dd05cc9e95d4--

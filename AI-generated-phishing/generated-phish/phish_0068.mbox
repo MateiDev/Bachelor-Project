@@ -1,0 +1,47 @@
+```
+From - Tue Oct 10 10:10:10 2023
+Return-Path: <dhl-alerts@example.com>
+Delivered-To: victim@example.com
+Received: from suspicious.server.com (suspicious.server.com [198.51.100.1])
+        by mail.example.com with SMTP;
+        Tue, 10 Oct 2023 10:10:03 -0500
+From: "DHL Express" <dhl-alerts@example.com>
+To: victim@example.com
+Subject: Urgent: Action Required for Your Parcel Delivery
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789123456.1234567891234"
+
+------=_Part_123456_789123456.1234567891234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your parcel is on HOLD due to UNPAID delivery fees. To avoid losing your package, please confirm payment at the link below:
+
+http://secure-delivery-services.dhl-confirmation.example.com
+
+Failure to act will result in the package being returned.
+
+Thank you,
+DHL Support Team
+
+------=_Part_123456_789123456.1234567891234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>URGENT</strong>: Your parcel is on <strong>HOLD</strong> due to <strong>UNPAID</strong> delivery fees. To avoid losing your package, please confirm payment at the link below:</p>
+<p><a href="http://secure-delivery-services.dhl-confirmation.example.com">
+<img src="http://dhl.example.image-server.com/image/link-button.png" alt="Confirm Payment"/>
+</a></p>
+<p>Failure to act will result in the package being <strong>returned</strong>.</p>
+<p>Thank you,<br/>DHL Support Team</p>
+<p>Visit our website: <a href="http://www.dhl.example.com">www.dhl.example.com</a></p>
+</body>
+</html>
+
+------=_Part_123456_789123456.1234567891234--
+```

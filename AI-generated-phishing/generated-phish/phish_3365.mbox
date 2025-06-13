@@ -1,0 +1,62 @@
+From service@bank.com Wed Jun 19 12:34:56 2024
+Return-Path: <service@bank.com>
+Received: from mail.bank.com (mail.bank.com [127.0.0.1])
+	by mail.bank.com (Postfix) with ESMTP id 3F2A912A1
+	for <user@example.com>; Wed, 19 Jun 2024 12:34:56 +0000 (UTC)
+Delivered-To: user@example.com
+Received: from localhost (unknown [127.0.0.1])
+	by mail.bank.com (Postfix) with ESMTP id 3F2A9128F
+	for <user@example.com>; Wed, 19 Jun 2024 12:34:56 +0000 (UTC)
+To: user@example.com
+From: "Customer Service" <service@bank.com>
+Reply-To: support-team@unknown.com
+Subject: URGENT: Update your account password & claim your €100 voucher
+Message-ID: <20240619123456.1@bank.com>
+Date: Wed, 19 Jun 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.abcdef"
+
+----=_Part_0_123456.abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear valued customer,
+
+We have detected unusual activity in your account. To protect your security, you must update your password immediately. You're also eligible for a €100 gift voucher! Action Required.
+
+Visit the link below to secure your account and claim your voucher:
+http://45.77.20.5/claim
+
+If you do not update your account now, access will be suspended within 24 hours.
+
+Thank you for your prompt attention.
+
+Regards,
+Customer Service
+service@bank.com
+
+----=_Part_0_123456.abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Update your account password & claim your €100 voucher</title>
+</head>
+<body>
+  <p>Dear valued customer,</p>
+  <p>We have detected <strong>unusual activity</strong> in your account. To protect your security, you must update your password <em>immediately</em>. You're also <span style="color:red">eligible</span> for a <strong>€100 gift voucher</strong>! <strong>Action Required</strong>.</p>
+  <p>
+    <a href="http://45.77.20.5/claim" style="font-size:16px;font-weight:bold;">click here</a> to secure your account and claim your voucher.
+  </p>
+  <p>If you do not update your account now, access will be suspended within 24 hours.</p>
+  <p>For support, visit our privacy page: <a href="http://45.77.20.5/privacy">https://www.bank.com/privacy-policy</a></p>
+  <p>Additional help: <a href="http://45.77.20.5/help"></a></p>
+  <p>Or check legitimate help: <a href="https://www.bank.com/help">https://www.bank.com/help</a></p>
+  <p>Regards,<br>
+     Customer Service<br>
+     <a href="http://45.77.20.5/urgent-redeem"></a></p>
+</body>
+</html>
+
+----=_Part_0_123456.abcdef--

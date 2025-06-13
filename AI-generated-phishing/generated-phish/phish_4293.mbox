@@ -1,0 +1,46 @@
+From phishing-sender@bank.com Fri Jul  7 12:34:56 2023
+Return-Path: <secure@bank.com>
+Received: from mail.bank.com (mail.bank.com [192.0.2.1]) by mx.domain.com with ESMTP id ABC123; Fri, 07 Jul 2023 12:34:56 +0000
+From: "Bank Security Alert" <secure@bank.com>
+Reply-To: support@secure-banking.net
+To: victim@domain.com
+Subject: Urgent: Account Password Update Required
+Date: Fri, 07 Jul 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1657200896000"
+
+------=_Part_0_123456.1657200896000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account has been flagged for suspicious activity. We require you to update your password immediately. Please view your secure notice at the following link:
+
+http://123.45.67.89/secure-update
+
+Failure to comply within 24 hours will result in account suspension.
+
+Privacy Policy: http://bank.com/privacy
+Help Center: http://bank.com/help
+
+Sincerely,
+Bank Security Team
+
+------=_Part_0_123456.1657200896000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your <strong>account</strong> has been flagged for <span style="color:red">suspicious activity</span>. We require you to update your <strong>password</strong> <em>urgently</em>. Please view your secure notice by clicking <a href="http://malicious.bank-security.update/login">secure.portal.com</a>.</p>
+    <p>Alternatively, <a href="http://123.45.67.89/login"><img src="http://images.bank.com/logo.png" alt="Secure Mail" /></a></p>
+    <p>Click <a href="http://update..bank-security.net/login">here</a> to proceed.</p>
+    <p><a href="http://123.45.67.89/empty"></a></p>
+    <p>If you have any issues, visit our <a href="http://bank.com/privacy-policy">privacy-policy</a> or <a href="http://bank.com/help">help</a>.</p>
+    <p><em>Failure to act within 24 hours will result in account suspension.</em></p>
+  </body>
+</html>
+
+------=_Part_0_123456.1657200896000--

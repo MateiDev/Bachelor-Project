@@ -1,0 +1,76 @@
+From noreply@irs.gov.com Mon Jul 19 10:10:10 2021
+Return-Path: <noreply@irs.gov.com>
+Delivered-To: user@domain.com
+Received: from relay.taxoffice.gov.com (relay.taxoffice.gov.com [203.0.113.5])
+	by mail.domain.com with ESMTP id ABC123 for <user@domain.com>; Mon, 19 Jul 2021 10:10:10 +0000 (UTC)
+Date: Mon, 19 Jul 2021 10:10:10 +0000
+From: IRS Tax Collection <noreply@irs.gov.com>
+To: user@domain.com
+Subject: Urgent: Account Verification Required - Immediate Action Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have completed processing of your 2020 tax returns and determined you are eligible for a small refund of $25.75. To claim your refund, please confirm your bank details using the link below. You have 48 hours for verification; failure to comply will result in forfeiture of your refund.
+
+Claim your refund: https://taxtools.irs.gov/verify
+
+Privacy details: https://www.privacy-policy.gov.com
+
+Sincerely,
+Tax Services
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Verification Required - Immediate Action Needed</title>
+</head>
+<body>
+<p style="font-family:Arial,sans-serif;color:#333;">
+<strong>Dear Taxpayer,</strong><br><br>
+We have completed processing of your <em>2020 tax returns</em> and determined you are eligible for a <strong>$25.75 refund</strong>. This is an <span style="color:red;">urgent</span> notification. To claim your refund, please confirm your bank details immediately by following the link below. Failure to verify within <strong>48 HOURS</strong> will put your refund at <strong>risk</strong>.<br><br>
+
+<!-- Malicious link disguised as official URL -->
+<p>
+<a href="http://198.51.100.77/confirm">https://taxtools.irs.gov/verify</a>
+</p>
+
+<!-- Generic anchor for phishing -->
+<p>
+For an alternate link, <a href="https://secure.tax-refund.confirmation.gov.com/submit-details">click here</a>.
+</p>
+
+<!-- Empty visible anchor -->
+<p>
+Verify Now: <a href="http://192.0.2.123/validation"></a>
+</p>
+
+<!-- Image-based link -->
+<p>
+<a href="http://203.0.113.45/bank"><img src="https://cdn.taxoffice.gov.com/images/logo.png" alt="Tax Office Logo" style="border:none;"></a>
+</p>
+
+<p>If you need assistance, refer to our <a href="https://www.privacy-policy.gov.com">privacy-policy</a> or <a href="https://help.taxoffice.gov.com/contact">help center</a>.</p>
+
+<p>
+To reset your password, <a href="http://198.51.100.77/reset">here</a>.
+</p>
+
+<p>
+Trusted URL: <a href="http://203.0.113.45/settings">https://www.irs.gov/tax/details.html</a>
+</p>
+
+<br>
+<p style="font-size:0.8em;color:#777;">Tax Services Department • 1600 Pennsylvania Ave • Washington, DC 20220</p>
+</body>
+</html>
+
+--BOUNDARY123--

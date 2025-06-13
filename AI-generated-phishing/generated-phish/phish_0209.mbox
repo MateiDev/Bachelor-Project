@@ -1,0 +1,44 @@
+```
+From nobody Mon Oct 30 19:42:44 2023
+From: "Loyalty Rewards" <rewards@exclusive-offers.com>
+To: "Valued Customer" <customer@example.com>
+Subject: Urgent: Claim your exclusive €100 voucher now!
+Date: Mon, 30 Oct 2023 19:42:44 +0000
+Reply-To: rewards@promotion-gifts.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-Boundary"
+
+--=-Boundary
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Congratulations! You have been selected to receive an exclusive €100 voucher. This is a limited-time offer, and you must claim your voucher now before it expires!
+
+Click the link below to secure your voucher:
+http://192.168.1.10/rewards
+
+Make sure to act fast to avoid missing out on this incredible opportunity!
+
+Sincerely,
+Loyalty Rewards Team
+
+--=-Boundary
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Congratulations! You have been selected to receive an exclusive <strong>€100 voucher</strong>. This is a <font color="red"><b>limited-time offer</b></font>, and you must claim your voucher now before it <b>expires</b>!</p>
+    <p><a href="http://192.168.1.10/rewards"><img src="http://192.168.1.10/images/claim-voucher.jpg" alt="Claim your voucher now!"></a></p>
+    <p>Make sure to act fast to avoid missing out on this incredible opportunity!</p>
+    <p><a href="http://192.168.1.10/terms">Terms & Conditions</a></p>
+    <p>Sincerely,<br>Loyalty Rewards Team</p>
+  </body>
+</html>
+
+--=-Boundary--
+
+```

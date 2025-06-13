@@ -1,0 +1,27 @@
+```mbox
+From phishing@parcel-update.com Fri Oct 27 11:15:32 2023
+Return-Path: <phishing@parcel-update.com>
+Received: from 192.168.254.254 (192.168.254.254) by recipientserver.com with SMTP; Fri, 27 Oct 2023 11:15:32 +0000
+Date: Fri, 27 Oct 2023 11:15:32 +0000
+From: DHL Parcel Notification <no-reply@secure-delivery-alert.com>
+Reply-To: urgent-update@delivery.com
+Subject: Urgent: Immediate Action Required to Release Your Held Package
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <img src="http://example.com/logo.jpg" alt="DHL Logo"/>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your parcel, but there is an <strong>urgent</strong> issue that needs your attention. Your package is currently on hold and requires immediate action to be released. Failure to act within 24 hours may result in the return of your package.</p>
+    <p>Kindly confirm your delivery details by clicking below:</p>
+    <p><a href="http://203.0.113.10/delivery-update">www.dhl.com/confirm</a></p>
+    <p>Alternatively, you can <a href="http://203.0.113.10/delivery-update"><img src="http://example.com/button.jpg" alt="Resolve Now"/></a></p>
+    <p>Your prompt response is required to ensure the successful delivery of your package.</p>
+    <p>Regards,</p>
+    <p>DHL Delivery Team</p>
+    <p>Need help? Visit our <a href="http://www.dhl.com/help">help page</a> or read our <a href="http://www.dhl.com/privacy-policy">privacy policy</a></p>
+</body>
+</html>
+```

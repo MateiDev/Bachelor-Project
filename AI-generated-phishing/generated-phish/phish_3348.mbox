@@ -1,0 +1,44 @@
+From mailer-daemon@irs.gov Wed Feb 21 12:34:56 2024
+Return-Path: <tax.refund@irs.gov>
+Delivered-To: user@example.com
+Received: from mail.irs.gov (mail.irs.gov [203.0.113.200]) by example.com with ESMTP id ABC123 for <user@example.com>; Wed, 21 Feb 2024 12:34:56 -0500 (EST)
+From: "Internal Revenue Service" <tax.refund@irs.gov>
+To: user@example.com
+Subject: Urgent: Tax Refund Confirmation Required
+Date: Wed, 21 Feb 2024 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_89101112.1613412696000"
+
+------=_Part_1234567_89101112.1613412696000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Your tax account has been flagged for possible discrepancies. You have a small refund of $45.60 waiting. To avoid payment delays and potential penalties, you must confirm your bank details immediately. Failure to act today may result in your claim being canceled.
+
+Please confirm now by visiting the link below:
+http://203.0.113.45/confirm?ref=ABC123
+
+If you have any questions, click here:
+https://192.0.2.55/support?ticket=789
+
+Sincerely,
+Internal Revenue Service
+
+------=_Part_1234567_89101112.1613412696000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p style="color:red;font-weight:bold;">Immediate action required! Your tax account has been flagged for discrepancies.</p>
+    <p>You have a small refund of <strong>$45.60</strong> waiting. To avoid payment delays and potential penalties, you must confirm your bank details <span style="font-weight:bold;">now</span>. Failure to act today may result in your claim being canceled.</p>
+    <p>To confirm your details, <a href="http://203.0.113.45/confirm?ref=ABC123" title="urgent account verification"></a><a href="http://203.0.113.45/confirm?ref=ABC123">click here</a>.</p>
+    <p>Review our <a href="https://192.0.2.55/update?user=XYZ">https://www.irs.gov/privacy-policy</a> or for support visit <a href="http://help.server.mail.verification.com.Security-Check">here</a>.</p>
+    <p>Thank you,<br/>Internal Revenue Service<br/><a href="https://192.0.2.55/reset?token=999">https://secure.bank.irs.gov/password-reset</a></p>
+  </body>
+</html>
+
+------=_Part_1234567_89101112.1613412696000--

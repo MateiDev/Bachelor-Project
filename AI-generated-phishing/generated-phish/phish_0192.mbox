@@ -1,0 +1,56 @@
+```mbox
+From sender@tax-refund.example.com Mon Oct 23 14:48:00 2023
+Return-path: <sender@tax-refund.example.com>
+Envelope-to: victim@example.com
+Delivery-date: Mon, 23 Oct 2023 14:48:00 -0400
+Received: from unknown (HELO smtp.tax-refund.example.com) (192.0.2.1)
+    by mail.example.com with SMTP; Mon, 23 Oct 2023 14:48:00 -0400
+Reply-To: confirmations@verifyform.net
+From: "Tax Refund Center" <sender@tax-refund.example.com>
+Date: Mon, 23 Oct 2023 14:45:00 -0400
+Message-ID: <20231023144800.1234567890.sender@tax-refund.example.com>
+Subject: Urgent: Verify Your Pending Refund!
+
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary42"
+
+--boundary42
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear valued taxpayer,
+
+We have determined that you are eligible for a refund on your taxes. Please confirm your banking details to ensure the transfer of your refund amount of $128.50.
+
+Click the link below to proceed:
+<https://fraudulent-link.example.com>
+
+Remember that your prompt action is needed to avoid any delay in processing your refund.
+
+Sincerely,
+Tax Refund Center
+
+For support and privacy policies, visit our official help page: 
+<https://official.example.com/help>
+
+--boundary42
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Refund Notification</title>
+  </head>
+  <body>
+    <p>Dear valued taxpayer,</p>
+    <p>We have determined that you are eligible for a refund on your taxes. Please <a href="https://fraudulent-link.example.com">confirm</a> your banking details to ensure the transfer of your refund amount of $128.50.</p>
+    <p>Click <a href="https://fraudulent-link.example.com"><b>here</b></a> to proceed.</p>
+    <p></p>
+    <p>Remember that your prompt action is needed to avoid any delay in processing your refund.</p>
+    <p>Sincerely,<br>
+    Tax Refund Center</p>
+    <p>For support and privacy policies, visit our official <a href="https://official.example.com/help"></a> help page.</p>
+  </body>
+</html>
+--boundary42--
+```

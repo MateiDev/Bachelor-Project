@@ -1,0 +1,46 @@
+```
+From phishing@securemail-alert.com Fri Oct 13 15:30:00 2023
+Return-Path: <phishing@securemail-alert.com>
+Delivered-To: victim@example.com
+Received: from inet-mail.example.org (inet-mail.example.org [192.0.2.100])
+        by mail.example.com (Postfix) with ESMTP id 123456789
+        for <victim@example.com>; Fri, 13 Oct 2023 15:30:00 +0000 (UTC)
+Received: from securealert.mymail.com (unknown [203.0.113.50])
+        by inet-mail.example.org (Postfix) with ESMTP id ABCDEFGHI
+        for <victim@example.com>; Fri, 13 Oct 2023 15:29:50 +0000 (UTC)
+To: victim@example.com
+Subject: Urgent: Account Security Notice
+Date: Fri, 13 Oct 2023 15:29:50 +0000
+From: Account Security Team <phishing@securemail-alert.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_0_123456.789123456"
+
+------=_Part_0_123456.789123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Attention User,
+
+We have detected unusual activity in your account that requires immediate attention to avoid interruption. Please log in to verify your details and secure your account.
+
+<http://192.0.2.200/verify>
+
+------=_Part_0_123456.789123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We noticed suspicious activity in your account and need your immediate attention. Failure to act could result in a temporary suspension of your account.</p>
+<p>Please <a href="http://192.0.2.200/verify">click here</a> to confirm your account details and secure your login.</p>
+<p>For your reference, you may want to review our <a href="http://trusted-domain.com/privacy-policy">Privacy Policy</a> and <a href="http://trusted-domain.com/help">Help</a>.</p>
+<p>Urgency is crucial. Act within 24 hours to prevent complications.</p>
+<p>Thank you,</p>
+<p>Account Security Team</p>
+</body>
+</html>
+
+------=_Part_0_123456.789123456--
+```

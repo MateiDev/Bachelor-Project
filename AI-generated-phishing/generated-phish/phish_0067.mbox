@@ -1,0 +1,28 @@
+```mbox
+From nobody Fri Oct 13 10:00:00 2023
+Return-Path: <alerts@securemail-notifications.com>
+Delivered-To: victim@example.com
+Received: from mail.securemail-notifications.com (123.45.67.89)
+    by mail.example.com with SMTP; Fri, 13 Oct 2023 10:00:00 -0000
+Date: Fri, 13 Oct 2023 10:00:00 +0000
+From: Account Security <alerts@securemail-notifications.com>
+Reply-To: noreply@123.45.67.89
+Subject: Urgent: Immediate Action Required - Secure Your Account
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity on your account that requires immediate attention.</p>
+    <p>Please <strong>verify</strong> your information to ensure your account's safety.</p>
+    <p>Failure to do so will result in <strong>account suspension</strong>.</p>
+    <a href="http://192.168.1.100.secure-portal-update.com" target="_blank">
+      <img src="https://fake-image.com/security-check.png" alt="Secure Account Now"/>
+    </a>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely, <br> The Account Security Team</p>
+  </body>
+</html>
+```

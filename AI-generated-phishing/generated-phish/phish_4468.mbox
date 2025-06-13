@@ -1,0 +1,27 @@
+From MAILER-DAEMON Mon Jul 26 12:00:00 2021
+Return-Path: <noreply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.1]) by mx.google.com with ESMTP id abc123
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: "Support Team" <support@secure-update.com>
+Subject: URGENT: Tax Refund Account Verification Required
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Account Verification Required</title></head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Our records indicate a <strong>pending refund</strong> of <strong>$142.50</strong> due to you. <span style="color:red;">Immediate action required</span> to avoid processing delays or potential <strong>account suspension</strong>.</p>
+<p>Confirm your banking details by clicking below:</p>
+<p><a href="http://198.51.100.23/confirm/refund"></a></p>
+<p><a href="http://198.51.100.23/confirm/refund"><img src="http://images.secure-irs.gov/logo.png" alt="IRS Logo"></a></p>
+<p>Secure portal link: <a href="https://www.irs.gov/refund/verify?session=abc123">https://www.irs.gov/refund/verify?session=abc123</a></p>
+<p>Alternate link: <a href="http://secure-update.v2.bank.verify.info.com/login"> </a></p>
+<p>Quick verification: <a href="http://192.0.2.123/secure"></a> or <a href="http://203.0.113.74/verify">https://secure.irs-online.gov/verify</a></p>
+<p>Our <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> and <a href="https://help.irs.gov/">Help Center</a> are available for more info. Click <a href="http://admin-modal.verification.com/here">here</a> to proceed.</p>
+<p><span style="color:red;"><strong>Warning:</strong></span> Failure to verify within <strong>48 hours</strong> will result in refund forfeiture and account flagging.</p>
+<p>Sincerely,<br>IRS Refund Department</p>
+</body>
+</html>

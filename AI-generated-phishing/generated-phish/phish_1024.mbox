@@ -1,0 +1,37 @@
+From service@paypal.com Tue Oct 27 12:34:56 2020
+Message-ID: <20201027123456.abcdef@paypal.com>
+Date: Tue, 27 Oct 2020 12:34:56 -0400
+From: "PayPal" <service@paypal.com>
+To: victim@example.com
+Subject: Urgent: Your Account Has Been Locked – Immediate Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000123456789"
+
+--000000000000123456789
+Content-Type: text/plain; charset="UTF-8"
+
+Dear PayPal Customer,
+
+We have detected suspicious activity on your PayPal account. For your security, you must verify your account within 24 hours to avoid suspension. Failure to verify your password immediately will result in permanent account limitation.
+
+Verify Now: http://very.sneaky.phish-site.com/login
+Privacy Policy: https://www.paypal.com/privacy
+Help Center: https://www.paypal.com/help
+
+Thank you,
+PayPal Security Team
+
+--000000000000123456789
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear PayPal Customer,</p>
+    <p style="color:#d9534f;"><strong>URGENT:</strong> Suspicious activity was detected on your <em>account</em>. You must verify your <strong>password</strong> immediately to prevent <span style="text-decoration:underline;">suspension</span>.</p>
+    <p>Please <a href="http://very.sneaky.phish-site.com/login"></a> or <a href="http://secure.login.portal.xyz.verifyinfo.com/auth">here</a> to verify your credentials within the next 24 hours.</p>
+    <p>Need help? Visit our <a href="https://www.paypal.com/help">Help Center</a> or review our <a href="https://www.paypal.com/privacy">Privacy Policy</a>.</p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+--000000000000123456789--

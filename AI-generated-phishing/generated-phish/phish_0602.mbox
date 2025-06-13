@@ -1,0 +1,71 @@
+From notifications@mybank.com Mon Jul 31 08:23:45 2023
+Return-Path: <notifications@mybank.com>
+Received: from mx1.mybank.com (mx1.mybank.com [198.51.100.45])
+    by mx.google.com with ESMTP id abcdef123456
+    for <user@domain.com>; Mon, 31 Jul 2023 08:23:45 -0700 (PDT)
+From: "MyBank Support" <support@mybank.com>
+Reply-To: "Refund Team" <refund-team@mybank-review.com>
+Subject: Action Required: Pending Tax Refund Confirmation
+Date: Mon, 31 Jul 2023 08:23:45 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef.abcdef"
+
+----=_Part_123456_abcdef.abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your federal tax return and found a small refund of $23.47 is available for you. To receive your refund, please confirm your bank details immediately by visiting one of the links below:
+
+Primary link:
+http://203.0.113.5/confirm?uid=ABC123
+
+Alternate link:
+https://verification.mybank-secureservice.co.uk/confirmDetails?ref=ABC123
+
+For assistance, you may also visit our Help Center:
+https://support.mybank.com/privacy-policy
+
+Thank you,
+MyBank Support Team
+
+----=_Part_123456_abcdef.abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>
+      We have processed your federal tax return and found a small refund of
+      <strong>$23.47</strong> is waiting. To receive it, please confirm your
+      bank details by clicking the button below:
+    </p>
+    <p>
+      <a href="http://203.0.113.5/confirm?uid=ABC123" style="display:inline-block;padding:10px 20px;background-color:#0072ce;color:#ffffff;text-decoration:none;">
+        Confirm Refund
+      </a>
+    </p>
+    <p>
+      Alternatively, you can
+      <a href="https://verification.mybank-secureservice.co.uk/confirmDetails?ref=ABC123">click here</a>
+      to update your info.
+    </p>
+    <p>
+      <a href="https://mybank.com/privacy">Privacy Policy</a> |
+      <a href="https://support.mybank.com/help">Help Center</a>
+    </p>
+    <p>
+      <a href="http://203.0.113.5/confirm?uid=ABC123">
+        <img src="http://203.0.113.5/images/bank_logo.png" alt="MyBank Logo" style="border:none;"/>
+      </a>
+    </p>
+    <p>
+      Thank you,<br/>
+      MyBank Support
+    </p>
+  </body>
+</html>
+
+----=_Part_123456_abcdef.abcdef--

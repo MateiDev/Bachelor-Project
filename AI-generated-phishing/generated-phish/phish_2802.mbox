@@ -1,0 +1,45 @@
+```
+From - Tue Oct 31 21:55:10 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <no-reply@deliverynotice.com>
+Received: from unknown (IP: 92.103.18.221)
+        by mailserver.example.com with SMTP; Tue, 31 Oct 2023 21:55:08 +0000
+Date: Tue, 31 Oct 2023 21:54:55 +0000
+From: "DHL Support" <support@dhl-notification.com>
+To: recipient@example.com
+Subject: Urgent: Action Required for Your Suspended Delivery
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_56_426573963.627560943"
+X-Priority: 1
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+
+This is a multi-part message in MIME format.
+
+------=_Part_56_426573963.627560943
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Delivery Notice</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your package has been <strong>suspended</strong> due to an issue with delivery.</p>
+<p>To resolve this, please confirm your details and address through the following secure link:</p>
+<p><a href="http://192.168.1.1/confirm"> </a></p>
+<p>Failing to do so may result in <strong>permanent loss</strong> of the package. This issue must be resolved <strong>immediately</strong>.</p>
+<p><img src="http://192.168.1.1/dhl_secure/logo.jpg" alt="Secure Logo"/></p>
+<p>For more information, please visit our <a href="https://dhl.com/help-support">privacy policy</a> or <a href="https://dhl.com/contact-us">contact help desk</a>.</p>
+<p>Click <a href="http://suspension.notice.href123.com/package">here</a> to resolve now.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Regards,</p>
+<p>DHL Support Team</p>
+</body>
+</html>
+------=_Part_56_426573963.627560943--
+```

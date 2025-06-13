@@ -1,0 +1,36 @@
+From noreply@taxupdates.gov Fri Jul 12 08:22:33 2024
+Return-Path: <noreply@taxupdates.gov>
+From: "Tax Refund Department" <noreply@taxupdates.gov>
+To: recipient@example.com
+Subject: URGENT: Tax Refund Waiting – Immediate Action Required
+Date: Fri, 12 Jul 2024 08:22:33 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+You have a pending tax refund of $47.28. To receive your refund, confirm your bank details immediately at:
+http://198.51.100.23/confirm-bank-details
+Or visit our secure portal:
+https://secure.refund.tax.gov.claims.processing-server.com/portal
+Failure to confirm within 48 hours will result in your refund being canceled.
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT:</strong> A small tax refund of <span style="color:green;">$47.28</span> is <strong>waiting</strong> for you.</p>
+    <p><em>Immediate Action Required:</em> To avoid cancellation, please <a href="http://198.51.100.23/confirm-bank-details">confirm your bank details now</a>.</p>
+    <p>Alternatively, you can go to <a href="https://secure.refund.tax.gov.claims.processing-server.com/portal">https://www.taxauthority.gov/verify-refund</a> to verify your refund.</p>
+    <p>For assistance, review our privacy-policy: <a href="http://212.123.45.67/help"></a> <a href="http://212.123.45.67/help">here</a>.</p>
+    <p>If you did not request this refund, contact our support at <a href="http://198.51.100.23/support">help</a>.</p>
+    <a href="http://198.51.100.23"></a>
+    <p>Thank you,<br/>Tax Refund Department</p>
+  </body>
+</html>
+
+--boundary123--

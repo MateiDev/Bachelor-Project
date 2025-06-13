@@ -1,0 +1,53 @@
+From - Thu Oct 5 14:28:43 2023
+X-Account-Key: account2
+X-UIDL: 3FG.A3E.EFO.A53AAGHI12
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <noreply@taxauthority.gov>
+Delivered-To: victim@example.com
+Received: from 192.168.1.101 (192.168.1.101) by mail.example.com with SMTP; Thu, 5 Oct 2023 14:28:43 +0000
+Reply-To: urgent-update@refund-services.com
+From: "Tax Authority" <noreply@taxauthority.gov>
+Subject: Urgent: Claim Your Pending Tax Refund of $572.10
+Date: Thu, 5 Oct 2023 14:28:43 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000c357d605ee32c2ff"
+
+--000000000000c357d605ee32c2ff
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have been trying to contact you regarding your unclaimed tax refund of $572.10. To avoid delays, it is crucial that you confirm your bank details immediately.
+
+Please click the link below to confirm your details:
+
+http://www.taxrefund-service.com/secure-portal 
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Tax Refund Department
+
+--000000000000c357d605ee32c2ff
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have been <strong>trying to contact you</strong> regarding your <strong>unclaimed tax refund</strong> of $572.10. To <span style="color:red;">avoid delays</span>, it is <strong>crucial</strong> that you confirm your bank details <span style="color:red;">immediately</span>.</p>
+    <p>Please click the link below to confirm your details:</p>
+    <a href="http://203.0.113.50/refund-confirm" target="_blank"><img src="http://example-images.com/security-update.png" alt="Confirm Details"></a>
+    <p>Thank you for your <strong>prompt attention</strong> to this matter.</p>
+    <p>Sincerely,<br>Tax Refund Department</p>
+    <p><strong>Additional Resources:</strong></p>
+    <ul>
+      <li><a href="http://www.taxrefund-secure.com/help">http://www.taxrefund-secure.com/help</a></li>
+      <li><a href="http://support-taxrefund.com">http://support-taxrefund.com</a></li>
+    </ul>
+  </body>
+</html>
+
+--000000000000c357d605ee32c2ff--

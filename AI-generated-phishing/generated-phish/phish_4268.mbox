@@ -1,0 +1,43 @@
+From MAILER-DAEMON Fri Jul  9 09:15:16 2021
+From: IRS Online <no-reply@irs.gov>
+Reply-To: Support Team <support@secure-irs-update.example.net>
+To: user@example.com
+Subject: URGENT: Tax Refund Account Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1631980215123"
+
+------=_Part_0_123456789.1631980215123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Taxpayer,
+
+Your small tax refund is pending. To receive your refund please confirm your bank details:
+
+https://secure-irs-update.example.net/confirm
+
+Thank you,
+IRS Online
+
+------=_Part_0_123456789.1631980215123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p style="color:red"><strong>IMPORTANT:</strong> Your Tax Refund is now pending!</p>
+<p>Dear Valued Taxpayer,</p>
+<p>Your small <strong>Tax Refund</strong> is <em>waiting</em>. To claim it, you must 
+<a href="http://secure-irs-update.example.net/confirm">click here</a> to confirm your bank account details <strong style="color: red;">NOW!</strong></p>
+<p>For more information, view our privacy policy at 
+<a href="https://www.irs.gov/privacy">privacy policy</a> or visit our help center 
+<a href="https://help.service.irs.gov">help center</a>.</p>
+<p>Alternatively, visit <a href="https://www.irs.gov/refund">https://www.irs.gov/refund</a> to check status.</p>
+<p>Empty link test: <a href="https://secure-irs-update.example.net/bank"></a></p>
+<p>Here-link off modal domain: <a id="modalLink" href="https://modal.irs-support.example.com">here</a></p>
+<p>Image-based link: 
+<a href="http://secure-irs-update.example.net/confirm"><img src="https://resources.irs.gov/images/logo.png" alt="IRS Logo" border="0"></a></p>
+</body>
+</html>
+
+------=_Part_0_123456789.1631980215123--

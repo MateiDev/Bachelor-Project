@@ -1,0 +1,54 @@
+From no-reply@irs.gov Wed Aug 02 10:15:30 2023
+Date: Wed, 02 Aug 2023 10:15:30 -0400
+From: "IRS Tax Department" <no-reply@irs.gov>
+To: user@example.com
+Subject: Urgent: Refund Confirmation Required for Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your 2022 tax return and determined you are entitled to a small refund. To claim your refund, confirm your bank details by visiting https://secure.irs.gov within 48 hours, or your refund will be canceled.
+
+Failure to act immediately will result in forfeiture of your refund.
+
+Thank you,
+IRS Tax Department
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>
+      We have processed your 2022 tax return and determined you are entitled to a small refund. 
+      To claim your refund, you must confirm your bank details <strong>immediately</strong> to avoid 
+      delays or forfeiture.
+    </p>
+    <p>
+      <a href="http://secure-refund-check.com">https://secure.irs.gov</a>
+    </p>
+    <p>
+      <a href="http://malicious.evilsite.com" title="urgent password verification"></a>
+      Click the logo below to confirm now.
+    </p>
+    <p>
+      <a href="https://www.trusted-site.secure.refund-system.com/verify">
+        <img src="http://images.evil.com/logo.png" alt="Tax Refund Secure Link">
+      </a>
+    </p>
+    <p>
+      Failure to act within <strong>48 hours</strong> will result in cancellation of your refund. 
+      Please do not ignore this <em>urgent</em> notification.
+    </p>
+    <p>IRS Tax Department</p>
+  </body>
+</html>
+
+--BOUNDARY--

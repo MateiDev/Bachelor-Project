@@ -1,0 +1,51 @@
+From mailer-daemon@example.com Mon Jan  1 12:34:56 2024
+Return-Path: <tax@irs.gov>
+Delivered-To: user@example.com
+Received: by mail.example.com id 12345; Mon,  1 Jan 2024 12:34:56 -0500 (EST)
+From: "Internal Revenue Service" <tax@irs.gov>
+Reply-To: attacker@evil.com
+Subject: Urgent: Account Tax Refund Confirmation Required
+To: user@example.com
+Message-ID: <abc123def456@irs.gov>
+Date: Mon, 1 Jan 2024 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Warning: Your tax refund is pending. You must confirm your bank details immediately to avoid delay.
+
+Please visit the secure link below to confirm your account information:
+https://www.irs.gov/refund
+
+Thank you,
+IRS
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p><strong>URGENT:</strong> Your tax refund of $137.50 is awaiting confirmation. Immediate action is required to avoid cancellation.</p>
+    <p>Please click the button below to confirm your bank details:</p>
+    <p>
+      <a href="http://secure-login.evil.com/confirm">
+        <img src="http://images.irs.gov/logo.png" alt="Confirm Now" style="border:0"/>
+      </a>
+    </p>
+    <p>Verify your account: <a href="http://secure-login.evil.com/confirm"></a></p>
+    <p>If the button above does not work, please go to 
+      <a href="http://secure-login.evil.com/confirm">https://www.irs.gov/refund</a>
+    </p>
+    <p>Failure to respond may result in delay or forfeiture of your refund.</p>
+    <p>Sincerely,<br/>Internal Revenue Service</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

@@ -1,0 +1,50 @@
+From notifications@dhl.com Fri Jan 19 12:00:00 2024
+Return-Path: <notifications@dhl.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.2]) by mx.example.com with ESMTP id ABC123
+Subject: Urgent Account Delivery Notification
+From: "DHL Express" <notifications@dhl.com>
+Reply-To: support123@security-update.com
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b8aad905b8ef8f9d"
+
+--000000000000b8aad905b8ef8f9d
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Your parcel is awaiting delivery and requires urgent action to avoid return to shipper.
+Please verify your account information immediately:
+1) https://secure.verify.dhl.com/track?ref=ABC123
+2) http://192.0.2.45/confirm
+3) http://verify.dhl.trackings.service.info/auth
+
+Thank you,
+DHL Express Team
+
+--000000000000b8aad905b8ef8f9d
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Urgent Account Delivery Notification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your package <strong>ABC123DEF</strong> is being held pending confirmation of your account details. To avoid return and additional fees, please verify your information immediately:</p>
+<ul>
+<li>Click the link below:</li>
+<li><a href="http://197.51.100.23/verify?ref=ABC123DEF">https://secure.verify.dhl.com/verify</a></li>
+<li>Or use the IP-based tracker: <a href="http://203.0.113.67/tracking">http://203.0.113.67/tracking</a></li>
+</ul>
+<p>Alternatively, click the image below:</p>
+<a href="http://198.51.100.10/release">
+<img src="http://secure.verify.dhl.com/images/dhl_logo.png" alt="DHL Express" border="0"/>
+</a>
+<p>Please complete the process within 24 hours to avoid storage fees.</p>
+<p>Best regards,<br/>DHL Express Delivery Team</p>
+</body>
+</html>
+
+--000000000000b8aad905b8ef8f9d--

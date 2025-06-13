@@ -1,0 +1,53 @@
+From secure-update@portal-securemail.com Mon Jul 03 08:15:00 2023
+Return-Path: <secure-update@portal-securemail.com>
+Received: from portal-securemail.com (portal-securemail.com [203.0.113.10])
+    by victim.com with ESMTP id v1234AB
+    for <victim@victim.com>; Mon, 3 Jul 2023 08:15:00 -0400 (EDT)
+Date: Mon, 3 Jul 2023 08:15:00 -0400
+From: "Portal Secure Mail" <secure-update@portal-securemail.com>
+To: victim@victim.com
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary1234"
+
+--boundary1234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unauthorized login attempts to your account. As a security measure, your login has been temporarily locked due to critical password failures. To restore access, please verify your credentials immediately by clicking the link below:
+
+https://secure.email.portal-login.bad-domain.com/update?ref=abc123
+
+If you cannot click the link, copy and paste it into your browser.
+
+Thank you,
+Portal Secure-Mail Team
+
+--boundary1234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Password Verification Required</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected <strong>unauthorized login attempts</strong> to your account. As a security measure, your login has been temporarily locked due to <em>critical password failures</em>. To restore access, please verify your credentials immediately by clicking the button below:</p>
+<p>
+<a href="https://secure.email.portal-login.bad-domain.com/update?ref=abc123">
+<button style="padding:10px 20px;background-color:#0073e6;color:#fff;border:none;font-size:16px;cursor:pointer;">
+View Secure-Mail
+</button>
+</a>
+</p>
+<p>Alternatively, you can <a href="http://203.0.113.5/secure?token=xyz"></a></p>
+<p>If the button does not work, copy and paste the following link into your browser:</p>
+<p><a href="http://203.0.113.5/login">https://service.portal-securemail.com/login</a></p>
+<p>For assistance, click <a href="https://help.portal-securemail.com">here</a> or review our <a href="http://203.0.113.5/privacy-policy.html">Privacy Policy</a>.</p>
+<p><a href="http://203.0.113.5/login"><img src="http://203.0.113.5/logo.png" alt="Portal SecureMail Logo" border="0"/></a></p>
+<p>Thank you,<br/>Portal Secure-Mail Team</p>
+</body>
+</html>
+
+--boundary1234--

@@ -1,0 +1,39 @@
+From phisher@dhl-delivery.com Wed Jun 19 12:34:56 2024
+Return-Path: <phisher@dhl-delivery.com>
+Received: from smtp.dhl-delivery.com ([203.0.113.45])
+    by mail.testserver.com with ESMTP id ABC123DEF
+    for <user@victim.com>; Wed, 19 Jun 2024 12:34:56 -0400
+From: "DHL Delivery Team" <no-reply@dhl.com>
+Reply-To: "DHL Support" <support@dhl-update.net>
+To: user@victim.com
+Subject: urgent: account password confirmation required for your package
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890"
+
+----=_Part_1234_567890
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+Your package is currently on hold due to missing verification. Please visit the link below to confirm your account password and release your parcel.
+
+1) https://dhl.com/verify
+2) https://tracking.dhl-secure.notify.com/parcel
+
+----=_Part_1234_567890
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your <strong>account</strong> and <strong>password</strong> require <em>urgent</em> confirmation to release your DHL package. Click the links below:</p>
+<ul>
+<li><a href="http://tracking.dhl.delivery-update.secure-server.com/verify?ref=12345">https://www.dhl.com/track?confirmation=67890</a></li>
+<li><a href="http://malicious-site.com/parcel?id=98765"></a></li>
+</ul>
+<p>If you do not confirm your account within 24 hours, your shipment will be returned to sender.</p>
+<p>Thank you,<br>DHL Delivery Team</p>
+</body>
+</html>
+
+----=_Part_1234_567890--

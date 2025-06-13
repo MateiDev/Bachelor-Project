@@ -1,0 +1,47 @@
+From support@paypal.com Sat Jun 15 10:20:30 2024
+Return-Path: <support@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [66.211.168.161]) by secured-host.local with ESMTP id ABC12345 for <user@secured.com>; Sat, 15 Jun 2024 10:20:30 -0400 (EDT)
+From: "PayPal Support" <support@paypal.com>
+Reply-To: support@accounts-update.paypal.net
+To: user@secured.com
+Subject: Unusual Sign-in Detected – Action Required
+Message-ID: <20240615142030.ABC12345@mail.paypal.com>
+Date: Sat, 15 Jun 2024 10:20:30 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.abcdef"
+
+------=_Part_0_123456.abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected—verify now to secure your PayPal account:
+https://secure-login.paypal.com/verify
+
+Your password expires today – reset immediately:
+https://account-security.paypal.com/reset
+
+If you do not reset your password, your account will be temporarily locked.
+
+Thank you for your prompt attention,
+PayPal Security Team
+
+------=_Part_0_123456.abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Unusual sign-in detected—please <a href="https://secure-login.fake-domain.com/verify">verify now</a> to secure your account.</p>
+    <p>Your password expires today – <a href="https://account.verify-login.com/reset">here</a> reset immediately.</p>
+    <p><a href="https://malicious-image-domain.com/action"><img src="https://malicious-image-domain.com/banner.jpg" alt="PayPal Security"/></a></p>
+    <p>For more information, visit our <a href="https://www.paypal.com/privacy">Privacy Policy</a> or <a href="https://www.paypal.com/help">Help Center</a>.</p>
+    <p>You can also visit <a href="http://secure-login.fake-domain.com/security">https://paypal.com/security</a> for details.</p>
+    <p><a href="https://hidden-login.fake-domain.com"></a></p>
+    <p>Regards,<br/>PayPal Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.abcdef--

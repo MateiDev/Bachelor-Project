@@ -1,0 +1,23 @@
+From advancedsecurity@bank-secure.com Wed Jul 05 14:18:00 2023
+Return-Path: <no-reply@bank.com>
+From: "Bank Security" <security@bank.com>
+To: victim@domain.com
+Reply-To: support_team@verify-bank.net
+Subject: Urgent: Unusual sign-in detected – Action Required
+Date: Wed, 05 Jul 2023 14:18:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected an <strong>Unusual sign-in</strong> attempt on your account. Your account may be <strong>COMPROMISED</strong>. <strong>Action REQUIRED</strong>: verify your identity <strong>IMMEDIATELY</strong> to avoid SUSPENSION.</p>
+    <p>Password expires today – <strong>reset immediately</strong> by verifying now via the link below:</p>
+    <p><a href="http://192.0.2.123/secure/verify"></a></p>
+    <p>Alternatively, visit <a href="http://login.secure.login.bank.manage-update.com/">https://secure.bank.com</a> to reset your password.</p>
+    <p><strong>Failure to act now</strong> will result in permanent account suspension.</p>
+    <p>Thank you,<br/>
+       Security Team</p>
+  </body>
+</html>

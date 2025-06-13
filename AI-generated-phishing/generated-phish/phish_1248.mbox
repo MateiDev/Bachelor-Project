@@ -1,0 +1,49 @@
+From attacker@bank.com Fri Jul 08 09:23:15 2022
+Return-Path: <no-reply@bank.com>
+Received: from mail.bank.com (mail.bank.com [192.0.2.1]) by victim.com; Fri, 08 Jul 2022 09:23:15 +0000
+Subject: URGENT: Claim Your €100 Voucher Now!
+From: "Customer Support" <support@bank.com>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+
+----=_Part_123456_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is an URGENT notification. You are eligible for a €100 voucher. This offer will expire in 24 hours. To claim your gift card immediately, please visit:
+
+https://secure.bank.com/redeem
+
+If the link does not work, open your browser and go to https://secure.bank.com.
+
+For assistance, visit our help page: https://support.bank.com/help
+
+Thank you,
+Customer Support Team
+
+----=_Part_123456_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT:</strong> Your <span style="color:red;">€100 Voucher</span> is ready for you!</p>
+    <p>This is a <em>critical</em> notification. Your voucher offer will <u>expire</u> in <strong>24 hours</strong>. <span style="text-decoration:underline;">Act now</span> to secure your reward.</p>
+    <!-- Image-based link -->
+    <a href="http://voucher.claim.bank.secure-login.com/redeem">
+      <img src="http://assets.bank.com/images/giftcard.png" alt="Claim Your Voucher" />
+    </a>
+    <p>Or you can click on our secure link below:</p>
+    <!-- Non-matching URLs -->
+    <a href="http://voucher.claim.bank.secure-login.com/redeem">https://secure.bank.com/redeem</a>
+    <p>If you need assistance, <a href="https://support.bank.com/help">help</a> is available.</p>
+    <p>To review our <a href="https://support.bank.com/privacy-policy">privacy policy</a>, click here.</p>
+    <!-- Empty visible link -->
+    <a href="http://voucher.claim.bank.secure-login.com/redeem" style="display:block;width:600px;height:400px;"></a>
+  </body>
+</html>
+
+----=_Part_123456_abcdef--

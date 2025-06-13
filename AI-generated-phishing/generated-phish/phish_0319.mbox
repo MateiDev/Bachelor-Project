@@ -1,0 +1,46 @@
+```mbox
+From phishing-alert@securemail.com Sat Oct 14 14:12:35 2023
+Content-Type: multipart/alternative; boundary="boundary-string"
+MIME-Version: 1.0
+Subject: Urgent: Immediate Action Required for Your Account Security
+From: Secure Mail Support <support@securemail.com>
+To: victim@example.com
+Date: Sat, 14 Oct 2023 14:12:35 +0000
+Message-ID: <1234567890@example.com>
+
+--boundary-string
+Content-Type: text/plain; charset="utf-8"
+
+Dear User,
+
+We have detected unusual activity on your account. Immediate action is required. Please use the secure link below to verify your details:
+
+http://192.168.1.1/secureverify
+
+Ignoring this message may result in your account being suspended.
+
+Sincerely,
+Secure Mail Security Team
+
+--boundary-string
+Content-Type: text/html; charset="utf-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <b>unusual activity</b> on your account. <span style="color:red;">Immediate action is required.</span></p>
+    <p>
+      Please use the secure link below to verify your details:<br>
+      <a href="http://192.168.1.1/secureverify">
+        <img src="http://192.168.1.1/images/securebutton.png" alt="Verify Now" width="150">
+      </a>
+    </p>
+    <p>Ignoring this message may result in your account being suspended.</p>
+    <p>Click <a href="http://192.168.1.1/secureverify">here</a> to verify</p>
+    <p>For assistance, please visit our <a href="https://securemail.com/privacy-policy">privacy policy</a> or <a href="https://securemail.com/help">help page</a>.</p>
+    <p>Sincerely,<br>Secure Mail Security Team</p>
+  </body>
+</html>
+
+--boundary-string--
+```

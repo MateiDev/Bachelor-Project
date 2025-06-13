@@ -1,0 +1,55 @@
+From rewards@legit-shop.com Sat Apr 27 10:35:22 2023
+From: "Gift Rewards" <rewards@legit-shop.com>
+Reply-To: support@fake-scamsite.net
+To: victim@example.com
+Subject: Urgent: You’re eligible for a €100 voucher—claim here!
+Date: Sat, 27 Apr 2023 10:35:22 +0200
+Message-ID: <20230427103522.abcdef@legit-shop.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============001234567=="
+
+--===============001234567==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have exciting news! You have been randomly selected for a €100 gift voucher to use on any purchase at our site. This urgent offer will expire in 24 hours. Act now to avoid missing out!
+
+To claim your voucher immediately, please visit:
+http://1.2.3.4/claim
+
+Or copy and paste this link into your browser:
+http://legit.shop.support.genuine-offers.com/redeem
+
+If you do not claim your reward within the next 24 hours, your voucher will be cancelled permanently.
+
+Best regards,
+The Gift Rewards Team
+
+--===============001234567==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>URGENT!</strong> You’re eligible for a <em>€100 gift voucher</em>. This <span style="color:red;">exclusive</span> offer will <strong>expire in 24 hours</strong>. <span style="color: red">Act now</span> to secure your reward!</p>
+    <p>Click <a href="http://192.168.0.100/activate">here</a> to claim your voucher instantly.</p>
+    <p>
+      <a href="http://192.168.0.100/activate"><img src="https://assets.legit-shop.com/images/voucher_banner.png" alt="Claim Your Voucher" border="0"/></a>
+    </p>
+    <p>Alternatively, visit 
+      <a href="http://5.6.7.8/redeem"></a>
+      <a href="http://5.6.7.8/redeem" target="_blank">www.legit.shop.support.genuine-offers.com</a>
+    </p>
+    <p>If the link above doesn’t work, click <a href="http://bm-.modal-domain.com/redirect">here</a> or copy and paste this URL into your browser: 
+      <a href="http://bm-.modal-domain.com/redirect">http://secure.legit-shop.com/account</a>
+    </p>
+    <p>Privacy policy | <a href="http://phishingsite.bad/help">help</a> | <a href="http://phishingsite.bad/privacy-policy">privacy-policy</a></p>
+    <p>Failure to claim your voucher within the next 24 hours will lead to automatic cancellation. Don’t miss out!</p>
+    <p>Best regards,<br/>Gift Rewards Team</p>
+  </body>
+</html>
+
+--===============001234567==--

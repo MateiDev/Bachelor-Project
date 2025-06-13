@@ -1,0 +1,41 @@
+From IRSREFUND Thu Jun 20 14:22:01 2024
+From: "IRS Refund Department" <refund@irs.gov.com>
+To: user@domain.com
+Subject: URGENT: Tax Refund Confirmation Required
+Date: Thu, 20 Jun 2024 14:22:01 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your 2023 Federal Tax Return and determined you are eligible for a small refund of $47.85. This is a time-sensitive refund. Immediate action is required to avoid forfeiture. Failure to confirm your banking information within 48 hours will result in your claim being cancelled and your account being locked.
+
+Please confirm your bank details to receive your refund:
+- https://secure.tax-update.service.com/confirm?ref=45678
+- https://192.0.2.123/status
+
+For assistance, visit Help Center or review our Privacy Policy. If the links above fail, click here to manually confirm.
+
+Thank you for your prompt attention to this urgent matter.
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have processed your 2023 Federal Tax Return and determined you are eligible for a small refund of <strong>$47.85</strong>. This is a <strong>time-sensitive</strong> refund. <span style="color:red;"><strong>Immediate action required</strong></span> to avoid forfeiture. Failure to confirm your banking information within <strong>48 hours</strong> will result in your claim being cancelled and your account being locked.</p>
+    <p>Please <a href="http://secure.tax-update.service.com/confirm?ref=45678">Confirm Now</a> your bank details to receive your refund.</p>
+    <p>Or you can track your refund status at <a href="http://192.0.2.123/status">https://www.irs.gov/refund-status</a>.</p>
+    <p>For assistance, visit <a href="http://192.0.2.123/help">Help Center</a> or review our <a href="http://185.14.23.45/privacy-policy">Privacy Policy</a>.</p>
+    <p>If the links above fail, <a href="http://192.0.2.123/manual">click here</a> to manually confirm.</p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+  </body>
+</html>
+
+--===============123456789==--

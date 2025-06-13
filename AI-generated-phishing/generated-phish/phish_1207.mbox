@@ -1,0 +1,47 @@
+From no-reply@tax-refund.gov Sat Mar 30 10:22:33 2024
+Return-Path: <no-reply@tax-refund.gov>
+Delivered-To: user@domain.com
+Received: from mail.tax-refund.gov (mail.tax-refund.gov [198.51.100.5])
+    by mx.google.com with ESMTP id abc123xyz
+    for <user@domain.com>; Sat, 30 Mar 2024 10:22:33 -0700 (PDT)
+From: "Tax Office Refund Team" <no-reply@tax-refund.gov>
+To: user@domain.com
+Subject: Urgent: Password and Account Verification Required for Tax Refund
+Date: Sat, 30 Mar 2024 10:22:33 -0700 (PDT)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_9_123456789.987654321"
+
+----=_Part_9_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your 2023 tax refund of $47.00 remains pending. To avoid automatic cancellation, you must confirm your bank account details and password immediately.
+
+Verify now: https://tax-refund.gov/confirm
+Privacy policy: https://tax-refund.gov/privacy-policy
+Help center: https://tax-refund.gov/help
+
+Failure to act within 24 hours will result in immediate forfeiture of your refund.
+
+Sincerely,
+Tax Office Refund Team
+
+----=_Part_9_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p><strong>Urgent Security Alert:</strong> Your tax refund of <strong>$47.00</strong> is still <em>pending</em>. To prevent loss of funds, please confirm your <strong>account</strong> and <strong>password</strong> <span style="color:red;">immediately</span>.</p>
+    <p>Please <a href="https://secure.login.verify.tax-refund.online/confirm">click here</a> to verify your details now.</p>
+    <p>Alternatively, visit <a href="https://secure.login.verify.tax-refund.online/update">https://tax.gov/confirm</a> to complete verification.</p>
+    <p>You can also review our <a href="https://tax-refund.gov/privacy-policy.html">privacy policy</a> or access the <a href="https://support.tax-refund.gov/help">help center</a>.</p>
+    <p style="color:red;">Failure to act within 24 hours will result in immediate cancellation of your refund.</p>
+    <p>Sincerely,<br>Tax Office Refund Team</p>
+  </body>
+</html>
+
+----=_Part_9_123456789.987654321--

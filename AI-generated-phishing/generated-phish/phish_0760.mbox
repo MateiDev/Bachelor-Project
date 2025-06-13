@@ -1,0 +1,52 @@
+From delivery@dhl.com Mon Jun 24 12:34:56 2024
+Return-Path: <delivery@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.50]) by mx.google.com with ESMTP id abc123def456; Mon, 24 Jun 2024 12:34:56 +0000
+From: "DHL Express" <delivery@dhl.com>
+Reply-To: support@dhl-packageupdate.com
+Subject: URGENT: Delivery Notification - Account Suspended
+Date: Mon, 24 Jun 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_0002"
+
+----=_NextPart_001_0002
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your parcel (Tracking# 123456789) but required additional confirmation. Your account is now temporarily suspended due to unpaid customs fees. Immediate action is required to avoid permanent cancellation.
+
+Please visit the link below to verify your payment and update your password:
+
+http://192.0.2.123/verify
+or click here: http://198.51.100.45/release
+
+Failure to respond within 24 hours will result in your package being returned to sender.
+
+Thank you,
+DHL Express Support
+
+Privacy Policy: https://www.dhl.com/privacy-policy
+Help Center: https://www.dhl.com/help
+
+----=_NextPart_001_0002
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Urgent Notification:</strong> We attempted delivery of your parcel (Tracking# <em>123456789</em>) but delivery was <span style="color:red;">failed</span> due to unpaid customs fees. Your <span style="font-weight:bold;">account</span> will be suspended within 24 hours if no action is taken.</p>
+    <p>Please <a href="http://192.0.2.123/verify">click here</a> to verify payment and update your password.</p>
+    <p>Alternatively, you can <a href="http://198.51.100.45/release">here</a> release your package now.</p>
+    <p>Failure to respond may result in package cancellation.</p>
+    <hr>
+    <p>
+      <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> |
+      <a href="https://www.dhl.com/help">Help Center</a>
+    </p>
+    <p>Thank you,<br>DHL Express Support</p>
+  </body>
+</html>
+
+----=_NextPart_001_0002--

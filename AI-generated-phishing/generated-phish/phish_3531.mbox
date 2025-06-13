@@ -1,0 +1,48 @@
+From secure-alerts@spoofedbank.com Sat Jul 15 12:34:56 2023
+Return-Path: <secure-alerts@spoofedbank.com>
+Received: from mail.spoofedbank.com (mail.spoofedbank.com [198.51.100.23])
+    by victimmail.com (Postfix) with ESMTPS id 1A2B3C4D5E
+    for <user@victimmail.com>; Sat, 15 Jul 2023 12:34:56 +0000 (UTC)
+From: "Secure Portal" <secure-alerts@spoofedbank.com>
+Reply-To: support@help.spoofsecurity.net
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_5678"
+
+----=_Part_1234_5678
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected an unauthorized login attempt to your account. 
+Your password needs verification immediately to secure your private information.
+
+Please visit the link below to verify your credentials:
+http://198.51.100.123/login.verify.securebank.com/auth?session=987654321
+
+Failure to comply within 24 hours will result in temporary account suspension.
+
+Thank you for your prompt action,
+Secure Portal Team
+
+----=_Part_1234_5678
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">URGENT SECURITY ALERT</p>
+    <p>We have detected suspicious activity on your account. To avoid suspension, you must verify your information immediately.</p>
+    <ul>
+      <li><a href="http://198.51.100.123/secure.login.portal" style="text-decoration:none;">https://secure.bank.verify.login.com</a></li>
+      <li><a href="http://203.0.113.45/reset?token=abc123" style="text-decoration:none;">https://account.bank.com/password/reset</a></li>
+      <li><a href="http://203.0.113.45/help.html">help.center.bank.com</a></li>
+      <li><a href="http://198.51.100.123" style="text-decoration:none;"></a></li>
+    </ul>
+    <p>Alternatively, you can <a href="http://198.51.100.123/portal" title="click here to verify">click here</a> to verify now.</p>
+    <p>Regards,<br/>Secure Portal Team</p>
+  </body>
+</html>
+
+----=_Part_1234_5678--

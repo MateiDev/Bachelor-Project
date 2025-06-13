@@ -1,0 +1,50 @@
+From support@bankalerts.com Mon Apr  1 10:15:00 2024
+Message-ID: <20240401101500.1fa2b@generatormail>
+Date: Mon, 01 Apr 2024 10:15:00 -0400
+From: "Account Security Team" <support@bankalerts.com>
+To: user@targetdomain.com
+Subject: Urgent: Account Password Reset Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.987654321"
+
+----=_Part_0_123456.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. As a precaution, we have temporarily locked access. Your password expires today at 11:59 PM. To avoid permanent suspension of your account and loss of access, you must verify your identity and reset your password immediately.
+
+Verify here: https://secure.banking-verification.com/verify-account
+Reset here: http://45.33.32.156/password-reset
+
+If you do not complete these steps immediately, your account will be disabled.
+
+Sincerely,
+Account Security Team
+
+----=_Part_0_123456.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">Unusual sign-in detected — <em>action required</em>!</p>
+    <p>Dear Customer,</p>
+    <p>Your account is at risk. We detected suspicious activity from an unknown device.</p>
+    <p>To secure your account and avoid permanent suspension, you must <strong>verify now</strong> and <strong>reset your password immediately</strong>. Your password expires today.</p>
+    <p>
+      <a href="http://45.33.32.156/verify"><img src="http://45.33.32.156/images/secure-logo.png" alt="Verify Now" border="0"></a>
+    </p>
+    <p>Quick Links:</p>
+    <ul>
+      <li><a href="http://45.33.32.156/verify">https://yourbank.com/account/verify</a></li>
+      <li><a href="http://192.0.2.123/reset?token=abc123">https://login.yourbank.com/reset?token=abc123</a></li>
+    </ul>
+    <p>If you fail to act <strong>immediately</strong>, you risk losing access to your funds.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Account Security Team<br/>support@bankalerts.com</p>
+  </body>
+</html>
+
+----=_Part_0_123456.987654321--

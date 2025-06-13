@@ -1,0 +1,49 @@
+From alerts@securemail.com Wed Oct 11 14:32:05 2023
+Return-Path: <alerts@securemail.com>
+Received: from securemail.com (mail.securemail.com [198.51.100.25]) by mx.company.com with ESMTP id ABC123DEF; Wed, 11 Oct 2023 14:32:05 -0700 (PDT)
+Date: Wed, 11 Oct 2023 14:32:05 -0700
+From: "SecureMail Alert" <alerts@securemail.com>
+Reply-To: secure.support@update-security.com
+To: user@company.com
+Message-ID: <20231011143205.ABC123DEF@securemail.com>
+Subject: Urgent: Account Password Security Notice
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1697087525000"
+
+------=_Part_12345_678901234.1697087525000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected suspicious activity on your secure mail account. Immediate action is required to prevent unauthorized access.
+
+Please view your account status and update your password: https://secure.portal.company.com
+
+Failure to act within 24 hours will result in account suspension.
+
+Regards,
+SecureMail Support Team
+
+------=_Part_12345_678901234.1697087525000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Security Notice</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p style="color:red;font-weight:bold;">We have detected <span style="text-decoration:underline;">suspicious</span> activity on your secure mail account. <strong>Immediate action required!</strong></p>
+<p>Please <a href="http://192.168.100.200/login?session=abc123" title="account security">https://secure.portal.company.com</a> to view your account status and update your password.</p>
+<p>Or you can <a href="http://203.0.113.50/secureview">click <img src="http://203.0.113.50/images/secure_button.png" alt=""/></a> below:</p>
+<p>Please <a href="http://198.51.100.99/securelogin">here</a> to verify your credentials and avoid account suspension.</p>
+<p><a href="http://198.51.100.99/verify"></a></p>
+<p>For more info, visit our <a href="https://securemail.com/privacy-policy">privacy policy</a> or <a href="https://securemail.com/help">help center</a>.</p>
+<p><em>Failure to act within 24 hours will result in account suspension.</em></p>
+<p>Regards,<br/>SecureMail Support Team</p>
+</body>
+</html>
+
+------=_Part_12345_678901234.1697087525000--

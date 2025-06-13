@@ -1,0 +1,36 @@
+From security@microsoft.com Mon Jun 14 09:17:32 2021
+From: Microsoft Account Security <security@microsoft.com>
+Reply-To: support@update.microsoft.com
+To: user@domain.com
+Subject: URGENT: Your Microsoft Account Has Been Locked
+Date: Mon, 14 Jun 2021 09:17:32 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY12345"
+
+--BOUNDARY12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your Microsoft account has been locked due to suspicious activity.
+Please verify your account within 24 hours to avoid permanent suspension.
+Go to https://account.microsoft.com/security to sign in and verify your information.
+
+--BOUNDARY12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p><strong>URGENT:</strong> Your Microsoft account has been locked due to suspicious activity.</p>
+    <p>Please verify your information within <strong>24 hours</strong> or your account will be <strong>permanently suspended</strong>.</p>
+    <p>To verify your account, click <a href="https://security.update.microsoft-account.verify-login.mylogin.info/">Here</a> to sign in securely.</p>
+    <p>If the link above does not work, copy and paste the following URL into your browser:<br>
+      <a href="https://security.login.microsoft.verify.account-update.mylogin.info/verify.html">https://login.live.com/security</a>
+    </p>
+    <p><a href="https://security.login.microsoft.verify.account-update.mylogin.info/empty"></a></p>
+    <p>If you need assistance, visit our <a href="https://www.microsoft.com/en-us/microsoft-privacy">Privacy Policy</a>.</p>
+    <p>Regards,<br>Microsoft Account Security Team</p>
+  </body>
+</html>
+
+--BOUNDARY12345--

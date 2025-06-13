@@ -1,0 +1,23 @@
+From notify@bankportal.com Mon Oct 16 09:45:00 2023
+Return-Path: <notify@bankportal.com>
+Reply-To: support@secure-bank-alerts.com
+From: "Bank Security" <security@bankportal.com>
+Subject: URGENT Account Password Verification Required
+Date: Mon, 16 Oct 2023 09:45:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected suspicious activity in your account. To secure your information, immediate password re-verification is <strong>required</strong>. Failure to comply within 24 hours will result in temporary <span style="color:red">deactivation</span> for your protection.</p>
+    <p>Please <a href="http://123.45.67.89/secure-login?user=alice">click here</a> to proceed to the secure portal.</p>
+    <p>If the link above doesn’t work, copy and paste the following into your browser:</p>
+    <p><a href="https://secure.modal-bank-alerts.net/verify"></a>https://portal.bank.com/secure</p>
+    <p>Alternatively, view your secure messages: <a href="http://malicious.com/login?session=xyz">https://secure.bankportal.com/message</a></p>
+    <p><a href="http://evilphish.ru/privacy">Privacy Policy</a> | <a href="http://evilphish.ru/help">Help Center</a></p>
+    <p><a href="http://login.modal-openbank.com/portal"></a><img src="http://123.45.67.89/images/secure.png" alt="Secure Portal"></p>
+    <p>Thank you for your prompt attention to this <strong>urgent</strong> matter.</p>
+    <p>Sincerely,<br>Bank Security Team</p>
+  </body>
+</html>

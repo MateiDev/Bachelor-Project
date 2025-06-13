@@ -1,0 +1,42 @@
+From security@amazon.com Sat Jul  8 12:34:56 2023
+From: Amazon Security Team <security@amazon.com>
+Reply-To: support@secure-amazon-login.org
+To: victim@domain.com
+Subject: URGENT: Password Verification Needed for Your Amazon Account
+Date: Sat, 08 Jul 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activities on your account. It is URGENT that you verify your Amazon account credentials to avoid temporary account suspension. Please visit the link below to confirm your password:
+
+https://www.amazon.com/signin
+OR
+http://198.51.100.45/secure-login
+
+Failure to act within 24 hours will result in permanent account blockage.
+
+Thank you,
+Amazon Security Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have noticed unusual attempts to access your <strong>account</strong>. Your <strong>password</strong> must be verified <span style="color:red;">immediately</span> to prevent <strong>urgent</strong> security actions.</p>
+    <p>Please <a href="http://192.0.2.123/secure-login" target="_blank">https://signin.amazon.secure-login.com</a> now to verify your credentials.</p>
+    <p>If you do not confirm your information within 24 hours, your account will be suspended.</p>
+    <p>Thank you,<br>
+       <em>Amazon Security Team</em></p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

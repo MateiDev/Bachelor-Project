@@ -1,0 +1,37 @@
+```
+From - Thu Oct 26 14:23:45 2023
+X-Account-Key: account2
+X-UIDL: UID12345
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <alert@taxrefunds.com>
+Received: from unknown (HELO server123.fake) (192.168.1.100)
+  by mail.example.com with ESMTP; Thu, 26 Oct 2023 14:23:45 +0000
+Received: from taxrefunds.com (123.45.67.89)
+  by server123.fake with SMTP; Thu, 26 Oct 2023 14:23:44 +0000
+Reply-To: urgent-update@service-alert.net
+Date: Thu, 26 Oct 2023 14:23:44 +0000
+From: Tax Department <alert@taxrefunds.com>
+Subject: URGENT: Confirm Your Tax Refund Details Immediately
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Message-ID: <9876543210@taxrefunds.com>
+To: victim@example.com
+
+<html>
+<head></head>
+<body>
+  <p>Dear Customer,</p>
+  <p>You have an <strong>urgent</strong> tax refund awaiting confirmation. We need to verify your bank details to process a refund of <strong>$150.75</strong> immediately. If not confirmed within <strong>24 hours</strong>, you risk the amount being forfeited.</p>
+  <p>Please <a href="http://192.168.1.101/verify">click here</a> to confirm your details and receive your refund.</p>
+  <p>For more information, visit our official website:
+     <a href="http://tax-refunds.com/official">http://tax-refunds.com/official</a></p>
+  <p>If you need help, contact our support team:
+     <a href="http://support.taxrefunds.com/help">support.taxrefunds.com/help</a></p>
+  <p>Best Regards,</p>
+  <p>Tax Refund Department</p>
+  <p><img src="http://secure.example.com/logo.png" alt="Tax Refund Dept Logo" /></p>
+</body>
+</html>
+```

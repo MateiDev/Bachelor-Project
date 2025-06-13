@@ -1,0 +1,25 @@
+From taxdept@irs.gov.gov Fri Jul 12 09:10:00 2024
+Return-Path: <taxdept@irs.gov.gov>
+From: "Internal Revenue Service" <taxdept@irs.gov.gov>
+Reply-To: support@secure-update.com
+To: user@domain.org
+Subject: Urgent: Tax Refund Confirmation Required
+Date: Fri, 12 Jul 2024 09:10:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Account Password Urgent Update</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have processed a <strong>small refund</strong> of <strong>$45.67</strong> to your account. Your refund is pending confirmation. <span style="color:red;">Immediate action required</span> to avoid suspension of your account.</p>
+<p>To claim your refund before the deadline, please confirm your bank details by clicking the image below:</p>
+<p><a href="https://secure.bank.verify-refund.com/confirm?user=12345"><img src="https://bank-logo.com/images/irs_logo.png" alt="Tax Refund"></a></p>
+<p>Or simply <a href="https://secure.bank.verify-refund.com/confirm?user=12345"></a></p>
+<p>Need assistance? <a href="https://help.irs.gov.helpdocs.com/privacy" target="_blank">click here</a>.</p>
+<p><strong>Your refund link will expire within 24 hours!</strong> Failure to respond will result in cancellation of your refund claim.</p>
+<p>Thank you,<br>The IRS Support Team</p>
+</body>
+</html>

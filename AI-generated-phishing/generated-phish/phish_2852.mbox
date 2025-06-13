@@ -1,0 +1,38 @@
+```mbox
+From fake-security@example.com Fri Oct 13 10:00:00 2023
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id M12ABCDEF
+    for <recipient@example.com>; Fri, 13 Oct 2023 10:00:00 +0000
+Date: Fri, 13 Oct 2023 10:00:00 +0000
+From: "Security Alert" <fake-security@example.com>
+To: recipient@example.com
+Subject: Urgent: Password Expires Today - Reset Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-example-1"
+
+--boundary-example-1
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your account. As a precaution, please VERIFY NOW to avoid suspension. Your PASSWORD expires today. RESET IMMEDIATELY to secure your account.
+
+Visit our help page: http://www.trusted-site.com/help
+
+--boundary-example-1
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Security Alert</title>
+</head>
+<body>
+    <p>Dear User,</p>
+    <p>We have detected an <strong>unusual sign-in attempt</strong> on your account. As a precaution, please <a href="http://182.123.46.78/verify" target="_blank">VERIFY NOW</a> to avoid suspension. Your <strong>PASSWORD expires today</strong>. <a href="http://192.168.1.12/reset" target="_blank">RESET IMMEDIATELY</a> to secure your account.</p>
+    <p>Visit our support page: <a href="http://www.trusted-site.com/support" target="_blank">http://www.trusted-site.com/support</a></p>
+</body>
+</html>
+
+--boundary-example-1--
+```

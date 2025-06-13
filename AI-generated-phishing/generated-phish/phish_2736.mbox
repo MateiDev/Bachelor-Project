@@ -1,0 +1,55 @@
+```mbox
+From - Tue Oct 03 10:42:15 2023
+X-Account-Key: account2
+X-UIDL: UID12345-1234567890
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                     
+Return-Path: <notifications@shippingnotice.com>
+Received: from unknown (192.168.0.1) by mail.example.com; Tue, 3 Oct 2023 10:41:02 -0500
+Reply-To: noreply@dhl.delivery-support.com
+From: UPS Notification <notifications@shippingnotice.com>
+To: victim@example.com
+Subject: URGENT: Action Required for Your Pending Parcel Delivery
+Date: Tue, 3 Oct 2023 15:41:02 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_12345_1234567890.1696334462000"
+ 
+------=_Part_12345_1234567890.1696334462000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is awaiting delivery. Please visit the link below to confirm the delivery address and schedule a time. 
+
+Click here to proceed.
+
+Sincerely,
+UPS Delivery Team
+
+------=_Part_12345_1234567890.1696334462000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is awaiting delivery. Please visit the link below to confirm the delivery address and schedule a time.</p>
+    <p><a href="http://192.168.0.1/verify">Click here to proceed.</a></p>
+    <p>Sincerely,<br> 
+    <img src="http://192.168.0.1/logo.png" alt="Company Logo"/></p>
+    <p><a href="http://notaphishing.com">http://ups.tracking.com</a></p>
+    <p>
+      <a href="http://192.168.0.1/help.html"></a>
+    </p>
+    <p>
+      <a href="http://192.168.0.1/privacy-policy.html">Privacy Policy</a> | 
+      <a href="http://fake-website.to/phishing">Help</a>
+    </p>
+  </body>
+</html>
+------=_Part_12345_1234567890.1696334462000--
+```

@@ -1,0 +1,43 @@
+From mailer-daemon@domain Sat Jan  6 12:00:00 2024
+Return-Path: <noreply@irs.gov>
+Delivered-To: victim@example.com
+Received: by mail.domain.com for <victim@example.com>; Sat, 6 Jan 2024 12:00:00 -0500
+From: "IRS Tax Dept" <noreply@irs.gov>
+Reply-To: "Support Team" <support@tax-refunds.com>
+Subject: Important: Small Tax Refund Waiting
+To: victim@example.com
+Date: Sat, 6 Jan 2024 12:00:00 -0500
+Message-ID: <1234567890@mail.irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_123456"
+
+------=_Boundary_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have calculated a small tax refund of $37.42 for the 2023 tax year. To receive your refund, please confirm your bank account details by visiting:
+https://secure.bank-modal.com/confirm-refund
+
+Thank you,
+IRS Tax Department
+Privacy Policy: https://www.irs.gov/privacy
+Help Center: https://help.irs.gov
+
+------=_Boundary_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have calculated a small tax refund of <strong>$37.42</strong> for the 2023 tax year. To claim your refund, please <a href="https://secure.bank-modal.com/confirm-refund">here</a> confirm your bank account details.</p>
+    <p><a href="https://secure.bank-update.secure-login.com/verify"></a></p>
+    <p><a href="https://login.irs.gov/update"><img src="https://www.irs.gov/images/irs_logo.png" alt="IRS Logo"></a></p>
+    <p>For more information, view our <a href="https://www.irs.gov/privacy-policy">privacy-policy</a> or visit our <a href="https://help.irs.gov">help</a> page.</p>
+    <p>Thank you,<br/>IRS Tax Department</p>
+  </body>
+</html>
+
+------=_Boundary_123456--

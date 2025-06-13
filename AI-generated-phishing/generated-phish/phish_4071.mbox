@@ -1,0 +1,37 @@
+From phishing@server.com Tue Oct 10 10:10:10 2023
+Return-Path: <alert@secure-mail-portal.com>
+From: "Secure Mail Centre" <alert@secure-mail-portal.com>
+Reply-To: support@trusted-helpdesk.net
+To: victim@domain.com
+Subject: Urgent: Account Verification Required Immediately
+Date: Tue, 10 Oct 2023 10:10:10 +0000
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_Boundary_01"
+
+------=_Boundary_01
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Security Alert - Action Required</title></head>
+<body>
+<p><strong>Immediate action required:</strong> Your account has been compromised and will be suspended within 24 hours unless you verify your credentials.</p>
+<p>Please verify your account by clicking on the secure link below:</p>
+<p><a href="http://192.168.1.100/verify"><img src="cid:companyLogo" alt="Verify Account" border="0"></a></p>
+<p>If the image does not load, <a href="http://197.51.100.23/update"></a> to proceed.</p>
+<p>Alternatively, you can visit this link: <a href="http://192.0.2.123/secure-update">https://portal-secure.com/login.secure.portal-login.com</a></p>
+<p>For more details, click <a href="http://203.0.113.5/login.html?ref=portal">here</a>.</p>
+<p>Need help? Read our <a href="https://secure-mail-portal.com/privacy-policy.html">Privacy Policy</a> or contact support.</p>
+</body>
+</html>
+
+------=_Boundary_01
+Content-Type: image/png; name="logo.png"
+Content-Transfer-Encoding: base64
+Content-ID: <companyLogo>
+Content-Disposition: inline; filename="logo.png"
+
+iVBORw0KGgoAAAANSUhEUgAAAAUA
+AAABCAIAAACQd1PeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5QcV
+FA8YQkA2xQAAAB1pVFh0Q29tbWVudAAAAAAA
+------=_Boundary_01--

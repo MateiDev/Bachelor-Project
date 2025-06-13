@@ -1,0 +1,50 @@
+From support@paypal.com Fri Jun  7 11:23:45 2024
+Return-Path: <support@paypal.com>
+Received: from unknown (HELO mailserver) (192.0.2.123) by victim-mail.com with SMTP; Fri, 7 Jun 2024 11:23:44 -0400
+From: "PayPal Support" <support@paypal.com>
+Reply-To: security-team@paypal.verify-security.com
+To: user@domain.com
+Subject: urgent: Immediate Password Verification Required for Your PayPal ACCOUNT
+Date: Fri, 07 Jun 2024 11:23:45 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D99EB3.A7BC2C80"
+
+----=_NextPart_000_001D_01D99EB3.A7BC2C80
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity on your PayPal account. To prevent your ACCOUNT from being suspended, immediate action is required. Please verify your password to secure your account.
+
+Visit the link below to verify now:
+http://198.51.100.12/login.secure.paypal.com/auth.php
+
+If you do not verify within 24 hours, your access will be locked permanently.
+
+Thank you for your prompt attention.
+
+PayPal Security Team
+
+----=_NextPart_000_001D_01D99EB3.A7BC2C80
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Account Verification</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p style="color:red;"><strong>Your PayPal account has been temporarily locked due to unusual activity.</strong></p>
+  <p>To restore access, <em>you must verify your password immediately</em>.</p>
+  <p>
+    <a href="http://198.51.100.12/login.secure.paypal.com/auth.php"></a>
+  </p>
+  <p>If we do not hear from you within 24 hours, your account will be permanently suspended.</p>
+  <p>Thank you for your immediate attention.<br>
+     PayPal Security Team</p>
+</body>
+</html>
+
+----=_NextPart_000_001D_01D99EB3.A7BC2C80--

@@ -1,0 +1,38 @@
+```mbox
+From thedesk@account-update.com Tue Oct 24 14:28:47 2023
+To: victim@example.com
+Subject: Urgent: Verify Your Account Information Immediately!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-example"
+
+--boundary-example
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've noticed suspicious activity on your account. To ensure your security, please verify your account information immediately or risk losing access.
+
+Click here to verify: http://192.0.2.0.safe-verify.com
+
+Stay safe,
+The Account Security Team
+
+--boundary-example
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear User,</p>
+    <p>We've noticed suspicious activity on your account. To ensure your security, please verify your account information immediately or risk losing access.</p>
+    <a href="http://192.0.2.0.safe-verify.com">
+      <img src="http://192.0.2.0.safe-verify.com/verify-image.png" alt="Verify Now">
+    </a>
+    <p>If you need assistance, please <a href="https://help.safe-verify.com">click here</a>.</p>
+    <a href="http://192.0.2.0.safe-verify.com"></a>
+    <p>Stay safe,<br>The Account Security Team</p>
+  </body>
+</html>
+
+--boundary-example--
+```

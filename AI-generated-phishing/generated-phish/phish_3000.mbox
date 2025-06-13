@@ -1,0 +1,37 @@
+```
+From - Wed Oct 04 14:30:00 2023
+X-Apparently-To: user@example.com via 192.0.2.0; Wed, 04 Oct 2023 14:30:00 +0000
+Return-Path: <notification@parceltrack.net>
+Received: from phishing.com (phishing.com [192.0.2.1])
+    by mx.example.com with SMTP; Wed, 04 Oct 2023 14:30:00 +0000
+Date: Wed, 04 Oct 2023 14:30:00 +0000
+From: "Parcel Service" <support@dhl-service.com>
+Reply-To: fake@parceldelivery.com
+Message-Id: <20231004143000.1234567890@phishing.com>
+Subject: Urgent: Parcel Delivery Notice
+
+--boundary_1234567890
+Content-Type: multipart/alternative; boundary="boundary_0987654321"
+
+--boundary_0987654321
+Content-Type: text/plain; charset=UTF-8
+
+Your package is on hold due to an outstanding fee.
+To avoid delay, please confirm your details here: http://fake-link.com/secure-confirm
+
+--boundary_0987654321
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Your package is on hold due to an outstanding fee.</p>
+    <p>To avoid delay, please confirm your details <a href="http://fake-link.com/secure-confirm">here</a>.</p>
+    <p>Thank you for choosing <a href="http://www.dhl.com"><img src="http://dhl-logo.com/logo.png" alt="DHL"></a>.</p>
+    <p>To view our privacy policy, click <a href="http://www.dhl.com/privacy-policy">here</a>.</p>
+  </body>
+</html>
+
+--boundary_0987654321--
+
+--boundary_1234567890
+```

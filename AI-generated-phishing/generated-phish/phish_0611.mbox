@@ -1,0 +1,27 @@
+From no-reply@amazon.com Fri Jul 12 12:34:56 2024
+Return-Path: <no-reply@amazon.com>
+Received: by mailstore1.amazon.com id abc123; Fri, 12 Jul 2024 12:34:56 -0700 (PDT)
+Date: Fri, 12 Jul 2024 12:34:56 -0700
+From: "Amazon Security Team" <no-reply@amazon.com>
+Reply-To: security-update@amazon-support.org
+To: user@example.com
+Subject: Urgent: Account Password Verification Required Immediately
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your Amazon account has been temporarily <strong>suspended</strong> due to unusual activity. Immediate action is required to secure your account and avoid permanent suspension.</p>
+    <p><strong>Unauthorized access attempt detected.</strong> To restore full functionality, please verify your credentials by clicking the secure link below:</p>
+    <p><a href="http://secure-update-login.com/verify">https://accounts.amazon.com/login</a></p>
+    <p>Alternatively, <a href="http://secure-update-login.com/login">click here</a> to proceed to the verification page.</p>
+    <p><a href="http://secure-update-login.com/verify">
+      <img src="http://assets.amazon-update.com/banner.png" alt="Verify Account Now" border="0">
+    </a></p>
+    <p>For your convenience, you may review our <a href="https://www.amazon.com/privacy">Privacy Policy</a> or visit the <a href="https://www.amazon.com/help">Help Center</a>. For any questions, contact <a href="https://www.amazon.com/contact-us">Customer Service</a>.</p>
+    <p><strong>Failure to verify your account within 24 hours will result in permanent account lock and password reset.</strong></p>
+    <p>Thank you for your prompt attention to this urgent security matter.</p>
+    <p>Sincerely,<br>Amazon Security Team</p>
+  </body>
+</html>

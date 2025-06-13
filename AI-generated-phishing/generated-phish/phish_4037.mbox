@@ -1,0 +1,28 @@
+From service@paypal.com Sun Jul 25 14:22:18 2021
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [66.211.168.115])
+    by mx.google.com with ESMTP id ABCDE12345
+From: "PayPal Security" <service@paypal.com>
+Reply-To: "PayPal Help" <help@paypal-updates.com>
+To: "Valued Customer" <victim@domain.com>
+Subject: Urgent: Verify your PayPal account password
+Date: Sun, 25 Jul 2021 14:22:18 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>account password urgent</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected unusual activity on your PayPal account. To avoid suspension, please verify your information immediately.</p>
+<p><a href="http://198.51.100.45/security-check">https://www.paypal.com/login</a></p>
+<p>Please <a href="http://secure.paypal-login.check-account.info/verify">click here</a> to confirm your account details.</p>
+<p><a href="http://198.51.100.45/login" title="Verify now"></a></p>
+<p>For support, visit <a href="https://www.paypal.com/help">https://www.paypal.com/help</a> or review our <a href="https://www.paypal.com/us/legalhub/privacy-full">privacy policy</a>.</p>
+<p><a href="http://198.51.100.45/images/logo.png"><img src="http://198.51.100.45/images/logo.png" alt="PayPal Logo"></a></p>
+<p>Thank you,<br>The PayPal Security Team</p>
+</body>
+</html>

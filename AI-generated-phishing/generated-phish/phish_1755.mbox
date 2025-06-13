@@ -1,0 +1,57 @@
+From - Wed Oct 25 10:01:12 2023
+Return-Path: <no-reply@dhl-delivery.com>
+Received: from mail.dhl-delivery.com (mail.dhl-delivery.com [192.0.2.50])
+    by mx.inboxmail.com (Postfix) with ESMTP id ABC123DEF
+    for <victim@inboxmail.com>; Wed, 25 Oct 2023 10:01:12 +0200 (CEST)
+Date: Wed, 25 Oct 2023 10:01:12 +0200
+From: DHL Delivery <no-reply@dhl-delivery.com>
+To: victim@inboxmail.com
+Subject: Urgent: Delivery Notification
+Message-ID: <1234567890@mail.dhl-delivery.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+------=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Immediate action required to avoid package return.
+Your DHL shipment is currently being held at customs due to an outstanding fee.
+Please visit the link below to release your package:
+
+https://dhl.com/track (tracking number: 123456789)
+
+Failure to pay the fee within 24 hours will result in return to sender.
+
+Thank you,
+DHL Delivery Team
+
+------=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;"><strong>Immediate action required!</strong> Your DHL shipment is on hold due to an outstanding fee and will be returned if not released within <strong>24 hours</strong>.</p>
+<p>
+To release your package, please verify your account and pay the small storage fee by clicking the link below:
+</p>
+<p>
+<a href="http://85.214.132.117/verify?uid=ABC123">https://dhl.com/track-package</a>
+</p>
+<p>
+Alternatively, you can click here:
+<a href="http://246.12.36.58/release?ref=XYZ789"></a>
+</p>
+<p>Failure to comply will result in shipment cancellation.</p>
+<p>– DHL Delivery Team</p>
+</body>
+</html>
+
+------=_NextPart_000_0000--

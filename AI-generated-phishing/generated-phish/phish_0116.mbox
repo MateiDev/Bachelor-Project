@@ -1,0 +1,36 @@
+From MAILER-DAEMON@example.com Thu Oct 12 19:08:49 2023
+Return-Path: <example@example.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from phishingserver.com (unknown [192.168.0.1])
+	by mail.example.com (Postfix) with ESMTP id 123456789AB
+	for <victim@example.com>; Thu, 12 Oct 2023 19:08:49 +0000 (UTC)
+Date: Thu, 12 Oct 2023 19:08:49 +0000 (UTC)
+From: "DHL Urgent Notification" <example@example.com>
+Subject: Action Required: Urgent Parcel Awaiting Release
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>We have been trying to deliver your package, but there is an <strong>urgent issue</strong> with the delivery address.</p>
+    <p>Please confirm your address and pay the required fee to avoid further delays. Failure to do so might result in your parcel being returned to the sender.</p>
+    <p>
+        <a href="http://phishingsite.com/track?id=12345" style="display:block;">
+            <img src="http://phishingsite.com/logo.png" alt="DHL Logo" style="width:100px;height:50px;">
+        </a>
+    </p>
+    <p>Track your shipment: <a href="http://track.your-delivery-status.example.com">Track.DHL-Shipments.com</a></p>
+    <p>
+        <a href="http://phishingsite.com/confirm" style="display:block;"></a>
+    </p>
+    <p>
+        <a href="http://phishingsite.com/pay" style="display:block;">Pay now to release your parcel</a>
+    </p>
+    <p>Thank you for choosing DHL.</p>
+    <p>Best regards,</p>
+    <p>The DHL Team</p>
+</body>
+</html>

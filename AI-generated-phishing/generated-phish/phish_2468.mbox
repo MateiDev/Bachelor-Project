@@ -1,0 +1,49 @@
+From no-reply@secure-mail.company.com Thu Oct 12 08:00:00 2023
+Return-Path: <no-reply@secure-mail.company.com>
+From: "Secure Mail Alert" <no-reply@secure-mail.company.com>
+To: victim@example.com
+Subject: Urgent Account Password Verification Required
+Date: Thu, 12 Oct 2023 08:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123"
+
+------=_Part_0_123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your Secure-Mail account has been locked due to multiple failed login attempts. To restore access, please verify your account password immediately by clicking the link below:
+
+https://secure-mail.company.com/verify
+
+Failure to do so within 24 hours will result in permanent suspension.
+
+Thank you,
+Secure-Mail Security Team
+
+------=_Part_0_123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your <strong>Secure-Mail</strong> <em>account</em> has been locked due to multiple failed login attempts. <span style="color:red;">Immediate action required</span> to avoid permanent suspension.</p>
+    <p>To restore access, please verify your password by clicking 
+      <a href="http://attacker.com/secure/verify?token=abc123">
+        https://secure-mail.company.com/verify
+      </a> 
+      or use our backup portal at 
+      <a href="http://malicious.example.net/login">
+        https://login.portal.service.example.com
+      </a>.
+    </p>
+    <p><a href="http://evil.example.com"></a></p>
+    <p>Failure to comply <strong>within 24 hours</strong> will result in permanent suspension.</p>
+    <p>Thank you,<br />
+       Secure-Mail Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123--

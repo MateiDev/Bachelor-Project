@@ -1,0 +1,59 @@
+From no-reply@service.com Wed Jan 10 14:22:33 2024
+Return-Path: <no-reply@service.com>
+Received: from mail.service.com (mail.service.com [192.0.2.1]) by mx.example.com with ESMTP id ABC123DEF for <user@example.org>; Wed, 10 Jan 2024 14:22:33 +0000
+Received: by mail.service.com (Postfix, from userid 1001) id 1234ABCD; Wed, 10 Jan 2024 14:22:33 +0000 (UTC)
+From: "Service Team" <no-reply@service.com>
+Reply-To: support@secure-pay.net
+To: user@example.org
+Subject: URGENT: Verify your account to claim €100 voucher
+Date: Wed, 10 Jan 2024 14:22:33 +0000
+Message-ID: <CA+Xyz123abc@service.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account has been flagged for suspicious activity. This is your LAST CHANCE to secure your €100 voucher reward. If you do not act immediately, you will FORFEIT your reward.
+
+Claim your gift card now:
+http://203.0.113.5/claim?token=7G5H9K
+
+Or verify your account here:
+https://service.com/voucher
+
+Hurry, this offer EXPIRES within 24 hours!
+
+Best regards,
+Service Team
+
+----=_NextPart_000_001
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT - Action Required: account verification & password update</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p style="color:red;font-weight:bold;">Your account has encountered a security alert! Immediate action is required to <strong>prevent permanent lockout</strong> and to claim your €100 voucher reward.</p>
+<p>Click the button below to proceed:</p>
+<p>
+<a href="http://198.51.100.7/redeem">
+<img src="http://203.0.113.5/images/claim_button.png" alt="Claim Your Voucher">
+</a>
+</p>
+<p>Or use the direct link: <a href="http://198.51.100.7/verify"></a></p>
+<p>If you cannot click the button, copy and paste this URL into your browser:</p>
+<p><a href="http://203.0.113.5/claim?token=7G5H9K">https://service.com/voucher</a></p>
+<p style="color:red;">Warning: This is your final reminder! Your voucher will expire in <strong>24 hours</strong>. Failure to respond now will VOID your reward.</p>
+<p>Thank you,<br>
+Service Team</p>
+</body>
+</html>
+
+----=_NextPart_000_001--

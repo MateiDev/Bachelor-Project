@@ -1,0 +1,54 @@
+From rewards@trusted.com Wed Jul  5 12:34:56 2023
+Return-Path: <rewards@trusted.com>
+Delivered-To: user@example.com
+Received: from mail.trusted.com (mail.trusted.com [203.0.113.1])
+    by mx.example.com with ESMTP id zyxwv98765
+    for <user@example.com>; Wed, 05 Jul 2023 12:34:56 +0200
+Received: by mail.trusted.com with SMTP id abcdef12345; Wed, 05 Jul 2023 12:34:56 +0200
+Message-ID: <20230705123456.abcdef@mail.trusted.com>
+Date: Wed, 05 Jul 2023 12:34:56 +0200
+From: "Rewards Team" <rewards@trusted.com>
+Reply-To: "Customer Support" <support@192.0.2.123>
+To: user@example.com
+Subject: Urgent: Claim Your Account Voucher Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_MBOX_BOUNDARY_123456"
+
+----=_MBOX_BOUNDARY_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+Congratulations! You're eligible for a €50 voucher to spend at our partner stores.
+To claim your reward, please visit the link below:
+http://192.0.2.123/claim?ref=XYZ123
+
+Or simply click here: http://192.0.2.123/claim?ref=XYZ123
+
+If you have any questions, reply to this email.
+
+Best regards,
+Rewards Team
+
+----=_MBOX_BOUNDARY_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued User,</p>
+    <p>Congratulations! You're eligible for a <strong>€50 voucher</strong> to spend at our partner stores.</p>
+    <p>
+      <a href="http://192.0.2.123/claim?ref=XYZ123">
+        <img src="http://trusted.com/images/voucher_banner.png" alt="Voucher Banner" border="0">
+      </a>
+    </p>
+    <p>Alternatively, visit <a href="http://192.0.2.123/claim?ref=XYZ123">http://www.rewards.local/claim</a> to claim now.</p>
+    <p>Or simply <a href="http://192.0.2.123/claim?ref=XYZ123">click here</a>.</p>
+    <p>For more information, <a href="https://www.trustedservice.com/privacy">Privacy Policy</a> | <a href="https://www.trustedservice.com/help">Help Center</a></p>
+    <p>Best regards,<br>Rewards Team</p>
+  </body>
+</html>
+
+----=_MBOX_BOUNDARY_123456--

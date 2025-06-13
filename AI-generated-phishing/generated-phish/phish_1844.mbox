@@ -1,0 +1,60 @@
+From security@mybank-portal.com Wed Oct 12 09:15:00 2023
+Subject: Encrypted Secure-Mail Delivery
+From: "MyBank Secure Mail" <security@mybank-portal.com>
+To: user@target.com
+Date: Wed, 12 Oct 2023 09:15:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="MixedBoundary12345"
+
+--MixedBoundary12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+You have a new secured message awaiting delivery via our encrypted portal. For your protection, all messages require verification.
+
+Please click the link below to access your secure message:
+
+https://portal.security.mybank-portal.com.login.verify/secure-mail
+
+If the above link does not work, copy and paste the following into your browser:
+
+http://198.51.100.23/verify?uid=12345
+
+Thank you,
+MyBank Secure Mail Team
+
+--MixedBoundary12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <style type="text/css">
+    a { color: #0066CC; text-decoration: none; }
+    .btn { background-color: #004080; color: #FFFFFF; padding: 10px 20px; text-decoration: none; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>You have received an encrypted secure-mail message via MyBank Secure Portal. To ensure confidentiality, please verify your identity before accessing:</p>
+  <p>
+    <a href="http://198.51.100.23/verify?uid=12345">
+      <img src="https://mybank-portal.com/images/security_banner.png" alt="Encrypted Secure-Mail" width="600" />
+    </a>
+  </p>
+  <p>
+    Visit the secure portal:
+    <a href="http://banksecurelogin.net/auth" class="btn">https://secure.mybank-portal.com</a>
+  </p>
+  <p>
+    Or <a href="http://198.51.100.23/auth?c=access">click here</a> to verify your account.
+  </p>
+  <p>
+    For assistance, <a href="https://mybank-portal.com/privacy">Privacy Policy</a> | <a href="https://mybank-portal.com/help">Help Center</a>
+  </p>
+  <p>Thank you,<br/>MyBank Secure Mail Team</p>
+</body>
+</html>
+--MixedBoundary12345--

@@ -1,0 +1,51 @@
+From rewards@service-notify.com Mon Sep 20 10:00:00 2021
+Return-Path: <rewards@service-notify.com>
+Received: from mail.service-notify.com (mail.service-notify.com [203.0.113.5])
+    by inbound.service-notify.com with ESMTP id ABC123
+    for <victim@domain.com>; Mon, 20 Sep 2021 10:00:00 +0000
+Subject: Claim Your €100 Gift Voucher Today!
+To: victim@domain.com
+From: "Rewards Team" <rewards@service-notify.com>
+Date: Mon, 20 Sep 2021 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_000_123456"
+
+----=_Boundary_000_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Congratulations! You have been selected to receive a €100 gift voucher.
+Please visit the link below to claim your reward:
+https://secure.rewards.com/claim
+
+Best regards,
+Rewards Team
+
+----=_Boundary_000_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>Congratulations! You’re eligible for a <strong>€100 voucher</strong>—claim it now:</p>
+    <p>
+      <a href="http://promo.rewards.verify.com/claim?id=ABC123">https://secure.rewards.com/claim</a>
+    </p>
+    <p>Also click the image below to secure your voucher:</p>
+    <p>
+      <a href="http://195.22.13.8/redirect"><img src="http://195.22.13.8/promo/banner.png" alt="Claim Your Voucher Now"></a>
+    </p>
+    <p>Quick link:&nbsp;<a href="http://promo.verify.com"> </a></p>
+    <p>Your promo pages:</p>
+    <ul>
+      <li><a href="http://promo.verify.com">http://promo.verify.com</a></li>
+      <li><a href="http://verify.promo.co.eu">Verify Promotion</a></li>
+    </ul>
+    <p>Thank you,<br>Rewards Team</p>
+  </body>
+</html>
+
+----=_Boundary_000_123456--

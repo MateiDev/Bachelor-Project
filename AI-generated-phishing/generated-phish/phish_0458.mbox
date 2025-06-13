@@ -1,0 +1,45 @@
+```
+From - Fri Oct 13 10:49:34 2023
+Return-Path: <no-reply@delivery-notifications.com>
+Received: from mail.fakeisp.com (mail.fakeisp.com [192.0.2.1])
+        by mail.example.com with ESMTP id 1234567890
+        for <victim@example.com>; Fri, 13 Oct 2023 10:49:31 +0000
+Date: Fri, 13 Oct 2023 10:49:31 +0000
+From: DHL Express <no-reply@delivery-notifications.com>
+To: <victim@example.com>
+Subject: Urgent: Verify Your Shipment Details Immediately
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b1c34305ecde5b5f"
+
+--000000000000b1c34305ecde5b5f
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your package is on hold due to an incomplete delivery address. This urgent issue must be resolved immediately to prevent your package from being returned. 
+
+Please confirm your details and pay a small service fee to release your parcel:
+
+<Link Removed>
+
+Kind Regards,
+DHL Support Team
+
+--000000000000b1c34305ecde5b5f
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your package is on hold due to an incomplete delivery address. This <strong>urgent</strong> issue must be resolved immediately to prevent your package from being returned.</p>
+<p>Please confirm your details and pay a small service fee to release your parcel:</p>
+<p><a href="http://192.168.1.1/confirm"><img src="http://fake.images.com/logo.png" alt="DHL Logo"/></a></p>
+<p><a href="http://help.dhl-verify.info.track.your.package.fake-site.com/">       </a></p>
+<p>Kind Regards,<br/>
+DHL Support Team</p>
+</body>
+</html>
+
+--000000000000b1c34305ecde5b5f--
+```
+

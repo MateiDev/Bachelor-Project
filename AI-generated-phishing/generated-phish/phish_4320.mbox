@@ -1,0 +1,56 @@
+From phish@mailer.securebank.net Fri Jul 12 09:14:00 2024
+Return-Path: <phish@mailer.securebank.net>
+Delivered-To: user@domain.com
+Received: from mail20.gateway.net (mail20.gateway.net [198.51.100.25]) by mx.domain.com with ESMTP id ABC123456 for <user@domain.com>; Fri, 12 Jul 2024 09:14:00 -0400 (EDT)
+Message-ID: <20240712091400.ABC123@mailer.securebank.net>
+Date: Fri, 12 Jul 2024 09:14:00 -0400
+From: "SecureBank Support" <support@securebank.net>
+To: user@domain.com
+Subject: URGENT: Unusual sign-in detected—Verify your account now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY=="
+
+--===============BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your SecureBank account from a new device. As a security measure, your password expires today – reset immediately to avoid service interruption.
+
+Reset Password: http://192.0.2.123/reset
+Login Here: http://203.0.113.45/login
+
+Or visit www.securebank.net/login
+
+Need help? Check our Privacy Policy: https://securebank.net/privacy-policy
+
+SecureBank Support Team
+
+--===============BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notification</title>
+</head>
+<body style="font-family:Verdana,sans-serif; color:#333;">
+<p>Dear Customer,</p>
+<p style="color:#d9534f; font-weight:bold;">Unusual sign-in detected on your <em>SecureBank account</em>!</p>
+<p>Your <strong>password expires today</strong>. You must <span style="color:red;">reset immediately</span> to avoid service interruption.</p>
+<p>
+<button style="background:#0275d8; color:#fff; padding:10px 15px; border:none; cursor:pointer; font-size:14px;"
+onclick="window.location.href='http://192.0.2.123/reset';">Verify Now</button>
+</p>
+<p>If the button fails, visit <a href="http://198.51.100.200/reverify" title="Urgent Action Required">www.securebank.net/login</a> or <a href="http://203.0.113.45/login"></a>.</p>
+<p>Alternatively, <a href="http://login.securebank.net.verify-online.com" title="Password Expiry Notice">click here</a> to update your password.</p>
+<p>
+<a href="http://203.0.113.45/login" title="SecureBank Logo"><img src="https://cdn.securebank.net/assets/logo.png" alt="SecureBank" style="border:0;"></a>
+</p>
+<p style="font-size:12px; color:#777;">For assistance, visit our <a href="https://help.securebank.net/support" title="Help Center">Help Center</a> or read our <a href="https://securebank.net/privacy" title="Privacy Policy">Privacy Policy</a>.</p>
+<p style="font-size:12px; color:#777;">SecureBank Inc., 1234 Finance Drive, Finance City, FC 56789</p>
+</body>
+</html>
+
+--===============BOUNDARY==--

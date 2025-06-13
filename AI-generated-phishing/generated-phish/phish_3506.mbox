@@ -1,0 +1,46 @@
+From no-reply@irs.gov Fri Jul 28 09:23:45 2023
+Return-Path: <no-reply@irs.gov>
+Received: from mail2.irs.gov (mail2.irs.gov [192.0.2.1]) by mx.example.com with ESMTP id ABC123 for <user@example.com>; Fri, 28 Jul 2023 09:23:45 -0400 (EDT)
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: support@irs-verification.com
+To: user@example.com
+Subject: URGENT: Tax Refund CONFIRMATION Required - Account Verification Password Alert
+Date: Fri, 28 Jul 2023 09:23:45 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have identified a small refund pending for your account. To avoid delay or cancellation, please confirm your banking details immediately.
+
+Verify your account now:
+https://secure.irs.gov/confirm
+Or copy & paste:
+http://192.168.0.45/verify
+
+Failure to verify within 24 hours will result in forfeiture.
+
+IRS Refund Department
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have identified a <strong>small refund</strong> pending for your <em>account</em>. To avoid <span style="color:red;">delay</span> or <span style="color:red;">cancellation</span>, please confirm your banking details <strong>immediately</strong>.</p>
+    <p>Click <a href="http://192.168.0.45/verify">here</a> to verify <b>now</b>.</p>
+    <p>Access the secure portal: <a href="http://secure.irs.verify.refund.tax.gov.example.net/login">https://portal.irs.gov</a></p>
+    <p>For more information, see our <a href="https://modal.domain.com/privacy-policy">privacy-policy</a> or <a href="https://modal.domain.com/help">help</a>.</p>
+    <p><a href="http://192.168.0.45/empty"></a></p>
+    <p><small>If you do not verify your <b>account</b> and <b>password</b> within <span style="color:red;">24 hours</span>, your refund will be <strong>canceled</strong>.</small></p>
+    <p>IRS Refund Department</p>
+  </body>
+</html>
+
+--===============123456789==--

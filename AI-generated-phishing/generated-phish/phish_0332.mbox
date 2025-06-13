@@ -1,0 +1,44 @@
+```mbox
+From - Sun Oct 15 14:37:10 2023
+X-From-Line: Delivered-To: victim@example.com
+Return-Path: <noreply@dhl-alerts.com>
+Received: from suspicious.domain.com (unknown [192.0.2.0])
+        by victim-mail.com (Postfix) with SMTP id 123456789
+        for <victim@example.com>; Sun, 15 Oct 2023 14:37:05 +0000 (UTC)
+Message-ID: <987654321.suspicious.domain.com>
+Date: Sun, 15 Oct 2023 14:37:00 +0000
+From: DHL Express <noreply@dhl-alerts.com>
+Reply-To: noreply@dhl-alerts.com
+To: victim@example.com
+Subject: Urgent: Parcel Delivery Notification - Please Resolve Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--boundary_123456"
+
+----boundary_123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel is on hold due to an unpaid fee. Please address this immediately to avoid return. Proceed here: http://maliciouslink.com
+
+----boundary_123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>We have attempted to deliver your parcel. However, it is currently on hold due to an <b>unpaid fee</b>. To avoid the parcel being returned, please address this <b>immediately</b>.</p>
+    <p align="center"><a href="http://maliciouslink.com"><img src="http://legit-image.com/dhl-logo.png" alt="DHL Logo" /></a></p>
+    <p>Please <a style="text-decoration: none;" href="http://maliciouslink.com"></a> to resolve delivery:</p>
+    <p>Proceed now: <a href="http://maliciouslink.com">http://dhl.com/secure/parcel</a></p>
+    <footer>
+        <p>For help, visit our <a href="https://dhl.com/help">Help Center</a> or view our <a href="https://dhl.com/privacy-policy">Privacy Policy</a>.</p>
+    </footer>
+</body>
+</html>
+
+----boundary_123456--
+```

@@ -1,0 +1,58 @@
+```mbox
+From fake-support@secure-mail.com Fri Oct 13 09:52:30 2023
+Return-Path: <fake-support@secure-mail.com>
+Received: from fake-server.com (fake-server.com. [192.0.2.1])
+        by mx.example.com with ESMTP id x6si1234567qkn.91.2023.10.13.09.52.30
+        for <user@example.com>;
+        Fri, 13 Oct 2023 09:52:30 -0700 (PDT)
+Received-SPF: pass (example.com: domain of fake-support@secure-mail.com designates 192.0.2.1 as permitted sender) client-ip=192.0.2.1;
+Authentication-Results: mx.example.com;
+       dkim=pass header.i=@secure-mail.com header.s=mail dkim-sha256;
+       spf=pass (example.com: domain of fake-support@secure-mail.com designates 192.0.2.1 as permitted sender) smtp.mailfrom=fake-support@secure-mail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=secure-mail.com
+Received: by fake-server.com (Postfix, from userid 1234)
+        id ABCDEF1234; Fri, 13 Oct 2023 16:52:29 +0000 (UTC)
+Date: Fri, 13 Oct 2023 16:52:29 +0000
+From: "Account Security Team" <fake-support@secure-mail.com>
+To: user@example.com
+Reply-To: noreply-donotreply@securealerts.com
+Subject: URGENT: Action Required to Confirm Your Account Details
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_9876543_123456789.1234567890987"
+
+------=_Part_9876543_123456789.1234567890987
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+We detected an unusual sign-in attempt and for your security, your account has been locked temporarily. Please confirm your details by visiting the link below:
+
+http://secure.somewhere-account.com
+
+Your password expires today, reset it immediately to avoid interruptions in access.
+
+http://reset.yourpassword-today.com
+
+If you did not request this action, please verify your account to prevent security risks.
+
+Best regards,
+Security Team
+
+------=_Part_9876543_123456789.1234567890987
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear Valued User,</p>
+    <p>We detected an unusual sign-in attempt and for your security, your account has been locked temporarily. Please confirm your details by clicking <a href="http://secure.somewhere-account.com"><img src="http://different.place.com/icon.png" alt="verify now"></a></p>
+    <p></p>
+    <p>Your password expires today, reset it immediately to avoid interruptions in access by clicking <a href="http://reset.yourpassword-today.com"></a><img src="http://another.place-link.com/reset.png" alt="reset password now"></p> 
+    <p>If you did not request this action, please verify your account to prevent security risks by visiting <a href="http://verify.account.security-issues.com/">www.example.com/security</a></p> 
+    <p>Best regards,<br>Security Team</p>
+</body>
+</html>
+
+------=_Part_9876543_123456789.1234567890987--
+```

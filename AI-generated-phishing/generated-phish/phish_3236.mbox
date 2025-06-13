@@ -1,0 +1,58 @@
+From tracking@dhl-delivery.com Mon Jul 01 10:15:30 2024
+Return-Path: <tracking@dhl-delivery.com>
+Received: from mail.dhlservice.com (mail.dhlservice.com [192.0.2.1])
+    by mail.domain.com with ESMTP id ABC123
+    for <victim@domain.com>; Mon, 1 Jul 2024 10:15:30 -0400
+Date: Mon, 1 Jul 2024 10:15:30 -0400
+From: DHL Delivery <tracking@dhl-delivery.com>
+Reply-To: reply@customer-support.info
+To: victim@domain.com
+Subject: URGENT: Account Verification Required to Release Your Package
+Message-ID: <20240701101530.ABC123@mail.dhlservice.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+X-Mailer: Microsoft Outlook 16.0
+X-Priority: 1
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today, but delivery is on hold pending account verification.
+Your parcel will be returned within 24 hours if no action is taken.
+
+Please click here to verify your account and confirm delivery:
+http://123.45.67.89/verify-account
+
+Alternatively, visit:
+http://secure.delivery.dhlservice.com/confirm?ref=XYZ123
+
+Failure to verify may result in package forfeiture.
+
+Thank you,
+DHL Delivery Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif; line-height:1.5;">
+    <h2 style="color:#D92323;">URGENT: Account Verification</h2>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package today but your <strong>account</strong> requires <strong>immediate</strong> verification to avoid return.</p>
+    <p>Please <a href="http://123.45.67.89/verify-account" style="color:#1a0dab; text-decoration:none; font-weight:bold;">click here</a> to proceed with verification.</p>
+    <p>Check details <a href="http://secure.delivery.dhlservice.com/account/update">here</a> to avoid shipping delays.</p>
+    <p><a href="http://123.45.67.89/download"><img src="http://123.45.67.89/logo.png" alt="DHL Delivery" style="border:0; width:200px;"/></a></p>
+    <p>Need help? Visit our <a href="https://www.dhl.com/help">Help Center</a> or read our <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a>.</p>
+    <p style="color:#D92323;"><strong>Warning:</strong> If you do not verify within 12 hours, your package will be returned to sender.</p>
+    <hr/>
+    <p>DHL Delivery Team<br/>
+    <span style="font-size:small; color:gray;">This email was sent to victim@domain.com. For assistance, contact <a href="mailto:support@dhl.com">support@dhl.com</a>.</span>
+    </p>
+  </body>
+</html>
+
+--boundary123--

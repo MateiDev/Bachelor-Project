@@ -1,0 +1,47 @@
+From dhl-notify@dhl.com Thu Jul 18 09:00:00 2024
+Subject: Urgent: Delivery Pending - Action Required
+From: "DHL Express" <dhl-notify@dhl.com>
+Reply-To: support@dhl-helpdesk.com
+To: recipient@testmail.com
+Date: Thu, 18 Jul 2024 09:00:00 -0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01D9C2F0.3A2B3C40"
+
+----=_NextPart_000_001A_01D9C2F0.3A2B3C40
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our records indicate that your recent shipment cannot be delivered due to incomplete payment of clearance fees.
+Please settle the remaining charge immediately to avoid further delays. Failure to act before 2024-07-20 may result in return to sender or disposal of the package.
+
+To complete the payment, click here:
+http://192.168.100.50/fee/update
+
+For more information, visit:
+https://www.dhl.com/privacy-policy
+
+Thank you for your cooperation.
+
+Sincerely,
+DHL Shipping Support
+
+----=_NextPart_000_001A_01D9C2F0.3A2B3C40
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Our records indicate that your recent shipment cannot be delivered due to incomplete payment of clearance fees.
+Please settle the remaining charge <strong>immediately</strong> to avoid further delays. <span style="color:red;">Urgent action required</span> to prevent <em>package disposal</em>.</p>
+<p>To complete the payment, <a href="http://123.45.67.89/secure.payments/web.update?token=ABCD1234"></a><a href="http://123.45.67.89/secure.payments/web.update?token=ABCD1234">click here</a>.</p>
+<p>For more information, visit our <a href="https://www.dhl.com/privacy-policy">privacy-policy</a> or <a href="https://www.dhl.com/help">help</a> pages.</p>
+<p>Best regards,<br>
+DHL Shipping Support</p>
+<img src="http://222.333.444.555.tracking-server.com/track.png" style="display:none" alt=""/>
+</body>
+</html>
+
+----=_NextPart_000_001A_01D9C2F0.3A2B3C40--

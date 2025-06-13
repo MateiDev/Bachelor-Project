@@ -1,0 +1,58 @@
+From securemail@acmecorp.com Mon Jul 26 10:00:00 2021
+Return-Path: <securemail@acmecorp.com>
+Received: from mail.acmecorp.com (mail.acmecorp.com [203.0.113.10])
+	by mx.example.net with ESMTP id ABC123XYZ;
+	Mon, 26 Jul 2021 10:00:00 -0400 (EDT)
+From: "Acme SecureMail" <securemail@acmecorp.com>
+Reply-To: "IT Support" <it-support@acmecorp-security.com>
+To: victim@example.net
+Subject: URGENT: Account Password Expiration Notice
+Message-ID: <20210726100000.securemail@acmecorp.com>
+Date: Mon, 26 Jul 2021 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+You have received an encrypted secure-mail message from AcmeCorp SecureMail Portal.
+To view your message, please visit the link below:
+https://securemail.acmecorp.com/view?msg=12345
+
+Please reset your password within 24 hours to avoid account deactivation.
+If you have any questions, reply to this email.
+
+Regards,
+AcmeCorp IT Support
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Security Alert - Urgent Action Required</title>
+</head>
+<body style="font-family:Arial,sans-serif; line-height:1.4;">
+  <p>Dear User,</p>
+  <p>You have received an <strong>encrypted secure-mail</strong> message from AcmeCorp SecureMail Portal.</p>
+  <p>To view your message, please <a href="http://203.0.113.5/secureportal?msg=12345">click here</a>.</p>
+  <p>If that does not work, copy and paste the following URL into your browser:<br>
+     <a href="http://198.51.100.23/message/view?uid=67890">https://securemail.acmecorp.com/message/view?uid=67890</a>
+  </p>
+  <p>
+    <a href="http://192.0.2.10/images/securemail_logo.png">
+      <img src="http://192.0.2.10/images/securemail_logo.png" alt="SecureMail Logo" style="border:none;"/>
+    </a>
+  </p>
+  <p>For more information, see our <a href="http://198.51.100.23/privacy-policy">https://securemail.acmecorp.com/privacy-policy</a>.</p>
+  <p><em>Please reset your password within 24 hours to avoid account deactivation.</em></p>
+  <br/>
+  <p>Regards,<br/>AcmeCorp IT Support</p>
+</body>
+</html>
+
+----=_Part_12345_67890--

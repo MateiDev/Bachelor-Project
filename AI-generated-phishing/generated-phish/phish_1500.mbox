@@ -1,0 +1,44 @@
+From reward-team@company-inc.com Tue Jul 19 16:23:45 2022
+Date: Tue, 19 Jul 2022 16:23:45 +0200
+From: "Rewards Notification" <notifications@company-inc.com>
+Reply-To: security@company.support
+To: john.doe@myemail.com
+Subject: URGENT: Claim Your €100 Voucher Now!
+Message-ID: <20220719162345.12345@company-inc.com>
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_Part_12345_67890.1658268225000"
+
+------=_Part_12345_67890.1658268225000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Voucher Claim</title>
+</head>
+<body>
+<p><strong>Immediate Action Required!</strong> Your account has been selected
+for a <em>€100 reward voucher</em>. This is your <strong>LAST CHANCE</strong> to claim
+before your <strong>opportunity expires</strong>!</p>
+
+<p>To secure your gift, please <a href="https://secure.login.company.co.uk.access.verify.phishingsite.com/claim?v=12345">click here</a> within the next 24 hours.</p>
+
+<p>Direct link: <a href="https://secure.bank-auth.company-verification.phishingsite.net/confirm">https://company.com/account</a></p>
+
+<p>You can also access your voucher status at
+<a href="https://www.company.com/vouchers">https://company.com/vouchers</a></p>
+
+<p>If you need assistance, review our <a href="https://help.company.com">Help Center</a>
+or our <a href="https://www.company.com/privacy-policy">Privacy Policy</a>.</p>
+
+<p><a href="https://secure-bank-auth.verify-login.phishingsite.io/verify">
+<img src="https://cdn.company-inc.com/images/voucher.png" alt="Voucher Image" border="0">
+</a></p>
+
+<p>Alternatively, go <a href="https://claims.voucher-rewards.com/login.php?user=123">here</a> to confirm your eligibility.</p>
+
+<p>If you do NOT claim your voucher now, you will forfeit the reward forever.</p>
+</body>
+</html>
+
+------=_Part_12345_67890.1658268225000--

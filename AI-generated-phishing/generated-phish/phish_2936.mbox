@@ -1,0 +1,53 @@
+```mbox
+From - Thu Oct 12 14:18:46 2023
+X-Account-Key: account2
+X-UIDL: UID1247-1612369411
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <alerts@securitynotify.com>
+Received: from unknown (localhost [127.0.0.1])
+	by mail.testserver.com (8.14.4/8.14.4) with ESMTP id 73JKMF4S010343
+	for <recipient@example.com>; Thu, 12 Oct 2023 14:18:46 -0500
+Date: Thu, 12 Oct 2023 19:18:46 +0000
+From: Security Alert <alerts@securitynotify.com>
+To: recipient@example.com
+Subject: Urgent: Password expires today – reset immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_21423_24491626.1634065126110"
+
+------=_Part_21423_24491626.1634065126110
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We noticed an unusual sign-in attempt on your account from a new IP address. To ensure your account is secure, please verify your account access and update your password immediately. Failure to do so can result in a permanent lock of your account.
+
+[Click here to verify your account](http://192.168.1.100/security-check) and update your credentials before access is revoked.
+
+Thank you,
+Security Team
+
+
+------=_Part_21423_24491626.1634065126110
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Hello,</p>
+<p>We noticed an <b>unusual sign-in attempt</b> on your account from a new IP address. To ensure your account is secure, please verify your account access and update your password immediately. <b>Failure to do so can result in a permanent lock of your account.</b></p>
+<p><a href="http://192.168.1.100/security-check"><img src="https://www.yoursafetyalerts.com/images/verify.png" alt="Verify Now"></a></p>
+
+<p><a href="http://verify-security.passwordmanager.com">verify-security.passwordmanager.com</a></p>
+<p>Please <a href="http://secure-update.onlinesupport.com"><img src="https://www.securityimage.com/update.png" alt="Update Now"></a>.</p>
+<p><a href="http://youraccount.alternate-checker.com"></a></p>
+
+<p>Thank you,<br>
+<i>Security Team</i></p>
+</body>
+</html>
+------=_Part_21423_24491626.1634065126110--
+```

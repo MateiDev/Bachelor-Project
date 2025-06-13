@@ -1,0 +1,47 @@
+```mbox
+From fake.security@notice-updates.com Fri Oct 6 14:28:32 2023
+Return-Path: <fake.security@notice-updates.com>
+Received: from [192.168.1.100] by fake.mailserver.net with ESMTP
+    id 34534345tueidakf; Fri, 6 Oct 2023 14:28:32 +0000
+Date: Fri, 6 Oct 2023 14:28:32 +0000
+From: "Security Alert" <fake.security@notice-updates.com>
+Reply-To: "customer.support@fakebankalert.com" <customer.support@fakebankalert.com>
+Subject: Urgent: Immediate Action Required on Your Account
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--------098232098230"
+
+----------098232098230
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity in your account. Immediate action is required to secure your account. Follow the link below to verify your details:
+
+http://72.14.207.99.jspbanksecurity.updates
+
+Failure to comply may result in suspension of your account.
+
+Thank you for your prompt attention to this matter.
+
+Security Team
+
+----------098232098230
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>unusual activity</strong> in your account. <strong>Immediate action</strong> is required to secure your account. Follow the link below to verify your details:</p>
+<p><a href="http://72.14.207.99.jspbanksecurity.updates"> </a></p>
+<p>Failure to comply may result in <em>suspension</em> of your account.</p>
+<p>Thank you for your <span style="color:red;"><strong>prompt attention</strong></span> to this matter.</p>
+<p>Your security is our priority,</p>
+<p>Security Team</p>
+<p>Verify here: <a href="http://secure-login.bank.com">secure-login.bank.com</a></p>
+</body>
+</html>
+----------098232098230--
+```

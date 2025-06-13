@@ -1,0 +1,61 @@
+From dhl-notify@dhl-delivery.com Fri May  3 09:30:00 2024
+Return-Path: <dhl-notify@dhl-delivery.com>
+Delivered-To: victim@domain.com
+Received: from mail.dhl-delivery.com (mail.dhl-delivery.com [192.0.2.5])
+	by mx.domain.com with ESMTP id ABC123DEF
+	for <victim@domain.com>; Fri,  3 May 2024 09:30:00 -0500
+From: "DHL Delivery Notification" <no-reply@dhl-delivery.com>
+Reply-To: helpdesk@secure-shipping.com
+To: victim@domain.com
+Subject: Urgent Password Verification for Your Pending Delivery
+Message-ID: <1234567890@mail.dhl-delivery.com>
+Date: Fri,  3 May 2024 09:30:00 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--=_Part_0_123456789.987654321"
+
+----=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your recent package, but we require you to verify your password and account information to release it. Please visit the link below:
+
+http://parcelsecure.com/verify?uid=XYZ123
+
+If you have any questions, please visit our help center:
+https://www.dhl.com/help
+
+Thank you for your prompt attention.
+
+Best regards,
+DHL Delivery Team
+
+----=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We attempted to deliver your recent package, but we require you to verify your <strong>password</strong> and <strong>account</strong> information to release it. Please click the button below to proceed:</p>
+  <p>
+    <a href="http://parcelsecure.com/verify?uid=XYZ123">
+      <img src="https://dhlpics.com/notice.png" alt="Delivery Notification" width="200" height="50" style="border: none;" />
+    </a>
+  </p>
+  <p>If the button doesn’t work, <a href="http://shipping-update.co/confirm?uid=XYZ123">click here</a> to verify now.</p>
+  <p>You can also track your package here:
+    <a href="http://parcelsecure.com/track?num=ABC123">http://www.dhl.com/track?num=ABC123</a>
+  </p>
+  <p>For more information, please visit our
+    <a href="https://www.dhl.com/privacy.html">Privacy Policy</a> or
+    <a href="https://www.dhl.com/help">Help Center</a>.
+  </p>
+  <p>Best regards,<br />DHL Delivery Team</p>
+</body>
+</html>
+----=_Part_0_123456789.987654321--

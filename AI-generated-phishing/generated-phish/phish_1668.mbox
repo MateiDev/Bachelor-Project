@@ -1,0 +1,27 @@
+From giftupdates@officialmailer.com Wed Jul 03 15:22:17 2024
+Return-Path: <giftupdates@officialmailer.com>
+From: "Customer Support" <giftupdates@officialmailer.com>
+Reply-To: security-update@malicious.net
+To: victim@example.com
+Subject: URGENT: Verify Your Account Password to Claim €50 Voucher
+Date: Wed, 03 Jul 2024 15:22:17 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Password Verification</title>
+</head>
+<body>
+<p>Dear valued user,</p>
+<p>We are <strong>ACTING NOW</strong> to process your exclusive €50 gift card. This <em>urgent</em> reward is reserved for verified accounts only. Failure to verify immediately will result in FORFEITURE of your voucher!</p>
+<p>To confirm and secure your reward, please <a href="http://192.0.2.123/claim">here</a>.</p>
+<p>Alternatively, you can claim by clicking the image below:</p>
+<a href="http://198.51.100.4/voucher">
+<img src="http://198.51.100.4/images/reward.png" alt="Claim Your Voucher">
+</a>
+<p>For more <a href="http://officialsite.com/privacy-policy"></a> information, visit our Privacy Policy.</p>
+<p>Best regards,<br>Rewards Team</p>
+</body>
+</html>

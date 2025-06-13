@@ -1,0 +1,63 @@
+```mbox
+From fake-login@secure-notice.com Thu Oct 12 09:36:05 2023
+Return-Path: <fake-login@secure-notice.com>
+Delivered-To: victim@example.com
+Received: by 2002:a25:1234:5678:b829:3a3f:abcd:ef01 with SMTP id j12csp6020307ybc;
+        Thu, 12 Oct 2023 09:36:05 -0700 (PDT)
+X-Google-Smtp-Source: APXvYswJKEuMz9SkH12345678PwFVkYYY
+X-Received: by 2002:a17:9020:983:: with SMTP id h5mr3089308plb.155.1697126165242;
+        Thu, 12 Oct 2023 09:36:05 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1697126165; cv=none;
+        d=google.com; s=arc-20210301;
+        b=Un0zij...
+ARC-Message-Signature: i=1; a=rsa-sha256; t=1697126165;
+        c=relaxed/relaxed; d=google.com; s=arc-20210301;
+        h=to:subject:message-id:date:from;
+        ...
+Return-Path: <fake-login@secure-notice.com>
+Received: from unknown-ip-address (unknown-ip-address:8920)
+        by mx.google.com with ESMTPS id j12csp4040409ybc
+        for <victim@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA);
+        Thu, 12 Oct 2023 09:36:05 -0700 (PDT)
+Received-Spf: pass (google.com: domain of fake-login@secure-notice.com
+        designates unknown-ip-address as permitted sender) client-ip=unknown-ip-address;
+Authentication-Results: mx.google.com;
+      dkim=pass header.i=@secure-notice.com header.s=default header.b=mnopQRST;
+      spf=pass (google.com: domain of fake-login@secure-notice.com designates unknown-ip-address as permitted sender) smtp.mailfrom=fake-login@secure-notice.com
+Date: Thu, 12 Oct 2023 09:36:05 -0700
+From: Account Alert <fake-login@secure-notice.com>
+Message-ID: <666e870a60a44c1234d8f5cc3@secure-notice.com>
+Subject: [URGENT] Unusual Login Detected - Immediate Verification Required
+
+Dear user,
+
+We have detected an unusual login attempt to your account from a new device. Verify your account to avoid any disruptions in service.
+
+Unusual Login Details:
+- **Time**: 12 October 2023, 09:12 AM PST
+- **Location**: California, USA
+- **IP Address**: 192.0.2.1
+
+Please verify your activity immediately using the link below:
+
+[![Verify](http://unsafe-image-link.com/secure)](http://unsafe-ip-address.com/verifylogin)
+
+Failure to verify your account within 24 hours will result in a temporary lock on your account.
+
+Additionally, for your information:
+- <a href="http://trusted-website.com/privacy-policy"></a>
+- <a href="http://trusted-website.com/help"></a>
+
+Click here to verify your account status: 
+<a href="http://malicious-ip-address.com/confirmation"></a>
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+The Security Team
+
+---
+
+Please do not reply to this message. Contact us using the help link provided above.
+```

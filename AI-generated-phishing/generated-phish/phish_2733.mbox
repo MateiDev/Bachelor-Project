@@ -1,0 +1,60 @@
+```
+From - Sat Oct 7 14:28:53 2023
+X-Account-Key: account2
+X-UIDL: UID12345-67890
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <noreply@rewards.example.com>
+Received: from 192.168.1.20 (192.168.1.20) by mx.example.com with SMTP;
+    Sat, 7 Oct 2023 14:28:53 +0000
+Date: Sat, 7 Oct 2023 14:28:53 +0000
+From: Rewards Team <noreply@rewards.example.com>
+To: user@example.com
+Subject: Urgent! Claim your €500 gift-card reward now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_89101112.1456789012345"
+
+------=_Part_1234567_89101112.1456789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+You are eligible for a €500 gift-card! This is an urgent notification to let you know that you have been selected in our rewards program. To claim your voucher, please visit the link below:
+
+http://192.0.2.1/?claim=reward
+
+If you did not make a request, please <a href="http://192.0.2.1/security-settings">unsubscribe</a>.
+
+Best regards,
+Rewards Team
+
+------=_Part_1234567_89101112.1456789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <style>
+      .banner {
+        width: 300px;
+        height: 250px;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Hello,</p>
+    <img src="http://example.com/banner.jpg" alt="Reward Banner" class="banner"/>
+    <p>You are eligible for a <strong>€500 gift-card</strong>! This is an urgent notification to let you know that you have been selected in our rewards program.</p>
+    <p><a href="http://192.0.2.1/?claim=reward">http://www.example.com/rewards</a></p>
+    <p>If you did not make a request, click <a href=" "></a> <a href="http://notarealdomain.com/security-policy">here</a>.</p>
+    <p><a href="http://192.0.2.1/claim-now" style="color: blue;">Click here to claim your voucher now!</a></p>
+    <p>For support, visit <a href="http://support.example.com">Support</a> or <a href="http://help.example.com">Help</a>.</p>
+    <br/>
+    <small>If you wish to unsubscribe, <a href="http://192.0.2.1/unsubscribe">click here</a>.</small>
+    <p>Best regards,</p>
+    <p>Rewards Team</p>
+  </body>
+</html>
+------=_Part_1234567_89101112.1456789012345--
+```

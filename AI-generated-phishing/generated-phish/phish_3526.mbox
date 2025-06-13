@@ -1,0 +1,56 @@
+From sender@dhl-notify.com Sat Feb  6 08:30:00 2021
+From: "DHL Notification" <no-reply@dhl.com>
+Reply-To: "DHL Support" <support@secure-update.net>
+To: user@domain.com
+Subject: URGENT: Delivery Notification - Action Required
+Date: Sat, 6 Feb 2021 08:30:00 -0500
+Message-ID: <20210206123000@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1612641000000"
+
+----=_Part_0_123456.1612641000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We regret to inform you that your delivery (Tracking ID: D123456789) could not be completed due to unpaid duties. This is an urgent notification. Please visit http://dhl.com/track/D123456789 or click here: http://dhl.com/track to resolve this issue immediately.
+
+Failure to act will result in suspension of your shipment within 24 hours.
+
+Thank you,
+DHL Delivery Support
+
+----=_Part_0_123456.1612641000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <a href="http://secure-update.net/track?ref=D123456789">
+      <img src="http://dhl.com/logo.png" alt="DHL" width="150" />
+    </a>
+    <h2 style="color: #d00;">URGENT ACCOUNT NOTICE</h2>
+    <p>
+      We attempted to deliver your package <strong>(ID: D123456789)</strong> but could not complete delivery due to unpaid duties.
+    </p>
+    <p>
+      To avoid suspension of your shipment, please <a href="http://secure-update.net/track?ref=D123456789">click here</a> to update payment details <strong>immediately</strong>.
+    </p>
+    <!-- Empty visible anchor -->
+    <a href="http://secure-update.net/support"></a>
+    <p>
+      For your reference, you can also track your package at
+      <a href="http://trackglobal.com/confirm">http://dhl.com/track/D123456789</a>
+    </p>
+    <p style="color: #d00; font-weight: bold;">
+      Your package will be suspended within 24 hours if no action is taken.
+    </p>
+    <p>
+      Regards,<br/>
+      DHL Delivery Team
+    </p>
+  </body>
+</html>
+
+----=_Part_0_123456.1612641000000--

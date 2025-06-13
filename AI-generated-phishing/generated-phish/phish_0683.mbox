@@ -1,0 +1,40 @@
+From service@paypal.com Wed Apr 24 08:15:00 2024
+Return-Path: <service@paypal.com>
+Date: Wed, 24 Apr 2024 08:15:00 -0400
+From: "PayPal" <service@paypal.com>
+Reply-To: support@paypal-security.com
+To: user@example.org
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f6ce05c71f83a0"
+
+--000000000000b3f6ce05c71f83a0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We recently detected suspicious activity on your PayPal account. To avoid suspension, please verify your password immediately by visiting the link below:
+
+https://www.paypal.com/login
+
+Failure to verify within 24 hours will result in permanent account limitation.
+
+Sincerely,
+PayPal Security Team
+
+--000000000000b3f6ce05c71f83a0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Customer,</p>
+<p style="color:red;font-weight:bold;">Your PayPal account has been temporarily limited due to suspicious activity. Immediate action required.</p>
+<p>Please verify your password by clicking the secure link below:</p>
+<p><a href="http://203.0.113.5/login"></a></p>
+<p>Or visit: <a href="http://203.0.113.5/login">https://www.paypal.com/login</a></p>
+<p>Failure to act within 24 hours will result in permanent account suspension.</p>
+<p>Sincerely,<br>PayPal Security Team</p>
+</body></html>
+
+--000000000000b3f6ce05c71f83a0--

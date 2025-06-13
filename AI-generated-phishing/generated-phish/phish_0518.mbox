@@ -1,0 +1,47 @@
+From taxoffice@refund.gov Fri Jul 14 11:13:00 2023
+Return-Path: <taxoffice@refund.gov>
+Received: from mailserver.refund.gov (mailserver.refund.gov [203.0.113.5])
+	by usermail.refund.gov with ESMTP id ABC12345
+	for <user@domain.com>; Fri, 14 Jul 2023 11:13:00 -0400 (EDT)
+From: "Tax Refund Department" <taxoffice@refund.gov>
+Reply-To: <support@help.banking-support.info>
+Subject: Urgent: Tax Refund Confirmation Required
+To: user@domain.com
+Date: Fri, 14 Jul 2023 11:13:00 -0400
+Message-ID: <20230714111300.ABC12345@mailserver.refund.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1657801980000"
+
+----=_Part_0_123456.1657801980000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have reviewed your annual tax return and determined that you qualify for a small refund of $42.50.
+To receive this refund, please confirm your bank details immediately by visiting the secure link below.
+Failure to respond within 48 hours will result in cancellation of your refund.
+
+Secure link:
+http://secure.bank.com/verify
+
+Best regards,
+Tax Refund Department
+
+----=_Part_0_123456.1657801980000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We're pleased to inform you that you are entitled to a tax refund of <strong>$42.50</strong>.</p>
+    <p>To claim your refund, please <a href="http://192.0.2.45/verify.php">http://secure.bank.com/verify</a> your bank details immediately.</p>
+    <p>If the above link is unavailable, <a href="http://help.banking-support.info/refund/login?uid=12345">click here</a> to proceed.</p>
+    <p>For more information, view our <a href="http://192.0.2.123/privacy.policy.html">privacy policy</a>.</p>
+    <p>Thank you,<br>
+    Tax Refund Department</p>
+  </body>
+</html>
+
+----=_Part_0_123456.1657801980000--

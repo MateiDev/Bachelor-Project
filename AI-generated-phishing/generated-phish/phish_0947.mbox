@@ -1,0 +1,49 @@
+From support@legitbank.com Fri Jul 12 11:22:33 2024
+Return-Path: <support@legitbank.com>
+Received: from smtp.legitbank.com (smtp.legitbank.com [192.0.2.1])
+	by mail.legitbank.com with ESMTP id abcd1234
+	for <user@legitbank.com>; Fri, 12 Jul 2024 11:22:33 -0400 (EDT)
+From: "Legit Bank Support" <support@legitbank.com>
+Reply-To: security@accounts-update.com
+Subject: Urgent: Account Password Expires Today – Verify Immediately
+To: user@legitbank.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account. Your password expires today. To avoid access interruption, you must verify your identity immediately.
+
+Please visit the following link to confirm your activity and reset your password:
+
+http://secure-login.verify-account.com/reset?user=abcd1234
+
+If you do not verify within 24 hours, your account may be suspended.
+
+Thank you,
+Legit Bank Security Team
+
+Privacy Policy: https://legitbank.com/privacy-policy
+Help Center: https://legitbank.com/help
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Unusual sign-in detected</strong>—we noticed a login from a new device. <em>Your password expires today</em>. <span style="color:red;">Verify immediately to keep your account secure.</span></p>
+    <p>Click <a href="http://secure-login.verify-account.com/reset?user=abcd1234">here</a> to confirm your activity and reset your password.</p>
+    <p>If you don't act now, your access will be <span style="font-weight:bold;">suspended</span> within 24 hours.</p>
+    <p><a href="http://alerts.security.legitbank.com.verify-session-update.info/confirm?token=xyz"></a></p>
+    <p><a href="https://legitbank.com/privacy-policy">Privacy Policy</a> | <a href="https://legitbank.com/help">Help Center</a></p>
+    <p>Thank you,<br/>Legit Bank Security Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

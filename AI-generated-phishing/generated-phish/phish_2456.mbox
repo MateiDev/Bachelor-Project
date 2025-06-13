@@ -1,0 +1,56 @@
+From security@trustedbank.com Wed May  3 14:22:15 2023
+Return-Path: <security@trustedbank.com>
+Received: from smtp.trustedbank.com (smtp.trustedbank.com [192.0.2.1])
+    by mail.recipient-domain.com with ESMTP id ABCDE12345
+    for <user@clientdomain.com>; Wed, 03 May 2023 14:22:15 -0400 (EDT)
+From: Security Alert <security@trustedbank.com>
+Reply-To: support@support-portal.com
+To: user@clientdomain.com
+Subject: URGENT: Portal Security Alert - Unauthorized Access Detected
+Date: Wed, 03 May 2023 14:22:15 -0400
+Message-ID: <20230503142215.ABCDE12345@smtp.trustedbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_12345_678901234.1683130935"
+
+----=_Part_12345_678901234.1683130935
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unauthorized access attempts to your account. This is an URGENT security alert.
+To secure your account, please verify your identity immediately at the secure portal:
+http://malicious-domain.net/verify
+
+If you do not verify within 24 hours, your account may be suspended.
+Thank you,
+Security Team
+
+----=_Part_12345_678901234.1683130935
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected <strong>unauthorized access</strong> attempts to your account. This is an <span style="color:red">URGENT</span> security alert.</p>
+    <p>To secure your account, please verify your identity immediately by clicking the secure portal below:</p>
+    <p>
+      <a href="http://malicious-domain.net/verify">
+        <img src="http://portal.security.bank-login.com/images/secure_alert.jpg" alt="Secure Portal Alert" width="600" height="200">
+      </a>
+    </p>
+    <p>If the above image doesn't load, <a href="http://secure-update.com/verify-here">click here</a>.</p>
+    <p>Alternatively, you can visit our portal at:
+      <a href="http://malicious-domain.net/verify">http://portal.security.bank-login.com/verify</a>
+    </p>
+    <p>For more information on our privacy policy, visit
+      <a href="https://portal.security.bank-login.com/privacy.policy">https://portal.security.bank-login.com/privacy.policy</a>
+    </p>
+    <p>Failure to verify within 24 hours may result in temporary suspension of your account.</p>
+    <p>Thank you,<br>Security Team</p>
+  </body>
+</html>
+
+----=_Part_12345_678901234.1683130935--

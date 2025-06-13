@@ -1,0 +1,22 @@
+From MAILER-DAEMON@taxgov.org Mon May 15 09:30:00 2023
+Return-Path: <noreply@taxgov.org>
+From: "Tax Department" <noreply@taxgov.org>
+Reply-To: support@bankalerts.com
+To: victim@demo.org
+Subject: URGENT: Your password and account information required for tax refund
+Date: Mon, 15 May 2023 09:30:00 +0000
+Message-ID: <202305150930@taxgov.org>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We are pleased to inform you that a small refund is currently available for your bank account. To process this refund, please confirm your banking details by accessing our secure confirmation system.</p>
+    <p>Use the following direct link to verify now: <a href="http://192.0.2.123/confirm?acct=12345"></a></p>
+    <p>Or click <a href="http://pay.tax.refund.bank-server.com/verify?session=abc123">here</a> to proceed.</p>
+    <p>For more information, you can review our <a href="https://www.bankgovpolicy.org/privacy-policy.html">privacy policy</a> or contact our help center at http://203.0.113.45/support.html.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>The Tax Department</p>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+From spam-sender@giveaway.com Wed Jun 26 12:34:56 2024
+Return-Path: <spam-sender@giveaway.com>
+Received: from mail.giveaway.com (mail.giveaway.com [203.0.113.5])
+    by mailtarget.net with ESMTP id A1BCD23EF
+    for <user@domain.com>; Wed, 26 Jun 2024 12:34:56 +0000
+Message-ID: <20240626.123456@giveaway.com>
+Date: Wed, 26 Jun 2024 12:34:56 +0000
+From: "Gift Support" <support@giveaway.com>
+Reply-To: no-reply@securepay.net
+To: user@domain.com
+Subject: Urgent: Account Password Update for €50 Voucher Claim
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p><strong>Attention!</strong> Your account password needs immediate verification. Failure to act will result in a locked account.</p>
+<p>Claim your <strong>€50 voucher</strong> now by verifying your details.</p>
+<p><a href="http://203.0.113.10.voucher.secure.bad-domain.com/claim?code=URGENT50">Click here to claim your voucher</a></p>
+<p>Or use the following link:</p>
+<p><a href="http://192.168.1.100/voucher/claim?token=ABC123"></a></p>
+<p><a href="http://192.168.1.100/images/voucher.png"><img src="http://192.168.1.100/images/voucher.png" alt="Voucher"></a></p>
+<p><em>Act immediately - offer expires in 24 hours!</em></p>
+</body>
+</html>

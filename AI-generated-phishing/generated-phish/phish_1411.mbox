@@ -1,0 +1,54 @@
+From taxnotice@taxdept-update.com Fri Jul 28 12:00:00 2023
+Return-Path: <taxnotice@taxdept-update.com>
+Received: by mailserver.taxdept.gov id abc123; Fri, 28 Jul 2023 12:00:00 -0400
+Message-ID: <20230728120000.abc123@taxdept-update.com>
+Date: Fri, 28 Jul 2023 12:00:00 -0400
+From: "Tax Department" <taxnotice@taxdept-update.com>
+Reply-To: support@banking-update.net
+To: user@domain.com
+Subject: Urgent: Verify Your Account Now to Claim Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_987654321.123456"
+
+----=_Part_0_987654321.123456
+Content-Type: text/plain; charset=UTF-8
+
+Dear Valued Customer,
+
+Our records show you are eligible for a small tax refund. To receive your refund, please confirm your bank details and online banking password by visiting:
+https://tax-refund-portal.gov/verify
+
+Alternatively, go to:
+http://123.123.123.123/refund
+
+Act immediately to avoid any delays.
+
+Thank you,
+Tax Department
+
+----=_Part_0_987654321.123456
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Our records show you are eligible for a small tax <strong>refund</strong>. To receive your refund, please confirm your bank details and online banking <span style="color:red;">password</span> by clicking the button below:</p>
+    <p>
+      <a href="http://123.123.123.123/refund">
+        <img src="http://images.taxdept-update.com/confirm.png" alt="Confirm Refund" style="border:none;">
+      </a>
+    </p>
+    <p>Or visit: 
+      <a href="http://secure.taxrefund-login.net/verify">
+        https://tax-refund-portal.gov/verify
+      </a>
+    </p>
+    <p>Failure to verify your <span style="font-weight:bold;">account</span> details within 48 hours will delay your refund.</p>
+    <p>If you have any questions, contact our support team at 
+      <a href="mailto:help@taxdept.gov">help@taxdept.gov</a>.
+    </p>
+    <p>Thank you,<br>Tax Department</p>
+  </body>
+</html>
+
+----=_Part_0_987654321.123456--

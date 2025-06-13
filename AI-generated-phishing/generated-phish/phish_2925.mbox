@@ -1,0 +1,39 @@
+```mbox
+From phishing@example-mail.com Thu Oct 5 14:28:32 2023
+Return-Path: <phishing@example-mail.com>
+Received: from example-mail.com (example-mail.com [123.45.67.89])
+    by mail.receiver.com (Postfix) with ESMTP id 1234567890
+    for <victim@example.com>; Thu, 5 Oct 2023 14:28:32 +0000 (UTC)
+Message-ID: <0987654321@example-mail.com>
+Date: Thu, 5 Oct 2023 14:28:32 +0000 (UTC)
+From: Rewards Department <rewards@example-mail.com>
+Subject: Urgent: Claim your €500 Gift Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_987654_123456789.0987654321"
+
+------=_Part_987654_123456789.0987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations! You're eligible for a €500 voucher. Act fast to claim it now!
+
+------=_Part_987654_123456789.0987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h2>Congratulations!</h2>
+    <p>You're eligible for a <b>€500 voucher</b>. This is a limited time offer, 
+    so please <b>URGENTLY</b> <a href="http://malicious-site.com/login" target="_blank">click here</a> 
+    to claim your reward now!</p>
+    <p><a href=""><img src="http://images.example.com/promo.png" alt="Claim Now"></a></p>
+    <p>For more information, visit our website: <a href="http://safe-example-site.com">http://safe-example-site.com</a></p>
+    <p>Review our <a href="http://safe-example-site.com/privacy-policy">Privacy Policy</a> 
+    or <a href="http://safe-example-site.com/help">Help</a> for further assistance.</p>
+  </body>
+</html>
+
+------=_Part_987654_123456789.0987654321--
+```

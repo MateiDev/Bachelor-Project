@@ -1,0 +1,59 @@
+From no-reply@refund.irs.gov Sat Jan  1 12:00:00 2022
+Return-Path: <no-reply@refund.irs.gov>
+Delivered-To: user@example.com
+Received: from mailserver.refund.irs.gov (mailserver.refund.irs.gov [198.51.100.2])
+        by mx.example.com with ESMTP id ABC123;
+        Sat, 1 Jan 2022 12:00:01 -0500 (EST)
+Received: from phishing-server (unknown [203.0.113.5])
+        by mailserver.refund.irs.gov with SMTP id DEF456;
+        Sat, 1 Jan 2022 11:59:58 -0500 (EST)
+From: "IRS Refund Processing" <no-reply@refund.irs.gov>
+To: user@example.com
+Subject: Action Required: Confirm Your Tax Refund
+Date: Sat, 1 Jan 2022 11:59:58 -0500
+Message-ID: <20220101115958.ABCDEF@mail.refund.irs.gov>
+Reply-To: tax-help@secure-update.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_789012345.1610000000000"
+
+------=_Part_123456_789012345.1610000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have a small $56.42 tax refund ready to be disbursed.
+
+Please confirm your bank details to receive the refund:
+https://203.0.113.5/confirm
+
+If you do not confirm within 48 hours, your refund may be delayed.
+
+Thank you,
+IRS Refund Processing Team
+
+------=_Part_123456_789012345.1610000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>We have a small <b>$56.42</b> tax refund ready to be disbursed.</p>
+  <p>Please confirm your bank details to receive the refund:
+     <a href="https://203.0.113.5/confirm">click here</a>.
+  </p>
+  <p>If you have questions, visit our <a href="https://203.0.113.5/help">help center</a>.</p>
+  <p style="display:none;"><a href="https://203.0.113.5/privacy-policy"></a></p>
+  <p>Alternatively, you can check your status at:
+     <a href="https://203.0.113.5/refund-check">https://secure.irs.gov.refund-update.info</a>
+  </p>
+  <p>To update through our official portal, go to:
+     <a href="http://banking.secure-update.example.com/">https://secure.bank.com</a>
+  </p>
+  <p>Thank you,<br/>IRS Refund Processing Team</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.1610000000000--

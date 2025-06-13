@@ -1,0 +1,47 @@
+From track@ups-delivery.com Thu Jul 14 12:34:56 2024
+Return-Path: <track@ups-delivery.com>
+Delivered-To: victim@domain.com
+Received: from mail-ups.com (mail-ups.com [198.51.100.23]) by mx.domain.com with ESMTP id ABC123; Thu, 14 Jul 2024 12:34:56 +0000 (UTC)
+Date: Thu, 14 Jul 2024 08:34:56 -0400
+From: UPS Delivery Notice <track@ups-delivery.com>
+Reply-To: support@ups-helpdesk.com
+Subject: URGENT: account delivery update required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.987654321"
+
+----=_Part_0_123456.987654321
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an issue with your recent parcel. Immediate action is required to avoid shipment failure. Please follow the links below to confirm your account details and release the package:
+
+1) Go to: http://192.0.2.123/secure?uid=ABCD1234
+2) Or visit: http://198.51.100.45/verify?order=5678
+
+Failure to act within 24 hours will result in return to sender. This is an urgent matter.
+
+Best regards,
+UPS Delivery Support
+
+----=_Part_0_123456.987654321
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Immediate attention required!</strong> We detected an <span style="color:red;">issue</span> with your recent parcel. <em>Please act now</em> to avoid <u>shipment cancellation</u>. Confirm your account details and release your package:</p>
+    <p>
+      <a href="http://192.0.2.123/secure?uid=ABCD1234">
+        <img src="http://192.0.2.123/images/release_button.jpg" alt="Release Package" style="border:0;">
+      </a>
+    </p>
+    <p>If the image above does not load, click here: <a href="http://198.51.100.45/verify?order=5678">Release My Package</a></p>
+    <p><em>Warning:</em> Failure to complete verification within 24 hours will result in return to sender.</p>
+    <p>UPS Delivery Support Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.987654321--

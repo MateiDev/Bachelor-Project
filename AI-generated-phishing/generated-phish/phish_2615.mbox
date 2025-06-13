@@ -1,0 +1,48 @@
+From phishing@example.com Thu Oct 19 14:48:22 2023  
+Return-Path: <phishing@example.com>  
+Delivered-To: victim@example.com  
+Received: from scammerhost.example.net (scammerhost.example.net [93.184.216.34])  
+	by mail.example.com (Postfix) with ESMTP id 1234567890  
+	for <victim@example.com>; Thu, 19 Oct 2023 14:48:22 +0000 (UTC)  
+Message-ID: <1234567890@example.com>  
+Date: Thu, 19 Oct 2023 14:48:22 +0000  
+From: Secure Portal <support@portalsafety.com>  
+To: victim@example.com  
+Subject: Urgent: Action Required to Secure Your Account  
+MIME-Version: 1.0  
+Content-Type: multipart/alternative; boundary="0000000000001234567890"  
+
+--0000000000001234567890  
+Content-Type: text/plain; charset="UTF-8"  
+Content-Transfer-Encoding: 7bit  
+
+Dear User,  
+
+We have detected suspicious activity on your account. For your safety, it is urgent that you verify your credentials. Please click the link below to secure your account:  
+
+http://safetyupdate.portal.com  
+
+Failure to act immediately may result in restricted access to your account.  
+
+Thank you for your prompt attention.  
+
+Regards,  
+Portal Security Team  
+
+--0000000000001234567890  
+Content-Type: text/html; charset="UTF-8"  
+Content-Transfer-Encoding: 7bit  
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected suspicious activity on your account. For your safety, it is <strong>urgent</strong> that you verify your credentials. Please click the <a href="http://192.0.2.1/login.php">link</a> below to secure your account:</p>
+    <p><a href="http://192.0.2.1/login.php"><img src="http://portalsafety.com/securelogin.png" alt="Secure Login"></a></p>
+    <p>Failure to act immediately may result in restricted access to your account.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Regards,<br>Portal Security Team</p>
+    <p>For privacy policy, visit: <a href="http://www.trustedsafeportal.com/privacy-policy.html">http://www.trustedsafeportal.com/privacy-policy.html</a></p>
+  </body>
+</html>  
+
+--0000000000001234567890--  

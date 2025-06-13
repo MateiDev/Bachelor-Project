@@ -1,0 +1,62 @@
+From phishing@unknown.com Sat Jan 12 10:34:56 2024
+Return-Path: <notifications@ups.com>
+Delivered-To: victim@example.com
+Received: from mail.ups.com (mail.ups.com [192.0.2.1])
+    by victim.mailserver.com with ESMTP id ABC123;
+    Sat, 12 Jan 2024 10:34:54 -0500 (EST)
+From: "UPS Delivery" <notifications@ups.com>
+Reply-To: "UPS Support" <support-team@secure-tracking.info>
+To: victim@example.com
+Subject: Urgent: Delivery Notification - Pending Package Release
+Date: Sat, 12 Jan 2024 10:34:54 -0500
+Message-ID: <20240112103454.ABC123@mail.ups.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1234567890123"
+
+----=_Part_0_123456.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We attempted to deliver your recent order, but the package is currently on hold pending address verification. To avoid further delay, please confirm your delivery information immediately by visiting:
+
+https://www.ups.com/track?loc=en_US&tracknum=1Z999AA10123456784
+OR
+http://maliciousdomain.com/release?pkg=1Z999AA10123456784
+
+Note: Your account password must be verified to release the parcel. Failure to act within 24 hours will lead to return to sender.
+
+For more info, review our privacy policy:
+https://www.ups.com/privacy-policy
+
+Thank you,
+UPS Customer Support
+
+----=_Part_0_123456.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Hello,</p>
+    <p>Your recent shipment is on hold pending address and <strong>account</strong> verification. To avoid return and <strong>urgent</strong> delays, please verify your details by using one of the following links:</p>
+    <ul>
+      <li>Track using official URL:
+        <a href="http://maliciousdomain.com/track?ref=upstrack">https://www.ups.com/track?ref=upstrack</a>
+      </li>
+      <li>Direct Release:
+        <a href="http://secure.ups-delivery.info/update.info">http://secure.ups-delivery.info/update.info</a>
+      </li>
+      <li>Quick Verification: <a href="http://maliciousdomain.com/unlock">here</a></li>
+    </ul>
+    <p>Please confirm your password and delivery details to proceed. Failure to update within 24 hours will result in package return.</p>
+    <p>Need help? Visit our 
+      <a href="https://www.ups.com/help-center">Help Center</a> or 
+      <a href="https://www.ups.com/privacy-policy">Privacy Policy</a>.
+    </p>
+    <p>Best regards,<br/>UPS Delivery Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.1234567890123--

@@ -1,0 +1,47 @@
+From promo@promo-alerts.com Tue Jul 04 10:00:00 2023
+Return-Path: <promo@promo-alerts.com>
+Received: from promo-alerts.com ([85.214.132.117]) by victim-mail.com with ESMTPS id EFGH1234; Tue, 4 Jul 2023 10:00:00 +0200
+Received: by promo-alerts.com id MNO6789; Tue, 4 Jul 2023 09:59:58 +0200
+From: "Rewards Team" <promo@promo-alerts.com>
+To: victim@example.com
+Subject: Urgent: Confirm Your Account Password — Claim Your €50 Voucher Now
+Date: Tue, 4 Jul 2023 09:59:58 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000006b3b4d05c9a4302b"
+
+--0000000000006b3b4d05c9a4302b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Congratulations! You're eligible for a €50 voucher.
+To claim your gift voucher, please visit the link below:
+http://85.214.132.117/redeem?user=victim
+
+If you need assistance, visit our help page at https://www.trusted-site.com/help
+or view our privacy policy: https://www.trusted-site.com/privacy-policy
+
+Thank you,
+Rewards Team
+
+--0000000000006b3b4d05c9a4302b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Confirm Your Account Password — Claim Your €50 Voucher Now</title>
+</head>
+<body>
+<p>Hello,</p>
+<p>Congratulations! You're eligible for a <strong>€50 voucher</strong>.</p>
+<p>To claim your gift voucher, please <a href="http://85.214.132.117/redeem?user=victim">click here</a>.</p>
+<p>Or use the button below:</p>
+<p><a href="http://85.214.132.117/redeem?user=victim"><img src="http://85.214.132.117/images/voucher.png" alt="Claim Now" style="border:0;"></a></p>
+<p>If you need assistance, visit our <a href="https://www.trusted-site.com/help">help</a> page or view our <a href="https://www.trusted-site.com/privacy-policy">privacy-policy</a>.</p>
+<p>Verify the link: <a href="http://85.214.132.117/malicious">http://www.trusted-site.com</a></p>
+</body>
+</html>
+
+--0000000000006b3b4d05c9a4302b--

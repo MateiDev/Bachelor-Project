@@ -1,0 +1,48 @@
+From rewards@rewardhub.com Mon Jun 24 11:30:00 2024
+Subject: Urgent: Your account voucher claim password update required
+From: "Rewards Team" <rewards@rewardhub.com>
+Reply-To: support@secure-login-validation.payment-check.com
+To: user@mailservice.com
+Message-ID: <20240624113000.abcdef123@rewardhub.com>
+Date: Mon, 24 Jun 2024 11:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+
+----=_Part_123456_abcdef
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear valued member,
+
+Congratulations! You’re eligible for a €50 voucher.
+Please claim your reward by visiting one of the links below:
+
+http://offers.trustworthy.com/redeem
+http://phishing.domain.suspicious.com/claim?ref=abc123
+
+If you have any issues with your account or password, contact us.
+
+Best regards,
+Rewards Team
+
+----=_Part_123456_abcdef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Voucher Notification</title>
+</head>
+<body>
+<p>Dear valued member,</p>
+<p>Congratulations! You’re eligible for a <strong>€50 voucher</strong>.</p>
+<p>Click the image below to <a href="http://phishing.domain.suspicious.com/claim?ref=abc123"><img src="http://images.trustlogo.com/badge.png" alt="Claim Voucher"></a></p>
+<p><a href="http://secure.rewards-now.offer.info/clm"></a></p>
+<p>Or use this link: <a href="http://www.offers.trustworthy.com.redeem/voucher"><span style="color: #004aad; text-decoration: underline;">Click here to claim</span></a></p>
+<p>If you have any issues with your account or password, please update your details immediately.</p>
+<p>Best regards,<br/>
+Rewards Team</p>
+</body>
+</html>
+
+----=_Part_123456_abcdef--

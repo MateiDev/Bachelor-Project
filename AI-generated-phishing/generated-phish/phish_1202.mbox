@@ -1,0 +1,22 @@
+From support@secure.bank-portal.com Tue Mar  5 10:15:00 2024
+From: "Support Team" <support@secure.bank-portal.com>
+To: user@example.com
+Subject: Urgent Account Security Alert: Password Reset Needed
+Date: Tue, 5 Mar 2024 10:15:00 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected suspicious activity on your account. For your security, your password will expire in 12 hours unless you confirm your identity. Failure to comply will result in immediate account suspension. <strong>This is an URGENT security alert!</strong></p>
+    <p>Please <a href="http://192.0.2.123/secure-mail">click here</a> to verify your account now.</p>
+    <p>If the link above does not work, copy and paste this URL into your browser:</p>
+    <p><a href="http://192.0.2.123/secure-mail">https://secure.bank-portal.com/secure-mail</a></p>
+    <p>You can also verify through our portal: <a href="http://192.0.2.123/login"></a></p>
+    <p>Access your encrypted messages by clicking the secure logo below:</p>
+    <p><a href="http://192.0.2.123/secure-mail"><img src="https://bank-portal.com/assets/logo.png" alt="SecureMail Logo"></a></p>
+    <p>For assistance, view our <a href="https://secure.bank-portal.com/privacy">Privacy Policy</a> or <a href="https://secure.bank-portal.com/help">Help Center</a>.</p>
+    <p>Thank you,<br/>Secure Mail Team</p>
+  </body>
+</html>

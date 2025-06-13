@@ -1,0 +1,62 @@
+From dhl@dhl.com Sun Jun 30 12:45:00 2024
+Return-Path: <delivery@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.10])
+	by mx.domain.com with ESMTP id abc123
+	for <user@domain.com>; Sun, 30 Jun 2024 12:45:00 +0000
+From: "DHL Delivery Notification" <delivery@dhl.com>
+Reply-To: "DHL Support Team" <support@security-notice.com>
+To: user@domain.com
+Subject: URGENT: Delivery Attempt Failed! Immediate Action Required
+Date: Sun, 30 Jun 2024 12:45:00 +0000
+Message-ID: <20240630124500.12345@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XXXXboundary text"
+
+--XXXXboundary text
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+Our courier attempted to deliver your package, but delivery failed due to unpaid handling fees. This is your final notice. You have 24 hours to pay a $1.95 processing fee or your parcel will be returned to sender and a penalty may apply.
+
+Please follow the secure link below to confirm your delivery and pay the fee immediately:
+http://secure.dhl-tracking.info/auth?pkg=123456
+
+Thank you for choosing DHL.
+
+--XXXXboundary text
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family:Arial,sans-serif;line-height:1.4;color:#333;">
+    <h2 style="color:#D80000;">URGENT: Delivery Failed!</h2>
+    <p>
+      Dear Customer,<br>
+      Our courier attempted to deliver your package, but delivery failed due to unpaid handling fees. 
+      This is your <strong>final notice</strong>. You have <strong>24 hours</strong> to pay a <strong>$1.95</strong> processing fee 
+      or your parcel will be returned to sender and a penalty may apply.
+    </p>
+    <p style="text-align:center;">
+      <a href="http://images-release.net/view">
+        <img src="http://tools.dhlcdn.com/dhl-logo.png" alt="DHL Logo" width="200">
+      </a>
+    </p>
+    <p style="text-align:center;">
+      <a href="http://secure.dhl-tracking.info/auth?pkg=123456" style="background:#D80000;color:#fff;padding:10px 20px;text-decoration:none;border-radius:4px;">
+        Confirm Delivery
+      </a>
+    </p>
+    <p>
+      Or click <a href="http://urgent-parcel-release.info/download">here</a> to release your package instantly.<br>
+      Track your order at <a href="http://www.dhl.com/track" 
+      title="https://www.dhl.com/track">https://www.dhl.com/track</a> by entering your package ID.
+      <a href="http://tracking.payvouchers.com/confirm"></a>
+    </p>
+    <p style="font-size:0.9em;color:#666;">
+      <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> | 
+      <a href="https://www.dhl.com/help-center">Help Center</a>
+    </p>
+  </body>
+</html>
+
+--XXXXboundary text--

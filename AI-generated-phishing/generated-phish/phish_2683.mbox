@@ -1,0 +1,53 @@
+```
+From - Thu Oct 26 15:37:58 2023
+X-Account-Key: account1
+X-UIDL: 123456789
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <security@notifications-account-update.com>
+Received: from unknown (HELO secure.mailserver.com) ([192.168.1.101])
+          by mail.yourdomain.com with ESMTP; Thu, 26 Oct 2023 15:35:26 +0000
+Reply-To: secure-update@alerts-service.com
+From: "Support Team" <security@notifications-account-update.com>
+Subject: URGENT: Password Alert - Immediate Action Required
+Date: Thu, 26 Oct 2023 15:35:21 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="------------A187D309879452BF"
+
+This is a multi-part message in MIME format.
+--------------A187D309879452BF
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account password needs to be updated immediately due to a recent breach. Please visit the link below to secure your account:
+
+http://secure-update.account-login-support.com/security-check
+
+Failure to update your password can result in account closure.
+
+Thank you,
+Security Team
+
+--------------A187D309879452BF
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>Your account password needs to be updated <strong>immediately</strong> due to a recent breach. Please visit the link below to <a href="http://secure-update.account-login-support.com/security-check">secure your account</a>:</p>
+<p><a href="http://secure-update.account-login-support.com/security-check">http://secure-update.account-login-support.com/security-check</a></p>
+<p>Failure to update your password can result in <strong>account closure</strong>.</p>
+<p><a href="http://update.login-page.com"></a><img src="http://image.security-check.com/logo.png" alt="Secure Update" style="width:150px;"></p>
+<p><a href="http://another.link-security.com"></a></p>
+<p><a href="http://secure-update.account-login-support.com/security-check">http://secure-update-support.com/login</a></p>
+<p>Thank you,<br>
+Security Team</p>
+</body>
+</html>
+
+--------------A187D309879452BF--
+```

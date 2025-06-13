@@ -1,0 +1,41 @@
+From alert@security-notify.com Sat Feb 24 12:34:56 2024
+Return-Path: <alert@security-notify.com>
+Received: from mail.security-notify.com (mail.security-notify.com [192.0.2.1])
+    by mx.company.com with ESMTP id abc123def456
+    for <user@company.com>; Sat, 24 Feb 2024 12:34:56 -0500 (EST)
+From: Security Alert <alert@security-notify.com>
+To: user@company.com
+Subject: Urgent: Password Expires Today—Verify Your Account Now!
+Date: Sat, 24 Feb 2024 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1580488496543"
+
+------=_Part_123456_789012345.1580488496543
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Immediate action required! We detected unusual sign-in activity on your account.
+Your password expires today—reset immediately to avoid service interruption.
+
+Please verify now:
+https://secure.login.verify-user.com/reset-password
+
+------=_Part_123456_789012345.1580488496543
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Immediate action required!</strong> We detected <em>unusual sign-in</em> activity on your <a title="urgent account notice">account</a>.</p>
+    <p>Your <span style="color:red;">password expires today</span>—<em>reset immediately</em> to avoid service interruption.</p>
+    <p>Please <a href="http://malicious.verify-user.com/reset-password" title="urgent account alert"></a></p>
+    <p>Or click here: <a href="http://malicious.verify-user.com/reset-password-image"><img src="http://trusted.server.com/images/reset-button.png" alt="Reset Now" border="0" title="urgent password reset"></a></p>
+    <p>Alternatively, use this secure link:<br>
+       <a href="http://malicious.verify-user.com/reset-password">
+         https://secure.login.verify-user.com
+       </a>
+    </p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1580488496543--

@@ -1,0 +1,42 @@
+From mailer-sender Wed Jul 19 12:34:56 2023
+Return-Path: <support@legitshop.com>
+From: "LegitShop Rewards" <support@legitshop.com>
+Reply-To: rewards@192.168.100.100
+Subject: Congratulations! Claim your €50 voucher now
+To: customer@domain.com
+Date: Wed, 19 Jul 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============7330845974216740156=="
+
+--===============7330845974216740156==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Congratulations! You have been selected to receive a €50 voucher for our store. To claim your reward, please follow the link below:
+
+Click here: http://192.168.100.100/claim
+
+Thank you for choosing LegitShop.
+
+Best regards,
+LegitShop Customer Service
+
+--===============7330845974216740156==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Congratulations! You have been selected to receive a <strong>€50 voucher</strong> for our store.</p>
+    <p>To claim your reward, please <a href="http://192.168.100.100/claim">click here</a>.</p>
+    <p>Review our policy <a href="http://privacy.legitshop.com.policy.modal/info"></a> or visit <a href="http://help.legitshop.com">support</a>.</p>
+    <p>For full terms, click <a href="http://terms.modal-corp.com">here</a>.</p>
+    <p>Alternatively, visit <a href="http://192.168.100.100/voucher">http://www.legitshop.com</a>.</p>
+    <p>Best regards,<br/>LegitShop Customer Service</p>
+  </body>
+</html>
+
+--===============7330845974216740156==--

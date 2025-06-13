@@ -1,0 +1,54 @@
+From phishing@securemail.com Mon Apr 08 14:22:01 2024
+Return-Path: <support@securemail.com>
+Received: from smtp.securemail.com (smtp.securemail.com [203.0.113.45])
+    by mail.domain.com with ESMTP id 123ABC
+    for <victim@domain.com>; Mon, 08 Apr 2024 14:22:01 -0400
+Delivered-To: victim@domain.com
+Message-ID: <cf12345@mail.securemail.com>
+Date: Mon, 08 Apr 2024 14:22:01 -0400
+From: "SecureMail Support" <support@securemail.com>
+Reply-To: admin@session-security.com
+Subject: Urgent: Verify Your Account – Password Expires Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456"
+
+------=_Part_0_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in attempt on your account. For your security, your password expires today – reset immediately to avoid account suspension.
+
+Verify now:
+http://support.secure-login.update-tickets.company-info.org/verify
+Or click here:
+http://192.0.2.123/reset
+
+Privacy Policy: http://securemail.com/privacy
+Help Center: http://securemail.com/help
+
+Thank you,
+SecureMail Security Team
+
+------=_Part_0_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Verify Your Account – Password Expires Today</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We detected an <b>unusual sign-in</b> on your account. Your <b>password expires today</b> – please <a href="http://support.secure-login.update-tickets.company-info.org/verify">reset immediately</a> to avoid suspension.</p>
+<p><a href="http://192.0.2.123/auth"></a></p>
+<p>Alternatively, <a href="http://session-security-notify.com/reset">click here</a> to verify your identity now.</p>
+<p>Secure Login: <a href="http://malicious.update.security-login.com">https://securemail.com/login</a></p>
+<p><a href="http://192.0.2.123/reset"><img src="http://203.0.113.77/images/reset.png" alt="Reset Password"></a></p>
+<p><img src="http://203.0.113.77/images/logo.png" alt="SecureMail Logo"></p>
+<p><a href="http://help.securemail.com">Privacy Policy</a> | <a href="http://support.securemail.com">Help Center</a></p>
+</body>
+</html>
+
+------=_Part_0_123456--

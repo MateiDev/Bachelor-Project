@@ -1,0 +1,28 @@
+```mbox
+From phishing@example.com Thu Oct 12 14:22:01 2023
+Return-Path: <phishingscam@alertsecure.com>
+Date: Thu, 12 Oct 2023 14:20:30 GMT
+Subject: Urgent: Action Required to Secure Your Account Password
+From: "Support Team" <alertnotice@wellknownmailservice.com>
+Reply-To: scammer@fraudsite.com
+To: victim@example.com
+Mime-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>We have detected unusual activity in your account. Your account will be temporarily suspended if you do not verify your identity immediately. Please <a href="http://192.0.2.1/security-update/login" target="_blank">click here</a> to secure your account.</p>
+
+<p>For your reference, visit our <a href="https://www.wellknownmailservice.com/privacy-policy" target="_blank">Privacy Policy</a> and <a href="https://www.wellknownmailservice.com/help-center" target="_blank">Help Center</a> for more information.</p>
+
+<p>Thank you for your prompt attention to this urgent matter.</p>
+
+<p>Sincerely,</p>
+<p>Support Team</p>
+<img src="http://192.0.2.1/images/logo.png" alt="Well-known Mail Service Logo">
+</body>
+</html>
+```

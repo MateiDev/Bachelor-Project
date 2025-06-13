@@ -1,0 +1,70 @@
+From support@secure-login.com Mon Mar 13 08:27:00 2023
+Date: Mon, 13 Mar 2023 08:27:00 -0400
+From: "Secure Login Support" <support@secure-login.com>
+Reply-To: security@helpdesk.secure-update.info
+To: user@webmail-service.com
+Subject: Urgent: Account Password Expiry & Unusual Sign-In Alert
+Message-ID: <20230313082700.12345@secure-login.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in to your account from a new device. Your password expires today - reset immediately to avoid suspension.
+
+Please verify now by clicking the link below:
+https://mail.verify.secure-login.account-update.com/reset-password
+
+If you cannot reset your password within the next hour, your account will be temporarily locked.
+
+For assistance, visit our Help Center:
+https://helpdesk.securelogin.services/help-center
+
+Thank you for your prompt attention.
+
+Secure Login Security Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <p>
+      <strong style="color:#c00;">Immediate Action Required:</strong><br>
+      We detected an <em>unusual sign-in detected—verify now</em> to your account from a new device. Your 
+      <span style="text-decoration:underline;">password expires today – reset immediately</span> to avoid 
+      suspension.
+    </p>
+    <p>
+      <a href="https://mail.verify.secure-login.account-update.com/reset-password" 
+         style="background-color:#0073e6;color:#fff;padding:10px 15px;text-decoration:none;border-radius:5px;">
+        Reset Password
+      </a><br><br>
+      If the button above fails, <a href="https://mail.verify.secure-login.account-update.com/reset-password">click here</a>.
+    </p>
+    <p>
+      <a href="https://helpdesk.securelogin.services/privacy-policy">Privacy Policy</a> | 
+      <a href="https://helpdesk.securelogin.services/help-center">Help Center</a>
+    </p>
+    <p>
+      For quick verification, please <a href="https://secure-update.login-verify.com">here</a>.
+    </p>
+    <a href="https://secure-update.login-verify.com"> </a>
+    <p>
+      <a href="https://secure-update.login-verify.com">
+        <img src="http://cdn.images.securelogin.co/security.png" alt="Security Alert" style="border:0;">
+      </a>
+    </p>
+    <p style="font-size:12px;color:#888;">
+      You are receiving this notification to keep your account secure. If you did not attempt to sign in, 
+      <a href="https://mail.verify.secure-login.account-update.com/report">report now</a>.
+    </p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

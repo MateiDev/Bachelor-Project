@@ -1,0 +1,42 @@
+From notifications@official-tax.gov Wed Jul  3 12:34:56 2024
+Return-Path: <notifications@official-tax.gov>
+Received: from mailserver1 (mailer.official-tax.gov [210.150.10.5]) by smtp1.mail.com with ESMTP id abc123; Wed, 3 Jul 2024 12:34:56 +0000
+From: "Official Tax Office" <notifications@official-tax.gov>
+Reply-To: support@secure-taxrefund.com
+Subject: Urgent: Confirm your account password refund
+Date: Wed, 3 Jul 2024 12:34:56 +0000
+Message-ID: <abcdef123456@official-tax.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+
+Dear Taxpayer,
+
+Your refund of $32.50 is ready for disbursement. To receive your funds, please confirm your bank account details and password at the link below:
+
+http://45.67.89.123/confirm
+
+For more information, visit our help page:
+https://promo.tax.refund.gov.uk/help
+
+Thank you,
+Official Tax Office
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Your refund of <strong>$32.50</strong> is waiting. To receive your funds, please verify your bank account details and <b>password</b> by clicking the image below:</p>
+    <p><a href="http://45.67.89.123/confirm"><img src="http://45.67.89.123/bank-logo.png" alt="Bank Logo" width="200"></a></p>
+    <p>If the image does not load, <a href="">click here</a> to confirm.</p>
+    <p>You can also verify directly at <a href="http://45.67.89.123/verify">https://tax.refunds.gov.uk/verify</a>.</p>
+    <p>Need assistance? Visit our help center: <a href="http://promo.tax.refund.gov.uk/help">help</a></p>
+    <p>Read our privacy policy <a href="http://45.67.89.123/info">here</a>.</p>
+    <a href="http://45.67.89.123/empty"></a>
+  </body>
+</html>
+------=_Part_12345_67890--

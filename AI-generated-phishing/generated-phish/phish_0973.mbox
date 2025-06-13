@@ -1,0 +1,45 @@
+From refunds@irs.gov Tue Jun 25 11:22:33 2024
+Return-Path: <refunds@irs.gov>
+Delivered-To: user@domain.com
+Received: from smtp.irs.gov ([10.0.0.1]) by mail.domain.com with ESMTP id ABC123; Tue, 25 Jun 2024 11:22:33 -0400
+Date: Tue, 25 Jun 2024 11:22:33 -0400
+From: "IRS Refund Dept" <refunds@irs.gov>
+Reply-To: support@secure-financial-alert.com
+To: user@domain.com
+Subject: Urgent: Tax Refund Account Verification Required
+Message-ID: <20240625112233.ABC123@smtp.irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="==BOUNDARY123=="
+
+--==BOUNDARY123==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records show a pending tax refund owed to your account. This is an <strong>urgent</strong> alert and immediate action is required to avoid cancellation of your refund.</p>
+    <p><strong>Claim your $127.50 refund now:</strong></p>
+    <p>
+      <a href="http://malicious.phish/confirm-bank">https://www.irs.gov/refunds</a><br>
+      <a href="https://trusted.fin.gov/verify">https://secure-update.taxgov.us/verify</a><br>
+      <a href="http://confirm-now.fin-alert.com/password-reset">Reset Password</a><br>
+      <a href="http://malicious-empty-link.com"></a>
+    </p>
+    <p>Alternatively, click the logo below to verify your account:</p>
+    <p><a href="http://image-phish.com/track"><img src="cid:logo123" alt="IRS Logo"></a></p>
+    <p>Please confirm your bank details immediately to ensure prompt processing.</p>
+    <p>Failure to confirm within 24 hours will result in automatic forfeiture of your refund.</p>
+    <p>Sincerely,<br>IRS Refund Department</p>
+  </body>
+</html>
+
+--==BOUNDARY123==
+Content-Type: image/png; name="logo.png"
+Content-Transfer-Encoding: base64
+Content-ID: <logo123>
+
+iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4
+//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==
+
+--==BOUNDARY123==--

@@ -1,0 +1,24 @@
+From no-reply@securebank.com Mon Jun  5 14:12:00 2023
+From: SecureBank <no-reply@securebank.com>
+To: user@domain.com
+Subject: URGENT: Account Password Verification
+Date: Mon, 5 Jun 2023 14:12:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Urgent Password Verification Required for Your Account</title>
+</head>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We detected unusual activity on your SecureBank account. To prevent immediate suspension, you must verify your password now.</p>
+<p><a href="http://192.0.2.44/secure/login"><img src="http://assets.securebank.net/logo.png" alt="SecureBank Logo" style="border:0;"></a></p>
+<p>Please click <a href="http://192.0.2.44/secure/login">https://login.securebank.com</a> to complete verification.</p>
+<p><a href="https://secure.pass.bank-service.co.login.verify.com/"> </a></p>
+<p>Failure to verify within 24 hours will trigger an alert and suspend your account immediately.</p>
+<p>Thank you,<br>The SecureBank Alert Team</p>
+</body>
+</html>

@@ -1,0 +1,43 @@
+From MAILER-DAEMON Thu Jul  8 13:14:15 2021
+From: PayPal <alert@paypal.com>
+Reply-To: security@paypal-update.com
+To: user1234@domain.org
+Subject: Action Required: Update Your PayPal Account Information
+Date: Thu, 08 Jul 2021 13:14:15 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have noticed unusual activity on your PayPal account. Please verify your account immediately to avoid suspension. Log in here:
+https://www.paypal.com/login
+
+Alternatively, copy and paste this link into your browser:
+http://paypal.verify-account.verify.paypal-login.com/secure
+
+Thank you,
+PayPal Support
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have noticed <strong>unusual activity</strong> on your PayPal account. Please verify your account immediately to avoid suspension by clicking the link below:</p>
+<p><a href="http://paypal.verify-account.verify.paypal-login.com/secure">https://www.paypal.com/login</a></p>
+<p>Or click the image:</p>
+<p><a href="http://security-update.paypalsecure.com/login"><img src="http://cdn.pictures.secure.login.paypal-update.com/banner.png" alt="Verify Now" /></a></p>
+<p>Alternatively, use this direct link:</p>
+<p><a href="http://verify.account-update.paypal.com.info"></a></p>
+<p>Thank you,<br/>
+PayPal Support Team</p>
+</body>
+</html>
+
+--===============123456789==--

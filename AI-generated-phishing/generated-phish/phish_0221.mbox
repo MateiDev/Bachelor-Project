@@ -1,0 +1,43 @@
+```mbox
+From - Fri Oct 13 09:00:00 2023
+Date: Fri, 13 Oct 2023 09:00:00 +0000
+From: notifications@rewards-claim-center.com
+To: user@example.com
+Subject: Urgent: Claim Your Exclusive €500 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer,
+
+We are excited to inform you that you have been selected to receive an exclusive €500 voucher! This limited-time offer is in recognition of your continued support. Click the link below to claim your voucher:
+
+http://192.0.2.1/claimvoucher
+
+Hurry! This offer is only valid for the next 24 hours. Don't miss this chance to reward yourself and act quickly to ensure you receive your benefits.
+
+Remember, this voucher can be used at any of our partnered retailers. If you have questions, please visit our support page immediately or contact us at:
+
+http://192.0.2.1/contactus
+
+Best Regards,
+Rewards Claim Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+  <p>Dear Valued Customer,</p>
+  <p>We are excited to inform you that you have been selected to receive an exclusive €500 voucher! This limited-time offer is in recognition of your continued support. Click the link below to claim your voucher:</p>
+  <p><a href="http://192.0.2.1/claimvoucher">http://www.secure-rewards.com/claimvoucher</a></p>
+  <p>Hurry! This offer is only valid for the next 24 hours. Don't miss this chance to reward yourself and act quickly to ensure you receive your benefits.</p>
+  <p>For questions, please visit our support page immediately or contact us at: <a href="http://192.0.2.1/contactus"></a></p>
+  <p>Best Regards,<br>Rewards Claim Team</p>
+</body>
+</html>
+
+--boundary123--
+```

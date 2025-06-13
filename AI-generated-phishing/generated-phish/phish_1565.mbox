@@ -1,0 +1,52 @@
+From support@banksecure.com Mon Jan 01 2024 12:34:56 -0500
+From: "Bank Secure Notification" <support@banksecure.com>
+Reply-To: "Security Team" <security.alerts@verify-now.com>
+To: user@example.org
+Subject: Unusual Sign-in Detected & Password Expiry – Immediate Action Required
+Date: Mon, 1 Jan 2024 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===BOUNDARY123==="
+
+--===BOUNDARY123===
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in to your account. Your password is set to expire today.
+Please verify your identity and reset your password immediately to secure your account.
+
+Verify here:
+https://secure.bank.login.verify.example.com/update
+or
+http://203.0.113.45/account/verify
+
+Thank you,
+Bank Secure Support
+
+--===BOUNDARY123===
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;font-weight:bold;">Unusual sign-in detected — verify now!</p>
+    <p>Your <strong>password expires today</strong> &ndash; reset immediately to secure your account.</p>
+    <p>
+      <a href="http://203.0.113.45/account/verify">https://www.bank-secure.com/login</a>
+    </p>
+    <p>
+      <a href="http://verify.bankservice.com/auth">
+        <img src="cid:secureLogo" alt="Verify Now" style="border: none;">
+      </a>
+    </p>
+    <p>Or copy and paste this link into your browser:<br>
+      <a href="http://192.0.2.123/reset">http://login.bankservice.verify.com/reset</a>
+    </p>
+    <p>Thank you,<br>Bank Secure Support</p>
+    <img src="cid:secureLogo">
+  </body>
+</html>
+
+--===BOUNDARY123===--

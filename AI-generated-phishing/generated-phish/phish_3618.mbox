@@ -1,0 +1,72 @@
+From security@bank.com Mon Jun 24 12:34:56 2024
+Return-Path: <security@bank.com>
+From: Security Team <security@bank.com>
+Reply-To: support@modalview.net
+To: user@my-organization.org
+Subject: Urgent Account Notification – Password expires today – reset immediately
+Message-ID: <20240624123456.Security@bank.com>
+Date: Mon, 24 Jun 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT ALERT: We detected an unusual sign-in attempt on your account. To prevent suspension, you must verify your identity immediately. Your password expires today and will be revoked if not updated within the next hour.
+
+Please reset now:
+http://192.0.2.123/login
+or visit:
+https://help.support.security.bank.verify.com/update
+Password reset link: http://malicious.domain/reset
+
+If you ignore this notice, your access will be suspended and you may lose critical data.
+
+Thank you,
+Security Team
+privacy policy: https://privacy.bank.com/policy
+help center: https://support.bank.com/contact
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">
+      URGENT ACCOUNT ALERT – Unusual sign-in detected<sup>!</sup> Verify now to avoid suspension.
+    </p>
+    <p>
+      Your <strong>password expires today</strong> – reset <em>immediately</em> to prevent
+      <span style="color:red;">account lockout</span>.
+    </p>
+    <p>
+      <a href="http://malicious.domain/reset">
+        <img src="http://192.0.2.123/logo.png" alt="Reset Password" style="border:none;">
+      </a>
+    </p>
+    <p>
+      Or reset by clicking <a href="https://modalview.net/update">here</a>.
+      You may also use this link:
+      <a href="https://help.support.security.bank.verify.com/update"></a>
+    </p>
+    <p>
+      If not updated, your account access will be suspended and critical data may be
+      <span style="font-weight:bold;">permanently lost</span>.
+    </p>
+    <p>
+      Thank you,<br>
+      Security Team
+    </p>
+    <p style="font-size:small;">
+      privacy policy: <a href="https://privacy.bank.com/policy">privacy policy</a><br>
+      help center: <a href="https://support.bank.com/contact">help center</a>
+    </p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

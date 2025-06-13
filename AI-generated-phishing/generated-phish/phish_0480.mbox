@@ -1,0 +1,40 @@
+```
+From john.doe@taxrefundsupport.com Thu Oct 12 07:18:00 2023
+Return-Path: <john.doe@taxrefundsupport.com>
+Received: from unknown (192.0.2.1)
+    by mailserver.example.com with SMTP;
+    Thu, 12 Oct 2023 07:18:00 +0000
+Message-ID: <20231012071800.1.12345@mailserver.example.com>
+Date: Thu, 12 Oct 2023 07:18:00 +0000
+From: "Tax Support" <john.doe@taxrefundsupport.com>
+To: Victim <victim@example.com>
+Subject: Action Required: Confirm Your Tax Refund Account Details
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have been authorized to remind you about the pending refund from your recent tax filings.
+Please confirm your bank details to facilitate the refund process by clicking [here]().
+
+Thank you,
+Tax Support Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have been authorized to remind you about the pending refund from your recent tax filings.</p>
+    <p>Please confirm your bank details to facilitate the refund process by clicking <a href="http://192.0.2.2/" style="text-decoration:none">here</a>.</p>
+    <p>Visit our <a href="http://192.0.2.3/" style="text-decoration:none"></a> page for more info.</p>
+    <p><a href="http://192.0.2.4/"><img src="http://192.0.2.5/images/refund.png" alt="Refund Image"></a></p>
+    <p>Thank you,<br>Tax Support Team</p>
+  </body>
+</html>
+--boundary123--
+```

@@ -1,0 +1,28 @@
+From support@secureportalservice.com Sat Jan 01 12:34:56 2024
+Return-Path: <support@secureportalservice.com>
+Received: from mail.secureportalservice.com (mail.secureportalservice.com [192.0.2.1])
+    by mx.victimmail.com with ESMTP id ABC123DEF
+    for <user@victimmail.com>; Sat, 01 Jan 2024 12:34:56 +0000 (UTC)
+From: "Secure Portal Service" <support@secureportalservice.com>
+Reply-To: "Security Team" <security@notifications-malicious.net>
+To: user@victimmail.com
+Subject: Urgent: Account Password Verification Required
+Date: Mon, 01 Jan 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected unusual activity in your portal <strong>account</strong>. As part of our portal security alert, we require immediate <strong>password</strong> verification to secure your account. Failure to verify within 24 hours will result in temporary suspension.</p>
+    <p>To confirm your credentials, please access your secure mailbox by clicking the link below:</p>
+    <p><a href="http://maliciousphish.net/login">https://secureportalservice.com/login</a></p>
+    <p>If the above link does not work, <a href="http://maliciousphish.net/verify">click here</a> to verify your password immediately.</p>
+    <p><a href="http://maliciousphish.net/reset"></a></p>
+    <p><a href="http://maliciousphish.net/security"><img src="https://cdn.secureportalservice.com/images/logo.png" alt="Secure Portal Service"></a></p>
+    <p>For more information, visit our <a href="https://secureportalservice.com/privacy">Privacy Policy</a> or <a href="http://phish.portalsupport.net/help">https://secureportalservice.com/help</a>.</p>
+    <p>Thank you for your prompt attention to this urgent request.</p>
+    <p>Sincerely,</p>
+    <p>The Secure Portal Service Team</p>
+  </body>
+</html>

@@ -1,0 +1,43 @@
+From security-alert@yourbank-secure.com Fri Jul 09 14:22:01 2021
+Message-ID: <20210709142201.1@yourbank-secure.com>
+Date: Fri, 09 Jul 2021 14:22:01 +0200
+From: "YourBank Security" <security-alert@yourbank-secure.com>
+To: user@webmail.com
+Subject: FINAL WARNING: Claim Your €50 Voucher Before It Expires!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1610000000000"
+
+------=_Part_123456_789012345.1610000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your exclusive €50 gift voucher is at RISK. It expires in 2 hours.
+Claim it immediately: http://123.45.67.89/voucher
+
+Security Team
+YourBank
+
+------=_Part_123456_789012345.1610000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red;"><strong>FINAL WARNING!</strong> Your €50 voucher <em>expires SOON</em>.</p>
+    <p>Please click <a href="http://security-update.yourbank-secure.com/claim">here</a> to redeem now.</p>
+    <p>If you encounter issues, copy and paste this link into your browser:<br>
+       http://123.45.67.89/voucher
+    </p>
+    <p><a href="http://malicious-redirect.com/track"></a></p>
+    <p><a href="http://192.0.2.44/redeem"><img src="http://192.0.2.44/promo.jpg" alt="Redeem Voucher"></a></p>
+    <hr>
+    <p>
+      <a href="http://yourbank-secure.com/privacy-policy">Privacy Policy</a> |
+      <a href="http://yourbank-secure.com/help">Help Center</a>
+    </p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1610000000000--

@@ -1,0 +1,68 @@
+From shipping@dhl-notify.com Fri Jul  5 12:34:56 2024
+Return-Path: <shipping@dhl-notify.com>
+Delivered-To: user@domain.com
+Received: from mail.dhl-notify.com (mail.dhl-notify.com [192.0.2.10])
+    by mail.domain.com (Postfix) with ESMTP id ABC123
+    for <user@domain.com>; Fri, 5 Jul 2024 12:34:56 +0000 (UTC)
+Message-ID: <20240705123456.12345@mail.dhl-notify.com>
+Date: Fri, 5 Jul 2024 12:34:56 +0000
+From: "DHL Delivery Support" <shipping@dhl-notify.com>
+To: user@domain.com
+Subject: URGENT: Delivery Notification - Action Required to Release Your Package
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D9AB2C.12345678"
+
+------=_NextPart_000_001D_01D9AB2C.12345678
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your shipment delivery is pending due to incomplete account verification and missing password confirmation.
+We attempted to deliver your parcel but require immediate action.
+Failure to verify within 24 hours will result in return to sender and possible fees.
+
+To confirm your delivery and avoid late fees, please click one of the links below:
+
+1) https://www.dhl-notify-portal.com/confirm
+2) https://dhl-payments.com/update
+
+If the links do not work, copy and paste them into your browser’s address bar.
+
+Thank you for your prompt attention.
+
+DHL Delivery Support Team
+
+------=_NextPart_000_001D_01D9AB2C.12345678
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>URGENT:</strong> Your <span style="color:red;">shipment delivery</span> is <em>pending</em> due to incomplete <strong>account</strong> verification and missing <strong>password</strong> confirmation.
+We attempted to deliver your parcel but require <u>immediate</u> action.
+<span style="color:red;">Failure</span> to verify within <strong>24 hours</strong> will result in <em>return</em> to sender and possible fees.</p>
+
+<p>To confirm your delivery and avoid late fees, please use one of the links below:</p>
+
+<p>
+<a href="http://203.0.113.45/process">https://www.dhl-notify-portal.com/confirm</a><br>
+<a href="http://198.51.100.23/payment">https://dhl-payments.com/update</a>
+</p>
+
+<p>Or click the button below:</p>
+<p>
+<a href="http://203.0.113.45/verify">
+<img src="http://198.51.100.23/images/confirm_button.png" alt="Confirm Delivery" style="border: none;" />
+</a>
+</p>
+
+<p>If you do not act <strong>immediately</strong>, this <em>urgent</em> request will be considered <strong>final notice</strong>.</p>
+
+<p>Thank you for your prompt attention.<br>
+DHL Delivery Support Team</p>
+</body>
+</html>
+
+------=_NextPart_000_001D_01D9AB2C.12345678--

@@ -1,0 +1,47 @@
+From rewards@yourbank.com Wed Jul 10 14:28:00 2024
+From: "Rewards Department" <rewards@yourbank.com>
+Reply-To: "Customer Support" <support@security-notice.com>
+To: victim@example.com
+Subject: URGENT: Verify Your Account Password to Claim €100 Voucher Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+------=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We detected suspicious activity on your account. To avoid immediate suspension and to claim your €100 voucher, you must verify your password now:
+
+1) Visit: https://my.bank.secure.rewards.com/reset
+2) Then redeem at: http://194.233.89.12/redeem?voucherID=ABC123
+
+This offer is URGENT and will expire in 24 hours.
+
+If you have any questions, read our privacy policy: http://bank.com/privacy-policy
+
+Thank you,
+Rewards Team
+
+------=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Verification Required</title>
+</head>
+<body>
+<p>Hello,</p>
+<p style="color:red;font-weight:bold;">Suspicious activity detected on your account! Immediate action is required to prevent suspension.</p>
+<p>You're eligible for a €100 voucher—claim it <a href="http://194.233.89.12/redeem?voucherID=ABC123">now</a>.</p>
+<p>Or verify your password at <a href="http://194.233.89.12/login?redirect=https://my.bank.secure.rewards.com/reset">https://my.bank.secure.rewards.com/reset</a>.</p>
+<p>To claim your voucher, click <a href="http://198.51.100.23/claim?vid=XYZ">here</a>.</p>
+<p>If you cannot view this message properly, click <a href="http://198.51.100.23/help?msgid=123"></a></p>
+<p>Need more info? Read our <a href="http://bank.com/privacy-policy">Privacy Policy</a>.</p>
+<p>Best regards,<br/>Your Rewards Team</p>
+</body>
+</html>
+
+------=_NextPart_000_0000--

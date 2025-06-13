@@ -1,0 +1,25 @@
+From security@wellsfargo.com Sat Mar 23 14:55:02 2024
+Return-Path: <security@wellsfargo.com>
+From: "Wells Fargo Security Team" <security@wellsfargo.com>
+Reply-To: noreply@wfbilling.net
+To: user@example.com
+Subject: URGENT: Account Password Verification Required
+Date: Sat, 23 Mar 2024 14:55:02 -0400
+Message-ID: <ABCD1234EFGH@example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected suspicious activity on your account. To prevent your account from being suspended, you must <strong>verify</strong> your login credentials <span style="color:red;">immediately</span>.</p>
+    <p style="text-align:center;">
+      <a href="http://192.0.2.123/login"><img src="https://www.wellsfargo.com/assets/img/wf-logo.png" alt="Wells Fargo Secure Login"></a>
+    </p>
+    <p>Please <a href="http://192.0.2.123/login">https://secure-wellsfargo.com/login</a> now to confirm your account password.</p>
+    <p style="color:red;"><strong>Urgent:</strong> Failure to complete this verification will result in temporary suspension of your account access.</p>
+    <p>For more information, view our <a href="https://www.wellsfargo.com/privacy">Privacy Policy</a> or <a href="http://login.wfbilling.net">here</a>.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Best Regards,<br/>Wells Fargo Security Team</p>
+  </body>
+</html>

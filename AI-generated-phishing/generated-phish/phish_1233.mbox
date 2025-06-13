@@ -1,0 +1,50 @@
+From support@dhl.com Sat Jan  5 12:34:56 2024
+Return-path: <support@dhl.com>
+Delivered-To: victim@mymail.com
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.10])
+    by mx.mymail.com with ESMTP id ABC123
+    for <victim@mymail.com>; Sat, 5 Jan 2024 12:34:56 -0800 (PST)
+From: "DHL Delivery Support" <support@dhl.com>
+To: <victim@mymail.com>
+Subject: Final Notice: Package Delivery Failure - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY=="
+
+--===============BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is your final notice regarding the delivery of your package. We were unable to deliver your shipment due to an unpaid handling fee. Immediate action is required to avoid return and additional penalties.
+
+Please confirm delivery details and pay the small fee by visiting:
+http://203.0.113.195/pay
+
+Failure to act within 24 hours will result in the package being returned and extra charges applied.
+
+Thank you for your prompt attention.
+
+DHL Delivery Support
+
+--===============BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>This is your <strong>final notice</strong> regarding the delivery of your package. We were <em>unable</em> to deliver your shipment due to an unpaid handling fee. <span style="color:red">Immediate action</span> is required to avoid return and additional penalties.</p>
+    <p>Please confirm delivery details and pay the small fee by clicking
+      <a href="http://203.0.113.195/pay" style="display:none;"></a>
+      <a href="http://203.0.113.195/pay">https://secure.parcel.dhl.delivery.info/</a>
+    </p>
+    <p>Or click <a href="http://198.51.100.23/track">here</a> to update your information.</p>
+    <p>For more information, review our <a href="http://203.0.113.195/privacy">Privacy Policy</a> or visit <a href="https://help.dhl.delivery/service">https://help.dhl.delivery/service</a>.</p>
+    <p>Failure to act within <strong>24 hours</strong> will result in return and <strong>additional fees</strong>.</p>
+    <p>Thank you for your prompt <em>attention</em>.</p>
+    <p>DHL Delivery Support</p>
+  </body>
+</html>
+
+--===============BOUNDARY==--

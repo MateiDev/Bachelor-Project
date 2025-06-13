@@ -1,0 +1,44 @@
+```
+From pepe@example.com
+To: victim@example.com
+Subject: Urgent Notification: Tax Refund Approval!
+
+Date: Tue, 17 Oct 2023 10:32:15 -0400
+Message-ID: <002233445566778899@example.com>
+Reply-To: noreply-officialrefunds@tax-verify.com
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have determined that you are eligible for a tax refund under a recent review. Urgent action is required from you to confirm your bank details so we may proceed with the transfer. Failure to do so may lead to delays in processing your refund.
+
+Please confirm your details immediately at the following secure link:
+http://192.168.0.1/secure-confirmation
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Tax Department
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We are pleased to inform you that you are eligible for a tax refund. <b>Urgent</b> action is required on your part to proceed with the refund process. Please confirm your bank details at the secure link provided. Failure to do so may result in a delay of your funds.</p>
+    <p>Please click <a href="http://192.168.0.1/confirm-details?sessionid=123456" style="display:block;width:0;height:0;overflow:hidden;"> </a> on the linked image below to confirm your details:</p>
+    <p><a href="http://trusting-site.verifynow.com/secure-area" target="_blank"><img src="http://192.168.0.1/assets/refund_button.jpg" alt="Confirm Details" /></a></p>
+    <p>If you fail to confirm your information <b>immediately</b>, there may be unavoidable delays.</p>
+    <p><a href="http://192.168.0.1/more-info.con">More information</a></p>
+    <p>Thank you for your urgent attention.</p>
+    <p>Sincerely,</p>
+    <p>The Tax Department Team</p>
+  </body>
+</html>
+
+--boundary-string--
+```

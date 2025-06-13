@@ -1,0 +1,48 @@
+```mbox
+From phishing@emaitlservice.com Fri Oct  6 10:31:42 2023
+Return-Path: <phishing@emaitlservice.com>
+Delivered-To: victim@example.com
+Received: from unknown (localhost [127.0.0.1])
+	by example.com (Dovecot) with LMTP id XHGZB+27OV7EvgAA6d7GCA
+	for <victim@example.com>; Fri, 06 Oct 2023 10:31:42 +0000 
+Received: by 10.25.184.173 with HTTP; Fri, 6 Oct 2023 10:31:42 +0000 (UTC)
+Date: Fri, 6 Oct 2023 10:31:42 +0000
+From: "Service Security" <security-alert@emaitlservice.com>
+Reply-To: support@emaitlserivcesecure.com
+To: victim@example.com
+Message-ID: <0000000000000.1a2b3c4d5e6f7@example.com>
+Subject: Urgent: Action Required to Secure Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000084sdf8s7dsf8sd8f7"
+
+--000000000000084sdf8s7dsf8sd8f7
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity in your account. It is urgent that you verify your identity immediately. 
+
+Please click on the following link to secure your account: 
+http://secureinfo.example.com/login 
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Email Service Team
+
+--000000000000084sdf8s7dsf8sd8f7
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity in your account. It is <strong>urgent</strong> that you verify your identity immediately.</p>
+    <p>Please click <a href="http://securelogonexample.com/login">here</a> to secure your account.</p>
+    <p></p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>Email Service Team</p>
+  </body>
+</html>
+
+--000000000000084sdf8s7dsf8sd8f7--
+```

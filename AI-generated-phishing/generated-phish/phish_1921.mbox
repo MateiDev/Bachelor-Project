@@ -1,0 +1,21 @@
+From phishing@bank-serv.com Mon Aug 01 14:22:01 2022
+Return-Path: <phishing@bank-serv.com>
+Received: from mail.bank-serv.com (203.0.113.5) by mail.usermail.com with SMTP id ab123; Mon, 1 Aug 2022 14:22:01 -0400
+Subject: Urgent: Account Password Reset & Refund Confirmation
+To: user@myemailservice.org
+Date: Mon, 1 Aug 2022 14:22:01 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your recent tax refund is <strong>pending</strong> and requires urgent verification. To claim your small refund, you must confirm your bank details <strong>immediately</strong> to avoid penalties or account restrictions.</p>
+<p><a href="http://192.0.2.123/confirm">click here</a> to confirm your information now.</p>
+<p>You can also review our <a href="http://legit.banksite.com/privacy-policy">Privacy Policy</a> or <a href="http://legit.banksite.com/help">Help Center</a>.</p>
+<p>Alternatively, use the link below:</p>
+<p><a href="http://secure.login.account.bank.refresh.info/update.password"><img src="http://198.51.100.20/refund-logo.png" alt="Verify Now" style="border:0;"></a></p>
+<p>Failure to act <em>immediately</em> may result in delayed processing or restrictions on your account. This is an urgent notice.</p>
+<p>Best regards,<br>Bank Support Team</p>
+</body>
+</html>

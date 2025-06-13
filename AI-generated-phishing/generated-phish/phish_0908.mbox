@@ -1,0 +1,39 @@
+From support@securemail.example.com Fri Jun 14 10:22:33 2024
+From: "Secure Mail Portal" <support@securemail.example.com>
+Reply-To: security-team@trustedcorp.com
+To: user@example.com
+Subject: [URGENT] Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890"
+
+----=_Part_0_123456.7890
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+We have detected unusual activity in your account. To ensure your account remains secure,
+please verify your credentials immediately by clicking on the link below:
+
+http://192.0.2.123/secureview
+
+Failure to verify will result in temporary suspension of your account.
+
+Thank you,
+Secure Mail Portal Team
+
+----=_Part_0_123456.7890
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected <strong>unusual activity</strong> in your <em>account</em>.
+       Please verify your <u>password</u> immediately to avoid <span style="color:red;">suspension</span>.</p>
+    <p><a href="http://malicious.example.com/login">http://198.51.100.45/verify</a></p>
+    <p><a href="http://192.0.2.123/encrypt?token=abcd1234"></a></p>
+    <p>Thank you,<br/>
+       <i>Secure Mail Portal Team</i></p>
+  </body>
+</html>
+
+----=_Part_0_123456.7890--

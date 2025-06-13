@@ -1,0 +1,50 @@
+From no-reply@dhl.com Sat May 25 10:15:00 2024
+Return-Path: <no-reply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.25])
+    by mx.example.com with ESMTP id 5678XYZ
+    for <victim@example.com>; Sat, 25 May 2024 10:15:00 +0000
+Date: Sat, 25 May 2024 10:15:00 +0000
+From: "DHL Delivery" <no-reply@dhl.com>
+Reply-To: support@secure-dhl.net
+To: victim@example.com
+Subject: URGENT: Account password verification required to release your parcel
+Message-ID: <20240525101500.12345@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_12345"
+
+----=_Boundary_12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but it is on hold due to a required password update. Please follow the link below to confirm your details and release your shipment:
+
+click here to verify your account and password:
+http://203.0.113.5/track?id=ABC123
+
+If you do not verify within 24 hours, your parcel will be returned to the sender.
+
+Thank you,
+DHL Delivery Team
+Privacy Policy: https://www.dhl.com/privacy-policy
+Help Center: https://www.dhl.com/help
+
+----=_Boundary_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package but it is <strong>on hold</strong> due to a required <span style="color:red">password update</span>. Please follow the link below to confirm your details and release your shipment:</p>
+    <p><a href="http://203.0.113.5/track?id=ABC123">click here</a> to verify your account and password.</p>
+    <p>Alternatively, you can visit <a href="http://dhl-track.com/confirm">http://dhl-track.com/confirm</a></p>
+    <p><a href="http://203.0.113.5/"><img src="http://malicious.com/banner.jpg" alt="DHL Tracking" style="border:0"></a></p>
+    <p style="color:orange">Failure to act <strong>immediately</strong> will result in the return of your parcel.</p>
+    <hr>
+    <p><a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> | <a href="https://www.dhl.com/help">Help Center</a> | <a href="https://help.dhl.com">Customer Support</a></p>
+  </body>
+</html>
+
+----=_Boundary_12345--

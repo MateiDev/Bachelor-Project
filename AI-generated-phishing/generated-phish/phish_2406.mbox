@@ -1,0 +1,25 @@
+From phisher@shopping-rewards.net Mon Jul 22 09:15:00 2024
+Message-ID: <202407220915.phisher@shopping-rewards.net>
+Date: Mon, 22 Jul 2024 09:15:00 +0200
+From: Rewards Notification <rewards@shopping-rewards.net>
+To: user@domain.com
+Subject: URGENT: Claim Your €100 Gift Voucher Now!
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued Member,</p>
+    <p>Your exclusive <strong>€100 Gift Voucher</strong> is <span style="color:red;">about to expire!</span> This is a <strong>time-sensitive</strong> offer—you have only <strong>24 hours</strong> left before it's automatically canceled.</p>
+    <p>To secure your voucher, please redeem it immediately by clicking one of the links below:</p>
+    <ul>
+      <li><a href="http://192.0.2.45/claim"></a></li>
+      <li><a href="http://198.51.100.17/redeem">here</a></li>
+      <li><a href="http://192.0.2.45/secure">https://www.payment.gifts.voucher/claim</a></li>
+      <li><a href="http://203.0.113.8/redeem"><img src="http://203.0.113.8/images/voucher.png" alt="Click to Redeem"></a></li>
+      <li>If the links above are broken, access your voucher at <a href="http://www.offer.gifts.eu.voucher/support">Support Center</a>.</li>
+    </ul>
+    <p>Failure to act within the next 24 hours will result in permanent forfeiture of your voucher.</p>
+    <p>Best regards,<br>Rewards Team</p>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+From support@acme.test Wed Jul 10 12:34:56 2024
+From: ACME Security <support@acme.test>
+To: user@local.test
+Subject: URGENT: Account Password Expires Today
+Date: Wed, 10 Jul 2024 12:34:56 -0400
+Message-ID: <20240710123456.abcdef@acme.test>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789012345"
+
+------=_Part_0_123456.789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your Acme account requires immediate action.
+
+Unusual sign-in detected from IP address 203.0.113.45.
+Verify your identity now: http://192.0.2.123/verify?uid=98765
+
+Your password expires today. Reset immediately: https://security.acme.modal.com/reset
+
+Support: https://acme.test/help
+
+Thank you,
+ACME Security Team
+
+------=_Part_0_123456.789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h1 style="color:#c00;">Unusual Sign-In Detected</h1>
+    <p>We detected a <strong>new sign-in</strong> attempt from an unknown device (IP: 203.0.113.45). For your security, you must <a href="http://192.0.2.123/verify?uid=98765" style="font-weight:bold;color:#c00;">verify now</a>.</p>
+    <p>Your <em>password expires today</em>. To avoid interruption of service, reset it immediately:</p>
+    <p><a href="https://security.acme.modal.com/reset" title="Reset Password">click here</a></p>
+    <p>If you do not act within <strong>12 hours</strong>, your <strong>account</strong> will be locked.</p>
+    <p><a href="http://123.45.67.89/login"></a><img src="http://123.45.67.89/images/logo.png" alt="ACME Logo"></p>
+    <p>Trusted links:</p>
+    <ul>
+      <li><a href="https://acme.test/help">Help Center</a></li>
+      <li><a href="https://acme.test/privacy.policy">Privacy Policy</a></li>
+      <li><a href="https://acme.test/terms.of.service">Terms of Service</a></li>
+      <li><a href="http://evil.acme.test/reset">https://security.acme.modal.com/login</a></li>
+    </ul>
+    <p>Thank you,<br>ACME Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.789012345--

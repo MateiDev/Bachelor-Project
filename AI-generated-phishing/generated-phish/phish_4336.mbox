@@ -1,0 +1,71 @@
+From courier@dhl-speed.com Tue Jul 16 10:15:30 2024
+Return-Path: <courier@dhl-speed.com>
+Received: from mail.dhl-speed.com (mail.dhl-speed.com [203.0.113.45])
+    by mail.receiver.com with ESMTP id ABC123DEF
+    for <user@target.com>; Tue, 16 Jul 2024 10:15:30 +0200
+Date: Tue, 16 Jul 2024 10:15:30 +0200
+From: DHL Delivery Notice <no-reply@dhl-speed.com>
+To: user@target.com
+Subject: URGENT: Account & Password Verification Required
+Message-ID: <20240716101530@mail.dhl-speed.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Attention Customer,
+
+Your package shipment has encountered a problem and is currently on hold due to failed payment verification.
+To avoid immediate return of your parcel, please verify your account and password immediately.
+
+Visit the following link to settle the fee:
+http://192.0.2.150/verify_fee
+
+Alternatively, click here to view shipment status:
+http://203.0.113.99/hold_status
+
+Failure to act within 24 hours will result in package return.
+
+Thank you for your prompt attention,
+DHL Delivery Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>URGENT: Account & Password Verification Required</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;font-weight:bold;">Immediate action required!</p>
+    <p>Your package is <strong>on hold</strong> at the local facility. To prevent your parcel from being returned due to a <em>payment issue</em>, you must verify your account credentials right away.</p>
+    <p>
+      Please <a href="http://192.0.2.150/verify_fee">click here</a> to confirm your details and pay the small release fee.
+    </p>
+    <p>You can also check your shipment here:
+      <a href="http://malicious.server.com/tracking/abc">https://www.dhl.com/track</a>
+      or use direct status:
+      <a href="http://192.0.2.150/status">shipping.status.key.update.com</a>
+    </p>
+    <p>
+      View our <a href="https://dhl.com/privacy-policy">privacy-policy</a> or <a href="https://dhl.com/help">help</a> for more information.
+    </p>
+    <p>
+      <a href="http://malicious.server.com/undisclosed"></a>
+    </p>
+    <p>
+      <a href="http://198.51.100.25/payment">
+        <img src="https://dhl-speed.com/images/verify_button.png" alt="Verify Now" width="200" height="50" />
+      </a>
+    </p>
+    <p style="color:red;">Failure to act within 24 hours will result in package return.</p>
+    <p>Thank you for choosing DHL.</p>
+  </body>
+</html>
+
+--BOUNDARY123--

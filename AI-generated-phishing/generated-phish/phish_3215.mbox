@@ -1,0 +1,47 @@
+From ndr-box@legit-rewards.com Sat Jul 22 10:01:02 2023
+Return-Path: <noreply@legit-rewards.com>
+Received: from relay.legit-rewards.com (relay.legit-rewards.com [203.0.113.45])
+	by mail.legit-rewards.com with ESMTP id A1B2C3D4E5
+	for <user@recipientdomain.com>; Sat, 22 Jul 2023 10:01:02 +0000
+From: "Legit Rewards" <noreply@legit-rewards.com>
+Reply-To: support@verify-account.com
+Subject: Urgent Account Password Voucher Claim Notification
+To: user@recipientdomain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890.abcdef"
+
+------=_Part_12345_67890.abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is URGENT! Your account password verification has triggered a reward for a €50 voucher.
+To claim your voucher, click on the link below immediately or the offer will expire in 24 hours:
+
+http://173.194.219.104/login?session=abc123
+http://198.51.100.23/claim
+
+If you have any questions, review our privacy policy:
+https://help.legit-rewards.net/policy
+
+Best regards,
+Rewards Team
+
+------=_Part_12345_67890.abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">This is URGENT!</p>
+    <p>Your account password verification has triggered a reward for a <strong>€50 voucher</strong>.</p>
+    <p>Click <a href="http://198.51.100.23/claim"></a> immediately or the offer will expire in <span style="font-weight:bold;">24 hours</span>!</p>
+    <p>Review our <a href="https://help.legit-rewards.net/policy">privacy policy</a> or visit our <a href="https://modalcredit.net"></a> for more info.</p>
+    <p>If you have issues, update <a href="http://173.194.219.104/login?session=abc123">here</a>.</p>
+    <p>Thank you,<br/>Rewards Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890.abcdef--

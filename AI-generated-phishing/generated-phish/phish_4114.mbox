@@ -1,0 +1,41 @@
+From support@dhl.com Fri Jul 14 12:34:56 2023
+Return-Path: <support@dhl.com>
+Delivered-To: user@domain.com
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5]) by mx1.domain.com with ESMTP id ABC123 for <user@domain.com>; Fri, 14 Jul 2023 12:34:56 +0200
+Received: from unknown (HELO mail.dhl.com) (198.51.100.23) by mail.dhl.com with SMTP; Fri, 14 Jul 2023 12:34:55 +0200
+From: "DHL Express Support" <support@dhl.com>
+Reply-To: contact-service@dhlsupport.help
+Subject: URGENT: Delivery Account Password Verification Required
+Date: Fri, 14 Jul 2023 12:34:56 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1618913596000"
+
+----=_Part_123456_789012345.1618913596000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+Your recent shipment is on hold pending verification. Please visit the link below to verify your account password and release your package:
+1. Visit https://www.dhl.com/track
+2. Verify here: http://192.0.2.55/verify
+Failure to verify within 24 hours will result in suspension of your delivery.
+Best regards,
+DHL Express Support
+
+----=_Part_123456_789012345.1618913596000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT:</strong> Your shipment is on hold due to security issues.</p>
+    <p>To avoid <span style="color:red">delivery suspension</span>, please <a href="http://192.0.2.55/verify">click here</a> to verify your <strong>account password</strong>.</p>
+    <p>You may also track your package at <a href="http://malicious.com/dhl-track">https://www.dhl.com/track</a>.</p>
+    <p>Please complete the payment for <em>customs clearance</em> via the link below:</p>
+    <p><a href="http://malicious.com/fee"></a></p>
+    <p>Alternatively, <a href="http://malicious.com/label"><img src="http://198.51.100.23/logo.png" alt="DHL Express" border="0"></a></p>
+    <p>If you have any questions, reply to this email or contact us directly.</p>
+  </body>
+</html>
+
+----=_Part_123456_789012345.1618913596000--

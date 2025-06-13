@@ -1,0 +1,35 @@
+```
+From - Mon Oct 30 13:28:22 2023
+X-Original-To: user@example.com
+Delivered-To: user@example.com
+Received: by 10.0.0.1 with SMTP id a1csp1234567qke;
+        Mon, 30 Oct 2023 13:28:22 -0700 (PDT)
+Return-Path: <noreply@secure.com>
+Received: from unknown (HELO phishing-hub.com) (203.0.113.5)
+        by mail.example.com with SMTP; Mon, 30 Oct 2023 13:28:21 -0700 (PDT)
+Date: Mon, 30 Oct 2023 20:28:20 +0000
+From: "Security Alert" <noreply@secure.com>
+Reply-To: urgentalert@attackersite.com
+Subject: Urgent: You’re Eligible for a €500 Voucher - Confirm Now!
+To: user@example.com
+Content-Type: multipart/alternative; boundary="0000000000008abcd"
+
+--0000000000008abcd
+Content-Type: text/plain; charset="UTF-8"
+
+Urgent notice: You are eligible for a €500 voucher, but you need to confirm within 24 hours! Click the link below to claim your gift card.
+http://192.0.2.1/verify-now
+
+--0000000000008abcd
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Urgent notice: You are eligible for a €500 voucher, but you need to confirm within <strong>24 hours</strong>! Click the link below to claim your gift card.</p>
+    <a href="http://192.0.2.1/verify-now">https://trustedsite.com/claim</a>
+    <p>For more information, click <a href="http://malicious-link.example.com/hid">here</a>.</p>
+  </body>
+</html>
+
+--0000000000008abcd--
+```

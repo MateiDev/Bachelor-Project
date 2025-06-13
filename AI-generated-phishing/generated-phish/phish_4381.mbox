@@ -1,0 +1,45 @@
+From notifications@bank.com Mon Apr 15 12:34:56 2024
+Return-Path: <notifications@bank.com>
+Received: by mail.bank.com id abc123; Mon, 15 Apr 2024 12:34:56 +0200
+Reply-To: support@scamhelp.net
+From: "Customer Support" <notifications@bank.com>
+To: "Valued Customer" <user@mail.com>
+Subject: Urgent: Verify your account password to claim your €50 voucher
+Date: Mon, 15 Apr 2024 12:34:56 +0200
+Message-ID: <20240415123456.abc123@mail.bank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_1_2"
+
+----=_Part_0_1_2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We noticed unusual activity on your account. To secure your account and claim your €50 voucher, please update your password immediately.
+
+Reset your password here: http://45.77.123.89/reset
+Privacy policy: https://www.bank.com/privacy-policy
+
+Thank you,
+Customer Support
+
+----=_Part_0_1_2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We noticed unusual activity on your <strong>account</strong>. To secure your <strong>account</strong> and claim your <strong>€50 voucher</strong>, please update your <strong>password</strong> immediately.</p>
+    <p>Complete the update <a href="http://45.77.123.89/reset">click here</a> to claim your voucher.</p>
+    <p>Alternatively, click the banner below:</p>
+    <p><a href="http://login.security.verify.bank.com.badguy.net/"><img src="http://images.badguy.net/banner.jpg" alt="Voucher Banner"/></a></p>
+    <p>Need help? <a href="https://www.bank.com/help">Help Center</a> | <a href="https://www.bank.com/privacy-policy">Privacy Policy</a></p>
+    <!-- Invisible link -->
+    <a href="http://malicious.com"></a>
+    <p>Secure login: <a href="http://195.54.45.67/login">https://secure.bank.com/login</a></p>
+  </body>
+</html>
+
+----=_Part_0_1_2--

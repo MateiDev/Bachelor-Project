@@ -1,0 +1,57 @@
+From - Wed Oct 28 09:30:00 2023
+X-GM-THRID: 168493854317297703
+X-Gmail-Labels: Phishing
+Delivered-To: victim@example.com
+Received: by 2002:a0c:200c:0:0:0:0:0 with SMTP id 123csp6190768qvb;
+        Wed, 28 Oct 2023 09:30:00 -0700 (PDT)
+X-Received: by 2002:a05:600c:2022:b0:9ff:b0f0:6eff with SMTP id ab26mr33853774wmd.204.1698489000000;
+        Wed, 28 Oct 2023 09:30:00 -0700 (PDT)
+Return-Path: <fake-sender@phishy-domain.com>
+Received: from mail.phishy-domain.com (192.0.2.100)
+        by mx.example.com with ESMTP id a3si176916wmq.12.2023.10.28.09.30.00;
+        Wed, 28 Oct 2023 09:30:00 -0700 (PDT)
+Received-SPF: pass (example.com: domain of fake-sender@phishy-domain.com designates 192.0.2.100 as permitted sender) client-ip=192.0.2.100;
+Authentication-Results: mx.example.com;
+       dkim=pass header.i=@phishy-domain.com header.s=default header.b=WGF7TZQb;
+       spf=pass (example.com: domain of fake-sender@phishy-domain.com designates 192.0.2.100 as permitted sender) smtp.mailfrom=fake-sender@phishy-domain.com;
+       dmarc=pass (p=NONE sp=NONE) header.from=phishy-domain.com
+Received: by mail.phishy-domain.com id h3gmc201234; Wed, 28 Oct 2023 09:30:00 -0700 (PDT)
+Date: Wed, 28 Oct 2023 09:30:00 -0700 (PDT)
+From: "DHL Services" <notifications@dhl-services.com>
+Reply-To: "DHL Customer Support" <dhl-support@examplehelp.com>
+Message-ID: <CAGQwmn+-=G=aXVc4rDK0sYM7hQjFQorJvJ4giugJ2jG_JW@phishy-domain.com>
+Subject: Urgent: Action Required to Release Your Parcel
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000f8bdb405a64f7919"
+
+--000000000000f8bdb405a64f7919
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We attempted to deliver your package today, but unfortunately, no one was available to sign for the package. Your parcel is now being held at a local facility. Immediate action is required to release your package.
+
+To schedule a new delivery date or to find out how to pick up your package, please follow the link below:
+http://192.0.2.50/delivery-schedule
+
+Failure to arrange a new delivery within 24 hours will result in the package being returned to the sender and may incur additional fees.
+
+Sincerely,
+DHL Notification Team
+
+--000000000000f8bdb405a64f7919
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p> We attempted to deliver your package today, but unfortunately, no one was available to sign for the package. Your parcel is now being held at a local facility. Immediate action is required to release your package.</p>
+    <p>To schedule a new delivery date or to find out how to pick up your package, please <a href="http://192.0.2.50/delivery-schedule">click here</a>.</p>
+    <p>Failure to arrange a new delivery within 24 hours will result in the package being returned to the sender and may incur additional fees.</p>
+    <p> <a href="http://www.dhl.com/privacy-policy">Privacy Policy</a> | <a href="http://www.dhl.com/support">Support</a> </p>
+    <p><img src="http://www.dhl.com/logo.png" alt="DHL Logo"></p>
+    <p>Sincerely,<br>DHL Notification Team</p>
+  </body>
+</html>
+
+--000000000000f8bdb405a64f7919--

@@ -1,0 +1,49 @@
+From phishing-alert@secure-portal.com Thu Sep 14 12:34:56 2023
+Return-Path: <no-reply@secure-portal.com>
+Received: from mail.secure-portal.com (mail.secure-portal.com [198.51.100.5])
+	by victim.com (Postfix) with ESMTP id 3E1A112345
+	for <user@victim.com>; Thu, 14 Sep 2023 12:34:56 +0000 (UTC)
+Message-ID: <20230914123456.3E1A112345@mail.secure-portal.com>
+Date: Thu, 14 Sep 2023 12:34:56 +0000
+From: "Account Support" <no-reply@secure-portal.com>
+Reply-To: support@account-update-secure.com
+To: user@victim.com
+Subject: Urgent Account Password Verification Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account password must be verified immediately to avoid suspension.
+Please open the link below to secure your account:
+
+http://192.168.1.50/verify
+
+Failure to do so will result in permanent lockout.
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Password Alert</title></head>
+<body>
+<p style="color:red; font-weight:bold;">Immediate Action Required!</p>
+<p>Your account security has been compromised. To prevent unauthorized access, please verify your credentials now.</p>
+<p>
+<a href="http://192.168.1.50/verify" style="font-size:16px; color:white; background:red; padding:10px; text-decoration:none;">Verify Account</a>
+</p>
+<p>If the button does not work, click <a href="http://192.168.1.50/verify"></a></p>
+<p><a href="http://192.168.1.50/verify"><img src="http://203.0.113.10/images/secure_button.png" alt="Secure Button"/></a></p>
+<p>Or click <a href="http://192.168.1.50/verify">here</a> to update your password.</p>
+<p>Alternatively, visit our secure portal: <a href="http://54.23.123.45/login">https://secure.login.account-update.portal.com</a></p>
+<p>For help or privacy policy, see <a href="http://203.0.113.10/policy">Privacy Policy</a> or <a href="http://203.0.113.10/help.html">Help Center</a>.</p>
+<p>Thank you,<br/>Account Security Team</p>
+</body>
+</html>
+
+--BOUNDARY123--

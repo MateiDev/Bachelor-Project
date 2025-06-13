@@ -1,0 +1,53 @@
+From secure-mail@acmebank.com Wed Jul  3 12:34:56 2024
+Return-Path: <secure-mail@acmebank.com>
+Delivered-To: user@clientdomain.com
+Received: from mail.acmebank.com (mail.acmebank.com [203.0.113.10])
+    by clientdomain.com (Postfix) with ESMTP id 9F8A7BCD;
+    Wed,  3 Jul 2024 12:34:56 -0400 (EDT)
+From: "Acme Bank Secure Mail" <secure-mail@acmebank.com>
+Reply-To: support@verification-secure.com
+To: user@clientdomain.com
+Subject: Secure Mail Delivery Notification
+Date: Wed, 3 Jul 2024 12:34:56 -0400
+Message-ID: <CAF1234ABCD@mail.acmebank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_123456"
+
+----=_Boundary_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your secure message is waiting in the Acme Bank Secure Mail portal.
+Please visit the link below to view your message:
+
+View secure message: https://secure-mail.acmebank.com/view?msgid=ABC123
+
+Need help? http://www.acmebank.com/help
+Privacy Policy: http://www.acmebank.com/privacy
+
+Thank you,
+Acme Bank Security Team
+
+----=_Boundary_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your secure message is waiting in the <strong>Acme Bank Secure Mail</strong> portal.</p>
+    <p>
+      <a href="http://203.0.113.5/secure/view?msgid=ABC123">
+        <img src="http://203.0.113.5/assets/view_button.png" alt="View Secure Message" border="0" />
+      </a>
+    </p>
+    <p>Or <a href="http://198.51.100.77/login">click here</a> to log in.</p>
+    <p>If you have issues, visit our <a href="https://www.acmebank.com/help">http://www.acmebank.com/help</a> or <a href="https://www.acmebank.com/privacy">http://www.acmebank.com/privacy</a>.</p>
+    <p>To verify, go to <a href="http://192.0.2.45/auth?ref=acme">https://secure.acmebank.com</a></p>
+    <p>Thank you,<br/>Acme Bank Security Team</p>
+  </body>
+</html>
+
+----=_Boundary_123456--

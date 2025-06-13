@@ -1,0 +1,50 @@
+From security@x-company.com Sat Jul  3 12:34:56 2021
+Return-Path: <security@x-company.com>
+Received: from mail.x-company.com (mail.x-company.com [192.0.2.1]) by mx.x-company.com with ESMTP id 12345; Sat, 03 Jul 2021 12:34:56 -0400
+Date: Sat, 03 Jul 2021 12:34:56 -0400
+From: "X-Company Security" <security@x-company.com>
+To: user@example.org
+Subject: Urgent: Account Verification Required – Password Expires Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D786A4.BA1D9070"
+
+------=_NextPart_000_001D_01D786A4.BA1D9070
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual sign-in to your account. Your password expires today. Action is required immediately to avoid interruption.
+
+Verify Now: http://192.168.123.45/verify
+Alternate: https://security.x-company.com/verify
+Authenticate: http://203.0.113.5/auth
+
+Help Center: https://help.company.support.com/docs
+Privacy Policy: https://privacy.x-company.com/policy
+
+If you have any issues, click here: http://malicious.phish.com/support or here: http://malicious.phish.com/reset
+
+Thank you,
+X-Company Security Team
+
+------=_NextPart_000_001D_01D786A4.BA1D9070
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected <strong>unusual sign-in</strong> to your <em>account</em>. Your <strong>password expires today</strong>. Please verify your account immediately to avoid service interruption.</p>
+    <ul>
+      <li><a href="http://192.168.123.45/verify">Verify Now</a></li>
+      <li><a href="https://security.x-company.com/verify">https://security.x-company.com/verify</a></li>
+      <li><a href="http://203.0.113.5/auth">https://mail.x-company.com/auth</a></li>
+    </ul>
+    <p>For more info, visit our <a href="https://help.company.support.com/docs">Help Center</a> or read our <a href="https://privacy.x-company.com/policy">Privacy Policy</a>.</p>
+    <p>If you have any issues, <a href="http://malicious.phish.com/support">click here</a> or <a href="http://malicious.phish.com/reset">here</a> to reset your password.</p>
+    <p>Thank you,<br/>X-Company Security Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001D_01D786A4.BA1D9070--

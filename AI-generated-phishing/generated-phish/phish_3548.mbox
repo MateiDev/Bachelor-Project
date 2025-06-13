@@ -1,0 +1,51 @@
+From spoof@irs.gov Mon Jun 10 12:34:56 2024
+Return-Path: <spoof@irs.gov>
+Received: from tax.gov ([203.0.113.5]) by mx.example.com with ESMTP id ABCD1234; Mon, 10 Jun 2024 12:34:56 -0400
+From: "IRS Refund Department" <no-reply@tax.gov>
+Reply-To: support@bankverify.com
+To: user@example.com
+Subject: Urgent: Tax Refund Confirmation Required
+Date: Mon, 10 Jun 2024 12:34:56 -0400
+Message-ID: <20240610123456.abcdef@tax.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_1234"
+
+------=_Boundary_1234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We detected a small pending tax refund on your account. To process your refund, please confirm your bank account details and password immediately.
+
+Visit the following link to confirm:
+
+https://secure.irs.gov/refund   (http://192.168.100.25/verify)
+
+Failure to confirm before the deadline may result in cancellation.
+
+Thank you,
+IRS Refund Department
+
+------=_Boundary_1234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have processed your annual IRS account review and determined that a small <strong>tax refund</strong> is <span style="color:red;">READY NOW</span>. To ensure timely deposit, you must <span style="font-weight:bold;">confirm</span> your bank account details and <span style="font-weight:bold;">password</span> <em>immediately</em>.</p>
+<p><a href="http://malicious.badserver.com/confirm?uid=12345">https://secure.irs.gov/refund</a></p>
+<p>Alternatively, click the image below:</p>
+<p><a href="http://badimageserver.net/track?img=1"><img src="http://badimageserver.net/logo.png" alt="IRS Logo" style="border:none;"></a></p>
+<p>If the link above does not work, copy and paste this URL into your browser:<br>
+<a href="http://verify.now.bank-update.com.verify/process">http://verify.now.bank-update.com.verify/process</a></p>
+<p>Or use this backup verification portal:<br>
+<a href="http://192.168.100.25/verify"></a></p>
+<p><strong>Act now!</strong> Failure to confirm your information by <em>June 15, 2024</em> will result in the <span style="color:red;">cancellation</span> of your refund.</p>
+<p>Thank you,<br>
+IRS Refund Department</p>
+</body>
+</html>
+
+------=_Boundary_1234--

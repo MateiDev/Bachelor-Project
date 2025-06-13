@@ -1,0 +1,69 @@
+From dhl@notifications.dhl.com Mon Jun 17 14:32:10 2024
+Return-Path: <no-reply@dhl.com>
+Delivered-To: user@domain.com
+Received: from smtp.dhl.com (smtp.dhl.com [192.0.2.1])
+    by mail.domain.com with ESMTP id ABC123DEF
+    for <user@domain.com>; Mon, 17 Jun 2024 14:32:10 +0000 (UTC)
+From: "DHL Delivery" <no-reply@dhl.com>
+Reply-To: support@dhlscam.com
+To: user@domain.com
+Subject: URGENT: Update Your Account Password to Release Your Package
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted delivery of your package today but it could not be completed due to pending verification.
+
+To avoid return, please verify your account and update your password info:
+
+1. Visit our help page:
+https://www.dhl.com/help
+
+2. Release your package here:
+http://203.0.113.45/release
+
+3. Track your shipment:
+https://dhl.com/tracking
+
+If you do not take action within 24 hours, your package will be returned.
+
+Thank you for choosing DHL.
+
+--===============123456789==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; line-height:1.6;">
+    <img src="http://cdn.dhl.com/logo.png" alt="DHL Logo" width="150"/>
+    <h2>Delivery Notification!</h2>
+    <p>Dear Customer,</p>
+    <p>We attempted delivery of your package today, but additional verification is required.</p>
+    <p>Please <a href="https://www.dhl.com/help" style="color:#0066cc;">help</a> or check our <a href="https://www.dhl.com/privacy-policy" style="color:#0066cc;">privacy policy</a> for more info.</p>
+    <p>To release your package, <a href="http://malicious-link.biz/release" style="color:#0066cc;">here</a>.<br/>
+       Or use the direct IP access:
+       <a href="http://203.0.113.45/release">http://203.0.113.45/release</a>
+    </p>
+    <p>You can also track your order:
+       <a href="http://phishingsite.com/payment">https://dhl.com/payment</a>
+    </p>
+    <p>
+       <a href="http://198.51.100.23/unlock"><img src="http://cdn.dhl.com/unlock.png" alt="Unlock Package" width="200"/></a>
+    </p>
+    <p>
+       <a href="http://malicious-link.biz/release"></a>
+    </p>
+    <p>If you need assistance, reply to this email.</p>
+    <p>Best regards,<br/>DHL Delivery Team</p>
+    <p style="font-size: small;">
+      To unsubscribe, <a href="https://www.dhl.com/unsubscribe">click here</a>.
+    </p>
+  </body>
+</html>
+
+--===============123456789==--

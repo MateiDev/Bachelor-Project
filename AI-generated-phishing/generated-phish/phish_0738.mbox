@@ -1,0 +1,56 @@
+From security-alert@secure-bank.com Mon Sep 20 08:15:27 2021
+Return-Path: <security-alert@secure-bank.com>
+Received: from mail.secure-bank.com (mail.secure-bank.com [198.51.100.23])
+    by mx.internal.bank.com with ESMTP id 1234567890
+    for <customer@example.com>; Mon, 20 Sep 2021 08:15:27 -0400
+Date: Mon, 20 Sep 2021 08:15:27 -0400
+From: "Secure Bank Security" <security-alert@secure-bank.com>
+To: customer@example.com
+Subject: Action Required: Verify Your Account - Unusual Sign-in Detected
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000a1b2c3d4"
+
+--000000000000a1b2c3d4
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We detected an unusual sign-in from a new device. For your protection, immediate action is required.
+
+Your account password expires today – reset immediately to avoid service interruption.
+
+Please verify your account now using one of the links below:
+
+1. http://www.secure.bank.login.reset (link may appear as www.secure.bank.login.reset)
+2. http://192.0.2.123/verify?token=ZXCVBN1234
+3. http://securebank.security-check.info?lang=en
+
+Failure to verify within 24 hours may result in temporary suspension of your account.
+
+Thank you for your prompt attention to this critical security alert.
+
+Secure Bank Security Team
+
+--000000000000a1b2c3d4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p><strong style="color:red;">URGENT:</strong> We detected an <em>unusual sign-in</em> from a new device. <span style="font-weight:bold;">Action Required:</span> verify now to secure your account.</p>
+    <p>Your password <strong style="color:red;">expires today</strong> – <em>reset immediately</em> to avoid service interruption.</p>
+    <p>Please verify your account immediately by clicking one of the links below:</p>
+    <ul>
+      <li><a href="http://192.0.2.123/verify?token=ZXCVBN1234">http://www.secure.bank.login.reset</a></li>
+      <li><a href="http://secure-bank-login.com/reset">www.secure-bank-login.com/reset</a></li>
+      <li><a href="http://securebank.security-check.info?lang=en">SecureBank Security Check</a></li>
+      <li><a href="http://203.0.113.45/update"><img src="http://tracking.banksecure.com/banner.png" alt="Verify Account" /></a></li>
+    </ul>
+    <p>If you do not verify within <strong>24 hours</strong>, your account will be suspended. This is a critical security measure to protect your information.</p>
+    <p>Thank you,<br/>Secure Bank Security Team</p>
+  </body>
+</html>
+
+--000000000000a1b2c3d4--

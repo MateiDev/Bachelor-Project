@@ -1,0 +1,57 @@
+From no-reply@dhl-express.com Thu Apr 18 12:34:56 2024
+Return-Path: <no-reply@dhl-express.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl-express.com (mail.dhl-express.com [203.0.113.5])
+    by inbound.example.net with ESMTP id ABCDE12345
+    for <victim@example.com>; Thu, 18 Apr 2024 12:34:56 +0000 (UTC)
+Message-ID: <20240418123456.12345@mail.dhl-express.com>
+Date: Thu, 18 Apr 2024 12:34:56 +0000
+From: "DHL Express" <no-reply@dhl-express.com>
+Reply-To: <support@accounts-dhlhelp.com>
+Subject: Urgent: Delivery Notification - Package Held
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent shipment is on hold due to an address verification issue.
+Immediate action required to avoid return or additional fees.
+
+Please visit:
+http://www.dhl.com/resolve?package=ABC123
+to confirm your account details and password.
+
+Thank you for choosing DHL.
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your shipment <strong>#ABC123</strong> is <span style="color:red;">temporarily held</span> pending address verification.</p>
+<p>
+<a href="http://198.51.100.23/verify?ref=ABC123"> </a>
+<a href="http://tracking.dhl.express-service.net/confirm?pkg=ABC123">Click here to release your package</a>
+</p>
+<p>Alternatively, go to
+<a href="http://www.dhl.com/myaccount">http://www.dhl.com/track</a>
+to track your package.</p>
+<p>
+<a href="http://203.0.113.45/secure/password-reset">
+<img src="http://192.0.2.123/tracker.png" alt="">
+</a>
+</p>
+<p><em>This is an urgent notification. Failure to comply within 24 hours may result in return to sender and additional fees.</em></p>
+</body>
+</html>
+
+----=_Part_12345_67890--

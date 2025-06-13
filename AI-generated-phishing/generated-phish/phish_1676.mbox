@@ -1,0 +1,44 @@
+From security@bank.com Fri Jul 16 12:34:56 2024
+Return-Path: <security@bank.com>
+Delivered-To: victim@example.com
+Received: from mail.bank.com (mail.bank.com [198.51.100.10])
+    by mx.example.org with ESMTP id ABC123DEF; Fri, 16 Jul 2024 12:34:56 +0000
+Subject: Urgent Account Password Verification Required
+From: "Bank Security Alerts" <security@bank.com>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890.1597082076000"
+
+----=_Part_1234_567890.1597082076000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We've detected unusual activity on your account. For your security, we require immediate password verification.
+
+Please visit the secure portal to verify your credentials:
+
+https://secure.bank.com/login?user=12345
+
+If you do not verify within 24 hours, your account will be locked.
+
+Thank you,
+Bank Security Team
+
+----=_Part_1234_567890.1597082076000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We've detected unusual activity on your account. For your security, we require immediate password verification.</p>
+    <p>Please <a href="http://mail.security.account.bank.com.secure-login.info/verify?uid=12345" title="account verification">click here</a> to verify your credentials.</p>
+    <p>Alternatively, <a href="http://fraudulent.bank.com/login?user=12345" title="urgent">https://secure.bank.com</a> or use this link: <a href="http://click.here.modal-login.com/" title="password"></a>.</p>
+    <p>If you do not verify within 24 hours, <a href="http://help.bank.com.support.policy.info/lock" title="account">here</a> your account will be locked.</p>
+    <p>Thank you,<br/>Bank Security Team</p>
+  </body>
+</html>
+
+----=_Part_1234_567890.1597082076000--

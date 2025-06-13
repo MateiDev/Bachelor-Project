@@ -1,0 +1,59 @@
+From support@trustedservice.com Tue, 22 Aug 2023 14:53:00 -0700
+Date: Tue, 22 Aug 2023 14:53:00 -0700
+From: Trusted Service <support@trustedservice.com>
+To: user@example.org
+Subject: Urgent: Verify Your Account Password Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789"
+
+------=_Part_0_123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your account. To ensure your security, your account has been temporarily locked. Please verify your login credentials to restore full access.
+
+Follow the instructions below:
+
+1. Visit the verification page: http://192.0.2.123/account/reset  
+2. Enter your username and password  
+3. Click "Submit" to complete the process  
+
+If you need help, visit our Help Center: https://help.trustedservice.com  
+Review our Privacy Policy: https://www.trustedservice.com/privacy-policy  
+
+Thank you for your prompt attention to this urgent matter.
+
+Best regards,  
+Trusted Service Security Team
+
+------=_Part_0_123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected suspicious activity on your <b>account</b>. To ensure your security, your account has been temporarily locked. Please verify your login credentials to restore full access.</p>
+    <p>
+      <a href="http://secure.login-update.support.com/verify?user=123">click here</a> to verify your <b>password</b> and unlock your account immediately.
+    </p>
+    <p>
+      Alternatively, you can <a href="http://192.0.2.123/account/reset">reset your password</a> via our secure server.
+    </p>
+    <p>If you require assistance, please visit our Help Center: 
+      <a href="https://help.trustedservice.com">https://help.trustedservice.com</a>
+    </p>
+    <p>Review our Privacy Policy: 
+      <a href="https://www.trustedservice.com/privacy-policy">https://www.trustedservice.com/privacy-policy</a>
+    </p>
+    <p>
+      <a href="http://secure.login-update.support.com/token"></a>
+    </p>
+    <p>Thank you for your prompt attention to this <b>urgent</b> matter.</p>
+    <p>Best regards,<br/>Trusted Service Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456789--

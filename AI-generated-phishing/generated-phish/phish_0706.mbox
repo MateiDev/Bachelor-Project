@@ -1,0 +1,26 @@
+From no-reply@dhl.com Thu Sep  7 12:34:56 2023
+Return-Path: <no-reply@dhl.com>
+From: "DHL Express" <no-reply@dhl.com>
+Reply-To: <helpdesk@secure-update.net>
+To: victim@example.com
+Subject: Urgent: Account Delivery Notification
+Date: Thu, 7 Sep 2023 12:34:56 +0000
+Message-ID: <20230907123456@dhl.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is being held due to incomplete payment of customs duties. To avoid delays, please confirm your payment information by clicking the link below:</p>
+    <ul>
+      <li>IP-based link: <a href="http://192.0.2.123/release?package=ABC123">Click here to release your parcel</a></li>
+      <li>Modal domain link: Please confirm your details <a href="http://modal-dhl-update.com/confirm?pkg=ABC123">here</a>.</li>
+      <li>Empty text link for invoice: <a href="http://198.51.100.45/invoice.download.file.pdf"></a></li>
+      <li>Tracking link text mismatch: <a href="http://malicious-payments.biz/track">https://shipment.dhl.com/track?ref=ABC123</a></li>
+    </ul>
+    <p>For more info, visit our FAQ page: <a href="http://user.help-center.dhl.com.support.verify.info">Help Center</a></p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Best regards,<br/>DHL Express Team</p>
+  </body>
+</html>

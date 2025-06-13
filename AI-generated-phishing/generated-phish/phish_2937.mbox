@@ -1,0 +1,50 @@
+From - Mon Oct 30 14:11:02 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-path: spoofedemail@maliciousdomain.com
+Envelope-to: user@example.com
+Delivery-date: Mon, 30 Oct 2023 14:11:02 +0000
+Received: from unknown (HELO 192.0.2.1) (192.0.2.1)
+    by mail.example.com with SMTP; Mon, 30 Oct 2023 14:11:02 +0000
+Date: Mon, 30 Oct 2023 14:10:00 +0000
+From: "Gift Rewards" <rewards@legit-rewards.com>
+Reply-To: rewards@maliciousdomain.com
+Subject: Urgent: Claim Your Free €500 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary01"
+
+--boundary01
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You are eligible to claim a €500 voucher to use at your favorite stores. To claim your reward, please click here: http://192.0.2.100/claim
+
+For more details, please visit our website.
+
+Thank you,    
+Gift Rewards Team    
+
+--boundary01
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You are eligible to claim a €500 voucher to use at your favorite stores.</p>
+    <p>To claim your reward, please click <a href="http://192.0.2.100/claim">here</a>.</p>
+    <p>For our privacy policy and support, visit our <a href="http://www.legit-rewards.com/privacy-policy">privacy policy</a> and <a href="http://www.legit-rewards.com/support">support page</a>.</p>
+    <a href="http://www.maliciousdomain.com"><img src="http://www.maliciousdomain.com/image.gif" alt="Claim Now"></a>
+    <a href="http://www.support-site.com"><!-- Empty content --></a>
+    <p>Thank you,<br>
+       Gift Rewards Team<br>
+       <a href="mailto:info@legit-rewards.com">info@legit-rewards.com</a>
+    </p>
+  </body>
+</html>
+
+--boundary01--

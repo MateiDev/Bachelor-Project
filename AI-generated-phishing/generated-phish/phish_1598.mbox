@@ -1,0 +1,53 @@
+From phishing@portal.company.com Mon May 23 09:15:31 2022
+Return-Path: <no-reply@portal.company.com>
+Delivered-To: user@domain.com
+Received: from mail.secure.portal-update.company.co.uk (mail.secure.portal-update.company.co.uk [203.0.113.25]) by mail.domain.com with ESMTP id abc123; Mon, 23 May 2022 09:15:31 +0000
+Message-ID: <20220523091531.abcd1234@mail.secure.portal-update.company.co.uk>
+Date: Mon, 23 May 2022 09:15:31 +0000
+From: "Secure Portal" <no-reply@portal.company.com>
+Reply-To: support@helpdesk.external-company.net
+To: user@domain.com
+Subject: URGENT: Suspicious Login Detected – Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We detected CRITICAL suspicious activity on your account. For your security, your access has been temporarily suspended. Immediate action is REQUIRED to restore full access.
+
+Please click the link below to verify your identity and reset your credentials:
+
+1) Verification Portal: http://192.168.0.45/secure-login
+2) Support Portal: https://mail.secure.portal-update.company.co.uk/account/recover
+
+Failure to comply within 24 hours will result in permanent suspension of your account.
+
+Stay Secure,
+Secure Portal Security Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong style="color:red;">URGENT:</strong> We detected 
+    <em>critical</em> <span style="color:red;">suspicious activity</span> 
+    on your account. Your access has been temporarily suspended. 
+    <u>Immediate action is required</u> to restore full access.</p>
+    <p>Please <a href="http://192.168.0.45/secure-login?token=abc123&user=user" style="font-weight:bold;">click here</a> to verify your identity and reset your credentials.</p>
+    <p>If the above link does not work, you can also use our recovery portal:</p>
+    <ul>
+      <li><a href="https://help.mail.secure.portal-update.company.co.uk/support/login">https://help.mail.secure.portal-update.company.co.uk/support/login</a></li>
+      <li><a href="https://mail.secure.portal-update.company.co.uk/privacypolicy">Privacy Policy</a></li>
+    </ul>
+    <p>Failure to comply within <strong>24 hours</strong> will result in permanent suspension of your account.</p>
+    <p>Stay Secure,<br>
+    Secure Portal Security Team</p>
+  </body>
+</html>
+
+--boundary123--

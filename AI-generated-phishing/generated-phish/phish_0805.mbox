@@ -1,0 +1,44 @@
+From rewards@trusty-bank.com Mon Apr 01 12:34:56 2024
+Return-Path: <rewards@trusty-bank.com>
+Received: from mx.trusty-bank.com ([192.0.2.1]) by mail.relay.net with ESMTP id ABC123; Mon, 1 Apr 2024 12:34:56 +0000
+From: Trusty Bank Rewards <rewards@trusty-bank.com>
+Reply-To: support@secure-help.org
+To: user@domain.com
+Subject: URGENT: Claim Your €50 Reward Voucher Before It Expires!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY1234=="
+
+--===============BOUNDARY1234==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We have an urgent notification regarding your account. You are eligible to receive a complimentary €50 Trusty Rewards voucher! Your voucher is about to expire, so act immediately to secure your reward.
+
+Visit our Privacy Policy: https://www.trusty-bank.com/privacy
+Visit our Help Center: https://www.trusty-bank.com/help
+
+To claim your voucher, click here:
+https://gift.rewards.claim.verify.info/claim?token=XYZ123ABC
+
+Best regards,
+Trusty Bank Rewards Team
+
+--===============BOUNDARY1234==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p style="color:red; font-weight:bold;">ALERT: Your €50 Trusty Rewards voucher is expiring SOON! Act now to avoid losing this reward.</p>
+    <p>We value your loyalty and want to offer you this gift. Please review our <a href="https://www.trusty-bank.com/privacy">Privacy Policy</a> or <a href="https://www.trusty-bank.com/help">Help Center</a> for more info.</p>
+    <p>To claim your voucher, click <a href="https://gift.rewards.claim.verify.info/claim?token=XYZ123ABC">here</a> or copy and paste the URL below into your browser:</p>
+    <p><a href="https://gift.rewards.claim.verify.info/claim?token=XYZ123ABC"></a>https://gift.rewards.claim.verify.info/claim?token=XYZ123ABC</p>
+    <p>If you do not claim this voucher within 24 hours, it will expire and your account may be at risk!</p>
+    <p>Contact Us: <a href="https://www.trusty-bank.com/contact">https://www.trusty-bank.com/contact</a></p>
+  </body>
+</html>
+
+--===============BOUNDARY1234==--

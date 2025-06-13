@@ -1,0 +1,58 @@
+From dhl-notice@mailservice.org Mon Jul 12 10:05:30 2021
+Return-Path: <dhl-notice@mailservice.org>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.10])
+    by mailbox.mailservice.org (Postfix) with ESMTP id 12345
+    for <user@mailservice.org>; Mon, 12 Jul 2021 10:05:30 -0400 (EDT)
+Subject: URGENT: Your DHL Shipment is On Hold!
+From: DHL Delivery <dhl-notice@mailservice.org>
+To: user@mailservice.org
+Date: Mon, 12 Jul 2021 10:05:30 -0400
+Message-ID: <20210712100530@mailservice.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000008f7a3c05c3d7f381"
+
+--0000000000008f7a3c05c3d7f381
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+YOUR PACKAGE DELIVERY IS ON HOLD due to unpaid customs fees. You must pay immediately to avoid RETURN to sender.
+
+Please visit the link below to release your shipment:
+
+1. Visit: https://www.dhl.com/track
+2. Or: http://145.67.89.10/release?pkg=123456
+
+Thank you,
+DHL Support
+
+--0000000000008f7a3c05c3d7f381
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family:Arial,sans-serif;color:#333333;">
+  <div style="max-width:600px;margin:0 auto;padding:20px;border:1px solid #dddddd;">
+    <div style="text-align:center;margin-bottom:20px;">
+      <a href="http://145.67.89.10/release?pkg=123456">
+        <img src="http://203.0.113.5/images/dhl_logo.png" alt="DHL" style="width:200px;">
+      </a>
+    </div>
+    <h2 style="color:#D33;">URGENT: PACKAGE ON HOLD</h2>
+    <p>Dear Customer,</p>
+    <p>Your shipment has encountered a delay and is currently <strong>ON HOLD</strong> pending unpaid duties.
+       Immediate action is required to <span style="color:red;">AVOID RETURN TO SENDER</span>.</p>
+    <p>Please resolve the issue by verifying your delivery details <a href="http://secure.update.dhl.delivery.service.com/hold">here</a>.</p>
+    <p>If you have trouble accessing the link above, please use the link below:</p>
+    <ul>
+      <li><a href="http://145.67.89.10/verify">https://www.dhl.com/track</a></li>
+      <li><a href="http://192.0.2.50/confirm">https://delivery.dhl.com/confirm</a></li>
+    </ul>
+    <p style="font-size:12px;color:#777;">
+      This is an automated notice. For support, visit our <a href="https://secure.dhl.com/privacy">Privacy Policy</a> or
+      <a href="https://secure.dhl.com/help">Help Center</a>.
+    </p>
+  </div>
+</body>
+</html>
+
+--0000000000008f7a3c05c3d7f381--

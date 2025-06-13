@@ -1,0 +1,78 @@
+From tracking@ups-status.com Fri Jul 14 12:34:56 2023
+Return-Path: <tracking@ups-status.com>
+From: "UPS Delivery Team" <tracking@ups-status.com>
+To: user@domain.com
+Subject: URGENT: Failed Delivery Notice - Confirm Your account!
+Date: Fri, 14 Jul 2023 12:34:56 +0000
+Message-ID: <20230714123456.12345@ups-status.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--=UPSBOUNDARY123"
+
+----=UPSBOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your package delivery failed due to address verification issues.
+Your account will be locked in 24 hours if no action is taken.
+
+Please visit the link below to update your shipping information immediately:
+http://123.45.67.89/verify-shipping
+
+Thank you for your prompt attention.
+UPS Delivery Team
+
+----=UPSBOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>UPS Delivery Alert - Verify account Now</title>
+</head>
+<body style="font-family: Arial, sans-serif;">
+
+<h2 style="color: #d9534f;">Immediate Action Required!</h2>
+<p style="color: #333;">Dear Customer,</p>
+<p style="color: #333;">
+We attempted to deliver your package, but <strong>the delivery failed</strong> due to a missing address confirmation.
+This is an <span style="color: #d9534f; font-weight: bold;">URGENT</span> notification.
+Your account will be <span style="font-weight: bold;">LOCKED</span> within 24 hours if you do not verify your details.
+</p>
+
+<p>
+<a href="http://123.45.67.89/verify-shipping" title="urgent">click here</a> to confirm your shipping address now!
+</p>
+
+<p>
+<a href="http://track.ups.com.delivery.alert.dhl.status/images/ups_logo.png" title="account password">
+<img src="http://track.ups.com.delivery.alert.dhl.status/images/ups_logo.png" alt="UPS Logo" border="0" />
+</a>
+</p>
+
+<p>
+Or visit:
+<a href="http://123.45.67.89/verify-shipping" title="password"></a>
+</p>
+
+<p>
+If the above link does not work, copy and paste the following URL into your browser:
+<a href="http://123.45.67.89/verify-shipping" title="urgent support">http://www.ups.com</a>
+</p>
+
+<p>
+Need assistance? <a href="http://help.ups.com" title="help center">help center</a>
+</p>
+
+<hr style="border:none; border-top:1px solid #ccc;" />
+<p style="font-size: 12px; color: #999;">
+UPS Delivery Team | 1234 Shipping Lane | Some City, ST 12345
+</p>
+
+</body>
+</html>
+
+----=UPSBOUNDARY123--

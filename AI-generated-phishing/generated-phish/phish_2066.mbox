@@ -1,0 +1,40 @@
+From support@company.com Fri Jul 16 12:34:56 2021
+From: "Company Support" <support@company.com>
+Reply-To: attacker@evil.com
+To: user@targetcorp.com
+Subject: Urgent: Account Password Security Alert
+Date: Fri, 16 Jul 2021 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="---boundary123"
+
+---boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected unusual activity on your account. Please verify your credentials immediately:
+
+https://secure.portal.company.com
+
+Thank you,
+Company Support Team
+
+---boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We detected <strong>unusual activity</strong> on your <em>account</em>. To secure your <strong>password</strong>, please verify now:</p>
+    <ul>
+      <li>Click here: <a href="http://192.0.2.123/update">https://portal.security-alert.company.net/validate</a></li>
+      <li>Secure link: <a href="http://malicious.evil.com/process"><img src="http://images.evil.com/secure-button.png" alt="Verify Account" /></a></li>
+      <li>Alternate login: <a href="http://123.45.67.89:8080/login">https://login.company.com</a></li>
+    </ul>
+    <p>If you do not act within 24 hours, your account will be locked.</p>
+    <p>Thank you,<br/>Company Support Team</p>
+  </body>
+</html>
+---boundary123--

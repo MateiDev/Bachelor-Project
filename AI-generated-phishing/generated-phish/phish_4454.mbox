@@ -1,0 +1,47 @@
+From support@securebank.com Sat Jul 10 12:34:56 2021
+Message-ID: <20210710123456.1A2B3C@securebank.com>
+Date: Sat, 10 Jul 2021 12:34:56 -0400
+From: Secure Bank Account <support@securebank.com>
+Reply-To: Security Update <security-update@urgent-action.com>
+To: user@example.net
+Subject: Urgent: Password Expires Today – Action Required on Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected—verify now! Your password expires today. Immediate action is required to avoid account suspension.
+
+Reset your password immediately:
+http://192.0.2.123/reset?uid=ABC123XYZ
+
+Failure to verify may result in account lockout.
+
+Thank you,
+Secure Bank Security Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Password Expires Today – Action Required on Your Account</title></head>
+<body>
+<p>Dear <strong>Customer</strong>,</p>
+<p style="color:red;"><strong>Unusual sign-in detected—verify now!</strong></p>
+<p>Your <em>password expires today</em>. Immediate action is required to avoid account suspension due to security timeout.</p>
+<p><a href="http://192.0.2.123/reset?uid=ABC123XYZ">Reset Password Now</a></p>
+<p>
+<a href="http://45.76.229.10/secure-update"><img src="http://203.0.113.45/button.png" alt="Click to Secure Account" style="border:none;"></a>
+</p>
+<p>Please review our privacy policy at <a href="https://securebank.com/privacy-policy">https://securebank.com/privacy-policy</a>.</p>
+<p>Access your account securely: <a href="http://malicious.jkcompany.com/validate">http://securebank.com/login</a></p>
+<p>Support is available <a></a> <a href="http://malicious.com/help">here</a>.</p>
+</body>
+</html>
+
+--boundary123--

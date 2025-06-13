@@ -1,0 +1,32 @@
+From security@mybank.com Fri Jul 12 10:15:00 2024
+Date: Fri, 12 Jul 2024 10:15:00 -0400
+Return-Path: <security@mybank.com>
+From: "MyBank Security" <security@mybank.com>
+Reply-To: <support@mybank-update.com>
+To: user@provider.com
+Subject: URGENT: Account Verification Required – Password Expires Today
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <h2>Unusual sign-in detected — verify now</h2>
+    <p>Dear Customer,</p>
+    <p>We detected a recent login attempt to your account from an unrecognized device. To ensure your account remains secure, please verify your identity and reset your password immediately. Your password expires today.</p>
+    <p>To begin verification, click the image below:</p>
+    <p>
+      <a href="http://192.0.2.45/verify">
+        <img src="https://cdn.mybank.com/assets/logo.png" alt="MyBank Logo" style="border:0;" />
+      </a>
+    </p>
+    <p>If the image does not load, <a href="http://192.0.2.45/verify">verify your account now</a>.</p>
+    <p>Alternatively, you can visit our secure portal:</p>
+    <p><a href="http://192.0.2.45/reset">https://portal.mybank.com/login</a></p>
+    <p>If you need assistance, <a href="http://192.0.2.45/help">click here</a>.</p>
+    <hr>
+    <p style="font-size:12px;color:#666;">You received this notification because your account is set to require periodic verification. If you did not initiate this request, please contact our support team immediately.</p>
+    <p style="font-size:12px;color:#666;">
+      Privacy &amp; Security: <a href="https://mybank.com/privacy">https://mybank.com/privacy</a> | Terms of Service: <a href="https://mybank.com/terms">https://mybank.com/terms</a>
+    </p>
+  </body>
+</html>

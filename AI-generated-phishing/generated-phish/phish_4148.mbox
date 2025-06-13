@@ -1,0 +1,56 @@
+From refunds@irs.gov Thu Jul 22 08:15:00 2021
+Return-Path: <refunds@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.1])
+	by client-host.com with ESMTP id X
+	for <user@client-co.com>; Thu, 22 Jul 2021 08:15:00 -0400
+From: IRS Refund Dept <refunds@irs.gov>
+Reply-To: "IRS Support Team" <refunds@secure.update-irs.com>
+To: user@client-co.com
+Subject: Urgent: Tax Account Refund Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your 2020 tax return and determined that you are eligible for a small refund of $42.35. However, your bank details are not on file or cannot be verified. To receive your refund, please confirm your account information immediately by visiting the link below:
+
+http://203.0.113.45/confirm-bank
+
+Failure to confirm within 48 hours will result in refund cancellation and possible notice of non-compliance.
+
+Thank you,
+
+IRS Refund Department
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Urgent: Tax Account Refund Confirmation Required</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Our records indicate you have a pending federal tax refund of <strong>$42.35</strong>. To avoid refund cancellation, please confirm your bank details <span style="color:red; font-weight:bold;">immediately</span> by clicking on the secure link below:</p>
+<p>
+  <a href="http://198.51.100.24/refund" title="Verify your IRS account now">
+    <img src="http://secure-irs.images.com/logo.png" alt="IRS Logo" style="border:none;">
+  </a>
+</p>
+<p>Alternatively, you can verify at the official IRS portal at 
+  <a href="http://203.0.113.45/verify" style="text-decoration:none;">https://securetax.irs.gov/confirm</a>
+</p>
+<p>For account help, click <a href="http://support.account-update.com/verify">here</a>.</p>
+<p>Privacy Policy: <a href="http://www.irs.gov.account.verify-update.com/privacy.html">http://www.irs.gov/account-policy</a></p>
+<a href="http://192.0.2.123/confirm"></a>
+<p style="color:red;"><strong>Attention:</strong> Failure to confirm within 48 hours may lead to refund cancellation and potential risk of non-compliance.</p>
+</body>
+</html>
+
+--==BOUNDARY==--

@@ -1,0 +1,42 @@
+From service@paypal.com Mon Sep 12 10:15:00 2023
+X-From: PayPal Service <service@paypal.com>
+Reply-To: support@paypal-secure-update.net
+Return-Path: <service@paypal.com>
+Subject: Urgent Notice: Your PayPal Account Has Been Limited
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_8_123456.7890123456789"
+
+------=_Part_8_123456.7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity on your PayPal account. Your account has been limited, and you must verify your identity within 24 hours to avoid permanent suspension.
+
+Please visit the following link to resolve the issue:
+https://www.paypal.com/signin
+
+If you do not act immediately, your account will be locked.
+
+Thank you for your prompt attention.
+
+PayPal Support Team
+
+------=_Part_8_123456.7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> We have detected <em>suspicious activity</em> on your PayPal account. Your account has been <strong>limited</strong>. To avoid <span style="font-size:14px;">permanent suspension</span>, you must verify your identity immediately.</p>
+    <p>Please <a href="http://198.51.100.23/login"></a> to resolve this issue.</p>
+    <p>You can also <a href="http://198.51.100.23/login">https://www.paypal.com/signin</a> or <a href="http://login.paypal.secure-update.info">here</a> to review your account.</p>
+    <p>If you have any questions, please visit our <a href="https://www.paypal.com/help">Help Center</a> or <a href="https://www.paypal.com/legalprivacypolicy">Privacy Policy</a>.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p><a href="http://198.51.100.23/logo.png"><img src="http://198.51.100.23/logo.png" alt="PayPal"></a></p>
+  </body>
+</html>
+
+------=_Part_8_123456.7890123456789--

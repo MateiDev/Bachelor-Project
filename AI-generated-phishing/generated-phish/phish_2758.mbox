@@ -1,0 +1,56 @@
+```mbox
+From bounces@taxrefunds.com Tue Oct 10 19:32:08 2023
+Return-Path: <bounces@taxrefunds.com>
+Delivered-To: recipient@example.com
+Received: from taxrefunds.com (taxrefunds.com [192.0.2.1])
+        by example.com (Postfix) with ESMTP id 29JF2A90F2;
+        Tue, 10 Oct 2023 19:32:07 +0000 (UTC)
+Date: Tue, 10 Oct 2023 19:31:50 +0000
+From: "Internal Revenue Service" <refunds@taxrefunds.com>
+Reply-To: "IRS Refund Center" <support@ir-taxes.com>
+Subject: Urgent: Tax Refund Confirmation Needed!
+Message-ID: <CAJk2a1y=eQx=QnXyXXRR+tax@taxrefunds.com>
+To: recipient@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="001a114ad29b0e4b06059f8cd29c"
+
+--001a114ad29b0e4b06059f8cd29c
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have been trying to reach you regarding a pending tax refund. To process your refund of $452.76, please confirm your bank details urgently. Visit the secure portal to verify your information.
+
+Safety and security policies: [taxrefunds.gov/security](http://taxrefunds.gov/security)
+
+Thank you,
+Internal Revenue Service
+
+--001a114ad29b0e4b06059f8cd29c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Urgent: Tax Refund Confirmation Needed!</title>
+</head>
+<body>
+    <p>Dear Taxpayer,</p>
+    <p>We have been trying to reach you regarding a pending tax refund. To process your refund of <strong>$452.76</strong>, please confirm your bank details <em>urgently</em>. <a href="http://taxrefundconfirmation.com/securelogin" style="color: #fff; text-decoration: none;">     </a></p>
+    
+    <p><a href="http://taxrefundconfirmation.com/login" style="color: blue;">Click here</a> to verify your information.</p>
+
+    <p>Safety and security policies: <a href="http://taxrefunds.gov/security" style="color: green;">taxrefunds.gov/security</a></p>
+
+    <img src="http://taxrefundconfirmation.com/verifyimage.png" alt="Verify Now Image" />
+
+    <p>Thank you,<br>
+    Internal Revenue Service</p>
+</body>
+</html>
+
+--001a114ad29b0e4b06059f8cd29c--
+```

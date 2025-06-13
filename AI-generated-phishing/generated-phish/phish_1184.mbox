@@ -1,0 +1,35 @@
+From portal-security@bankapp.com Fri Mar 10 14:22:01 2023
+Date: Fri, 10 Mar 2023 14:22:01 +0000
+From: "Portal Secure Mail" <portal-security@bankapp.com>
+Reply-To: portal-alerts@notifications-secure.com
+Subject: URGENT: Encrypted Secure-Mail Access Suspended - Verify Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT: We have detected unauthorized access to your secure mail portal. Your service is temporarily suspended. You must verify your credentials immediately by clicking the secure link below:
+
+http://198.51.100.23/login?uid=CHKBx
+
+Failure to comply within 24 hours will result in permanent loss of access.
+
+--ABC123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">ALERT: Immediate Action Required!</p>
+    <p>We detected suspicious activity on your encrypted mail portal. Failure to verify within <strong>24 HOURS</strong> will <strong>PERMANENTLY</strong> disable your account.</p>
+    <p>Click the button below to secure your account:</p>
+    <a href="http://198.51.100.23/secure.auth.bankapp.login.portal.verify.com/userauth"><button>View Secure Mail</button></a>
+    <p>Or use this link: <a href="https://secure.auth.bankapp.login.portal.verify.com/userauth"></a></p>
+    <p><a href="http://203.0.113.10/portal-update"><img src="https://bankapp.com/images/securemail.png" alt="Secure Mail Notice"/></a></p>
+    <p>If you have any questions, reply immediately to this message.</p>
+  </body>
+</html>
+
+--ABC123--

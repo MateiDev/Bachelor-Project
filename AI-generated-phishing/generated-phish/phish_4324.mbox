@@ -1,0 +1,43 @@
+From support@dhl-updates.com Mon Sep 12 10:15:00 2022
+From: "DHL Delivery" <support@dhl-updates.com>
+Reply-To: helpdesk@secure-payments.com
+To: user@example.com
+Subject: Urgent: DHL Parcel Delivery Held!
+Date: Mon, 12 Sep 2022 10:15:00 -0400
+Message-ID: <20220912101500.12345@dhl-updates.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789.987654321"
+
+----=_Part_123_456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your DHL parcel, but delivery failed due to an address issue.
+Your package is now on hold. This is urgent! Please update your information immediately to avoid return.
+
+Visit: https://www.dhl.com/track or click here: https://dhl.verify-service.com/release
+
+Thank you,
+DHL Delivery Team
+
+----=_Part_123_456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Urgent:</strong> Your <em>DHL</em> parcel delivery has <span style="color:red">failed</span> and is now on hold due to an address discrepancy. <u>Immediate action is required</u> to prevent return to sender.</p>
+    <p>Please <a href="https://dhl.verify-service.com/release?uid=12345">click here</a> to confirm your address.</p>
+    <p>You can also <a href="http://secure.dhl-customer.info/track?id=XYZ">https://www.dhl.com/track</a> your package status.</p>
+    <p>View your <a href="https://modal.dhl-update.net/hold">here</a> for more details.</p>
+    <p><a href="http://192.0.2.123/verify"></a></p>
+    <p>For assistance, contact us via the <a href="https://dhl-corp.example-service.org/privacy.html">privacy-policy</a> or our <a href="http://198.51.100.5/help">help</a> page.</p>
+    <p><a href="http://203.0.113.10/asset/dhl_logo.png"><img src="http://203.0.113.10/asset/dhl_logo.png" alt="DHL Logo"></a></p>
+    <p>Thank you,<br>DHL Delivery Team</p>
+  </body>
+</html>
+
+----=_Part_123_456789.987654321--

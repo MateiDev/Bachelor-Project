@@ -1,0 +1,42 @@
+From rewards@shoppingportal.com Fri Oct 13 12:34:56 2023
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.87654321"
+MIME-Version: 1.0
+Message-ID: <20231013123456.1@shoppingportal.com>
+Date: Fri, 13 Oct 2023 12:34:56 +0000
+From: "Rewards Department" <rewards@shoppingportal.com>
+To: undisclosed-recipients:;
+Subject: Urgent Account Reward - Claim Your €50 Gift Card Now!
+
+------=_Part_0_123456.87654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been selected to receive a €50 gift voucher. This is a limited-time offer.
+To claim your voucher NOW, please visit the link below:
+http://185.93.216.35/claim?ref=XYZ123
+
+You must claim your reward within 24 HOURS, or your account and password will be deactivated.
+
+Best regards,
+Rewards Team
+
+------=_Part_0_123456.87654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Update Notification</title></head>
+<body>
+  <p>Dear Customer,</p>
+  <p><strong>Congratulations!</strong> You are eligible for a <strong>€50 Voucher</strong>.</p>
+  <p>This is a <span style="color:red;">limited-time</span> offer! Claim immediately or your <em>account</em> will be locked.</p>
+  <p>Click <a href="http://185.93.216.35/claim?ref=XYZ123">here</a> to secure your reward.</p>
+  <p><a href="http://123.45.67.89/void"></a></p>
+  <p>Alternatively, claim <a href="http://199.72.34.56/secure/claim?userID=abc.def">here</a> to avoid deactivation of your password and prevent urgent issues.</p>
+  <p>Need assistance? <a href="https://shoppingportal.com/help">Help</a> | <a href="https://shoppingportal.com/privacy-policy">Privacy Policy</a></p>
+</body>
+</html>
+
+------=_Part_0_123456.87654321--

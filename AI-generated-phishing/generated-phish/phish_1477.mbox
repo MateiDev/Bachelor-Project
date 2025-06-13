@@ -1,0 +1,28 @@
+From noreply@irs.gov Fri Mar 12 14:55:02 2021
+Return-Path: <noreply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.51.100.10])
+	by victimmail.example.com with ESMTP id ABC123XYZ
+	for <user@example.com>; Fri, 12 Mar 2021 14:55:02 -0400 (EDT)
+Message-ID: <20210312145502.9876@mail.irs.gov>
+From: "IRS Refund Dept" <noreply@irs.gov>
+To: user@example.com
+Subject: Urgent: Account Password Confirmation Required for Tax Refund
+Date: Fri, 12 Mar 2021 14:55:02 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+  <title>Urgent: Account Password Confirmation Needed</title>
+</head>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>We have identified a small refund of <strong>$23.45</strong> pending to your bank account. You must confirm your bank details immediately to receive your refund. Failure to act now will result in permanent loss of your refund.</p>
+  <p>Please <a href="http://203.0.113.5/update">click here</a> to verify your bank account and password.</p>
+  <p>Alternatively, you may visit our secure portal at <a href="http://198.51.100.45/refund-confirmation">http://www.irs.gov/refund</a> if the link above does not work.</p>
+  <p><a href="http://192.0.2.123/secureform"></a></p>
+  <p>For more information, access our login page: <a href="http://secure.irs.gov.refund.verify.com/login">login</a>.</p>
+  <p>If you have any concerns, review our <a href="http://www.irs.gov/privacy-policy">privacy-policy</a> or <a href="http://help.irs.gov">help</a>.</p>
+  <p>Thank you,<br/>Internal Revenue Service</p>
+</body>
+</html>

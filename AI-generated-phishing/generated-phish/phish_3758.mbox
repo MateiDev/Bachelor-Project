@@ -1,0 +1,43 @@
+From no-reply@irsgov.taxrefund-service.com Fri Jul 30 15:45:12 2021
+Return-Path: <no-reply@irsgov.taxrefund-service.com>
+From: "IRS Tax Department" <no-reply@irsgov.taxrefund-service.com>
+Reply-To: <support@secure-update-service.com>
+To: user@domain.com
+Subject: Urgent: Confirm your account password and details to claim tax refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789ABC"
+
+----=_Part_0_123456.789ABC
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate you have a refundable amount of $124.50 awaiting. This is URGENT: you must confirm your bank account and password details immediately to secure your refund. Failure to update within 24 hours will cancel your claim.
+
+Please visit https://irs.gov/refund to confirm now.
+
+Regards,
+IRS e-Services Department
+
+----=_Part_0_123456.789ABC
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p style="color:red; font-weight:bold;">Urgent: Your annual tax filing shows a <strong>REFUND</strong> of <strong>$124.50</strong> is awaiting. <em>Immediate action required</em> to prevent <u>cancellation</u> of your claim.</p>
+    <p>To <strong>confirm your bank account</strong> and <strong>password</strong> details, please click the button below:</p>
+    <a href="http://203.0.113.22/confirm">
+      <img src="http://203.0.113.55/irs-logo.png" alt="Confirm Refund" style="border: none;"/>
+    </a>
+    <p>If the button doesn't work, visit <a href="http://192.168.0.100/refund/confirm">https://irs.gov/refund/status</a> to verify now.</p>
+    <p>Please <a href="http://203.0.113.45/refund">click here</a> to secure your refund.</p>
+    <p>For support, see our <a href="http://malicious.taxrefund.co.uk.phishingserver.net/update">help</a> or view our <a href="https://www.irs.gov/privacy-policy">privacy policy</a>.</p>
+    <a href="http://192.168.0.100/activate"></a>
+    <p>Thank you,<br/>IRS e-Services Department</p>
+  </body>
+</html>
+
+----=_Part_0_123456.789ABC--

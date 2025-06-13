@@ -1,0 +1,53 @@
+```mbox
+From phishing_alert@secure-notification.com  Fri Oct 20 09:53:00 2023
+X-Google-Smtp-Source: ABcdeFGhijklmnopQrStuVwxyZ0123
+Received: by 2002:a17:90a:8082 with SMTP id z2csp1102231pjb;
+        Fri, 20 Oct 2023 09:53:00 -0700 (PDT)
+X-Received: by 2002:a05:6a1:2363:: with SMTP id b3mr4123121ywb.23.1697801579987;
+        Fri, 20 Oct 2023 09:53:00 -0700 (PDT)
+Return-Path: <phishing_alert@secure-notification.com>
+Received: from unknown (107.23.18.146)
+        by smtp.server.com with SMTP id c2s14389dkj.2
+        for <user@example.com>;
+        Fri, 20 Oct 2023 09:53:00 -0700 (PDT)
+Received-SPF: pass (smtp.server.com: domain of secure-notification.com designates 107.23.18.146 as permitted sender)
+Authentication-Results: smtp.server.com;
+	dkim=pass header.i=@secure-notification.com header.s=default header.b="aKSjdoO7";
+	dmarc=pass (p=QUARANTINE sp=NONE pct=100) header.from=secure-notification.com
+Message-ID: <0202339rtrt2023b6@secure-notification.com>
+Date: Fri, 20 Oct 2023 09:53:00 -0700
+Subject: Urgent: Secure Your Account Now
+From: Security Team <phishing_alert@secure-notification.com>
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_a2KlmBoasvOw"
+
+--b1_a2KlmBoasvOw
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your account. Please secure your account by visiting http://192.168.0.1.suspicious.com immediately.
+
+--b1_a2KlmBoasvOw
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <head>
+    <title>Account Security Alert</title>
+  </head>
+  <body>
+    <p>Dear User,</p>
+    <p>Your account is at risk. To protect your account, click on the link below:</p>
+    <p><a href="http://192.158.0.1/login" style="color:white;"> </a></p>
+    <p>If this wasn't you, kindly verify your information here:</p>
+    <a href="http://secure-update.example.com.security-checker.com/verify"><img src="http://192.168.1.1/trusted-image.png" alt="secure image"></a>
+    <p>Please visit the official site to review important updates.</p>
+    <a href="http://secure-update.example.com/safe"><span style="color:white;">.</span></a>
+    <p>Read our <a href="http://genuine-privacy-policy.example.com">Privacy Policy</a> and <a href="http://hxxp://help.example.com">Help</a> for more information.</p>
+  </body>
+</html>
+
+--b1_a2KlmBoasvOw--
+```

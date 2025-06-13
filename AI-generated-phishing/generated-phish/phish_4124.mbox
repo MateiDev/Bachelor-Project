@@ -1,0 +1,49 @@
+From taxdept@securetaxalerts.com Wed Jul 17 10:00:00 2024
+Return-Path: <taxdept@securetaxalerts.com>
+Received: from mail.securetaxalerts.com (mail.securetaxalerts.com [198.51.100.1])
+	by mx.target.com with ESMTP id ABC123XYZ
+	for <user@target.com>; Wed, 17 Jul 2024 10:00:00 -0400 (EDT)
+From: "Tax Department" <taxdept@securetaxalerts.com>
+Reply-To: support@banking-update.net
+To: user@target.com
+Subject: Urgent: Verify Your Account to Receive Refund
+Date: Wed, 17 Jul 2024 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_000_01"
+
+------=_Boundary_000_01
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our records indicate you have a small tax refund waiting. To release the funds, please confirm your bank account details immediately:
+
+http://198.51.100.25/confirm
+
+Thank you,
+Tax Department
+
+------=_Boundary_000_01
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: account password security update</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have processed your tax return and a <b>$47.23</b> refund is pending release.</p>
+<p>Please <a href="http://198.51.100.25/confirm">click here</a> to confirm your banking details.</p>
+<p>For assistance, <a href="http://198.51.100.25/help">here</a>.</p>
+<p>View our <a href="http://203.0.113.10/privacy-policy">Privacy Policy</a>.</p>
+<p>Read our <a href="http://payments.refund.secure.bank/confirm">Terms and Conditions</a>.</p>
+<p>If you prefer, go to <a href="http://192.0.2.5/login">https://secure.bank-trust.com/login</a>.</p>
+<a href="http://203.0.113.15/download"></a>
+<p><a href="http://203.0.113.10/confirm"><img src="http://203.0.113.10/logo.png" alt="" /></a></p>
+<p>Thank you,<br/>Tax Department</p>
+</body>
+</html>
+
+------=_Boundary_000_01--

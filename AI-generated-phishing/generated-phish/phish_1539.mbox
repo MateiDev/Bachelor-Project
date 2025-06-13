@@ -1,0 +1,56 @@
+From no-reply@dhl-express.com Fri Jul 14 10:22:33 2023
+Return-Path: <no-reply@dhl-express.com>
+Received: from mail1.dhl.com (mail1.dhl.com [192.0.2.10])
+	by mail.example.com (Postfix) with ESMTP id 6F12A3CDEF
+	for <customer@example.com>; Fri, 14 Jul 2023 10:22:33 +0200 (CEST)
+Message-ID: <20230714102233.abcdef@mail.dhl.com>
+Date: Fri, 14 Jul 2023 10:22:33 +0200
+Subject: URGENT: Delivery Notification - Action Required!
+From: "DHL Express" <no-reply@dhl-express.com>
+To: customer@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_7654321.159235"
+
+------=_Part_1234567_7654321.159235
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your package is on HOLD due to incomplete customs information.
+Failure to provide required details within 24 hours will result in the return-to-sender process.
+
+Please visit https://dhl.com/login to resolve the issue.
+
+Your tracking number: DHL1234567890
+
+DHL Express Support
+www.dhl.com
+
+------=_Part_1234567_7654321.159235
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif; font-size:14px; color:#333;">
+    <p style="color:red; font-weight:bold;">URGENT: Your package is on HOLD!</p>
+    <p>Dear Customer,</p>
+    <p>Your recent shipment (Tracking #: <strong>DHL1234567890</strong>) is pending clearance.<br>
+    We require additional delivery confirmation to proceed.</p>
+    <p style="font-weight:bold;">Failure to respond within 24 hours will result in return to sender.</p>
+    <p>To release your parcel, please click the link below:</p>
+    <p>
+      <a href="http://secure.dhl.support-update.verify-package.co.uk/confirm?ref=DHL1234567890">
+        <img src="https://media.dhl.com/images/release_button.png" alt="Release Parcel" style="border:0;">
+      </a>
+    </p>
+    <p>If the button above does not work, copy and paste this URL into your browser:</p>
+    <p><a href="http://tracking.dhl-secure-update.verify-package.co.uk/results">https://dhl.com/tracking</a></p>
+    <p>For more information, click <a href="http://help.dhl-support.verify-package.co.uk">here</a> to view our Help Center.</p>
+    <p><a href="http://privacy.dhl-secure.verify-package.co.uk"></a></p>
+    <hr style="border:none; border-top:1px solid #ccc;">
+    <p style="font-size:12px; color:#777;">DHL Express Services<br>
+    123 Business Street, City, Country<br>
+    <a href="https://www.dhl.com/privacy">Privacy Policy</a> | <a href="https://www.dhl.com/terms">Terms & Conditions</a></p>
+  </body>
+</html>
+
+------=_Part_1234567_7654321.159235--

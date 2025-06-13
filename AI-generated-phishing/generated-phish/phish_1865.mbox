@@ -1,0 +1,48 @@
+From support@secure-update.com Fri Jun 28 10:15:00 2024
+From: "Support Team" <support@secure-update.com>
+To: user@domain.com
+Subject: Urgent: Unusual sign-in detected—verify now
+Date: Fri, 28 Jun 2024 10:15:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_654321.1656483600000"
+
+----=_Part_123456_654321.1656483600000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected an unusual sign-in on your account from an unrecognized location. This is an important security alert.
+
+Your password expires today – reset immediately to avoid account suspension.
+
+Please visit both of the following links to secure and update your account right now:
+http://192.0.2.123/login
+http://login.verify.account-update.com/reset?token=abc123
+
+Failure to take urgent action may result in permanent closure of your account.
+
+Sincerely,
+Support Team
+
+----=_Part_123456_654321.1656483600000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p><strong>Unusual sign-in detected</strong> on your <span style="text-decoration:underline;">account</span> from a new device. <span style="color: red;">Urgent security alert.</span></p>
+    <p>Your <strong>password</strong> <em>expires today</em> – reset immediately to prevent account suspension.</p>
+    <p>Please click on the links below to verify and secure your account:</p>
+    <ul>
+      <li><a href="http://192.0.2.123" ></a></li>
+      <li><a href="http://verify.action.security-update.net/confirm?user=abc&session=xyz" ></a></li>
+      <li><a href="http://login.verify.account-update.com/reset?token=abc123" ></a></li>
+    </ul>
+    <p>Failure to take <span style="font-weight:bold;">immediate</span> action may result in <span style="color: red;">permanent closure</span> of your account.</p>
+    <p>Thank you,<br/>Security Support Team</p>
+  </body>
+</html>
+
+----=_Part_123456_654321.1656483600000--

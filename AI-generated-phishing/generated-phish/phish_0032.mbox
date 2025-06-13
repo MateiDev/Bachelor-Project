@@ -1,0 +1,34 @@
+```mbox
+From nobody Mon Oct 16 00:00:00 2023
+Return-Path: <delivery-notification@dhl.example.com>
+X-Original-To: user@example.com
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [10.0.0.1])
+	by mail.example.com (Postfix) with ESMTP id 1A2B3C4D5E
+	for <user@example.com>; Mon, 16 Oct 2023 00:00:00 +0000 (UTC)
+Date: Mon, 16 Oct 2023 00:00:00 +0000
+From: DHL Express <delivery-notification@dhl.example.com>
+Reply-To: customer.service@dhlexpress-support.example.com
+Subject: Urgent: Action Required for Your Delivery Account
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p style="color: red;">Urgent Action Required: Your package is on hold due to an unpaid delivery fee. Failure to pay this fee within 24 hours will result in the return of your package to the sender.</p>
+<p>Your password is ***PROTECTED*** and will be required for account verification.</p>
+<p>Click the link below to avoid missing your delivery:</p>
+<p>
+  <a href="http://dhl-express.track-package.example.com/verify" target="_blank">
+    <img src="http://images.example.com/dhl_logo.png" alt="Track Your Package">
+  </a>
+</p>
+<p>If you have already completed this action, please ignore this message.</p>
+<p>For further assistance, contact our <a href="http://help-desk.dhl-support.example.com" target="_blank">customer help desk</a>.</p>
+<p>Thank you for choosing DHL Express.</p>
+<p>Best regards,</p>
+<p>DHL Customer Service</p>
+</body>
+</html>
+```

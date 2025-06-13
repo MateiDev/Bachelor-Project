@@ -1,0 +1,45 @@
+```
+From - Tue Oct 10 14:31:45 2023
+X-Google-Smtp-Source: ABdhPJyAm654EW5k2a4b4NMghH7cHI7b1TXLJ1xrrOntYr6Je1vGmHhp
+X-Received: by 2002:a05:620a:188:b0:1f7:416:hbc7 with SMTP id 34-jnbilfg;
+        Tue, 10 Oct 2023 14:31:45 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a05:620a:efs:b0:1f8:410:3957 with HTTP; Tue, 10 Oct 2023 14:31:45 -0700 (PDT)
+From: support@secure-email.com
+Date: Tue, 10 Oct 2023 14:31:45 -0700
+Message-ID: <00000000000@example.com>
+Subject: Important: Verify Your Account
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="00000000001c"
+   
+--00000000001c
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+Your recent activity requires you to verify your account information to continue accessing your emails. Please log in through the link to validate your account immediately:
+
+[Log in here](http://192.168.1.5/secure-login) to prevent any suspension of your email services.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Account Security Team
+
+--00000000001c
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your recent activity requires you to verify your account information to continue accessing your emails. Please log in through the link below to validate your account immediately:</p>
+    <p><a href="http://192.168.1.5/secure-login"><img src="http://secure-email.com/logo.png" alt="Log in here"/></a></p>
+    <p>To prevent any suspension of your email services.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>Account Security Team</p>
+    <p><a href="http://secure-email.com/help.support">Help</a> | <a href="http://secure-email.com/privacy.policy">Privacy Policy</a></p>
+  </body>
+</html>
+
+--00000000001c--
+```

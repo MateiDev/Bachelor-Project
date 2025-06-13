@@ -1,0 +1,62 @@
+From no-reply@tax-dept.gov Wed Jul 31 14:55:02 2024
+Return-Path: <no-reply@tax-dept.gov>
+Received: from mail.tax-dept.gov (mail.tax-dept.gov [198.51.100.23])
+	by inbound.tax-dept.gov with ESMTP id 123ABC456
+	for <user@personal.com>; Wed, 31 Jul 2024 14:55:02 +0000
+From: "Tax Refund Department" <no-reply@tax-dept.gov>
+To: user@personal.com
+Subject: URGENT: Pending Tax Refund Requires Immediate Action
+Date: Wed, 31 Jul 2024 14:55:02 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789012345"
+
+------=_Part_0_123456.789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our records indicate a pending tax refund of $87.32 waiting for you. To avoid cancellation, please confirm your bank details immediately.
+
+Confirm here:
+http://203.0.113.45/confirm
+or visit:
+https://tax-refund.secure.bank-portal.com/verify
+
+Failure to respond within 48 hours will result in permanent forfeiture of your refund.
+
+Privacy policy:
+https://tax-dept.gov/privacy-policy
+
+Sincerely,
+Tax Refund Department
+
+------=_Part_0_123456.789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Your tax refund of <strong>$87.32</strong> is pending.</p>
+    <p>To prevent <em>immediate</em> cancellation, please confirm your bank details now.</p>
+    <ul>
+      <li><a href="http://203.0.113.45/confirm"><strong>click here</strong></a> to <u>confirm</u></li>
+      <li>Or go to: <a href="https://tax-refund.secure.bank-portal.com/verify">verify-now.tax.refund-update.com</a></li>
+      <li><a href="http://203.0.113.45/verify"></a></li>
+      <li>Access via image link:<br>
+        <a href="http://192.0.2.123/secure"><img src="https://tax-dept.gov/images/confirm-banner.png" alt="Confirm Refund" style="border:0;"></a>
+      </li>
+      <li>Generic link: <a href="https://bank-portal.two.fraud-check.com/update">here</a></li>
+    </ul>
+    <p style="font-size:small;">
+      <a href="https://tax-dept.gov/privacy-policy">Privacy Policy</a> |
+      <a href="https://tax-dept.gov/help">Help Center</a>
+    </p>
+    <p>Visit our site at <a href="http://203.0.113.45/secure-login">www.tax-dept.gov/login</a></p>
+    <p style="color:red;">Respond within <strong>48 hours</strong> to avoid losing your refund.</p>
+    <p>Sincerely,<br>Tax Refund Department</p>
+  </body>
+</html>
+
+------=_Part_0_123456.789012345--

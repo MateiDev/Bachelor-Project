@@ -1,0 +1,44 @@
+From support@apple.com Thu May  9 14:35:02 2024
+Return-Path: <support@apple.com>
+Delivered-To: user@example.com
+Received: by mail.example.com id abc123; Thu, 09 May 2024 14:35:02 -0400 (EDT)
+From: "Apple Support" <support@apple.com>
+Reply-To: security@security-alerts.modal-domain.verify-user.info
+To: user@example.com
+Subject: Urgent: Your Apple ID Has Been Locked!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_88_79BF9F90.AB12CD34"
+
+------=_Part_88_79BF9F90.AB12CD34
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your Apple ID has been locked due to multiple failed login attempts. You must verify your account immediately to avoid permanent suspension.
+
+Verify your account now:
+https://security.apple-login.verify-user.info/login
+
+Privacy Policy: https://apple.com/privacy
+Help Center: https://support.apple.com/
+
+Thank you,
+Apple Support Team
+
+------=_Part_88_79BF9F90.AB12CD34
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Your Apple ID has been <strong>locked</strong> due to suspicious activity!</p>
+    <p>Please click <a href="https://security.apple-login.verify-user.info/login">here</a> to verify your account <em>immediately</em> and prevent <strong>permanent suspension</strong>.</p>
+    <p>If you have any questions, please follow <a href="https://security.apple-login.verify-user.info/help"></a> for assistance.</p>
+    <p>For more information, review our <a href="https://apple.com/privacy-policy/legal/">Privacy Policy</a> or visit our <a href="https://support.apple.com/kb/HT204221">Help Center</a>.</p>
+    <p>Thank you,<br/>Apple Support Team</p>
+  </body>
+</html>
+
+------=_Part_88_79BF9F90.AB12CD34--

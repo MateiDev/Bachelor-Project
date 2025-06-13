@@ -1,0 +1,49 @@
+From rewards@trustpromo-mail.net Fri Jul 14 12:34:56 2023
+Return-Path: <rewards@trustpromo-mail.net>
+Received: from mail.trustpromo-mail.net (mail.trustpromo-mail.net [192.0.2.10]) by receiver.testdomain.com with ESMTP id XYZ; Fri, 14 Jul 2023 12:34:56 +0000
+Subject: URGENT: Account Reward Voucher — Verify Password Now
+From: Reward Team <rewards@trustpromo-mail.net>
+To: user@testdomain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--ABC123"
+
+----ABC123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been selected to receive a €100 voucher.
+To claim your reward, please visit the link below IMMEDIATELY:
+
+https://www.trustbank.com/login
+
+If you fail to claim now, your voucher will EXPIRE within 24 hours!
+For assistance, visit https://safe.help.center/privacy-policy.html
+
+Best regards,
+Reward Team
+
+----ABC123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You have been selected to receive a <strong>€100 voucher</strong>.</p>
+    <p>
+      <a href="http://192.0.2.45/claim?uid=123">
+        <img src="http://192.0.2.45/banner.jpg" alt="Your Reward Voucher" />
+      </a>
+    </p>
+    <p>Or access via <a href="http://192.0.2.45/claim?uid=123">https://www.trustbank.com/login</a> for fastest processing.</p>
+    <p>To claim your reward <strong>URGENTLY</strong>, <a href="http://192.0.2.45/claim?uid=123">click here</a> immediately!</p>
+    <p>If you do not verify your <em>account</em> and <em>password</em> NOW, your reward will <span style="color:red;">EXPIRE</span> within <strong>24 hours</strong>!</p>
+    <p>Visit <a href="http://192.0.2.45/claim?uid=123"></a> to redeem your voucher.</p>
+    <p>For more info, see our <a href="http://192.0.2.45/privacy">https://safe.help.center/privacy-policy.html</a> or <a href="http://203.0.113.5/support">here</a>.</p>
+    <p>Best regards,<br/>Reward Team</p>
+  </body>
+</html>
+
+----ABC123--

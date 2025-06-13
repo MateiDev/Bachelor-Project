@@ -1,0 +1,52 @@
+From security@paypal.com Sat Jul 20 14:25:54 2023
+Return-Path: <security@paypal.com>
+Delivered-To: user@domain.com
+Received: from mailserver.paypal.com (mailserver.paypal.com [203.0.113.45])
+    by mx.domain.com (Postfix) with ESMTP id ABC123DEF
+    for <user@domain.com>; Sat, 20 Jul 2023 14:25:54 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+    by mailserver.paypal.com (Postfix) with ESMTP id 12345ABCDEF
+    for <user@domain.com>; Sat, 20 Jul 2023 14:25:53 -0400 (EDT)
+Message-ID: <ABCDEF123456@mailserver.paypal.com>
+Date: Sat, 20 Jul 2023 14:25:54 -0400
+From: "PayPal Security" <security@paypal.com>
+To: user@domain.com
+Subject: Urgent: Account Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.123456789"
+
+------=_Part_0_123456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your PayPal account. You must verify your identity immediately to avoid permanent restrictions on your account.
+
+Please click the link below to verify your account access:
+
+https://www.paypal.com/security-check
+
+Failure to comply within 24 hours will result in account limitation.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_0_123456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Urgent Security Alert:</strong> We noticed suspicious sign-in attempts on your PayPal account. You must <em>immediately</em> verify your identity to prevent permanent account restriction.</p>
+    <p>To secure your account, please <a href="https://secure.verify.phishdomain.net/session?id=12345"></a></p>
+    <p>Alternatively, access via direct secure link:</p>
+    <p><a href="http://192.0.2.123/login">https://login.paypal.com.verify.user.phishdomain.net</a></p>
+    <p>For additional support, click <a href="http://help.paypal.com.support.service.phishdomain.org">here</a>.</p>
+    <p>Failure to act within 24 hours will result in account limitation.</p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.123456789--

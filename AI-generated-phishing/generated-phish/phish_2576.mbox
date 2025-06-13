@@ -1,0 +1,48 @@
+```mbox
+From phishing-alert@fakeaccounthelp.com Fri Oct 13 14:22:01 2023
+Return-Path: <phishing-alert@fakeaccounthelp.com>
+Delivered-To: victim@example.com
+Received: from suspicious-mail.com (10.0.0.1) by securemail.example.com with ESMTP id KJX123 for <victim@example.com>; Fri, 13 Oct 2023 14:22:01 +0000
+Received: by suspicious-mail.com with SMTP id 3451A23BC for <victim@example.com>; Fri, 13 Oct 2023 07:22:01 -0700
+From: Account Security <phishing-alert@fakeaccounthelp.com>
+To: victim@example.com
+Subject: Unusual Sign-In Detected - Verify Now!
+Date: Fri, 13 Oct 2023 14:22:01 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_8365321_2137826345.20231013142201"
+
+------=_Part_8365321_2137826345.20231013142201
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. To secure your account, please verify your identity by clicking the link below:
+
+http://login.example.com.secure.accountbtn.com/signinverify
+
+Failure to verify your account will result in suspension.
+
+Thank you,
+Account Security Team
+
+------=_Part_8365321_2137826345.20231013142201
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unusual sign-in</strong> activity on your account. To secure your account, please verify your identity by clicking the link below:</p>
+    <a href="http://192.168.1.100/verify">click here</a>
+    <p><strong>Failure to verify your account will result in suspension.</strong></p>
+    <p>For more information, visit our <a href="http://secure.example.com/help">help</a> or <a href="http://auth.support.example.com/privacy.policy">privacy policy</a>.</p>
+    <p>Thank you,<br>Account Security Team</p>
+    <p><a href="http://example.securelogin.com.reset/">Password expires today – reset immediately</a></p>
+    <a href="http://abc.def.ghi.jkl/malformedlinktext"></a>
+    <img src="http://fakeimg.accountverify.com/seal.png" alt=""/>
+  </body>
+</html>
+
+------=_Part_8365321_2137826345.20231013142201--
+```

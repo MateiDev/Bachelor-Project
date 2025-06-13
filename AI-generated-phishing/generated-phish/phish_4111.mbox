@@ -1,0 +1,46 @@
+From support-news@example.com Fri Oct 13 08:00:00 2023
+Message-ID: <202310130800.test@example.com>
+Date: Fri, 13 Oct 2023 08:00:00 +0000
+From: "Support Team" <support@example.com>
+Reply-To: "Customer Service" <service@randomdomain.xyz>
+To: victim@recipient.com
+Subject: URGENT: Verify your account to claim €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1697188800000"
+
+------=_Part_0_123456.1697188800000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We noticed suspicious activity on your account. Please verify your password urgently to claim your €50 gift voucher.
+
+Click here: http://203.0.113.5/verify
+Privacy policy: http://www.example.com/privacy.policy
+Help: http://help.example.com/contact
+
+Thank you,
+Support Team
+
+------=_Part_0_123456.1697188800000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Hello,</p>
+    <p style="color:red;"><strong>Urgent!</strong> Suspicious activity detected on your account.</p>
+    <p>You’re eligible for a <strong>€50 voucher</strong>—<a href="http://203.0.113.5/voucher?ref=abc123">claim here</a> now!</p>
+    <p><img src="http://192.0.2.10/images/reward.png" alt="Your Reward" /></p>
+    <p>
+      Privacy Policy: <a href="http://privacy.example.org/policy">www.example.com/privacy.policy</a><br/>
+      Help Center: <a href="http://help.example.com/contact.us">help.example.com/contact.us</a><br/>
+      Terms &amp; Conditions: <a href="http://click.here-link-off.modaldomain.com/terms">click here</a>
+    </p>
+    <p>Verify here: <a href="http://login.security-alert.com">http://login.yourbank.com</a></p>
+    <p>Best Regards,<br/>Support Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.1697188800000--

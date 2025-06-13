@@ -1,0 +1,39 @@
+```mbox
+From - Fri Oct 27 14:02:05 2023
+X-Account-Key: account2
+X-UIDL: UID2-1656266633
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00800000
+X-Mozilla-Keys:                                                                                 
+Return-path: <notify@rewards.com>
+Envelope-to: user@example.com
+Delivery-date: Fri, 27 Oct 2023 13:58:23 -0400
+Received: from [192.168.1.100] (helo=reward-notify.com)
+    by mbox.example.com with esmtp (Exim 4.89)
+    (envelope-from <notify@rewards.com>)
+    id 1h5G35-0002GHz3
+    for user@example.com; Fri, 27 Oct 2023 13:58:23 -0400
+From: "Rewards Team" <notify@rewards.com>
+Reply-To: urgent@secured-reward.com
+Subject: Urgent: Claim your €500 voucher now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_56789.123456789"
+
+------=_Part_1234_56789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<h2>Congratulations! You have been selected!</h2>
+<p>This is an <strong>urgent</strong> notice for you to claim your exclusive <strong>€500 voucher</strong>. Act now to take advantage of this limited-time offer.</p>
+<a href="http://192.168.1.101/secure/claim">Click here to claim your voucher</a>
+<p>Hurry, this offer expires soon!</p>
+<p align="center"><a href="http://192.168.1.101/secure/claim"><img src="http://someimagehost.site/voucher.jpg" alt="Claim Voucher" /></a></p>
+<p>For more information, visit our <a href="https://rewards.com/privacy-policy">privacy policy</a> or <a href="https://rewards.com/help">help page</a>.</p>
+<a href="http://malicious-link.com"></a>
+</body>
+</html>
+
+------=_Part_1234_56789.123456789--
+```

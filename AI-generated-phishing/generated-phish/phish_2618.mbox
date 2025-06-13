@@ -1,0 +1,44 @@
+```mbox
+From nobody Mon Oct 16 09:55:06 2023
+From: "Security Alert" <support@securityupdate.com>
+Date: Mon, 16 Oct 2023 09:55:06 +0000
+Subject: Urgent: Unusual Sign-In Activity Detected on Your Account
+To: "user@example.com" <user@example.com>
+Reply-To: support@anotherdomain.com
+Content-Type: multipart/alternative; boundary="0000boundary0000"
+
+--0000boundary0000
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've detected unusual sign-in activity on your account. As a precaution, we need you to verify your account immediately to secure it.
+
+Failure to confirm may result in temporary suspension of your account for your protection.
+
+To verify your account, please click on the secure link below:
+
+http://secure-update-login.com/verify
+
+Sincerely,
+Security Team
+
+--0000boundary0000
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We've detected <b>unusual sign-in activity</b> on your account. As a precaution, we need you to verify your account immediately to secure it.</p>
+    <p>Failure to confirm may result in <u>temporary suspension</u> of your account for your protection.</p>
+    <p>To verify your account, please click on the secure link below:</p>
+    <p><a href="http://secure-update-login.com/verify"><img src="cid:logo@company.com" alt="Verify Account"></a></p>
+    <p><a href="http://secure-update-login.com/verify">http://secure-update-login.com/verify</a></p>
+    <p><a href="http://verify.account.security-action.com"></a></p>
+    <p>Sincerely,</p>
+    <p>Security Team</p>
+  </body>
+</html>
+
+--0000boundary0000--
+```

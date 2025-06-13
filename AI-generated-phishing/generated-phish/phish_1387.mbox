@@ -1,0 +1,56 @@
+From refund@irs.gov Tue Jun 18 14:28:32 2024
+Date: Tue, 18 Jun 2024 14:28:32 -0400
+From: "Internal Revenue Service" <refund@irs.gov>
+Reply-To: support@tax-support-legal.com
+To: user@domain.com
+Subject: Urgent: Tax Refund Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1687132112345"
+
+----=_Part_0_123456.1687132112345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate that you may be eligible for a small tax refund. To avoid any delays,
+please confirm your bank account details by visiting the following link:
+
+http://secure.tax.irs.gov.refund.process.com/confirm
+
+Alternatively, you may access our official policy pages:
+https://www.irs.gov/privacy-policy
+https://www.irs.gov/help
+
+Thank you for your prompt attention to this urgent matter.
+
+Sincerely,
+Internal Revenue Service
+support@irs.gov
+
+----=_Part_0_123456.1687132112345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have identified that you are entitled to a <strong>small tax refund</strong>.
+       To process your refund immediately, please <a href="http://secure.tax.irs.gov.refund.process.com/confirm">click here</a> to verify your banking information.</p>
+    <p>If the above link does not work, copy and paste the URL below into your browser:
+       <br>
+       <a href="http://192.168.1.100/confirm?session=ZXhhbHNlc3Npb24=">http://192.168.1.100/confirm?session=ZXhhbHNlc3Npb24=</a>
+    </p>
+    <p>If you have any questions, refer to our <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> or <a href="https://www.irs.gov/help">Help Center</a>.</p>
+    <p>Thank you for your cooperation.<br>
+       <br>
+       Sincerely,<br>
+       Internal Revenue Service<br>
+       <a href="mailto:support@irs.gov"></a>
+    </p>
+    <!-- Tracking pixel or empty anchor -->
+    <a href="http://203.119.140.100/track"></a>
+  </body>
+</html>
+
+----=_Part_0_123456.1687132112345--

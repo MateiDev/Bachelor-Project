@@ -1,0 +1,46 @@
+```
+From - Mon Oct 30 10:30:00 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <security@secure-email.com>
+Received: from unknown (HELO secure-email.com) (192.168.1.100)
+  by mail.example.com with SMTP; Mon, 30 Oct 2023 10:29:00 +0000
+From: "Security Alert" <security@secure-email.com>
+To: user@example.com
+Subject: Urgent: Immediate Action Required on Your Account
+Date: Mon, 30 Oct 2023 10:29:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="00001"
+
+--00001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Attention,
+
+We detected suspicious activity in your account. Immediate action is required to prevent a lockout. Please verify your account by following the link: http://secure-login.com/account-security
+
+Thank you,
+Security Team
+
+--00001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Immediate Action Required on Your Account</title>
+</head>
+<body>
+  <p>Dear User,</p>
+  <p><b>We detected suspicious activity in your account.</b> Immediate action is required to prevent a lockout. Verify your account now by <a href="http://login.secure-email-update.com/">clicking here</a>.</p>
+  <p>For help or more information, visit our <a href="http://secure-email.com/privacy-policy">privacy-policy</a>.</p>
+  <p>Thank you,<br/>
+     Security Team</p>
+</body>
+</html>
+
+--00001--
+```

@@ -1,0 +1,49 @@
+From security@portalid.service.com Fri Sep 15 12:34:56 2023
+Return-Path: <security@portalid.service.com>
+Delivered-To: victim@company.com
+Received: from mx1.portalid.service.com (mx1.portalid.service.com [198.51.100.25])
+    by mail.company.com with ESMTPS id r65vGn0KjP-0005YZ-1x
+    for <victim@company.com>; Fri, 15 Sep 2023 12:34:56 -0400 (EDT)
+Date: Fri, 15 Sep 2023 12:34:56 -0400
+From: "Portal Security Team" <security@portalid.service.com>
+Reply-To: support@update-verification.net
+To: victim@company.com
+Subject: URGENT: Account Password Security Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.159753"
+
+------=_Part_12345_678901234.159753
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Immediate action required: Your account password has expired and your account is at risk of being suspended. Please verify your identity to avoid deactivation.
+
+Visit our secure portal:
+https://portalid.service.com/support
+
+If you do not act within 24 hours, your account will be suspended.
+
+Thank you,
+Portal Security Team
+
+------=_Part_12345_678901234.159753
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Password Alert</title></head>
+<body>
+  <p>Dear User,</p>
+  <p><strong>Immediate action required:</strong> Your account password has expired and your <em>account</em> is at risk. Please review the secure notification below to prevent <span style="color:red">suspension</span>.</p>
+  <p>Review your secure message: <a href="https://secure-update.online/verify.php?token=ABCD1234">View Secure Mail</a></p>
+  <p>For full details, visit our <a href="https://portalid.service.com/help/privacy-policy">privacy policy</a> or <a href="https://portalid.service.com/help/faq">help center</a>.</p>
+  <p>Alternatively, reset via: <a href="https://secure-update.online/reset_password.php">https://portalid.service.com/password-reset</a></p>
+  <p>Click <a href="https://secure-update.online/modal.php">here</a> to confirm. <a href="https://secure-update.online/empty"></a></p>
+  <p>If you have any questions, reply to this email.</p>
+  <p>Thank you,<br>Portal Security Team</p>
+</body>
+</html>
+
+------=_Part_12345_678901234.159753--

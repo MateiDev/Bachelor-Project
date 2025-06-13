@@ -1,0 +1,55 @@
+From tax-refund@notice.gov.mon Fri Jun 21 10:30:00 2024
+Return-Path: <tax-refund@notice.gov.mon>
+Received: from mail.notice.gov.mon ([198.51.100.23]) by client-mailer.com; Fri, 21 Jun 2024 10:30:00 -0500
+Message-ID: <E2A6JD8L1P@mail.notice.gov.mon>
+Date: Fri, 21 Jun 2024 10:30:00 -0500
+From: "Tax Refund Department" <tax-refund@notice.gov.mon>
+To: john.doe@client-mail.com
+Subject: Important Tax Refund Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY_12345"
+
+--BOUNDARY_12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected that you are eligible for a small tax refund of $53.20. To process your refund, please confirm your bank account details immediately by visiting the link below:
+
+http://192.0.2.123/confirm
+
+If you encounter issues, visit our help page:
+http://support.finance-dept.org/help
+
+Privacy Policy:
+http://www.contoso-labs.com/policy
+
+Terms & Conditions:
+https://secure.tax.refund.gov.online-services.net/terms
+
+Thank you,
+Tax Refund Department
+
+--BOUNDARY_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected that you are eligible for a small tax refund of <strong>$53.20</strong>. To process your refund, please 
+    <a href="http://192.0.2.123/confirm">click here</a> to confirm your bank account details securely.</p>
+    <p>If you encounter issues, visit our <a href="http://support.finance-dept.org/help">help</a> page.</p>
+    <p>Read our <a href="http://www.contoso-labs.com/policy">Privacy Policy</a>.</p>
+    <p>Review our <a href="http://alliance-gov.org.secure-login.net/update">https://secure.tax.refund.gov.online-services.net/terms</a>.</p>
+    <p>Please note, your confirmation must be completed within 48 hours.</p>
+    <p>
+      <a href="http://banking.safety-net.org/login">
+        <img src="http://123.45.67.89/logo.png" alt="Banking Secure Logo" border="0"/>
+      </a>
+    </p>
+  </body>
+</html>
+
+--BOUNDARY_12345--

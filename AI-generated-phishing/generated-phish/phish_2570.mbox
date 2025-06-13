@@ -1,0 +1,54 @@
+From - Fri Oct 13 10:22:08 2023
+X-Original-To: user@example.com
+Delivered-To: phishing-tester@example.com
+Received: by 2002:a05:6000:8b:: with SMTP id w11csp2398233wrd;
+        Fri, 13 Oct 2023 03:22:08 -0700 (PDT)
+X-Google-Smtp-Source: APXvYqxavdT6mT3Kn7+x5Ub2VIpODAiGlWc64F1MWY0uFcL9EC4BGdjRk1M6IjzAIcX9Qxx+
+X-Received: by 2002:a05:620a:303:: with SMTP id i3mr3894786ajt.15.1697199728573;
+        Fri, 13 Oct 2023 03:22:08 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1697199728; cv=none;
+        d=google.com; s=arc-20160816;
+        b=UlWn8t/zouWQJtBzJ9ujyYWTe5nW9CaLq1b5+jp6fbdUprvTGuTSvON7DYz=
+        v+2Zh5g1Fc6d1nGXI94v+r7RDAx2k+lDpPb/DYdMjsJU=
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of suspicious@example.com designates 192.0.0.1 as permitted sender) smtp.mailfrom=suspicious@example.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=example.org
+Return-Path: <suspicious@example.com>
+Received: from phishing-allowed ([192.0.0.1])
+        by mx.google.com with ESMTP id j184si6964757qtb.323.2023.10.13.03.22.08;
+        Fri, 13 Oct 2023 03:22:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of suspicious@example.com designates 192.0.0.1 as permitted sender) client-ip=192.0.0.1;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of suspicious@example.com designates 192.0.0.1 as permitted sender) smtp.mailfrom=suspicious@example.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=example.org
+Received: from localhost (localhost [127.0.0.1])
+        by phishing-allowed (Postfix) with ESMTP id 73A9441079;
+        Fri, 13 Oct 2023 03:22:08 -0700 (PDT)
+From: Alert Security <alerts@example.org>
+Reply-To: no-reply@alerts-support.com
+Date: Fri, 13 Oct 2023 03:22:08 -0700
+To: user@example.com
+Subject: Urgent: Action Required for Your Account
+Content-Type: text/html
+
+<html>
+<body>
+    <p>Dear valued user,</p>
+    <p>We have detected an <strong>unusual sign-in attempt</strong> on your account. To ensure the safety of your account, <strong>please verify your sign-in</strong> immediately!</p>
+
+    <p><a href="http://example.com.verify-authentication.notice.malicioussite.com">Click here to verify now</a></p>
+
+    <p>If we do not hear from you today, your account may be permanently locked.</p>
+
+    <p>Your <strong>password expires today</strong>. <strong>Reset it immediately</strong> to avoid losing access.</p>
+    
+    <p><a href="http://security.example.com.expired-access.malicioussite.com">Update your password here</a></p>
+    
+    <p>For more security tips, visit our <a href="http://example.org/help">Help center</a> or <a href="http://example.org/privacy-policy">read our Privacy Policy</a>.</p>
+
+    <p>Best,</p>
+    <p>The Security Team</p>
+
+    <img src="http://example.com/login-update-security.someothermalicioussite.com/security-update.png" alt="">
+</body>
+</html>

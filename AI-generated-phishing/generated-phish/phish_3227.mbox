@@ -1,0 +1,55 @@
+From gift@rewards.yourbank.com Sat Mar 23 13:45:27 2024
+Return-Path: <gift@rewards.yourbank.com>
+Received: from mail.yourbank.com (mail.yourbank.com [198.51.100.23])
+    by mx.example.com with ESMTP id ABC123DEF
+    for <user@example.com>; Sat, 23 Mar 2024 13:45:27 +0000 (UTC)
+From: "Rewards Team" <gift@rewards.yourbank.com>
+Reply-To: support@secure-update.yourbank.com
+To: user@example.com
+Subject: Urgent: Update your account password to claim €50 voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456789"
+
+----=_Part_0_123456.7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are excited to inform you that you're eligible for a €50 voucher as a reward for your loyalty.
+
+To secure your voucher, please update your account password by visiting:
+
+https://secure.yourbank.com/login
+
+If that link is unavailable, go to http://192.0.2.123/redeem
+
+If you do not update your password within 24 hours, your voucher will expire.
+
+Regards,
+Rewards Team
+
+----=_Part_0_123456.7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Update your account password to claim €50 voucher</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We are pleased to inform you that <strong>you're eligible for a &euro;50 voucher</strong> as a reward for your loyalty.</p>
+<p>
+  <a href="http://192.0.2.123/redeem">
+    <img src="http://images.verify.bank.com/voucher.png" alt="Claim Your Voucher">
+  </a>
+</p>
+<p>Alternatively, please <a href="http://malicious.phishingsite.com/login">https://secure.yourbank.com/login</a> to update your account password and claim your reward.</p>
+<p>If the link above does not work, <a href="https://www.example.com/privacy.policy.html">privacy policy</a> | <a href="https://help.www.example.com">help</a></p>
+<p>Or simply <a href="http://modal-gift-claim.com/claim"></a> <a href="http://modal-gift-claim.com/claim">here</a> to secure your voucher now.</p>
+<p>Best regards,<br>Rewards Team</p>
+</body>
+</html>
+
+----=_Part_0_123456.7890123456789--

@@ -1,0 +1,56 @@
+```
+From - Sat Oct 14 12:00:00 2023
+Return-Path: <dispatch@delivery-notice.com>
+Received: from unknown (HELO server.delivery-notice.com) (192.168.1.100)
+    by mail.example.com with ESMTPA; Sat, 14 Oct 2023 12:00:00 +0000
+Date: Sat, 14 Oct 2023 12:00:00 +0000
+From: "DHL Support" <support@dhl-international.net>
+Reply-To: <helpdesk@dhl-urgent.com>
+Subject: Urgent: Parcel Delivery Notification - Action Required
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001"
+
+------=_Part_000_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have attempted to deliver your parcel, but unfortunately, it was unsuccessful. It is urgent** that you confirm your details and release your parcel for delivery. Failure to do so might result in returning the parcel to the sender.
+
+Please click on the link below to confirm your details and arrange a redelivery:
+
+Confirm your parcel at: http://192.0.2.1/track
+
+Thank you,
+DHL Support Team
+
+------=_Part_000_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Parcel Delivery Notification - Urgent Action Required</title>
+</head>
+<body>
+    <p>Dear Customer,</p>
+
+    <p>We have attempted to deliver your parcel, but unfortunately, it was unsuccessful. <strong>Urgent action</strong> is required to avoid return of the parcel to sender.</p>
+
+    <p>Please <a href="http://192.0.2.1/track">click here to confirm your details</a> and arrange a redelivery.</p>
+
+    <p>We value your prompt attention to this urgent matter.</p>
+
+    <p>Thank you,<br>
+    DHL Support Team</p>
+
+    <a href="http://192.0.2.1/track"><img src="http://assets.dhl.com/logo.png" alt="DHL Logo"/></a>
+</body>
+</html>
+
+------=_Part_000_001--
+```

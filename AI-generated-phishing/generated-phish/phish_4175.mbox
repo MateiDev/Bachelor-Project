@@ -1,0 +1,45 @@
+From support@paypal.com Mon Jun  3 15:46:30 2024
+Return-Path: <support@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [198.51.100.25])
+    by smtp.example.org (Postfix) with ESMTP id 1A2B3C4D5E
+    for <user@example.com>; Mon,  3 Jun 2024 15:46:29 -0400 (EDT)
+Date: Mon, 03 Jun 2024 15:46:29 -0400
+From: PayPal Service <support@paypal.com>
+Reply-To: security-alert@paypal.verification-services.com
+To: user@example.com
+Subject: Urgent: Your PayPal account will be suspended
+Message-ID: <20240603154629.abc123@mail.paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1589"
+
+------=_Part_123456_789012345.1589
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account. For your security, we will suspend your account in 24 hours unless you verify your identity immediately.
+
+Please visit http://103.45.67.89/verify to secure your account.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_123456_789012345.1589
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>unauthorized login attempts</strong> on your PayPal account. To avoid <span style="color:red;">account suspension</span>, you must verify your information <strong>immediately</strong>.</p>
+<p>Please <a href="http://103.45.67.89/verify">click here</a> to secure your account now.</p>
+<p>If the link above does not work, copy and paste the following URL into your browser:</p>
+<p><a href="http://login.secure.paypal.security-alert.verify.com">https://www.paypal.com/account/update</a></p>
+<p><a href="http://192.0.2.123/steal"><img src="http://192.0.2.123/images/logo.png" alt="PayPal Logo" style="border:0;"></a></p>
+<p><a href="https://www.paypal.com/privacy-policy">Privacy Policy</a> | <a href="http://45.33.32.156/tracker"></a></p>
+<p>Thank you,<br>PayPal Security Team</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.1589--

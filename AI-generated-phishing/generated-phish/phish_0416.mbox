@@ -1,0 +1,31 @@
+```
+From fake@deliveryserviceinfo.com Fri Oct 22 12:34:45 2023
+Return-Path: <fake@deliveryserviceinfo.com>
+Delivered-To: victim@example.com
+Received: from suspiciousdomain.com (192.0.2.1) by mail.example.com with SMTP; Fri, 22 Oct 2023 12:34:45 -0700
+Subject: Urgent: Immediate Action Required for Your Delivery Account
+From: "Customer Support" <support@deliveryserviceinfo.com>
+To: victim@example.com
+Date: Fri, 22 Oct 2023 12:34:45 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head></head>
+<body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package today, but we encountered an issue. Immediate action is required to ensure your package is not returned.</p>
+    <p>Please <a href="http://192.0.2.2/release" style="color: red;">click here</a> to confirm your delivery details and release your package. Failure to act will result in a return of the package to the sender.</p>
+    <p>Alternatively, visit our customer service page: <a href="http://www.suspiciousdomain.com/help">www.suspiciousdomain.com/help</a> for more information</p>
+    <p>For privacy policy, visit: <a href="http://www.suspiciousdomain.com/privacy-policy">www.suspiciousdomain.com/privacy-policy</a></p>
+    <p style="color: red;">Urgent attention is needed!</p>
+    <p>Kind regards,</p>
+    <table>
+        <tr>
+            <td><a href="http://192.0.2.2/contact"><img src="http://192.0.2.2/images/contact.png" alt="Contact Us"></a></td>
+            <td><a href="http://192.0.2.2/support"><img src="http://192.0.2.2/images/support.png" alt="Support"></a></td>
+        </tr>
+    </table>
+</body>
+</html>
+```

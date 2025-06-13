@@ -1,0 +1,46 @@
+From support@paypal.com Wed Aug 04 16:02:38 2021
+Return-Path: <support@paypal.com>
+Delivered-To: victim@domain.com
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.1])
+    by victimdomain.com (Postfix) with ESMTPS id ABC12345
+    for <victim@domain.com>; Wed,  4 Aug 2021 16:02:38 +0000 (UTC)
+From: PayPal Support <support@paypal.com>
+To: victim@domain.com
+Subject: Urgent: Your PayPal account has been limited
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT NOTICE: Your PayPal account has been limited due to suspicious activity.
+Immediate action is required to avoid permanent suspension.  
+Please visit the following link to verify your account:
+http://45.77.123.100/verify?session=abc123
+You must complete this within 24 hours, or your account will be locked.
+For more information, see our Privacy Policy:
+https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+Or click here: http://45.77.123.100/verify
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT NOTICE:</strong> Your PayPal account has been <span style="color:red;">limited</span> due to suspicious activity.</p>
+    <p>Immediate action is required to avoid permanent suspension.</p>
+    <p>Please <a href="http://45.77.123.100/verify?session=abc123">click here</a> to verify your account now.</p>
+    <p>You can also secure your account by clicking <a href="http://192.168.0.101/login">here</a>.</p>
+    <p>Alternatively, use the following secure link:</p>
+    <ul>
+      <li><a href="https://secure.account-login.bank.com/phishing.login/authorize?token=789">Verify My Account</a></li>
+      <li><a href="http://45.77.123.100/privacy">Privacy Center</a></li>
+    </ul>
+    <p>Need help? Visit our <a href="https://www.paypal.com/us/smarthelp/home">Help Center</a> or review the <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full">Privacy Policy</a>.</p>
+    <p><a href="http://45.77.123.100/verify"><img src="https://i.imgur.com/A1B2C3D.png" alt="Verify Now" border="0"/></a></p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

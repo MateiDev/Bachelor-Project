@@ -1,0 +1,51 @@
+```
+From somecompany@example.com Thu Oct 12 14:21:05 2023
+Return-Path: <somecompany@example.com>
+Received: from smtp.somecompany.com (smtp.somecompany.com [192.0.2.1])
+	by yourserver.com (8.14.7/8.14.7) with ESMTP id HAAS8k3n017524
+	for <youremail@example.com>; Thu, 12 Oct 2023 14:21:05 -0400
+Received: from [45.33.32.156] (helo=exampledomain.com)
+	by smtp.somecompany.com with esmtp (Exim 4.95)
+	(envelope-from <somecompany@example.com>)
+	id 1gHAAS-0003ds-2R
+	for youremail@example.com; Thu, 12 Oct 2023 14:21:05 -0400
+Date: Thu, 12 Oct 2023 14:21:05 -0400
+From: "Customer Support" <somecompany@example.com>
+To: youremail@example.com
+Message-ID: <21220f19675d2b76d63d7714d22f5a96@exampledomain.com>
+Subject: Urgent: Confirm Your €500 Gift Card Now - Account Limited
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="===============3203293389920874107=="
+
+--===============3203293389920874107==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We are excited to inform you that your account is eligible for a €500 gift voucher. To avoid service interruption, please verify your account immediately by visiting the link below:
+
+http://example.com-giftcard-rewards.exampledomain.info
+
+Thank you for being a loyal customer!
+
+Best regards,
+Customer Support Team
+
+--===============3203293389920874107==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We are excited to inform you that your account is eligible for a <b>€500 gift voucher</b>. To avoid service interruption, please verify your account immediately by clicking the button below:</p>
+    <p><a href="http://93.184.216.34/verify" target="_blank"><img src="https://45.33.32.156/giftcard" alt="Verify Now" /></a></p>
+    <p>Thank you for being a loyal customer!</p>
+    <p>Best regards,<br />Customer Support Team</p>
+  </body>
+</html>
+
+--===============3203293389920874107==--
+```

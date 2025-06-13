@@ -1,0 +1,44 @@
+```mbox
+From fraudalert@taxrefunds.gov Thu Oct 12 10:43:22 2023
+Return-Path: <fraudalert@taxrefunds.gov>
+Received: from [192.168.1.100] (unknown [192.168.1.100])
+    by mail.example.com (Postfix) with ESMTP id C3E8A1E3845;
+    Thu, 12 Oct 2023 10:43:22 +0000 (UTC)
+Date: Thu, 12 Oct 2023 10:43:20 +0000
+From: "Federal Tax Refund" <refundalert@tax-update.org>
+Reply-To: support@help-taxupdate.com
+To: victim@example.com
+Subject: Urgent: Verify Your Tax Refund Immediately!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000acce0b05e0d0c9d4"
+
+--000000000000acce0b05e0d0c9d4
+Content-Type: text/plain; charset="UTF-8"
+
+Attention Taxpayer,
+
+We have processed your recent tax filing and determined that you are eligible for a refund. Please confirm your banking details urgently to avoid delays in receiving your refund.
+
+To verify and receive your refund, please click here: http://192.0.2.146/update-confirm
+
+Thank you for your prompt attention.
+
+Sincerely,
+Federal Tax Refund Service
+
+--000000000000acce0b05e0d0c9d4
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Attention Taxpayer,</p>
+    <p>We have processed your recent tax filing and determined that you are eligible for a refund. Please confirm your banking details urgently to avoid delays in receiving your refund.</p>
+    <p>To verify and receive your refund, please click <a href="http://192.0.2.146/update-confirm">here</a>.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>Federal Tax Refund Service</p>
+    <p>Ensure your privacy policy and help options remain up to date: <a href="http://www.irs.gov/privacy-policy">Privacy Policy</a> | <a href="http://www.irs.gov/help">Help</a></p>
+  </body>
+</html>
+
+--000000000000acce0b05e0d0c9d4--
+```

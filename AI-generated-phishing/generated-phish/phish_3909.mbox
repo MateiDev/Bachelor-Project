@@ -1,0 +1,48 @@
+From security@portal-secure.encryption.com Wed Mar 20 16:40:00 2024
+Subject: Urgent Account Password Alert – Secure Portal Verification Required
+From: "SecureMail Alert" <security@portal-secure.encryption.com>
+Reply-To: admin@notify.bank-portal.support-login-update.org
+To: user@victim.com
+Date: Wed, 20 Mar 2024 16:40:00 +0000
+Message-ID: <20240320164000.12345@portal-secure.encryption.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity regarding your account password. Immediate action is required to avoid deactivation.
+
+Please copy and paste the URL below into your browser to verify and secure your credentials:
+
+https://www.bank.com/secure-login
+
+Alternatively:
+http://192.168.100.200/auth
+
+Your prompt response is mandatory.
+
+--ABC123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Password Alert</title></head>
+<body>
+<h2 style="color:red;">Immediate Action Required</h2>
+<p>We have detected suspicious activity on your account. To prevent deactivation, please <a href="http://192.168.100.200/secure?user=abc">verify your credentials</a> now.</p>
+<p>Alternatively, click the button below to view your encrypted message:</p>
+<a href="http://secure.login.update.bank-portal.verification.com/message?id=12345">
+  <img src="http://203.0.113.10/images/view-message.png" alt="View Secure Mail" border="0">
+</a>
+<p>If the button above does not work, copy and paste the following link into your browser:</p>
+<p><a href="http://203.0.113.10/decrypt?token=abcdef">https://www.bank.com/encrypted-mail</a></p>
+<p>Failure to comply within 24 hours will result in permanent suspension.</p>
+<a href="http://tracking.security-portal.verify.login.com/open"></a>
+</body>
+</html>
+
+--ABC123--

@@ -1,0 +1,42 @@
+From no-reply@paypal.com Mon Jul 17 13:55:00 2023
+Subject: Urgent: PayPal Account Password Verification Required
+From: PayPal <no-reply@paypal.com>
+Reply-To: support@secure-paypal-verification.com
+To: user@victim.com
+Date: Mon, 17 Jul 2023 13:55:00 -0400
+Message-ID: <20230717135500.12345@paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.123456789"
+
+------=_Part_0_123456.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal user,
+
+We have detected suspicious activity on your account and require you to verify your password immediately to avoid account suspension. Please visit the link below to confirm your credentials:
+
+https://www.paypal.com/login
+
+Failure to complete this verification within 24 hours will result in temporary account hold.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_0_123456.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear PayPal user,</p>
+    <p style="color:red;">Security Alert: We noticed unusual login attempts on your account. Your access <strong>will be suspended</strong> <em>if you do not verify immediately</em>.</p>
+    <p>Please <a href="http://secure.verify-paypal.login-account.com/verify">https://www.paypal.com/login</a> to confirm your credentials.</p>
+    <p>If the link above does not work, copy and paste the following URL into your browser:</p>
+    <p><a href="http://secure.verify-paypal.login-account.com/verify"></a></p>
+    <br>
+    <p>Thank you,<br>PayPal Account Protection</p>
+  </body>
+</html>
+
+------=_Part_0_123456.123456789--

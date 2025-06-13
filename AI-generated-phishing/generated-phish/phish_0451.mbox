@@ -1,0 +1,47 @@
+```
+From nobody Mon Oct 23 10:34:55 2023
+Return-Path: <alert@securebanking.com>
+Date: Mon, 23 Oct 2023 10:34:55 +0000
+From: Secure Banking Alerts <alert@securebanking.com>
+Reply-To: no-reply@securebanking.com
+Subject: Important: Security Update Required
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_789012345.678901234"
+
+------=_Part_123456_789012345.678901234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+For your security, we require you to update your account information.
+Please visit the security portal via the link below:
+
+http://securebanking.com/security-update
+
+Thank you,
+Secure Bank
+
+------=_Part_123456_789012345.678901234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>For your security, we require you to update your account information.
+    Please click the button below to visit the secure portal:</p>
+    <a href="http://update.securebanking.alert.verify.example.net/security-update">
+      <img src="http://securebanking.com/update-button.png" alt="Update Now" /></a>
+    <p><a href="http://securebanking.com/security-update"></a></p>
+    <p>If you do not verify your information, your access may be restricted.</p>
+    <p>Thank you,<br/>Secure Bank</p>
+    <p>Visit our website: <a href="http://www.securebanking.com.verify-update.com">www.securebanking.com</a></p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.678901234--
+```

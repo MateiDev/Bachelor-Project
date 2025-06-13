@@ -1,0 +1,52 @@
+From support@taxoffice.gov Thu Jul  1 10:15:00 2021
+Return-Path: <support@taxoffice.gov>
+From: Tax Department <support@taxoffice.gov>
+Reply-To: Customer Care <helpdesk@example.org>
+To: user@example.net
+Subject: Urgent: Tax refund awaiting confirmation
+Date: Thu, 1 Jul 2021 10:15:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We regret to inform you that your tax refund of $128.47 is pending verification.
+Immediate action is required to avoid cancellation of your deposit.
+Please confirm your bank details:
+
+http://192.0.2.45/confirm
+
+Failure to respond within 24 hours will result in freezing your refund.
+If you need assistance, visit our help center: http://taxoffice.gov/help
+
+Best regards,
+Tax Office Support
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Confirm Your Account Password</title>
+</head>
+<body>
+<p>Dear <b>Taxpayer</b>,</p>
+<p><span style="color:red;">ALERT:</span> Your tax refund of <b>$128.47</b> is still <i>pending</i> verification!</p>
+<p>To <strong>avoid cancellation</strong> of your deposit, you must <em>confirm</em> your bank account details <a href="http://198.51.100.23/confirm">here</a> immediately.</p>
+<p>If you prefer, you can also click the link below:</p>
+<p><a href="http://198.51.100.23/confirm"></a></p>
+<p><a href="http://192.0.2.45/login"><img src="http://192.0.2.45/logo.png" alt="Confirm Now"></a></p>
+<p>For more information, please review our <a href="http://taxoffice.gov/privacy-policy">privacy-policy</a> or <a href="http://taxoffice.gov/help">help</a>.</p>
+<p>Alternatively, you can visit our website at <a href="http://198.51.100.23">http://www.tax-refund.gov</a>.</p>
+<p>Thank you for your prompt attention.</p>
+<br>
+<p>Sincerely,<br>Tax Office Support Team</p>
+</body>
+</html>
+
+--BOUNDARY123--

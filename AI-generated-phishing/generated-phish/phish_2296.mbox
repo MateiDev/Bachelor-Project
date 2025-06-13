@@ -1,0 +1,28 @@
+From service@paypal.com Wed Jul 12 14:22:30 2023
+Date: Wed, 12 Jul 2023 14:22:30 -0700
+From: PayPal Security <service@paypal.com>
+Reply-To: support@verify.secure-login.phishingsite.net
+To: victim@example.com
+Subject: URGENT: Your PayPal Account Will Be Suspended
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>ALERT:</strong> We detected <em>unusual activity</em> on your account. Your account is at <strong>RISK</strong> and will be <strong>SUSPENDED</strong> within <strong>24 HOURS</strong> if you do not verify your information.</p>
+    <p>Please <a href="http://198.51.100.45/verify">https://www.paypal.com/us/signin</a> immediately to secure your account.</p>
+    <p>You may also click the button below:</p>
+    <p>
+      <a href="http://secure.verify.user-login.info/">
+        <img src="http://storage.phishingsite.net/images/secure_button.png" alt="Secure Login">
+      </a>
+    </p>
+    <p>Failure to respond will lead to permanent account restrictions. Act <strong>NOW</strong>!</p>
+    <p><a href="http://login.paypal.security.update-center.trustpayee.com/confirm-identity"></a></p>
+    <p>For more info, visit our help center:<br>
+      https://www.paypal.com/us/smarthelp/home<br>
+      http://help.paypal.com/phishing-awareness
+    </p>
+  </body>
+</html>

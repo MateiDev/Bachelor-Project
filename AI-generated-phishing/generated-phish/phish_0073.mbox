@@ -1,0 +1,44 @@
+```
+From MAILER-DAEMON Thu Sep 14 08:49:07 2023
+Return-Path: <spoofed-security@important-notice.com>
+Delivered-To: victim@example.com
+Received: by 10.0.0.1 with SMTP id abcdefg123456;
+        Thu, 14 Sep 2023 08:49:07 -0700 (PDT)
+Date: Thu, 14 Sep 2023 08:49:07 -0700 (PDT)
+From: "Security Alert" <alert@secure-portal.com>
+Subject: Important: Secure Your Account Now
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000abcd"
+
+--000000000000abcd
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+Our security system has detected unusual activity in your account. To protect your personal information and secure your account, please update your credentials immediately using the secure link below:
+
+<a href="http://182.0.191.255/security-update" style="font-size:0px;">  </a>
+
+Thank you for your attention to this matter.
+
+Sincerely,
+The Security Team
+
+--000000000000abcd
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head></head>
+<body>
+<p>Dear User,</p>
+<p>Our security system has detected unusual activity in your account. To protect your personal information and secure your account, please update your credentials immediately using the secure link below:</p>
+<a href="http://182.0.191.255/security-update"><img src="https://i.imgur.com/fakebutton.jpg" alt="Secure Portal Login"></a>
+<p>Click here to update your details: <a href="http://182.0.191.255/security-update">https://secure-portal.com/update</a></p>
+<p><a href="http://example.portal.security-update.com"> </a></p>
+<p>Thank you for your attention to this matter.</p>
+<p>Sincerely,<br>The Security Team</p>
+</body>
+</html>
+
+--000000000000abcd--
+```

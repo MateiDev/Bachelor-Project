@@ -1,0 +1,71 @@
+From phisher@malicious.com Wed Apr 10 10:15:00 2024
+From: "Secure Portal Support" <support@secure-portal.com>
+Reply-To: abuse@modal-domain.net
+To: user123@victim.com
+Subject: URGENT: Account Password Validation Required
+Date: Wed, 10 Apr 2024 10:15:00 -0400
+Message-ID: <20240410101500@secure-portal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your account. Immediate action is required to avoid suspension.
+
+Please verify your credentials now:
+- click here: https://secure.portal.example.com/verify
+
+For assistance, visit our Help Center:
+https://secure.portal.example.com/help
+
+Failure to verify within 24 hours will result in lock-out.
+
+Thank you,
+Secure Portal Support
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Account Password Alert</title>
+</head>
+<body>
+  <p>Dear Valued User,</p>
+  <p style="color:red;font-weight:bold;">
+     URGENT: We noticed suspicious login attempts on your account.<br>
+     Your password may have been compromised. Immediate verification is required to prevent suspension.
+  </p>
+  <p>
+    To secure your account, <a href="https://modal-domain.net/secure/confirm?uid=12345" style="font-size:16px;">click here</a> to verify your password.
+  </p>
+  <p>
+    Or copy and paste the following link into your browser:<br>
+    <a href="https://validate.secure.portal.verify.example.com/auth?id=abcde">
+      https://secure.portal.example.com/validate
+    </a>
+  </p>
+  <p>
+    If you need assistance, please visit our 
+    <a href="https://secure.portal.example.com/privacy-policy">Privacy Policy</a> or 
+    <a href="https://secure.portal.example.com/help">Help</a>.
+  </p>
+  <p>
+    <a href="https://images.portaldomain.com/security?session=xyz">
+      <img src="https://cdn.portaldomain.com/images/lock.png" alt="Secure your account" width="200" height="80">
+    </a>
+  </p>
+  <p>
+    Best regards,<br>
+    Secure Portal Security Team
+  </p>
+  <a href="https://malicious.phish.com"></a>
+</body>
+</html>
+
+--boundary123--

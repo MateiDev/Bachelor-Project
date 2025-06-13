@@ -1,0 +1,52 @@
+From tax-dept@service.gov Fri Jul 12 09:12:45 2024
+Return-Path: <tax-dept@service.gov>
+From: "Tax Department Notification" <no-reply@tax-service.gov>
+Reply-To: <support@taxhelp-security.net>
+To: "Valued Customer" <user@bankcustomer.com>
+Subject: URGENT: Immediate Action Required – Tax Refund Waiting
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.0000000000"
+
+------=_Part_123456_789012345.0000000000
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Our records indicate you are due for a small tax refund of USD 48.72. Immediate verification of your bank account is required to release these funds. Failure to respond within 48 hours will result in cancellation of your refund.
+
+Please follow the link below to confirm your details:
+
+http://192.168.1.100/verify
+
+Thank you,
+Tax Department
+
+------=_Part_123456_789012345.0000000000
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; line-height: 1.5;">
+  <h2 style="color: #d9534f;">Urgent: Tax Refund Pending!</h2>
+  <p>Dear Valued Customer,</p>
+  <p>Our system shows you have an unclaimed tax refund of <strong>$48.72</strong>. 
+     <span style="color: #d9534f; font-weight: bold;">You must confirm your bank information within 48 hours</span> or 
+     your refund will be forfeited.</p>
+  <p>To verify your refund, please <a href="http://45.76.23.1/confirm" style="background-color: #0275d8; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 4px;">click here</a>.</p>
+  <p>Alternatively, you can use the direct link: 
+     <a href="http://203.0.113.5/bank-update">https://www.tax-refund.gov</a>
+     </p>
+  <p><a href="http://192.168.1.100/verify"></a></p>
+  <p>Please note our <a href="https://www.official.gov-service.com/privacy_policy">Privacy Policy</a> and 
+     <a href="https://support.official.gov-service.com/help">Help Center</a>.</p>
+  <p>If you have any questions, contact our support team immediately.</p>
+  <p>
+    <a href="http://45.76.23.1/confirm">
+      <img src="http://45.76.23.1/logo.png" alt="" style="border: none; width: 150px; height: auto;">
+    </a>
+  </p>
+  <p>Failure to act now may delay your refund.</p>
+  <p>Sincerely,<br>The Tax Department</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.0000000000--

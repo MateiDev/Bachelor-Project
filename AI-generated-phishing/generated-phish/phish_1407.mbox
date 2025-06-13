@@ -1,0 +1,31 @@
+From no-reply@dhl-express.com Fri Jun 28 14:22:05 2024
+Return-Path: <no-reply@dhl-express.com>
+Delivered-To: user@example.com
+Date: Fri, 28 Jun 2024 14:22:05 +0000
+From: "DHL Express Delivery" <no-reply@dhl-express.com>
+Reply-To: support@dhl-care.org
+To: user@example.com
+Subject: Urgent: Delivery Notification - Account Password Update Required
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We regret to inform you that your recent shipment (ID: 12345678) is currently <strong>overdue</strong> due to an incomplete <em>account password</em> verification. This requires your <strong>urgent</strong> action to avoid a $15 storage fee and potential return to sender.</p>
+
+<p>Please verify your account information immediately by <a href="http://203.0.113.45/verify?parcel=12345678">click here</a> to complete the process.</p>
+
+<p>You may also track your package by visiting <a href="http://192.0.2.10/track?ref=12345678">https://dhl.delivery.express.com/track</a>.</p>
+
+<p>For more details, review our <a href="https://www.dhl.com/privacy-policy">privacy policy</a>.</p>
+
+<p>This is your <strong>last chance</strong> to <strong>update</strong> your <strong>account</strong> before your package is returned. Failure to comply <strong>within 24 hours</strong> will result in a penalty.</p>
+
+<p>Thank you for your prompt attention.</p>
+
+<p>Best regards,<br>
+DHL Express Support Team</p>
+</body>
+</html>

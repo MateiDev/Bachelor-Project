@@ -1,0 +1,44 @@
+From service@paypal.com Thu Jul 1 12:34:56 2024
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [198.51.100.25]) by mx.clientmail.com with ESMTP id 1H23456X for <user123@clientmail.com>; Thu, 1 Jul 2024 12:34:56 -0400
+Date: Thu, 1 Jul 2024 12:34:56 -0400
+From: PayPal <service@paypal.com>
+To: user123@clientmail.com
+Subject: Urgent: Verify Your Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456"
+
+------=_Part_0_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We noticed suspicious activity on your PayPal account. To ensure your security, you must verify your password immediately. Failure to do so will result in account suspension.
+
+Please visit https://www.paypal.com/security -> http://198.51.100.99/security-check  
+Or click here: http://209.141.38.71/login
+
+View our Privacy Policy: http://203.0.113.5/privacy
+
+Thank you,  
+PayPal Security Team
+
+------=_Part_0_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We noticed suspicious activity on your <strong>PayPal</strong> account. To ensure your security, you must verify your password <em>immediately</em>. Failure to do so will result in <span style="color:red;">account suspension</span>.</p>
+<p>Please <a href="http://209.141.38.71/login">click here</a> to secure your account.</p>
+<p>Alternatively, you can <a href="https://secure-login.paypal.com.my-login.info/verify">here</a> verify your credentials on our secure portal.</p>
+<p>If you have questions, visit <a href="http://198.51.100.99/security-check">https://www.paypal.com/security</a> or view our <a href="http://203.0.113.5/privacy">Privacy Policy</a>.</p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+------=_Part_0_123456--

@@ -1,0 +1,50 @@
+From no-reply@dhl-delivery.com Wed Jun 28 14:22:33 2024
+Return-Path: <no-reply@dhl-delivery.com>
+Delivered-To: victim@example.com
+Received: from [198.51.100.23] by mail.receiver.com with SMTP id abc123; Wed, 28 Jun 2024 14:22:33 +0200
+Date: Wed, 28 Jun 2024 14:22:33 +0200
+Subject: URGENT: Action Required to Release Your Package – Account Verification Needed
+From: "DHL Delivery" <no-reply@dhl-delivery.com>
+Reply-To: "Customer Support" <support@customers-dhlservice.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent shipment could not be delivered due to an unpaid fee. We have your package on hold at customs and immediate action is required. Failure to verify your account password and pay the release fee within 24 hours will result in return to sender or disposal.
+
+To verify and complete the delivery, please click the link below:
+http://198.51.100.23/unlock
+
+If you encounter issues, please visit our secure help page:
+https://www.dhl.com/help
+
+Thank you for your prompt attention.
+
+DHL Delivery Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial, sans-serif; color:#333;">
+    <p>Dear Customer,</p>
+    <p><strong style="color:#a00;">URGENT:</strong> Your recent shipment could not be delivered due to an unpaid fee. We have your package on hold at customs and immediate action is required. Failure to verify your <em>account</em> password and pay the release fee within 24 hours will result in return to sender or disposal.</p>
+    <p style="text-align:center;">
+      <a href="http://198.51.100.23/download/invoice">
+        <img src="http://198.51.100.23/images/dhl_logo.png" alt="DHL Delivery" style="border:none;" />
+      </a>
+    </p>
+    <p>Please <a href="http://198.51.100.23/unlock">click here</a> to verify your account and pay the fee now.</p>
+    <p>Alternatively, visit our <a href="https://www.dhl.com/help">Help Center</a> or view our <a href="https://www.dhl.com/privacy">Privacy Policy</a>.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>DHL Delivery Team</p>
+  </body>
+</html>
+
+--boundary123--

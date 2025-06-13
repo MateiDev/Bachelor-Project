@@ -1,0 +1,45 @@
+From notifications@dhl.com Fri Jun 15 08:30:00 2024
+Return-Path: <notifications@dhl.com>
+From: "DHL Shipping" <notifications@dhl.com>
+Reply-To: support@dhl-delivery-update.com
+To: user@domain.com
+Subject: Urgent: Delivery Notification – Account Verification Needed
+Date: Fri, 15 Jun 2024 08:30:00 -0400
+Message-ID: <20240615123456.abcdef@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01D73F42.4A2BD520"
+
+------=_NextPart_000_01D73F42.4A2BD520
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but could not complete the delivery due to missing account verification. Please verify your account to release the package.
+
+Verify now: https://dhl-delivery-track.com/verify
+
+If you did not initiate this request, you may ignore this message.
+
+Best regards,
+DHL Shipping Team
+
+------=_NextPart_000_01D73F42.4A2BD520
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notice – Delivery Issue</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We encountered an issue while delivering your shipment. To release your package, please <a href="http://secure-dhl-verification.com/confirm?token=abc123">here</a>.</p>
+<p><a href="http://malicious-server.com/download"><img src="http://cdn.dhl.com/images/DHL-Logo.png" alt="DHL Logo" /></a></p>
+<p>Track your delivery: <a href="http://tracker.attacker.net/">https://www.dhl.com/en/express/tracking.html</a></p>
+<p>Need help? <a href="http://helpdesk.attacker.org"></a></p>
+<p>Please complete this within 24 hours to avoid return of your package.</p>
+</body>
+</html>
+
+------=_NextPart_000_01D73F42.4A2BD520--

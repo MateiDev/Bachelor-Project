@@ -1,0 +1,38 @@
+From - Thu Oct 26 16:33:37 2023
+X-Account: account
+X-UIDL: 12345
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Return-path: <fake-rewards@alerts.fakebank.com>
+Envelope-to: victim@realuser.com
+Delivery-date: Thu, 26 Oct 2023 16:33:37 +0000
+Received: from unknown (HELO fakebank.com) (192.168.0.1)
+    by mail.realserver.com with SMTP; Thu, 26 Oct 2023 16:33:37 +0000
+Received: from unknown (HELO localdomain) by fakebank.com with SMTP; Thu, 26 Oct 2023 09:33:18 -0700
+Date: Thu, 26 Oct 2023 09:33:18 -0700
+From: "FakeBank Alerts" <fake-rewards@alerts.fakebank.com>
+Subject: Urgent: Claim Your €500 Reward Voucher Now!
+To: victim@realuser.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+
+<p>We are excited to inform you that you have been <strong>randomly selected</strong> to receive an <strong>exclusive €500 voucher</strong> from FakeBank as a token of appreciation. <em>This offer expires soon!</em></p>
+
+<p>To claim your voucher, please <a href="http://192.168.0.1.frauddomain.ru/redeem">click here</a> immediately to log into your account and follow the instructions.</p>
+
+<p><strong>Warning!</strong> Failure to redeem your gift card within 24 hours will result in it becoming invalid and reallocated.</p>
+
+<p>For more information about your account, visit our <a href="http://trustedbank.com/help">help section</a>.</p>
+
+<p>If you have any questions, please do not hesitate to contact our support team <a href="http://trustedbank.com/contact">here</a>.</p>
+
+<p>Secure Regards,<br />
+FakeBank Rewards Team</p>
+
+</body>
+</html>

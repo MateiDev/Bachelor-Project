@@ -1,0 +1,28 @@
+From do-not-reply@security-alerts.com Mon Oct 16 12:34:56 2023
+Return-Path: <do-not-reply@security-alerts.com>
+Delivered-To: victim@example.com
+Received: from suspiciousserver.com (suspiciousserver.com [123.456.78.9])
+    by mail.example.com (Postfix) with ESMTP id 1ABCD23EFG
+    for <victim@example.com>; Mon, 16 Oct 2023 12:34:56 +0000 (UTC)
+Date: Mon, 16 Oct 2023 12:34:56 +0000
+From: "Security Team" <do-not-reply@security-alerts.com>
+To: victim@example.com
+Subject: Urgent! Unusual Account Activity Detected - Action Required!
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Immediate Action Required</title>
+</head>
+<body>
+    <h2>Dear User,</h2>
+    <p>We have detected an <b>unusual sign-in</b> attempt on your account from IP address <b>192.0.2.0</b>. If this was not you, please verify your account immediately to prevent further unauthorized access.</p>
+    <p><img src="http://192.0.2.0/security_alert.jpg" alt="Security Alert"></p>
+    <p>Please <a href="http://www.secure.login.verify@123.456.78.9/youraccount/" style="color:red;">verify now</a> to secure your account.</p>
+    <p>For your protection, your password will <b>expire today</b> unless you take action.</p>
+    <p>Reset your password by clicking the link below:</p>
+    <p><a href="http://www.trustedlogin.com-passwordreset@123.456.78.9/reset" style="color:blue;">http://login.example.com/reset</a></p>
+    <p>If you have any questions, please contact our <a>support</a>.</p>
+    <p>Stay secure,<br>Security Team</p>
+</body>
+</html>

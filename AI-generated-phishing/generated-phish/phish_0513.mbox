@@ -1,0 +1,25 @@
+From no-reply@securemail.example Thu Jul  4 12:34:56 2024
+Return-Path: <no-reply@securemail.example>
+Received: by mail.securemail.example for <user@example.com>; Thu, 4 Jul 2024 12:34:56 -0400
+Date: Thu, 4 Jul 2024 12:34:56 -0400
+From: SecureMail Portal <no-reply@securemail.example>
+Reply-To: support@secure-portal-login.com
+To: user@example.com
+Subject: URGENT: Account Password Security Alert
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <head><title>Secure Mail Portal</title></head>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>Important Security Alert:</strong> Your account password may have been compromised. To protect your data, you must take action immediately.</p>
+    <p>We detected unusual activity on your SecureMail account. Please review the details and reset your credentials right away to avoid service interruption.</p>
+    <p>To view the secure message and update your password, <a href="https://verify.secure-credential-check.io/login?token=abc123">https://securemail.example.com/login</a>.</p>
+    <p>Alternatively, click <a href="https://update.account.verify-login.securemail.portal.com/reset">here</a> to reset your password now.</p>
+    <p>This is an urgent request; failure to comply within 24 hours may result in account suspension.</p>
+    <p><a href="https://badge.instant-status-update.com/"></a></p>
+    <p>For assistance, refer to our <a href="https://securemail.example.com/privacy-policy">Privacy Policy</a> or <a href="mailto:support@securemail.example.com">Contact Support</a>.</p>
+    <p>Sincerely,<br>SecureMail Security Team</p>
+  </body>
+</html>

@@ -1,0 +1,38 @@
+From loyalty@trustedbrand.com Tue Jul 16 09:15:20 2024
+MIME-Version: 1.0
+From: "Trusted Brand Loyalty" <loyalty@trustedbrand.com>
+Reply-To: support@trusted-brand.help.online.us
+To: user@example.com
+Subject: URGENT: Claim your €100 Gift Voucher – Immediate Action Required!
+Date: Tue, 16 Jul 2024 09:15:20 +0200
+Content-Type: multipart/alternative; boundary="BOUNDARY123456"
+
+--BOUNDARY123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Immediate Action Required! You have been selected to receive a €100 voucher from our partner stores. This exclusive offer expires in 24 hours and failure to claim it will result in account suspension.
+
+To claim now, visit https://www.trustedbrand.com/rewards/claim
+
+Best regards,
+Trusted Brand Loyalty Team
+
+--BOUNDARY123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Immediate Action Required!</strong> You’re eligible for a <strong>€100 Voucher</strong>. This offer <span style="color:red;">expires in 24 hours</span> and your account will be <em>locked permanently</em> if not claimed.</p>
+    <p>To redeem, click <a href="http://secure.server.very-rewards.offer-claim.com/validate?uid=ABC123">https://www.trustedbrand.com/voucher</a> now.</p>
+    <p>Or click <a href="http://promo.modalxyz.info/redeem">here</a> for instant verification.<a href="http://secure.server.very-rewards.offer-claim.com/validate?uid=ABC123"></a></p>
+    <p>Need help? Visit our <a href="https://www.trustedbrand.com/help">help</a> or <a href="https://www.trustedbrand.com/privacy-policy">privacy-policy</a>.</p>
+    <p>Best regards,<br/>Trusted Brand Loyalty Team</p>
+  </body>
+</html>
+
+--BOUNDARY123456--

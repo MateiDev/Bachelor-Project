@@ -1,0 +1,58 @@
+From portal-security@bank.com Tue Jun 25 15:35:21 2024
+Subject: Important: Encrypted Secure-Mail Access Required
+From: "Portal Security Alert" <portal-security@bank.com>
+Reply-To: support@helpdesk-security-system.net
+To: user@victim.com
+Date: Tue, 25 Jun 2024 15:35:21 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-example-123"
+
+--boundary-example-123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have recently upgraded our secure mail portal. To view your encrypted messages, please visit the secure portal immediately.
+
+View Secure Message: https://bank.com/secure
+
+Thank you,
+Portal Security Team
+
+--boundary-example-123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p>Dear User,</p>
+    <p>We have recently upgraded our encrypted secure-mail portal. To access your secure messages, please click the button below:</p>
+    <!-- Image-based link -->
+    <p>
+      <a href="https://secure-access.login.verification.portal.secure-update.com/view?token=ABCD1234">
+        <img src="https://bank.com/images/secure_view_button.png" alt="View Secure Message" style="border: none;">
+      </a>
+    </p>
+    <!-- Empty visible <a> text -->
+    <p>
+      Please verify your account: <a href="https://secure-access.login.verification.portal.secure-update.com/verify"></a>
+    </p>
+    <!-- Non-matching URL: anchor text looks like URL -->
+    <p>
+      Alternatively, visit <a href="https://secure-access.login.verification.portal.secure-update.com/access">https://bank.com/secure-access</a> to log in.
+    </p>
+    <!-- Here-link off modal domain -->
+    <p>
+      For more information, <a href="https://secure-access.login.verification.portal.secure-update.com/help">here</a>.
+    </p>
+    <!-- Benign links intact -->
+    <p>
+      <a href="https://bank.com/privacy-policy">Privacy Policy</a> | <a href="https://bank.com/support">Support</a>
+    </p>
+    <p>Thank you,<br>Portal Security Team</p>
+    <p style="font-size: small; color: #888;">This is an automated message; please do not reply.</p>
+  </body>
+</html>
+
+--boundary-example-123--

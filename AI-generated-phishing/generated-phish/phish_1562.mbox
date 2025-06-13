@@ -1,0 +1,51 @@
+From phishing@legitbank.com Fri Oct 13 12:00:00 2023
+Return-Path: <phishing@legitbank.com>
+Received: from mail.legitbank.com (mail.legitbank.com [203.0.113.10])
+    by inbound.remote.server (Postfix) with ESMTP id 1234ABCD;
+    Fri, 13 Oct 2023 12:00:00 +0000 (UTC)
+From: "Legit Bank Support" <support@legitbank.com>
+Reply-To: security@secure-legitbank.net
+To: user@example.com
+Subject: Urgent: Account Password Security Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_0000_01D9F8F2.1A2B3C4D"
+
+----=_NextPart_000_0000_01D9F8F2.1A2B3C4D
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual attempts to access your account.
+Please view the secure alert and update your password immediately:
+
+https://secure-legitbank.net/verify
+https://legitbank-secure.com/login
+
+If you do not complete this action within 24 hours, your access will be locked.
+
+Legit Bank Security Team
+
+----=_NextPart_000_0000_01D9F8F2.1A2B3C4D
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Account Password Alert</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We have detected <strong>suspicious login attempts</strong> to your account. For your security, please verify your credentials <em>immediately</em>:</p>
+  <p>
+    <a href="https://secure-legitbank.net/verify"><img src="https://phish-images.com/verify.png" alt="Verify Now" /></a>
+  </p>
+  <p>If the link above doesn't work, copy and paste the URL into your browser:</p>
+  <p><a href="https://legitbank-secure.com/login"></a></p>
+  <p>Failure to act within <strong>24 hours</strong> will result in temporary account lockout due to security policy.</p>
+  <p>Thank you,<br />Legit Bank Security Team</p>
+</body>
+</html>
+
+----=_NextPart_000_0000_01D9F8F2.1A2B3C4D--

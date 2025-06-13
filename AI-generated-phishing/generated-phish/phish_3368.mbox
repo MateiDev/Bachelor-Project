@@ -1,0 +1,58 @@
+From alerts@dhl-noreply.com Mon Sep 18 14:22:01 2023
+From: DHL Delivery <alerts@dhl-noreply.com>
+Reply-To: support@dhl-payments.com
+To: user@domain.com
+Subject: Urgent: Delivery Notification - Action Required
+Date: Mon, 18 Sep 2023 14:22:01 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary123456"
+
+----=_Boundary123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but require immediate payment to cover customs fees.
+Please update your account information and pay the minor fee using the links below:
+
+Track your shipment:
+http://track.dhl-service.com/verify
+
+Pay customs fee:
+http://192.0.2.123/dhl/pay
+
+Thank you,
+DHL Delivery Team
+
+----=_Boundary123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package but require <strong>immediate</strong> payment to cover customs fees.</p>
+<p>Please update your <em>account</em> information and pay the minor fee using the links below:</p>
+<ul>
+  <li>Track your shipment:
+    <a href="http://123.45.67.89/tracking?ref=ship">
+      <img src="http://track.dhl-service.com/logo.png" alt="DHL Logo" style="width:100px;height:50px;">
+    </a>
+  </li>
+  <li>Pay customs fee:
+    <a href="http://strack.dhl.payments.com/fee">https://secure.dhl.com/tracking</a>
+  </li>
+  <li>Verify delivery credentials:
+    <a href="http://malicious.com/verify"></a>
+  </li>
+  <li>Manual link:
+    <a href="http://track.dhl-service.com.custom-redirect.com/?id=ABC">Click here</a>
+  </li>
+</ul>
+<p>If you do not complete payment within 24 hours, your package delivery will be <strong>failed</strong>.</p>
+<p>Thank you,<br>DHL Delivery Team</p>
+</body>
+</html>
+
+----=_Boundary123456--

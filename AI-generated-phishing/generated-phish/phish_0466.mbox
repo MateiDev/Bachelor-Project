@@ -1,0 +1,44 @@
+```mbox
+From phishing-attack@example.com Tue Oct 10 09:22:40 2023
+Return-Path: <phishing-attack@example.com>
+Received: from suspicious-server.example.net (suspicious-server.example.net. [192.0.2.1])
+        by mx.google.com with SMTP id ABC123abc123abc.123.2023.10.10.09.22.40
+        for <victim@example.com>;
+        Tue, 10 Oct 2023 09:22:40 -0700 (PDT)
+Date: Tue, 10 Oct 2023 09:22:40 -0700
+From: Support Team <support@example.com>
+To: victim@example.com
+Message-ID: <1234567890.suspicious-server@suspicious-server.example.net>
+Subject: Urgent: Unusual Sign-In Activity Detected – Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--=_Part_0_123456789.1234567890"
+
+----=_Part_0_123456789.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected unusual sign-in activity on your account. To ensure your account security, please verify your details immediately. Follow this link: http://192.0.2.1/verify to secure your account.
+
+For any queries, visit our help page at www.example.com/help.
+
+Thank you,
+Security Team
+
+----=_Part_0_123456789.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected <strong>unusual sign-in activity</strong> on your account. To ensure your account security, please verify your details immediately.</p>
+    <p><a href="http://192.0.2.1/verify" style="color: red;">Click here</a> to secure your account.</p>
+    <img src="http://192.0.2.1/images/security_alert.png" alt="Security Alert">
+    <p>For any queries, visit our <a href="http://www.example.com/help">help page</a>.</p>
+    <p>Thank you,<br>Security Team</p>
+  </body>
+</html>
+----=_Part_0_123456789.1234567890--
+```

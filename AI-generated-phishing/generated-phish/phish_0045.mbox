@@ -1,0 +1,46 @@
+```mbox
+From phishing@service-security-alert.com Tue Oct 31 09:30:00 2023
+Date: Tue, 31 Oct 2023 09:30:00 +0000
+From: Service Security <phishing@service-security-alert.com>
+Reply-To: service-update@secure-mail.com
+To: victim@example.com
+Subject: Urgent: Verify Your Account Information
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your account. Please verify your account information immediately to avoid suspension.
+
+Click here to verify: http://malicious-link.com/verify
+
+Thank you,
+Service Security Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>We have detected <b>unusual activity</b> on your account. Please verify your account information immediately to avoid suspension.</p>
+
+<p><a href="http://malicious-link.com/verify"><img src="http://service-security-alert.com/image.jpg" alt="Verify Now"></a></p>
+
+<p>If you have any questions, please do not hesitate to contact us.</p>
+
+<p>Click <a href="http://malicious-link.com/verify">here</a> to verify your account.</p>
+
+<p><a href="https://legitimate-service.com/privacy-policy">Privacy Policy</a> | <a href="https://legitimate-service.com/help">Help Center</a></p>
+
+<p>Thank you,<br>Service Security Team</p>
+
+</body>
+</html>
+
+--boundary123--
+```

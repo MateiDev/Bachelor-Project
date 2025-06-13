@@ -1,0 +1,52 @@
+```mbox
+From fake-security-notice@securemessage.com Tue Oct 10 09:35:10 2023
+Return-Path: <fake-security-notice@securemessage.com>
+Received: from sender.com (209.85.220.41) by recipient.com with ESMTP
+    id u6so1458998edy.10; Tue, 10 Oct 2023 09:35:10 -0700 (PDT)
+Date: Tue, 10 Oct 2023 09:35:10 -0700 (PDT)
+From: Security Alert <fake-security-notice@securemessage.com>
+Reply-To: noreply@alert-securemail.com
+To: victim@recipient.com
+Subject: Important: Urgent Security Alert - Action Required!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="000000000000b04d1405ee1876a5"
+
+--000000000000b04d1405ee1876a5
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected suspicious activity in your account and need your immediate attention to secure your information. Failure to verify your identity will result in account suspension.
+
+Please visit our security portal to rectify this issue immediately.
+
+[Verify Now](http://192.0.2.1/login)
+
+Thank you,
+Secure Message Team
+
+--000000000000b04d1405ee1876a5
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Security Alert</title>
+</head>
+<body>
+  <p>Dear User,</p>
+  <p>We have detected suspicious activity in your account and need your <strong>immediate attention</strong> to secure your information. Failure to verify your identity will result in account suspension.</p>
+  <p>Please visit our security portal to rectify this issue immediately:</p>
+  <p><a href="http://192.0.2.1/login"><img src="https://secured.images.alerts.com/verify.png" alt="Verify Now"></a></p>
+  <p>Alternatively, you can copy and paste the following link into your browser:</p>
+  <p><a href="http://secure-messages.com/login">http://secure-messages.com/login</a></p>
+  <p> </p>
+  <p>Thank you,<br>
+   Secure Message Team</p>
+</body>
+</html>
+
+--000000000000b04d1405ee1876a5--
+```

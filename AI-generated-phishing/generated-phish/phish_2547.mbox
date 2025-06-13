@@ -1,0 +1,40 @@
+```mbox
+From geraldine@secure-sh0pp.site Mon Oct 23 08:34:56 2023
+Received: from 198.51.100.5 (unverified)
+	by mail.example.com (IMail 9.0 1234-1)
+	for <user@example.com>; Mon, 23 Oct 2023 08:34:56 -0700
+Received: from mail.secure-sh0pp.site (unknown [198.51.100.5])
+	by secure-sh0pp.site (Postfix) with SMTP id 123ABCDEF
+	for <user@example.com>; Mon, 23 Oct 2023 15:34:56 +0000 (UTC)
+Reply-To: urgent-reward@claim-now-rewards.biz
+Subject: Claim Your €100 Reward Voucher Urgently
+To: <user@example.com>
+Date: Mon, 23 Oct 2023 15:34:56 +0000
+Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
+Message-ID: <0123456789.123456789@secure-sh0pp.site>
+
+<html>
+<body>
+
+<p>Dear Valued Customer,</p>
+
+<p>Congratulations! You are <strong>eligible</strong> to receive a <strong>€100 Reward Voucher</strong>. This is an exclusive offer limited to the first 50 recipients. Act <strong>now</strong> to claim your reward before it <strong>expires!</strong></p>
+
+<p>To claim your voucher, click <a href="http://192.0.2.1/claimnow"><img src="http://192.0.2.1/images/claim-now.png" alt="Claim Now"></a>.</p>
+
+<p>Or you may copy and paste the following URL in your browser: <strong><a href="http://malicious-site.com/rewards-hurry">https://secure-site.com/claim</a></strong>.</p>
+
+<p><a href="http://secure-link.com/authenticate"><b></b></a></p>
+
+<p>If you encounter any issues, please visit our customer support page <a href="http://support.fast-help.site">http://support.important-help.com</a> immediately.</p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best regards,</p>
+
+<p>The Rewards Team</p>
+
+</body>
+</html>
+```

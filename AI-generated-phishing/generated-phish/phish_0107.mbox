@@ -1,0 +1,52 @@
+```
+From phishing_sender@fakebank.com Thu Oct 12 14:23:44 2023
+Return-Path: <phishing_sender@fakebank.com>
+Received: from [192.168.1.1] (unknown [10.20.30.40])
+	by mail.example.org (Postfix) with ESMTP id A1B2C3D4E5
+	for <victim@example.com>; Thu, 12 Oct 2023 14:23:44 +0000 (UTC)
+Message-ID: <1234567890@mail.fakebank.com>
+Reply-To: notarealemail@phishers.net
+Date: Thu, 12 Oct 2023 14:23:44 +0000
+From: "Customer Service" <phishing_sender@fakebank.com>
+To: victim@example.com
+Subject: Congratulations! Claim your €500 voucher now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Boundary_String"
+
+--Boundary_String
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are pleased to inform you that you are eligible to receive a €500 gift card. 
+To claim your reward, please click on the following link:
+http://192.168.1.2/claim-your-voucher
+
+Thank you for being a valued customer.
+
+Sincerely,
+The FakeBank Team
+
+--Boundary_String
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <p>Dear Customer,</p>
+    <p>We are pleased to inform you that you are eligible to receive a <strong>€500 gift card</strong>.</p>
+    <p>To claim your reward, please click on the following link: <a href="http://192.168.1.2/claim-your-voucher">here</a></p>
+    <img src="http://192.168.1.2/images/voucher.jpg" alt="Gift Card Image" width="500"><br/>
+    <p>Thank you for being a valued customer.</p>
+    <p>Sincerely,</p>
+    <p>The FakeBank Team</p>
+    <p><a href="http://example.com/privacy-policy">Privacy Policy</a> | <a href="http://example.com/help">Help</a></p>
+</body>
+</html>
+--Boundary_String--
+```

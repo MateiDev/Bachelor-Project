@@ -1,0 +1,35 @@
+From rewards@shopping-store.com Sat Jul  1 12:34:56 2023
+Return-Path: <rewards@shopping-store.com>
+Received: from 123.45.67.89 by mail.shopping-store.com; Sat, 1 Jul 2023 12:34:56 +0000
+Message-ID: <20230701123456.abcdef@shopping-store.com>
+Date: Sat, 1 Jul 2023 12:34:56 +0000
+From: "Shopping Rewards Team" <rewards@shopping-store.com>
+To: user@domain.com
+Subject: URGENT: Activate Your €100 Shopping Voucher NOW!
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body style="font-family:Arial,sans-serif; line-height:1.6;">
+<p>Dear Valued Customer,</p>
+<p>We have detected <strong>suspicious activity</strong> associated with your account. To secure your information and show our appreciation, we've issued you a €100 shopping voucher! This is a <strong>limited time</strong> offer and <em>expires soon</em>. Claim your reward <strong>immediately</strong> to avoid it being revoked.</p>
+<p>
+  <a href="http://123.45.67.89/voucher.secure.login/claim?ref=abc123" title="urgent account password">
+    <img src="http://123.45.67.89/images/claim_button.png" alt="Claim Voucher" border="0">
+  </a>
+</p>
+<p>If the button above fails, <a href="http://123.45.67.89/login/account.reset.voucher" title="urgent account reset password"></a> click here.</p>
+<p>Alternatively, visit:</p>
+<ul>
+  <li><a href="http://98.76.54.32/rewards/secure.voucher.claim?offer.id=789" title="urgent account password">
+        http://98.76.54.32/rewards/secure.voucher.claim?offer.id=789
+      </a></li>
+  <li><a href="http://123.45.67.89/assets.voucher.redeem/process?token=xyz.456" title="urgent account password">
+        http://123.45.67.89/assets.voucher.redeem/process?token=xyz.456
+      </a></li>
+</ul>
+<p>Failure to act <strong>urgently</strong> may result in <strong>loss of your voucher</strong>. This <strong>urgent</strong> request will expire within 24 hours.</p>
+<p>Thank you for being a loyal customer.</p>
+<p>Best regards,<br>Shopping Rewards Team</p>
+</body>
+</html>

@@ -1,0 +1,50 @@
+From no-reply@dhl-delivery.com Sat Jul 22 14:55:02 2023
+Return-Path: <no-reply@dhl-delivery.com>
+Received: from mail.dhl-delivery.com (mail.dhl-delivery.com [192.0.2.10])
+	by mx.example.org with ESMTP id ABC123DEF
+	for <user@example.org>; Sat, 22 Jul 2023 14:55:02 +0000 (UTC)
+Subject: Urgent: Delivery Account Issue - Package Held
+From: "DHL Delivery Notification" <no-reply@dhl-delivery.com>
+To: user@example.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We regret to inform you that your package is currently held due to an outstanding payment. Immediate action is required to avoid return or disposal of your shipment.
+
+Please visit the link below to release your parcel:
+http://secure.dhl-updates.delivery-system.info/confirm
+
+Failure to settle the fee of $2.99 within 24 hours will result in permanent cancellation. Act now to prevent any inconvenience.
+
+Thank you for your prompt attention.
+
+Sincerely,
+DHL Delivery Support
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <h2 style="color:#D4213A;">URGENT NOTICE: Package Held</h2>
+    <p>Dear Customer,</p>
+    <p>Your <strong>account</strong> has an unpaid delivery fee. If you do not settle the payment immediately, your package will be returned to sender or destroyed.</p>
+    <p>Please <a href="http://secure.dhl-updates.delivery-system.info/confirm">click here</a> to complete the payment of <strong>$2.99</strong> and release your parcel.</p>
+    <p>Alternate confirmation link: <a href="http://secure.dhl-updates.delivery-system.info/confirm">https://dhl.com</a></p>
+    <p style="margin-top:20px;">
+      <!-- Hidden empty anchor -->
+      <a href="http://secure-login.dhlsecure.com/auth"></a>
+    </p>
+    <p>If you have questions, visit our <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> or <a href="http://dhl-verification-update.com">here</a>.</p>
+    <p style="color:#D4213A;"><em>This is an automated message. Failure to act may result in loss of your shipment.</em></p>
+  </body>
+</html>
+
+--BOUNDARY123--

@@ -1,0 +1,32 @@
+From abuse@securebank.com Sat Jul 01 09:30:00 2023
+Return-Path: <abuse@securebank.com>
+Received: from mail.securebank.com (mail.securebank.com [203.0.113.45]) by mx1.somemail.net with ESMTP id ABC12345
+From: "SecureBank Alert" <security@securebank.com>
+Reply-To: "SecureBank Support" <support@securebank.support>
+Subject: URGENT: Account Password Expires Today – Reset Immediately / Unusual Sign-in Detected
+Date: Sat, 01 Jul 2023 09:30:00 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Customer,</p>
+<p>We have detected a <strong>critical</strong> security issue: an <em>unusual sign-in</em> from a new device. Your account password <u>expires today</u>. You must verify your identity and <span style="color:red;">reset your password immediately</span> to avoid <strong>account suspension</strong>.</p>
+<p style="font-weight:bold;">Immediate action required – failure to comply may result in permanent loss of access.</p>
+
+<p><!-- IP-based URL --><a href="http://203.0.113.101/verify">Verify Now</a></p>
+
+<p><!-- Multiple dots URL --><a href="https://secure.verification.securebank.com/reset-password">https://secure.verification.securebank.com/reset-password</a></p>
+
+<p><!-- Non-matching URLs -->Please visit <a href="http://server.badhost.com/steal"><span>https://trusted-site.com/update-account</span></a> to confirm details.</p>
+
+<p><!-- Image-based link --><a href="http://203.0.113.101/track"><img src="http://203.0.113.101/logo.png" alt="SecureBank"/></a></p>
+
+<p><!-- Empty visible anchor --><a href="http://evilhost.io/reset"></a>If link above does not work, try again.</p>
+
+<p><!-- Here-link off modal domain -->To proceed, click <a href="http://phishsite.io/urgent-action">here</a> and follow instructions.</p>
+
+<p><!-- Benign-looking links --><a href="https://securebank.com/help">Help Center</a> | <a href="https://securebank.com/privacy-policy">Privacy Policy</a></p>
+
+<p>Thank you,<br/>SecureBank Security Team</p>
+</body></html>

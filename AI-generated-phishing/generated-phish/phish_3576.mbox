@@ -1,0 +1,30 @@
+From support@paypal.com Wed Apr 10 12:34:56 2024
+Return-Path: <support@paypal.com>
+Delivered-To: victim@domain.com
+Received: by mail.domain.com (Postfix, from userid 1001)
+    id ABCDE12345; Wed, 10 Apr 2024 12:34:56 +0000 (UTC)
+From: "PayPal Support" <support@paypal.com>
+Reply-To: admin@security-update.com
+Subject: urgent: password expires today - verify your account
+Date: Wed, 10 Apr 2024 12:34:56 +0000
+Message-ID: <20240410123456.abcdefg@paypal.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p><strong>Unusual sign-in detected—verify now!</strong> Your account has flagged suspicious activity and your password expires today. Immediate action is required to avoid suspension.</p>
+    <p>Please <a href="http://192.0.2.123/validate"><img src="http://198.51.100.45/secure_image.png" alt="Verify Now"></a> to secure your access.</p>
+    <p>If the image does not load, use this link: <a href="http://203.0.113.5/security-check"></a></p>
+    <p>Or visit <a href="http://198.51.100.45/login">https://secure.paypal.com</a> or click <a href="http://malicious.com/here">here</a> to reset immediately.</p>
+    <p>Additional resources:
+      <ul>
+        <li><a href="http://help.support-security-login.info">Help Center</a></li>
+        <li><a href="http://203.0.113.7/privacy.policy.verify">Privacy Policy</a></li>
+      </ul>
+    </p>
+    <p><em>Failure to act within 24 hours will result in account suspension.</em></p>
+    <p>Thank you,<br/>PayPal Security Team</p>
+  </body>
+</html>

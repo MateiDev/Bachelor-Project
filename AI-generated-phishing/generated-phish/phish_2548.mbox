@@ -1,0 +1,34 @@
+```mbox
+From - Fri Oct 13 14:55:52 2023
+X-Account-Key: account2
+X-UIDL: UIDPLAIN123
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                  
+Return-Path: <taxrefund@nationtaxauthority.com>
+Received: from [192.168.1.150] (helo=mail.nationtax.com)
+    by mail.exampledomain.com with esmtpsa (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+    (Exim 4.89)
+    (envelope-from <taxrefund@nationtaxauthority.com>)
+    id 1geZj3-0004A4-B0
+    for victim@example.com; Fri, 13 Oct 2023 07:51:40 -0700
+From: "National Tax Authority" <taxrefund@nationtaxauthority.com>
+Reply-To: refunds@taxupdate.info
+Subject: Urgent: Verify Your Tax Refund Now
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We are pleased to inform you that you are eligible for a tax refund. To expedite this refund, please confirm your bank details <a href="http://192.185.217.116/secure/refund-authentication">here</a>.</p>
+    <p>For your security, please click only on the <a href="http://secure-verify-update-bank.com/refunds/form">official refund form</a> to provide your details.</p>
+    <p>If you have questions, visit our <a href="https://www.nationtax.com/help/">help page</a> or <a href="https://www.nationtax.com/contact/">contact support</a>.</p>
+    <p><a href="https://www.nationtax.com/privacy-policy">Our privacy policy</a></p>
+    <p>Thank you,<br>The National Tax Authority Team</p>
+    <img src="http://192.185.217.116/tracker/image.jpg" alt="tax logo"/>
+    <p><a href="http://www.nationtaxauthority.com/refunds">.</a></p>
+  </body>
+</html>
+```

@@ -1,0 +1,65 @@
+From phish@secure-portal.testdemo.com Tue Aug 10 12:34:56 2021
+Return-Path: <phish@secure-portal.testdemo.com>
+Received: from smtp.testmailserver.com (smtp.testmailserver.com [192.0.2.1]) by mail.testorg.com with ESMTP id abc123 for <victim@testmail.org>; Tue, 10 Aug 2021 12:34:56 -0400 (EDT)
+From: "SecureMail Support" <support@secure-mail.testmail.co.uk>
+To: victim@testmail.org
+Subject: [Urgent] Warning: Account Password Validation Required
+Date: Tue, 10 Aug 2021 12:34:56 -0400
+Message-ID: <20210810123456.abc123@smtp.testmailserver.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1628606096000"
+
+----=_Part_0_123456.1628606096000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected suspicious login attempts on your account and require urgent password validation.
+Your Account will be suspended in 24 hours if you do not confirm now.
+
+Please verify your credentials immediately by visiting the secure portal:
+https://secure.login.portal.testdemo.com/validate
+
+Failure to comply will result in permanent suspension.
+
+Regards,
+SecureMail Team
+
+----=_Part_0_123456.1628606096000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;font-weight:bold;">
+      <img src="https://cdn.trusted-site.testnet.net/lock-icon.png" alt="Locked" />
+      WARNING: URGENT Security Alert!
+    </p>
+    <p>We detected multiple failed login attempts on your <strong>account</strong>.
+       For your protection, please verify your <em>password</em> immediately.
+       Failure to respond within 24 hours will result in account suspension.</p>
+    <p>To verify, click the image below or the link:</p>
+    <p>
+      <a href="http://evil.attacker.com/secure-verify">
+        <img src="https://secure.portal.testdemo.com/images/verify_button.png" 
+             alt="Verify Now" style="border:none;" />
+      </a>
+    </p>
+    <p>
+      <a href="http://evil.attacker.com/secure-verify"></a>
+    </p>
+    <p>Alternatively, visit 
+      <a href="http://login.verify-session.com/auth?session=abc123">
+        https://portal.secure.testdemo.com/confirm
+      </a>
+    </p>
+    <p style="font-size:small;color:gray;">
+      If you did not initiate this request, please contact support immediately.
+    </p>
+    <p>--<br/>SecureMail Support</p>
+  </body>
+</html>
+
+----=_Part_0_123456.1628606096000--

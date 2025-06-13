@@ -1,0 +1,47 @@
+From alert@bank.example.com Sat Jul 20 12:34:56 2024
+Return-Path: <alert@bank.example.com>
+Received: from mail.bank.example.com (mail.bank.example.com [198.51.100.25])
+    by example.com (Postfix) with ESMTP id ABC123DEF
+    for <user@example.com>; Sat, 20 Jul 2024 12:34:56 -0400 (EDT)
+From: "Bank Security" <alert@bank.example.com>
+Reply-To: support@bankverification.com
+To: user@example.com
+Subject: Urgent Account Password Verification Required
+Date: Sat, 20 Jul 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We urgently require you to verify your account password to process a pending refund of $12.30. Failure to confirm your bank details within 24 hours will result in cancellation of your refund.
+
+Please visit the link below to confirm:
+
+http://192.168.0.100/confirmBank
+
+Thank you for your prompt attention.
+
+Bank Security Team
+http://www.bankexample.com/help
+
+------=_Part_12345_67890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p style="color:red;">Dear Customer,</p>
+<p>We have detected an issue with your account. An <strong>urgent</strong> refund of <strong>$12.30</strong> is waiting for you, but we need to <span style="color:red;">confirm your bank details</span> to complete the process.</p>
+<p><a href="http://203.0.113.5/verify?ref=12345">click here</a> to verify now and avoid <em>immediate cancellation</em> of your refund.</p>
+<p>Alternatively, you can also <a href="http://secure.verify.bank.mail.login.example.com/process">http://www.bankexample.com/verify</a> your information.</p>
+<p><a href="http://192.0.2.50/secure"><img src="https://www.bankexample.com/images/logo.png" alt="Bank Logo"></a></p>
+<hr>
+<p><a href="https://www.bankexample.com/privacy-policy">Privacy Policy</a> | <a href="https://support.bankexample.com/help">Help Center</a></p>
+</body>
+</html>
+
+------=_Part_12345_67890--

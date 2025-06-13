@@ -1,0 +1,43 @@
+```
+From fake-tax-refund@irs.gov Tue Oct 31 10:28:54 2023
+Return-path: <fake-tax-refund@irs.gov>
+Received: from unknown (HELO mail.example.com) (192.0.2.15)
+        by mailreceiver.example.org with SMTP; Tue, 31 Oct 2023 10:28:54 -0400
+Date: Tue, 31 Oct 2023 10:28:54 -0400
+From: "IRS Tax Refund" <fake-tax-refund@irs.gov>
+Subject: Important: Verify Your Tax Refund Details
+To: victim@example.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset=utf-8
+
+Dear Taxpayer,
+
+We have calculated your tax refund and a sum of $482.50 has been credited in your favor. To confirm and process your refund, please verify your bank details by clicking the link below:
+
+Click here: http://192.0.2.15/verifyrefund
+
+Sincerely,
+Internal Revenue Service
+Privacy Policy: http://www.irs.gov/privacy
+Help: http://www.irs.gov/help
+
+--boundary-string
+Content-Type: text/html; charset=utf-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have calculated your tax refund and a sum of <b>$482.50</b> has been credited in your favor. To confirm and process your refund, please verify your bank details by clicking the link below:</p>
+    <p><a href="http://192.0.2.15/verifyrefund"><img src="http://www.trusted-image-server.org/click_here.png" alt="Click here to verify bank details"></a></p>
+    <p>Sincerely,<br>
+    Internal Revenue Service</p>
+    <p><a href="http://www.irs.gov/privacy">Privacy Policy</a></p>
+    <p><a href="http://www.irs.gov/help">Help</a></p>
+  </body>
+</html>
+
+--boundary-string--
+```

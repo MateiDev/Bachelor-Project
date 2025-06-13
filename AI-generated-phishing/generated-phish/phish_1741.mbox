@@ -1,0 +1,49 @@
+From support@officialtaxgov.com Fri Oct 15 13:55:00 2023
+Return-Path: <support@officialtaxgov.com>
+Message-ID: <20231015135500.00001@officialtaxgov.com>
+Date: Fri, 15 Oct 2023 13:55:00 -0400
+From: "Official Tax Department" <support@officialtaxgov.com>
+Reply-To: taxdept123@fraud-alert.com
+To: user1@provider.com
+Subject: Urgent: Tax Refund Payment Confirmed - Action Required for Your Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1697370900000"
+
+----=_Part_123456_789012345.1697370900000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We have processed your tax return for this fiscal year and found you are eligible for a small refund of $48.30.
+
+To receive your refund, please confirm your bank account details immediately by visiting one of the links below:
+
+- Confirm via IP address: http://192.0.2.15/confirmRefund
+- Secure portal: https://secure.tax.gov.support.com/claim/refund
+
+If you have any questions, please contact our Help Center: https://www.officialtaxgov.com/help
+Review our Privacy Policy: https://www.officialtaxgov.com/privacy-policy
+
+Thank you,
+Official Tax Department
+
+----=_Part_123456_789012345.1697370900000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Tax Refund Confirmation</title>
+</head>
+<body>
+<p>Hello,</p>
+<p>We have processed your tax return for this fiscal year and determined you are eligible for a small refund of <strong>$48.30</strong>.</p>
+<p>To receive your refund, please confirm your bank <a href="http://192.0.2.15/confirmRefund">account details</a> immediately by clicking <a href="http://192.0.2.15/confirmRefund">here</a>, or visit our secure portal at <a href="https://secure.tax.gov.support.com/claim/refund">secure portal</a>.</p>
+<p>If you have any issues, please <a href="https://www.officialtaxgov.com/help">contact our Help Center</a>.</p>
+<p>Privacy Policy: <a href="https://www.officialtaxgov.com/privacy-policy">privacy-policy</a></p>
+<p><em>Note: Failure to confirm may delay your refund.</em></p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1697370900000--

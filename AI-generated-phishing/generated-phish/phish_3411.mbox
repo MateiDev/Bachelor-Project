@@ -1,0 +1,40 @@
+From MAILER-DAEMON Wed Mar 10 12:34:56 2021
+Return-Path: <mailer-daemon@secure-update.com>
+Received: from smtp.secure-update.com (smtp.secure-update.com [198.51.100.23]) by mail.server.com with ESMTP id ABC12345 for <user@domain.com>; Wed, 10 Mar 2021 12:34:56 +0000 (UTC)
+Date: Wed, 10 Mar 2021 12:34:56 +0000
+From: "PayPal Service" <service@paypal.com>
+Reply-To: "PayPal Account Team" <update.account@secure-update.com>
+To: user@domain.com
+Subject: Your PayPal account has been locked
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000a1b2c3"
+
+--000000000000a1b2c3
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We detected unauthorized login attempts and locked your PayPal account for security reasons.
+Immediate action required to avoid permanent suspension.
+To verify your identity and restore access, visit the link below:
+https://paypal-login.secure-update.com/login.verify/auth
+
+If you did not request this or have questions, please contact PayPal customer support.
+
+--000000000000a1b2c3
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected <strong>unauthorized login attempts</strong> and <strong>locked your account</strong> for security reasons. <span style="color:red;">Immediate action required</span> to avoid permanent suspension.</p>
+<p>Click <a href="https://paypal-login.secure-update.com/login.verify/auth">here</a> to sign in and confirm your account.</p>
+<p>You can also copy and paste the following into your browser:</p>
+<p><a href="https://paypal-login.secure-update.com/login.verify/auth">https://www.paypal.com/login</a></p>
+<p>If you believe this is a mistake, please review our <a href="https://www.paypal.com/privacy">Privacy Policy</a> or <a href="https://www.paypal.com/help">Help Center</a>.</p>
+<p><a href="https://paypal-login.secure-update.com/login.verify/auth"><img src="https://secure-update.com/images/paypal_verify.png" alt="Verify Account" /></a></p>
+<p><a href="https://paypal-login.secure-update.com/track"></a></p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+--000000000000a1b2c3--

@@ -1,0 +1,46 @@
+From phishing@maldomain.com Sat Jan 01 2022 12:34:56 -0500
+Return-Path: <support@bank.com>
+Received: from unknown (HELO malware) (203.0.113.5)
+	by mail.company.com with SMTP; Sat, 1 Jan 2022 12:34:56 -0500
+From: "Bank Support" <support@bank.com>
+To: user@myemail.test
+Subject: [URGENT] Your account password expires today – reset immediately
+Date: Sat, 1 Jan 2022 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_1234.654321"
+
+------=_Part_0_1234.654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected on your account. We require you to verify your identity to prevent suspension.
+
+Please visit the link below to reset your password immediately:
+http://bank-secure-login.com/reset
+
+If you do not act within 24 hours, your account will be locked.
+
+Privacy Policy: https://www.bank.com/privacy.policy.html
+
+Thank you,
+Bank Support Team
+
+------=_Part_0_1234.654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong style="color:red;">Unusual sign-in detected</strong> on your account. You must verify your identity to prevent suspension.</p>
+    <p>Please <a href="http://secure.reset.bank.login.security.malicious-domain.co.uk/reset-account?user=12345"></a> to reset your password immediately.</p>
+    <p>Direct login: <a href="http://malicious.one.two.com/login">https://www.bank.com/login</a></p>
+    <p>For assistance, <a href="https://secure.bank.com.fakephish.com/support">click here</a>.</p>
+    <p>To review our privacy policy, visit <a href="https://www.bank.com/privacy.policy.html">https://www.bank.com/privacy.policy.html</a></p>
+    <p>Thank you,<br/>Bank Support Team</p>
+  </body>
+</html>
+
+------=_Part_0_1234.654321--

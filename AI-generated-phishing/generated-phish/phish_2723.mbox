@@ -1,0 +1,45 @@
+From - Fri Oct 27 15:00:00 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Return-Path: <alert-systems@secure-verification-intl.com>
+Received: from suspicious.mail-server.com (suspicious.mail-server.com [192.168.0.1])
+    by mail.example.com (Postfix) with ESMTP id AB12CD34E
+    for <victim@example.com>; Fri, 27 Oct 2023 10:59:59 -0500 (CDT)
+Received: by suspicious.mail-server.com (Postfix, from userid 1001)
+    id DE56FG78H; Fri, 27 Oct 2023 15:59:57 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="0000000000000abcdef123456"
+MIME-Version: 1.0
+Date: Fri, 27 Oct 2023 15:59:57 +0000
+From: "Account Verification" <alert-systems@secure-verification-intl.com>
+Reply-To: security@alert-verify.com
+Subject: Urgent: Password Security Alert - Immediate Action Required
+
+--0000000000000abcdef123456
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activities in your account and it is temporarily suspended. To restore your access, please verify your account immediately by visiting the secure link below:
+
+http://secure-update-port.com
+
+Failure to do so may result in permanent account closure.
+
+Thank you,
+Account Security Team
+
+--0000000000000abcdef123456
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unusual activities</strong> in your account and it is temporarily suspended. To restore your access, please verify your account immediately by visiting the secure link below:</p>
+    <p><a href="http://198.51.100.1/verify" target="_blank">http://secure-update-port.com</a></p>
+    <p><img src="http://192.0.2.0/security-check" alt="Security Check" /><br>Failure to do so may result in <strong>permanent account closure</strong>.</p>
+    <p>Thank you,</p>
+    <p>Account Security Team</p>
+  </body>
+</html>
+
+--0000000000000abcdef123456--

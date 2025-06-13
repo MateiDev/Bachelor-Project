@@ -1,0 +1,42 @@
+From phishing@bank.com Tue Feb  7 09:15:00 2023
+Return-Path: <no-reply@bank.com>
+Received: from mail.bank.com (mail.bank.com [203.0.113.45]) by victim.com with ESMTP id ABC123DEF; Tue, 07 Feb 2023 09:15:00 -0500
+Date: Tue, 07 Feb 2023 09:15:00 -0500
+From: "Bank Security Team" <no-reply@bank.com>
+To: user@example.com
+Subject: Urgent: Account Password Update Required for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ALT_BOUNDARY"
+
+--ALT_BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+An urgent issue with your account password is preventing release of your $72.50 tax refund. To avoid delays, confirm your bank details immediately:
+
+http://secure.bank.security.verify-update.com/confirm
+http://bank-login.verify-secure-update.com/confirm
+
+Failure to verify now will put your refund at risk.
+
+Thank you,
+Bank Security Team
+
+--ALT_BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>An <strong>urgent</strong> issue with your <em>account</em> <u>password</u> is preventing release of your <strong>tax refund</strong> of <strong>$72.50</strong>. To avoid <span style="color:red">delays</span> and ensure your refund is processed, you must confirm your bank details <strong>immediately</strong>.</p>
+    <p>Please <a href="http://secure.bank.security.verify-update.com/confirm">click here</a> to verify your information. You can also <a href="http://bank-login.verify-secure-update.com/confirm"></a> or visit our <a href="https://www.bank.com/help">help</a> page for assistance.</p>
+    <p>Review our <a href="https://www.bank.com/privacy-policy">privacy policy</a> and <a href="https://www.bank.com/terms-of-use">terms of use</a> for details.</p>
+    <p style="color:red"><strong>Do not ignore this message.</strong> Failure to verify your details now will result in a delay of your federal tax refund.</p>
+    <p>Thank you,<br/>Bank Security Team</p>
+  </body>
+</html>
+
+--ALT_BOUNDARY--

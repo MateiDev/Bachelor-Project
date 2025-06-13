@@ -1,0 +1,55 @@
+From no-reply@securemail.com Fri Jul 12 14:30:00 2024
+Return-Path: <no-reply@securemail.com>
+Received: from webmail.securemail.com (unknown [198.51.100.55])
+    by mail.securemail.com with ESMTP id d9fhkR7v
+    for <user@victim.com>; Fri, 12 Jul 2024 14:30:00 +0000 (UTC)
+Date: Fri, 12 Jul 2024 14:30:00 +0000
+From: "Secure Mail Support" <no-reply@securemail.com>
+To: user@victim.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your Secure Mail Portal has detected unusual activity that may lead to imminent account suspension. To prevent access failure and ensure continued security, immediate verification of your account credentials is required.
+
+Please click here to view and confirm your secure message:
+click here
+
+Alternatively, open your browser and go to:
+https://portal.secure-mail.com/verify
+
+Failure to comply within 24 hours will result in temporary account lockout.
+
+Privacy Policy: https://securemail.com/privacy-policy
+
+Thank you,
+Secure Mail Support Team
+
+--ABC123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>Your <strong>Secure Mail Portal</strong> has detected <span style="color:red;">unusual activity</span> that may lead to imminent account suspension. To prevent access <span style="font-weight:bold;">failure</span> and ensure continued security, <span style="font-weight:bold;">immediate</span> verification of your account credentials is required.</p>
+    <p>Please <a href="http://198.51.100.23/secure-view?msgid=12345">click here</a> to view and confirm your secure message.</p>
+    <p>If the link above does not work, copy and paste the following into your browser:<br>
+       <a href="http://198.51.100.23/verify?step=1">https://portal.secure-mail.com/verify</a>
+    </p>
+    <p>Failure to comply within <strong>24 hours</strong> will result in <strong>temporary account lockout</strong>.</p>
+    <hr>
+    <p><a href="https://securemail.com/privacy-policy">Privacy Policy</a> | <a href="https://securemail.com/help">Help Center</a></p>
+    <p>Thank you,<br>
+       Secure Mail Support Team
+    </p>
+  </body>
+</html>
+
+--ABC123--

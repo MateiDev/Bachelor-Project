@@ -1,0 +1,51 @@
+From support@bank.com Fri Sep  1 10:00:00 2023
+Return-Path: <support@bank.com>
+Received: from mail.server.com (mail.server.com [203.0.113.5])
+    by receiver.mail.com with ESMTP id abc123
+    for <user@domain.test>; Fri,  1 Sep 2023 10:00:00 -0400
+From: "Customer Support" <support@bank.com>
+Reply-To: <refunds@198.51.100.23>
+To: user@domain.test
+Subject: Urgent: Account Refund Confirmation Required
+Message-ID: <20230901100000.abc123@bank.com>
+Date: Fri,  1 Sep 2023 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an urgent refund of $12.50 due to a recent tax adjustment. To receive your refund, please confirm your bank details by visiting the link below:
+
+http://198.51.100.23/confirm
+
+If we do not receive your confirmation within 48 hours, your refund will be forfeited.
+
+Thank you,
+Customer Support Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Refund Confirmation Required</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We have detected an <strong>urgent</strong> refund of <strong>$12.50</strong> due to a recent tax adjustment. Please <a href="http://198.51.100.23/confirm">click here</a> to confirm your bank account details.</p>
+  <p>You can view your refund status at <a href="https://bank.verifyservice.com/status">https://bank.verifyservice.com/status</a> or directly <a href="http://198.51.100.23/status">here</a>.</p>
+  <p><a href="http://185.43.212.5/refund"><img src="https://secure.back.bank.service.update.info/images/logo.png" alt="Bank Logo" border="0" /></a></p>
+  <p>Alternatively, verify via our portal <a href="https://secure.modal-bank.com/portal">portal</a> or go <a href="https://secure.modal-bank.com/confirm">here</a> for immediate access.</p>
+  <p>In case of any issues, see our <a href="https://bank.com/privacy">Privacy Policy</a> or visit the <a href="http://malicious.domain..info/help">help center</a>.  
+     You can also check notifications by clicking <a href="https://bank.notifications-update.info"></a>.
+  </p>
+  <p>Regards,<br/>Customer Support</p>
+</body>
+</html>
+
+--boundary123--

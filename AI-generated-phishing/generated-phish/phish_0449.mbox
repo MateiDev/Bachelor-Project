@@ -1,0 +1,41 @@
+```mbox
+From sender@example.com Thu Oct 12 14:28:50 2023
+Return-Path: <sender@example.com>
+Received: from example.com (unknown [192.0.2.1])
+    by mail.example.org (Postfix) with ESMTP id 1234567890
+    for <target@example.com>; Thu, 12 Oct 2023 14:28:50 +0000 (UTC)
+Date: Thu, 12 Oct 2023 14:28:50 +0000
+From: "Reward Department" <reward@unexpecteddomain.com>
+Reply-To: reward-claims@fakevoucher.com
+To: target@example.com
+Message-ID: <9876543210@example.com>
+Subject: Urgent: Claim Your Exclusive €100 Gift Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_Part_0_123456789.1234567890"
+
+------=_Part_0_123456789.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+You are eligible to receive a €100 gift voucher for your loyalty. Don't miss out on this limited-time offer. Click on the link below to secure your voucher:
+http://192.0.2.50/get-your-voucher
+Thank you for being a valued member!
+
+------=_Part_0_123456789.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Congratulations!</p>
+<p>You are eligible to receive a <strong>€100 gift voucher</strong> for your loyalty. Don't miss out on this limited-time offer. Click on the link below to secure your voucher:</p>
+<a href="http://192.0.2.50/get-your-voucher">http://secure-voucher.com/claim</a>
+<p>Thank you for being a valued member!</p>
+<p>For more offers, visit <a href="http://192.0.2.50/more-offers">http://offers-secure.com/best</a>.</p>
+</body>
+</html>
+
+------=_Part_0_123456789.1234567890--
+```

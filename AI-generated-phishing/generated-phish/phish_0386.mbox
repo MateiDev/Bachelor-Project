@@ -1,0 +1,53 @@
+From - Mon Nov 13 11:34:06 2023
+X-GM-THRID: 1685532369285299394
+X-Gmail-Labels: Phishing
+Delivered-To: victim@example.com
+Received: by 2002:a05:620a:10ba:b0:27:575c:bc53 with SMTP id d18csp419876qkm;
+        Mon, 13 Nov 2023 03:34:06 -0800 (PST)
+X-Received: by 2002:a17:14d8:5f02:b0:5d2:cbe1:1f15 with SMTP id c2mr6765180eip.313.1678958106063;
+        Mon, 13 Nov 2023 03:34:06 -0800 (PST)
+Return-Path: <phisher@fake-parcel.com>
+From: "DHL Support" <support@dhl-notifications.com>
+Reply-To: support@parcel-service.xyz
+Date: Mon, 13 Nov 2023 11:33:56 +0000
+Message-ID: <CAEQhsecidT2bhNvF5Xfnf_d3j2=dYvJZV9=1O+pOw78T3X6evQ@mail.gmail.com>
+Subject: Your Parcel is Held - Action Required
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000020e4005f7bf5464"
+
+--000000000000020e4005f7bf5464
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We attempted to deliver your parcel but there is an outstanding fee. 
+Please settle the fee to release it. Access the secure payment page by visiting this link:
+
+Click here: [http://198.51.100.33/securepayment](http://198.51.100.33/securepayment)
+
+Thank you,
+DHL Support
+
+--000000000000020e4005f7bf5464
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your parcel but there is an outstanding fee.</p>
+    <p>Please settle the fee to release it. Access the secure payment page by visiting this link:</p>
+    <table>
+      <tr>
+        <td><a href="http://198.51.100.33/securepayment" style="color: #0000ff; text-decoration: none;">Click here</a></td>
+        <td><a href="http://help.dhl.com">Help</a></td>
+        <td><a href="http://privacy.dhl.com">Privacy Policy</a></td>
+      </tr>
+      <tr>
+        <td><img src="http://www.dhl.com/image/logo.png" alt="DHL Logo" /></td>
+      </tr>
+    </table>
+    <p>Thank you,<br>DHL Support</p>
+  </body>
+</html>
+
+--000000000000020e4005f7bf5464--

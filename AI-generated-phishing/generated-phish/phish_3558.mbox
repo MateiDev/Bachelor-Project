@@ -1,0 +1,70 @@
+From security@paypal.com Wed Jul 14 08:55:00 2021
+Return-Path: <security@paypal.com>
+Delivered-To: user@example.com
+Received: by mail.example.com with SMTP id abc123; Wed, 14 Jul 2021 08:55:00 -0400
+From: "PayPal Security" <security@paypal.com>
+Reply-To: support@paypal.support.com
+To: user@example.com
+Subject: URGENT: Account PASSWORD Expiration Notice & Unusual Sign-In Detected
+Message-ID: <20210714085500.abc123@mail.example.com>
+Date: Wed, 14 Jul 2021 08:55:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1234567890"
+
+----=_Part_0_123456.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected an unusual sign-in attempt to your PayPal account from a new device. Your password expires today! This is an URGENT security action required to avoid ACCOUNT LOCK.
+
+Please VERIFY your account IMMEDIATELY by visiting the link below within the next hour:
+https://security.login.account.verify-user.example.co.uk/confirm?uid=12345
+
+Failure to do so will result in immediate suspension of your account access.
+
+For assistance, you can visit our help center or privacy policy:
+https://www.example.com/help
+https://www.example.com/privacy
+
+Thank you,
+PayPal Security Team
+
+----=_Part_0_123456.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body bgcolor="#f3f3f5" style="font-family:Arial, sans-serif; color:#333;">
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center">
+          <table width="600" cellpadding="20" cellspacing="0" bgcolor="#ffffff">
+            <tr>
+              <td align="center">
+                <a href="http://phishdomain.bad/verify"><img src="https://cdn.example.com/logo.png" alt="PayPal Logo" width="200" height="50" border="0"/></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <h2 style="color:#e03131;">Unusual Sign-In Detected — Verify Now</h2>
+                <p><strong>Dear user,</strong></p>
+                <p>We detected an <span style="color:#e03131;">unusual sign-in</span> attempt to your <strong>PayPal account</strong> from a new device. Your <strong>PASSWORD expires today</strong> — <em>reset immediately</em> to avoid <span style="font-weight:bold;">account LOCK</span>.</p>
+                <p>Click <a href="http://modal.verify-account.phish">here</a> to secure your account <strong>now</strong>.</p>
+                <!-- Empty visible text link -->
+                <p>Or visit: <a href="http://modal.login.phish"></a></p>
+                <p>Alternate secure link: <a href="http://evil.bad/phish">https://secure.account-update.example.com/Login</a></p>
+                <p>If you need help, please visit our <a href="https://www.example.com/help">help center</a> or review our <a href="https://www.example.com/privacy">privacy policy</a>.</p>
+                <hr/>
+                <p style="font-size:12px;color:#999;">This is an automated message, please do not reply directly to this email.</p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+----=_Part_0_123456.1234567890--

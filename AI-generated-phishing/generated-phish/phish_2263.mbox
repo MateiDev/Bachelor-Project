@@ -1,0 +1,60 @@
+From no-reply@tax.gov Wed Jun 12 08:00:00 2024
+Return-Path: <no-reply@tax.gov>
+Received: from mx.tax.gov (mx.tax.gov [192.0.2.10]) by mail.example.com with ESMTP id ABC123 for <user@example.com>; Wed, 12 Jun 2024 08:00:00 -0400
+From: "Tax Department" <no-reply@tax.gov>
+Reply-To: support@taxdept-urgent.com
+To: user@example.com
+Subject: URGENT: Account / Password Verification for Tax Refund
+Date: Wed, 12 Jun 2024 08:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123456"
+
+--boundary123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed a small tax refund for your account. To receive your $37.25 refund, you must confirm your bank account details within 48 hours to avoid cancellation.
+
+Please confirm here: https://secure.tax.gov/confirm
+
+Failure to verify immediately may result in your refund being voided.
+
+Best regards,
+Tax Department
+
+--boundary123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Account / Password Verification for Tax Refund</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p><strong>Immediate action required!</strong> We have processed a small <em>IRS tax refund</em> of <strong>$37.25</strong> for your account. To receive your refund, you must verify your bank account details within <strong>48 hours</strong> to avoid <span style="color:red;">cancellation</span>.</p>
+  
+  <!-- Image-based link -->
+  <p>
+    <a href="http://malicious.testing/verify">
+      <img src="https://tax.gov/assets/logo.jpg" alt="Tax Dept Logo" style="width:200px;border:0;">
+    </a>
+  </p>
+  
+  <p>Please <a href="http://malicious.testing/verify">click here</a> or visit 
+  <a href="http://malicious.testing/verify">https://secure.tax.gov/confirm</a> to confirm your details now.</p>
+  
+  <p>If you do not verify within 48 hours, your refund request will be automatically voided due to inactivity.</p>
+
+  <hr/>
+
+  <p>
+    <a href="https://tax.gov/privacy">Privacy Policy</a> |
+    <a href="https://tax.gov/help">Help Center</a>
+  </p>
+</body>
+</html>
+
+--boundary123456--

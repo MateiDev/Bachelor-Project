@@ -1,0 +1,47 @@
+From phishing-alert@mailer.secure.com Mon Sep 20 14:22:01 2021
+Message-ID: <apple-suspicious-123456@paypal.com>
+Date: Mon, 20 Sep 2021 14:22:01 -0400
+From: "PayPal Service" <service@paypal.com>
+Reply-To: support@secure-paypal-verification.com
+To: user@victim.com
+Subject: Urgent: Your PayPal Account Password Must Be Verified
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Urgent security alert! Suspicious activity was detected on your PayPal account. To avoid suspension,
+verify your password immediately by visiting the link below:
+
+http://198.51.100.25/verify
+
+Failure to verify within 24 hours will result in a temporary account lock.
+
+Thank you,
+PayPal Security Team
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p><strong>Urgent security alert!</strong> Suspicious activity was detected on your PayPal account.
+    To avoid suspension, verify your password immediately by clicking the link below:</p>
+    <p><a href="http://198.51.100.25/verify"> </a></p>
+    <p>Alternatively, visit
+      <a href="http://login.paypal.secure-login.com/account/confirm">https://www.paypal.com.secure.validation.login</a>
+    </p>
+    <p>Or click the image:</p>
+    <p><a href="http://198.51.100.25/update"><img src="http://images.secure-paypal.com/warning.png" alt="Security Notice" /></a></p>
+    <p>Failure to verify within <strong>24 hours</strong> will result in a temporary account lock.</p>
+    <p>Thank you,<br/>PayPal Security Team</p>
+  </body>
+</html>
+
+--boundary123--

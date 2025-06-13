@@ -1,0 +1,51 @@
+From no-reply@amazon.com Mon Mar 20 12:34:56 2023
+Return-Path: <no-reply@amazon.com>
+Received: from mailserver.amazon.com ([198.51.100.10]) by smtp.example.com with ESMTP id abc123; Mon, 20 Mar 2023 12:34:56 -0400
+Message-ID: <ABCDEF123456@amazon.com>
+Date: Mon, 20 Mar 2023 12:34:56 -0400
+From: "Amazon Support" <no-reply@amazon.com>
+To: user@example.com
+Subject: Urgent Account Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001F_01D8"
+
+------=_NextPart_000_001F_01D8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We've noticed unusual activity on your Amazon account. Please verify your identity within 24 hours to avoid suspension.
+
+Click the link below to verify your account:
+https://www.amazon.com/sign-in
+
+Regards,
+Amazon Security Team
+
+------=_NextPart_000_001F_01D8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We've detected <b>unusual activity</b> on your Amazon account. To ensure your account remains secure, please <u>verify</u> your identity within <b>24 hours</b>:</p>
+    <!-- Non-matching URL anchor -->
+    <p><a href="http://192.0.2.123/secure-login">https://www.amazon.com/ap/signin</a></p>
+    <!-- IP-based URL -->
+    <p>If that doesn't work, copy and paste:</p>
+    <p>http://203.0.113.45/login/amazon</p>
+    <!-- Here-link off modal domain -->
+    <p>Please <a href="http://login.amazon.verify.account.net/confirm">click here</a> to proceed.</p>
+    <!-- Empty visible anchor -->
+    <p><a href="http://secure.amazon.verify.net/"></a></p>
+    <!-- Image-based link -->
+    <p><a href="http://192.0.2.123/secure-login"><img src="http://198.51.100.77/images/amz_logo.png" alt="Amazon Logo" width="120" height="30" border="0"></a></p>
+    <p>Need help? Review our <a href="https://www.amazon.com/gp/help/customer/display.html">Help Page</a> or our <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000">Privacy Notice</a>.</p>
+    <p>Thank you for choosing Amazon.</p>
+    <p>--<br>Amazon Security Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001F_01D8--

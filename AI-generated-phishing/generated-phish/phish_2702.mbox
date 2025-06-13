@@ -1,0 +1,59 @@
+```mbox
+From fakebanking@securityalert.com Wed Oct 25 14:18:17 2023
+Return-Path: <fakebanking@securityalert.com>
+Delivered-To: victim@example.com
+Received: by 10.52.50.37 with SMTP id e37-csp173839hpc;
+        Wed, 25 Oct 2023 14:18:17 +0000 (UTC)
+X-Received: by 10.55.133.11 with SMTP id v11mr12345621qka.78.1499155097870;
+        Wed, 25 Oct 2023 14:18:17 +0000 (UTC)
+Received: from unknown (123.45.67.89)
+        by smtp.gmail.com with ESMTPS id p2sm3423464qtb.5.2023.10.25.14.18.16
+        for <victim@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 25 Oct 2023 14:18:17 +0000 (UTC)
+From: "Security Alert" <fakebanking@securityalert.com>
+Reply-To: "Security Team" <noreplyaccounts@trustedsite.com>
+To: victim@example.com
+Subject: Urgent: Unusual sign-in detected - Verify Now
+Date: Wed, 25 Oct 2023 14:18:17 +0000
+Message-ID: <CAEGybkwM1+fejk@mail.com>
+Content-Type: multipart/alternative;
+ boundary="000000000000c3f8e205e7daae91"
+
+--000000000000c3f8e205e7daae91
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We've detected an unusual sign-in attempt on your account. Please verify your account immediately to prevent any unauthorized access.
+
+Click here now: http://198.51.100.0/verify
+
+Thank you,
+Security Team
+
+--000000000000c3f8e205e7daae91
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+  <title>Urgent Account Alert</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We've detected an unusual sign-in attempt on your account. Please verify your account immediately to prevent any unauthorized access.</p>
+  <p><a href="http://198.51.100.0/verify"><img src="http://example.com/image/verify-button.jpg" alt="Verify Now"></a></p>
+  <p>Click <a href="http://example.net/account/help">here</a> for help.</p>
+  <table>
+    <tr>
+      <td><a href="http://www.example.com">http://www.trustedsite.com</a></td>
+    </tr>
+  </table>
+  <p>Thank you,<br>Security Team</p>
+</body>
+</html>
+
+--000000000000c3f8e205e7daae91--
+```

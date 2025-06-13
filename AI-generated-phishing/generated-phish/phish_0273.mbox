@@ -1,0 +1,32 @@
+```mbox
+From fake-security@secure-login.com Mon Oct 23 10:32:10 2023
+Return-Path: <fake-security@secure-login.com>
+Received: from 192.168.1.200 (192.168.1.200) by mailservice.com with SMTP; Mon, 23 Oct 2023 10:32:10 +0000
+Date: Mon, 23 Oct 2023 10:32:09 +0000
+From: Account Security <security-alert@trustedservice.com>
+Reply-To: support-team@alert-service.com
+To: user@example.com
+Subject: Urgent: Account Update Required Immediately
+
+Dear Valued Customer,
+
+We hope this message finds you well. We are writing to inform you that urgent action is required to update your account information. Failure to do so may result in a temporary suspension of your account.
+
+To continue using our services without interruption, please verify your account details by clicking on the link below:
+
+http://192.168.1.200/login-update
+
+Please note that if you do not verify within 24 hours, you risk losing access to your account.
+
+For more information on why this is necessary, read our [Privacy Policy](https://secure-login.com/privacy) and [Terms of Service](https://secure-login.com/terms).
+
+If you have any concerns or need assistance, contact our support team.
+
+To proceed with the update, please [click here](http://secure-account.com.update.info).
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+Account Security Team
+```

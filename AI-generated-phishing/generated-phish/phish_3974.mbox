@@ -1,0 +1,47 @@
+From support@official.taxagency.gov Sat Feb 10 08:15:30 2024
+Return-Path: <support@official.taxagency.gov>
+Received: from mail.fake-server.net (mail.fake-server.net [222.111.222.111])
+    by official.taxagency.gov with ESMTP id HJ4F3KD;
+    Sat, 10 Feb 2024 08:15:30 -0500
+From: "Tax Agency Support" <support@official.taxagency.gov>
+Reply-To: phishing@updates.fake-server.net
+To: user@example.com
+Subject: Urgent: Tax Refund Account Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary42"
+
+--boundary42
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records show that you have a refund of $14.85 USD pending. This is a time-sensitive issue.
+Please confirm your bank account details and password immediately to avoid cancellation of your refund.
+
+Verify here: http://111.222.333.444/confirm
+Alternative secure link: http://secure.bank-service.com/verify
+
+Failure to confirm within 48 hours will result in a hold on your refund.
+
+Sincerely,
+Tax Agency Support Team
+
+--boundary42
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>This is an <strong>urgent</strong> notification: you have a <span style="color:red;">pending refund of $14.85 USD</span>.</p>
+<p>For your <em>account</em> safety, please confirm your bank details and <strong>password</strong> <a href="http://111.222.333.444/confirm"></a> <em>now</em>. Failure to act <strong>immediately</strong> will <strong>cancel</strong> your refund.</p>
+<p>Click the logo below to verify:</p>
+<p><a href="http://111.222.333.444/verify"><img src="http://sub.domain.example.com/images/logo.png" alt="Verify"></a></p>
+<p>Or visit <a href="http://111.222.333.444/warning">http://taxagency.gov/confirmation</a> if the button doesn't work.</p>
+<p>If you have any questions, please do not reply to this email or send to <a href="mailto:support@taxagency.gov">support@taxagency.gov</a>.</p>
+<p>Thank you,<br>Tax Agency Support</p>
+</body>
+</html>
+
+--boundary42--

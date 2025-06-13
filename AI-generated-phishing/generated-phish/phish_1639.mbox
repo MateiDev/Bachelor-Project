@@ -1,0 +1,46 @@
+From notifications@company.com Mon Jul 24 10:00:00 2023
+Return-Path: <notifications@company.com>
+Received: from mail.company.com (mail.company.com [203.0.113.5])
+    by mx.example.net with ESMTP id 12345
+    for <victim@example.net>; Mon, 24 Jul 2023 10:00:00 -0400 (EDT)
+From: "Company Support" <notifications@company.com>
+To: victim@example.net
+Subject: URGENT: Account Password Confirmation Required for Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XXXXboundary text"
+
+--XXXXboundary text
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our system has detected that you may be eligible for a small tax refund. This is an urgent notification. Failure to confirm your banking details promptly may result in cancellation of your refund.
+
+Please click here to confirm your information:
+http://192.0.2.55/confirm
+
+We appreciate your immediate attention to this matter.
+
+Best regards,
+Tax Refund Department
+
+--XXXXboundary text
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Our system has detected that you may be eligible for a small tax refund. <strong>Immediate action required</strong> to avoid cancellation of your refund.</p>
+    <p>Please <a href="http://192.0.2.55/confirm">click here</a> to confirm your information.</p>
+    <p>Alternatively, visit our secure portal: <a href="http://192.0.2.55/verify">https://secure.company.com/verify</a> to proceed.</p>
+    <p>
+      <a href="http://192.0.2.55/payout"><img src="http://192.0.2.55/logo.png" alt="Company Logo"/></a>
+    </p>
+    <p>Thank you for your prompt response.<br/>
+    Tax Refund Department</p>
+  </body>
+</html>
+
+--XXXXboundary text--

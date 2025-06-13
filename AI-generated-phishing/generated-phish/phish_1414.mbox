@@ -1,0 +1,24 @@
+From notifications@paypal.com Wed Jun 30 15:07:00 2021
+Subject: Urgent: Password Verification Needed for Your Account
+From: PayPal <notifications@paypal.com>
+To: user@domain.com
+Date: Wed, 30 Jun 2021 15:07:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Account Password Urgent Verification</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We detected unusual activity on your PayPal account. For security purposes, your account will be <strong>temporarily suspended</strong> unless you verify your login details immediately.</p>
+<p>Please <a href="http://192.168.1.100/login">https://paypal.com/secure-login</a> to confirm your identity.</p>
+<p><a href="http://203.0.113.55/update"><img src="http://203.0.113.55/images/paypal_logo.png" alt="PayPal Logo"/></a></p>
+<p>To avoid suspension, please respond here: <a href="http://198.51.100.23/auth"></a></p>
+<p>Alternatively, you can visit <a href="http://192.0.2.45/verify">our secure page</a> to restore full access.</p>
+<p>Thank you for your prompt attention to this <strong>urgent</strong> matter.</p>
+<p>Sincerely,<br/>PayPal Security Team</p>
+</body>
+</html>

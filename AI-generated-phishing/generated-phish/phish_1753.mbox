@@ -1,0 +1,29 @@
+From refund@bank-secure.com Wed Jul 31 09:15:00 2024
+Return-Path: <refund@bank-secure.com>
+Delivered-To: victim@mydomain.com
+Received: from webmail.bank-secure.com (webmail.bank-secure.com [203.0.113.5])
+	by mail.mydomain.com with ESMTP id abc123
+	for <victim@mydomain.com>; Wed, 31 Jul 2024 09:15:00 -0400 (EDT)
+Message-ID: <MID1234567890@bank-secure.com>
+Date: Wed, 31 Jul 2024 09:15:00 -0400
+Subject: Urgent: account notification password verification required for pending tax refund
+From: "Bank Secure Refunds" <refund@bank-secure.com>
+To: victim@mydomain.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p><strong>Warning:</strong> Your tax refund of $23.45 is about to expire. This is a critical action required. If you do not confirm your bank details immediately, your refund request will fail and funds will be forfeited.</p>
+    <p>Please verify now by clicking the links below:</p>
+    <ul>
+      <li><a href="http://192.0.2.123/verify">https://secure.bank-update.com/verify</a></li>
+      <li><a href="http://192.0.2.124/login">http://login.bank-secure.us</a></li>
+      <li><a href="http://www.bank.secure-update.info/confirm">http://www.bank.secure-update.info/confirm</a></li>
+      <li><a href="http://phish-server.net/update-info">http://secure.bank.com/update</a></li>
+      <li><a href="http://malicious.bad/page"></a></li>
+    </ul>
+    <p>If you have any questions, contact our support team. This is an urgent security measure.</p>
+    <p>Thank you,<br>Bank Secure Refunds Team</p>
+  </body>
+</html>

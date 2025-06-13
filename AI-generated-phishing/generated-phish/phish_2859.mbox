@@ -1,0 +1,57 @@
+```mbox
+From phishing@example.com Mon Oct  9 15:21:38 2023
+Return-Path: <phishing@example.com>
+Received: from suspicious.origin.net (192.168.0.1)
+	by mail.test.com with ESMTP id t05M7h4c019433;
+	Mon, 9 Oct 2023 15:21:38 +0000 (UTC)
+From: "Support Team" <support@vouchers.com>
+To: victim@test.com
+Subject: Urgent! Claim your €1000 Voucher Now
+Date: Mon, 9 Oct 2023 15:21:38 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b5a3c905f2d6743c"
+
+--000000000000b5a3c905f2d6743c
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Congratulations! You are eligible for an exclusive €1000 voucher. This is a limited-time offer, and you must act now to claim it.
+
+Please visit the website immediately and secure your voucher:
+http://127.0.0.1/redeemvoucher 
+
+Failure to redeem your voucher within 24 hours will result in the offer being forfeited.
+
+Thank you,
+Support Team
+
+--000000000000b5a3c905f2d6743c
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <head>
+    <title>Account Update: Urgent Action Required</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You are eligible for an exclusive &euro;1000 voucher. <strong>This is a limited-time offer, and you must <span style="color: red;">act now</span> to claim it.</strong></p>
+    <p>Please visit the website immediately and secure your voucher:
+      <a href="http://127.0.0.1/redeemvoucher">http://voucher-claim.com</a>
+    </p>
+    <p><em>Failure to redeem your voucher within 24 hours will result in the offer being forfeited.</em></p>
+    <p>Thank you,<br/>
+    Support Team</p>
+    <br/>
+    <br/>
+    <a href="http://safe-link.com/help"></a>
+    <img src="http://127.0.0.1/image.png" alt="Voucher Image" />
+    <br/>
+    <a href="http://safe-link.com/privacy">Privacy Policy</a>
+    <br/>
+    <a href="http://safe-link.com/contact">Contact Us</a>
+  </body>
+</html>
+
+--000000000000b5a3c905f2d6743c--
+```

@@ -1,0 +1,50 @@
+From support@loyalty-program.com Mon Jun 24 12:34:56 2024
+Return-Path: <support@loyalty-program.com>
+Delivered-To: user@example.com
+Received: from mail.loyalty-program.com (mail.loyalty-program.com [198.51.100.25])
+	by mx.google.com with ESMTP id abcdefghijklmnop;
+	Mon, 24 Jun 2024 12:34:56 -0400 (EDT)
+Subject: Urgent: Account Reward Voucher Pending
+From: Loyalty Program <support@loyalty-program.com>
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+
+----=_Part_123456_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Member,
+
+URGENT WARNING: Your exclusive €100 voucher is about to EXPIRE in 1 HOUR!
+Failure to claim immediately will result in the loss of your reward.
+Please visit the link below to secure your gift now:
+
+http://login.rewards.secure.vip/claim-voucher
+
+Or use this backup link:
+http://account.loyalty-program.com/redeem
+
+Thank you,
+Loyalty Support
+
+----=_Part_123456_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Member,</p>
+    <p style="color:red;"><strong>URGENT NOTICE:</strong> Your exclusive <strong>€100</strong> voucher is <em>about to expire</em> in <strong>60 MINUTES</strong>!</p>
+    <p>Please <a href="http://192.168.0.100/redeem">https://secure.loyalty.com/claim</a> immediately to secure your reward.</p>
+    <p>If the link above does not work, copy and paste the following into your browser:</p>
+    <ul>
+      <li><a href="http://203.0.113.45/claim">http://login.rewards.secure.vip/claim-voucher</a></li>
+      <li><a href="http://203.0.113.45/verify">http://account.loyalty-program.com/redeem</a></li>
+    </ul>
+    <p><small>Failure to act now will result in permanent forfeiture.</small></p>
+    <p>Best Regards,<br>Loyalty Program Team</p>
+  </body>
+</html>
+
+----=_Part_123456_abcdef--

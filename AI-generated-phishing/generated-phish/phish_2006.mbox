@@ -1,0 +1,56 @@
+From secure-alert@securemail.com Tue Jun 18 15:12:01 2024
+Return-Path: <secure-alert@securemail.com>
+Received: from securemail.com ([123.45.67.89])
+	by mail.example.com with ESMTP id ABC123;
+	Tue, 18 Jun 2024 15:12:01 -0400
+From: "SecureMail Portal" <no-reply@securemail.com>
+Reply-To: support@helpdesk.securehelpdesk.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT SECURITY ALERT
+
+Your SecureMail account password verification is IMMEDIATELY required due to a detected security risk. Failure to comply will result in your account being LOCKED within 24 hours.
+
+Verify now:
+http://portal-update.security-check.verification.co.uk/validate
+
+Or visit here:
+http://secure.portal-update.verification.co.uk
+
+Thank you,
+SecureMail Security Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">URGENT SECURITY ALERT</p>
+    <p>
+      Your SecureMail <strong>account</strong> <em>password</em> verification is <u>IMMEDIATELY</u>
+      required due to a detected security risk. Failure to comply will result in account lockout within 24 hours!
+    </p>
+    <p>
+      Please <a href="http://portal-update.security-check.verification.co.uk/validate" style="color:blue; font-weight:bold;">View</a>
+      the secure link below to verify your credentials:
+    </p>
+    <p>
+      <a href="http://portal-update.security-check.verification.co.uk/validate">
+        <img src="http://images.secureverification.com/verify-button.png" alt="Verify Now" border="0">
+      </a>
+    </p>
+    <p>
+      For more information, click <a href="http://secure.portal-update.verification.co.uk">here</a>.
+    </p>
+    <p>Thank you,<br>SecureMail Security Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

@@ -1,0 +1,29 @@
+From delivery@tracking.dhlsupport.com Mon Mar 18 10:15:00 2024
+Return-Path: <delivery@tracking.dhlsupport.com>
+From: "Delivery Notification" <delivery@tracking.dhlsupport.com>
+Reply-To: "Parcel Support" <support@parcel-verify.net>
+To: user@personalmail.com
+Subject: Urgent: Verify Your account - Immediate Action Required
+Date: Mon, 18 Mar 2024 10:15:00 -0500
+Message-ID: <20240318101500.GA8341@tracking.dhlsupport.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package <strong>#87654321</strong> is currently <em>on hold</em> due to an unpaid customs fee. This is an urgent alert: <span style="color:red; font-weight:bold;">your parcel will be returned if no action is taken immediately</span>.</p>
+    <p>Please <a href="http://198.51.100.23/release">click here</a> to pay the small release fee of $2.49.</p>
+    <p>Alternatively, update your shipment preferences by clicking <a href="http://203.0.113.45/payment/update">Here</a>.</p>
+    <p>Track your delivery status directly: <a href="http://198.51.100.23">https://dhl.com/parcel-status</a></p>
+    <p>Download your shipping invoice: <a href="http://verify.dhl.express.delivery.parcel.support.net/invoice">download invoice</a></p>
+    <p>
+      <a href="http://198.51.100.23/badge">
+        <img src="http://203.0.113.1/images/dhl_logo.png" alt="DHL Logo" />
+      </a>
+    </p>
+    <p><a href="http://198.51.100.23/free"></a></p>
+    <p>For more information, refer to our <a href="https://www.dhl.com/en/privacy-policy.html">Privacy Policy</a> or <a href="https://www.dhl.com/en/help-center.html">Help Center</a>.</p>
+    <p>Thank you,<br/>DHL Express Delivery Team</p>
+  </body>
+</html>

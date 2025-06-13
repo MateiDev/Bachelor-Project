@@ -1,0 +1,61 @@
+From notifications@bank-secure.com Fri Jul 21 12:34:56 2023
+Return-Path: <notifications@bank-secure.com>
+Reply-To: support@secure-updates.com
+From: "Bank Notifications" <notifications@bank-secure.com>
+To: user@domain.com
+Subject: URGENT: Password expires today - Reset immediately to protect your account
+Date: Fri, 21 Jul 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.654321"
+
+------=_Part_0_123456.654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in on your account. Immediate action is required to prevent unauthorized access.
+
+Unusual sign-in detected — verify now:
+https://www.bank.com/verify  
+Verify here:
+http://secure.verify-login-update.payments.com/verify
+
+Your password expires today – reset immediately to avoid service suspension.
+
+Reset password here:
+http://192.0.2.123/reset
+
+For assistance, visit https://login.bank.com/support or review our privacy-policy:
+privacy-policy --> http://phish.malicious-domain.com/privacypolicy.html
+
+Regards,
+Bank Security Team
+
+------=_Part_0_123456.654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Unusual sign-in detected — verify now</strong></p>
+    <p>Click below to confirm your identity immediately:</p>
+    <p>
+      <a href="http://secure.verify-login-update.payments.com/verify">https://www.bank.com/verify</a>
+    </p>
+    <p style="color:red;"><strong>Password expires today – reset immediately</strong></p>
+    <p>
+      <a href="http://192.0.2.123/reset">here</a>
+    </p>
+    <p>If you need help, see our 
+      <a href="http://phish.malicious-domain.com/privacypolicy.html">privacy-policy</a>
+    </p>
+    <p>
+      <a href="http://login.bank.com/support"></a>
+    </p>
+    <p>Regards,<br/>Bank Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.654321--

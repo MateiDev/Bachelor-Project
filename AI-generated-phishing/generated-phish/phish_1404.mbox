@@ -1,0 +1,25 @@
+From notifications@bank-secure-mail.com Sat Jan  1 12:34:56 2022
+Return-Path: <notifications@bank-secure-mail.com>
+Delivered-To: user@recipient-bank.com
+Received: from unknown (HELO mail.bank-secure-mail.com) [10.0.0.1]
+    by recipient-bank.com with SMTP;
+    Sat,  1 Jan 2022 12:34:56 +0000 (UTC)
+Subject: Urgent: Account Password Verification Required
+From: Bank Alerts <notifications@bank-secure-mail.com>
+To: user@recipient-bank.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Immediate action required:</strong> We detected <span style="color:red">unauthorized access</span> attempts on your account.</p>
+<p>Your account will be locked in 48 hours if you do not verify your password. To restore full access and claim your exclusive €50 voucher, please <a href="https://secure.verify-update.verysafe.authentication-login.net/verify?user=12345">click here</a> now.</p>
+<a href="https://update-account.security-alerts.verify-info.com/redeem?gift=EURO50"></a>
+<p><a href="https://promo.rewards.giftcard-secure.net/claim"><img src="https://trusted.logo.com/gift-banner.png" alt="Claim your gift" style="border:0;"></a></p>
+<p>For additional assistance <a href="https://modal.bank-update.verify-services.org">here</a> or visit our <a href="https://www.yourbank.com/help">Help Center</a>.</p>
+<p><a href="https://www.yourbank.com/privacy-policy">Privacy Policy</a></p>
+<p>If you do not respond, access to your account and any pending orders will be suspended.</p>
+<p>Thank you,<br>Customer Support Team</p>
+</body>
+</html>

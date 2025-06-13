@@ -1,0 +1,48 @@
+From support@paypal.com Mon Sep 20 14:22:01 2021
+Return-Path: <support@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.10])
+	by mx.example.org with ESMTP id ABC123
+	for <user@example.com>; Mon, 20 Sep 2021 14:22:01 -0400 (EDT)
+From: "PayPal Support" <support@paypal.com>
+Reply-To: "PayPal Security Team" <security@secure-paypal.com>
+Subject: Urgent Account Password Verification Required
+To: user@example.com
+Date: Mon, 20 Sep 2021 14:22:01 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1632153721"
+
+------=_Part_123456_789012345.1632153721
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your account. Please verify your password immediately to avoid suspension.
+
+Go to the link below to secure your account:
+http://198.51.100.23/secure-login
+
+Thank you,
+PayPal Support Team
+
+------=_Part_123456_789012345.1632153721
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected <b>suspicious</b> activity and your account is at <span style="color:red;">risk</span>. 
+       Act <strong>immediately</strong> to prevent suspension.</p>
+    <p>
+      <a href="http://198.51.100.23/secure-login">
+        <img src="http://198.51.100.23/images/verify_button.png" alt="Verify Now"/>
+      </a>
+    </p>
+    <p>If the button doesn't work, use this link: <a href="http://198.51.100.23/secure-login"></a></p>
+    <p>Thank you,<br/>
+       PayPal Support Team</p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1632153721--

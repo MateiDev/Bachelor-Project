@@ -1,0 +1,62 @@
+From postmaster@dhl.com Mon Jul  5 09:14:07 2024
+Return-Path: <tracking@dhl.com>
+From: "DHL Express" <tracking@dhl.com>
+Reply-To: support@upshelpdesk.com
+To: user@domain.com
+Subject: Urgent: Your Package is Held – Immediate Action Required
+Message-ID: <ALERT-123456@dhl.com>
+Date: Mon, 05 Jul 2024 09:14:07 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Urgent Delivery Notification
+
+Dear Customer,
+
+Your package with DHL tracking number 1234567890 is currently held at customs due to incomplete fees. Immediate action is required to avoid return to sender or disposal.
+
+Please visit http://203.0.113.10/release to settle the small customs fee and release your parcel.
+
+Failure to act within 24 hours will result in package disposal. This is your last chance to claim your shipment.
+
+Thank you,
+DHL Express Team
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body>
+<p style="font-family:Arial, sans-serif; color:#333;">Dear Customer,</p>
+<p style="font-family:Arial, sans-serif; color:#333;">
+Your package <strong>#1234567890</strong> is <span style="color:red;">held</span> at customs due to outstanding fees. <span style="font-weight:bold;">Immediate Action Required!</span></p>
+<p style="font-family:Arial, sans-serif; color:#333;">
+To release your parcel, please <a href="http://192.0.2.123/release">click here</a> to settle the customs fee.
+</p>
+<p style="font-family:Arial, sans-serif; color:#333;">
+Alternatively, visit <a href="http://203.0.113.10/track">https://www.dhl.com/track</a> to view shipment status.
+</p>
+<p>
+<a href="http://203.0.113.20/confirm">
+<img src="https://www.dhl.com/logo.png" alt="DHL Express" style="border:none;" />
+</a>
+</p>
+<p style="font-family:Arial, sans-serif; color:#333;">
+For details on our terms, see our <a href="https://www.dhl.com/standard/privacy.html">Privacy Policy</a>.
+</p>
+<p style="font-family:Arial, sans-serif; color:#333;">
+Please verify your account <a href="http://203.0.113.11/unlock">here</a> to avoid penalties.
+</p>
+<a href="http://203.0.113.15/malware"></a>
+</body>
+</html>
+
+--BOUNDARY--

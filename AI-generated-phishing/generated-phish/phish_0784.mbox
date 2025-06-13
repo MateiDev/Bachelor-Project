@@ -1,0 +1,30 @@
+From shipments@dhl.com Tue Jul 16 14:30:00 2024
+Message-ID: <CANbus8347sdl@dhl.com>
+Date: Tue, 16 Jul 2024 14:30:00 +0200
+From: DHL Express <shipments@dhl.com>
+Reply-To: support@dhl-customerservice.net
+To: recipient@domain.com
+Subject: URGENT DELIVERY NOTIFICATION – IMMEDIATE ACTION REQUIRED
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Your package (Tracking ID: 123456789) is currently <strong>held at customs</strong> due to an <span style="color: red;">outstanding delivery fee</span>.</p>
+<p>This is an <strong>urgent</strong> notification. If you do not settle the fee within <strong>24 hours</strong>, your parcel will be <strong>returned to sender</strong>.</p>
+<p>
+  <a href="http://203.0.113.45/fee-payment">
+    <img src="http://cdn.dhl.com/images/dhl_logo.png" alt="DHL Express" border="0">
+  </a>
+</p>
+<p>To release your package, please <a href="http://tracking.dhl.delivery-service.com/pay-fee">click here</a> or go to <a href="http://203.0.113.45/track-now">https://www.dhl.com/track</a> and enter your Tracking ID.</p>
+<p>You can also view delivery status <a href="http://203.0.113.45/track">
+    <img src="http://tracking.dhl.delivery-service.com/icons/track_button.png" alt="Track Now">
+  </a>.</p>
+<p>Have questions? Visit our <a href="http://203.0.113.45/support">https://www.dhl.com/help-center</a> for more information.</p>
+<p>Thank you for your <strong>immediate</strong> attention.</p>
+<p>Best regards,<br>
+DHL Customs Support Team</p>
+</body>
+</html>

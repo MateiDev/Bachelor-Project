@@ -1,0 +1,39 @@
+From security@notice.com Thu Jul 25 12:00:00 2024
+Date: Thu, 25 Jul 2024 12:00:00 +0000
+From: "Security Update" <no-reply@secure-accounts.com>
+To: user@domain.com
+Subject: Urgent: Account Password Expiring Today!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123"
+
+----=_Part_0_123456.7890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello User,
+
+We have detected unusual sign-in attempts on your account from a new device. Immediate action is required to secure your account.
+
+Your password expires today and must be reset immediately to avoid service interruption.
+
+Verify now: https://secure-accounts.com/login
+
+If you did not initiate this request, contact support immediately.
+
+----=_Part_0_123456.7890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Hello <strong>User</strong>,</p>
+<p style="color:red;"><strong>Urgent Security Alert:</strong> We detected an <em>unusual sign-in</em> on your account. Your <strong>password expires today</strong>—reset it immediately!</p>
+<p>For your safety, <a href="http://192.168.100.200/verify">https://secure-accounts.com/login</a></p>
+<p><a href="http://198.51.100.42/reset"><img src="https://assets.security-notice.com/images/banner.png" alt="Security Banner" /></a></p>
+<p>You can also review our <a href="http://203.0.113.5/policy">privacy policy</a> or <a href="https://support.security.assistnow.com/help">https://support.security.assistnow.com/help</a>.</p>
+<p>To confirm your identity, <a href="http://198.51.100.42/security">here</a> or just <a href="http://198.51.100.42/login"></a></p>
+<p>If you did not request this, please contact support immediately.</p>
+</body>
+</html>
+
+----=_Part_0_123456.7890123--

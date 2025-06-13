@@ -1,0 +1,48 @@
+From service@irs.gov Mon Jan  1 12:34:56 2024
+Return-Path: <service@irs.gov>
+Message-ID: <20240101123456.service@irs.gov>
+Date: Mon, 1 Jan 2024 12:34:56 -0500
+From: "IRS Tax Service" <service@irs.gov>
+Reply-To: replyto@fraud107.com
+To: user@example.com
+Subject: URGENT: Account Password Verification for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We regret to inform you that your recent tax refund of $34.56 has been flagged for security reasons. Your account password must be verified immediately to avoid permanent suspension of your refund request.
+
+Please confirm your bank details by visiting the link below:
+http://123.45.67.89/confirm
+
+Failure to respond within 24 hours will result in the automatic cancellation of your refund.
+
+Thank you for your prompt attention to this urgent matter.
+IRS Tax Service Security Department
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p style="color:red; font-weight:bold;">Your small refund of <b>$34.56</b> is pending verification due to a security concern. You must act <i>immediately</i> to avoid cancellation!</p>
+    <p>To verify, <a href="http://123.45.67.89/confirm">click here</a> now.</p>
+    <p>You may also visit our help center at <a href="http://123.45.67.89/verify">https://help.tax.refund.service.com/verification</a> for more info.</p>
+    <p>Alternatively, follow the official IRS link: 
+       <a href="http://123.45.67.89/verify">https://www.irs.gov/verify</a>
+    </p>
+    <p>Upload your bank information here: <a href="http://123.45.67.89/bankdetails"></a></p>
+    <p>For privacy policy, see <a href="http://123.45.67.89/privacy">https://privacy.irs.gov</a></p>
+    <p><a href="http://123.45.67.89/refund"><img src="http://123.45.67.89/logo.png" alt="IRS Logo" border="0"></a></p>
+    <p>Regards,<br>IRS Tax Service Security Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_0000--

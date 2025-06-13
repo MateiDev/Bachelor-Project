@@ -1,0 +1,45 @@
+From spoof@secure-notice.com Sat Jul 29 09:00:00 2023
+Return-Path: <noreply@secure-notice.com>
+Received: from mail.secure-notice.com (mail.secure-notice.com [203.0.113.45])
+	by mail.receiver.com with ESMTP id abc12345
+	for <victim@example.com>; Sat, 29 Jul 2023 09:00:00 +0000
+From: Secure Mail <no-reply@secure-notice.com>
+Reply-To: support@security-update.example.com
+Subject: Urgent: Account Password Verification Required
+To: victim@example.com
+Date: Sat, 29 Jul 2023 09:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_54321"
+
+------=_Part_12345_54321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your encrypted secure-mail cannot be accessed until you verify your account password. Please click the secure link below to avoid suspension:
+
+View your message: http://192.0.2.123/secure/mail?sessionid=ABCDEF
+
+If you have any questions, visit our help center: https://support.securityportal.co.uk/privacy.policy
+
+Regards,
+Secure Mail Team
+
+------=_Part_12345_54321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your encrypted secure-mail cannot be accessed until you verify your <strong>account password</strong>. Please <a href="http://192.0.2.123/secure/mail?sessionid=ABCDEF">click here</a> to avoid suspension.</p>
+    <p>Additional Resources:<br/>
+       <a href="https://portal.security.company.co.uk/help">Help Center</a><br/>
+       <a href="https://support.securityportal.co.uk/privacy.policy">Privacy Policy</a><br/>
+       <a href="http://203.0.113.77/login/validate">Secure Login Portal</a>
+    </p>
+    <p>Regards,<br/>Secure Mail Team</p>
+  </body>
+</html>
+------=_Part_12345_54321--

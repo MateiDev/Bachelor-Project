@@ -1,0 +1,50 @@
+From support@company.com Sat Feb  3 09:21:30 2024
+Return-Path: <support@company.com>
+Received: from mail.company.com (mail.company.com [192.0.2.1])
+    by mx.domain.com with ESMTP id 1A2B3C4D
+    for <user@domain.com>; Sat, 3 Feb 2024 09:21:30 -0500 (EST)
+Date: Sat, 3 Feb 2024 09:21:30 -0500
+From: Company Support <support@company.com>
+Reply-To: it@security-update.com
+To: user@domain.com
+Subject: Unusual sign-in detected – verify now!
+Message-ID: <20240203092130.1ABCD@mail.company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Unusual sign-in detected—verify now: We noticed a login attempt from a new device. Please verify your account immediately to secure your data: http://203.0.113.5/verify?user=12345
+
+Password expires today – reset immediately here: http://login-update.secure.company.com.verify-account.info/reset
+
+Alternatively, go to https://secure.company.com/login or visit http://198.51.100.45/confirm
+
+Privacy Policy: https://company.com/privacy-policy
+Help Center: https://company.com/help
+
+Thank you,
+Company Security Team
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p><strong>Unusual sign-in detected—verify now:</strong> We noticed a login attempt from a new location/device. Please <a href="http://203.0.113.5/verify?user=12345">verify your account</a> <strong>immediately</strong> to secure your data.</p>
+    <p><strong>Password expires today – reset immediately</strong> <a href="http://login-update.secure.company.com.verify-account.info/reset">here</a>.</p>
+    <p><a href="http://198.51.100.45/reset-password"><img src="https://company.com/images/secure.png" alt="Reset Password"></a></p>
+    <p>Alternatively, click <a href="http://192.0.2.123/confirm">here</a> or visit <a href="http://198.51.100.45/confirm">https://secure.company.com/login</a>.</p>
+    <a href="http://phishing.bad/reset"></a>
+    <p>For assistance, refer to our <a href="https://company.com/privacy-policy">Privacy Policy</a> or <a href="https://company.com/help">Help Center</a>.</p>
+    <p>Thank you,<br>Company Security Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_0000--

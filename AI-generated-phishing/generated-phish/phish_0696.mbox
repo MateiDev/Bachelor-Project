@@ -1,0 +1,59 @@
+From support@securemail.com Thu Jul 25 12:34:56 2024
+Return-Path: <support@securemail.com>
+Delivered-To: victim@domain.com
+Received: from mail.securemail.com (mail.securemail.com [192.0.2.1])
+	by mx.domain.com with ESMTP id ABC123DEF
+	for <victim@domain.com>; Thu, 25 Jul 2024 12:34:56 -0500
+From: "SecureMail Support" <support@securemail.com>
+Reply-To: admin@legitcorp.com
+Subject: URGENT: Account Password Action Required
+Date: Thu, 25 Jul 2024 12:34:56 -0500
+Message-ID: <20240725123456.ABC123@mail.securemail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in to your account. Your password expires today – reset immediately.
+
+Please verify your identity now:
+
+1. http://1.2.3.4/verify?id=abc123  
+2. http://5.6.7.8/reset?uid=abc123  
+
+Failure to act will result in suspension of your account.
+
+Regards,
+SecureMail Support Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Password Verification</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We detected an <strong>unusual sign-in</strong> to your <em>account</em>. Your <strong>password expires today</strong> – <span style="color:red;">reset immediately</span>.</p>
+<p>Please verify your identity now:</p>
+<p>
+  <a href="http://1.2.3.4/verify?id=abc123">
+    <img src="http://5.6.7.8/images/verify.png" alt="Verify Now">
+  </a>
+</p>
+<p>
+  <a href="http://1.2.3.4/verify?id=abc123"></a>
+  <a href="http://5.6.7.8/reset?uid=abc123"></a>
+</p>
+<p>If you do not comply within 24 hours, your account will be suspended.</p>
+<p>Regards,<br>SecureMail Support Team</p>
+</body>
+</html>
+
+--boundary123--

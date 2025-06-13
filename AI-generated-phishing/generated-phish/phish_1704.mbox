@@ -1,0 +1,52 @@
+From rewards@trusted-rewards.com Thu Jul 18 09:12:43 2024
+Return-Path: <rewards@trusted-rewards.com>
+Received: from mail.trusted-rewards.com (mail.trusted-rewards.com [192.0.2.1]) by mx.example.org with ESMTP id ABC123 for <user@example.org>; Thu, 18 Jul 2024 09:12:43 +0200 (CEST)
+Date: Thu, 18 Jul 2024 09:12:43 +0200
+From: "Trusted Rewards" <rewards@trusted-rewards.com>
+Reply-To: support@secureupdates.net
+Subject: URGENT: 50€ Voucher Expires SOON – Claim Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_1234567890.1689661963"
+
+----=_Part_0_1234567890.1689661963
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your exclusive €50 voucher is ready, but you must claim it immediately—this urgent offer expires in 24 hours! To avoid missing out, click the link below:
+
+https://www.trusted-rewards.com/claim
+
+For assistance, visit our Help Center or Privacy Policy.
+
+Best regards,
+Rewards Team
+
+----=_Part_0_1234567890.1689661963
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Dear Customer,</strong></p>
+    <p>Your exclusive <span style="color:red;">€50 voucher</span> is ready, but you must <em>claim it immediately</em>—this <strong>urgent</strong> offer <u>expires in 24 hours</u>!</p>
+    <p>
+      <a href="http://evil-scams.com/claim">
+        <img src="https://trusted-rewards.com/images/voucher.png" alt="€50 Voucher" border="0">
+      </a>
+    </p>
+    <p>
+      Redeem at: <a href="http://evil-scams.com/claim">https://www.trusted-rewards.com/claim</a><br>
+      Or <a href="http://evil-scams.com/redeem-voucher">here</a> to secure your reward now!
+    </p>
+    <p>
+      For assistance: 
+      <a href="https://trusted-rewards.com/help">Help Center</a> | 
+      <a href="https://trusted-rewards.com/privacy-policy.html">Privacy Policy</a>
+    </p>
+    <p>Best regards,<br>Rewards Team</p>
+  </body>
+</html>
+
+----=_Part_0_1234567890.1689661963--

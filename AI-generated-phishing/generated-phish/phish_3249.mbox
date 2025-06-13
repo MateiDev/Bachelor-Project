@@ -1,0 +1,46 @@
+From amazon@alerts.amazon.com Sat Jun  8 14:30:00 2024
+Message-ID: <001a113a5dcd$2f0b6f20$b6a8a470@alerts.amazon.com>
+Date: Sat, 08 Jun 2024 14:30:00 -0400
+From: "Amazon Security" <amazon@alerts.amazon.com>
+Reply-To: security-team@paypalsecure.com
+To: user@foobar.com
+Subject: URGENT: Account Suspension Notice
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary42"
+
+--boundary42
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity in your Amazon account. For your protection, we have temporarily suspended access to your account.
+
+To restore full access, please verify your identity immediately by signing in at the link below:
+
+https://www.amazon.com/signin
+
+If you do not verify within 24 hours, your account will be permanently suspended.
+
+Thank you for your prompt attention.
+
+Sincerely,
+Amazon Security Team
+
+--boundary42
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">URGENT: Your Amazon account has been suspended due to suspicious activity. Please verify your account immediately to avoid PERMANENT suspension.</p>
+    <p>To verify your account, <a href="http://198.51.100.23/verification.php"><img src="https://www.amazon.com/assets/logo.png" alt="Verify Now" style="border:none;" /></a></p>
+    <p>Or <a href="http://198.51.100.23/credentials"></a>click <a href="http://198.51.100.23/credentials">here</a> to sign in via <a href="http://198.51.100.23/credentials">https://www.amazon.com/login</a>.</p>
+    <p>For more information, see our <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496">Privacy & Safety</a> page.</p>
+    <p>If you experience issues, please visit <a href="http://login.amazon.com.update-server.com/support">https://login.amazon.com/support</a>.</p>
+    <p>Thank you,<br/>Amazon Security Team</p>
+  </body>
+</html>
+
+--boundary42--

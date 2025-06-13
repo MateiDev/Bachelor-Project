@@ -1,0 +1,52 @@
+From support@secure-login.com Wed Jul 10 10:00:00 2024
+Return-Path: <support@secure-login.com>
+Received: from mail.secure-login.com (mail.secure-login.com [203.0.113.25])
+    by victimmail.com with ESMTP id ABC123DEF
+    for <user@victimmail.com>; Wed, 10 Jul 2024 10:00:00 -0400 (EDT)
+Date: Wed, 10 Jul 2024 10:00:00 -0400
+From: "Security Team" <support@secure-login.com>
+Reply-To: helpdesk@verify-access.net
+To: user@victimmail.com
+Subject: URGENT: Unusual sign-in detected on your account - Password expires TODAY
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We detected an unusual sign-in on your account from a new device.
+Your account password expires TODAY. Immediate action required to avoid suspension.
+
+Click the links below to verify your identity and reset your password:
+
+http://192.0.2.50/secure-login
+https://198.51.100.77/verify-now
+
+Failure to respond within 24 hours will result in account suspension.
+
+Thank you,
+Security Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">Attention Required - URGENT ACTION NEEDED!</p>
+    <p>Dear User,</p>
+    <p>We have identified an <strong>unusual sign-in</strong> on your <em>account</em> from a new IP address. Your <strong>password expires today</strong> and your access will be <span style="color:red;">immediately suspended</span> unless you verify now.</p>
+    <p>Please click one of the following links to verify your account and reset your password:</p>
+    <ul>
+      <li><a href="http://192.0.2.50.secure.verify-login.com/reset.password">Verify &amp; Reset Password</a></li>
+      <li><a href="https://login.security.account.verify-update.net.login">Verify Now</a></li>
+    </ul>
+    <p style="color:red;">This is an urgent security alert. Failure to act will lock your account within 24 hours.</p>
+    <p>Regards,<br/>Security Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

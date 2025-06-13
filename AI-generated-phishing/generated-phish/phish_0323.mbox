@@ -1,0 +1,50 @@
+```mbox
+From somegenuineemail@trustedsource.com Sat Oct 14 09:23:45 2023
+From: "Customer Support" <support@trustedsource.com>
+Reply-To: customerhelp@anotherdomain.com
+To: undisclosed-recipients:;
+Subject: Urgent! Your Account Needs Verification to Claim a €500 Voucher!
+
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We have a special reward just for you! You’re eligible to receive a €500 gift voucher. However, your account requires urgent verification to qualify for this exclusive offer.
+
+Follow the link below immediately to confirm your details:
+
+[Click here to claim your voucher](http://trustedsource.com.vouchersecure-check.com)
+
+Please ensure you complete this process within the next 24 hours to avoid losing this opportunity.
+
+Thank you for your prompt attention to this matter.
+
+Best Regards,
+Customer Support
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We have a special <strong>reward</strong> just for you! You’re eligible to receive a €500 gift voucher. However, your account requires <strong>urgent</strong> verification to qualify for this <em>exclusive offer</em>.</p>
+<p>Follow the link below immediately to confirm your details:</p>
+<p><a href="http://trustedsource.com.vouchersecure-check.com"></a></p>
+<p><img src="http://trustedsource.com/logo.png" alt="Click Here" style="width:200px;height:60px;"/></p>
+<p>Please ensure you complete this process within the next 24 hours to avoid losing this opportunity.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Best Regards,<br/>
+Customer Support</p>
+</body>
+</html>
+
+--boundary123--
+```

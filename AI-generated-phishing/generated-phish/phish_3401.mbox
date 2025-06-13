@@ -1,0 +1,37 @@
+From phishing@mails.tests Tue Apr 16 10:20:30 2024
+Return-Path: <service@trusted-bank.com>
+Delivered-To: user@clientdomain.com
+Received: from mail.trusted-bank.com (mail.trusted-bank.com [192.0.2.1]) by mx.clientmail.net with ESMTP id ABC123 for <user@clientdomain.com>; Tue, 16 Apr 2024 10:20:30 +0200
+From: "TrustedBank Alerts" <service@trusted-bank.com>
+Reply-To: <support@secure-update.net>
+To: "Valued Customer" <user@clientdomain.com>
+Subject: Urgent: Account Update Required - €50 Voucher Available
+Date: Tue, 16 Apr 2024 10:20:30 +0200
+Message-ID: <20240416102030.ABC123@mail.trusted-bank.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity on your account and your password is at risk. Immediate action is required to secure your login. As an apology for the inconvenience, you are eligible for a €50 voucher.</p>
+    <p>Please verify your details and claim your reward below:</p>
+    <p>
+      <a href="http://login.verify.bank.update.secure-login.info/voucher">
+        <img src="http://promo.images-vr.cdn/voucher.png" alt="Claim Your Voucher" width="600" height="200">
+      </a>
+    </p>
+    <p>To confirm, please click <a href="http://secure.modal.link/claim">here</a> or visit <a href="http://update.security-service.info"></a> to proceed.</p>
+    <p>If you prefer, you can also go to 
+      <a href="http://bank.secure-update-service.com/reset">https://trusted-bank.com/reset</a>
+      to validate your account immediately.
+    </p>
+    <p>For more information, please see our <a href="https://www.trusted-bank.com/privacy">Privacy Policy</a> or <a href="https://www.trusted-bank.com/help">Help Center</a>.</p>
+    <p><strong>URGENT:</strong> Failure to act within 24 hours will result in temporary suspension of your account.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>
+      TrustedBank Security Team
+    </p>
+  </body>
+</html>

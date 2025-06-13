@@ -1,0 +1,58 @@
+From no-reply@yourbank.com Sat Jul 20 10:15:00 2024
+Return-Path: <no-reply@secure-update.com>
+Received: from mail.trusted-domain.com (mail.trusted-domain.com [192.0.2.10])
+    by mx.yourbank.com with ESMTP id ABC123XYZ
+    for <victim@target.com>; Sat, 20 Jul 2024 10:15:00 +0000
+Date: Sat, 20 Jul 2024 10:15:00 +0000
+From: "Customer Service" <service@yourbank.com>
+Reply-To: helpdesk@secure-update-login.support
+To: victim@target.com
+Subject: Urgent: Account Password Expires Today – Reset Immediately
+Message-ID: <1234567890@yourbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_00123"
+
+------=_NextPart_000_00123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. To protect your personal data, immediate action is required. Your password expires today – reset immediately to avoid service interruption.
+
+Verify your account now:
+1. Visit: https://www.bank.com/security
+2. Or, click here: http://secure-update.bank-account.reset-server.login.pw/verify
+3. Or, go to: http://login.customer-service.safe-update.com/reset
+
+If you do not reset your password within 2 hours, your account will be temporarily suspended.
+
+Regards,
+Customer Support Team
+YourBank
+
+------=_NextPart_000_00123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Reset Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;"><strong>Unusual sign-in detected—verify now.</strong></p>
+<p>Your password <em>expires today</em> – <strong>reset immediately</strong> to avoid service interruption.</p>
+<p>To secure your account, <a href="http://secure-update.bank-account.reset-server.login.pw/verify">click here</a> now.</p>
+<p>Alternatively, go to <a href="https://secure-update.login-server.com/help">https://www.bank.com/security/help</a> to reset your password.</p>
+<p>Please review our <a href="http://privacy-policy.bank-secure.com/policy/update.html">Privacy Policy</a> or <a href="http://help-center.serviceupdate.login.pw/faq">Help Center</a>.</p>
+<p>
+<a href="http://secure-update.bank-account.reset-server.login.pw/verify">
+  <img src="http://assets.bank.com/images/logo.png" alt="YourBank Logo" border="0"/>
+</a>
+</p>
+<p style="font-size:small;color:gray;">If you did not initiate this request, contact us immediately.</p>
+</body>
+</html>
+
+------=_NextPart_000_00123--

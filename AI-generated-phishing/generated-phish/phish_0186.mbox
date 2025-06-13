@@ -1,0 +1,40 @@
+```mbox
+From nobody Sat Oct  7 21:18:53 2023
+From: "Internal Revenue Service" <service@irs-gov.com>
+To: "Valued Taxpayer" <victim@example.com>
+Subject: Urgent: Action Required for Tax Refund Confirmation
+Date: Sat, 7 Oct 2023 20:18:53 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have determined that you are eligible to receive a tax refund. Please confirm your bank details immediately to expedite the process.
+
+To complete your refund confirmation, kindly click here: http://192.168.1.1/iconfirm
+
+Act quickly to ensure you do not miss the processing deadline!
+
+Sincerely,
+Internal Revenue Service
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We are pleased to inform you that you are eligible for a tax refund. Please confirm your details to process your claim.</p>
+<p>Click <a href="http://192.168.1.1/iconfirm">here</a> to confirm your bank information.</p>
+<p>It is important that you respond <strong>immediately</strong> to this notice to avoid delays.</p>
+<p>For more information, do not hesitate to review our official privacy policy or contact our help desk for assistance.</p>
+<img src="http://192.168.1.1/refund-image" alt="IRS Refund">
+<p>Thank you,</p>
+<p>Internal Revenue Service</p>
+</body>
+</html>
+--boundary123--
+```

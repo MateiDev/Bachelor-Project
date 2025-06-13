@@ -1,0 +1,50 @@
+```mbox
+From fake_support@secure-account.com Wed Oct  4 14:11:20 2023
+Return-Path: <fake_support@secure-account.com>
+Date: Wed, 4 Oct 2023 14:10:00 -0400
+From: "Secure Account Team" <fake_support@secure-account.com>
+To: user@example.com
+Subject: Urgent: Immediate Action Required! Verify Your Account to Avoid Suspension
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued User,
+
+We've noticed incorrect login attempts on your account and for your safety, we urge you to verify your information immediately to prevent account suspension.
+
+Please verify your account by visiting our secure website:
+
+http://123.456.78.9/secure-update
+
+Failure to comply will result in immediate suspension.
+
+Secure Account Team
+fake_support@secure-account.com
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Valued User,</p>
+    <p>We've noticed incorrect login attempts on your account and for your safety, we urge you to verify your information immediately to prevent account suspension.</p>
+    <p>Please verify your account by visiting our secure website:</p>
+    <p><a href="http://123.456.78.9/secure-update">http://secure-account.com/verify</a></p>
+    <p>Failure to comply will result in immediate suspension.</p>
+    <p>Secure Account Team<br />
+    <a href="mailto:fake_support@secure-account.com">fake_support@secure-account.com</a></p>
+    <table border="0">
+      <tr>
+        <td><a href="https://secure-account.com/help">Help</a></td>
+        <td><a href="https://secure-account.com/privacy-policy">Privacy Policy</a></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+--boundary123--
+```

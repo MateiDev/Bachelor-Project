@@ -1,0 +1,33 @@
+```mbox
+From phishing@secure-mail.example.com Fri Oct 15 00:00:00 2023
+Return-Path: <phishing@secure-mail.example.com>
+Received: from secure-mail.example.com (secure-mail.example.com [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 1234567890
+    for <target@example.com>; Fri, 15 Oct 2023 00:00:00 +0000 (UTC)
+Message-ID: <20231015000000.1234567890@secure-mail.example.com>
+Date: Fri, 15 Oct 2023 00:00:00 +0000
+From: Portal Security <no-reply@secure-mail.example.com>
+Reply-To: support@fake-portal.example.com
+To: target@example.com
+Subject: Urgent: Secure Your Account Now
+
+Dear Valued User,
+
+We detected an unusual login attempt on your account. It is important to secure your information immediately to prevent unauthorized access. 
+
+Please <a href="http://secure.verify-account.com">click here</a> to verify your account credentials.
+
+If this was not you, please secure your account by visiting our support page.
+
+Note: Failure to verify will lead to the suspension of your account for security reasons.
+
+For additional security tips, visit our <a href="https://secure-mail.example.com/privacy-policy">privacy policy</a> or <a href="https://secure-mail.example.com/help">help</a> page.
+
+For support, please contact us <a href=""></a>.
+
+Thank you for your prompt attention to this matter.
+
+Best Regards,
+Portal Security Team
+
+```

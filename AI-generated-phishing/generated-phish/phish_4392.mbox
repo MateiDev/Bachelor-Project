@@ -1,0 +1,43 @@
+From support@yourbank.com Mon Jul  3 10:15:00 2023
+From: "YourBank Support" <support@yourbank.com>
+Reply-To: "NoReply" <noreply@secure-update.biz>
+To: user@example.com
+Subject: URGENT: Your Account Password Expires Today – Verify Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We have detected an unusual sign-in on your account. For security reasons, your password will expire today.
+
+Please verify your identity immediately by visiting the following link:
+https://secure.update.service.com.login.verify/reset
+
+To reset your password, go to http://123.45.67.89/reset?token=abc123
+
+If you do not reset your password, access to your account will be suspended.
+
+Thank you,
+The YourBank Security Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Hello,</p>
+    <p>We have detected an <strong>unusual sign-in</strong> on your account. For security reasons, your <span style="color:red;">password expires today</span>.</p>
+    <p>Please verify your identity <em>immediately</em> by clicking <a href="http://123.45.67.89">here</a>.</p>
+    <p>Alternatively, visit <a href="http://123.45.67.89/reset?token=abc123">https://www.yourbank.com</a> <img src="http://images.trusted.com/logo.png" alt="YourBank Logo" style="border:none;"/></p>
+    <p>If the above links do not work, use <a href="http://fraud.site/reset"></a> or review our <a href="http://help.security-update.biz/policy">privacy-policy</a>.</p>
+    <p>Failure to take <span style="font-weight:bold;">urgent</span> action will result in account suspension.</p>
+    <p>Regards,<br/>YourBank Support Team</p>
+  </body>
+</html>
+
+--==BOUNDARY==--

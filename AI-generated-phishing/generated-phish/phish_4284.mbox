@@ -1,0 +1,46 @@
+From phishing@bank-secure.com Wed Jul 10 14:33:22 2024
+Return-Path: <no-reply@bank-secure.com>
+From: "Bank Secure Notifications" <no-reply@bank-secure.com>
+To: user@customer-mail.com
+Subject: URGENT: Password Expires Today – Reset Immediately on Your Account
+Date: Wed, 10 Jul 2024 14:33:22 -0400
+Reply-To: security@notify-update.net
+Message-ID: <20240710143322.phish@bank-secure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_11111_2222222222222"
+
+------=_Part_000_11111_2222222222222
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+ACTION REQUIRED: We have detected an unusual sign-in attempt on your account.
+Your password expires today. Please reset immediately: http://192.0.2.78/reset
+If you do not act now, your account will be suspended.
+
+For assistance, visit our Privacy Policy: https://bank-secure.com/privacy-policy
+Or contact support: https://support.bank-secure.com
+Review your recent activity here: http://malicious-privacy-update.net
+
+------=_Part_000_11111_2222222222222
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Unusual sign-in detected—verify now</strong></p>
+    <p>Your <span style="color:red;">password expires today</span> on your <u>account</u>. Immediate action is <em>urgent</em>.</p>
+    <p><a href="http://203.0.113.5/update"><img src="http://192.0.2.50/banner.png" alt="Verify Account"></a></p>
+    <p>To reset, click the link below:</p>
+    <ul>
+      <li><a href="http://192.0.2.78/reset">Reset Password Now</a></li>
+      <li><a href="http://malicious-domain.net/phish">click here</a></li>
+      <li><a href="http://192.168.1.100/login"></a></li>
+      <li>Or visit: <a href="http://192.168.1.100/login">http://www.bank-secure.com/login</a></li>
+    </ul>
+    <p>Review your recent activity <a href="http://malicious-privacy-update.net">here</a>.</p>
+    <p>Privacy: <a href="https://bank-secure.com/privacy-policy">Privacy Policy</a></p>
+    <p>Help &amp; Support: <a href="https://help.bank-secure.com/">https://help.bank-secure.com/</a></p>
+  </body>
+</html>
+
+------=_Part_000_11111_2222222222222--

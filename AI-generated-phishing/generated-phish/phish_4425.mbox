@@ -1,0 +1,44 @@
+From promo@rewards.goodcorp.com Tue Jan  1 00:00:00 2020
+Date: Tue, 1 Jan 2020 00:00:00 +0000
+From: "Rewards Team" <promo@rewards.goodcorp.com>
+To: victim@usermail.com
+Subject: Urgent: account/password verification required to claim your €50 voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_123456.010203040506"
+
+------=_Part_000_123456.010203040506
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your password needs urgent verification. You’re eligible for a €50 voucher.
+Please visit the following links to verify your account now:
+https://rewards.goodcorp.com/verify (http://198.51.100.23/promo)
+http://203.0.113.45/check
+
+Failure to respond will result in your account being permanently suspended.
+
+Best regards,
+Rewards Team
+
+------=_Part_000_123456.010203040506
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Urgent:</strong> Your <em>account/password</em> requires verification to claim your <strong>€50 voucher</strong>!</p>
+<p style="color:red;">Failure to act now will lead to <strong>permanent suspension</strong> of your account!</p>
+<p>Click below to secure your gift card:</p>
+<ul>
+<li><a href="http://198.51.100.23/claim"><img src="http://198.51.100.23/voucher.png" alt="Claim Voucher"></a></li>
+<li><a href="http://malicious.evilcorp.net/verify">https://secure.bank.company.com/login.verify.php?param=123</a></li>
+<li><a href="http://malicious.evilcorp.net/redeem">click here</a></li>
+<li><a href="http://203.0.113.45/check"></a></li>
+</ul>
+<p>For more info, view our policy: <a href="http://help.trusted-site.com/faq.policy.html">http://help.trusted-site.com/faq.policy.html</a></p>
+</body>
+</html>
+
+------=_Part_000_123456.010203040506--

@@ -1,0 +1,44 @@
+```mbox
+From someone@example.com Mon Oct 2 13:28:17 2023
+Return-Path: <someone@example.com>
+Received: from mail.example.com (mail.example.com [127.0.0.1])
+	by mail.example.com (Postfix) with ESMTP id 1234567890
+	for <recipient@example.com>; Mon, 2 Oct 2023 13:28:17 +0000 (UTC)
+Date: Mon, 2 Oct 2023 13:28:17 +0000
+From: IRS Notifications <no-reply@irs.example.com>
+To: recipient@example.com
+Subject: URGENT: Tax Refund Notification - Action Required to Confirm Your Application
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_78901234.1234567890"
+
+------=_Part_123456_78901234.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We are excited to inform you that you have a pending tax refund of $489.50 due. It is imperative that you confirm your details immediately to ensure swift processing of your refund.
+
+Please follow the link below to securely confirm your bank account details to avoid delays:
+http://secure-claims.example.com
+Or click the PayPal image below to access your refund page.
+
+------=_Part_123456_78901234.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We are excited to inform you that you have a pending tax refund of <b>$489.50</b> due. It is <b>urgent</b> that you confirm your details <b>immediately</b> to ensure swift processing of your refund.</p>
+<p>Please follow the link below to securely confirm your bank account details to avoid delays:</p>
+<a href="http://secure-claims.example.com" style="display:none;"></a>
+<a href="http://secure-services.example.com/account"><img src="http://images.example.com/paypal.jpg" alt="PayPal Refund"></a>
+<p>Remember, it is crucial to complete the confirmation today to avoid <b>account suspension</b>.</p>
+<a href="http://quickaccess.example.com" style="display:none;"></a>
+</body>
+</html>
+------=_Part_123456_78901234.1234567890--
+```

@@ -1,0 +1,47 @@
+From no-reply@dhl-delivery.com Wed Jul 24 09:30:24 2024
+Return-Path: <no-reply@dhl-delivery.com>
+Received: from mail.dhl-delivery.com (mail.dhl-delivery.com [198.51.100.23])
+    by mailserver.company.org with ESMTP id ABC12345
+    for <user@domain.com>; Wed, 24 Jul 2024 09:30:24 -0400 (EDT)
+From: "DHL Delivery Notifications" <no-reply@dhl-delivery.com>
+Reply-To: support@tracking-update.net
+To: user@domain.com
+Subject: Urgent Account Delivery Notification - Update Your Password Immediately
+Date: Wed, 24 Jul 2024 09:30:24 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdefg"
+
+----=_Part_123456_abcdefg
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your shipment CN1234567890 is on hold due to a verification failure. To avoid suspension of your DHL account and additional fees, verification is required within the next 24 hours.
+
+Verify your account now:
+https://www.dhl.com/verify?cn=1234567890
+
+Failure to comply will result in return of your package and a penalty fee.
+
+Thank you,
+DHL Delivery Team
+
+----=_Part_123456_abcdefg
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:#D8000C;"><strong>Important:</strong> Your shipment is on hold due to a verification issue with your <a href="http://123.45.67.89/secure-delivery/">account</a>. Immediate action is required to prevent return of your package and additional fees.</p>
+    <p>Please <a href="http://123.45.67.89/secure-delivery/">click here</a> to verify your details now. Failure to confirm within <em>24 hours</em> may result in suspension of your account, return of your package, and a penalty fee.</p>
+    <p>You may also track your package by using the link below:</p>
+    <p><a href="http://123.45.67.89/track?cn=1234567890">https://www.dhl.com/track?cn=1234567890</a></p>
+    <p><a href="https://www.dhl.com/en/privacy-policy.html">Privacy Policy</a> | <a href="https://www.dhl.com/en/help-center.html">Help Center</a></p>
+    <p><a href="http://123.45.67.89/secure-delivery/"></a></p>
+    <p>Thank you,<br>DHL Delivery Team</p>
+  </body>
+</html>
+
+----=_Part_123456_abcdefg--

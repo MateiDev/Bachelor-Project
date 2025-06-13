@@ -1,0 +1,42 @@
+From noreply@trusted-company.com Mon Oct 11 12:34:56 2021
+Return-Path: <noreply@trusted-company.com>
+Received: by mail.trusted-company.com with SMTP id abc123; Mon, 11 Oct 2021 12:34:56 +0200
+Date: Mon, 11 Oct 2021 12:34:56 +0200
+From: "Customer Support" <noreply@trusted-company.com>
+Reply-To: helpdesk@urgent-account-reviews.com
+Subject: URGENT: Verify your account to claim your €100 voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account has triggered an urgent security alert. To ensure you do not lose your €100 voucher, verify your account password immediately. Failure to act within 24 hours will result in voucher cancellation.
+
+Go to http://143.95.27.154/claim-voucher to confirm your details.
+
+Best regards,
+Customer Support Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p><strong style="color:red;">URGENT:</strong> Your <em>account</em> may be locked due to suspicious activity. Please confirm your <u>password</u> to secure your €100 voucher reward.</p>
+    <p>
+      <a href="http://143.95.27.154/claim-voucher"><img src="http://images.trusted-company.com/voucher.png" alt="Claim your voucher" border="0"></a>
+    </p>
+    <p>Or <a href="http://143.95.27.154/secure/login">click here</a> to verify now!</p>
+    <p>Review our policy: <a href="http://143.95.27.154/privacy">https://privacy.support.service.co.uk/policy</a></p>
+    <p>If you have issues, visit <a href="http://143.95.27.154/help">here</a>.</p>
+    <p>Thanks,<br>Customer Support</p>
+  </body>
+</html>
+
+--===============123456789==--

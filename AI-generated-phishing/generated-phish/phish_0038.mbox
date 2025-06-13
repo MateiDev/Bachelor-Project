@@ -1,0 +1,32 @@
+```
+From - Thu Oct 19 16:37:36 2023
+X-Account-Key: account2
+X-UIDL: 00001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00800000
+Return-path: <notifications@delivery-service.com>
+Envelope-to: victim@example.com
+Delivery-date: Thu, 19 Oct 2023 16:37:35 +0000
+Received: from unknown (192.0.2.1) by mail.example.com with SMTP; Thu, 19 Oct 2023 16:37:35 +0000
+Message-ID: <87654321.1234567890.abcdefghij@delivery-service.com>
+Date: Thu, 19 Oct 2023 16:37:35 +0000
+From: Delivery Service <notifications@delivery-service.com>
+Subject: Urgent! Action Required: Parcel Held for Verification
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+
+<html>
+<head>
+<title>Action Needed: Verify Your Account</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We are reaching out to inform you that your parcel is currently on hold due to a missing address verification. Immediate action is required to prevent the parcel from being sent back to the sender.</p>
+<p>Please <a href="http://198.51.100.2/verify" style="color: #ff0000;">click here</a> to confirm your details and ensure swift delivery. Failure to verify your information today might result in additional fees.</p>
+<p>For more information, visit our official <a href="http://www.officialdeliveryservice.com/help">help page</a>. Your privacy is important to us, please see our <a href="http://www.officialdeliveryservice.com/privacy-policy">privacy policy</a>.</p>
+<p>Thank you,</p>
+<p>Delivery Service Team</p>
+</body>
+</html>
+```

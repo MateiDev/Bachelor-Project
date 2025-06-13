@@ -1,0 +1,60 @@
+```mbox
+From phishing@example.com Fri Oct 27 14:00:00 2023
+Return-Path: <phishing@example.com>
+Delivered-To: victim@example.com
+Received: by 10.0.0.1 with SMTP id z1csp1234567qwr;
+        Fri, 27 Oct 2023 14:00:00 -0700 (PDT)
+X-Received: by 10.0.0.2 with SMTP id B2MR12345678qwd.0.1234567890123;
+        Fri, 27 Oct 2023 14:00:00 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1234567890; cv=none;
+        d=google.com; s=arc-20160816;
+        b=foobar...
+ARC-Message-Signature: i=1; a=rsa-sha256; t=1234567890;
+        c=relaxed/relaxed; d=google.com;
+        s=arc-20160816; h=from:to:subject:message-id:date:mime-version;
+        bh=foobar...; b=foobar...
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@example.com header.s=2023
+X-Sender: phishing@example.com
+X-Original-To: victim@example.com
+From: "Customer Support" <support@secure-access.com>
+To: victim@example.com
+Subject: Important: Immediate Account Verification Required
+Date: Fri, 27 Oct 2023 21:00:00 +0000
+Message-ID: <1234567890.09876.mail@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+    boundary="----=_Part_1234567_0987654321.1234567890123"
+
+------=_Part_1234567_0987654321.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account. It is imperative that you verify your login credentials immediately to avoid service interruption. Login now at http://secure-login-update.com/account.
+
+Failure to comply will result in temporary suspension of your account.
+
+Best regards,
+Security Team
+
+------=_Part_1234567_0987654321.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected <strong>unusual activity</strong> on your account. It is imperative that you verify your login credentials <strong>immediately</strong> to avoid service interruption. Please <a href="http://secure-login-update.com/account" style="color:blue;">click here</a> to login now.</p>
+    <p><img src="https://images.example.com/warning.png" alt="Verification Required" /></p>
+    <p>Failure to comply will result in <strong>temporary suspension</strong> of your account.</p>
+    <p>For more information, visit our <a href="https://trusted-site.com/privacy-policy">Privacy Policy</a>.</p>
+    <br/>
+    <p>Best regards,<br/>
+       Security Team</p>
+  </body>
+</html>
+
+------=_Part_1234567_0987654321.1234567890123--
+```

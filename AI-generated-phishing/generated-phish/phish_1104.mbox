@@ -1,0 +1,46 @@
+From phishing@securebank.com Fri Mar 08 09:23:45 2024
+Return-Path: <phishing@securebank.com>
+Delivered-To: victim@customer.com
+Received: by mail.server.com id 1c2d3e4f; Fri, 8 Mar 2024 09:23:45 +0000 (UTC)
+From: Secure Bank Notifications <no-reply@securebank.com>
+To: "Valued Customer" <victim@customer.com>
+Subject: Urgent: Account Password Update Required to Claim Your Voucher
+Date: Fri, 8 Mar 2024 09:23:45 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1657290225"
+
+------=_Part_0_123456789.1657290225
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+You have been selected to receive a €100 voucher. To claim, please visit the link below and update your account password:
+
+http://securebank.com/claim
+
+Thank you,
+Secure Bank Support Team
+
+------=_Part_0_123456789.1657290225
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Congratulations! You are eligible for a <strong>€100 voucher</strong> as a token of our appreciation.</p>
+<p>To <span style="color:red;">claim your voucher</span>, please update your account password immediately by following the link below:</p>
+<ul>
+<li>Login and Claim: <a href="http://claim.reward2024.com/processing">http://securebank.com/claim</a></li>
+<li>Quick Verify: <a href="http://malicious.phish.site/verify-login">http://securebank.com/verification</a></li>
+<li>Or complete here: <a href="http://verify.voucher.provider.co.uk/complete">here</a></li>
+<li>Finalize Setup <a href="http://phishsite.co/setup"></a></li>
+</ul>
+<p>For questions, see our <a href="https://securebank.com/privacy-policy">privacy policy</a> or visit our <a href="https://help.securebank.com/contact">help center</a>.</p>
+<p><em>If you do not update your password within 24 hours, your voucher will expire.</em></p>
+<p>Thank you,<br/>Secure Bank Support Team</p>
+</body>
+</html>
+
+------=_Part_0_123456789.1657290225--

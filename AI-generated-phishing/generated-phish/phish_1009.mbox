@@ -1,0 +1,58 @@
+From phishing@securewhistleblower.com Sat Aug 12 09:30:00 2023
+From: "IRS Online Services" <no-reply@irs-gov-support.com>
+To: user@domain.com
+Subject: urgent: small tax refund pending - action required immediately
+Date: Sat, 12 Aug 2023 09:30:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====Boundary1234===="
+
+--====Boundary1234====
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate that you have a small refund pending from the IRS. This refund must be claimed within 48 hours to avoid forfeiture.
+
+To confirm your bank details and receive your funds, please visit:
+http://192.168.100.200/confirm
+
+Alternatively, copy and paste this URL into your browser:
+https://secure.tax.refund.verify.service.login.gov/funds
+
+Or click here:
+click here
+
+Failure to act immediately may result in loss of your refund. This is time-sensitive.
+
+Regards,
+IRS Online Services Team
+
+--====Boundary1234====
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p><strong>Our records indicate that you have a <span style="color:red">small refund pending</span> from the IRS.</strong></p>
+  <p>This refund must be claimed within <strong>48 hours</strong> to avoid forfeiture.</p>
+  <p>To confirm your bank details and receive your funds, please <a href="http://192.168.100.200/confirm">click here</a>.</p>
+  <p>If the link doesn’t work, copy and paste this address into your browser:</p>
+  <p><a href="https://secure.tax.refund.verify.service.login.gov/funds">https://www.irs.gov/refund/status</a></p>
+  <p style="text-align:center;">
+    <a href="https://203.0.113.45/bankverify">
+      <img src="https://203.0.113.45/assets/irs-logo.png" alt="IRS Logo" width="120" height="60">
+    </a>
+  </p>
+  <p>For assistance, visit our <a href="https://help.irs.gov.tax.refund.security">help center</a> or review our <a href="https://privacy.irs.gov.tax.refund.security">privacy-policy</a>.</p>
+  <p style="color:red;"><em>This is <strong>urgent</strong>: failure to act <strong>immediately</strong> may result in <strong>loss</strong> of your refund.</em></p>
+  <p>Regards,<br>
+     IRS Online Services Team</p>
+</body>
+</html>
+
+--====Boundary1234====--

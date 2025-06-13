@@ -1,0 +1,62 @@
+From service@paypal.com Fri Jun 07 12:34:56 2024
+Return-Path: <service@paypal.com>
+Delivered-To: user@domain.com
+Received: by mail.domain.com with SMTP id ABC12345; Fri, 07 Jun 2024 12:34:56 -0400 (EDT)
+From: "PayPal" <service@paypal.com>
+Reply-To: support@paypal.security-alert.com
+To: user@domain.com
+Subject: Immediate Action Required: Account Verification
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1623177896000"
+
+------=_Part_123456_789012345.1623177896000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity in your PayPal account. To secure your account, please verify your login immediately.
+
+Visit the following link to confirm your identity:
+
+https://www.paypal.com/login
+
+If the link does not work, copy and paste this URL into your browser:
+http://192.0.2.123/secure
+
+Thank you for your prompt attention.
+
+PayPal Security Team
+
+------=_Part_123456_789012345.1623177896000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have noticed suspicious activity on your PayPal account. For your security, please verify your account by signing in.</p>
+    <p>
+      <a href="http://192.0.2.123/secure">
+        <img src="https://www.paypal.com/logo.png" alt="PayPal" style="border:none;" />
+      </a>
+    </p>
+    <p>
+      Please sign in at the link below:<br/>
+      <a href="http://192.0.2.123/secure">https://www.paypal.com/login</a>
+    </p>
+    <p>
+      Or <a href="http://192.0.2.123/verify">click here</a> to verify now.
+    </p>
+    <p>
+      Need assistance? Our <a href="https://www.paypal.com/help">Help Center</a> is available 24/7.<br/>
+      Review our <a href="https://www.paypal.com/privacy">Privacy Policy</a>.
+    </p>
+    <p>
+      If you need direct support, visit <a href="http://secure.user.logins.paypal.verification.com/support">here</a>.
+    </p>
+    <p>Thank you,<br/>PayPal Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1623177896000--

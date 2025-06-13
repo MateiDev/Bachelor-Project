@@ -1,0 +1,22 @@
+From support@irs.gov Mon Jun 24 17:05:01 2024
+Return-Path: <support@irs.gov>
+Delivered-To: user@example.com
+Received: from mail.irs.gov by mail.example.com; Tue, 25 Jun 2024 09:15:02 +0000
+Message-ID: <20240625091502.12345@mail.irs.gov>
+From: "IRS Support" <support@irs.gov>
+Reply-To: fraud.support@example.net
+Subject: Urgent: Tax Refund Confirmation Needed for Your Account
+Date: Tue, 25 Jun 2024 09:15:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have processed your recent tax filing and <strong>a small refund</strong> of $12.36 is waiting for you. To receive it, please confirm your bank account details by clicking <a href="http://secure.tax.irs.gov.login.verify.com/confirm">here</a>.</p>
+<p>You can also update your password immediately by clicking <a href="http://secure.tax.irs.gov.login.verify.com/update">link</a>.</p>
+<p>For more details, visit our <a href="http://irs.gov/privacy-policy">privacy policy</a>.</p>
+<p>If you have any questions, please visit <a href="http://192.168.0.50/refund"></a> or contact us.</p>
+<p>Best regards,<br>IRS Support Team</p>
+</body>
+</html>

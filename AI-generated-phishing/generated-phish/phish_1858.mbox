@@ -1,0 +1,42 @@
+From service@paypal.com Fri Mar 10 14:32:21 2024
+Received: from mailout.boundary by smtp.mailserver.net id abc123; Fri, 10 Mar 2024 14:32:21 -0400
+From: "PayPal Security" <service@paypal.com>
+Reply-To: verify@security-check.net
+To: user@domain.com
+Subject: Important: Account Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1678450941000"
+
+------=_Part_12345_678901234.1678450941000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal User,
+
+We detected unauthorized access to your account. To secure your account, please verify your identity immediately by visiting the link below:
+
+http://192.0.2.123/verify
+
+Thank you,
+PayPal Security
+
+------=_Part_12345_678901234.1678450941000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear PayPal User,</p>
+    <p>We detected unauthorized access to your account. To secure your account, please verify your identity immediately.</p>
+    <p>
+      <a href="http://192.0.2.123/verify"><img src="https://www.paypal.com/logo.png" alt="PayPal Logo"></a>
+    </p>
+    <p>To proceed, <a href="http://secure.update-paypal.com">click here</a>.</p>
+    <p>Access your account: <a href="http://fake-malicious.com">https://www.paypal.com/youraccount</a></p>
+    <p>Please review our <a href="http://malicious.domain/login"></a> Privacy Policy.</p>
+    <p>If you cannot access the link, use this IP: <a href="http://192.0.2.123/login">192.0.2.123/login</a>.</p>
+    <p>Thank you,<br>PayPal Security</p>
+  </body>
+</html>
+
+------=_Part_12345_678901234.1678450941000--

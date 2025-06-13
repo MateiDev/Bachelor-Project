@@ -1,0 +1,38 @@
+From security@yourbank.com Tue Jun 11 12:34:56 2024
+From: "YourBank Security Team" <security@yourbank.com>
+Reply-To: "Secure Admin" <admin@secure-verification.net>
+To: user@domain.com
+Subject: URGENT ACCOUNT PASSWORD SECURITY ALERT
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity in your account. For security reasons, your access is temporarily blocked and may be deactivated unless you verify your credentials within 24 hours.
+
+Please view the alert and verify now:
+https://security.yourbank.com/verify
+
+Thank you,
+YourBank Security Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p style="color:red; font-weight:bold;">Immediate action required! Your account password appears compromised.</p>
+<p>Your account will be locked if you do not confirm your password within the next 24 hours. Please <a href="http://malicious-server.attacker.com/login"></a>view the secure portal to reactivate access.</p>
+<p>Alternatively, visit our verification page at <a href="http://malicious-server.attacker.com/login">https://security.yourbank.com/verify</a> to proceed.</p>
+<p>Failure to act promptly may result in permanent suspension.</p>
+<p>Sincerely,<br>YourBank Security Team</p>
+</body>
+</html>
+
+--boundary123--

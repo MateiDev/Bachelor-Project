@@ -1,0 +1,38 @@
+From shipping@ups.com Thu Jul 11 10:00:00 2024
+Return-Path: <shipping@ups.com>
+From: "UPS Shipping Dept" <shipping@ups.com>
+Reply-To: <it.support123@maliciousdomain.net>
+Subject: Urgent: Account Password Verification Required for Your Delivery
+Date: Thu, 11 Jul 2024 10:00:00 +0000
+Message-ID: <abc12345@ups.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456789"
+
+------=_Part_0_123456.7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your UPS shipment (1Z9999W99999999999) is on hold due to a failed account verification.
+Please visit the link below immediately to verify your password and release your package:
+http://secure.ups-delivery.verify-package.com/claim?ref=ABC123
+Failure to act within 24 hours will result in return to sender.
+
+------=_Part_0_123456.7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Password Verification Required</title></head>
+<body>
+<p><strong>Immediate Action Required:</strong> Your UPS shipment <em>(Tracking #1Z9999W99999999999)</em> is <span style="color:red;">on hold</span> due to a failed <strong>account</strong> verification. Please <a href="http://secure.ups-delivery.verify-package.com/claim?ref=ABC123">click here</a> to resolve the issue within 24 hours or your package will be returned.</p>
+<p align="center">
+<a href="http://secure.ups-delivery.verify-package.com/claim?ref=ABC123"><img src="http://verify-ups.com/track.png" alt="Track Your Package" border="0"/></a>
+</p>
+<p>If you encounter any issues, visit <a href="https://maliciousverify.net/support">https://ups.com/help</a> for assistance.</p>
+<p>Review our <a href="https://www.ups.com/us/en/privacy-policy">Privacy Policy</a> and <a href="https://www.ups.com/us/en/terms">Terms of Service</a>.</p>
+<p>Alternatively, <a href="http://maliciousdomain.net/unblock?track=ABC123"></a></p>
+<p>Thank you for your prompt attention to this <strong>urgent</strong> matter.</p>
+</body>
+</html>
+
+------=_Part_0_123456.7890123456789--

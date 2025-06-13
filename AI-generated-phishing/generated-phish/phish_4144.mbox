@@ -1,0 +1,56 @@
+From support@dhl.com Fri Feb 23 10:00:00 2024
+Return-Path: <support@dhl.com>
+From: "DHL Express" <support@dhl.com>
+Reply-To: "Customer Support" <contact@dhl-service.com>
+To: "Valued Customer" <victim@client.com>
+Subject: URGENT: Delivery Notification – Action Required Immediately
+Message-ID: <20240223.1897-1234@dhl.com>
+Date: Fri, 23 Feb 2024 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1677148800000"
+
+------=_Part_123456_789012345.1677148800000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery has been SUSPENDED due to unpaid duties. You MUST verify your account to release the shipment or it will be returned to sender.
+
+Access the tracking portal now to avoid FINES:
+http://203.0.113.45/secure.dhl.update.account.login.verify.php?ref=AB12345
+
+Alternatively, visit:
+http://198.51.100.23/track/AB12345
+
+Failure to act within 24 hours will result in shipment destruction.
+
+Sincerely,
+DHL Delivery Team
+
+------=_Part_123456_789012345.1677148800000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p style="color:red; font-weight:bold;">URGENT NOTICE</p>
+<p>Dear Customer,</p>
+<p>Your DHL package (Tracking # AB12345) has been <strong>HOLD</strong> for unpaid duties and is due for <strong>IMMEDIATE ACTION</strong>.</p>
+<p>To avoid a PENALTY FEE and possible DESTRUCTION of your shipment, please verify your shipment information:</p>
+<p>
+  <a href="http://203.0.113.45/confirm">
+    <img src="http://203.0.113.45/images/dhl_logo.png" alt="DHL Logo" />
+  </a>
+</p>
+<p>Please <a href="http://203.0.113.45/confirm"></a> to verify now.</p>
+<p>To release your package, <a href="http://198.51.100.23/unlock">click here</a>.</p>
+<p>Alternatively, you can track your package here:
+  <a href="http://203.0.113.45/secure.dhl.update.account.login.verify.php">http://www.dhl.com/tracking</a>
+</p>
+<p>Need help? <a href="https://www.dhl.com/help">Help Center</a> | <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a></p>
+<p>Failure to respond within <strong>24 HOURS</strong> will result in FEES and shipment disposal.</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.1677148800000--

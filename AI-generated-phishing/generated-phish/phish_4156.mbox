@@ -1,0 +1,52 @@
+From nobody@dhl.com Sat Feb 12 12:34:56 2022
+Return-Path: <notifications@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.23]) by mx.google.com with ESMTP id ABC123XYZ; Tue, 12 Feb 2022 12:34:56 +0000
+From: "DHL Delivery Notification" <notifications@dhl.com>
+Reply-To: support@dhl-claims.com
+To: user@example.com
+Subject: IMPORTANT: Delivery Held! Immediate Action Required
+Date: Tue, 12 Feb 2022 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_000_DHLBOUNDARY_"
+
+--_000_DHLBOUNDARY_
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+URGENT: Your shipment is currently held at customs due to unpaid fees. You must pay the release charge within 12 hours or your parcel will be returned to sender.
+
+To release your package immediately, visit:
+http://45.77.23.11/tracking?ref=AB12345
+
+If you do not act now, you risk permanent forfeiture of your shipment.
+
+Thank you,
+DHL Delivery Team
+
+--_000_DHLBOUNDARY_
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <p>Dear Customer,</p>
+    <p style="color:#d8000c;font-weight:bold;font-size:16px;">URGENT: Your package is being held!</p>
+    <p>We attempted to deliver your parcel but it is currently on hold due to unpaid customs duties. To release it, please pay the fee within <strong>12 hours</strong> or your package will be returned. <strong>Failure to act immediately may result in permanent loss of your shipment.</strong></p>
+    <p style="margin-top:20px;">Click the link below to process your payment:</p>
+    <p>
+      <a href="http://45.77.23.11/tracking?ref=AB12345">
+        <img src="http://123.45.67.89/logo.png" alt="DHL" style="border:0;width:200px;">
+      </a>
+    </p>
+    <p><a href="http://malicious.domain.com/pay_fee.html"></a></p>
+    <p>Or track at 
+      <a href="http://tracking.dhl.com.login.verify-service.net">
+        http://www.dhl.com/track
+      </a>
+    </p>
+    <p>For help, click <a href="http://secure.dhl.com.support-center.info">here</a>.</p>
+    <p>Thank you,<br>DHL Delivery Team</p>
+  </body>
+</html>
+
+--_000_DHLBOUNDARY_--

@@ -1,0 +1,39 @@
+```mbox
+From phishing@securealerts.com Thu Oct 12 19:41:16 2023
+Return-Path: <phishing@securealerts.com>
+Delivered-To: victim@example.com
+Received: from phishingserver.com (192.168.1.100)
+    by mail.example.com with SMTP; Thu, 12 Oct 2023 19:41:15 -0500 (CDT)
+Message-ID: <20231012194116.98A4B838F@phishingserver.com>
+Date: Thu, 12 Oct 2023 19:41:16 -0500 (CDT)
+From: "Security Alert" <security@updatealerts.com>
+Reply-To: "Support Team" <support@secureaccountupdate.net>
+Subject: Unauthorized Login Attempt Detected
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000fe3b580606462258"
+
+--000000000000fe3b580606462258
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected an unauthorized attempt to access your account. For your security, click here: http://secureupdate-alerts.com/verify to review your account activity immediately.
+
+Thank you,
+Security Team
+
+--000000000000fe3b580606462258
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected an unauthorized attempt to access your account. For your security, <a href="http://192.168.1.100/update" target="_blank">click here</a> to review your account activity immediately.</p>
+    <p>Thank you,<br>Security Team</p>
+    <p><a href="https://www.example.com/privacy-policy">Privacy Policy</a> | <a href="https://www.example.com/help">Help</a></p>
+  </body>
+</html>
+
+--000000000000fe3b580606462258--
+```

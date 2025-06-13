@@ -1,0 +1,38 @@
+From phishing@taxdept.gov Mon Jan  1 12:34:56 2024
+From: Tax Department <no-reply@taxdept.gov>
+To: victim@domain.com
+Subject: Urgent: Account Security Verification – Password Expiry Notice
+Date: Mon, 01 Jan 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We detected suspicious activity on your account. Immediate action is required to confirm your password and secure your refund of $53.45. Failure to do so within 24 hours will result in account suspension.
+
+Please confirm your banking details now:
+https://secure.taxrefund.gov/verify
+
+Thank you,
+Tax Department Security Team
+
+--ABC123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p style="color:red;font-weight:bold;">Urgent Alert! Your account password has expired, and a tax refund of $53.45 is pending. Please act now to avoid <strong>account suspension</strong>!</p>
+<p>To secure your refund, please <a href="http://203.0.113.55/verify">https://secure.taxrefund.gov/verify</a> immediately.</p>
+<p>If the link above fails, <a href="http://203.0.113.56/confirm"></a> or <a href="http://203.0.113.57/confirm">click here</a> to update your details.</p>
+<p>For more information, view our <a href="http://support.taxdept.gov/privacy-policy.html">privacy policy</a> or <a href="http://support.taxdept.gov/help.html">help</a>.</p>
+<p>This is an <strong>urgent</strong> notification. Do not ignore this message.</p>
+</body>
+</html>
+
+--ABC123--

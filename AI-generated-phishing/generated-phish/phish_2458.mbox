@@ -1,0 +1,46 @@
+From support@paypal.com Wed Jul 10 08:15:22 2024
+Return-Path: <support@paypal.com>
+Received: from mailserver.paypal.com (mailserver.paypal.com [192.0.2.50])
+    by mx.google.com with ESMTP id abc123
+    for <user@gmail.com>; Wed, 10 Jul 2024 08:15:22 -0400 (EDT)
+From: "PayPal Account Team" <support@paypal.com>
+Reply-To: security@account-update.com
+To: user@gmail.com
+Subject: URGENT: Your account has been LIMITED - ACTION REQUIRED
+Date: Wed, 10 Jul 2024 08:15:22 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+------=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account. To avoid permanent suspension, you must verify your account IMMEDIATELY.
+
+Please visit one of the following secure links to restore full access:
+1) https://secure-login.paypal.verify.com/account/login
+2) http://192.168.1.100/login
+
+Thank you for your prompt attention.
+
+PayPal Security Team
+
+------=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Suspicious activity has been detected on your <em>PayPal</em> account. <strong>Immediate action is required</strong> to avoid permanent suspension!</p>
+    <p>Please <a href="https://secure-login.paypal.verify.com/account/login">verify your account now</a> or click the image below:</p>
+    <p><a href="http://192.168.1.100/login"><img src="http://192.168.1.100/images/paypal_logo.png" alt="Verify Your Account Now" border="0"></a></p>
+    <p>If the link above does not work, copy and paste this URL into your browser:</p>
+    <p>https://www.paypal-security.co.uk/login.verify?id=abc123</p>
+    <p>Thank you for your immediate attention.<br>PayPal Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.987654321--

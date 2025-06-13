@@ -1,0 +1,44 @@
+From phishing@paypal.com Fri Sep 01 10:00:00 2023
+Return-Path: <phishing@paypal.com>
+Received: from mailout.paypal.com (mailout.paypal.com [192.168.100.5])
+    by smtp.mailserver.com with ESMTP id ABC12345;
+    Fri, 01 Sep 2023 10:00:00 -0400
+Subject: Urgent: Account Verification Required
+From: "PayPal Security" <phishing@paypal.com>
+To: bsmith@domain.com
+Date: Fri, 01 Sep 2023 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.123456789"
+
+------=_Part_0_123456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal Member,
+
+We have detected suspicious login attempts on your account. Your account will be suspended within 24 hours if you fail to verify your information immediately. To avoid service interruption, please verify now:
+
+https://www.paypal.com/security/signin
+
+Failure to comply will result in permanent suspension.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_0_123456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear PayPal Member,</p>
+<p>We have detected <strong>suspicious login attempts</strong> on your account. Your account will be <strong>suspended</strong> within 24 hours if you do not verify your information <em>immediately</em>. To proceed, <a href="http://192.0.2.123/verify">click here</a>.</p>
+<p>Alternatively, visit <a href="http://192.0.2.123/verify">https://www.paypal.com/security/signin</a> to verify your credentials.</p>
+<p><a href="http://192.0.2.123/verify"></a></p>
+<p>If you need assistance, review our <a href="https://www.paypal.com/privacy">Privacy Policy</a> | <a href="https://www.paypal.com/help">Help Center</a>.</p>
+<p>Thank you,<br>
+PayPal Security Team</p>
+</body>
+</html>
+
+------=_Part_0_123456789.123456789--

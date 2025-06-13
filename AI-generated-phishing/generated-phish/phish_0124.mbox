@@ -1,0 +1,37 @@
+```mbox
+From nobody Thu Oct 12 10:49:43 2023
+Return-Path: <security@alert.com>
+X-Original-To: recipient@example.com
+Delivered-To: recipient@example.com
+Received: from localhost (localhost [127.0.0.1])
+    by mail.example.com (Postfix) with ESMTP id 0123456789AB;
+    Thu, 12 Oct 2023 10:49:43 -0700 (PDT)
+Received: from unknown (HELO 192.168.1.100) (192.168.1.100)
+    by mail.example.com with SMTP;
+    Thu, 12 Oct 2023 10:49:39 -0700 (PDT)
+Date: Thu, 12 Oct 2023 10:49:39 -0700
+From: "Account Security" <security@alert.com>
+To: <recipient@example.com>
+Subject: Urgent: Immediate Action Required on Your Account
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear user,</p>
+
+<p>We have detected unusual sign-in activity from your account. It is important you verify your identity within 24 hours to prevent account suspension. Failure to act may result in potential loss of access.</p>
+
+<p>Please visit the following link to verify: <a href="http://192.0.2.146/verify">Login Verification</a></p>
+
+<p>Furthermore, your <a href="http://login.alertservice.com/resetpassword">password is set to expire today.</a> Reset immediately to maintain your security.</p>
+
+<p>Ensure your account safety by updating your credentials: <a href="http://secure.alert-center.net/update">http://secure.alert-center.net/update </a></p>
+
+<p>Thank you,
+<br>Security Team</p>
+
+<p><a href="http://updatesecurity.com/actionrequired"></a></p>
+</body>
+</html>
+```

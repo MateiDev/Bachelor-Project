@@ -1,0 +1,27 @@
+From service@paypal.com Sat Jun 08 10:00:00 2024
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [64.4.250.36])
+    by mx.google.com with ESMTP id abc123def456
+    for <user@domain.com>; Sat, 08 Jun 2024 10:00:00 +0000
+From: "PayPal Services" <service@paypal.com>
+Reply-To: security@pay-alerts.com
+Subject: URGENT: Password Verification Required for Your Account
+Date: Sat, 08 Jun 2024 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear PayPal Member,</p>
+    <p><strong>Immediate action required!</strong> We detected unusual activity in your PayPal account and for your protection we have temporarily suspended access.</p>
+    <p><strong>You're eligible for a €50 voucher</strong> as compensation. But <em>if you don't verify your password within 24 hours</em>, your voucher and account access will be permanently revoked.</p>
+    <p>To secure your reward and restore full access, please verify your account now:</p>
+    <p>
+      <a href="http://malicious5.scamsite.biz/verify?id=12345">https://secure.paypal.com/account/verify</a>
+    </p>
+    <p>After verifying, <a href="http://malicious5.scamsite.biz/redeem?code=EUROVOUCHER">click here</a> to claim your voucher.</p>
+    <p>If you have any questions, review our <a href="https://www.paypal.com/us/privacy-policy/index.html">Privacy Policy</a> or visit <a href="https://www.paypal.com/us/help">https://www.paypal.com/us/help</a>.</p>
+    <p>Failing to respond will result in permanent suspension. Act <strong>now</strong>!</p>
+    <p>Thank you,<br/>PayPal Security Team</p>
+  </body>
+</html>

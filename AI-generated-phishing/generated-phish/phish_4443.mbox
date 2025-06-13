@@ -1,0 +1,46 @@
+From service@rewards.com Tue Jan 02 10:23:45 2024
+From: "Rewards Service" <service@rewards.com>
+Reply-To: "Security Team" <support@security-secure.com>
+To: user@example.org
+Subject: Important: urgent gift voucher claim
+Date: Tue, 02 Jan 2024 10:23:45 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are pleased to inform you that you have been pre-selected for a €100 gift voucher!
+Please verify your account information immediately to claim your reward. Failure to do so within 24 hours will result in cancellation of your voucher.
+
+Claim here: http://192.0.2.123/verify.php
+
+Best regards,
+Rewards Service
+
+----=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>urgent account verification</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We are pleased to inform you that you have been pre-selected for a <strong>€100 gift voucher</strong>!</p>
+<p>Please verify your <a href="http://evil-phish.com/verify.php" title="urgent account password update">account</a> information <em>immediately</em> to claim your reward. Failure to do so within <strong>24 hours</strong> will result in cancellation of your voucher.</p>
+<p>Claim your voucher now: 
+<a href="http://192.0.2.123/claim.php" title="urgent">http://secure-voucher.com/claim</a></p>
+<p>Click <a href="http://modal.offers.com/redirect?to=http://evil.com/redeem" title="urgent password verify">here</a> to validate your claim.</p>
+<p><a href="http://203.0.113.45/giftcard"><img src="http://assets.company.com/images/voucher.jpg" alt="Your Voucher" /></a></p>
+<p><a href="http://198.51.100.101/track" title="urgent"></a></p>
+<p>For assistance, visit our <a href="https://help.company.com/privacy.html">Privacy Policy</a> or <a href="https://company.com/support.html">Help Center</a>.</p>
+<p>If you suspect any unusual activity, you can also login at 
+<a href="http://evil.login.update.evil.com/login.php">http://secure.company.com/login</a></p>
+<p>Thank you,<br/>Rewards Service</p>
+</body>
+</html>
+
+----=_NextPart_000_001--

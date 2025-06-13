@@ -1,0 +1,40 @@
+From - Fri Oct  6 12:34:56 2023
+X-Original-From: security@supportloginalert.com Fri Oct  6 12:34:56 2023
+Return-Path: <fake-security@mailservice.com>
+Received: from unknown (HELO mail.fakeprovider.com) (192.0.2.1)
+  by yourmailserver.com with SMTP; Fri, 6 Oct 2023 12:34:56 +0000
+Reply-To: secure-update@webmailservice.com
+From: "Account Security Team" <security@supportloginalert.com>
+Date: Fri, 6 Oct 2023 12:34:56 +0000
+Subject: Urgent: Unusual Sign-In Activity Detected On Your Account
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+  <style>
+    body {font-family: Arial, sans-serif;}
+  </style>
+</head>
+<body>
+  <p>Dear Valued User,</p>
+
+  <p>We have detected an <strong>unusual sign-in attempt</strong> on your account and for your security, we require confirmation of your identity. Please verify your account details to avoid <strong>temporary suspension</strong> of your account.</p>
+
+  <p><img src="https://example.com/security-alert.png" alt="Security Alert"></p>
+
+  <p>You can verify this activity by navigating to your account. Click the link below to proceed immediately:</p>
+  
+  <p><a href="http://phishing-url.com/verify" target="_blank">http://example.com/login</a></p>
+
+  <p>Inaction on this matter may result in restricted access to your account. Please <strong>act swiftly</strong> to ensure the safety of your data.</p>
+
+  <br>
+
+  <p>If you have any questions, feel free to <a href="https://example.com/help">click here</a> for support.</p>
+
+  <p>Best Regards,<br>
+  Account Security Team</p>
+</body>
+</html>

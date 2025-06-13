@@ -1,0 +1,55 @@
+From mailer-daemon@dhl.com Mon Jan 1 12:34:56 2024
+Return-Path: <no-reply@dhl.com>
+Delivered-To: victim@domain.com
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1])
+    by victim-mail.domain.com with ESMTP id ABC12345
+    for <victim@domain.com>; Mon, 1 Jan 2024 12:34:56 +0000
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+From: DHL Delivery Notification <no-reply@dhl.com>
+Reply-To: support@dhl-tracking.com
+Subject: Urgent: Package Delivery Failed - Verify Your Account Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D3ABF0.6F1B2A80"
+
+------=_NextPart_000_001D_01D3ABF0.6F1B2A80
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package, but delivery failed due to an account verification issue.
+To avoid shipment return, please verify your account immediately by clicking the link below:
+
+http://93.184.216.34/confirm?deliveryId=ABC123XYZ
+
+If we do not receive verification within 24 hours, your shipment will be returned and a new fee will apply.
+
+Thank you for choosing DHL.
+
+Best regards,
+DHL Delivery Team
+
+------=_NextPart_000_001D_01D3ABF0.6F1B2A80
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Action Required to Verify Your Account</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your package delivery has <strong>failed</strong> due to a <em>security issue</em>. To prevent your shipment from being <span style="color:red">returned</span> and incurring extra charges, please verify your <strong>account</strong> within 24 hours.</p>
+<p>
+<a href="http://privacy.dhl.com/policy.html">Privacy Policy</a> |
+<a href="http://help.dhl.com/faq.html">Help Center</a>
+</p>
+<p>
+<a href="http://secure.update.dhl-tracking.com/verify?ref=XYZ123" style="text-decoration:none;"></a>
+<img src="http://192.0.2.55/track.png" alt="DHL Tracking" style="border:0;">
+</p>
+<p>Please click <a href="http://secure.update.dhl-tracking.com/verify?ref=XYZ123">here</a> to resolve the <strong>urgent</strong> issue now.</p>
+</body>
+</html>
+
+------=_NextPart_000_001D_01D3ABF0.6F1B2A80--

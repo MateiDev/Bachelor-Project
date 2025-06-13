@@ -1,0 +1,39 @@
+From fake-email@example.com Fri Oct 13 14:37:05 2023
+Return-Path: <fake-email@example.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from unknown (HELO server.example.com) (192.0.2.1)
+    by victim.example.com with SMTP; Fri, 13 Oct 2023 14:37:05 +0000
+Date: Fri, 13 Oct 2023 14:37:05 +0000
+From: "Secure Portal" <secure@portal-alert.com>
+To: victim@example.com
+Subject: Urgent: Action Required to Secure Your Account Access
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>We have detected suspicious activity on your account. To ensure your account is secure, we require you to verify your credentials immediately.</p>
+
+<p>Please click on the link below to proceed:</p>
+
+<p><a href="http://192.168.1.101/login.html" style="font-size:0;"></a><a href="http://192.168.1.101.login.portal.secure-update.com">Verify your account now</a></p>
+
+<p>For your convenience, here are some useful links:</p>
+<ul>
+  <li><a href="http://www.portal-alert.com/privacy-policy">Privacy Policy</a></li>
+  <li><a href="http://www.portal-alert.com/help">Help Center</a></li>
+</ul>
+
+<p>We urge you to complete this verification within 24 hours to avoid any disruptions in service.</p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p><br></p> <!-- Empty visible link -->
+
+<p>Best Regards,<br>
+The Secure Portal Team</p>
+</body>
+</html>

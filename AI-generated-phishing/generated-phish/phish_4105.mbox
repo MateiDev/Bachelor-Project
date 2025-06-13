@@ -1,0 +1,61 @@
+From support@trusty-bank.com Fri Jul  1 12:34:56 2024
+Return-Path: <support@trusty-bank.com>
+Delivered-To: user@example.com
+Received: from modal-domain.com (modal-domain.com [203.0.113.5])
+    by mail.example.com with ESMTP id ABC12345;
+    Fri, 1 Jul 2024 12:34:56 +0200
+From: "Trusty Bank" <support@trusty-bank.com>
+Reply-To: claims@trusty-security-team.com
+To: user@example.com
+Subject: URGENT: Account Password Voucher Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====BOUNDARY===="
+
+====BOUNDARY====
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account has been flagged for verification due to suspicious activity. To ensure no interruption to your banking services, you are eligible for a €50 gift voucher. Claim your reward immediately:
+
+Click here to claim your voucher: http://192.0.2.123/secure/voucher/redeem?ref=gift.voucher.claim
+
+Or visit https://trusty-bank.com/rewards to redeem now.
+
+This is an urgent action required. Failure to verify your information may lead to account suspension.
+
+Thank you for your prompt attention.
+
+Trusty Bank Support Team
+
+====BOUNDARY====
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your account has been <strong>flagged</strong> for verification due to <span style="color:red">suspicious</span> activity.</p>
+<p>You are eligible for a €50 gift voucher. <span style="font-weight:bold">Act now!</span></p>
+<p>
+<a href="http://198.51.100.24/login.confirm.voucher/redirect?session=abc123">
+  <img src="http://help.trusty-bank.com/assets/voucher.png" alt="Claim your voucher" style="border:0">
+</a>
+</p>
+<p>Or visit <a href="http://198.51.100.24/claim?token=XY123">https://trusty-bank.com/rewards</a> to redeem now.</p>
+<p>We have also provided additional support links:</p>
+<ul>
+<li><a href="http://203.0.113.10/privacy.policy">Privacy Policy</a></li>
+<li><a href="http://203.0.113.10/help.center">Help Center</a></li>
+<li><a href="http://203.0.113.10/terms.conditions">Terms & Conditions</a></li>
+</ul>
+<p>This is an <strong>urgent</strong> security update. Failure to verify may result in account suspension.</p>
+<p>Trusty Bank Support Team</p>
+</body>
+</html>
+
+====BOUNDARY====

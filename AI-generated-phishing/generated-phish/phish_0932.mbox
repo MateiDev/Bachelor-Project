@@ -1,0 +1,40 @@
+From security@portal.example.com Wed Jul 10 14:32:00 2024
+Return-Path: <security@portal.example.com>
+Received: from mail.portal.example.com (mail.portal.example.com [192.0.2.50])
+	by mx.example.com with ESMTP id ABC123XYZ
+	for <victim@domain.com>; Wed, 10 Jul 2024 14:32:00 +0000
+From: "Portal Security" <security@portal.example.com>
+Reply-To: admin@support.team.example.org
+To: victim@domain.com
+Subject: CRITICAL SECURITY ALERT: ACTION REQUIRED
+Date: Wed, 10 Jul 2024 14:32:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Your account is at RISK. We encountered an error delivering your encrypted secure-mail.
+Immediate action is REQUIRED to prevent account suspension.
+Verify your credentials here: https://secure-login.modal.example.com/auth?token=abc123
+If you do not respond within 24 hours, your account will be locked.
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h2 style="color:red;">URGENT: PORTAL SECURITY ALERT</h2>
+    <p>We attempted to send you an <strong>encrypted secure-mail</strong>, but delivery failed.</p>
+    <p>Your account may be <em>SUSPENDED</em> if you do not verify <strong>NOW</strong>.</p>
+    <p>To view your message and secure your account, <a href="https://secure-login.modal.example.com/auth?token=abc123">here</a>.</p>
+    <p>If clicking fails, copy and paste:</p>
+    <p><a href="https://secure-login.modal.example.com/auth?token=abc123">https://secure-login.modal.example.com/auth?token=abc123</a></p>
+    <p>Learn more: <a href="https://portal.example.com/privacy-policy">Privacy Policy</a> | <a href="https://portal.example.com/help">Help Center</a></p>
+    <p><a href="https://portal.secure.login.example.co.uk/verify"></a></p>
+  </body>
+</html>
+
+--boundary123--

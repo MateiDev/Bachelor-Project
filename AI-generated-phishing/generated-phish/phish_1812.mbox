@@ -1,0 +1,45 @@
+From phishing@test.com Wed, 26 Jun 2024 18:00:00 +0000
+Subject: URGENT: Secure Your Account Password to Claim €100 Voucher
+From: "Service Team" <no-reply@alerts.security.bank.notify.com>
+To: victim@domain.com
+Date: Wed, 26 Jun 2024 18:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+------=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account password validation is urgent to claim your €100 gift voucher. Failure to act immediately will cancel your reward. Please click the link below to secure your account:
+
+http://login.security.bank.alert-update.com/validate
+
+Thank you.
+
+Service Team
+
+------=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p style="color:red; font-weight:bold;">URGENT NOTICE:</p>
+<p>Dear valued customer,</p>
+<p>Your account password requires immediate validation to confirm eligibility for your <strong>€100 gift voucher</strong>. Failure to act <span style="color:red;">immediately</span> will result in <em>automatic cancellation</em> of your reward.</p>
+<p>To secure your account and claim your voucher, please click the button below:</p>
+<p>
+<a href="http://cdn.verify.update.payments.gateway.com/button.png">
+    <img src="http://cdn.verify.update.payments.gateway.com/button.png" alt="Claim Voucher" style="border:none;">
+</a>
+</p>
+<p>If the button is not working, <a href="http://modalmailsecure.com/claim">here</a> to retry.</p>
+<p>
+<a href="http://security.notify.alert-update.com/reset/password"> </a>
+</p>
+</body>
+</html>
+
+------=_NextPart_000_001--

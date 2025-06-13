@@ -1,0 +1,62 @@
+From security@secure-accounts.com Fri Jun 28 08:15:23 2024
+Return-Path: <bounce@secure-accounts.com>
+From: "MyService Security" <security@secure-accounts.com>
+Reply-To: support@myservice.com
+To: user@sample.org
+Subject: Unusual sign-in detected – Action Required
+Date: Fri, 28 Jun 2024 08:15:23 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0001_abcdef123"
+
+----=_Part_0001_abcdef123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in attempt on your account. Your password expires today – reset immediately to avoid suspension.
+
+Please visit the following links:
+- Reset now: http://203.0.113.5/reset?uid=887766
+- Verify identity: http://verify.login.secure-accounts.net/confirm
+- Privacy Policy: https://www.myservice.com/privacy.policy.v1.html
+- Help Center: https://help.myservice.com/faq
+
+Thank you,
+MyService Security Team
+
+----=_Part_0001_abcdef123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;font-weight:bold;">
+      Unusual sign-in detected — verify now and reset your password immediately.<br/>
+      Password expires today.
+    </p>
+    <p>
+      <a href="http://203.0.113.5/reset?uid=887766">
+        <img src="http://192.0.2.145/images/reset-button.png" alt="Reset Password" border="0"/>
+      </a>
+    </p>
+    <p>
+      To complete verification, <a href="http://verify.login.secure-accounts.net/confirm">click here</a>.
+    </p>
+    <p>
+      For more info:
+      <a href="https://www.myservice.com/privacy.policy.v1.html">Privacy Policy</a> |
+      <a href="https://help.myservice.com/support.portal">Help Center</a>
+    </p>
+    <p>
+      If you did not initiate this request, please disregard or visit
+      <a href="http://198.51.100.25/security-alert">here</a>.
+    </p>
+    <p>Thank you,<br/>
+       MyService Security Team
+    </p>
+  </body>
+</html>
+
+----=_Part_0001_abcdef123--

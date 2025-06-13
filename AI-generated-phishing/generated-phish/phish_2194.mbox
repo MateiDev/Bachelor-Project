@@ -1,0 +1,38 @@
+From support@trustedbank.com Fri Sep 24 10:15:30 2021
+From: "Trusted Bank Support" <support@trustedbank.com>
+To: victim@internet.com
+Subject: Urgent: Account Password Expiration Notice - Immediate Action Required
+Date: Fri, 24 Sep 2021 10:15:30 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have noticed suspicious activity on your account. Your password expiration is urgent. Immediate action required to avoid account suspension.
+
+To verify your credentials, please visit: https://www.trustedbank.com/account/verify
+Or: http://203.0.113.45/secure
+
+Thank you,
+Trusted Bank Support Team
+
+----=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear Customer,</p>
+  <p style="color:red;"><strong>ALERT:</strong> We have noticed <strong>suspicious activity</strong> on your account. Your <em>password</em> expiration is <strong>urgent</strong>. Immediate action required to avoid <strong>account suspension</strong>.</p>
+  <p>To verify your credentials, please visit <a href="http://203.0.113.45/secure">https://www.trustedbank.com/account/verify</a></p>
+  <p>Alternatively, update now at <a href="http://203.0.113.45/secure">www.trustedbank.com.security.login.update</a></p>
+  <p>For help, <a href="http://198.51.100.23/support">click here</a></p>
+  <p>Thank you,<br/>Trusted Bank Support Team</p>
+</body>
+</html>
+
+----=_NextPart_000_001--

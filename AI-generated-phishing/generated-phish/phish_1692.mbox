@@ -1,0 +1,47 @@
+From support@service.com Sat Jun 15 09:12:34 2024
+Subject: [URGENT] Verify your account password to claim €100 voucher
+To: victim@example.com
+From: Service Support <support@service.com>
+Reply-To: helpdesk@malicious.com
+Date: Sat, 15 Jun 2024 09:12:34 +0000
+Message-ID: <1234567890abcdef@service.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_56789"
+
+----=_Part_1234_56789
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account security is at risk! You must immediately verify your password to claim your exclusive €100 gift card.
+Hurry—this offer won’t last. Click the link below to secure your voucher now:
+
+http://malicious1.com/gift
+http://malicious2.com/redeem
+
+If you fail to act now, you will lose this reward.
+
+Regards,
+Customer Security Team
+
+----=_Part_1234_56789
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>Your account security is at risk! You must <strong>immediately verify</strong> your password to claim your exclusive <span style="color: green;">€100 gift card</span>. Hurry—this offer <em>won’t last</em>. Click the button below to secure your voucher now:</p>
+    <p>
+      <a href="http://malicious1.com/gift"><img src="http://malicious1.com/image.png" alt="Claim your voucher" style="border: none;"></a>
+    </p>
+    <p>
+      <a href="http://malicious2.com/redeem"></a>
+    </p>
+    <p>If you fail to act now, you will lose this reward.</p>
+    <p>Regards,<br/>Customer Security Team</p>
+  </body>
+</html>
+
+----=_Part_1234_56789--

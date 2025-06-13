@@ -1,0 +1,53 @@
+From getsecurebankingmail@securebank.com Wed Jun 07 12:34:56 2024
+Return-Path: getsecurebankingmail@securebank.com
+Received: from mail.securebank.com by securebank.com with SMTP id abc123xyz; Wed, 07 Jun 2024 12:34:56 -0400
+Date: Wed, 07 Jun 2024 12:34:56 -0400
+From: Secure Bank Alerts <alerts@securebank.com>
+To: user@legitdomain.com
+Subject: URGENT: Account Password Expiring – VERIFY NOW to prevent lockout
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.123456789"
+
+------=_Part_0_123456.123456789
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in on your account. Your password expires today and access will be disabled immediately if you do not verify your identity.
+
+Please visit the links below NOW to restore access:
+1) https://securebank.com/reset-password
+2) http://203.0.113.5/auth
+
+Failure to act within 24 hours will result in permanent lockout.
+
+Regards,
+Secure Bank Security Team
+
+------=_Part_0_123456.123456789
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <h2 style="color:#b30000;">URGENT ALERT: Unusual Sign-in Detected</h2>
+    <p>Dear Customer,</p>
+    <p>We have <strong>flagged critical activity</strong> on your account. Your <strong>password expires today</strong> and will be disabled <em>immediately</em> if you do not <span style="color:#b30000;">verify now</span>.</p>
+    <p>Click the button below to verify and reset your credentials:</p>
+    <p>
+      <a href="http://203.0.113.5/verify?id=XYZ123">
+        <img src="http://203.0.113.5/images/verify-button.png" alt="Verify Account" width="200" height="50" style="border:none;">
+      </a>
+    </p>
+    <p>Or visit our secure site:</p>
+    <ul>
+      <li><a href="http://203.0.113.5/verify">https://securebank.com/verify</a></li>
+      <li><a href="http://192.0.2.45/reset">https://securebank.com/reset</a></li>
+    </ul>
+    <p style="color:#b30000;"><strong>ACT NOW</strong> to avoid permanent account lockout.</p>
+    <p>Thank you,<br>Secure Bank Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.123456789--

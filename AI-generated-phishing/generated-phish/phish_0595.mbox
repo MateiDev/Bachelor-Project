@@ -1,0 +1,29 @@
+From no-reply@shopplus.com Tue Apr 16 08:30:00 2024
+Return-Path: <no-reply@shopplus.com>
+Delivered-To: user@example.org
+Received: by mx.host.com id ABC123; Tue, 16 Apr 2024 08:30:00 +0000
+From: "ShopPlus Rewards" <no-reply@shopplus.com>
+Reply-To: "ShopPlus Support" <support@shopplus-support.services>
+Subject: Urgent: Update Your Account Password and Claim Voucher
+To: user@example.org
+Date: Tue, 16 Apr 2024 08:30:00 +0000
+Message-ID: <20240416083000.ABC123@shopplus.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <body>
+  <p>Dear valued customer,</p>
+  <p>Congratulations! You are eligible for a €100 gift voucher from ShopPlus.</p>
+  <p>To update your account password and claim your reward, please <a href="http://192.168.0.50/redeem">click here</a> immediately.</p>
+  <p>Alternatively, you can <a href="http://203.0.113.5/voucher">here</a> claim your voucher before it expires.</p>
+  <p>If you need assistance, visit our <a href="http://www.shopplus.com/privacy.policy.html">privacy policy</a> or <a href="http://help.shopplus.com.support/desk">help center</a>.</p>
+  <p><a href="http://malicious.example.com/hidden"></a></p>
+  <p>Other links:<br>
+     http://www.shopping.rewards.example.com/login<br>
+     http://login.shopplus.com.auth.account.verify</p>
+  <p>Thank you for being a loyal customer.</p>
+  <p>Sincerely,<br>ShopPlus Team</p>
+ </body>
+</html>

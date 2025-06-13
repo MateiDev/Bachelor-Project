@@ -1,0 +1,44 @@
+From phishing@bank.com Tue Jul 20 10:23:45 2021
+Return-Path: <security-alert@bank.com>
+Received: from [192.0.2.254] (unknown [192.0.2.254])
+    by mail.bank.com with ESMTP id ABC123;
+    Tue, 20 Jul 2021 10:23:45 +0000 (UTC)
+Date: Tue, 20 Jul 2021 10:23:45 +0000
+From: "Bank Security" <security-alert@bank.com>
+Subject: Urgent: Account Password Expiry – Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1626782625000"
+
+----=_Part_0_123456.1626782625000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected in your account and your password expires today. 
+Immediate action required to prevent account lockout.
+
+Please verify your account now: http://secure.bank.com/verify
+
+Thank you,
+Bank Security Team
+
+----=_Part_0_123456.1626782625000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Unusual sign-in detected</strong> in your account and your <strong>password expires today</strong>. <span style="color:red;font-weight:bold;">Immediate action required</span> to prevent account lockout.</p>
+    <p>Please verify your account now:</p>
+    <p>
+      <a href="http://198.51.100.23/verify"></a>
+      <a href="http://192.0.2.1/login.php">http://secure.login.bank.com/validate?login=urgent.access</a>
+    </p>
+    <p>If you do not verify within the next hour, your account will be <em>temporarily suspended</em>.</p>
+    <p>Thank you,<br/>Bank Security Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.1626782625000--

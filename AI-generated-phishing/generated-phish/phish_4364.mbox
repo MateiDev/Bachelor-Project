@@ -1,0 +1,60 @@
+From noreply@securebank.com Sat Feb 10 10:00:00 2024
+Return-Path: <noreply@securebank.com>
+Received: from mail.securebank.com (mail.securebank.com [203.0.113.5])
+    by mx.gateway.com with ESMTP id ABCDEF123
+    for <john.doe@mydomain.com>; Sat, 10 Feb 2024 10:00:00 -0500 (EST)
+From: "SecureBank Alerts" <noreply@securebank.com>
+Reply-To: "IT Support Team" <support@securebank.com.mx>
+To: john.doe@mydomain.com
+Subject: Urgent: Account Refund Confirmation Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed a tax refund of $45.67 for your account. To receive your funds, please confirm your bank details by visiting the link below:
+
+http://192.0.2.123/confirm
+
+You can also review your account details at:
+https://securebank.com/verify
+
+If the link above doesn't work, please use:
+http://evil-phish.com/phish
+
+For assistance, visit our Privacy Policy or Help Center at:
+https://secure.bank.support.payments.bankservices.com/privacy-policy
+https://secure.bank.support.payments.bankservices.com/help
+
+Thank you,
+SecureBank Team
+
+--ABC123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent: Account Verification Required</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have processed a tax refund of <strong>$45.67</strong> for your account. To receive your funds, please confirm your bank details by <a href="http://192.0.2.123/confirm">click here</a>.</p>
+    <p>You can also review your account details at <a href="http://evil-phish.com/phish">https://securebank.com/verify</a>.</p>
+    <p>If the link above doesn't work, please <a href="http://evil-phish.com/phish">here</a>.</p>
+    <p><a href="http://195.123.45.67/update"></a></p>
+    <p>
+      <a href="http://192.0.2.150/">
+        <img src="http://evil-phish.com/logo.png" alt="SecureBank" />
+      </a>
+    </p>
+    <p>For help, visit our <a href="https://secure.bank.support.payments.bankservices.com/privacy-policy">Privacy Policy</a> or <a href="https://secure.bank.support.payments.bankservices.com/help">Help Center</a>.</p>
+    <p>Thank you,<br/>SecureBank Team</p>
+  </body>
+</html>
+
+--ABC123--

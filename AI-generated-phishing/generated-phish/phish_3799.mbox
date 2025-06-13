@@ -1,0 +1,44 @@
+From support@legit-company.com Fri Jul 14 12:00:00 2023
+Return-Path: <support@legit-company.com>
+Received: from mail.legit-company.com (mail.legit-company.com [203.0.113.10])
+	by mail.example.net with ESMTP id ABC123DEF for <user@example.net>; Fri, 14 Jul 2023 12:00:00 +0000 (UTC)
+From: "Customer Support" <support@legit-company.com>
+Reply-To: "Support Team" <help@evil-phish.com>
+To: user@example.net
+Subject: Urgent Account Notice: €50 Voucher Available
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_EnveloPe_12345"
+
+----=_EnveloPe_12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+You have been selected for an exclusive €50 voucher reward. Click the link below to claim it before it expires.
+
+https://secure.legit-company.com/claim
+
+Failure to claim within 24 hours will result in voucher cancellation.
+
+Thank you,
+Customer Support Team
+
+----=_EnveloPe_12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>You have been <strong>selected</strong> for an exclusive <em>€50 voucher reward</em>. Click the link below to <span style="color:red;">claim it before it expires</span>.</p>
+    <p><a href="http://192.0.2.123/claim"></a></p>
+    <p>Or go to <a href="http://evil-malicious.com/claim">https://secure.legit-company.com/claim</a> to redeem your voucher.</p>
+    <p>Review our privacy policy here: <a href="https://www.legit-company.com/privacy-policy">https://www.legit-company.com/privacy-policy</a></p>
+    <p><a href="http://203.0.113.45/offer"><img src="cid:voucherimg" alt="Voucher" /></a></p>
+    <p><strong>Warning:</strong> Failure to claim within 24 hours will result in voucher cancellation.</p>
+    <p>Thank you,<br/>Customer Support Team</p>
+  </body>
+</html>
+
+----=_EnveloPe_12345--

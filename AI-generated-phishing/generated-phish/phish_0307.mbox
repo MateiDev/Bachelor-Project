@@ -1,0 +1,41 @@
+```
+From nobody Mon Oct 30 12:34:56 2023
+From: "Security Alert" <security-notices@secureportal.com>
+To: victim@example.com
+Subject: Urgent: Immediate Action Required On Your Account
+Date: Mon, 30 Oct 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789123456.1234567890123"
+
+------=_Part_123456_789123456.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity in your account. To protect your information, please verify your identity by clicking the link below:
+
+http://secure-portal.com/verify-account
+
+Thank you for your attention to this matter.
+
+Security Team
+
+------=_Part_123456_789123456.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unusual activity</strong> in your account. To protect your information, please verify your identity by clicking <a href="http://phishing-link.com">here</a>.</p>
+    <p>Thank you for your attention to this matter.</p>
+    <p>Security Team</p>
+    <p><a href="http://secure-portal.com/privacy">Privacy Policy</a> | <a href="http://secure-portal.com/help">Help</a></p>
+    <p><a href=""></a></p>
+  </body>
+</html>
+
+------=_Part_123456_789123456.1234567890123--
+
+```

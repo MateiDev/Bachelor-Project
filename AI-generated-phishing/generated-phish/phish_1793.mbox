@@ -1,0 +1,23 @@
+From security@paypal.com Thu Jul 29 15:07:03 2021
+Return-Path: <security@paypal.com>
+Reply-To: verify@secure-login.net
+From: "PayPal Account Security" <security@paypal.com>
+To: user@domain.org
+Subject: URGENT: Password Expires Today – Reset Account Password Immediately
+Date: Thu, 29 Jul 2021 15:07:03 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>URGENT: Account Password Reset Required</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We detected an <strong>unusual sign-in</strong> attempt on your PayPal account from IP address <strong>203.0.113.45</strong>. For your protection, <span style="color:red;">your account is at <em>risk</em> and requires <strong>immediate action</strong>.</p>
+<p>Please <a href="http://192.0.2.44/verify"></a>login now to verify your identity and secure your account. Your <strong>password expires today</strong>. Failure to verify may result in permanent suspension.</p>
+<p><a href="https://secure.login.account-update.net/security/check"><img src="https://secure.login.account-update.net/images/verify-now.png" alt="Verify Now"></a></p>
+<p>Thank you for your prompt attention.</p>
+<p>Sincerely,<br>PayPal Security Team</p>
+</body>
+</html>

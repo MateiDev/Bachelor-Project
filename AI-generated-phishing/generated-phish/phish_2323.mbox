@@ -1,0 +1,53 @@
+From refunds@irs.gov Mon Jul 1 12:34:56 2024
+Message-ID: <20240701123456.abcdef@irs.gov>
+Date: Mon, 1 Jul 2024 12:34:56 +0000
+From: "Internal Revenue Service" <refunds@irs.gov>
+Reply-To: support@secure-tax-alerts.com
+To: victim@example.com
+Subject: Urgent: Tax Refund – Confirm Your Account Details Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890"
+
+------=_Part_1234_567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+You have a pending refund of $142.00 waiting. To release your funds, confirm your bank details immediately to avoid delays or potential cancellation.
+
+Visit the link below to confirm:
+http://198.51.100.25/confirm?ref=ABC123XYZ
+
+If you have any questions, contact us:
+http://203.0.113.45/support
+
+This is your final notice. Failure to respond will result in your refund being voided.
+
+Sincerely,
+IRS Refund Department
+
+------=_Part_1234_567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>You have a <strong>pending refund of <span style="color:red;">$142.00</span></strong> waiting. To release your funds, <span style="color:red;">confirm your bank details</span> <em>immediately</em> to avoid any delay or <strong>final cancellation</strong>.</p>
+    <p>
+      <a href="http://198.51.100.25/confirm?ref=ABC123XYZ">Click here to Confirm Now</a><br/>
+      <a href="http://203.0.113.45/support">Support Center</a>
+    </p>
+    <p>Or use the button below:</p>
+    <p>
+      <a href="http://198.51.100.25/confirm?ref=ABC123XYZ">
+        <img src="http://203.0.113.45/images/verify.png" alt="Confirm Button" style="border:none;"/>
+      </a>
+    </p>
+    <p style="color:red;">This is your <strong>final notice</strong>. Failure to <em>act now</em> may result in cancellation of your refund.</p>
+    <p>Sincerely,<br/>IRS Refund Department</p>
+  </body>
+</html>
+
+------=_Part_1234_567890--

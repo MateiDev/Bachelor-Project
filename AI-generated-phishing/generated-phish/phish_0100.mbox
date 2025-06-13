@@ -1,0 +1,28 @@
+From fake.notification@secure-mail.com Thu Oct 12 18:34:45 2023
+Return-Path: <fake.notification@secure-mail.com>
+Received: from suspicious-ip.com (192.168.0.1)
+Subject: Immediate Action Required: Unusual Sign-In Detected
+From: Security Team <fake.notification@secure-mail.com>
+Reply-To: noreply@accounts-security.com
+To: victim@example.com
+Date: Thu, 12 Oct 2023 18:34:45 +0000
+Message-ID: <1234567890@secure-mail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <h2>Alert: Unusual Sign-In Activity</h2>
+    <p>Dear User,</p>
+    <p>We've detected an unusual sign-in attempt on your account. To ensure your account security, please verify your identity immediately.</p>
+    <p><a href="http://192.168.0.1/verify_account">Click here to verify now</a></p>
+    <p>If this was not you, please <a href="http://secure-alert.secure-mail.com.update.com/reset-password" target="_blank">reset your password</a> immediately to protect your account.</p>
+    
+    <img src="http://192.168.0.1/images/verify.png" alt="Verify Now" style="display:none;"/>
+    
+    <p>For more information on how to keep your account secure, visit our <a href="https://help.real-website.com">help section</a> or check our <a href="https://www.real-website.com/privacy-policy">privacy policy</a>.</p>
+    
+    <p>Thank you,<br/>
+    Security Team</p>
+  </body>
+</html>

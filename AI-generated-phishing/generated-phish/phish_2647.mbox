@@ -1,0 +1,30 @@
+From fake-email@example.com Tue Oct 3 10:00:00 2023
+Return-Path: <fake-email@example.com>
+Received: from unknown (HELO example.com) (192.0.2.123)
+  by mail.example.com with SMTP; Tue, 3 Oct 2023 10:00:00 +0000
+Date: Tue, 3 Oct 2023 10:00:00 +0000
+From: Support Team <support@example.com>
+Reply-To: urgent-support@example.com
+Subject: Urgent: Immediate Action Required for Your Account
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<div style="font-family: Arial, sans-serif;">
+    <h2 style="color: red;">Immediate Action Required: Account Security Alert</h2>
+    <p>Dear Valued User,</p>
+    <p>We have detected suspicious activity in your account. To secure your information, please verify your account immediately by logging in through <a href="http://192.0.2.255/login">this link</a>.</p>
+    <p>Your account will be suspended if you do not take action:</p>
+    <ul>
+        <li><a href="http://192.0.2.255/login">www.example.com/login</a></li>
+    </ul>
+    <p>For more information, visit our <a href="http://www.example.com/help" target="_blank">Help Center</a> or check our <a href="http://www.example.com/privacy-policy" target="_blank">Privacy Policy</a>.</p>
+    <p>Click <a href="http://192.0.2.255/login">here</a> to resolve the issue. Failing to verify will result in <b>account suspension</b>.</p>
+    <p>Thank you,<br>
+    Example.com Security Team</p>
+    <a href="http://192.0.2.255/login"><img src="http://www.example.com/logo.png" alt="Logo"></a>
+</div>
+</body>
+</html>

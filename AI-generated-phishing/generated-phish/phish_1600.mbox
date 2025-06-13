@@ -1,0 +1,43 @@
+From security@paypal.com Tue Jul 02 09:15:30 2024
+Return-Path: <security@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [127.0.0.1]) by victim.com with ESMTP id ABCDE12345 for <user@example.com>; Tue, 02 Jul 2024 09:15:30 -0400
+From: "PayPal Security" <security@paypal.com>
+To: "User" <user@example.com>
+Subject: Urgent: Account Verification Required Immediately
+Date: Tue, 02 Jul 2024 09:15:30 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="abc123"
+
+--abc123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unauthorized access to your PayPal account. Your account will be suspended within 24 hours if you do not verify now! This is your final warning.
+
+To verify your account, please visit:
+https://www.paypal.com/security/login
+
+Thank you,
+The PayPal team
+
+--abc123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>We detected unauthorized access to your PayPal account.</strong> Your account <strong>will be suspended within 24 hours</strong> if you do not verify now! This is your final warning.</p>
+<p>Click on the logo below to begin verification:</p>
+<p><a href="http://192.0.2.123/pp/verify"><img src="https://www.paypal.com/en_US/i/logo/PayPal_mark_111x69.jpg" alt="PayPal Logo"></a></p>
+<p>Or open: <a href="http://198.51.100.45/login">https://www.paypal.com/security/login</a></p>
+<p>Privacy policy: <a href="https://www.paypal.com/us/legalhub/privacy_full">https://www.paypal.com/us/legalhub/privacy_full</a></p>
+<p>Need help? <a href="http://203.0.113.10/help">click here</a></p>
+<p><a href="http://203.0.113.10/confirm"></a></p>
+<p>Thank you,<br>The PayPal team</p>
+</body>
+</html>
+
+--abc123--

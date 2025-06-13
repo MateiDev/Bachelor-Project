@@ -1,0 +1,52 @@
+From phishing-bot@securebank.com Fri Jul 19 17:14:22 2024
+Return-Path: <phishing-bot@securebank.com>
+Delivered-To: user@victim.com
+Received: by mail.securebank.com with SMTP id ABCDE12345;
+    Fri, 19 Jul 2024 17:14:22 +0000
+From: "Secure Bank Alerts" <alerts@securebank.com>
+Reply-To: customerservice@banking-support.com
+Date: Fri, 19 Jul 2024 17:14:22 +0000
+Subject: Action Required: Unusual Sign-in Detected—Verify Now!
+To: user@victim.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_6789012.1658264052"
+
+----=_Part_12345_6789012.1658264052
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your Secure Bank account from IP address 192.0.2.50. Your password expires today – reset immediately to secure your funds.
+
+Please verify your account now: http://203.0.113.5/login.action
+
+Failure to verify within 24 hours will result in temporary suspension.
+
+For assistance, visit our Help Center at http://securebank.com/help
+
+Regards,
+Secure Bank Security Team
+
+----=_Part_12345_6789012.1658264052
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family:Arial,sans-serif;">
+<h2 style="color:#C00;">Immediate Action Required</h2>
+<p>Dear Customer,</p>
+<p style="font-weight:bold;">Unusual sign-in detected—verify now to avoid suspension.</p>
+<p>Your password expires today – reset immediately.</p>
+<p>
+<a href="http://203.0.113.5/verify?code=456"><img src="http://198.51.100.23/images/security_banner.jpg" alt="Security Alert" style="width:600px;height:auto;"></a>
+</p>
+<p>Click <a href="http://192.168.1.100/reset?user=123">here</a> to verify your account.</p>
+<p>If the link doesn't work, copy and paste this URL into your browser: <a href="http://login.securebank.phishdomain.net/auth?session=abc123">https://securebank.com/login</a></p>
+<p><a href="http://209.87.20.11/tracker"></a></p>
+<p>View our <a href="http://securebank.com/privacy-policy">Privacy Policy</a> or <a href="http://www.secure.bank.com/terms.of.service">Terms of Service</a>.</p>
+<p style="color:#C00;">Warning: Your account will be locked if you do not act now!</p>
+</body>
+</html>
+
+----=_Part_12345_6789012.1658264052--

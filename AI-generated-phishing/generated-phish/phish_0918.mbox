@@ -1,0 +1,54 @@
+From support@companysecure.com Wed Jul  3 14:22:01 2024
+Return-Path: <support@companysecure.com>
+Received: from mail.companysecure.com (mail.companysecure.com [203.0.113.10])
+	by mx.example.org with ESMTP id r1K2PL0x000123
+	for <user@example.org>; Wed, 3 Jul 2024 14:22:01 +0200
+Date: Wed, 3 Jul 2024 14:22:01 +0200
+From: "Customer Support" <support@company.com>
+Reply-To: "Support Team" <help@company.net>
+To: user@example.org
+Subject: URGENT: Claim Your €100 Voucher Now! Limited Time Offer
+Message-ID: <20240703142201-abcdef@companysecure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A"
+
+------=_NextPart_000_001A
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is your FINAL NOTICE! Your eligible €100 voucher is waiting, but time is running out.
+Fail to claim within 24 hours and you WILL forfeit your reward.
+Click the link below to secure your gift card immediately:
+
+https://secure.company.com/redeem?v=abcd1234
+
+Privacy policy:
+https://www.company.com/privacy-policy
+
+Best regards,
+Customer Support Team
+
+------=_NextPart_000_001A
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>FINAL NOTICE!</strong> Your eligible <strong>€100 voucher</strong> is waiting, but <em>time is running out</em>!</p>
+    <p>Fail to claim within <strong>24 hours</strong> and you WILL forfeit your reward.</p>
+    <p>Click <a href="http://voucher.claim-offer.net/redeem?id=abcd1234">here</a> to secure your gift card immediately!</p>
+    <p>Or copy &amp; paste one of these URLs into your browser:</p>
+    <ul>
+      <li><a href="http://198.51.100.45/claim?token=xyz">https://www.company.com/secure-reward</a></li>
+      <li><a href="http://claimvoucher123.net/redeem?id=12345">https://privacy.company.com/policy</a></li>
+    </ul>
+    <p>Need help? Visit our <a href="http://203.0.113.99/help">help page</a> or see our <a href="http://192.0.2.123/privacy">https://www.company.com/privacy-policy</a>.</p>
+    <p>Best regards,<br/>
+    Customer Support Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001A--

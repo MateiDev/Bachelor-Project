@@ -1,0 +1,50 @@
+From fake-sender@taxauthority.gov Sun Jul 23 12:34:56 2023
+Return-Path: <fake-sender@taxauthority.gov>
+Received: from mail.taxauthority.gov (mail.taxauthority.gov [192.0.2.10]) by victim.example.com with ESMTP id ABC123DEF; Sun, 23 Jul 2023 12:34:56 -0400
+Subject: Urgent: Immediate Tax Refund Verification Required
+Date: Sun, 23 Jul 2023 12:34:56 -0400
+From: "Tax Department" <no-reply@taxauthority.gov>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+This is an urgent notice regarding your pending tax refund. A small refund is waiting for you, but we must confirm your bank account details immediately. Failure to respond will delay your refund and may result in penalties.
+
+Please verify now:
+1) https://taxauthority.gov/verify
+2) http://203.0.113.5/confirm
+
+Thank you,
+Tax Department Support
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Confirmation Required</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p style="color:red;"><strong>URGENT: Your tax refund is pending!</strong></p>
+<p>We detected an issue with your bank account information. Please <em>confirm</em> your details <strong>immediately</strong> to receive your small refund.</p>
+<ul>
+<li><a href="http://192.0.2.55/verify">https://secure.taxauthority.gov/verify</a></li>
+<li><a href="http://malicious.example.com/login">https://taxauthority.gov/confirm</a></li>
+<li><a href="http://203.0.113.5/"> </a></li>
+</ul>
+<p><a href="http://bad-actor.net/details">Verify Your Account</a> to avoid delays and potential penalties.</p>
+<p>Failure to act within 24 hours will result in the cancellation of your refund.</p>
+<p>Best Regards,<br/>
+Taxation Department Security Team</p>
+</body>
+</html>
+
+----=_Part_12345_67890--

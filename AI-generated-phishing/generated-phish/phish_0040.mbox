@@ -1,0 +1,52 @@
+```
+From sender@example.com Mon Jan 01 12:34:56 2024
+Return-Path: <sender@example.com>
+Received: from mail.example.com (mail.example.com. [192.0.2.1])
+        by mx.google.com with ESMTP id abc123xyz
+        for <recipient@gmail.com>;
+        Mon, 01 Jan 2024 12:34:56 -0800 (PST)
+Received-SPF: pass (google.com: domain of sender@example.com designates 192.0.2.1 as permitted sender) client-ip=192.0.2.1;
+Authentication-Results: mx.google.com;
+       dkim=pass header.d=example.com header.s=selector1 header.b=xyz123abc;
+       spf=pass (google.com: domain of sender@example.com designates 192.0.2.1 as permitted sender) smtp.mailfrom=sender@example.com;
+Message-ID: <1234567890@mail.example.com>
+Date: Mon, 01 Jan 2024 12:34:56 -0800
+Subject: Urgent: Unusual Activity Detected on Your Account
+From: Security Team <sender@example.com>
+To: recipient@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000123456abcd"
+
+--000000000000123456abcd
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've detected unusual activity on your account and action is required. We urge you to confirm your identity immediately to prevent unauthorized access.
+
+Please visit the link below to verify your information urgently:
+
+http://www.example.com/security-update
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Your Security Team
+
+--000000000000123456abcd
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We've detected <strong>unusual activity</strong> on your account and <strong>action is required</strong>. We urge you to confirm your identity immediately to prevent unauthorized access.</p>
+<p>Please visit the link below to verify your information urgently:</p>
+<p><a href="http://malicious-domain.com/verify">Click here</a></p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Sincerely,</p>
+<p>Your Security Team</p>
+<p><a href="#"> </a></p>
+</body>
+</html>
+
+--000000000000123456abcd--
+```

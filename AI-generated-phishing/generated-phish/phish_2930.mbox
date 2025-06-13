@@ -1,0 +1,48 @@
+From MAILER-DAEMON@example.com Wed Oct 25 13:37:00 2023
+Return-Path: <noreply-securityalert@accounts-security.com>
+Received: from unknown (HELO accounts-security.com) (172.16.254.1)
+  by example.com with ESMTPA; Wed, 25 Oct 2023 13:37:00 +0000
+Date: Wed, 25 Oct 2023 13:37:00 +0000
+From: "Example Security Team" <noreply-securityalert@accounts-security.com>
+Reply-To: noreply-support@support-examples.com
+Subject: Action Required: Unusual Sign-in Detected
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1234_56789"
+
+------=_Part_1234_56789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. Please verify your account to avoid suspension.
+
+Verify now: http://192.168.1.1/verify
+
+Your password is set to expire today. Reset it immediately to maintain access.
+
+Reset Password: http://192.168.1.1/reset
+
+For questions, consult our Help Center or read our Privacy Policy.
+
+------=_Part_1234_56789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual sign-in activity on your account. Please verify your account to avoid suspension.</p>
+    <p><a href="http://192.168.1.1/verify"><img src="https://via.placeholder.com/150" alt="Verify Now"/></a></p>
+    <p>Your password is set to expire today. Reset it immediately to maintain access.</p>
+    <p><a href="http://192.168.1.1/reset"><img src="https://via.placeholder.com/150" alt="Reset Password"/></a></p>
+    <p>For questions, consult our <a href="http://example.com/help">Help Center</a> or read our <a href="http://example.com/privacy_policy">Privacy Policy</a>.</p>
+    <p><a href="http://clickinfo.com"></a></p>
+    <p><a href="http://www.example.com.change.com">example.com</a></p>
+    <p>Click <a href="http://192.168.1.1/important-update">here</a> for an important update.</p>
+  </body>
+</html>
+
+------=_Part_1234_56789--

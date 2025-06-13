@@ -1,0 +1,49 @@
+From notifications@dhl-express.com Tue Oct 10 10:10:10 2023
+Return-Path: <notifications@dhl-express.com>
+Delivered-To: victim@example.com
+From: "DHL Express Shipping" <notifications@dhl-express.com>
+Reply-To: support@trusted-status-update.com
+To: victim@example.com
+Subject: Urgent: Package Delivery Issue - Verify Account Password Now!
+Date: Tue, 10 Oct 2023 10:10:10 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890.abcdef"
+
+------=_Part_12345_67890.abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Immediate action required: Your package delivery has failed due to an unverified account password. Your parcel is held at customs, and storage fees are accruing. To avoid urgent penalties or return, please verify your account password and pay a small release fee.
+
+Verify Now: https://secure.delivery.dhl.verify.account.phishingsite.net/confirm
+
+Thank you for choosing DHL Express,
+The DHL Support Team
+
+------=_Part_12345_67890.abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Delivery Notification - Account & Password Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Immediate action required:</strong> Your package delivery has <span style="color:red;">FAILED</span> due to an unverified <b>account password</b>. Your parcel is currently held by customs, and <b>urgent</b> storage fees are accruing. To prevent additional charges or return, you must verify your details now.</p>
+<p><a href="https://secure.delivery.dhl.verify.account.phishingsite.net/confirm"><img src="https://dhl-express.com/images/dhl_logo.png" alt="DHL Logo"></a></p>
+<p>Click <a href="https://secure-uactivate.now.delivery-status.phish">here</a> to verify your <i>account</i> and update your <i>password</i>.</p>
+<p>If clicking the image or link does not work, copy and paste the URL below into your browser:</p>
+<p><a href="https://secure.delivery.dhl.verify.account.phishingsite.net/confirm">https://dhl.com/tracking</a></p>
+<p>Alternatively, complete your update here:<br>
+<a href="http://malicious.example.phishing.net/update"></a>
+</p>
+<p>For additional support, visit our <a href="https://dhl-express.com/help">help center</a> or review our <a href="https://dhl-express.com/privacy-policy">privacy policy</a>.</p>
+<p>Thank you for choosing DHL Express,<br>
+The DHL Support Team</p>
+</body>
+</html>
+
+------=_Part_12345_67890.abcdef--

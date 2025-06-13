@@ -1,0 +1,55 @@
+From rewards@serviceprovider.com Mon Jul 31 10:15:00 2023
+Reply-To: support@helpdesk.com
+Return-Path: no-reply@serviceprovider.com
+From: "Rewards Team" <rewards@serviceprovider.com>
+To: user@domain.com
+Subject: URGENT: Your ACCOUNT will be locked – Claim €100 Gift Voucher NOW
+Date: Mon, 31 Jul 2023 10:15:00 +0200
+Message-ID: <20230731101500.rewards@serviceprovider.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============1234567890=="
+
+--===============1234567890==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+URGENT NOTICE: Your account is at risk of suspension due to inactivity. Failure to claim your gift voucher now will result in permanent loss of the offer and may lead to password resets.
+
+You are eligible for a €100 voucher. Act immediately:
+
+- Visit http://192.0.2.123/claim
+- Go to http://secure.payments.verify.com.claim/login
+- Or check http://trusted-site.com/login
+
+If you do not respond within 24 hours, your account will be locked.
+
+Best regards,
+Rewards Team
+
+--===============1234567890==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT ACCOUNT ALERT</title></head>
+<body>
+<h2 style="color:red;">Immediate Action Required!</h2>
+<p>Dear <b>User</b>,</p>
+<p>Your <i>account</i> is at risk of <span style="color:red;">suspension</span>! We have reserved a <b>€100 gift voucher</b> for you.</p>
+<p>To secure your reward <span style="color:blue;">immediately</span>, please use one of the options below:</p>
+<ul>
+  <li><a href="http://192.0.2.123/claim">Claim Voucher via IP link</a></li>
+  <li><a href="http://secure.payments.verify.com.claim/login">Secure Claim Portal</a></li>
+  <li><a href="http://malicious.phishnet.net/offer">click here</a> to redeem now</li>
+  <li>Or enter <a href="http://malicious.phishnet.net/login">http://trusted-site.com/login</a> in your browser</li>
+</ul>
+<p>
+  <a href="http://192.0.2.123/claim"><img src="http://83.45.12.19/images/voucher.png" alt="Voucher Image" /></a>
+</p>
+<p>Review our <a href="http://privacy.serviceprovider.com/policy">privacy policy</a> or visit the <a href="http://help.serviceprovider.com">help center</a>.</p>
+<p style="font-size: small; color: gray;">This link will expire within 24 hours. Failure to act may lead to password resets and account lock.</p>
+</body>
+</html>
+--===============1234567890==--

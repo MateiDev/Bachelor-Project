@@ -1,0 +1,40 @@
+```mbox
+From fakebilling@amazon.com Wed Oct 18 04:37:18 2023
+Date: Wed, 18 Oct 2023 04:37:18 +0000
+From: Amazon Support <fakebilling@amazon.com>
+Subject: URGENT: Immediate Action Required for Your Account
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="XXXXboundaryXXXX"
+
+--XXXXboundaryXXXX
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We detected unusual activity on your Amazon account and have locked it as a security precaution. You must verify your account immediately to avoid permanent closure. Visit the link below:
+
+http://192.168.0.1/secure/verify
+
+Amazon security team
+
+For assistance, please visit:
+https://www.amazon.com/help
+
+--XXXXboundaryXXXX
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected unusual activity on your Amazon account and have locked it as a security precaution. <b>You must verify your account immediately to avoid permanent closure</b>.</p>
+    <p><a href="http://192.168.0.1/secure/verify" style="color:#fff; text-decoration:none;"></a></p>
+    <p><a href="http://192.168.0.1/secure/verify">Click here</a> to verify your account.</p>
+    <p>Amazon security team</p>
+    <p>For assistance, please visit our <a href="https://www.amazon.com/help">help page</a> or review our <a href="https://www.amazon.com/privacy-policy">privacy policy</a>.</p>
+    <img src="http://192.168.0.1/secure/logo.png" alt="Amazon Logo"/>
+  </body>
+</html>
+
+--XXXXboundaryXXXX--
+```

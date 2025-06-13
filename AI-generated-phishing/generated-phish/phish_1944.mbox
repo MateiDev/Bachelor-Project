@@ -1,0 +1,32 @@
+From no-reply@rewardz.shop-eu.com Fri Jun 14 10:00:00 2024
+Date: Fri, 14 Jun 2024 10:00:00 +0000
+From: "Rewards Team" <no-reply@rewardz.shop-eu.com>
+To: user@victim.com
+Subject: URGENT: Claim your €50 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1590000000000"
+
+------=_Part_123456_789012345.1590000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your complimentary €50 Voucher is waiting!
+Failure to redeem within 24 hours will result in cancellation.
+Claim your voucher now at:
+https://www.store.rewards.shop-eu.com/claim/voucher
+Do not ignore this message. Redeem immediately to avoid forfeiting your reward.
+
+------=_Part_123456_789012345.1590000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong style="color:red">URGENT</strong>: Your complimentary <strong>€50 Voucher</strong> is waiting!</p>
+    <p><em>Failure to redeem within 24 hours will result in cancellation.</em></p>
+    <p>Redeem here: <a href="http://198.51.100.5/secure/voucher">https://www.store.rewards.shop-eu.com/claim/voucher</a></p>
+    <p><a href="http://192.0.2.123/redeem?code=XYZ"><img src="http://198.51.100.5/assets/button.gif" alt="Click to Claim"></a></p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1590000000000--

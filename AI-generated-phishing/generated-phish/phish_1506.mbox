@@ -1,0 +1,52 @@
+From support@e-voucher.com Mon Mar 27 10:30:00 2023
+Return-Path: <support@e-voucher.com>
+Received: from mail.e-voucher.com (mail.e-voucher.com [192.168.0.1])
+	by mx.example.com with ESMTP id ABC123;
+	Mon, 27 Mar 2023 10:30:00 +0000
+From: "E-Voucher Support" <support@e-voucher.com>
+Reply-To: helpdesk@secure-login.com
+To: user@example.com
+Subject: URGENT: €50 Gift Voucher Reserved - Redeem Now
+Date: Mon, 27 Mar 2023 10:30:00 +0000
+Message-ID: <20230327103000.ABC123@mail.e-voucher.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1679917800000"
+
+----=_Part_12345_678901234.1679917800000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been randomly selected to receive a €50 Gift Voucher.
+This is an exclusive offer and slots are limited.
+
+ACT NOW! Failure to redeem within 24 hours will result in voucher cancellation.
+Click the link below to claim your reward immediately:
+
+http://promo.gift.rewards.example.com/claim
+http://123.45.67.89/secure/claim.html
+
+If you have any questions, reply to this email.
+
+Best regards,
+E-Voucher Support Team
+
+----=_Part_12345_678901234.1679917800000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Congratulations!</strong> You have been <em>randomly selected</em> to receive a <span style="color: green;">€50 Gift Voucher</span>.</p>
+    <p><strong>URGENT:</strong> Slots are limited! <span style="color: red;">Failure to redeem within 24 hours will result in voucher cancellation.</span></p>
+    <p>Click the link below to claim your reward immediately:</p>
+    <p><a href="http://promo.gift.rewards.example.com/claim"></a></p>
+    <p><a href="http://123.45.67.89/secure/claim.html"><img src="http://images.voucher.claimcdn.example.com/badge.png" alt="Claim Voucher"></a></p>
+    <p>If you have any questions, reply to this email.</p>
+    <p>Best regards,<br>E-Voucher Support Team</p>
+  </body>
+</html>
+
+----=_Part_12345_678901234.1679917800000--

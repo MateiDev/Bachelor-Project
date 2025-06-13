@@ -1,0 +1,42 @@
+```mbox
+From example@fake-dhl.com Sat Oct  7 14:28:38 2023
+Date: Sat, 7 Oct 2023 14:28:38 +0000
+From: DHL Express <example@fake-dhl.com>
+Reply-To: urgent@secure-parceldelivery.net
+To: victim@example.com
+Subject: Urgent: Immediate Action Required for Your Parcel Delivery!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have been trying to reach you. Your parcel is on hold due to unpaid delivery fees. This package will be returned within 48 hours if no action is taken. To prevent this, please visit http://123.456.78.90/delivery and complete the required steps immediately.
+
+Ensure timely delivery by taking action now. If you have questions, feel free to contact us.
+
+DHL Express
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have been <strong>trying to reach you</strong>. Your parcel is on hold due to unpaid delivery fees. 
+    This package will be returned within <strong>48 hours</strong> if no action is taken. 
+    To prevent this, please <a href="http://123.456.78.90/delivery">click here</a> and complete the required steps immediately.</p>
+    <p>Ensure timely delivery by taking action now. If you have questions, feel free to 
+    <a href="http://fake-dhl.com/help">contact us</a>.</p>
+    <p>To review our policies please visit <a href="http://dhl.com/privacy-policy">DHL Privacy Policies</a> or you can also visit 
+    <a href="http://fake-dhl.com/security-updates">here</a>.</p>
+    <p>DHL Express</p>
+  </body>
+</html>
+
+--boundary123--
+```

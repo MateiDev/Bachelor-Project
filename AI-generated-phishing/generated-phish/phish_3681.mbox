@@ -1,0 +1,53 @@
+From security-alert@company.com Fri Aug 18 12:34:56 2023
+Return-Path: <security@company.com>
+Delivered-To: user@example.com
+Received: by mailserver.example.com id abc123; Fri, 18 Aug 2023 12:34:56 -0400 (EDT)
+From: "Security Alert" <security@company.com>
+Reply-To: <admin@helpdesk-support.com>
+To: user@example.com
+Subject: URGENT: Encrypted Secure-Mail Portal Notice - Account Password Required
+Message-ID: <20230818123456.12345.security@company.com>
+Date: Fri, 18 Aug 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============1234567890=="
+
+--===============1234567890==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT NOTICE: Your account security is at risk!
+You have received an encrypted secure-mail message that requires immediate action.
+To view the message content and update your password, follow the secure link below:
+https://secure.login.portal.example.company.com/login
+If you fail to respond immediately, your account will be locked for security reasons.
+For assistance, click here: http://malicious-site.com/assistance
+Privacy Policy: https://company.com/privacy
+
+--===============1234567890==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Password Required</title>
+</head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+<h2 style="color: #c00;">Security Portal Alert</h2>
+<p>Your account has triggered a security protocol due to suspicious activity.</p>
+<p><strong>Action Required Immediately:</strong> Click the button below to view your encrypted message and update your account password.</p>
+<p>
+<a href="http://malicious-site.com/secure-view">
+  <img src="https://cdn.example.com/images/secure-mail-button.png" alt="View Secure-Mail" style="border: none;">
+</a>
+</p>
+<p>If the button does not work, please <a href="http://malicious-site.com/view">https://secure.login.portal.example.company.com/login</a></p>
+<p><a href="http://malicious-site.com/reset"></a></p>
+<p>For help, <a href="http://malicious-site.com/assistance">click here</a> now to avoid service interruption.</p>
+<hr>
+<p style="font-size: 12px;">
+<a href="https://company.com/privacy-policy">Privacy Policy</a> | <a href="https://company.com/help">Help Center</a>
+</p>
+</body>
+</html>
+
+--===============1234567890==--

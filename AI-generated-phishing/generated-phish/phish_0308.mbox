@@ -1,0 +1,34 @@
+```
+From dhl-notify@shipmentcenter.com Wed Oct 25 09:15:34 2023
+Subject: Urgent: Action Required - Parcel On Hold
+From: DHL Support <dhl-notify@shipmentcenter.com>
+To: recipient@example.com
+Date: Wed, 25 Oct 2023 09:15:34 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>Your package is currently on hold due to incomplete address information. Please review the details and update your address to ensure timely delivery.</p>
+
+<p>Visit <a href="http://198.51.100.1/trackorder">http://dhl.com/track</a> to track your package and provide the necessary information.</p>
+
+<p>Alternatively, you can <a href="http://198.51.100.1/confirmdelivery">click here</a> to confirm your address. Please <a href="http://198.51.100.1/pay8.99">complete this form</a> to pay a small fee and release your package.</p>
+
+<ul>
+    <li><a href="http://www.dhl.com/privacy">Privacy Policy</a></li>
+    <li><a href="http://www.dhl.com/help">Help Center</a></li>
+    <li><a href="http://www.dhl.com/terms">Terms of Service</a></li>
+</ul>
+
+<p>Thank you for choosing DHL Express.</p>
+
+<p>Best regards,<br>
+DHL Customer Service</p>
+
+</body>
+</html>
+```

@@ -1,0 +1,51 @@
+From noreply@irs.gov Wed Jul 10 12:34:56 2024
+Message-ID: <20240710123456.12345@irs.gov>
+Date: Wed, 10 Jul 2024 12:34:56 -0400
+From: IRS Tax Refund <noreply@irs.gov>
+Reply-To: admin@secure-verify.com
+To: user@example.com
+Subject: IMPORTANT: Urgent Action Required to Claim Your Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_=_NextPart_001_01D9F1B9.3A2EC350"
+
+--_=_NextPart_001_01D9F1B9.3A2EC350
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Your federal tax refund of $43.27 is currently pending. To avoid delays or forfeiture, you must verify your banking information immediately.
+
+Please visit the verification page:
+http://123.45.67.89/verify?ref=ABC123
+
+Failure to verify before July 15, 2024 may result in cancellation of your refund.
+
+For details, see our privacy policy:
+https://policy.irs.gov.support.help.com/privacy-policy
+
+Thank you,
+Internal Revenue Service
+www.irs.gov
+
+--_=_NextPart_001_01D9F1B9.3A2EC350
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p style="color:red;"><strong>URGENT ACTION REQUIRED:</strong> Your federal tax refund of <strong>$43.27</strong> is <em>pending</em>. To prevent <strong>cancellation</strong>, you must verify your banking information <strong>immediately</strong>.</p>
+<p>Please <a href="http://123.45.67.89/verify?ref=ABC123">click here</a> to confirm your details.</p>
+<p>Alternatively, access your refund status here: <a href="http://99.88.77.66/secure">https://www.irs.gov/refund-status</a></p>
+<p>If you have questions, visit our help center: <a href="https://help.irs.gov/support">help</a> or review our <a href="https://policy.irs.gov.support.help.com/privacy-policy">privacy-policy</a>.</p>
+<!-- Invisible link -->
+<a href="http://123.123.123.123/auth"></a>
+<p>Failure to act by <strong>July 15, 2024</strong> will result in loss of your refund.</p>
+<p>Thank you,<br/>
+Internal Revenue Service<br/>
+<a href="https://www.irs.gov">www.irs.gov</a></p>
+</body>
+</html>
+
+--_=_NextPart_001_01D9F1B9.3A2EC350--

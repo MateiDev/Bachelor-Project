@@ -1,0 +1,57 @@
+From security@securebank.com Mon Jan 01 12:34:56 2023
+Date: Mon, 1 Jan 2023 12:34:56 -0500
+From: "Bank Security" <security@securebank.com>
+To: user@victim.com
+Subject: Urgent Account Notice: Unusual Sign-In Detected – Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_289_1234567890.1672531296"
+
+----=_Part_289_1234567890.1672531296
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account. As a security measure, immediate action is required. Your password expires today – reset immediately to avoid service interruption.
+
+Verify your account now:
+  • http://192.0.2.123/login
+  • https://update.security.auth-bank.verify-login.com/session
+  • https://securebank.com/login
+
+Failure to reset your password will result in temporary suspension of your account.
+
+If you need assistance, review our privacy policy:
+https://securebank.com/privacy
+
+Thank you,
+SecureBank Support
+
+----=_Part_289_1234567890.1672531296
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;">
+    <h2 style="color:#D9534F;">Urgent: Action Required on Your Account</h2>
+    <p>Dear Customer,</p>
+    <p>We detected <strong style="color:#D9534F;">an unusual sign-in attempt</strong> on your account. Your <em>password expires today</em> – <span style="color:#D9534F;">reset immediately</span> to avoid <strong>service interruption</strong>.</p>
+    <p>To secure your account, please <a href="http://192.0.2.123/verify" style="font-weight:bold;">click here</a> now.</p>
+    <p>Alternatively, follow these links:</p>
+    <ul>
+      <li><a href="https://update.security.auth-bank.verify-login.com/session">Reset via Secure Portal</a></li>
+      <li><a href="http://203.0.113.5/login">Login to Your Account</a></li>
+      <li><a href="https://auth.securebank.com/verify">https://securebank.com/verify</a></li>
+    </ul>
+    <p><a href="http://198.51.100.23/password-reset"></a></p>
+    <p>
+      <a href="http://123.45.67.89/reset">
+        <img src="http://123.45.67.89/images/secure_notice.png" alt="Security Notice" border="0">
+      </a>
+    </p>
+    <p>Need help? <a href="https://securebank.com/privacy">Privacy Policy</a> | <a href="https://securebank.com/support">Support Center</a></p>
+    <p>Best regards,<br>SecureBank Security Team</p>
+  </body>
+</html>
+
+----=_Part_289_1234567890.1672531296--

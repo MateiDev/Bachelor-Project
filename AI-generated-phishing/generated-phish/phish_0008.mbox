@@ -1,0 +1,44 @@
+```
+From example@deliveryservice.com Fri Oct 13 10:00:00 2023
+Return-Path: <example@deliveryservice.com>
+Received: from [192.0.2.1] (c-192-0-2-1.isp.com [192.0.2.1])
+        by mail.example.com (Postfix) with ESMTP id ABC1234567
+        for <user@example.com>; Fri, 13 Oct 2023 10:00:00 +0000 (UTC)
+Message-ID: <001a114bcd1d928376049d1234567890@deliveryservice.com>
+Date: Fri, 13 Oct 2023 10:00:00 +0000 (UTC)
+From: "DHL Notification" <notification@deliveryservice.com>
+To: user@example.com
+Subject: Urgent: Action Required for Your Held Parcel!
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_123456789.1234567890123"
+
+------=_Part_1234567_123456789.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel is awaiting delivery and requires your immediate action. Click the link to resolve the issue: http://192.0.2.2/secure/parcel
+
+Thank you,
+DHL Customer Support
+
+------=_Part_1234567_123456789.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your parcel is awaiting delivery and requires your <b>urgent</b> acti=
+on. Please <a href=3D"http://192.0.2.2/secure/parcel" style=3D"color:#007BFF=
+; text-decoration:none;"><img src=3D"http://192.0.2.2/images/parcel.png" alt=
+=3D"Click Here" /></a> to resolve this issue.</p>
+    <p><a href=3D"http://www.dhl.com/help">Help</a> | <a href=3D"http://www.=
+dhl.com/privacy">Privacy Policy</a></p>
+    <p>Thank you,<br />DHL Customer Support</p>
+  </body>
+</html>
+
+------=_Part_1234567_123456789.1234567890123--
+```

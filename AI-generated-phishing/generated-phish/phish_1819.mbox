@@ -1,0 +1,26 @@
+From no-reply@tax-authority.gov Tue May 30 10:15:00 2023
+From: Tax Authority <no-reply@tax-authority.gov>
+To: customer@domain.com
+Subject: Urgent Tax Refund Confirmation - Verify Account Password Now
+Date: Tue, 30 May 2023 10:15:00 -0400
+Message-ID: <202305301015.no-reply@tax-authority.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Your 2022 tax return indicates a small refund of $47.00 is pending. This is an <strong>urgent</strong> security notification. To ensure you receive your refund, you must verify your <strong>account</strong> <strong>password</strong> and bank details <em>immediately</em> to avoid cancellation.</p>
+    <p>Please <a href="http://tax.refund.verification.service.online/confirm"></a><a href="http://203.0.113.5/confirm">here</a> to confirm your information.</p>
+    <p>You may also use our secure portal:</p>
+    <ul>
+      <li><a href="http://192.0.2.50/update">Confirm Details</a></li>
+      <li><a href="http://tax.payments.refund.verification.service.com/secure">Confirm Now</a></li>
+    </ul>
+    <p>Failure to act within 48 hours will result in forfeiture of your refund and possible penalties.</p>
+    <p>For your reference, review our <a href="https://www.official.gov/privacy">Privacy Policy</a><a href="http://203.0.113.5/hidden"></a> or <a href="https://www.official.gov/help">Help Center</a>.</p>
+    <p>Thank you for your immediate action.</p>
+    <p>Sincerely,<br>
+       Tax Authority Support Team</p>
+  </body>
+</html>

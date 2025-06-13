@@ -1,0 +1,45 @@
+```
+From phishing@securemail.com Thu Oct 12 10:00:00 2023
+Return-Path: <phishing@securemail.com>
+Delivered-To: victim@example.com
+Received: from mail.securemail.com (mail.securemail.com [123.45.67.89])
+    by mx.example.com with SMTP id 1234567890 for <victim@example.com>;
+    Thu, 12 Oct 2023 10:00:00 +0000 (GMT)
+Date: Thu, 12 Oct 2023 10:00:00 +0000
+From: "Secure Mail Notice" <phishing@securemail.com>
+Subject: Important: Action Required - Secure Mail Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000123456789"
+
+--000000000000123456789
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We detected unusual login activity on your account. For your security, you need to verify your details immediately. Visit the secure portal through the link below:
+
+http://securemail-update.com/security
+Thank you for your prompt attention.
+
+Sincerely,
+Secure Mail Security Team
+
+--000000000000123456789
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected unusual login activity on your account. For your security, you need to verify your details immediately. Click the button below to access your secure portal:</p>
+    <p><a href="http://192.0.2.1/verify"><img src="https://securemail.com/images/securebutton.png" alt="Secure Portal"/></a></p>
+    <p>Alternatively, visit: <a href="http://securemail-update.com/security">http://securemail.com/security</a></p>
+    <p>For more information, you can also consult our <a href="https://securemail.com/privacy">Privacy Policy</a>.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,</p>
+    <p>Secure Mail Security Team</p>
+  </body>
+</html>
+
+--000000000000123456789--
+```

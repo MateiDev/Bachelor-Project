@@ -1,0 +1,45 @@
+```mbox
+From phishing@example.com Sat Oct  7 11:26:46 2023
+Return-path: <phishing@example.com>
+Delivered-To: victim@example.com
+Received: from phisherserver.com (phisherserver.com [192.168.1.1])
+	by mail.example.com (Postfix) with ESMTP id 9D2BC1ABCD
+	for <victim@example.com>; Sat,  7 Oct 2023 11:26:46 +0000 (UTC)
+Message-ID: <1234567890@phisherserver.com>
+Date: Sat, 7 Oct 2023 11:26:46 +0000
+From: "Support Team" <support@secureportal.com>
+Reply-To: alert@warning-notice.com
+Subject: Urgent: Your Account Requires Immediate Attention
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000abcd1234567890"
+
+--000000000000abcd1234567890
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity in your account. To ensure your account's security, please verify your information urgently.
+
+Please click the following link to review: 
+http://secure-portal.com/verification
+
+Thank you,
+Secure Portal Support
+
+--000000000000abcd1234567890
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity in your account. To ensure your account's security, please verify your information urgently.</p>
+    <p><strong><a href="http://malicious-link.com/verify" target="_blank">http://secure-portal.com/verification</a></strong></p>
+    <p><img src="http://information-secure.com/logo.png" alt="Secure Portal"></p>
+    <p>For further assistance, please visit our <a href="http://secure-portal.com/help">Help Center</a> or <a href="http://secure-portal.com/privacy">Privacy Policy</a>.</p>
+    <p>Thank you,</p>
+    <p>Secure Portal Support</p>
+  </body>
+</html>
+
+--000000000000abcd1234567890--
+```

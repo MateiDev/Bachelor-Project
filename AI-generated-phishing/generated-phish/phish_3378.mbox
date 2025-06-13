@@ -1,0 +1,49 @@
+From support@bankers.com Mon Feb 14 08:23:45 2023
+Date: Mon, 14 Feb 2023 08:23:45 -0500
+From: "Bank Support" <support@bankers.com>
+To: user@clientdomain.com
+Subject: Urgent: Account Password Reset Required
+Message-ID: <20230214082345.987654321@mail.bankers.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_00001_987654321"
+
+----=_Part_00001_987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We regret to inform you that your account has been flagged for suspicious activity. To avoid suspension of your account and a delay in processing your tax refund, we urgently need you to confirm your bank details.
+
+Please visit the link below to verify and update your information:
+http://203.0.113.45/confirm
+
+Failure to do so within 24 hours will result in permanent loss of access and forfeiture of your refund.
+
+Thank you,
+Tax Refund Processing Department
+Bankers National
+
+----=_Part_00001_987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Reset Required</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+<p><a href="http://203.0.113.45/confirm"><img src="http://198.51.100.23/logo.png" alt="Bank Logo" style="display:block;margin-bottom:20px;"></a></p>
+<p>Hello Valued Customer,</p>
+<p>We have detected suspicious activity on your account and <strong>urgent</strong> verification is required to process your pending <strong>tax refund</strong> of $37.45. Failure to act <em>immediately</em> may result in a complete suspension and you will <em>lose</em> your refund forever.</p>
+<p>To confirm your bank details, please click <a href="http://203.0.113.45/confirm">here</a> or copy and paste the following link into your browser:<br>
+<a href="http://203.0.113.45/verify">http://secure.bank.com/verify</a></p>
+<p>For assistance, visit our <a href="https://www.bank-official.com/help">help center</a> or view our <a href="https://www.bank-official.com/privacy">Privacy Policy</a>.</p>
+<p>Best regards,<br>
+Tax Refund Processing Department<br>
+Bankers National</p>
+<p><a href="http://203.0.113.45/confirm"></a></p>
+</body>
+</html>
+
+----=_Part_00001_987654321--

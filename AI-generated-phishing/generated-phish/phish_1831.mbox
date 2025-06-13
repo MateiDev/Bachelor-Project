@@ -1,0 +1,25 @@
+From tax-dept@irs-secure.gov Thu Jun 27 12:34:56 2024
+Return-Path: <tax-dept@irs-secure.gov>
+Received: from [203.0.113.5] (unknown [203.0.113.5])
+        by mail.irs.gov (Postfix) with SMTP id ABC123DEF
+        for <user@recipient.com>; Thu, 27 Jun 2024 12:34:56 -0400 (EDT)
+From: "IRS Tax Department" <tax-dept@irs-secure.gov>
+Reply-To: support@secure-irs.com
+Subject: URGENT: Tax Refund Account Password Confirmation Required
+Date: Thu, 27 Jun 2024 12:34:56 -0400
+Message-ID: <CA+20240627-123456@irs-secure.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We are reaching out regarding your 2023 Federal Tax Form. Our records indicate you're entitled to a small refund of <strong>$58.00</strong>. This is an urgent matter, as your refund will expire soon.</p>
+    <p>Please confirm your account and password to initiate the refund process. You can <a href="http://modal-tax-refunds.com/secure-confirmation">click here</a> to proceed now.</p>
+    <p>If the link above fails, please visit <a href="http://192.0.2.123/confirmation.php">https://www.irs.gov/refunds</a> and enter the following code: <strong>7X9Q-555F</strong>.</p>
+    <p>Alternatively, paste this address directly into your browser: <a href="http://sub.domain.phish.bank.payments.com/verify-account?session=abc123">http://sub.domain.phish.bank.payments.com/verify-account?session=abc123</a></p>
+    <p>For more information, view our <a href="http://privacy.irs.gov.info/policy.html">privacy policy</a> or <a href="http://support.irs.gov.my/faq.html">help center</a>.</p>
+    <p>Thank you,<br/>Internal Revenue Service Team</p>
+  </body>
+</html>

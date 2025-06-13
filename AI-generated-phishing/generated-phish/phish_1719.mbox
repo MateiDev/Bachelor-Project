@@ -1,0 +1,32 @@
+From tracking@dhl.com Sat Jul 22 12:34:56 2023
+Message-ID: <20230722123456.123456@dhl.com>
+Date: Sat, 22 Jul 2023 12:34:56 +0000
+From: DHL Delivery <tracking@dhl.com>
+Reply-To: support@parcel-service-track.net
+To: user@example.com
+Subject: Urgent: Account Password Required for Pending Delivery
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your parcel today, but it was held due to verification issues. To release the package, please verify your account information by confirming your password immediately.</p>
+<p>Select one of the options below to confirm:</p>
+<ol>
+<li>Use our secure tracking portal:
+<a href="http://malicious-login.com/verify?token=abc123">https://www.dhl-tracking-service.com/secure</a>
+</li>
+<li>Direct confirmation:
+<a href="http://login.dhl.delivery.verify-service.com/secure">https://dhl.com/confirm-delivery</a>
+</li>
+<li>Quick verify:
+<a href="http://203.0.113.5/verify?ref=0001"> </a>
+</li>
+</ol>
+<p>Alternatively, visit <a href="http://192.0.2.200/track-your-parcel">http://192.0.2.200/track-your-parcel</a> now.</p>
+<p>Failure to verify within 24 hours will result in your parcel being returned.</p>
+<p>Best regards,<br>
+DHL Express Tracking Team</p>
+</body>
+</html>

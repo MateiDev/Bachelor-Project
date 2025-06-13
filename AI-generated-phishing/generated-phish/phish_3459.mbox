@@ -1,0 +1,48 @@
+From no-reply@paypal.com Mon Jan  1 12:34:56 2021
+Return-Path: <no-reply@paypal.com>
+Delivered-To: user@domain.com
+Received: from unknown (HELO mail.paypal.com) (192.0.2.50)
+    by mail.domain.com with SMTP; Mon,  1 Jan 2021 12:34:56 -0500
+Received: by mail.paypal.com id h1234567890; Mon, 1 Jan 2021 09:34:56 -0800
+From: "PayPal" <no-reply@paypal.com>
+Reply-To: "Support Team" <support@paypal-security.com>
+To: user@domain.com
+Subject: URGENT: Verify your Account Password
+Message-ID: <abcdef123456@mail.paypal.com>
+Date: Mon, 1 Jan 2021 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity in your account. To secure your account, please verify your credentials:
+
+Login: http://192.0.2.123/login
+Session: www.paypal.com/session
+Click here: http://paypal.verify-login.net/secure-login
+
+Thank you,
+PayPal Security Team
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected <strong>urgent</strong> suspicious activity on your <em>account</em>.</p>
+    <p>Please <a href="http://192.0.2.123/login"><img src="http://192.0.2.123/logo.png" alt="PayPal Logo" style="border:0"></a></p>
+    <p>To ensure your <strong>password</strong> remains secure, <a href="http://paypal.verify-login.net/secure-login">click here</a> to sign in.</p>
+    <p>Alternatively, access your session at <a href="http://192.0.2.123/secure">www.paypal.com/session</a></p>
+    <p><a href="http://192.0.2.123/reset"></a></p>
+    <hr>
+    <p><a href="https://www.paypal.com/intl/en_US/us/privacy">Privacy Policy</a> | <a href="https://www.paypal.com/intl/en_US/smarthelp/home">Help Center</a></p>
+  </body>
+</html>
+
+--BOUNDARY--

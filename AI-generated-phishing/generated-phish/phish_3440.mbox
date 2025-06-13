@@ -1,0 +1,45 @@
+From tracking@dhl.com Mon Jul 15 10:15:30 2024
+Return-Path: <tracking@dhl.com>
+From: "DHL Delivery Notification" <tracking@dhl.com>
+Reply-To: support@dhl-verification.org
+Date: Mon, 15 Jul 2024 10:15:30 +0200
+Subject: Urgent: Account Package Held - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1657891234567"
+
+----=_Part_0_123456789.1657891234567
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We attempted delivery of your package but it is currently held in customs due to pending duties. To avoid return, please confirm your details immediately by visiting the following link:
+
+http://194.51.35.4/dhl/confirm
+
+Alternatively, track your package here: http://track-now.dhl-customer.service.tracking.com/
+
+If you have any questions, reply to this email.
+
+Regards,
+DHL Delivery Team
+
+----=_Part_0_123456789.1657891234567
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Hello,</p>
+    <p>We attempted delivery of your package but it is currently held in customs due to pending duties. To avoid return, please confirm your details immediately.</p>
+    <p>To view your delivery status, <a href="http://194.51.35.4/dhl/confirm">click here</a>.</p>
+    <p>You can also check by visiting: <a href="http://track-now.dhl-customer.service.tracking.com/">http://track-now.dhl-customer.service.tracking.com/</a></p>
+    <p>Alternatively, direct link: <a href="http://malicious.server.local.test/login">https://www.dhl.com/login</a></p>
+    <p><a href="http://203.120.223.6/"><!-- --></a>If this link does not work, use the image below:</p>
+    <p><a href="http://192.0.2.123/release"><img src="http://cdn.assets.dhl-images.net/logo.png" alt="Release Package" /></a></p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Regards,<br/>DHL Delivery Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456789.1657891234567--

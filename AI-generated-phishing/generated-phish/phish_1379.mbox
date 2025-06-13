@@ -1,0 +1,43 @@
+From phishing@tester.com Fri Oct 13 12:34:56 2023
+From: "YourBank Security" <security@yourbank.com>
+To: user@example.com
+Subject: URGENT: Account Password Expires Today – Reset Immediately
+Date: Fri, 13 Oct 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account requiring immediate action.
+Your password expires today – reset immediately to prevent suspension.
+Please verify your account now: https://account.security.verify.bank.com/login?user=12345
+If you cannot access the link, copy and paste the following:
+http://update.yourbank-secure.com/reset?uid=12345
+
+For policy details, visit https://www.yourbank.com/help/privacy.policy.html
+
+Thank you,
+Security Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Urgent Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;"><strong>Alert:</strong> Unusual sign-in detected — <em>verify now</em>! Your <strong>password expires today</strong> &ndash; <strong>reset immediately</strong> to avoid account suspension.</p>
+<p>Verify your account by clicking <a href="http://malicious.bad-site.com/verify?uid=12345">https://account.security.verify.bank.com/login</a> or <a href="http://phish.example.com/reset?user=12345">click here</a> for direct access.</p>
+<p>Learn more about our policies at <a href="http://help.bad-domain.com/docs/privacy.policy.html">https://www.yourbank.com/help/privacy.policy.html</a>.</p>
+<p>Thank you,<br/>Security Team</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

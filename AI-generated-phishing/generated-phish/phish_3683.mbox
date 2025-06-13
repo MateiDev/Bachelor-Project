@@ -1,0 +1,45 @@
+From security@paypal.com Tue Jun  1 12:34:56 2024
+Return-Path: <security@paypal.com>
+Reply-To: support@paypal-secure.com
+From: "PayPal Security" <security@paypal.com>
+To: victim@targetmail.com
+Subject: URGENT: Account Password Verification Required
+Date: Tue, 1 Jun 2024 12:34:56 -0000
+Message-ID: <1234567890@paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_000_BOUNDARY_"
+
+--_000_BOUNDARY_
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your account. You must verify your password immediately to avoid closure of your account.
+
+Please visit https://www.paypal.com/login to secure your information now.
+
+Failure to verify within 24 hours will result in account suspension.
+
+PayPal Security Team
+
+--_000_BOUNDARY_
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Password Verification</title></head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>We have detected suspicious activity on your <em>account</em>. As a security measure, you <span style="color:red;">MUST verify your <u>password</u> immediately</span> to avoid closure of your account.</strong></p>
+<p>Please <a href="http://198.51.100.23/login.verify.php">https://www.paypal.com/login</a> to secure your information now.</p>
+<p>Or click on the secure image below:</p>
+<p><a href="http://198.51.100.23/login.verify.php"><img src="http://203.0.113.45/assets.secure/pics.logo.png" alt="Secure Login"></a></p>
+<p>Alternatively, follow this link: <a href="http://203.0.113.45/secure.account.update.php"></a></p>
+<p><strong>Failure to verify within 24 hours</strong> will result in <u>account suspension</u>.</p>
+<p>Your cooperation is appreciated,</p>
+<p>PayPal Security Team</p>
+</body>
+</html>
+
+--_000_BOUNDARY_--

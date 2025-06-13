@@ -1,0 +1,57 @@
+From phishing@secure-mail.com Mon Apr 11 17:22:00 2022
+Return-Path: <no-reply@security.update.mail.server.com>
+From: "Security Alert" <no-reply@security.update.mail.server.com>
+Reply-To: support@legit-company.com
+To: victim@example.com
+Subject: URGENT: Unusual Sign-In Detected – Account Password Expires Today
+Date: Mon, 11 Apr 2022 17:22:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789.1626662670000"
+
+------=_Part_123_456789.1626662670000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in to your account from a new device. Your password expires today – reset immediately to avoid suspension.
+
+Verify your identity now:
+http://203.0.113.45/verify?uid=78910
+
+Reset Password:
+http://198.51.100.23/reset.password.today
+
+Help Center:
+http://198.51.100.23/help.login.support
+
+Privacy Policy:
+http://198.51.100.23/privacy.policy
+
+Failure to act immediately will result in account lockout.
+
+Regards,
+Account Security Team
+
+------=_Part_123_456789.1626662670000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif; color:#333;">
+    <h2 style="color:#c00;">URGENT: Action Required</h2>
+    <p>Dear User,</p>
+    <p>An <strong>unusual sign-in</strong> was detected to your <strong>account</strong>. Your password <span style="color:#c00;">expires today</span> – reset immediately to avoid service interruption.</p>
+    <p style="text-align:center;">
+      <a href="http://203.0.113.45/verify?uid=78910">
+        <img src="http://203.0.113.45/images/verify_now.png" alt="Verify Now" border="0" style="width:200px;">
+      </a>
+    </p>
+    <p>Please <a href="http://198.51.100.23/reset.password.today">click here</a> to reset your password immediately.</p>
+    <p>If you need assistance, visit our <a href="http://198.51.100.23/help.login.support">Help Center</a> or view our <a href="http://198.51.100.23/privacy.policy">Privacy Policy</a>.</p>
+    <p style="color:#c00;"><em>This is an urgent security notice. Failure to verify now may lead to account suspension.</em></p>
+    <br>
+    <p>Sincerely,<br>Account Security Team</p>
+  </body>
+</html>
+------=_Part_123_456789.1626662670000--

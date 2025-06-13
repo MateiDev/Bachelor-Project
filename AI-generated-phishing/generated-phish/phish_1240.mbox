@@ -1,0 +1,47 @@
+From no-reply@apple.com Thu Mar  2 14:22:31 2023
+Message-ID: <CA+Xmpl1234@apple.com>
+Date: Thu, 02 Mar 2023 14:22:31 +0000
+From: Apple Support <no-reply@apple.com>
+Reply-To: support@apple-security.info
+To: user@example.com
+Subject: Urgent: Account Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+
+Dear User,
+
+We detected suspicious activity on your Apple account and need to verify your credentials immediately. Please visit the link below to confirm your identity:
+
+http://192.0.2.123/verify?account=ABC123
+
+For your convenience, you can also access your account here:
+http://203.0.113.5/login
+
+Privacy Policy: https://www.apple.com/legal/privacy/
+Help Center: https://www.apple.com/support/
+
+Failure to verify within 24 hours may result in account suspension.
+
+Thank you,
+Apple Support Team
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected suspicious activity on your Apple account and need to verify your credentials immediately. Please click <a href="http://203.0.113.5/login">here</a> to confirm your identity.</p>
+    <p><a href="http://192.0.2.123/verify?account=ABC123"></a></p>
+    <p>For reference, you may also go directly: <a href="http://198.51.100.25/auth?session=XYZ"></a></p>
+    <p>Privacy Policy: <a href="https://www.apple.com/legal/privacy/">Privacy</a><br>
+       Help Center: <a href="https://www.apple.com/support/">Help</a></p>
+    <p>Failure to verify within 24 hours may result in account suspension.</p>
+    <p>Thank you,<br>Apple Support Team</p>
+  </body>
+</html>
+
+--BOUNDARY--

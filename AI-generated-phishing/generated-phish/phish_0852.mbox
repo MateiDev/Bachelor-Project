@@ -1,0 +1,43 @@
+From rewards@trustedsite.com Fri Mar 18 10:00:00 2023
+Return-Path: <rewards@trustedsite.com>
+Received: by mail.trustedsite.com
+Subject: Urgent: Your account Password Reset and Voucher Inside
+From: "Rewards Team" <rewards@trustedsite.com>
+Reply-To: support@trustedsecure.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected suspicious activity on your account. To secure your password and claim your €50 voucher, please visit the link below:
+
+http://malicious.com/steal?token=ABC123
+
+Alternatively, review our privacy policy:
+http://trusted.com/privacy-policy
+
+Best regards,
+Rewards Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Your account Password Reset and Voucher Inside</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We detected suspicious activity on your account. To secure your <strong>password</strong> and claim your <strong>€50 voucher</strong>, please <a href="http://malicious.com/steal?token=ABC123">http://trusted.com/privacy-policy</a>.</p>
+<p>For more details, <a href="http://promo.rewards.claim">click here</a>.</p>
+<p>Review our <a href="http://malicious2.com/track"></a> for more info.</p>
+<p>Best regards,<br/>Rewards Team</p>
+</body>
+</html>
+
+----=_Part_12345_67890--

@@ -1,0 +1,43 @@
+```mbox
+From phishing@fake-service.com Sat Oct 14 16:35:20 2023
+Return-Path: <phishing@fake-service.com>
+Received: from host.example.com (host.example.com [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id ABC123456
+    for <user@example.com>; Sat, 14 Oct 2023 16:35:20 +0000 (UTC)
+Reply-To: urgent-secure-update@checksecure-info.com
+Date: Sat, 14 Oct 2023 16:35:20 +0000
+From: Secure-Account-Update <phishing@fake-service.com>
+Subject: URGENT: Immediate Account Verification Required!
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_1234567890.987654321"
+
+------=_Part_1234567_1234567890.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your immediate attention is needed. We have detected suspicious activity on your account. Please follow the secure link below to verify your account and prevent unauthorized access.
+
+https://192.0.2.2/secure/verify
+
+Best,
+Security Team
+
+------=_Part_1234567_1234567890.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your immediate attention is needed. We have detected suspicious activity on your account. Please follow the secure link below to verify your account and prevent unauthorized access.</p>
+    <a href="http://192.0.2.2/secure/verify">https://secure-login.fake-service.com</a><br><br>
+    <a href="http://fake-service.com.login.verify.update.com"></a>
+    <p>Best,<br>Security Team</p>
+  </body>
+</html>
+
+------=_Part_1234567_1234567890.987654321--
+```

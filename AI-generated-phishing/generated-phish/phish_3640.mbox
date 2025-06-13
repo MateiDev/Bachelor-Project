@@ -1,0 +1,50 @@
+From dhl-tracking@dhl.com Mon Jul 01 12:34:56 2024
+Return-Path: <dhl-tracking@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.10])
+    by mx.mailserver.com with ESMTP id abc123
+    for <user@testmail.com>; Mon, 01 Jul 2024 12:34:56 +0000 (UTC)
+From: DHL Express <noreply@dhl.com>
+Reply-To: support@dhl-update-security.com
+Subject: URGENT: DELIVERY NOTIFICATION – YOUR PACKAGE IS ON HOLD
+To: user@testmail.com
+Message-ID: <987654321@mail.dhl.com>
+Date: Mon, 01 Jul 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+ALERT: Your package could not be delivered due to unpaid customs fees.
+IMMEDIATE ACTION REQUIRED: Please visit the following link to release
+your package within 24 hours or it will be returned to sender.
+
+Track and pay here: https://www.dhl.com/track?id=ABC12345
+Verify now: http://198.51.100.50/verify
+
+For assistance:
+Privacy Policy - https://www.dhl.com/us-en/home/privacy-policy.html
+Help Center - https://www.dhl.com/us-en/home/help-center.html
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p style="color:red; font-weight:bold;">ALERT: Your package could not be delivered due to unpaid customs fees.</p>
+<p><b>IMMEDIATE ACTION REQUIRED:</b> Please click the link below to release your package within <u>24 HOURS</u> or it will be <i>RETURNED TO SENDER</i>.</p>
+<p><a href="http://192.0.2.123/confirm"><img src="https://www.dhl.com.tr.tr/assets/images/dhl_logo.png" alt="DHL Logo" border="0"/></a></p>
+<p>Track your package: <a href="http://123.45.67.89/track_package">https://www.dhl.com/track</a></p>
+<p>Verify payment: <a href="http://198.51.100.50/verify"></a></p>
+<p>If the above links do not work, <a href="http://203.0.113.5/pay">click here</a> to proceed.</p>
+<hr/>
+<p>For more info:
+<a href="https://www.dhl.com/us-en/home/privacy-policy.html">Privacy Policy</a> |
+<a href="https://www.dhl.com/us-en/home/help-center.html">Help Center</a>
+</p>
+</body>
+</html>
+
+--boundary123--

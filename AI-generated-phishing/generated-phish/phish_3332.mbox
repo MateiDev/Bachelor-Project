@@ -1,0 +1,54 @@
+From ups-notify@ups.com Fri Oct 13 14:55:01 2023
+Return-Path: <ups-notify@ups.com>
+Received: from mail.ups.com (mail.ups.com [198.51.100.10])
+	by mx.google.com with ESMTP id x7si1234567qta.78.2023.10.13.14.55.01
+	for <victim@example.com>; Fri, 13 Oct 2023 14:55:01 -0400 (EDT)
+From: "UPS Shipping" <no-reply@ups.com>
+Reply-To: customer.service@ups-secure.com
+Subject: Urgent: Account Password Required for Shipment Hold
+Date: Fri, 13 Oct 2023 14:55:01 -0400
+Message-ID: <20231013145501.12345@mail.ups.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_UPS_BOUNDARY_12345"
+
+--=_UPS_BOUNDARY_12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package, but it is on hold due to an urgent validation issue with your account password. To avoid return and extra fees, you must confirm and release your shipment immediately.
+
+Please visit the following link to complete the release process:
+http://203.0.113.45/track?shipment=12345
+
+If you do not act within 24 hours, your package will be returned and additional fees will apply.
+
+For more information, see our privacy policy:
+https://www.ups.com/privacypolicy
+
+Thank you for your prompt attention.
+
+UPS Customer Service
+
+--=_UPS_BOUNDARY_12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">Important: Your shipment is <em>on hold</em> due to an <strong>urgent</strong> account validation issue.</p>
+    <p>To release your package and avoid extra fees, please confirm your details immediately by following the link below:</p>
+    <!-- Empty visible anchor -->
+    <p><a href="http://198.51.100.23/confirm?shipment=54321"></a></p>
+    <p>Or visit: <a href="http://198.51.100.23/confirm?shipment=54321">https://www.ups.com/tracking?12345</a></p>
+    <p>If you prefer, <a href="http://198.51.100.23/confirm?shipment=54321">click here</a> to proceed.</p>
+    <p>If no action is taken within 24 hours, your shipment will be returned and additional fees will apply.</p>
+    <hr>
+    <p><a href="https://www.ups.com/privacypolicy">Privacy Policy</a> | <a href="https://help.ups.com">Help Center</a></p>
+    <p>UPS Customer Service</p>
+  </body>
+</html>
+
+--=_UPS_BOUNDARY_12345--

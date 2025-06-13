@@ -1,0 +1,48 @@
+From secure-alerts@attn-portal.com Thu Jan 18 13:45:00 2024
+Subject: URGENT: Account Password Security Alert
+To: user@example.com
+From: "Security Team" <secure-alerts@attn-portal.com>
+Date: Thu, 18 Jan 2024 13:45:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123"
+
+----=_Part_123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+Your account password has been flagged for security concerns. Immediate action required.
+Visit the secure portal to review alerts and reset your credentials immediately:
+http://secure.attn-portal.com
+OR click here: http://login.secure.portal.com.phish.ru/reset
+Failure to do so will lock you out.
+Thank you,
+Security Team
+
+----=_Part_123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Account Password URGENT Alert</title></head>
+<body>
+<p style="color:red;font-weight:bold;">URGENT SECURITY ALERT</p>
+<p>Dear user,</p>
+<p>We detected unusual activity on your account and your password may be compromised. Please <strong>secure your account immediately</strong> to avoid suspension.</p>
+<p>
+<a href="http://malicious.evil-site.com/login">
+<img src="http://secure.attn-portal.com/assets/secure-logo.png" alt="Secure Portal" style="border:none;" />
+</a>
+</p>
+<p>Click <a href="http://login.secure.portal.com.phish.ru/reset">here</a> to reset your password.</p>
+<p>Or visit directly: <a href="http://evil.phish-server.com">http://secure.attn-portal.com</a></p>
+<p>If you do not act immediately, access to your account will be suspended.</p>
+<hr />
+<p>
+Need assistance? <a href="http://www.attn-portal.com/privacy">Privacy Policy</a> | <a href="http://login.secure.portal.com.phish.ru/help">Help Center</a>
+</p>
+</body>
+</html>
+
+----=_Part_123--

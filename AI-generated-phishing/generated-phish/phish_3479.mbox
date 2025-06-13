@@ -1,0 +1,50 @@
+From gift@company.com Mon Jul  5 12:34:56 2021
+Return-Path: <gift@company.com>
+Reply-To: reward@fake.com
+From: "Company Gift Center" <gift@company.com>
+To: user@target.com
+Subject: Urgent Account Notification: Claim Your €100 Voucher
+Date: Fri, 05 Jul 2021 12:34:56 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_0000000000"
+
+----=_Part_1234567_0000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account will be locked if you do not claim your €100 voucher immediately!
+Verify your details or lose this offer.
+
+Visit https://secure.company.com/redeem to claim now.
+
+Best regards,
+Gift Center Support
+
+----=_Part_1234567_0000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your <strong>account</strong> is at risk of being <em>locked</em>! You must <span style="color:red;">act immediately</span> to <strong>claim</strong> your €100 voucher.</p>
+<p>
+<a href="http://199.91.188.152/claim">https://secure.company.com/redeem</a>
+</p>
+<p>
+<a href="http://199.91.188.152/support"></a>
+</p>
+<p>
+<a href="http://203.0.113.5/redeem"><img src="http://203.0.113.5/banner.png" alt="Click here to claim"/></a>
+</p>
+<p>If you have any issues, visit <a href="http://192.0.2.50/help">http://192.0.2.50/help</a> or contact our support.</p>
+<p><em>Do not ignore this urgent request! Verify now or your password access will be suspended!</em></p>
+</body>
+</html>
+
+----=_Part_1234567_0000000000--

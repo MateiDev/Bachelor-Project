@@ -1,0 +1,40 @@
+From no-reply@secure-company.com Sat Jun 15 10:15:00 2024
+Reply-To: support@phisherservice.com
+From: "SecureMail Portal" <no-reply@secure-company.com>
+To: user@example.com
+Subject: [Action Required] Secure Portal Security Alert
+Date: Sat, 15 Jun 2024 10:15:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901.1592233200000"
+
+----=_Part_12345_678901.1592233200000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your SecureMail portal account. To ensure your account security, please view your secure message within 24 hours:
+
+https://secure-company.com/portal-security
+
+Thank you,
+SecureMail Support Team
+
+----=_Part_12345_678901.1592233200000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2>Secure Portal Security Alert</h2>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity on your SecureMail portal account. To ensure your account security, please <a href="http://phishlogin.company.security.auth/verify?session=abc">https://portal.secure-company.com/security</a> immediately.</p>
+    <p>If you have any questions, visit our <a href="http://login.company.support.services.verify-user.info/login">help center</a> or review our <a href="http://policies.secure.company.com/privacy.policy">Privacy Policy</a>.</p>
+    <p>Alternatively, you can <a href="http://malicious.example.com">here</a> to access your secure documents.</p>
+    <p><a href="http://hidden.phish/track"></a></p>
+    <p><a href="http://login.phishdomain.com/imageclick"><img src="http://secure-company.com/logo.png" alt="SecureMail Logo" width="200" /></a></p>
+    <p>Thank you,<br/>SecureMail Support Team</p>
+  </body>
+</html>
+
+----=_Part_12345_678901.1592233200000--

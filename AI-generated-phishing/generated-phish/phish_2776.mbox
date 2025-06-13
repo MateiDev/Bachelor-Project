@@ -1,0 +1,52 @@
+From - Tue Oct 17 02:14:24 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                 
+Return-Path: <noreply@taxrefund.com>
+Received: from [192.168.1.100] (helo=server1.taxrefund.com)
+	by mail.taxrefund.com with esmtp (Exim 4.87)
+	(envelope-from <noreply@taxrefund.com>)
+	id 1hJio6-0001FV-A8
+	for you@example.com; Tue, 17 Oct 2023 02:14:24 +0000
+Reply-To: refunds@securetax.com
+From: Tax Refund Service <noreply@taxrefund.com>
+Subject: Urgent: Confirm Your Tax Refund Amount
+Date: Tue, 17 Oct 2023 02:14:24 +0000
+Message-ID: <20231017021424.0001@mail.taxrefund.com>
+To: you@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_12345_987654321.123456789"
+
+------=_Part_12345_987654321.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+You have a pending tax refund of $150.75. Please confirm your bank details urgently to ensure timely credit.
+
+Confirm Now: <http://192.168.1.100/refund>
+
+Thank you,
+Tax Refund Team
+
+------=_Part_12345_987654321.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>You have a pending tax refund of <b>$150.75</b>. Please confirm your bank details urgently to ensure timely credit.</p>
+<p><a href="http://192.168.1.100/refund"><img src="https://images.example.com/confirm.jpg" alt="Confirm Now"></a></p>
+<p>Thank you,<br>
+Tax Refund Team</p>
+<p>For more information, visit our <a href="https://www.irs.gov/privacy">Privacy Policy</a> or <a href="https://www.irs.gov/help">Help Center</a>.</p>
+<p>Note: This notification has been sent to multiple email addresses. If you received this by mistake, please ignore this email. <a href="http://192.168.1.100/faq">FAQ</a></p>
+</body>
+</html>
+
+------=_Part_12345_987654321.123456789--

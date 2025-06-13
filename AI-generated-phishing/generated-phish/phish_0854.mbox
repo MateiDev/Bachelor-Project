@@ -1,0 +1,59 @@
+From alerts@securemail.company.com Wed May 15 10:15:30 2024
+Return-Path: <support@securemail.company.com>
+Delivered-To: user@mailsite.net
+Received: from mail.securemail.company.com (mail.securemail.company.com [192.0.2.1])
+    by inbound-mail.mailsite.net (Postfix) with ESMTP id 12345ABC
+    for <user@mailsite.net>; Wed, 15 May 2024 10:15:31 -0400 (EDT)
+From: "SecureMail Alerts" <alerts@securemail.company.com>
+Reply-To: "IT Support" <support@it-support.supportnet.com>
+To: user@mailsite.net
+Subject: URGENT: Your Account Security Alert – Action Required
+Date: Wed, 15 May 2024 10:15:30 -0400
+Message-ID: <20240515101530.abcdefg@mail.securemail.company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+------=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has triggered a security alert. Please review your messages and verify your password immediately.
+
+Click the link below to view secure message:
+
+https://securemail.company.com/portal
+https://secure-alerts.company.com/view?msg=12345
+
+Failure to act within 24 hours may result in suspension.
+
+Regards,
+SecureMail Alerts Team
+
+------=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Security Alert</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>Your account has triggered a security alert. To ensure your data remains protected, please <strong>view</strong> the secure message below and verify your credentials.</p>
+<p>Click here: <a href="https://secure-alerts.company.com/secure/portal/view?msg=12345">https://securemail.company.com/portal</a></p>
+<p>Or copy and paste this link into your browser:<br/>
+<a href="https://securemail.company.com/portal/review?session=abc123"></a></p>
+<p>
+<a href="https://login.secure-portal.supportsite.com/auth">
+<img src="https://cdn.securemail.company.com/images/secure-btn.png" alt="View Secure Message" border="0"/>
+</a>
+</p>
+<p>Please complete this within <strong>24 hours</strong> to avoid account suspension.</p>
+<p>Thank you,<br/>
+SecureMail Alerts Team</p>
+</body>
+</html>
+
+------=_NextPart_000_0000--

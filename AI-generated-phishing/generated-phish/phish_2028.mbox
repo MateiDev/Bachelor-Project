@@ -1,0 +1,40 @@
+From loyalty@legitcorp.com Fri Jul 12 09:21:45 2024
+Reply-To: support@credit-bonus.secure.net
+From: loyalty@legitcorp.com
+To: user@recipient.com
+Subject: URGENT: Password Verification for Your €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ123boundary"
+
+--XYZ123boundary
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Congratulations! You have been selected to receive a €50 gift voucher.
+To claim your reward, please verify your account details.
+
+Visit the link below:
+http://192.0.2.50/verify?token=abc123
+
+Thank you for your prompt attention.
+
+Best regards,
+Loyalty Rewards Team
+
+--XYZ123boundary
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You have been selected to receive a <strong>€50 gift voucher</strong>.</p>
+    <p>To claim your reward, please verify your account details by clicking the link below:</p>
+    <p><a href="http://vip.gifts.rewards.claim.com/claim">click here</a></p>
+    <p>Or <a href="http://192.0.2.50/verify" title="Urgent Account Verification"></a> to start the verification process.</p>
+    <p>For more information, visit our <a href="http://help.legitcorp.com/privacy.policy">Privacy Policy</a> or <a href="http://help.legitcorp.com/terms.conditions">Terms &amp; Conditions</a>.</p>
+    <p>Best regards,<br>Loyalty Rewards Team</p>
+  </body>
+</html>
+
+--XYZ123boundary--

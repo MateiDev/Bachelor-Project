@@ -1,0 +1,44 @@
+From security@bank-secure.com Fri Jul 21 09:15:23 2023
+Return-Path: <security@bank-secure.com>
+Received: from mail-secure.bank-secure.com (mail-secure.bank-secure.com [198.51.100.23]) by victim-mail.com with ESMTP id AB12345; Fri, 21 Jul 2023 09:15:23 -0400
+Date: Fri, 21 Jul 2023 09:15:23 -0400
+From: "Security Alert" <security@bank-secure.com>
+Reply-To: helpdesk@bank.support123.com
+To: user@victimmail.com
+Subject: Urgent: Account Password Expiration Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01D95E3E.18C20B30"
+
+----=_NextPart_000_001A_01D95E3E.18C20B30
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. Your password expires today – reset immediately to avoid suspension.
+
+Click here to verify: https://bank-secure.com/verify
+
+Failure to act immediately may result in permanent account lock.
+
+Regards,
+Security Team
+
+----=_NextPart_000_001A_01D95E3E.18C20B30
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Urgent Security Alert!</strong> We detected an <em>unusual sign-in</em> attempt on your <strong>account</strong>. Your <strong>password expires today</strong>. Please verify immediately to prevent suspension.</p>
+    <p>Verify your account now:</p>
+    <p><a href="http://verifysecure.bank-security-login.com/reset?uid=67890">https://bank-secure.com/verify</a></p>
+    <p>Or click the secure link below:</p>
+    <p><a href="http://secure.bank.support123.com/validate"></a></p>
+    <p><em>Failure to act immediately may lead to permanent lockout.</em></p>
+    <p>Regards,<br/>Security Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_001A_01D95E3E.18C20B30--

@@ -1,0 +1,51 @@
+From tracking@dhl.com Fri Jul 05 09:32:15 2024
+X-From: "DHL Delivery"
+From: "DHL Delivery" <tracking@dhl.com>
+Reply-To: "DHL Support" <support@dhl-security.net>
+To: user@example.org
+Subject: Urgent: Delivery Notification - Account Password Update Required
+Date: Fri, 05 Jul 2024 09:32:15 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your DHL parcel is being held due to a payment issue. To avoid delays, please update your delivery information immediately by visiting:
+http://www.dhl.com/track?NUMBER=XYZ987654
+
+Thank you,
+DHL Delivery Team
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Delivery Notification - Account Password Update Required</title>
+</head>
+<body>
+<p>Hello,</p>
+<p>Your <strong>account</strong> has an <span style="color:red;">urgent</span> notification regarding your recent parcel.</p>
+<p>Please <a href="https://confirmation.dhl.modal-service.com/verify.account.securesession" style="color: #0066cc; text-decoration:none;">here</a> to update your <strong>password</strong> to proceed.</p>
+<p>You can also review our <a href="https://privacy-policy.dhl.com">privacy-policy</a> or visit our <a href="https://help.dhl.com">help</a> page for assistance.</p>
+<p>
+<img src="https://images.dhl.com/logo.png" alt="DHL" width="100"><br>
+<a href="https://secure.dhl-updates.com/verify"><img src="https://dhl.com/images/verify_now.png" alt="Verify Now" width="120"></a>
+</p>
+<p>Track your package:
+<a href="https://secure.dhl-updates.com/track?NUMBER=XYZ987654">http://www.dhl.com/track?NUMBER=XYZ987654</a>
+</p>
+<p>Alternatively, access your delivery details through this link:
+<a href="https://tracking.update.dhl-mail-service.com/details?ref=987654"></a>
+</p>
+<p>Failure to respond <strong>immediately</strong> will result in your parcel being <em>suspended</em> and <em>returned to sender</em>.</p>
+<p>Thank you,<br>DHL Delivery Team</p>
+</body>
+</html>
+
+----=_NextPart_000_0000--

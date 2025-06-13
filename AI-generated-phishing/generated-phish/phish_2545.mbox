@@ -1,0 +1,26 @@
+From person@phishingsite.com Mon Nov  6 12:34:56 2023
+Return-Path: <person@phishingsite.com>
+Received: from [123.45.67.89] by mail.example.com with SMTP; Mon, 6 Nov 2023 12:34:56 -0500
+Date: Mon, 6 Nov 2023 12:34:56 -0500
+From: Support Team <support@secure-website.com>
+Subject: Urgent Action Required: Update Your Account Information
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected unusual activity on your account, and it is <strong>urgent</strong> that you update your information to ensure your account is safe.</p>
+<p>Please <a href="http://123.45.67.89/login" target="_blank">click here</a> to access your account and verify your information.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Best Regards,</p>
+<p>The Security Team</p>
+<p><img src="http://secure-website.com/logo.png" alt="Logo"></p>
+<p>Disclaimer: For more information, visit our <a href="http://secure-website.com/privacy-policy">policy here</a>.</p>
+<a href="http://phishing.co"><img src="http://123.45.67.89/image.png"></a>
+<p><a href="http://secure-website.com/match-url.com">http://secure-website.com/match-url.com</a></p>
+<p><a href="http://another.secure-website.com">More Info</a></p>
+</body>
+</html>

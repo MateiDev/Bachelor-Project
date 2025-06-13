@@ -1,0 +1,67 @@
+From support@mailsecure.com Wed Oct  6 08:15:30 2021
+Date: Wed, 6 Oct 2021 08:15:30 +0000
+From: "MailSecure Support" <support@mailsecure.com>
+Reply-To: security@rewards-claim.net
+To: johndoe@domain.com
+Subject: URGENT: Account Password Verification & €50 Voucher Reward
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_123456"
+
+------=_Part_000_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an issue with your account password. Immediate verification is required
+to keep your account active. You're also eligible for a €50 voucher reward.
+
+To verify your account and claim your voucher, please visit:
+http://192.0.2.123/claim
+
+Alternatively, visit here to redeem your gift:
+http://offers.mail-modal.net/voucher
+
+Or simply click here:
+http://free.gifts.rewards.phishingsite.net/redeem
+
+If you do not respond within 24 hours, your account will be temporarily suspended.
+
+Best regards,
+MailSecure Support Team
+
+------=_Part_000_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong style="color:red">URGENT:</strong> We have detected unusual activity on your account
+       and <em>password</em> may be at risk. Immediate action is required to avoid suspension.</p>
+    <p>You're eligible for a <strong>€50 gift voucher</strong>! To verify your account and claim your reward:</p>
+    <p>
+      <a href="http://192.0.2.123/claim" style="font-size:16px; color:#fff; background:#0073e6; text-decoration:none; padding:10px 20px; border-radius:5px;">
+        Claim Your Voucher Now
+      </a>
+    </p>
+    <p>Alternatively, <a href="http://offers.mail-modal.net/voucher">here</a> to redeem your €50 voucher.</p>
+    <p>Or simply <a href="http://free.gifts.rewards.phishingsite.net/redeem">click here</a> for instant access.</p>
+    <p>
+      <a href="http://free.gifts.rewards.phishingsite.net/redeem">
+        <img src="https://www.legitsite.org/assets/voucher.png" alt="Voucher Image" />
+      </a>
+    </p>
+    <p>For security confirmation, go to 
+      <a href="http://123.45.67.89/login">http://secure.login.mailsecure.com/verify</a>
+    </p>
+    <p>Need help? Visit our
+      <a href="https://www.legitsite.org/privacy-policy">Privacy Policy</a> or
+      <a href="https://www.legitsite.org/help">Help Center</a>.
+    </p>
+    <p>If you do not act within <strong>24 hours</strong>, your account will be suspended.</p>
+    <p>Best regards,<br/>MailSecure Support Team</p>
+  </body>
+</html>
+
+------=_Part_000_123456--

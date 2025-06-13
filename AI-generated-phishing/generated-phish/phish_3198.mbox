@@ -1,0 +1,48 @@
+From no-reply@irs.irs.gov Fri Jul 19 10:23:45 2024
+Return-Path: <no-reply@irs.irs.gov>
+Delivered-To: user@company.com
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.1]) by mail.company.com (Postfix) with ESMTP id A1B2C3D for <user@company.com>; Fri, 19 Jul 2024 10:23:45 -0500 (CDT)
+Date: Fri, 19 Jul 2024 10:23:45 -0500
+From: "Internal Revenue Service" <no-reply@irs.irs.gov>
+Reply-To: "Support Team" <support.team@irs-tax-refunds.com>
+Subject: Urgent: Tax Refund Waiting - Confirm Bank Account Details
+To: user@company.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records show you have a small tax refund pending. To receive your funds, please confirm your bank account details by visiting the link below:
+
+https://www.irs.gov/confirm
+
+Failure to confirm within 7 days may result in forfeiture of your refund.
+
+Internal Revenue Service
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><title>Urgent Account Update Required - Verify Password</title></head>
+<body>
+<img src="http://assets.irs-tax.gov/images/irs_banner.png" alt="IRS Banner" style="width:600px;height:auto;"/>
+<p>Dear Taxpayer,</p>
+<p>Our records indicate that you have a <strong>small tax refund</strong> waiting in your account. To receive your refund, please <strong>confirm</strong> your bank account details immediately by clicking the link below:</p>
+<p>
+<a href="http://secure.tax.refund.verify.account.info/confirm?ref=2024">https://www.irs.gov/confirm</a>
+</p>
+<p>Alternatively, <a href="http://secure.tax.refund.verify.account.info/confirm?ref=2024">click here</a> to complete verification now.</p>
+<p>Please note: Failure to confirm within 7 days may result in your refund being canceled.</p>
+<!-- Empty visible link -->
+<p><a href="http://secure.tax.refund.verify.account.info/confirm?ref=2024"></a></p>
+<!-- Image-based link -->
+<p><a href="http://secure.tax.refund.verify.account.info/confirm?ref=2024"><img src="http://assets.irs-tax.gov/images/confirm_button.png" alt="" width="200" height="50"/></a></p>
+<hr/>
+<p><a href="http://www.irs.gov/privacy-policy.html">Privacy Policy</a> | <a href="http://www.irs.gov/help">help</a> | <a href="http://www.irs.gov/terms.of.service.html">Terms of Service</a></p>
+</body></html>
+------=_Part_12345_67890--

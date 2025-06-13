@@ -1,0 +1,48 @@
+```
+From r1z1fg3lm1k7afj@example.com Mon Oct 23 10:05:08 2023
+Delivered-To: victim@example.com
+Received: by 2002:a05:620a:3c0b:: with SMTP id e11csp3928473qka;
+        Mon, 23 Oct 2023 10:05:08 -0700 (PDT)
+X-Google-Smtp-Source: ABcde1xyZabcD4EFgh5ijkLMn8PQRstUvWxYzA/bCDEF
+X-Received: by 2002:ac8:30c2:: with SMTP id i34mr2023947qte.59.1698072308837;
+        Mon, 23 Oct 2023 10:05:08 -0700 (PDT)
+Return-Path: <r1z1fg3lm1k7afj@example.com>
+Received: from phishy.mail.server.net (phishy.mail.server.net. [192.0.2.77])
+        by mx.google.com with ESMTPS id u26si2735968qtk.22.2023.10.23.10.05.08
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 23 Oct 2023 10:05:08 -0700 (PDT)
+Message-ID: <202310231005084937.0212.3829473@example.com>
+Date: Mon, 23 Oct 2023 10:05:08 -0700
+Subject: Urgent: Action Required on Your Account - Password UPDATE Needed!
+From: Support Team <support@example.com>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+
+<p>We have detected <strong>unusual sign-in activity</strong> on your account and for your security, your <strong>password will expire today</strong>. You must <strong>reset your password immediately</strong> to <em>prevent unauthorized access</em>.</p>
+
+<p>Failure to act will result in <strong>account suspension</strong>. Please verify your account with the following steps:</p>
+
+<p>1. <a href="http://secure-example.com/account" target="_blank">http://yourbank.com/security</a></p>
+<p>2. <a href="http://secure-services.example.net/verify" target="_blank"></a></p>
+
+<p>Your immediate attention to this matter is required.</p>
+
+<p>Thank you,<br>
+Support Team</p>
+
+<p>P.S. Here are some resources that might help you understand the process:</p>
+<ul>
+  <li><a href="http://www.example-alerts.com.info/security" target="_blank">Security Alerts</a></li>
+  <li><a href="http://www.example.helpdesk.com/faq" target="_blank"></a></li>
+</ul>
+
+</body>
+</html>
+```

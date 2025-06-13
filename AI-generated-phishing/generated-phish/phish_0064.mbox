@@ -1,0 +1,50 @@
+```mbox
+From security-alerts@secure-youraccount.com Fri Oct 27 13:45:30 2023
+Return-Path: <security-alerts@secure-youraccount.com>
+Delivered-To: user@example.com
+Received: by 10.76.19.51 with SMTP id b9csp1709oia;
+        Fri, 27 Oct 2023 13:45:30 -0700 (PDT)
+Received: from mx93.secure-you43094710845.com (93.184.216.34)
+        by mx.google.com with ESMTPS id r5si442791plo.91.2023.10.27.13.45.29
+        for <user@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 27 Oct 2023 13:45:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of security-alerts@secure-youraccount.com designates 93.184.216.34 as permitted sender) client-ip=93.184.216.34;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@secure-youraccount.com header.s=default header.b=Ib6JIsCa;
+       spf=pass (google.com: domain of security-alerts@secure-youraccount.com designates 93.184.216.34 as permitted sender) smtp.mailfrom=security-alerts@secure-youraccount.com;
+       dmarc=pass (p=REJECT sp=QUARANTINE dis=NONE) header.from=secure-youraccount.com
+Received: by mx93.secure-you43094710845.com id h9ENmJlnfN44 for <user@example.com>; Fri, 27 Oct 2023 13:45:29 -0700 (PDT)
+Message-ID: <20231027134529.0909.754562207.secure-youraccount.com>
+Subject: Urgent: Unusual Sign-in Detected on Your Account
+Reply-To: support-alert@verify-account-alerts.com
+From: Security Alerts <security-alerts@secure-youraccount.com>
+To: <user@example.com>
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 27 Oct 2023 13:45:29 -0700 (PDT)
+MIME-Version: 1.0
+
+<html>
+<head>
+<title>Unusual Sign-In Activity</title>
+</head>
+<body>
+<p>Hello,</p>
+
+<p>We have detected <b>unusual sign-in activity</b> on your account. Please verify your account immediately to ensure your account is secure. Click the link below to confirm your identity:</p>
+
+<p><a href="http://192.168.1.1"> </a><a href="http://exampleaccountverification.com">exampleaccountverification.com</a></p>
+<p>If you do not recognize this activity, we strongly recommend you <b>reset your password</b> immediately:</p>
+<p><a href="http://192.168.1.2"><b>Reset Password Now</b></a></p>
+
+<p>This is an <b>urgent</b> matter. If you don't verify your account within 24 hours, access to your account may be limited.</p>
+
+<p>Thank you for your attention to this important matter.</p>
+
+<p>Best Regards,<br>
+Security Team</p>
+
+<p><a href="http://examplefakeurl.com"> </a></p>
+</body>
+</html>
+```

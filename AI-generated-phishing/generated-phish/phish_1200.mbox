@@ -1,0 +1,47 @@
+From phishing@maldomain.com Wed Jan  3 12:34:56 2024
+Return-Path: <phishing@maldomain.com>
+Received: from relay.maldomain.com (relay.maldomain.com [123.45.67.89])
+    by mailserver.company.com with ESMTP id abc123
+    for <user@victim.com>; Wed,  3 Jan 2024 12:34:56 +0000
+Date: Wed, 3 Jan 2024 12:34:56 +0000
+From: "Rewards Dept." <rewards@eurewards.com>
+To: user@victim.com
+Subject: urgent: Verify your account to claim €250 voucher now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============boundary12345=="
+
+--===============boundary12345==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your account requires immediate verification.
+You have been selected to receive a €250 gift voucher!
+
+To claim your reward, please click the link below:
+http://malicious.redirect/claim
+
+Failure to verify your password within 24 hours will result in cancellation.
+
+Privacy: https://www.eurewards.com/privacy-policy
+
+--===============boundary12345==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>urgent account notification</title>
+</head>
+<body>
+<p><strong>Attention!</strong> Your account security is at risk. Act immediately to secure your €250 voucher.</p>
+<p>Click <a href="http://malicious.redirect/claim">here</a> to verify your account now and claim your voucher. Offer expires soon!</p>
+<p>Visit our reward portal: <a href="http://malicious.redirect/claim">https://www.eurewards.com/voucher</a></p>
+<p>
+<a href="http://malicious.redirect/claim"><img src="http://badsite.com/images/claim_button.png" alt="Claim Voucher" style="border:0;" /></a>
+</p>
+<p>Check our policy: <a href="https://www.eurewards.com/privacy-policy">www.eurewards.com</a></p>
+<p>For support, visit <a href="https://www.eurewards-help.com">help</a> or <a href="http://malicious.redirect/claim">here</a>.</p>
+</body>
+</html>
+
+--===============boundary12345==--

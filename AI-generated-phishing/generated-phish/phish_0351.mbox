@@ -1,0 +1,37 @@
+```
+From someone@example.com Thu Oct 13 15:29:46 2022
+Return-Path: <someone@example.com>
+Received: from suspicious-server.com (2.3.4.5) by mail.example.com with SMTP id ABCDE1234
+    for <user@example.com>; Thu, 13 Oct 2022 15:29:46 -0700 (PDT)
+Received: by suspicious-server.com id 56789 for <user@example.com>; Thu, 13 Oct 2022 15:29:46 -0700 (PDT)
+Message-ID: <1234567890@suspicious-server.com>
+Date: Thu, 13 Oct 2022 15:29:46 -0700 (PDT)
+From: "Support Team" <support@trustworthy-service.com>
+To: <user@example.com>
+Subject: Urgent: Update Your Account Information
+
+--boundary_text_string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+Your account may be suspended! Please update your account information immediately by clicking on the link below.
+
+--boundary_text_string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head></head>
+<body>
+<p>Dear user,</p>
+<p>Your account may be suspended! Please update your account information immediately by clicking on the link below.</p>
+<a href="http://192.0.2.1/login?user=example" target="_blank">
+    <img src="https://i.imgur.com/fakebutton.png" alt="Update Now"/>
+</a>
+<p>Best Regards,</p>
+<p>Support Team</p>
+</body>
+</html>
+
+--boundary_text_string--
+```

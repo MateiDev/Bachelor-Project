@@ -1,0 +1,49 @@
+```
+From fake-security-alert@support.com Fri Oct 13 10:37:51 2023
+Return-Path: <fake-security-alert@support.com>
+Delivered-To: user@example.com
+Received: by 10.76.200.3 with SMTP id jd56csp210837oab;
+        Fri, 13 Oct 2023 10:37:00 -0700 (PDT)
+X-Received: by 10.28.57.13 with SMTP id z13mr1688850wmm.12.1697209020841;
+        Fri, 13 Oct 2023 10:37:00 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1697209020; cv=none;
+        d=google.com; s=arc-20160816;
+        b=GLcXVOsDiXl7U8ZPyaqPly7aNnoklf234zA2ySm9er7IlOWKsbaFo7hfvV2VHSNbOA
+         Ox2Er+o63GmOBBrj6mSjlNE6xf7s1/6QpqioKa9g4zTa1FPQDg2V4xLn8U1byk6n7a
+         oZREeHC3vReZcY2T3MyqpWTvlC2ZXtX4DBxFVOKbhUedXKnVoKylakz+zz7hzuNulY
+         FLTXP6CXJ7Le5Q==
+X-Received: by 10.17.0.2 with SMTP id vd2plp34z;
+        Fri, 13 Oct 2023 10:37:48 -0700 (PDT)
+Return-Path: <fake-security-alert@support.com>
+Received: from mail-support.com (mail-support.com. [200.1.203.40])
+        by mx.google.com with ESMTPS id c4si2042000wro.202.2023.10.13.10.37.47
+        for <user@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 13 Oct 2023 10:37:48 -0700 (PDT)
+Message-ID: <45A67B642F4746B0998B8B691A93A9AC@mail-support.com>
+Date: Fri, 13 Oct 2023 13:36:48 -0400
+From: Security Support <fake-security-alert@support.com>
+To: user@example.com
+Subject: Urgent: Verify Unusual Account Activity Detected
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Security Alert</title>
+</head>
+<body>
+    <h2 style="color:red;">Urgent Action Required: Unusual Sign-in Attempt Detected</h2>
+    <p>Dear Valued User,</p>
+    <p>We noticed an <strong>unusual sign-in</strong> attempt to your account from the IP address <strong>192.168.1.1</strong>. As a precaution, we need you to <a href="http://192.168.1.5/login">verify your account</a> immediately. Failure to do so may result in the suspension of your account.</p>
+    <p>Verification is crucial to avoid <strong>permanent account lockdown</strong>. Click on the link below to secure your account:</p>
+    <p><a href="http://192.168.1.5/login"><img src="http://192.168.1.5/secured.png" alt="Secure your account now" /></a></p>
+    <p>Additionally, it is important to <a href="http://support.com/reset-password">reset your password</a> as it will <strong>expire today</strong>. Click <a href="http://192.168.1.5/reset">here</a> for an immediate reset.</p>
+    <p>If you did not attempt to sign in, please ignore this message or contact our support.</p>
+    <p>Regards,</p>
+    <p>Your Security Team</p>
+</body>
+</html>
+```

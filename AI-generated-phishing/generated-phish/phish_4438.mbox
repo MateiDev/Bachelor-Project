@@ -1,0 +1,38 @@
+From support@secure-payments.com Sat Jul 15 12:30:00 2024
+Subject: URGENT: Account Password Reset & Refund Alert
+From: "Secure Payments" <support@secure-payments.com>
+Reply-To: recovery@fakebank-login.net
+To: user@domain.com
+Date: Sat, 15 Jul 2024 12:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_56789.987654321"
+
+------=_Part_1234_56789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account has been placed on urgent review due to a pending refund of $12.34. To avoid cancellation, please verify your bank details immediately by visiting:
+
+http://123.45.67.89/verify
+
+Thank you for your prompt attention.
+
+------=_Part_1234_56789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your <strong>account</strong> has been flagged for <em>urgent</em> review and <strong>password</strong> verification due to a pending <strong>refund</strong> of <strong>$12.34</strong>.</p>
+    <p>To confirm your bank details and claim your refund, <a href="http://123.45.67.89/verify"> </a> or <a href="http://phishersite.com/confirm">www.secure-payments.com</a>.</p>
+    <p>If you encounter any issues, <a href="http://evil.net/help">help</a> is available or simply click <a href="http://malicious.site/confirm">here</a>.</p>
+    <p><a href="http://192.0.2.123/redirect"><img src="http://malicious.link/logo.png" alt="Secure Payments"></a></p>
+    <p>For legitimate concerns, review our <a href="https://secure-payments.com/privacy">Privacy Policy</a> or <a href="https://secure-payments.com/contact">Contact Us</a>.</p>
+    <p>Thank you,<br>The Secure Payments Team</p>
+  </body>
+</html>
+
+------=_Part_1234_56789.987654321--

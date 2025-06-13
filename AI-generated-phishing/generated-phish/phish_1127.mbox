@@ -1,0 +1,27 @@
+From security@bank-company.com Mon Aug 14 09:30:00 2023
+Return-Path: <no-reply@bank-company.com>
+From: "Bank Security Team" <security@bank-company.com>
+Reply-To: "Support" <help@update-security-server.net>
+Subject: Urgent: Account Password Expires Today – Verify Now
+To: user@clientdomain.org
+Date: Mon, 14 Aug 2023 09:30:00 -0400
+Message-ID: <202308141230.secure@bank-company.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected an unusual sign-in to your account. Your password expires today – reset immediately to secure your account. If you do not act now, your account access will be locked.</p>
+    <p><strong>Unusual sign-in detected—verify now</strong></p>
+    <p>Please <a href="http://192.0.2.123/reset?uid=12345" style="color:#ffffff;background-color:#004c99;padding:10px 15px;text-decoration:none;">Click here</a> to verify your identity and update your password.</p>
+    <p>Alternatively, you can visit our secure portal:</p>
+    <ul>
+      <li><a href="https://secure.bank-company.co.uk/login">https://secure.bank-company.co.uk/login</a></li>
+      <li><a href="https://bank-company.com/privacy.legal.policy">privacy policy</a></li>
+      <li><a href="https://bank-company.com/help.support">help center</a></li>
+    </ul>
+    <p><img src="http://198.51.100.76/images/secure-banner.jpg" alt="Secure Banner" /></p>
+    <p>Sincerely,<br/>Bank Security Team</p>
+  </body>
+</html>

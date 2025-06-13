@@ -1,0 +1,51 @@
+```
+From - Wed Oct 25 14:35:22 2023
+X-Original-To: youremail@example.com
+Delivered-To: youremail@example.com
+Received: by 10.107.42.42 with SMTP id m3csp210400ioc;
+        Wed, 25 Oct 2023 12:35:22 -0700 (PDT)
+X-Received: by 10.55.45.88 with SMTP id b65mr1442485qka.102.1508952922234;
+        Wed, 25 Oct 2023 12:35:22 -0700 (PDT)
+Return-Path: <fakeoffer@phishingsite.com>
+Received: from [192.168.0.104] ([192.168.0.104])
+        by mx.google.com with ESMTP id y65si123894qva.12.2023.10.25.12.35.22;
+        Wed, 25 Oct 2023 12:35:22 -0700 (PDT)
+Received-SPF: fail (google.com: domain of fakeoffer@phishingsite.com does not designate 192.168.0.104 as permitted sender) client-ip=192.168.0.104;
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of fakeoffer@phishingsite.com does not designate 192.168.0.104 as permitted sender) smtp.mailfrom=fakeoffer@phishingsite.com
+Message-ID: <CAE4kmk7+NX8_q+2Ed3x6@example>
+
+Subject: URGENT: You're eligible for a €500 voucher - Claim now!
+
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_4567_1157683604.1508952922219"
+
+------=_Part_4567_1157683604.1508952922219
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Congratulations! You have been selected to receive an exclusive €500 voucher for your loyal support of our services. Hurry, this limited-time offer must be redeemed by midnight tonight! 
+
+Act now to avoid missing out: [Claim your voucher](http://192.168.0.104/voucher)
+
+Thank you for choosing us.
+
+------=_Part_4567_1157683604.1508952922219
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p><b>Congratulations!</b> You have been selected to receive an exclusive <b>€500 voucher</b> for your loyal support of our services. <span style="color:red;">Hurry, this limited-time offer must be redeemed by midnight tonight!</span></p>
+    <a href="http://192.168.0.104/voucher"><img src="http://192.168.0.104/images/claim_button.png" alt="Claim your voucher"></a>
+    <p>Or click here to claim your voucher:</p>
+    <a href="http://invali.domain/redirect?claim"><b>http://secure.voucher.com/redeem</b></a>
+    <p>Thank you for choosing us.</p>
+  </body>
+</html>
+
+------=_Part_4567_1157683604.1508952922219--
+```

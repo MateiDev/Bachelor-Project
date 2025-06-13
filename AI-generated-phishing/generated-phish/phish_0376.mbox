@@ -1,0 +1,32 @@
+```
+From fake-security-notification@secure-mail.com Wed Dec 13 21:58:22 2023
+Return-Path: <fake-security-notification@secure-mail.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from unknown (localhost [127.0.0.1])
+        by target-mail-server.com (Postfix) with ESMTP id 123456789AB;
+        Wed, 13 Dec 2023 21:58:22 +0000 (UTC)
+Date: Wed, 13 Dec 2023 21:58:20 +0000
+From: Official Security Team <fake-security-notification@secure-mail.com>
+Reply-To: urgent-update-team@security-alert.com
+Subject: Urgent: Action Required - Unusual Sign-In Detected!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued User,</p>
+    <p>We're writing to inform you of an <strong style="color:red;">unusual sign-in</strong> attempt on your account. To ensure your account's safety, please verify your information immediately.</p>
+    <p><a href="https://secure-login.com/unusual-signin?token=abc123"><img src="https://external-image-host.com/logo.png" alt="Security logo"></a></p>
+    <p>Failure to verify within the next <strong>24 hours</strong> could result in permanent account suspension.</p>
+    <p>Verify here: <a href="https://secure-login.com/unusual-signin?token=abc123">secure-login.com</a></p>
+    <p>Reset your password now by clicking <a href="https://urgent-verification.com/reset-password?user=abc123">here</a> to keep your account protected.</p>
+    <p>Visit our website at <a href="https://www.fake-website.com"></a> for more information on security practices.</p>
+    <p>If you have any questions, feel free to reply <a href="mailto:support@fake-support.com">here</a>.</p>
+    <p>Thank you for your prompt attention to this critical matter.</p>
+    <p>Best Regards,<br>Security Team</p>
+  </body>
+</html>
+```

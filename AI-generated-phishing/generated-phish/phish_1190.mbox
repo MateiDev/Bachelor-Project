@@ -1,0 +1,54 @@
+From support@secure-portal.com Sat Jan  2 12:34:56 2024
+Return-Path: <support@secure-portal.com>
+Received: from login.portal.security.update.com (login.portal.security.update.com [198.51.100.23])
+	by mx.company.com with ESMTP id ABC123;
+	Sat, 02 Jan 2024 12:34:56 -0500
+Message-ID: <20240102123456.abcdef@secure-portal.com>
+Date: Sat, 02 Jan 2024 12:34:56 -0500
+From: "Secure Portal Support" <support@secure-portal.com>
+To: user@company.com
+Subject: Urgent: Account Password Verification Required
+Reply-To: admin@notify-updates.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001"
+
+------=_Part_000_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+We detected a critical security breach on your account. To prevent immediate suspension of your account, you must verify your credentials now. Failure to act within 24 hours will result in temporary service lockout.
+
+Please click here to complete the verification:
+http://203.0.113.45/verify?session=abc123
+
+For our Privacy Policy or Help Center, visit:
+https://privacy.company.com/policy
+
+Thank you,
+Secure Portal Support Team
+
+------=_Part_000_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued User,</p>
+    <p>We detected a <strong>critical security breach</strong> on your <em>account</em>. Your <u>password</u> needs immediate re-verification to avoid <span style="color:red;">suspension</span>.</p>
+    <p>
+      <a href="http://203.0.113.45/verify?session=abc123">click here</a> to verify your details now.
+    </p>
+    <p>
+      <a href="http://login.portal.security.update.com/secure">
+        <img src="http://198.51.100.50/images/secure.png" alt="Secure Portal">
+      </a>
+    </p>
+    <p>This is an urgent &amp; mandatory action.</p>
+    <p>For help or to review our <a href="https://privacy.company.com/policy">Privacy Policy</a>, please visit our website.</p>
+    <p>© 2024 Secure Portal. All rights reserved.</p>
+  </body>
+</html>
+
+------=_Part_000_001--

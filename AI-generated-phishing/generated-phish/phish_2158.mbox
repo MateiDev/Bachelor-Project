@@ -1,0 +1,40 @@
+From phishing@paypal-security-alert.com Sat Jul 24 15:03:56 2024
+Subject: Urgent: Your PayPal account has been limited
+From: PayPal Service <service@paypal.com>
+Reply-To: support@help-paypal.com
+Date: Sat, 24 Jul 2024 15:03:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890.1598371223"
+
+------=_Part_12345_67890.1598371223
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal User,
+
+We've noticed unusual activity on your account. For your protection, please verify your account immediately by signing in:
+
+Login here: http://192.0.2.123/login
+
+If you have any questions, click here: https://www.paypal.com/help
+
+Thank you,
+PayPal Security Team
+
+------=_Part_12345_67890.1598371223
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear PayPal User,</p>
+    <p>We've noticed unusual activity on your account. For your protection, please verify your account immediately by signing in:</p>
+    <p><a href="http://192.0.2.123/login"></a></p>
+    <p><a href="http://192.0.2.123/login"><img src="http://192.0.2.123/images/paypal_logo.png" alt="PayPal" border="0"></a></p>
+    <p>If you have any questions, click <a href="https://www.paypal.com/help">here</a>.</p>
+    <p>Alternatively, <a href="https://secure.verify.paypal-login.info/verify">click here</a> to update your account now.</p>
+    <p>Thank you,<br/>PayPal Security Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890.1598371223--

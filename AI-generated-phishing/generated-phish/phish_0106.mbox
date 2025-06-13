@@ -1,0 +1,26 @@
+```mbox
+From nobody Thu Oct 12 10:36:37 2023
+Return-Path: <alert@accounts.security.com>
+Received: from suspicious-ip-address (unknown[192.168.0.1])
+        by mail.yourserver.com (Postfix) with ESMTP id 1234567890
+        for <victim@domain.com>; Thu, 12 Oct 2023 12:00:00 +0000 (UTC)
+Date: Thu, 12 Oct 2023 12:00:00 +0000
+From: "Account Security Alert" <alert@accounts.security.com>
+To: victim@domain.com
+Subject: Urgent: Your Password Expires Today – Action Required
+Message-ID: <1234567890@mail.accounts.security.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear User,</p>
+    <p>We detected an <strong>unusual sign-in</strong> attempt from a foreign IP address on your account. To protect your account, we've temporarily locked access.</p>
+    <p>Please <a href="http://secure.accounts.verify-session.com/update-validation" target="_blank">click here</a> to verify your account.</p>
+    <p>For more information, visit our <a href="https://www.accounts.security.com/privacy-policy" target="_blank">Privacy Policy</a> or <a href="https://www.accounts.security.com/account-help" target="_blank">Help Center</a>.</p>
+    <p>Regards,<br>Account Security Team</p>
+    <p><a href="http://secure.accounts.update-info.com/reset-password" target="_blank">Reset your password immediately</a> to avoid any unauthorized access.</p>
+</body>
+</html>
+```

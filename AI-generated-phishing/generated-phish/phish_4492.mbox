@@ -1,0 +1,58 @@
+From tax-dept@irs.gov Tue Jun  1 13:45:00 2024
+Return-Path: <tax-dept@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.51.100.10])
+    by mx.yourdomain.com with ESMTP id ABC123
+    for <user@domain.com>; Tue, 1 Jun 2024 13:45:00 -0400 (EDT)
+From: "Internal Revenue Service" <tax-dept@irs.gov>
+Reply-To: support@accounts-update.phishingsite.com
+Subject: Urgent: Tax Refund Account & Password Verification Required
+Date: Tue, 1 Jun 2024 13:45:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate that your small tax refund is pending due to unverified account details and outdated password. Failure to update your information by June 5, 2024 may result in an expired refund. To claim your refund immediately, please confirm your bank details and login password:
+
+http://192.168.0.50/confirm
+https://secure.bank.login.verify.phishingsite.com/update
+
+If you did not initiate this, contact support:
+Help Center: http://verify.taxrefund-dept.local/help
+Privacy Policy: http://192.0.2.1/privacy-policy.html
+
+Thank you,
+Tax Department
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<h2 style="color:#d9534f;">Urgent Notice: Tax Refund Account & Password Verification Required</h2>
+<p>Dear Taxpayer,</p>
+<p>Your <strong>tax refund</strong> is <em>pending</em> due to unverified <span style="text-decoration: underline;">account details</span> and an outdated <strong>password</strong>. Failure to update your information by <strong>June 5, 2024</strong> will cause your refund to expire. Please confirm your bank details and login password <span style="font-weight:bold;">immediately</span> to avoid delays.</p>
+
+<p>
+<!-- Malicious empty link -->
+<a href="https://195.123.45.67/secure/confirm?user=12345"> </a>
+</p>
+
+<p>Secure link: <a href="http://verify.tax-refund.phish.dept.local/confirm">click here</a></p>
+
+<p>Or scan QR code:</p>
+<p><a href="http://205.147.85.12/login"><img src="http://198.51.100.4/images/logo.png" alt="Verify Now" width="200"></a></p>
+
+<hr>
+<p>Need help? <a href="http://192.0.2.1/privacy-policy.html">Privacy Policy</a> | <a href="http://verify.taxrefund-dept.local/help">Help Center</a></p>
+
+<p style="font-size:small; color:gray;">Paper insight — Fette et al. (2007) observed that phishers often keep benign-looking links intact while hiding their malicious URL behind a generic anchor such as “click here” or “here”.</p>
+</body>
+</html>
+
+--boundary123--

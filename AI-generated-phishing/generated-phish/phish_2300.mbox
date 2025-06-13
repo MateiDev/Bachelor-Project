@@ -1,0 +1,22 @@
+From security@bankportal.com Thu Jun 27 09:15:00 2024
+Return-Path: <security@bankportal.com>
+Received: from mail.bankportal.com (mail.bankportal.com [198.51.100.10]) by inbound.mail.host with ESMTP id abc12345; Thu, 27 Jun 2024 09:15:00 -0400
+From: "Bank Security Team" <security@bankportal.com>
+Reply-To: support@bankreporting.biz
+To: user@victimdomain.com
+Subject: Urgent: Password Verification Required for Your Account
+Date: Thu, 27 Jun 2024 09:15:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Our security systems have detected <strong>suspicious</strong> activity on your account. To prevent a <em>critical</em> security breach, you must verify your password <strong>immediately</strong>. Failure to act within 24 hours will result in account suspension.</p>
+<p>Please <a href="http://192.0.2.45/secure-login">click here</a> to verify your credentials now.</p>
+<p>Alternatively, you can visit our secure login portal directly at <a href="http://login.secure.bankportal.com.verify.online.net/login">https://secure-login.bankportal.com</a>.</p>
+<p>For more information, review our <a href="http://192.0.2.45/legal/privacy-policy.html">Privacy Policy</a> or <a href="https://help.bankportal-support.net">help</a> pages.</p>
+<p>Sincerely,<br>
+Bank Security Team</p>
+</body>
+</html>

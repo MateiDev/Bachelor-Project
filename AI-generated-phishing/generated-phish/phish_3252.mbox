@@ -1,0 +1,36 @@
+From support@taxrefundservice.com Mon Jun 10 09:30:00 2024
+Return-Path: <support@taxrefundservice.com>
+Received: from mail.taxrefundservice.com (mail.taxrefundservice.com [192.0.2.1]) by mx.example.com with ESMTP id AZ12cd34 for <user@example.com>; Mon, 10 Jun 2024 09:30:01 -0400 (EDT)
+From: "Tax Refund Service" <support@taxrefundservice.com>
+Reply-To: claims@securepak-refund.info
+To: user@example.com
+Subject: URGENT: Refund Pending! Confirm Your Account Password Now
+Message-ID: <20240610093000.1A2B3C@mail.taxrefundservice.com>
+Date: Mon, 10 Jun 2024 09:30:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_Boundary_12345"
+
+------=_Boundary_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Dear Customer,</strong></p>
+<p>We have detected that you are eligible for an <span style="color:red;">urgent</span> tax refund of <strong>$47.25</strong>. To process your refund promptly, please confirm your <span style="color:red;">bank account</span> and <span style="color:red;">password</span> details immediately.</p>
+<p>Failure to verify your account within <strong>24 hours</strong> will result in cancellation of your refund and potential delays. Don't miss out on your money!</p>
+<p>To confirm your refund, please <a href="http://sub.dom1.sub2.phishing-domain-claims.com/verify?uid=12345">click here</a>.</p>
+<p>Verify directly: <a href="http://unsecure-backend.verifytaxrefund.net/login">https://secure.taxdept.gov/refund</a></p>
+<p>
+<!-- Empty visible anchor text -->
+<a href="http://another-phish.example.com/confirm"></a>
+</p>
+<p>Secure link: <a href="http://secure.modal-domain.com.modal.fakeverify.net/check">https://secure.modal-domain.com/modal/check</a></p>
+<p>Alternatively, view our <a href="https://www.trusteddomain.com/privacy-policy">privacy-policy</a> | <a href="https://www.trusteddomain.com/help">help</a> | <a href="https://support.trusteddomain.com">support</a>.</p>
+<p><a href="mailto:support@taxrefundservice.com"><img src="http://images.phishingsite.com/banner.png" alt="Tax Refund Banner" width="600" height="200"/></a></p>
+<p>For any questions, please reply to our support team.</p>
+<p>Best regards,<br/>
+Tax Refund Service Team</p>
+</body>
+</html>
+------=_Boundary_12345--

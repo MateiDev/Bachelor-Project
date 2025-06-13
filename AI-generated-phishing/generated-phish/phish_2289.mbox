@@ -1,0 +1,51 @@
+From notifications@dhl.com Wed Jun 26 10:15:00 2024
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+From: "DHL Delivery" <notifications@dhl.com>
+Reply-To: security@modal-shipping.com
+To: user@example.com
+Subject: Urgent: Delivery Notification - Action Required to Verify Your Account Password
+Date: Wed, 26 Jun 2024 10:15:00 +0000
+Message-ID: <20240626101500.abcdef@dhl.com>
+
+------=_Part_123456_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but it's being held due to incomplete customs information. Please verify your account password immediately to avoid return or additional fees. Visit our secure portal to resolve any issues:
+
+http://modal-shipping.com/verify?track=12345
+
+Failure to act within 24 hours may result in shipment cancellation.
+
+Thank you,
+DHL Express Delivery Team
+
+------=_Part_123456_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Urgent: Delivery Notification</title>
+  </head>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p><a href="http://modal-shipping.com/verify?track=12345"><img src="http://dhl-logo.modal-shipping.com/logo.png" alt="DHL Express" style="border:0;"></a></p>
+    <h2 style="color: #C00;">Immediate Action Required</h2>
+    <p>Your package is currently on hold due to incomplete customs information. To prevent shipment cancellation or additional fees, please <a href="http://modal-shipping.com/verify?track=12345">click here</a> to complete the verification process now.</p>
+    <p style="color: #C00; font-weight: bold;">Failure to act within 24 hours may result in immediate return of your parcel.</p>
+    <p><a href="http://modal-shipping.com/update?step=2"></a></p>
+    <p><i>Note: According to Fette et al. (2007), phishers often keep benign-looking links like privacy-policy or help intact, while hiding malicious URLs behind generic anchors like 'click here'.</i></p>
+    <hr>
+    <p>
+      <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> |
+      <a href="https://www.dhl.com/help-center">Help Center</a>
+    </p>
+  </body>
+</html>
+
+------=_Part_123456_abcdef--

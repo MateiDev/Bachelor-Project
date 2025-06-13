@@ -1,0 +1,82 @@
+```
+From - Sun Oct 22 10:15:30 2023
+X-GM-THRID: 1581343962865414639
+X-Gmail-Labels: Phishing
+Delivered-To: user@example.com
+Received: by 2002:a05:620a:486:b0:529:7a9:99 with SMTP id k6csp411705ywb;
+        Sun, 22 Oct 2023 10:15:30 -0700 (PDT)
+X-Received: by 2002:a05:6420:1454:b0:529:7ac:400 with SMTP id k20mr4117110ywg.19.1697997330438;
+        Sun, 22 Oct 2023 10:15:30 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1697997330; cv=none;
+        d=google.com; s=arc-20160816;
+        b=V1nRVrlkD4YNjd5ChQNKNB3TJYauMBpjA7JQuFsJ5NjD97gjC4Cg+x1iJahbQEkWaO
+         W1Rongxi8BC6RoFOBlrWn10PlxqL8aXyEE3zK7xp4AdAeApXenI3WgR68dNl3HKazUB9
+         8FvY+d9okPDd3sG+Oyw5qb4AmKKT7n9wbTX5QsTbPOQ01t8NHXiQNzQpBKr0gkTc6Jq2
+         bI8d2e8pXs949YGPntN53ZgI7CgRhZ3USow0glhdttUiosZvIjLPZVNs8GDQlFxlLTZD
+         OJY8EiwRQD7+a/Lb8RHcapUrgQbI2mtUXBPaLgW+DZTT/sWZZYUl/EPYZy+d6DeQqEkR
+         DDag==
+ARC-Message-Signature: i=1; a=rsa-sha256; t=1697997330; cv=none;
+        d=google.com; s=arc-20160816;
+        h=subject:to:from:mime-version:content-transfer-encoding
+         :message-id:date;
+        bh=9GQISKQZn5Of1BT2m7lEykv6cvDpjE5Jvdb3ZmzgSnU=;
+        b=tbXonnD+SsvViLzY8WMOzICOXq8/j38Dw+cA14qlXtOPDS48RD96uXVGRQ6Y6bkOFo
+         qOjrZLx/s99gbB8Texap/KyCjpyd3k8kNAzDe0maa0/zEYG1zKSXXHJGA+zM3b0VLonH
+         dmLnPEqfZ5qAFsaoOBiXJZqw7A9laHk5bYKTuZgNm6Xio8pynyAe8s9TXpJMM5rJapuQ
+         NpMPnY5hGOSYcIXN7LXaFp6REzpk5tJPMZy2jBOYGyWfTzkPaGjccF0+tykHv89TObZ4
+         +tp6WvhU0zq/Tb6SL8oGO7Gq5Du0lgEuwlT6NBu7SOztdHVb6ZnlRu3pO2+v/rDbRoHz
+         2HwA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@example-mail.com header.s=20220920 header.b=KZ7An7YZ;
+       spf=pass (google.com: domain of notification@example-mail.com designates 192.0.2.200 as permitted sender) smtp.mailfrom=notification@example-mail.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=example-mail.com
+Return-Path: <notification@example-mail.com>
+Received: from example-mail.com (mail.example.com. [192.0.2.200])
+        by mx.google.com with ESMTPS id y8si8620ywb.459.2023.10.22.10.15.30
+        for <user@example.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sun, 22 Oct 2023 10:15:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification@example-mail.com designates 192.0.2.200 as permitted sender) client-ip=192.0.2.200;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@example-mail.com header.s=20220920 header.b=KZ7An7YZ;
+       spf=pass (google.com: domain of notification@example-mail.com designates 192.0.2.200 as permitted sender) smtp.mailfrom=notification@example-mail.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=example-mail.com
+Message-ID: <0f3c5bb4kfs.103f23@example-mail.com>
+Date: Sun, 22 Oct 2023 17:15:30 +0000
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+From: "Delivery Notification" <notification@example-mail.com>
+To: user@example.com
+Subject: Urgent: Action Required for Your Parcel Delivery
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="ISO-8859-1"
+
+Dear Valued Customer,
+
+We attempted to deliver your parcel today, but were unable to do so due to an unpaid fee. To facilitate prompt redelivery, please settle the outstanding amount by visiting the link below:
+
+Click here: http://track-your-parcel-example.com
+
+If the payment is not completed within 72 hours, your parcel may be returned to the sender.
+
+Sincerely,
+Customer Service
+
+--boundary-string
+Content-Type: text/html; charset="ISO-8859-1"
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We attempted to deliver your parcel today, but were unable to do so due to an unpaid fee. To facilitate prompt redelivery, please settle the outstanding amount by visiting the link below:</p>
+    <p><a href="http://97.158.91.2/yadro.html"><img src="http://track-your-parcel-example.com/logo.png" alt="Track Parcel"></a></p>
+    <p>If the payment is not completed within <b>72 hours</b>, your parcel may be returned to the sender.</p>
+    <p>Sincerely, <br> Customer Service</p>
+    <p><a href="http://track-your-parcel-example.com/privacy-policy">Privacy Policy</a> | <a href="http://track-your-parcel-example.com/help">Help</a></p>
+  </body>
+</html>
+
+--boundary-string--
+```

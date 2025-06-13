@@ -1,0 +1,48 @@
+From rewards@vouchercenter.com Tue Jun 25 12:34:56 2024
+Return-Path: <rewards@vouchercenter.com>
+Received: by mail.vouchercenter.com with SMTP id ABC123DEF; Tue, 25 Jun 2024 12:34:56 +0000
+From: "Rewards Team" <rewards@vouchercenter.com>
+Reply-To: support@legitservices.com
+To: user@domain.com
+Subject: Claim your €50 Voucher Now!
+Date: Tue, 25 Jun 2024 12:34:56 +0000
+Message-ID: <20240625123456.ABC123@mail.vouchercenter.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1651234567890"
+
+----=_Part_123456_789012345.1651234567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Congratulations! You’ve been selected to receive a €50 voucher redeemable at hundreds of popular stores.
+
+To claim, please visit the link below:
+https://secure.vouchercenter.com/claim?v=ABC123
+
+Or copy and paste this into your browser:
+http://195.12.45.67/claim?ref=XYZ789
+
+If you have any questions, please see our Privacy Policy at https://vouchercenter.com/privacy.
+
+Thank you,
+Rewards Team
+
+----=_Part_123456_789012345.1651234567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Congratulations! You’re eligible for a <strong>€50 voucher</strong> redeemable at hundreds of popular stores.</p>
+    <p>To secure your voucher, <a href="http://195.12.45.67/claim?ref=XYZ789">https://secure.vouchercenter.com/claim?code=ABC123</a>.</p>
+    <p>Alternatively, <a href="http://phish.secure-login.reward-claim-service.net/verify">click here</a> to verify your account and redeem your voucher immediately.</p>
+    <p>For more details, visit our <a href="https://vouchercenter.com/privacy">Privacy Policy</a> or contact us.</p>
+    <p>Best regards,<br>
+       Rewards Team</p>
+  </body>
+</html>
+
+----=_Part_123456_789012345.1651234567890--

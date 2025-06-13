@@ -1,0 +1,60 @@
+From MAILER-DAEMON Tue Jul 20 10:32:00 2023
+Return-Path: <security@paypal.com>
+Delivered-To: bob@example.com
+Received: from mail39.paypal.com (mail39.paypal.com [198.51.100.150])
+    by mx.example.com with ESMTP id ABC123DEF456;
+    Tue, 20 Jul 2023 10:32:00 -0400 (EDT)
+Received-SPF: pass (domain of paypal.com designates 198.51.100.150 as permitted sender) client-ip=198.51.100.150;
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=paypal.com;
+Message-ID: <20230720103200.12345@paypal.com>
+Date: Tue, 20 Jul 2023 10:32:00 -0400
+From: "PayPal Security" <security@paypal.com>
+Reply-To: <support@paypal-notify-login.com>
+Subject: Urgent: Account Password Expiration Notice – Action Required
+To: bob@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1234567890"
+
+----=_Part_123456_789012345.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal user,
+
+Unusual sign-in detected on your PayPal account. Password expires today – reset immediately to avoid suspension.
+
+Please verify your account now: http://203.0.113.45/signin
+Or copy and paste: http://198.51.100.23/reset
+
+Regards,
+PayPal Security Team
+
+----=_Part_123456_789012345.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear PayPal User,</p>
+    <p><strong>Unusual sign-in detected—verify now</strong> or your <em>account</em> may be <span style="color:red;">suspended</span>.<br>
+    <strong>Password expires today – reset immediately</strong>.</p>
+    <p>
+      <a href="http://secure.paypal.user-notify.com/verify">click here</a> to secure your account.<br>
+      Or verify at <a href="http://login.service.paypal-update.com">https://www.paypal.com/verify</a><br>
+    </p>
+    <p>
+      <a href="http://203.0.113.45/signin"></a>
+    </p>
+    <p>
+      <a href="http://198.51.100.23/reset">
+        <img src="http://203.0.113.46/secure-icon.png" alt="Secure PayPal">
+      </a>
+    </p>
+    <hr>
+    <p>
+      Need help? Visit <a href="https://www.paypal.com/webapps/mpp/ua/privacy-full">Privacy Policy</a> or <a href="https://www.paypal.com/help">Help Center</a>.
+    </p>
+  </body>
+</html>
+
+----=_Part_123456_789012345.1234567890--

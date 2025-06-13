@@ -1,0 +1,27 @@
+From phishing@mailer.local Fri Jun 14 12:34:56 2024
+Return-Path: <noreply@securebankservices.com>
+From: "Secure Payment Team" <noreply@securebankservices.com>
+Reply-To: helpdesk@bankupdates-secure.com
+To: user@example.com
+Subject: URGENT: Tax Refund Pending - Account Password Confirmation Required
+Message-ID: <20240614123456.1@securebankservices.com>
+Date: Fri, 14 Jun 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We are pleased to inform you that a small tax refund <strong>$45.67</strong> is currently pending in your account. To ensure we deposit the refund correctly, please confirm your bank details immediately using the link below:</p>
+<ul>
+<li><a href="http://203.0.113.123/confirm_refund?id=8923">Click here</a> to confirm your bank details.</li>
+<li>Alternatively, you can verify via our secure portal: <a href="https://account.verify.bank.secure-update.example.com/refund">https://account.verify.bank.secure-update.example.com/refund</a></li>
+<li>If the link above does not work, please visit <a href="http://198.51.100.45/verify?ref=tax">https://secure.bankupdate.com/verify</a></li>
+</ul>
+<p>Please complete this process within 24 hours to avoid delay in receiving your refund.</p>
+<p>For assistance, view our <a href="https://www.bank.com/privacy-policy">Privacy Policy</a> or <a href="https://www.bank.com/help">Help Center</a>.</p>
+<p>Thank you for your prompt attention to this urgent matter.</p>
+<p>Sincerely,<br>
+Secure Payment Team</p>
+</body>
+</html>

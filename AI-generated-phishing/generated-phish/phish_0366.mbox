@@ -1,0 +1,44 @@
+```mbox
+From fake-tax-agency@example.com Thu Jan  1 12:34:56 2023
+Received: from [192.0.2.1] (unknown [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 1234567890
+    for <victim@example.com>; Thu,  1 Jan 2023 12:34:56 +0000 (UTC)
+Message-ID: <1234567890@mail.example.com>
+Date: Thu, 1 Jan 2023 12:34:56 +0000
+From: "Tax Refund Dept" <fake-tax-agency@example.com>
+Subject: Urgent: Confirm your refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1234567890abcdef"
+
+--1234567890abcdef
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have processed your recent tax filings and a refund of $480.50 is available for you. However, we need you to confirm your bank details to proceed with the transaction.
+
+Please follow the secure link below to confirm your details:
+http://192.0.2.5/secure/refund
+
+Thank you,
+Tax Refund Department
+
+--1234567890abcdef
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have processed your recent tax filings and a refund of <strong>$480.50</strong> is available for you. However, we need you to confirm your bank details to proceed with the transaction.</p>
+    <p>Please follow the secure link below to confirm your details: <a href="http://192.0.2.5/secure/refund"></a></p>
+    <p>Thank you,</p>
+    <p>Tax Refund Department</p>
+    <p>For assistance visit our support site:</p>
+    <p><a href="https://support.tax-refunds-info.example.com">https://support.tax-refunds-info.example.com</a></p>
+    <p>For more information, please visit:</p>
+    <a href="http://tax-updates.example.com/latest-news">http://tax-updates.example.com/latest-news</a>
+  </body>
+</html>
+
+--1234567890abcdef--
+```

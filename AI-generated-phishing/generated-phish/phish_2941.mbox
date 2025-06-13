@@ -1,0 +1,30 @@
+```mbox
+From example@notice-secure-login.com Fri Oct 27 14:57:45 2023
+Return-Path: <example@notice-secure-login.com>
+Received: from 192.168.0.1 (unknown [192.168.0.1])
+    by youremailserver.com (Postfix) with ESMTP id 123AB456CD7
+    for <victim@youremail.com>; Fri, 27 Oct 2023 14:57:45 +0000 (UTC)
+Date: Fri, 27 Oct 2023 14:57:45 +0000
+From: "Account Security Notice" <support@security-notice-alerts.com>
+Subject: Urgent: Update Your Account Details Immediately
+To: victim@youremail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear User,</p>
+  <p>We have detected suspicious activity on your <b>account</b> that requires your immediate attention.</p>
+  <p>To secure your account, please update your information by clicking the link below:</p>
+  <p><a href="http://192.168.0.1/update" style="color:blue; text-decoration:none;">http://www.secure-login.com/update</a></p>
+  <p>Alternatively, you can click on the secure link:</p>
+  <p><a href="http://192.168.0.1/login"><img src="http://safe-login.com/images/login.png" alt="Login Here"></a></p>
+  <p>Failure to update within 24 hours may result in permanent <b>suspension</b> of your account.</p>
+  <p>If you need assistance, please click <a href="http://www.secure-login.com/help">here</a>.</p>
+  <p>Regards,</p>
+  <p>Customer Support Team</p>
+  <p><a href=""></a></p>
+</body>
+</html>
+```

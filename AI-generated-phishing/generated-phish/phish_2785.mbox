@@ -1,0 +1,30 @@
+```
+From nobody Sun Oct  1 12:34:56 2023
+Return-Path: <security@trustee-notifications225.com>
+Date: Sun, 01 Oct 2023 12:34:56 +0000
+From: "Account Security Team" <security@service-account-update.net>
+Subject: Urgent: Immediate Action Required on Your Account
+
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected suspicious activities in your account. Immediate action is required to avoid suspension. Please <a href="http://192.168.1.1/security-update?user=user@example.com">verify your account</a> now.</p>
+    <p>Failure to act within 24 hours will result in account suspension. Protect your account by verifying below:</p>
+    <p><a href="http://192.168.1.1/security-update?user=user@example.com"><img src="https://service-account-update.net/images/secure-login.png" alt="Verify Now"></a></p>
+    <p>Alternatively, you can <a href="http://192.168.1.1/security-update/login">click here</a> to log in.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <br>
+    <p>Best Regards,</p>
+    <p>Account Security Team</p>
+    <p><a href=""> </a></p>
+    <hr>
+    <p>For privacy policies, <a href="https://www.legit-privacy-policy.com">click here</a>.</p>
+    <p>Need help? Visit our <a href="https://www.legit-helpdesk.com">support center</a>.</p>
+  </body>
+</html>
+```

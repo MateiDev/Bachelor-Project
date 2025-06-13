@@ -1,0 +1,55 @@
+From no-reply@bank-corp.com Fri Jun 21 10:23:45 2024
+Subject: URGENT: Account Alert - Verify & Reset Password Now
+From: "Bank Support" <no-reply@bank-corp.com>
+To: user@domain.com
+Date: Fri, 21 Jun 2024 10:23:45 -0400
+Message-ID: <ABC123DEF456@bank-corp.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_ABCDEF"
+
+------=_Part_123456_ABCDEF
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in on your Bank-Corp account. For your security, immediate action is required. Your password expires today and must be reset to avoid account suspension.
+
+Please verify your account now:
+http://203.0.113.5/mail.verify.security.bank-corp.com/verify?id=789
+
+Alternatively, click here to review unusual activity:
+http://203.0.113.5/security.bank-corp.com/activity
+
+Failure to complete verification will result in account lockout.
+
+Thank you,
+Bank-Corp Security Team
+
+------=_Part_123456_ABCDEF
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Alert</title></head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We detected an <strong>unusual sign-in</strong> on your Bank-Corp account.
+     <span style="color:red;">Action required immediately</span>. Your <em>password expires today</em>
+     and must be reset to avoid <strong>account suspension</strong>.</p>
+  <p>Verify your account now by clicking the link below:</p>
+  <p><a href="http://203.0.113.5/mail.verify.security.bank-corp.com/verify?id=789">here</a></p>
+  <p>Or use the image link below:</p>
+  <p>
+    <a href="http://203.0.113.5/update.password.bank-corp.com/reset?token=xyz">
+      <img src="http://203.0.113.5/assets/logo.png" alt="Secure Login">
+    </a>
+  </p>
+  <p>If the link above doesn't work, copy and paste the following URL into your browser:</p>
+  <p>http://203.0.113.5/security.bank-corp.com/activity</p>
+  <p><a href="http://203.0.113.5/mail.verify.bank-corp.com/verify?uid=456"></a></p>
+  <p>Thank you,<br>Bank-Corp Support</p>
+</body>
+</html>
+
+------=_Part_123456_ABCDEF--

@@ -1,0 +1,49 @@
+From phish@security-alerts.bank Fri Jan  1 12:34:56 2021
+Return-Path: <phish@security-alerts.bank>
+Received: from unknown (HELO secure-server) (192.168.1.200)
+        by mail.bank.com with SMTP; Fri, 01 Jan 2021 12:34:56 +0000
+From: "Security Team" <security@bank.com>
+Reply-To: support@helpdesk.domain.net
+To: user@domain.com
+Subject: [URGENT] Password Expiration Notice – Action Required on Your Account
+Date: Fri, 01 Jan 2021 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1610000000000"
+
+------=_Part_0_123456.1610000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in to your account. Your password expires today and must be reset immediately to avoid account suspension.
+
+Click the link below to verify your identity and reset your password:
+
+http://192.168.1.100/reset
+
+If you do not take immediate action, your account will be locked within 24 hours.
+
+Thank you for your prompt attention,
+
+Security Team
+
+------=_Part_0_123456.1610000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notice</title>
+</head>
+<body>
+<p style="color:red; font-weight:bold;">IMPORTANT: Unusual sign-in detected—verify now</p>
+<p>Your <span style="text-decoration:underline;">password expires today</span> – <strong>reset immediately</strong> to prevent account suspension.</p>
+<p>Verify your account by clicking <a href="http://malicious.com/verify">here</a> or via the image below:</p>
+<a href="http://malicious.com/verify"><img src="http://192.168.1.100/images/reset_button.png" alt="Reset Password"></a>
+<p>Need assistance? Visit <a href="http://maliciouser.com/support">http://secure.bank.com/help</a></p>
+<p>For more info, see our policies: <a href="https://bank.com/privacy-policy">https://bank.com/privacy-policy</a> | <a href="http://support.bank.com">support</a></p>
+<p><a href="http://evil.com"></a></p>
+</body>
+</html>
+------=_Part_0_123456.1610000000000--

@@ -1,0 +1,50 @@
+From phishing-simulator@localhost Mon Jul 29 16:53:21 2024
+Return-Path: <rewards@promo-inc.com>
+Received: from mail.promo-inc.com (mail.promo-inc.com [203.0.113.5]) by mx.target.com with ESMTP id ABC12345 for <victim@target.com>; Mon, 29 Jul 2024 16:53:21 +0000 (UTC)
+Received: from unknown (unknown [198.51.100.23]) by mail.promo-inc.com with ESMTP id DEF67890; Mon, 29 Jul 2024 16:52:45 +0000
+From: "Rewards Team" <rewards@promo-inc.com>
+Reply-To: support@secure-alerts.com
+To: victim@target.com
+Subject: URGENT: Voucher Claim Pending – Verify Account Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_123456"
+
+----=_Boundary_123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been flagged for a security review. To thank you for your prompt action, you’re eligible for a €50 voucher. This offer expires in 24 hours.
+
+Verify your account and claim your voucher immediately:
+http://93.184.216.34/claim
+
+If you don’t act now, your account may be suspended.
+
+Regards,
+Rewards Team
+
+----=_Boundary_123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Voucher Claim Pending – Verify Account Now</title>
+</head>
+<body>
+  <p>Dear User,</p>
+  <p><strong>Warning!</strong> Your account is at risk. Verify your account <em>immediately</em> to secure access and claim your €50 voucher—available for a limited time only!</p>
+  <p>
+    <a href="http://93.184.216.34/claim">Verify & Claim Voucher</a><br>
+    <a href="http://93.184.216.34/steal"><img src="http://cdn.promo-banners.net/banner.jpg" alt="Claim your €50 Voucher" border="0"></a>
+  </p>
+  <p>Or visit: <a href="http://93.184.216.34/trustedsite">http://www.trustedsite.com/voucher</a></p>
+  <p>Need help? Visit our <a href="https://promo.verify.login.free.points.com/help">Help Center</a> or <a href="https://promo.verify.login.free.points.com/privacy">Privacy Policy</a>.</p>
+  <p>Click <a href="http://93.184.216.34/here">here</a> to avoid suspension.</p>
+  <p>Failure to respond within <strong>12 hours</strong> will result in account suspension.</p>
+  <p>Best Regards,<br>Rewards Team</p>
+</body>
+</html>
+----=_Boundary_123456--

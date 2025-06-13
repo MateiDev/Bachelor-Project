@@ -1,0 +1,35 @@
+From mailer-daemon@microsoft.com Tue Feb 15 10:00:00 2023
+Return-Path: <support@microsoft-support.com>
+From: "Microsoft Support" <support@microsoft.com>
+Reply-To: <no-reply@customer-service.com>
+Subject: URGENT: You’re ELIGIBLE for a €100 Voucher – Claim NOW!
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_0001"
+
+------=_NextPart_001_0001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Your account is at RISK! If you don’t claim your €100 voucher within 24 hours, you will LOSE it forever.
+Click here to secure your reward:
+http://192.0.2.123/voucher
+Paper insight — Fette et al. (2007) noted phishing uses hidden links.
+
+------=_NextPart_001_0001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red;font-weight:bold;">URGENT: Your account security is at STAKE!</p>
+    <p>You’re eligible for a <strong>€100 Gift Voucher</strong> but you must act IMMEDIATELY or it WILL EXPIRE!</p>
+    <p><a href="http://192.0.2.123/claim"><img src="http://images.shop.com/promo.png" alt="Claim Now"></a></p>
+    <p>Or <a href="http://192.0.2.123/hidden"></a><em>(link above invisible)</em></p>
+    <p>Access your voucher <a href="http://192.0.2.123/redeem">click here</a> or visit <a href="https://www.voucher.reward.shop.com">https://www.voucher.reward.shop.com</a> now!</p>
+    <p>For assistance, visit our <a href="https://support.microsoft.com">privacy-policy</a> or <a href="https://help.microsoft.com">help</a>.</p>
+    <p>Paper insight — Fette et al. (2007) observed that phishers often keep benign-looking links intact while hiding their malicious URL behind a generic anchor such as “click here”.</p>
+  </body>
+</html>
+
+------=_NextPart_001_0001--

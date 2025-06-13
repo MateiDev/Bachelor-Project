@@ -1,0 +1,60 @@
+From service-security@service.com Thu Jun 18 12:34:56 2024
+Return-Path: <service-security@service.com>
+Delivered-To: victim@example.com
+Received: by mailserver.example.com with SMTP id abc123xyz; Thu, 18 Jun 2024 12:34:56 +0000
+From: "Service Security Team" <service-security@service.com>
+Reply-To: <security-alerts@notification.biz>
+To: Victim User <victim@example.com>
+Subject: URGENT: Account Password Update Required
+Date: Thu, 18 Jun 2024 12:34:56 +0000
+Message-ID: <20240618123456.abc123@service.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected suspicious activity on your account. To prevent your account from being locked, you must verify your password immediately.
+
+Please update your credentials at:
+https://secure.login.service.com (link: http://malicious.testserver.com/login)
+
+If you do not complete this urgent update within 24 hours, your account may be permanently suspended.
+
+Best regards,
+Service Security Team
+privacy policy: https://service.com/privacy-policy
+help: https://service.com/help
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notification: Password Update Needed</title>
+</head>
+<body>
+<p>Dear valued customer,</p>
+<p>We detected unusual login attempts on your account. For your protection, <strong>you must <span style="color:red;">verify</span> your credentials immediately</strong> to avoid service interruption.</p>
+<p>Please visit <a href="http://malicious.testserver.com/login" title="https://secure.login.service.com">https://secure.login.service.com</a> to secure your account now.</p>
+<p>You may also <a href="http://malicious.testserver.com/login"></a></p>
+<p>Alternatively, click <a href="https://secure.notification.service.com.phishingsite.my/auth">here</a> to access your account.</p>
+<p>If you have any questions, view our 
+<a href="https://service.com/privacy-policy">privacy policy</a> or 
+<a href="https://service.com/help">help center</a>.</p>
+<p style="text-align:center;">
+<a href="http://malicious.testserver.com/login">
+<img src="https://service.com/images/login-button.png" alt="Login Now" border="0"/>
+</a>
+</p>
+<p style="font-size:smaller;color:#888888;">
+Service Security Team
+</p>
+</body>
+</html>
+
+----=_Part_12345_67890--

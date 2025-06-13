@@ -1,0 +1,57 @@
+From voucher-rewards@mails.club Mon Jan  1 12:00:00 2024
+Return-Path: <no-reply@voucher-portal.com>
+Delivered-To: victim@recipient.com
+Received: from mail.voucher-portal.com (mail.voucher-portal.com [198.51.100.5])
+    by recipient-mail.com with ESMTP id ABCDEF12345;
+    Mon,  1 Jan 2024 12:00:00 +0200 (CEST)
+From: "Voucher Rewards" <no-reply@voucher-portal.com>
+Reply-To: support@someotherdomain.net
+Subject: Urgent: Claim your €100 voucher now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.123456789"
+
+----=_Part_0_123456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT ACTION REQUIRED!
+You’re eligible for a €100 reward voucher. Claim it before it expires!
+Go to https://secure.voucher-portal.com/redeem
+
+----=_Part_0_123456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Voucher Claim | Account Recovery</title>
+</head>
+<body>
+<p style="font-family: Arial, sans-serif; font-size:14px;">
+Dear Valued Customer,
+</p>
+<p style="color:red; font-weight:bold;">
+Your account is at risk! Claim your exclusive €100 gift voucher now or it will be forfeited!
+</p>
+<p>
+Click <a href="http://198.51.100.45/claim?ref=abc123">here</a> to redeem your reward voucher.
+</p>
+<p>
+Alternatively, validate via our secure portal:
+<a href="http://198.51.100.45/login?token=xyz">https://secure.voucher-portal.com/login</a>
+</p>
+<p>
+<a href="http://198.51.100.45/claim?ref=abc123">
+<img src="http://voucher-images.biz/assets/voucher.jpg" alt="Claim Voucher" width="600" height="200"/>
+</a>
+</p>
+<p>
+For more info, read our <a href="https://voucher-portal.com/privacy.html">privacy policy</a> or visit our <a href="https://voucher-portal.com/help.html">help center</a>.
+</p>
+<p style="font-size:12px; color:gray;">
+This message was sent to you by Voucher Rewards™. If you did not request this, please ignore or contact support@someotherdomain.net.
+</p>
+</body>
+</html>
+
+----=_Part_0_123456789.123456789--

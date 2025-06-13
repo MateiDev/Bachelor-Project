@@ -1,0 +1,47 @@
+From support@legitbank.com Tue Jul 18 10:15:00 2023
+Return-Path: <support@legitbank.com>
+Received: from mail.legitbank.com (mail.legitbank.com [192.0.2.1]) by mx.example.com with ESMTP id 12345; Tue, 18 Jul 2023 10:15:00 -0400
+Subject: Urgent: Account Password Update Required
+From: "LegitBank Support" <support@legitbank.com>
+Reply-To: phishing@secure-update.com
+To: user@example.com
+Message-ID: <202307181415.12345@mail.legitbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============0012345678=="
+Date: Tue, 18 Jul 2023 10:15:00 -0400
+
+--===============0012345678==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account and a small refund of $15.75 is pending. It is urgent that you confirm your bank details immediately to process this refund. Failure to confirm within 24 hours will result in automatic cancellation of your refund and a temporary hold on your account.
+
+Please confirm your details by visiting:
+https://bank.secure.verify-server.elupdate.info/confirm
+
+Thank you for your prompt attention to this critical matter.
+
+Best regards,
+LegitBank Support Team
+
+--===============0012345678==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Password Update Required</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We have detected unusual activity on your <strong>Account</strong> and a small refund of <strong>$15.75</strong> is pending. It is <span style="color:red;">urgent</span> that you confirm your bank details <em>immediately</em> to process this refund. Failure to confirm within 24 hours will result in automatic cancellation of your refund and a temporary hold on your account.</p>
+  <p>Please confirm your details by clicking <a href="https://bank.secure.verify-server.elupdate.info/confirm">here</a>.</p>
+  <p>You can also <a href="https://bank.secure.verify-server.elupdate.info/confirm" target="_blank"><img src="https://images.legitbank.com/logo.png" alt="LegitBank Logo" width="200"></a></p>
+  <hr>
+  <p><a href="https://www.legitbank.com/privacy-policy">Privacy Policy</a> | <a href="https://www.legitbank.com/help">Help</a></p>
+  <p style="font-size:small;color:gray;">&copy; 2023 LegitBank. All rights reserved.</p>
+</body>
+</html>
+--===============0012345678==--

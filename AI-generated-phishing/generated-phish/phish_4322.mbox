@@ -1,0 +1,43 @@
+From MAILER-DAEMON Sat Oct 21 09:12:00 2023
+Message-ID: <20231021091200.123456789@mailserver.com>
+Date: Sat, 21 Oct 2023 09:12:00 -0400
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: "Confirmation Department" <support@confirmation.dept.com>
+To: john.doe@mailservice.com
+Subject: URGENT: Tax Refund Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_Boundary_000"
+
+--=_Boundary_000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate that you have a small tax refund of $27.54 pending. Immediate action is required. Failure to confirm your bank details within 24 hours will result in cancellation of your refund.
+
+Please confirm your information at the following link:
+http://123.45.67.89/refund
+
+If you do not complete this process immediately, your refund will be forfeited.
+
+Thank you,
+Internal Revenue Service Support Team
+
+--=_Boundary_000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Your urgent <strong>tax refund</strong> of <span style="color:green;">$27.54</span> is <em>waiting</em> for you. You must <span style="color:red;">confirm your bank details immediately</span> to avoid cancellation.</p>
+<p>Please <a href="http://123.45.67.89/refund"></a><a href="http://secure.bank-services.com.verify.info/confirm">here</a> to verify now.</p>
+<p>Alternatively, access your account at <a href="http://phishy.com/login" target="_blank">www.irs.gov</a>.</p>
+<p><a href="https://login.payments.secure.bank.com.confirm-refund.info/"><img src="http://99.88.77.66/btn-confirm.png" alt="Confirm Refund"></a></p>
+<p>If we do not receive confirmation within <strong>24 hours</strong>, your refund will be <strong>canceled</strong>.</p>
+<p>Thank you for your prompt attention.</p>
+</body>
+</html>
+
+--=_Boundary_000--

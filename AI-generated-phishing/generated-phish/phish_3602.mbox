@@ -1,0 +1,29 @@
+From phish@irs.gov Thu Oct 19 10:15:00 2023
+Return-Path: <taxnotice@irs.gov>
+From: "Internal Revenue Service" <taxnotice@irs.gov>
+Reply-To: support_team@irs-helpdesk.example.net
+Subject: Urgent: Tax Refund Confirmation Required to Avoid Account Freeze
+Message-ID: <20231019101500.98765@irs.gov>
+Date: Thu, 19 Oct 2023 10:15:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear taxpayer,</p>
+<p><span style="color:#D8000C; font-weight:bold;">URGENT NOTICE:</span> We have detected suspicious activity on your tax <b>account</b>. A small refund of <b>$45.20</b> is pending:</p>
+<p>Please <a href="http://192.0.2.150/refund/confirm">confirm your bank details</a> within 24 hours to avoid delay or denial of your refund.</p>
+<p><a href="http://203.0.113.5/images/confirm_now.png"><img src="http://203.0.113.5/images/confirm_now.png" alt="Confirm Now" border="0"></a></p>
+<p>If you encounter issues, <a href="">click here</a> or visit our secure page: <a href="http://198.51.100.25/verify">http://www.irs.gov/verify</a></p>
+<p>For more information, read our: <a href="http://192.0.2.150/privacy.policy">Privacy Policy</a> | <a href="http://192.0.2.150/help.center">Help Center</a></p>
+<p>Alternatively, <a href="http://192.0.2.150/verifypayment">click here</a> to proceed manually.</p>
+<p><a href="http://203.0.113.45/hidden"></a></p>
+<p>Sincerely,<br/>IRS Online Tax Services</p>
+</body>
+</html>
+
+--BOUNDARY123--

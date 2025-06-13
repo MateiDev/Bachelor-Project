@@ -1,0 +1,49 @@
+```
+From nobody@invalid Fri Oct 27 17:11:22 2023
+From: "Internal Revenue Services" <noreply@taxrefundirs.com>
+Reply-To: refunddept@refundmail.com
+To: victim@example.com
+Subject: Urgent: Final Notice for Tax Refund Confirmation
+Date: Fri, 27 Oct 2023 17:11:22 +0000
+Message-ID: <001a11445b12101723222@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="------------020307040505070506010208"
+
+--------------020307040505070506010208
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have been trying to reach you regarding an urgent tax refund of $529.87. To process your refund, please confirm your bank details immediately to avoid forfeiting this amount. Click the link below to ensure we have the correct information on file:
+
+http://www.secure-irs-confirmation.info/verify
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+IRS Refund Department
+
+--------------020307040505070506010208
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent: Final Notice for Tax Refund Confirmation</title>
+  </head>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have been trying to reach you regarding an <b>urgent</b> tax refund of <b>$529.87</b>. To process your refund, please confirm your bank details immediately to avoid <b>forfeiting</b> this amount. Click the link below to ensure we have the correct information on file:</p>
+    <p><a href="http://192.168.1.1/secure/claim">http://www.secure-irs-confirmation.info/verify</a></p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>
+    IRS Refund Department</p>
+    <p><a href="http://www.irs.gov/privacy">Privacy Policy</a> | <a href="http://www.irs.gov/help">Help</a></p>
+  </body>
+</html>
+
+--------------020307040505070506010208--
+
+```

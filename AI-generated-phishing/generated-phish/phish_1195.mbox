@@ -1,0 +1,47 @@
+From phishtest@internal-tax.gov Sat Feb 12 12:34:56 2022
+Return-Path: <no-reply@internal-tax.gov>
+Received: from 198.51.100.23 (unknown [198.51.100.23])
+    by mail.internal-tax.gov with ESMTP id ABC123DEF456;
+    Sat, 12 Feb 2022 12:34:56 -0500
+From: Internal Revenue Service <no-reply@internal-tax.gov>
+To: john.doe@taxpayer.test
+Subject: Urgent: Confirm Your Account Details for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have processed your recent tax return and identified a small refund awaiting your confirmation. To receive your refund, please confirm your bank account details by following one of the links below:
+
+http://198.51.100.23/confirm
+http://203.0.113.5/confirm
+
+If you do not confirm within 48 hours, your refund will be canceled.
+
+For more information, visit our Privacy Policy:
+https://www.internal-tax.gov/privacy
+
+Thank you,
+IRS Support Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #d9534f;">Urgent: Tax Refund Confirmation Required</h2>
+    <p>Dear Taxpayer,</p>
+    <p>We have processed your recent tax return and identified a <strong>small refund</strong> awaiting your confirmation.</p>
+    <p>Please <a href="http://198.51.100.23/confirm">click here</a> to verify your bank account details and claim your refund.</p>
+    <p>If you're experiencing issues, you may also use the alternative link below:</p>
+    <p><a href="http://203.0.113.5/confirm"></a></p>
+    <hr>
+    <p>Need help? Visit our <a href="https://help.internal-tax.gov/support.html">Customer Support</a> page or review our <a href="https://www.internal-tax.gov/privacy">Privacy Policy</a>.</p>
+    <p>Thank you,<br>IRS Support Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

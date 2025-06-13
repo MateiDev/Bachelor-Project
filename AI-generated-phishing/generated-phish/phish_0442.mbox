@@ -1,0 +1,31 @@
+```mbox
+From phishing-scam@example.com Thu Oct 12 14:28:00 2023
+Return-Path: <phishing-sender@mischief-mail.com>
+Received: from unknown (192.0.2.1) by recipient-domain.com with SMTP; Thu, 12 Oct 2023 14:28:00 +0000
+Reply-To: urgent-action@fake-verify-now.com
+Subject: Urgent: Account Security Alert - Action Required
+Message-ID: <20231012.142800.phishing@example.com>
+Date: Thu, 12 Oct 2023 14:28:00 +0000
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Attention Required - Unusual sign-in detected on your account. Verify now to prevent unauthorized access: http://192.0.2.100/login
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h2 style="color: red;">URGENT: Unusual sign-in detected on your account!</h2>
+    <p>We have detected a <strong>potential unauthorized sign-in</strong> attempt on your account. To secure your account, please <em>verify now</em> using the link below:</p>
+    <p><a href="http://192.0.2.100/login">http://secure-verify.com/login</a></p>
+    <p>Failure to act immediately may result in <span style="color: red;">account suspension</span>.</p>
+    <p>Best Regards,<br>Account Security Team</p>
+  </body>
+</html>
+--boundary-string--
+```

@@ -1,0 +1,51 @@
+```mbox
+From phishalert@security-update.com Fri Oct 20 14:22:16 2023
+Return-Path: <phishalert@security-update.com>
+Received: from suspiciousserver.com (123.45.67.89) by yourserver.com with SMTP; Fri, 20 Oct 2023 14:22:16 +0000
+Message-ID: <001801d3485e$9f2d7c20$de886420$@security-update.com>
+Reply-To: alerted@fakealertsystem.com
+From: Alert Team <phishalert@security-update.com>
+To: victim@yourserver.com
+Subject: Urgent: Unusual Sign-in Attempt - Verify Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_0017_01D3485E.9F2D7C20"
+
+------=_NextPart_001_0017_01D3485E.9F2D7C20
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We've detected an unusual sign-in attempt to your account from an unknown location. For your protection, please verify your account immediately to prevent unauthorized access.
+
+Click the link below to verify:
+http://200.100.50.25/security/verify
+
+Failure to take immediate action may result in suspension of your account.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+The Security Team
+
+------=_NextPart_001_0017_01D3485E.9F2D7C20
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <p>Dear User,</p>
+    <p>We've detected an <b>unusual sign-in attempt</b> to your account from an unknown location. For your protection, please verify your account immediately to prevent unauthorized access.</p>
+    <p>Click the link below to verify:</p>
+    <p><a href="http://200.100.50.25/security/verify"></a></p>
+    <p>Failure to take immediate action may result in suspension of your account.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br/>The Security Team</p>
+</body>
+</html>
+
+------=_NextPart_001_0017_01D3485E.9F2D7C20--
+```

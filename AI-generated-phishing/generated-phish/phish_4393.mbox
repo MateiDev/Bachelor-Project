@@ -1,0 +1,69 @@
+From phishing@securebank.com Sat Apr 15 12:34:56 2023
+Return-Path: <rewards@securebank.com>
+Delivered-To: victim@example.com
+Received: from mail.securebank.com (mail.securebank.com [203.0.113.10])
+    by mx.example.com with ESMTP id ABC123DEF; Sat, 15 Apr 2023 12:34:56 +0000
+Date: Sat, 15 Apr 2023 12:34:56 +0000
+From: "Secure Bank Rewards" <rewards@securebank.com>
+Reply-To: support@secureaccount-update.com
+To: victim@example.com
+Subject: URGENT: Claim Your €50 Voucher NOW!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your exclusive €50 voucher is waiting! This limited-time reward will EXPIRE in 24 hours.
+To claim, click here: http://192.0.2.123/claim?code=ABCDEF
+
+Need assistance? Visit our privacy policy http://securebank.com/privacy or help page http://securebank.com/help.
+
+Regards,
+Secure Bank Rewards Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;font-weight:bold;">
+      URGENT: Your exclusive <span style="text-decoration:underline;">€50 Voucher</span> will <strong>EXPIRE in 24 HOURS</strong>!
+    </p>
+    <p>
+      Click <a href="http://192.0.2.123/claim?code=ABCDEF">here</a> to claim now.
+    </p>
+    <p>
+      Or visit our secure redemption portal:
+      <a href="http://secure.reward-gift.voucher.claims.com/redeem">
+        https://secure.reward-gift.voucher.claims.com/redeem
+      </a>
+    </p>
+    <p>
+      Scan the QR code:<br>
+      <a href="http://192.0.2.123/qr">
+        <img src="http://images.securebank-cdn.com/voucher.png" alt="Voucher QR" />
+      </a>
+    </p>
+    <p>
+      Access your account here:
+      <a href="http://198.51.100.45/login">https://secure.bank.com/login</a>
+    </p>
+    <p>
+      For more info, see
+      <a href="https://securebank.com/privacy">Privacy Policy</a> and
+      <a href="https://securebank.com/help">Help Center</a>.
+    </p>
+    <p>
+      Quick link: <a href="http://198.51.100.45/redeem"></a>
+    </p>
+    <p>Thank you for banking with us.</p>
+  </body>
+</html>
+
+--BOUNDARY123--

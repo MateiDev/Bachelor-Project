@@ -1,0 +1,49 @@
+From security@legitcompany.com Mon Jun 17 12:30:00 2024
+Return-Path: <security@legitcompany.com>
+Date: Mon, 17 Jun 2024 12:30:00 -0400
+From: "Account Security" <security@legitcompany.com>
+Reply-To: "Customer Support" <support@phish.com>
+To: user@example.com
+Subject: Action Required: Unusual sign-in detected—verify now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_ABC123"
+
+----=_Part_ABC123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in attempt on your account. Immediate action required.
+
+Your password expires today. Reset it immediately to avoid suspension.
+
+Please verify your account now: http://192.0.2.123/verify
+
+Best Regards,
+Account Security Team
+
+----=_Part_ABC123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red;"><strong>Urgent Notice:</strong> We detected an <em>unusual sign-in</em> on your account.</p>
+    <p>Your <strong>password expires today</strong> – reset immediately to avoid service interruption.</p>
+    <p><a href="https://secure.account.verify.company.com/reset?token=abc123">Click here</a> to <em>verify now</em>.</p>
+    <p>Or you can <a href="http://203.0.113.5/login">login here</a> directly.</p>
+    <p>
+      <a href="http://198.51.100.45/verify">
+        <img src="https://legitcompany.com/images/logo.png" alt="Company Logo" />
+      </a>
+    </p>
+    <hr>
+    <p>
+      <a href="https://legitcompany.com/privacy-policy">Privacy Policy</a> | 
+      <a href="https://legitcompany.com/help/contact">Help Center</a>
+    </p>
+  </body>
+</html>
+
+----=_Part_ABC123--

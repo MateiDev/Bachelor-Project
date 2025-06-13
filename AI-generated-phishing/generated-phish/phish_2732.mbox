@@ -1,0 +1,43 @@
+```mbox
+From phishingalert@security-notice.com Mon Oct 30 14:19:00 2023
+Date: Mon, 30 Oct 2023 14:19:00 +0000
+From: "Account Security" <phishingalert@security-notice.com>
+To: recipient@example.com
+Subject: Urgent: Action Required to Secure Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Attention,
+
+We have detected an unusual sign-in attempt to your account. To ensure the safety of your account, please verify your information immediately. Your password expires today, and failure to act will lead to account suspension.
+
+Please verify your account here: http://192.168.1.1/verify
+
+Thank you for your prompt attention to this urgent matter.
+
+Best Regards,
+Account Security Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Account Security Alert</title>
+</head>
+<body>
+<p>Attention,</p>
+<p>We have detected an unusual sign-in attempt to your account. To ensure the safety of your account, please verify your information immediately. Your password expires today, and failure to act will lead to account suspension.</p>
+<p>Please verify your account <a href="http://192.168.1.1/verify"></a></p>
+<p>Thank you for your prompt attention to this urgent matter.</p>
+<p>Best Regards,<br>Account Security Team</p>
+<img src="http://192.168.1.1/logo.png" alt="Logo">
+<p>For help, visit <a href="https://www.security-notice.com/help">https://www.security-notice.com/help</a></p>
+</body>
+</html>
+
+--boundary-string--
+```

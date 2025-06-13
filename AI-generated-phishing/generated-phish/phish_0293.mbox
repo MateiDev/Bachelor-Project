@@ -1,0 +1,51 @@
+```
+From example-sender@example.com Fri Sep 29 02:30:14 2023
+Return-Path: <example-sender@example.com>
+Delivered-To: recipient@example.com
+Received: from mail.example.com (mail.example.com [192.168.1.100])
+        by mail.example.com with ESMTP id A1B2C3D4
+        for <recipient@example.com>; Fri, 29 Sep 2023 02:30:14 -0500 (CDT)
+Message-ID: <1234567890@example.com>
+Date: Fri, 29 Sep 2023 02:30:14 -0500
+From: "Rewards Team" <rewards@example.com>
+To: recipient@example.com
+Subject: Urgent: Claim Your €500 Voucher Now!
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We're excited to inform you that you are eligible for a €500 voucher! This is a limited time offer and will expire if not claimed immediately. 
+
+To activate your voucher, please follow the urgent instructions below:
+
+Claim now: http://192.168.0.1/reward  
+Alternate link: http://192.168.0.2/redeem  
+
+Don’t miss out on this incredible opportunity. Act fast!
+
+Best,
+Rewards Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We're excited to inform you that you are eligible for a <b>€500 voucher</b>! This is a <span style="color:red;">limited time offer</span> and will expire if not claimed <em>immediately</em>.</p>
+    <p>To activate your voucher, please follow the urgent instructions below:</p>
+    <p>Claim now: <a href="http://192.168.0.1/reward">&nbsp;</a></p>
+    <p>Alternate link: <a href="http://192.168.0.2/redeem">&nbsp;</a></p>
+    <p>Don’t miss out on this incredible opportunity. <strong>Act fast!</strong></p>
+    <p>Best,<br>Rewards Team</p>
+  </body>
+</html>
+
+--boundary123--
+```

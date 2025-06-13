@@ -1,0 +1,54 @@
+```
+From nobody Tue Oct 31 10:00:00 2023
+Delivered-To: victim@example.com
+Received: by 10.0.0.1 with SMTP id z1csp000000qwd;
+        Tue, 31 Oct 2023 10:00:00 -0800 (PST)
+X-Received: by 10.0.0.1 with SMTP;
+        Tue, 31 Oct 2023 10:00:00 -0800 (PST)
+Return-Path: <fake.sender@scammer.com>
+Received: from suspicious-ip ([192.168.1.100])
+        by mail.example.com with SMTP id v7mr2300000zmb;
+        Tue, 31 Oct 2023 10:00:00 -0800 (PST)
+Message-ID: <001d01c934a2$00333c60$001ab1c0@fake.sender>
+From: "Customer Support" <support@scammer-services.com>
+To: "Valued User" <victim@example.com>
+Subject: Urgent: Claim Your €500 Gift Card Now!
+Date: Tue, 31 Oct 2023 10:00:00 -0800
+Content-Type: multipart/alternative;
+        boundary="----=_Part_0_123456789.123456789"
+
+------=_Part_0_123456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+You're eligible for a €500 gift card! Click the link below urgently to claim your reward before it expires:
+
+http://safe.example.com
+
+For security reasons, make sure to access the secure link immediately.
+
+Thank you,
+Customer Support Team
+
+------=_Part_0_123456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+    <p>Dear Valued User,</p>
+    <p>You're eligible for a €500 gift card! <strong>Act now</strong> to claim your reward before it expires:</p>
+    <p><a href="http://192.168.1.100/claim">click here</a></p>
+    <p>For more information, visit our <a href="http://safe.example.com">privacy-policy</a> or our <a href="http://safe.example.com">help center</a>.</p>
+    <p><img src="http://192.168.1.100/fakeimage.jpg" alt="Gift Card"></p>
+    <p>Thank you,<br>Customer Support Team</p>
+    <p><a href="http://192.168.1.100">
+    
+    </a></p>
+</body>
+</html>
+
+------=_Part_0_123456789.123456789--
+```

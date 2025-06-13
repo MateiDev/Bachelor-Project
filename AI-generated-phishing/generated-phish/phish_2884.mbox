@@ -1,0 +1,37 @@
+```mbox
+From someone@taxrefund.com Thu Oct 21 14:52:03 2023
+Return-Path: <someone@taxrefund.com>
+Delivered-To: victim@example.com
+Received: from [192.0.2.1] (unknown [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id A1B2C3D4
+    for <victim@example.com>; Thu, 21 Oct 2023 14:52:03 +0000 (UTC)
+Message-ID: <20231021145203.A1B2C3D4@mail.example.com>
+Reply-To: urgent-update@securetaxinfo.com
+From: "Tax Refund Department" <someone@taxrefund.com>
+To: victim@example.com
+Subject: Urgent: Your Tax Refund is Pending Claim Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XXXXboundarytext"
+
+--XXXXboundarytext
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We attempted to process your recent tax refund but encountered an issue. An amount of <strong>$612.40</strong> is pending. To confirm your refund, please verify your bank details immediately to avoid further delays.</p>
+<p>Click <a href="http://203.0.113.5/www.tax-update.com/login">here</a> to update your information.</p>
+<p>Make sure to act <em>fast</em> to <strong>prevent loss</strong> of your refund!</p>
+<p>
+    - <a href="http://198.51.100.4/support.contact-us/tax">Contact Support</a>  -
+    <a href="http://203.0.113.5/faq.refund-center"></a>  -
+    <a href="http://economy.success.net/refund-helpdesk">www.tax-rebate.gov</a> 
+</p>
+<p>Best Regards,<br>Tax Refund Department</p>
+</body>
+</html>
+
+--XXXXboundarytext--
+```

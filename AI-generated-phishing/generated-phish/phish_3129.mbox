@@ -1,0 +1,38 @@
+From service@paypal.com Tue Jun 11 09:13:15 2024
+Return-Path: <service@paypal.com>
+From: "PayPal Service" <service@paypal.com>
+Reply-To: "PayPal Security" <security@paypal.accounts-update.com>
+Subject: Urgent: Verify Your PayPal Account Password
+Date: Tue, 11 Jun 2024 09:13:15 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_8901234.1589450000000"
+
+------=_Part_1234567_8901234.1589450000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual login attempts on your PayPal account. For your security, please verify your account immediately.
+
+Click here to verify: http://203.0.113.45/verify
+
+Thank you,
+PayPal Support
+
+------=_Part_1234567_8901234.1589450000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected <strong>unusual login</strong> attempts on your PayPal <u>account</u>. For your security, please verify your account immediately by signing in <a href="http://203.0.113.45/verify"></a>.</p>
+    <p>Alternatively, you can go to <a href="http://192.0.2.123/login">https://www.paypal.com/signin</a> to log in safely.</p>
+    <p>Need help? <a href="https://help.paypal.com.secure-login.info/faqs">click here</a></p>
+    <p>Privacy: <a href="https://www.paypal.com/privacy-policy">PayPal Privacy Policy</a></p>
+    <p>Thank you,<br/>PayPal Support Team</p>
+  </body>
+</html>
+
+------=_Part_1234567_8901234.1589450000000--

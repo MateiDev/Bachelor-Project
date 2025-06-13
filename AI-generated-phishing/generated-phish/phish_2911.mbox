@@ -1,0 +1,44 @@
+```mbox
+From nobody Thu Jan  1 00:00:00 2023
+Return-Path: <alert@secure-notify.com>
+Received: from [192.168.1.100] by mail.example.com; Thu, 1 Jan 2023 00:00:00 +0000
+Date: Thu, 1 Jan 2023 00:00:00 +0000
+From: Account Security <alert@secure-notify.com>
+Subject: Urgent: Action Required For Your Account
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected suspicious activity in your account and, as a precaution, limited your access temporarily. To restore your account, please verify your details immediately.
+
+Login to your account here: http://secure-login.com
+Visit our official support page: http://www.example-support.com
+
+Sincerely,
+Account Security Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We have detected <strong>suspicious activity</strong> in your account and, as a precaution, limited your access temporarily. To restore your account, please verify your details immediately.</p>
+
+<p>Login to your account here: <a href="http://192.0.2.1/login">secure-login.com</a></p>
+
+<p>If you have any questions, please visit our <a href="http://www.example-support.com">support page</a>.</p>
+
+<p>Sincerely,<br>Account Security Team</p>
+
+</body>
+</html>
+
+--boundary-string--
+```

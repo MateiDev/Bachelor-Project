@@ -1,0 +1,47 @@
+From support@microsoft.com Fri Jul 26 12:34:56 2024
+Return-Path: <support@microsoft.com>
+Delivered-To: user@example.com
+Received: from mail-out.microsoft.com (mail-out.microsoft.com [52.100.200.1])
+        by mx.example.com with ESMTP id ABC123DEF45;
+        Fri, 26 Jul 2024 12:34:56 -0400 (EDT)
+From: "Microsoft Support" <support@microsoft.com>
+Reply-To: <security-team@123.45.67.89>
+To: user@example.com
+Subject: Action Required: Verify Your Microsoft Account
+Date: Fri, 26 Jul 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3c1c105d1e3e5c9"
+
+--000000000000b3c1c105d1e3e5c9
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your Microsoft account. To avoid suspension, please verify your credentials immediately by visiting the following link:
+http://198.51.100.24/verify?user=user@example.com
+
+If you do not verify within 24 hours, your account access will be restricted.
+
+For more information, please see our Privacy Policy at https://privacy.microsoft.com or Terms of Use at https://microsoft.com/terms.
+
+Thank you,
+Microsoft Support Team
+
+--000000000000b3c1c105d1e3e5c9
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body style="font-family:Arial,sans-serif; color:#333;">
+    <p><img src="http://198.51.100.24/assets/logo.png" alt="Microsoft Logo" style="width:120px;"></p>
+    <p>Dear User,</p>
+    <p>We have noticed unusual sign-in attempts on your <strong>Microsoft</strong> account. To secure your data, please <a href="http://198.51.100.24/securelogin" style="color:#0078D4;">click here</a> to verify your credentials immediately.</p>
+    <p>If you prefer, you can login via our standard portal: <a href="http://123.45.67.89/phish">https://login.microsoftonline.com</a></p>
+    <p>Need help? Please see <a href="https://microsoft.com/help">Help Center</a> or <a href="https://privacy.microsoft.com">Privacy Policy</a>.</p>
+    <p>For direct support, <a href="http://198.51.100.24/helpdesk">here</a>.</p>
+    <p>Failure to verify within 24 hours will result in suspension of your account.</p>
+    <p>Regards,<br>
+       Microsoft Support Team</p>
+  </body>
+</html>
+
+--000000000000b3c1c105d1e3e5c9--

@@ -1,0 +1,23 @@
+```mbox
+From nobody Wed Oct 25 14:22:01 2023
+Date: Wed, 25 Oct 2023 14:22:01 +0000
+From: "Internal Revenue Services" <refund-notice@irs-refund.gov>
+To: victim@example.com
+Subject: Urgent: Tax Refund Available for Confirmation
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <h2>Important Notice: Tax Refund Pending</h2>
+    <p>Dear taxpayer,</p>
+    <p>We are contacting you to inform you of a pending <strong>tax refund</strong> of <strong>$823.50</strong>.</p>
+    <p>To initiate the refund process, please <a href="http://192.0.2.1/refund" style="color:blue; text-decoration: none;">click <img src="http://www.example.com/images/clickhere.png" alt="here" width="10" height="10" /> to confirm</a> your banking details.</p>
+    <p>Note: This refund requires urgent confirmation to ensure timely processing.</p>
+    <p>If you need help, please review our <a href="http://www.irs-refund.gov/help">help page</a>. You can also visit our <a href="http://www.trusted-contacts.irs-gov.com/privacy-policy">privacy policy</a>.</p>
+    <p>Do not hesitate to reach out for more information.</p>
+    <p>Best regards,</p>
+    <p>The IRS Refund Department</p>
+</body>
+</html>
+```

@@ -1,0 +1,49 @@
+From phishing@mailer.dhl-transit.com Fri Jul 28 14:30:00 2023
+Return-Path: <phishing@mailer.dhl-transit.com>
+Received: from mailer.dhl-transit.com (mailer.dhl-transit.com [198.51.100.25])
+    by mx.domain-mail.com with ESMTP id AZ12YZ34
+    for <user@domain.com>; Fri, 28 Jul 2023 14:30:00 -0500
+Subject: URGENT: Delivery Notification for Your Package
+From: DHL Express <no-reply@dhl-express.com>
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We attempted to deliver your package but encountered an issue with unpaid duties.
+
+Please resolve this by updating your account details:
+http://secure.update.dhl-account-verification.com/login
+
+Thank you for choosing DHL Express.
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Our courier attempted to deliver your shipment but could not complete it due to unpaid duties.
+    To avoid return to sender, please update your <strong>account</strong> information immediately.</p>
+    <p>View shipment details: 
+      <a href="http://tracking.dhl-service.com/track?num=1Z999AA10123456784">https://tracking.dhl.com/1Z999AA10123456784</a>
+    </p>
+    <p>Click the image below to verify delivery:
+      <a href="http://verify.dhl-payments.com/process">
+        <img src="http://cdn.dhl.com/logo.png" alt="DHL Logo" title="urgent delivery notification" border="0"/>
+      </a>
+    </p>
+    <p>
+      <a href="http://help.dhl-support.com" title="password reset"></a>
+      <a href="http://help.dhl-support.com" title="password reset">click here</a> to manage your shipment.
+    </p>
+    <p>If you have any questions, review our <a href="https://www.dhl.com/privacy">Privacy Policy</a> or <a href="http://www.dhl.com/help">Help Center</a>.</p>
+    <p>--<br/>DHL Express Delivery Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

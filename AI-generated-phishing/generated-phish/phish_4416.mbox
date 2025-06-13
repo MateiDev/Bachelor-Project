@@ -1,0 +1,67 @@
+From bounce@dhl-tracking.com Thu Jul 29 14:35:22 2021
+Return-Path: <bounce@dhl-tracking.com>
+Received: from mail.dhl-tracking.com (mail.dhl-tracking.com [198.51.100.23])
+	by mx.google.com with ESMTPS id abc123def; Thu, 29 Jul 2021 14:35:20 +0000
+Date: Thu, 29 Jul 2021 14:35:20 +0000
+From: DHL Delivery <no-reply@dhl-tracking.com>
+Reply-To: DHL Support <support@dhl-service.net>
+Subject: Urgent: Account Verification & Delivery Notification
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL package is currently on hold due to an urgent verification issue with your account. Please verify your delivery information immediately to avoid return to sender.
+
+Track and confirm here:
+http://203.0.113.5/tracking?ref=ABCDEF
+
+For detailed status visit:
+http://track.parcel.update.dhl-service.com/status?ref=ABCDEF
+
+Alternatively, visit our secure portal:
+https://dhl.com/secure
+http://198.51.100.45/secure-login
+
+Thank you for your prompt attention.
+
+Best regards,
+DHL Delivery Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Your package is <em>on hold</em> for <u>delivery verification</u>. You must act <span style="color:darkred;">immediately</span> to prevent your <strong>account</strong> from being locked.</strong></p>
+    <p>Click <a href="http://203.0.113.5/tracking?ref=ABCDEF">here</a> to update your payment details and release your shipment.</p>
+    <p>Detailed status: 
+      <a href="http://203.0.113.5/status?ref=ABCDEF">
+        http://track.parcel.update.dhl-service.com/status?ref=ABCDEF
+      </a>
+    </p>
+    <p>Fast-track via our secure web portal: 
+      <a href="http://198.51.100.45/secure-login">https://dhl.com/secure</a>
+    </p>
+    <p>Or use the image link below:</p>
+    <a href="http://203.0.113.5/tracking?ref=ABCDEF">
+      <img src="http://203.0.113.5/images/dhl-logo.png" alt="DHL Delivery" style="width:200px;"/>
+    </a>
+    <hr/>
+    <p>
+      <a href="https://login.secure-payments.dhl.com/terms">Terms and Conditions</a> | 
+      <a href="https://www.dhl.com/privacy-policy.html">Privacy Policy</a> | 
+      <a href="https://help.dhl.com">Help Center</a>
+    </p>
+    <p>Note: If you do not confirm within 24 hours, your package will be returned.<br/>Thank you for choosing DHL.</p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

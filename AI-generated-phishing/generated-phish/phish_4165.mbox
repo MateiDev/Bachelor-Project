@@ -1,0 +1,41 @@
+From phishing@secure-update.com Sat, 01 Jul 2023 12:34:56 +0200
+Return-Path: <no-reply@secure-update.com>
+From: No-Reply <no-reply@secure-update.com>
+Reply-To: support@paypal-secure.com
+To: victim@domain.com
+Subject: URGENT: Password Verification Required for Your Account – €100 Reward Waiting!
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head><title>urgent account notification</title></head>
+<body>
+<p><strong>Immediate action required!</strong> Your account password must be verified within <span style="color:red;">24 hours</span> <em>or your account will be suspended.</em></p>
+<p>As a valued customer, <u>you're eligible for a €100 voucher</u> to thank you for your loyalty. To claim, please proceed below:</p>
+<p>
+  <a href="http://203.0.113.50/redeem">
+    <img src="http://malicious-domain.com/images/voucher.png" alt="Claim Voucher" />
+  </a>
+</p>
+<p>
+  <a href="http://login.evilenemy.com/login"></a>
+</p>
+<p>
+  Visit our secure site at 
+  <a href="http://192.0.2.123/verify">https://www.mybank.com/verify/account</a>
+  to confirm your details.
+</p>
+<p>
+  For more information, <a href="http://security.verify.account.local-hosting.net/action">click here</a>.
+</p>
+<p>
+  To proceed, <a href="http://modaldomain.com/redirect">here</a>.
+</p>
+<hr />
+<p>
+  <a href="https://www.mybank.com/privacy-policy">privacy-policy</a> |
+  <a href="https://www.mybank.com/help">help</a>
+</p>
+<p><em>Failure to comply may result in account closure.</em></p>
+</body>
+</html>

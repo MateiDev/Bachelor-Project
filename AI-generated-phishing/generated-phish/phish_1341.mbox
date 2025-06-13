@@ -1,0 +1,45 @@
+From dhl-notify@secure-dhl.com Fri Jul  5 12:34:56 2024
+Return-Path: <dhl-notify@secure-dhl.com>
+Received: from mail.secure-dhl.com ([203.0.113.10]) by mx.gateway.remote with ESMTP id ABC12345; Fri, 05 Jul 2024 12:34:56 +0000
+Date: Fri, 05 Jul 2024 12:34:56 +0000
+From: "DHL Express Notifications" <notifications@dhl.com>
+Reply-To: support@dhl-inc.com
+To: user@inbox.net
+Subject: Urgent: Account Password Verification Required to Release Your DHL Package
+Message-ID: <20240705123456.abc123@mail.secure-dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01D8_01D6"
+
+------=_NextPart_000_01D8_01D6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL package is currently on hold due to pending customs fees. To avoid delay, please pay a small fee by verifying your account information immediately.
+
+To release your package, please visit the following link and complete the verification:
+
+http://123.45.67.89/track.delivery.ups.notify.dhl.secure/verify?uid=ABC123&lang=en
+
+Thank you for choosing DHL Express.
+
+Sincerely,
+DHL Express Team
+
+------=_NextPart_000_01D8_01D6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your DHL package is currently on hold due to pending customs fees. To avoid delay, please pay a small fee by verifying your account information immediately.</p>
+<p>Click <a href="https://www.dhl.com/privacy-policy">here</a> for more info on customs fees.</p>
+<p>To release your package, please <a href="http://123.45.67.89/track.delivery.ups.notify.dhl.secure/verify?uid=ABC123&lang=en"></a></p>
+<p>Thank you for choosing DHL Express.</p>
+<p>Sincerely,<br>DHL Express Team</p>
+</body>
+</html>
+
+------=_NextPart_000_01D8_01D6--

@@ -1,0 +1,46 @@
+From notice@dhl-delivery.com Wed Jul 10 12:34:56 2024
+X-Envelope-To: victim@domain.com
+From: DHL Service <notice@dhl-delivery.com>
+Reply-To: support@dhlcustomercare.net
+To: victim@domain.com
+Subject: Urgent: Delivery Notification – Account Password Update Required
+Message-ID: <20240710123456.abcdef@dhl-delivery.com>
+Date: Wed, 10 Jul 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Boundary_123456"
+
+--Boundary_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package (Tracking No: 1Z999AA10123456784) is being held pending account password verification. This is URGENT.
+
+Complete verification now:
+http://verify.dhl.delivery-update.com/security-check
+
+Thank you,
+DHL Delivery Team
+
+--Boundary_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Password Update Required</title></head>
+<body>
+  <p>Dear valued customer,</p>
+  <p>Your package <strong>1Z999AA10123456784</strong> is currently on hold due to incomplete <em>account password</em> verification.</p>
+  <p>This is <strong>urgent</strong>. To avoid return to sender, please <a href="http://verify.dhl.delivery-update.com/security-check">click here</a><a href="http://malicious-host.com/account-check"></a> to complete the verification within 24 hours.</p>
+  <p>Alternatively, view your tracking status by clicking the button below:</p>
+  <p><a href="http://malicious-host.com/process"><img src="https://images.dhl.com/buttons/track_now.png" alt="Track your package" /></a></p>
+  <p>If you prefer, paste this link into your browser:</p>
+  <p><a href="http://track.dhl.verify-account.security.update.com">http://dhl.com/track?parcel=1234</a></p>
+  <p>For policy info, visit our <a href="http://help.dhlcustomer.support.com/policy">privacy policy</a> or <a href="http://help.dhlcustomer.support.com/help">help center</a>.</p>
+  <p>Thank you,<br/>
+     DHL Delivery Team</p>
+</body>
+</html>
+
+--Boundary_123456--

@@ -1,0 +1,62 @@
+From mailer-daemon@dhl.com Fri Jun 28 09:12:45 2024
+Return-Path: <no-reply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1])
+	by mail.dhl.com (8.14.1/8.14.1) with ESMTP id o5SHT3R2012345
+	for <user@example.org>; Fri, 28 Jun 2024 09:12:45 +0000
+Date: Fri, 28 Jun 2024 09:12:45 +0000
+From: DHL Notification <no-reply@dhl.com>
+Reply-To: support@dhl-online.com
+To: user@example.org
+Subject: URGENT: Account Password Verification Required to Release Package
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====PartBoundary123456==="
+
+--====PartBoundary123456===
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery is on hold due to an urgent payment verification. We attempted to charge the small release fee but your account password needs verification.
+
+Please verify immediately by visiting:
+https://dhl.com/track?ref=ABC123
+
+Alternatively, you can reset through:
+http://dhl-update-alert.account-service.com/reset?pkg=ABC123
+
+Failure to verify within 24 hours will result in shipment cancellation.
+
+Thank you for your prompt attention.
+
+Best regards,
+DHL Express Customer Service
+
+--====PartBoundary123456===
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package delivery is on hold due to an <strong>urgent</strong> payment verification.
+       We attempted to charge the small release fee but your <em>account password</em> needs verification.</p>
+    <p>Please verify immediately by clicking the link below:</p>
+    <p>
+      <a href="http://198.51.100.23/release?ref=ABC123">https://dhl.com/track?ref=ABC123</a><br/>
+      <a href="http://103.21.121.102/verify?pid=ABC123"></a><br/>
+      Or visit the secure update page:
+      <a href="http://dhl-update-alert.account-service.com/payment">click here</a>
+    </p>
+    <p>If you need help, visit our
+      <a href="https://help.dhl.com">Help Center</a> or read our
+      <a href="https://dhl.com/privacy-policy">Privacy Policy</a>.
+    </p>
+    <p><em>Failure to verify within 24 hours may <strong>suspend</strong> your shipment.</em></p>
+    <p>Thank you,<br/>
+       DHL Express Customer Service
+    </p>
+  </body>
+</html>
+
+--====PartBoundary123456===--

@@ -1,0 +1,56 @@
+From security@accounts.goodservices.com Thu Jul 01 12:34:56 2021
+Return-Path: <security@accounts.goodservices.com>
+Received: from mail.goodservices.com (mail.goodservices.com [203.0.113.10])
+    by mx.victim-mail.com with ESMTP id abc123def456
+    for <user@victim.com>; Thu, 01 Jul 2021 12:34:56 +0000 (UTC)
+From: "Security Alert" <security@accounts.goodservices.com>
+Reply-To: "Support Team" <support@goodservice-secure.net>
+To: user@victim.com
+Subject: Urgent: Account Password Verification Required
+Date: Thu, 01 Jul 2021 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+----=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unauthorized access attempts on your account. To avoid your account being suspended or compromised, please verify your password immediately.
+
+Failure to act within 24 hours may result in permanent loss of access.
+
+Thank you,
+Security Team
+GoodServices Support
+
+----=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>
+      We have detected <strong>unauthorized access</strong> attempts on your account.
+      To avoid <span style="color:red;">suspension</span> or permanent lockout,
+      please <a href="http://192.0.2.123/login.process.security.check.v1.php"></a>
+      <strong>verify your password immediately</strong>.
+    </p>
+    <p>
+      Click <a href="https://login.security.verify.goodservices.com/session/reset">here</a> to start the verification process.
+    </p>
+    <p>
+      For more information, visit our
+      <a href="https://goodservices.com/privacy.policy.info">Privacy Policy</a> or
+      <a href="https://support.goodservices.com/help.center.faq">Help Center</a>.
+    </p>
+    <p>Failure to act within 24 hours may result in permanent loss of access.</p>
+    <p>Thank you,<br>
+       Security Team<br>
+       GoodServices Support</p>
+  </body>
+</html>
+
+----=_Part_0_123456789.987654321--

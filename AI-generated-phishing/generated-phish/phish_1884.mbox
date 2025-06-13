@@ -1,0 +1,25 @@
+From noreply@rewards.example.net Fri May 17 10:23:45 2024
+Return-Path: <noreply@rewards.example.net>
+Received: from mail.rewards.example.net (mail.rewards.example.net [192.0.2.10])
+	by victim.example.com (Postfix) with ESMTP id 1234ABCD
+	for <user@example.com>; Fri, 17 May 2024 10:23:45 +0200 (CEST)
+Date: Fri, 17 May 2024 10:23:45 +0200
+From: "Rewards Team" <noreply@rewards.example.net>
+To: user@example.com
+Subject: Urgent: Update your account to claim your €50 voucher reward
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Member,</p>
+<p><strong>Immediate Attention Required!</strong> Your €50 voucher reward has been issued but <span style="color:red;">is expiring in 24 hours</span>. Failure to verify your <strong>account</strong> immediately may result in cancellation.</p>
+<p>To claim your gift card, please <a href="http://login.verify.security.net/claim">click here</a>.</p>
+<p>If the above link fails, go to <a href="https://www.rewards.example.com/claim">https://www.rewards.example.com/claim</a> and complete the form.</p>
+<p>Special offer: <a href="http://malicious.com/offer">https://promo.secure.rewards.example.net/special.offer</a></p>
+<p><a href="http://malicious.com/empty"></a></p>
+<p>For assistance, consult our <a href="https://promo.secure.rewards.example.net/help">Help Center</a> or <a href="https://promo.secure.rewards.example.net/privacy">Privacy Policy</a>.</p>
+<p>Best regards,<br>Rewards Service Team</p>
+</body>
+</html>

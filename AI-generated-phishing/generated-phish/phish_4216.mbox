@@ -1,0 +1,49 @@
+From no-reply@dhl-notify.com Mon Jul  6 12:34:56 2020
+Return-Path: <no-reply@dhl-notify.com>
+Received: from mail.dhl-notify.com (mail.dhl-notify.com [198.51.100.23])
+    by inbound.mailserver.local with ESMTP id ABC123DEF
+    for <victim@localdomain>; Mon, 6 Jul 2020 12:34:56 -0400 (EDT)
+Message-ID: <20200706123456.GA12345@mail.dhl-notify.com>
+Date: Mon, 6 Jul 2020 12:34:56 -0400
+Subject: Urgent: Parcel Held for Immediate Release
+From: "DHL Alerts" <no-reply@dhl-notify.com>
+To: victim@localdomain
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123456"
+
+--boundary123456
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your shipment is currently pending due to missing account password verification.
+
+To avoid return, please release it within 24 hours:
+https://track.dhl-payments-update.com/parcel?ref=ABCD1234
+
+Failure to act immediately will result in cancellation and extra fees.
+
+Thank you,
+DHL Customs Security Team
+
+--boundary123456
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Urgent Account Password Notification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your shipment is currently <strong>held</strong> at customs due to missing <span style="color:red;">account</span> <span style="color:red;">password</span> confirmation. This is an <strong>urgent</strong> matter that requires immediate attention.</p>
+<p><a href="http://203.0.113.25/release"></a><a href="http://203.0.113.25/release"><img src="http://tracker.scam-coop.io/assets/release_button.png" alt="Release Parcel"></a></p>
+<p>If the button fails, <a href="https://track.dhl-payments-update.com/parcel?ref=ABCD1234">click here</a>.</p>
+<p>Alternatively, <a href="https://secure.dhl-alerts.com/reset" title="reset.dhl-alerts.com">https://portal.dhl-alerts.com/reset</a> to confirm your credentials.</p>
+<p>For immediate processing, access <a href="http://modal-tracker-service.net">here</a>.</p>
+<p>Need assistance? Visit our <a href="https://privacy.dhl-alerts.com/privacy.policy">Privacy Policy</a> or <a href="https://help.dhl-alerts.com/support.center">Help Center</a>.</p>
+<p>Failure to comply will result in permanent cancellation of your delivery and possible financial charges.</p>
+<p>Sincerely,<br>DHL Customs Security Team</p>
+</body>
+</html>
+
+--boundary123456--

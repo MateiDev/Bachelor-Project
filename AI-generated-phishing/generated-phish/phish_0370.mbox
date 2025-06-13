@@ -1,0 +1,39 @@
+```mbox
+From phishing@example.com Thu Nov 02 13:14:30 2023
+Return-Path: <phishing@example.com>
+Received: from suspicious-server.com (192.0.2.0) by mail.example.com with SMTP;
+        Thu, 02 Nov 2023 13:14:30 +0000
+Message-ID: <000123abcd123@example.com>
+Reply-To: urgent-security-alert@security0.com
+Date: Thu, 02 Nov 2023 13:14:30 +0000
+Subject: Immediate Action Required: Unusual Sign-In Detected!
+From: "Security Team" <phishing@example.com>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <p>Dear Valued User,</p>
+
+    <p style="color:red"><strong>Urgent: Action Required Immediately</strong></p>
+
+    <p>We have detected an <strong>unusual sign-in attempt</strong> on your account. To ensure your account's security, please verify your account by clicking the link below:</p>
+
+    <p><a href="http://157.240.229.174/security-check" style="display:block;">
+        <img src="http://www.example.com/verify.png" alt="Verify Now">
+    </a></p>
+
+    <p>If you do not verify within 24 hours, your account may be <strong>permanently locked</strong>.</p>
+
+    <p>Additionally, please note that your <strong>password expires today</strong> for security reasons. Reset it immediately using the link below:</p>
+
+    <p><a href="http://www.update-password.security.com/reset"><!--empty text--></a></p>
+
+    <p>Thank you for your prompt attention to this critical matter.</p>
+
+    <p>Sincerely,</p>
+    <p>Security Team</p>
+</body>
+</html>
+```

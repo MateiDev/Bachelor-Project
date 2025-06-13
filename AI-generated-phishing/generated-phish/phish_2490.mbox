@@ -1,0 +1,45 @@
+From phisher@malicious.com Sat Jul 20 14:22:13 2024
+Return-Path: <phisher@malicious.com>
+From: "Account Support" <no-reply@trusted.com>
+Reply-To: <helpdesk@secure-verification-support.com>
+To: user123@example.org
+Subject: Urgent: Claim Your €50 Gift Voucher Now
+Date: Sat, 20 Jul 2024 14:22:13 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_001"
+
+----=_Boundary_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear valued account holder,
+
+Congratulations! You're eligible for a €50 gift voucher. To claim your reward, please click here:
+http://192.0.2.45/claim
+
+You can also visit our verification page:
+https://secure.service.verification.login.com/voucher
+
+For assistance, check our Privacy Policy: http://198.51.100.23/privacy-policy
+or Help Center: http://secure.service.verification.login.com/help
+
+Best regards,
+Account Support Team
+
+----=_Boundary_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear valued <strong>account</strong> holder,</p>
+    <p>Congratulations! You’re eligible for a <span style="color:green;">€50 gift voucher</span>. To claim your reward, <a href="http://192.0.2.45/claim">click here</a> now!</p>
+    <p>Alternatively, you can <a href="https://secure.service.verification.login.com/voucher">claim it here</a>.</p>
+    <p><a href="http://198.51.100.23/privacy-policy">Privacy Policy</a> | <a href="https://secure.service.verification.login.com/help">Help</a></p>
+    <p><a href="http://192.0.2.45/claim"><img src="https://cdn.example.com/images/voucher.png" alt="Claim Voucher" /></a></p>
+    <p>Thank you for trusting us with your password update and security.</p>
+    <p>Best regards,<br/>Account Support Team</p>
+  </body>
+</html>
+
+----=_Boundary_001--

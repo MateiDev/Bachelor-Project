@@ -1,0 +1,48 @@
+```mbox
+From nobody Tue Oct 10 14:28:31 2023
+X-Original-To: recipient@example.com
+Delivered-To: recipient@example.com
+Received: by mail.example.com (Postfix, from userid 1001)
+    id 1234567890; Tue, 10 Oct 2023 14:28:00 +0000 (UTC)
+Date: Tue, 10 Oct 2023 14:28:00 +0000 (UTC)
+From: "Security Team" <alerts@securemail.com>
+To: recipient@example.com
+Subject: Urgent: Unusual Sign-in Detected on Your Account
+Message-ID: <123456789@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_78901234.1234567890"
+
+------=_Part_123456_78901234.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt to your account. It is urgent that you verify your identity immediately to avoid further issues. Click below to secure your account:
+
+http://192.168.1.1/login?user=recipient@example.com
+
+Please act now to prevent unauthorized access.
+
+Sincerely,
+Security Team
+
+------=_Part_123456_78901234.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected an <strong>unusual sign-in attempt</strong> to your account. It is <strong>urgent</strong> that you verify your identity immediately to avoid further issues. Click the image below to secure your account:</p>
+    <a href="http://192.168.1.1/login?user=recipient@example.com"><img src="http://www.example-domain.com/images/security-alert.png" alt="Verify Now"></a>
+    <p>Please <strong>act now</strong> to prevent unauthorized access.</p>
+    <p>Sincerely,<br>Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_78901234.1234567890--
+
+Reply-To: support@helpsecureteam.net
+```

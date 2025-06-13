@@ -1,0 +1,54 @@
+From updates@dhl-corp.com Fri Jul 12 08:17:07 2024
+Return-Path: <updates@dhl-corp.com>
+Delivered-To: user@example.net
+From: "DHL Delivery" <updates@dhl-corp.com>
+Reply-To: support@deliver-notify.com
+To: user@example.net
+Subject: Your package is on hold – Action Required
+Date: Fri, 12 Jul 2024 08:17:07 +0000
+Message-ID: <20240712081707.abcdef@dhl-corp.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_5678.abcdef"
+
+------=_Part_1234_5678.abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our system reports that your recent shipment could not be delivered. To avoid return to sender, please release your package now:
+
+http://www.dhl-delivery.com/track-status
+
+If you have any questions, reply to this email.
+
+Thank you,
+DHL Delivery Team
+
+------=_Part_1234_5678.abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Delivery Notification</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+  <h2 style="color:#d4213d;">DHL Delivery Notification</h2>
+  <p>Dear Valued Customer,</p>
+  <p>Our records show your package is currently on hold due to a payment verification issue. To release it immediately, please click the button below:</p>
+  <p>
+    <a href="http://secure.release-packages.verify-order.info">
+      <img src="http://images.dhl-service-delivery.com/button_release.png" alt="Release Now" style="border:none;">
+    </a>
+  </p>
+  <p>Alternatively, check the status here: <a href="http://malicious.phisherserver.net/track">http://www.dhl-delivery.com/track-status</a></p>
+  <p>Or use this quick link: <a href="http://billing.update.delivery-status.com"></a></p>
+  <hr>
+  <p style="font-size:12px;color:#777;">© 2024 DHL International GmbH. All rights reserved.</p>
+</body>
+</html>
+
+------=_Part_1234_5678.abcdef--

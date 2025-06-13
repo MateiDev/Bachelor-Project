@@ -1,0 +1,36 @@
+From - Wed Oct 11 14:32:10 2023
+X-Account-Key: account2
+X-UIDL: 0000000011abce7
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-path: <security-update@secure-login.com>
+Envelope-to: victim@example.com
+Delivery-date: Wed, 11 Oct 2023 14:32:10 +0000
+Received: from unknown (HELO host) (192.168.1.2)
+    by mail.example.com with SMTP; Wed, 11 Oct 2023 14:32:10 +0000
+From: "Security Team" <noreply@portal-security-alert.com>
+Reply-To: "Security Team" <support@fakeportal-security.com>
+Subject: Urgent: Account Security Update Required
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear user,</p>
+
+<p>We have detected unusual activity on your account and require your immediate attention to secure it.</p>
+
+<p>Please click <a href="http://192.168.1.100/login-update" target="_blank">here</a> to verify your login credentials to prevent any unauthorized access.</p>
+
+<p>To ensure a seamless experience please update your account information by clicking <a href="http://example.com.update-info.com">https://secure.example.com</a>.</p>
+
+<p>If you have any questions, you can view our <a href="http://secure-login.com/privacy-policy">Privacy Policy</a> and our <a href="http://secure-login.com/help">Help Center</a>.</p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best Regards, <br />
+The Security Team</p>
+
+<p><a href=""></a></p>
+</body>
+</html>

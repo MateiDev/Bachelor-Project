@@ -1,0 +1,45 @@
+```
+From nobody Sat Oct 21 10:00:00 2023
+Return-Path: <support@secure-mail.com>
+Delivered-To: victim@example.com
+Received: from unknown (HELO secure-mail.com) (192.0.2.1)
+    by mail.example.com with SMTP; Sat, 21 Oct 2023 09:59:59 +0000
+Date: Sat, 21 Oct 2023 09:59:59 +0000
+From: "Secure Portal" <support@secure-mail.com>
+Subject: Urgent: Important Security Alert
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000c7f8c30540724"
+
+--000000000000c7f8c30540724
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity on your portal account. For your security, please review your account activity immediately.
+
+Visit the link below to secure your account:
+[Secure Your Account](http://192.0.2.2/secure-account)
+
+Thank you,
+Secure Portal Support
+
+If you have any questions, feel free to (http://www.secure-mail.com/help).
+
+--000000000000c7f8c30540724
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected unusual activity on your portal account. For your security, please review your account activity immediately.</p>
+    <p>Visit the link below to secure your account:</p>
+    <a href="http://192.0.2.2/secure-account"><img src="http://secure.mail.example.com/logo.png" alt="Secure Your Account"></a>
+    <p>Thank you, <br> Secure Portal Support</p>
+    <p>If you have any questions, feel free to <a href="http://www.secure-mail.com/help"> </a>.</p>
+  </body>
+</html>
+
+--000000000000c7f8c30540724--
+```

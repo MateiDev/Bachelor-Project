@@ -1,0 +1,49 @@
+From no-reply@securemail.examplecorp.com Fri Jun  7 12:34:56 2024
+From: "SecureMail Notification" <no-reply@securemail.examplecorp.com>
+Reply-To: "SecureMail Support" <support@securemail-support.com>
+To: jane.doe@example.com
+Subject: Encrypted SecureMail Message Awaiting Your Review
+Date: Fri, 07 Jun 2024 12:34:56 -0400
+Message-ID: <abc123def456@mail-secure.examplecorp.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.123456789"
+
+----=_Part_0_123456.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Jane Doe,
+
+Your SecureMail account has received an encrypted message. To view it, please click the link below:
+http://203.0.113.45/securemail?messageID=8342
+
+Alternatively, you can visit the portal directly:
+https://securemail.examplecorp.com/login
+
+If you have any issues, click here:
+http://malicious-support.com/help
+
+Thank you,
+SecureMail Support Team
+
+----=_Part_0_123456.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Jane Doe,</p>
+    <p>Your SecureMail account has received an encrypted message. To view it, please </p>
+    <p>
+      <a href="http://203.0.113.45/securemail?messageID=8342">
+        <img src="http://203.0.113.45/images/view_button.png" alt="View Encrypted Message" style="border:0"/>
+      </a>
+    </p>
+    <p>Alternatively, you can visit <a href="http://95.85.123.77/login">https://securemail.examplecorp.com/login</a> directly.</p>
+    <p>If you have any issues, click <a href="http://malicious-support.com/help">here</a>.</p>
+    <p>Review our <a href="http://203.0.113.45/privacy">Privacy Policy</a> and <a href="http://203.0.113.45/terms">Terms of Service</a>.</p>
+    <p>Thank you,<br/>SecureMail Support Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.123456789--

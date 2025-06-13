@@ -1,0 +1,54 @@
+From securemail@yourcompany.com Tue Jun 11 12:34:56 2024
+Return-Path: <securemail@yourcompany.com>
+Received: from mail.yourcompany.com (mail.yourcompany.com [203.0.113.45])
+	by mx.google.com with ESMTP id abc123xyz;
+	Tue, 11 Jun 2024 12:34:56 +0200 (CEST)
+Date: Tue, 11 Jun 2024 12:34:56 +0200
+From: "IT Security Team" <securemail@yourcompany.com>
+To: user@example.com
+Subject: URGENT: Account Password Alert - Immediate Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A"
+
+------=_NextPart_000_001A
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected unusual activity indicating your account password may be compromised.
+To prevent immediate lockout, please verify your account now.
+
+Visit the secure verification portal:
+http://secure-mail.yourcompany.com/verify?token=ABC123XYZ
+
+Failure to act immediately will result in your account being locked within 24 hours.
+
+Regards,
+IT Security Team
+
+------=_NextPart_000_001A
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red; font-weight:bold;">URGENT SECURITY ALERT</p>
+    <p>We have detected unauthorized access attempts on your <b>account</b>.
+    Your <b>password</b> may be compromised. Please <u>verify immediately</u> to avoid critical lockout.</p>
+    <p>Your account will be locked in 24 hours if no action is taken.</p>
+    <p style="margin:20px 0;">
+      <a href="http://192.168.1.100/secure?session=ABC123XYZ">
+        <img src="http://192.168.1.100/images/secure_view.png" alt="View Secure-Mail" style="border:0;"/>
+      </a>
+    </p>
+    <p>Or copy and paste the following URL into your browser:</p>
+    <p><a href="http://192.168.1.100/secure?session=ABC123XYZ">
+         https://secure.mail.yourcompany.co.uk/portal/login</a>
+    </p>
+    <p>Thank you,<br/>IT Security Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001A--

@@ -1,0 +1,38 @@
+```mbox
+From fake-notification@delivery-service.com Thu Oct 12 10:34:27 2023
+Date: Thu, 12 Oct 2023 10:34:27 +0000
+From: "DHL Notification" <fake-notification@delivery-service.com>
+To: user@example.com
+Subject: Urgent: Action Required for Your Held Package
+
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We tried to deliver your package but there is an issue:
+
+Please review: http://delivery-update.help-center-service.com/track
+
+Act urgently to avoid return of package.
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We tried to deliver your package but it is being held due to an incorrect address. To resolve this, please <a href="http://delivery-update.help-center-service.com/track"><img src="https://fake-image.com/tracking.png" alt=""></a> and verify your details.</p>
+<p>Ensure you do this promptly to avoid the return of your package.</p>
+<p>For assistance, visit our <a href="https://dhl.com/help">help page</a> or <a href="https://dhl.com/privacy">privacy policy</a>.</p>
+<p>Best regards,<br>
+DHL Team</p>
+</body>
+</html>
+
+--boundary123--
+```

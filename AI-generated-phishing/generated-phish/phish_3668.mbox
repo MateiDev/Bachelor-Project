@@ -1,0 +1,47 @@
+From tax@irs.gov Sat Jun 01 12:34:56 2024
+Return-Path: <tax@irs.gov>
+From: "Internal Revenue Service" <tax@irs.gov>
+Reply-To: tax-support@secure-update.com
+To: user@example.com
+Subject: Urgent: Tax refund confirmation required for your account
+Date: Sat, 1 Jun 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f3f005b9a8e4e5"
+
+--000000000000b3f3f005b9a8e4e5
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+Our records indicate that you are eligible for a small tax refund. To proceed, we need you to confirm your bank details immediately.
+
+Visit the following link to confirm your information:
+http://192.0.2.5/confirm
+
+Failure to comply within 48 hours may result in a delay or forfeiture of your refund.
+
+Thank you for your prompt attention.
+
+Sincerely,
+Internal Revenue Service
+Refund Department
+
+--000000000000b3f3f005b9a8e4e5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records indicate that you are eligible for a small <strong>tax refund</strong>. To proceed, we need you to confirm your bank details <span style="color:red;">immediately</span>.</p>
+    <p>Click <a href="http://192.0.2.5/confirm"><img src="http://bank.help.very-long-domain.verify.com/logo.png" alt="Confirm Now" /></a> to confirm your information.</p>
+    <p>Review our privacy policy at <a href="http://policy.irs.verify-update.com/privacy">https://www.irs.gov/privacy</a> or click <a href="https://security.policy.example.com/help"></a> for assistance.</p>
+    <p>Or for any questions, click <a href="http://update.irs.verify-policy.com">here</a>.</p>
+    <p style="color:red;">WARNING: Failure to respond will result in delayed processing!</p>
+    <p>Sincerely,<br/>
+    Internal Revenue Service<br/>
+    Refund Department</p>
+  </body>
+</html>
+
+--000000000000b3f3f005b9a8e4e5--

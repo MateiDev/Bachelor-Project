@@ -1,0 +1,49 @@
+From notifications@dhl.com Thu Jul 14 12:34:56 2023
+Return-Path: <notifications@dhl.com>
+Received: from mail.dhl.com (unknown [123.45.67.89]) by mail.mycompany.test with SMTP id AAA123 for <customer@mycompany.test>; Thu, 14 Jul 2023 12:34:56 +0000
+From: DHL Express <notifications@dhl.com>
+Reply-To: support@deliverystatus.com
+To: customer@mycompany.test
+Subject: Urgent Account Notice: Parcel Held - Password Verification Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001A_01D7E4B2"
+
+----=_Part_000_001A_01D7E4B2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package (ID: 123456789) is currently held at our sorting facility due to a verification issue. Please verify your password to avoid return to sender.
+
+Click here to resolve: http://123.45.67.89/tracking
+
+Track via privacy policy: http://123.45.67.89/privacy-policy
+Help Center: http://123.45.67.89/help
+
+Thank you,
+DHL Express Delivery Team
+
+----=_Part_000_001A_01D7E4B2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package (ID: 123456789) is currently <strong>held</strong> at our sorting facility due to a verification issue. Please verify your <em>password</em> to avoid <u>return to sender</u>.</p>
+    <p>
+      <a href="http://123.45.67.89/tracking">
+        <img src="http://123.45.67.89/images/dhl_logo.png" alt="DHL Express Logo" border="0"/>
+      </a>
+    </p>
+    <p>Please <a href="http://123.45.67.89/tracking">click here</a> to verify your account now.</p>
+    <p>For more information, visit our 
+       <a href="http://123.45.67.89/privacy-policy">Privacy Policy</a> or 
+       <a href="http://123.45.67.89/help">Help Center</a>.
+    </p>
+    <p>Thank you,<br/>DHL Express Delivery Team</p>
+  </body>
+</html>
+
+----=_Part_000_001A_01D7E4B2--

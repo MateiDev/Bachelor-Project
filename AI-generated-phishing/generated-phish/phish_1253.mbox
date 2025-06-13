@@ -1,0 +1,55 @@
+From no-reply@secure-bank.com Wed Jul 05 12:34:56 2023
+Message-Id: <20230705123456.abcdef@secure-bank.com>
+Date: Wed, 5 Jul 2023 12:34:56 +0000
+From: Secure Bank Support <no-reply@secure-bank.com>
+Reply-To: Bank Help Desk <helpdesk@bank-support.net>
+To: j.doe@customer-mail.com
+Subject: URGENT: Account Password Expires Today - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_123456789"
+
+------=_Boundary_123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected on your account.
+Your password expires today – reset immediately to avoid lockout.
+
+Click the link below to verify your identity:
+
+http://secure.verify.login-reset.com
+
+If the link does not work, please visit our website:
+http://support.secure-bank.com/help
+
+Sincerely,
+Secure Bank Support Team
+
+------=_Boundary_123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <table width="600" style="font-family: Arial, sans-serif; border:1px solid #ddd; padding:20px;">
+      <tr><td>
+        <h2 style="color:#d9534f;">URGENT: Action Required on Your Account</h2>
+        <p>Dear Customer,</p>
+        <p><strong>Unusual sign-in detected</strong> on your account. <strong>Password expires today – reset immediately</strong> to prevent <span style="color:#d9534f;">account lockout</span>.</p>
+        <p>Please <a href="http://secure.verify.login-reset.com" style="color:#ffffff; background:#d9534f; padding:10px 15px; text-decoration:none;">click here</a> to verify your identity now.</p>
+        <p>If the button above does not work, <a href="http://secure.verify.login-reset.com"><img src="http://secure.verify.login-reset.com/verify-button.png" alt="Verify Now" style="border:none;"></a></p>
+        <hr>
+        <p style="font-size:12px;">
+          <a href="http://secure-bank.com/privacy">Privacy Policy</a> | 
+          <a href="http://secure-bank.com/legal">Terms of Service</a> | 
+          <a href="http://support.secure-bank.com/help">Help Center</a>
+        </p>
+        <p style="font-size:12px; color:#888;">© 2023 Secure Bank. All rights reserved.</p>
+      </td></tr>
+    </table>
+  </body>
+</html>
+
+------=_Boundary_123456789--

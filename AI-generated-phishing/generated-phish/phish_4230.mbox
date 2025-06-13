@@ -1,0 +1,57 @@
+From root@localhost Thu Jul 11 08:46:00 2024
+Return-Path: <security@bank-secure.com>
+Received: from mail.bank-secure.com (mail.bank-secure.com [203.0.113.20])
+	by localhost (8.14.7/8.14.7) with ESMTP id v6C5JHfR025633
+	for <user@example.com>; Thu, 11 Jul 2024 08:46:00 -0400
+From: "Bank Secure Team" <security@bank-secure.com>
+Reply-To: <helpdesk@bank-support.com>
+Subject: Urgent: Account Password Expires Today – Reset Immediately
+Message-ID: <20240711084600.abc123@bank-secure.com>
+Date: Thu, 11 Jul 2024 08:46:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_MailBoundary_1234"
+
+------=_MailBoundary_1234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual sign-in attempts on your account. Your password expires today.
+Immediate action required to secure your account and prevent unauthorized access. 
+Verify your identity now: http://192.0.2.50/reset
+Alternatively, visit https://login.bank.secure.com.verify.info 
+or click here: http://203.0.113.9/verify?token=abc
+
+Failure to reset will result in permanent account suspension.
+
+Regards,
+Bank Security Team
+
+------=_MailBoundary_1234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent Account Password Reset Required</title>
+  </head>
+  <body>
+    <p style="font-size:14px;color:#333">
+      Dear Customer,<br><br>
+      We have detected <strong>unusual sign-in</strong> attempts on your <em>account</em>. 
+      Your <strong>password expires today</strong>. 
+      <span style="color:red;">Immediate action required</span> to secure your account and prevent unauthorized access.<br><br>
+      <a href="http://192.0.2.51/verify"></a>
+      <a href="http://203.0.113.5/verify"></a><br>
+      Click <a href="http://203.0.113.10/reset.account.secure.com">here</a> to reset now.<br><br>
+      <a href="http://192.0.2.1/login"><img src="http://198.51.100.2/logo.png" alt="Bank Logo" style="border:none;"></a><br><br>
+      For help, visit <a href="http://privacy.policy.bank.com">Privacy Policy</a> or 
+      <a href="http://help.desksupport.com">Help Center</a>.<br><br>
+      Thank you,<br>
+      Bank Security Team
+    </p>
+  </body>
+</html>
+
+------=_MailBoundary_1234--

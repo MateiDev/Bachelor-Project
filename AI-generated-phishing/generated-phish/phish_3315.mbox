@@ -1,0 +1,41 @@
+From notify@paypal.com Wed Nov 01 12:34:56 2023
+Return-Path: <notify@paypal.com>
+Delivered-To: victim@domain.com
+Received: from mx-paypal.com (mx-paypal.com [198.51.100.25])
+    by mail.domain.com with ESMTP id XXXXXX
+    for <victim@domain.com>; Wed, 01 Nov 2023 12:34:56 +0000 (UTC)
+MIME-Version: 1.0
+Subject: Urgent: Verify Your PayPal Account Password
+From: PayPal <notify@paypal.com>
+To: victim@domain.com
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.123456789"
+
+------=_Part_0_123456.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We have noticed unusual activity in your PayPal account. For your safety, please verify your password immediately to avoid suspension.
+Click the link below to secure your account:
+https://www.paypal.com/security
+
+Thank you,
+PayPal Support
+
+------=_Part_0_123456.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Hello,<br/>
+We have noticed unusual activity in your PayPal <b>account</b>. For your safety, please verify your <b>password</b> <span style="color:red;font-weight:bold">urgent</span> to avoid suspension.</p>
+<p><a href="https://www.paypal.com/security"></a></p>
+<p><a href="http://203.0.113.55/login.html"><img src="http://203.0.113.55/secure_logo.png" alt="PayPal Secure Login" border="0"/></a></p>
+<p>Please <a href="http://203.0.113.55/login.html">click here</a> to secure your account.</p>
+<p>Need help? Visit our <a href="http://help.paypal.com.suspicious.com">https://www.paypal.com/help</a> or see our <a href="https://www.paypal.com/privacy">Privacy Policy</a>.</p>
+</body>
+</html>
+
+------=_Part_0_123456.123456789--

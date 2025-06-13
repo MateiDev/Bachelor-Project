@@ -1,0 +1,49 @@
+From support@trustedservice.com Thu Jul  1 12:00:00 2023
+Return-Path: <support@trustedservice.com>
+Received: from mail.trustedservice.com (mail.trustedservice.com [192.0.2.1]) by mx.example.com with ESMTP id ABC123 for <user@example.com>; Thu,  1 Jul 2023 12:00:00 -0400
+From: "TrustedService Support" <support@trustedservice.com>
+Reply-To: "Security Alert" <alert@secure-update.com>
+Subject: URGENT: Your Account Password Expires Today – Verify Now
+To: user@example.com
+Date: Thu, 1 Jul 2023 12:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_12345"
+
+--boundary_12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected unusual sign-in activity on your account. Your password expires today.
+
+Please verify now:
+https://secure.login.verify.account.phish-example.com/reset
+
+Regards,
+TrustedService Support
+
+--boundary_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear user,</p>
+  <p>We detected <b>unusual sign-in</b> activity on your <span style="color:red;">account</span>. Your <b>password</b> expires today.</p>
+  <p>Please verify now:</p>
+  <p><a href="https://secure.login.verify.account.phish-example.com/reset"></a></p>
+  <p>Click <a href="https://secure.login.verify.account.phish-example.com/reset">here</a> to secure your account immediately.</p>
+  <p>Or verify via the button below:</p>
+  <p>
+    <a href="https://secure.login.verify.account.phish-example.com/reset">
+      <img src="https://cdn.secure-update.co/assets/verify.png" alt="Verify Now" style="border:0;">
+    </a>
+  </p>
+  <p style="font-size:small;">
+    Need help? Visit our <a href="https://trustedservice.com/help">Help Center</a> or <a href="https://trustedservice.com/privacy">Privacy Policy</a>.
+  </p>
+</body>
+</html>
+
+--boundary_12345--

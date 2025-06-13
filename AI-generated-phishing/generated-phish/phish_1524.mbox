@@ -1,0 +1,52 @@
+From no-reply@bank.example.com Thu May 23 17:03:45 2024
+Return-Path: <no-reply@bank.example.com>
+From: "YourBank Service" <no-reply@bank.example.com>
+To: victim@example.com
+Subject: Urgent: Account Voucher Claim – Password Verification
+Date: Thu, 23 May 2024 17:03:45 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your account and urgent password verification is required to secure your profile.
+
+As a token of appreciation, you're eligible for a €50 voucher. Claim now by visiting the link below:
+
+https://secure.reward.yourbank.example.com/claim
+or
+https://help.policy.yourbank.com/reset
+
+Failure to verify your password immediately may result in losing access and voucher eligibility.
+
+Best regards,
+YourBank Security Team
+Privacy Policy: https://help.policy.yourbank.com/privacy
+Contact Support: https://support.yourbank.com
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Urgent: Account Voucher Claim – Password Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Immediate Action Required!</strong> We detected unusual activity on your <a href="https://secure.account-security.yourbank.com/login">account</a> and your <a href="https://verification-security.yourbank.bank-login.com/reset">password</a> needs urgent verification to secure your profile.</p>
+<p>As a valued customer, you’re eligible for a <strong>€50 voucher</strong>. Claim it <a href="http://offers.yourbank.rewards.claim.voucher.com/weirdpath">here</a> before it expires!</p>
+<p>Alternatively, follow <a href=""></a> this link.</p>
+<p>If you fail to complete verification within 24 hours, you risk losing access and voucher eligibility.</p>
+<p>For more information, see our 
+ <a href="https://help.policy.yourbank.com/privacy.html">Privacy Policy</a> or 
+ <a href="https://support.yourbank.com/contact-us">Help Center</a>.</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

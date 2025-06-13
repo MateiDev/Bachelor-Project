@@ -1,0 +1,28 @@
+From - Mon Oct 09 14:21:01 2023
+X-Account-Key: account2
+X-UIDL: 0001-16277E24
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                  
+Return-Path: <security-alert@mailservice.com>
+Received: from mailservice.com ([123.45.67.89])
+    by mailreceiver.com with ESMTP id abc12345def
+    for <user@example.com>; Mon, 09 Oct 2023 14:20:59 -0700
+Message-ID: <0001-16277E24@mailservice.com>
+Reply-To: secure-login@mailservice-help.com
+From: "Mail Service" <security-alert@mailservice.com>
+Subject: Urgent: Immediate Action Required to Prevent Account Suspension
+Date: Mon, 09 Oct 2023 14:20:59 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+    <p>Dear user,</p>
+    <p>We have noticed some <strong>suspicious activity</strong> on your account, and it is at risk of being suspended immediately. It is <strong>urgent</strong> that you verify your identity to avoid any interruptions in service.</p>
+    <p>To secure your account, <a href="http://192.0.2.1/login.php">click here</a> to sign in. This will allow us to verify your account information. Failure to do so may result in the <strong>permanent suspension</strong> of your account.</p>
+    <p>For more information, please visit our <a href="https://mailservice.com/privacy-policy">Privacy Policy</a> and <a href="https://mailservice.com/help">Help</a>.</p>
+    <p>Thank you for your cooperation,</p>
+    <p>Mail Service Security Team</p>
+</body>
+</html>

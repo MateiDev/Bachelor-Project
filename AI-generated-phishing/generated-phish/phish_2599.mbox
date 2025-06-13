@@ -1,0 +1,57 @@
+```mbox
+From phishing@example.org Thu Oct 5 14:28:33 2023
+Return-Path: <phishing@example.org>
+Received: from 192.0.2.0 (192.0.2.0 [192.0.2.0])
+    by mail.example.com (Postfix) with ESMTP id 1234567890
+    for <user@example.com>; Thu,  5 Oct 2023 14:28:33 +0000 (UTC)
+Date: Thu, 5 Oct 2023 14:28:33 +0000
+From: service@secure-mail.com
+Reply-To: noreply@secure-mail.com
+To: user@example.com
+Subject: Update Your Information to Avoid Account Suspension
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="boundary123456"
+
+--boundary123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity on your account. To ensure your account security, please update your information by clicking the link below:
+
+http://192.0.2.1/~update_credentials
+
+Failing to update your information will lead to account suspension.
+
+Thank you,
+Secure Mail Team
+
+--boundary123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear user,</p>
+<p>We have detected unusual activity on your account. To ensure your account security, please update your information by clicking the link below:</p>
+
+<p><a href="http://192.0.2.1/~update_credentials">http://secure-login.com/account</a></p>
+
+<p><img src="http://192.0.2.3/images/security.png" alt="Security Alert" /></p>
+
+<p><a href="http://secure-mail.com/privacypolicy">Privacy Policy</a> | <a href="http://secure-mail.com/help">Help</a></p>
+
+<p><a href="http://192.0.2.1/~update"> </a></p>
+
+<p><a href="http://192.0.2.1/~credentials_link">click here</a></p>
+
+<p>Failing to update your information will lead to account suspension.</p>
+
+<p>Thank you,<br>
+Secure Mail Team</p>
+</body>
+</html>
+--boundary123456--
+```

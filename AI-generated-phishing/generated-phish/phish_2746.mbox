@@ -1,0 +1,36 @@
+```
+From - Thu Sep 21 10:20:10 2023
+X-Account-Key: account1
+X-UIDL: 0001-abc123
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <noreply@taxrefund.com>
+Received: from mail.fakebank.com (mail.fakebank.com [192.168.1.100])
+	by mailclient.com (Postfix) with ESMTP id A1B2C3D4E5;
+	Thu, 21 Sep 2023 10:18:45 +0000 (UTC)
+Reply-To: refund-claim@fakeservice.com
+From: "Tax Refund Department" <noreply@taxrefund.com>
+Subject: Urgent: Action Required to Claim Your Tax Refund!
+Date: Thu, 21 Sep 2023 10:18:45 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+
+<p>Dear Customer,</p>
+
+<p>We are pleased to inform you that you are eligible for a tax refund of <strong>$152.30</strong> USD. Please <strong>act immediately</strong> to confirm your bank details and process your refund, as failure to do so within 24 hours will result in the <strong>cancellation</strong> of this refund request.</p>
+
+<p>To confirm your details and proceed, <a href="http://secure.tax-refund.com//confirm?user=12345">click here</a>.</p>
+
+<p>For more information, visit our <a href="http://www.legitgovsite.org/privacy-policy">Privacy Policy</a> and <a href="http://www.legitgovsite.org/help">Help</a> pages.</p>
+
+<p><img src="http://secure.tax-refund.com//logo.png" alt=" "></p>
+
+<p>Best Regards,<br>
+Tax Refund Department</p>
+
+</body>
+</html>
+```

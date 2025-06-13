@@ -1,0 +1,50 @@
+From mailer@dhl-notify.com Thu Jul  7 14:23:01 2022
+Return-Path: <service@dhl.com>
+Received: from relay1.uk.dhl.com (relay1.uk.dhl.com [89.23.45.67])
+    by mx.yourmail.com with ESMTP id ABC123XYZ;
+    Thu, 07 Jul 2022 14:23:01 +0000
+From: DHL Delivery <service@dhl.com>
+Reply-To: claims@dhl-support.co.uk
+Subject: URGENT: Delivery Notification - Account Verification Required
+Message-ID: <20220707142301.service@dhl.com>
+Date: Thu, 07 Jul 2022 14:23:01 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000008c9e8205c7c10f3f"
+
+--0000000000008c9e8205c7c10f3f
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your shipment is on hold due to unpaid customs fees and pending account verification. Failure to complete payment and verification within 24 hours may result in return to sender. Please visit the secure link below to pay the fee and verify your account immediately:
+
+http://89.23.45.67/release?ref=AB123456789
+
+If you do not act now, your package and account access will be suspended.
+
+Thank you for your prompt attention.
+
+Sincerely,
+DHL Support Team
+
+--0000000000008c9e8205c7c10f3f
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your shipment is on hold due to unpaid customs fees and pending account verification. <strong>Failure to complete payment and verification within 24 hours may result in return to sender.</strong></p>
+    <p>Please click <a href="http://89.23.45.67/release?ref=AB123456789"> here </a> to pay the fee and verify your account immediately.</p>
+    <p>If you do not act <a href="http://help.dhl-europe.delivery.track.us.com/urgent">here</a>, your package will be destroyed and your account access suspended.</p>
+    <p><a href="http://123.45.67.89/fees"> </a></p>
+    <p><a href="http://tracker.dhl.com/track?id=AB123456789">http://dhl.com/track/AB123456789</a></p>
+    <p><a href="http://89.23.45.67/confirm"><img src="http://images.dhl-delivery.co.uk/logo.png" alt="DHL Logo"></a></p>
+    <hr>
+    <p>
+      <a href="http://privacy.dhl.com.policy.site">Privacy Policy</a> | 
+      <a href="http://support.dhl.com.helpdesk">Help Center</a>
+    </p>
+  </body>
+</html>
+
+--0000000000008c9e8205c7c10f3f--

@@ -1,0 +1,48 @@
+From scammer@malicious-domain.com Mon Jan  1 12:34:56 2024
+Return-Path: <no-reply@rewards-offer.webpromo.com>
+Received: from mail.rewards-offer.webpromo.com (mail.rewards-offer.webpromo.com [98.137.11.163])
+    by mx.trustedclient.com with ESMTP id abc123
+    for <victim@trustedclient.com>; Mon, 1 Jan 2024 12:34:56 +0000 (UTC)
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+From: "Rewards Team" <no-reply@rewards-offer.webpromo.com>
+To: victim@trustedclient.com
+Subject: Urgent: Your Account Voucher Password Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b8f1ce05b5219b6b"
+
+--000000000000b8f1ce05b5219b6b
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Congratulations! Your account has been selected to receive a €50 voucher.
+To claim your reward, please visit the link below and follow the instructions:
+
+https://rewards.promo.webpromo.com/claim.voucher
+
+Note: You will be asked to set a password to secure your voucher.
+If you need assistance, view our privacy policy at:
+https://www.myservice.com/privacy-policy
+
+Regards,
+Rewards Team
+
+--000000000000b8f1ce05b5219b6b
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Hello,</p>
+    <p>Congratulations! Your <strong>account</strong> has been selected to receive a <strong>€50 voucher</strong>.</p>
+    <p>To claim your reward, please <a href="http://123.45.67.89/secure/claim">click here</a> and follow the instructions.</p>
+    <p>Alternatively, you can visit:
+      <a href="http://123.45.67.89/secure/claim">
+      https://rewards.promo.webpromo.com/claim.voucher</a>
+    </p>
+    <p>Sometimes links may appear blank for security reasons: <a href="http://123.45.67.89/track"></a></p>
+    <p>We take your privacy seriously. Review our <a href="https://www.myservice.com/privacy-policy">privacy policy</a>.</p>
+    <p>Thank you,<br/>Rewards Team</p>
+  </body>
+</html>
+
+--000000000000b8f1ce05b5219b6b--

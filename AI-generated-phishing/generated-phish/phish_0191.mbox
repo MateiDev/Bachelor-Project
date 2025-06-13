@@ -1,0 +1,48 @@
+From - Fri Oct 13 14:45:00 2023
+X-Google-Sender-Auth: 9bRskE5G1iXksGioFsW4X1NPnto
+X-Received: by 2002:a05:6102:23d:: with SMTP id a29mr12473172lmv.227.1570525106324;
+        Fri, 13 Oct 2023 14:45:52 -0700 (PDT)
+Return-Path: <someone@example.com>
+Received: from mail.example.com (mail.example.com. [10.20.30.40])
+        by mx.google.com with ESMTPS id j184si6921931lfb.192.2019.10.13.14.45.51
+        for <recipient@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 13 Oct 2023 14:45:52 -0700 (PDT)
+Received-SPF: pass (google.com: domain of someone@example.com designates 10.20.30.40 as permitted sender) client-ip=10.20.30.40;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@example.com header.s=mail header.b=PhsGzGpK;
+       spf=pass (google.com: domain of someone@example.com designates 10.20.30.40 as permitted sender) smtp.mailfrom=someone@example.com
+Received: by mail.example.com 10.20.30.40 with SMTP id q12csp2906293;
+        Fri, 13 Oct 2023 14:45:51 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.20.30.40 with HTTP; Fri, 13 Oct 2023 14:45:51 -0700 (PDT)
+From: Reward Center <reward@example.com>
+Date: Fri, 13 Oct 2023 14:45:51 -0700
+Message-ID: <CAFk5MxR3-ujGyxxXOxn5hGcObG396WRW421gEZ0mtPXLhF08ZA@mail.example.com>
+Subject: Important: Claim Your €500 Reward Voucher Now!
+To: <recipient@gmail.com>
+Content-Type: multipart/alternative; boundary=001a114eda2f8ee0f5054ed7b85b
+
+--001a114eda2f8ee0f5054ed7b85b
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Act fast! You are eligible for an exclusive €500 voucher for your recent purchases. This is a limited-time offer valid until today at midnight!
+
+Claim now: [www.claimyourvoucher-now.com](http://notarealwebsite.com)
+
+Do not miss out on this opportunity!
+
+--001a114eda2f8ee0f5054ed7b85b
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">
+  <p>Dear Customer,</p>
+  <p><strong>Act fast!</strong> You are eligible for an exclusive <strong>€500 voucher</strong> for your recent purchases. This is a limited-time offer valid until <strong>today at midnight</strong>!</p>
+  <p><a href="http://secure.claimnow-fast.com"><img src="http://images.secure-offers.com/claim_voucher.png" alt="Claim Voucher Here" /></a></p>
+  <p>Claim now: <a href="http://notarealwebsite.com"><strong>www.claimyourvoucher-now.com</strong></a></p>
+  <p><em>Do not miss out on this opportunity!</em></p>
+</div>
+
+--001a114eda2f8ee0f5054ed7b85b--

@@ -1,0 +1,53 @@
+From notification@dhl.com Fri Jun 14 14:32:05 2024
+From: DHL Delivery <notification@dhl.com>
+Reply-To: support@dhl-security.com
+To: user@domain.com
+Subject: Urgent: Account Password Locked - Parcel Delivery Alert
+Date: Fri, 14 Jun 2024 14:32:05 +0200
+Message-ID: <20240614143205.123456@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7890123456"
+
+----=_Part_123456_7890123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL account password has been locked due to multiple failed login attempts. A package is being held at customs and requires immediate payment of a release fee. Failure to act within 24 hours will result in your parcel being returned to sender.
+
+To release your delivery, please visit the following link:
+https://tracking.dhl.com/ABC123
+
+If you experience any issues, go to the DHL support page:
+http://support.dhl-security.com
+
+Thank you for your urgent attention.
+
+DHL Customer Service
+
+----=_Part_123456_7890123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your DHL <strong>account</strong> <strong>password</strong> has been <em>locked</em> due to suspicious activity. A <span style="color:red;">critical</span> package is being held at customs and requires an <strong>urgent</strong> release fee payment. Failure to comply within 24 hours will result in immediate return of your shipment.</p>
+    <p>Please click the secure link below to authenticate and pay the fee:</p>
+    <p><a href="http://release-bill.com/fee">https://tracking.dhl.com/ABC123</a></p>
+    <p>If the above link does not work, copy and paste this into your browser:</p>
+    <p>http://billing-pay.com/dhl-action</p>
+    <p align="center">
+      <a href="http://malicious-download.net/install">
+        <img src="http://fake-dhl.com/logo.png" alt="DHL Logo" />
+      </a>
+    </p>
+    <p>For any assistance, contact our support team:</p>
+    <p><a href="http://free-delivery.com/claim"></a></p>
+    <p>Regards,<br/>
+    DHL Security Team</p>
+  </body>
+</html>
+
+----=_Part_123456_7890123456--

@@ -1,0 +1,44 @@
+From support@bankupdates.com Mon Feb 14 10:15:30 2022
+Subject: Urgent Account Notice: Password Expires Today
+From: "Bank Updates" <support@bankupdates.com>
+To: user@mydomain.com
+Date: Mon, 14 Feb 2022 10:15:30 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_6789012.1644836130000"
+
+------=_Part_12345_6789012.1644836130000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected—verify now. Your password expires today. To ensure continuous access, please verify your account immediately by visiting the links below:
+- https://secure.login.bankonline.com/reset
+- https://account.update.bankonline.com/verify
+
+Thank you for your prompt attention.
+
+Bank Security Team
+
+------=_Part_12345_6789012.1644836130000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p><strong>Unusual sign-in detected—verify now.</strong> Your password expires today. <span style="color:red;">Immediate action required to avoid service interruption.</span></p>
+    <p>Please verify your account by clicking the links below:</p>
+    <ul>
+      <li><a href="http://account.verify-update.com/login">https://secure.mybank.com/login</a></li>
+      <li><a href="https://login.update.bankonline.mysecuremail.com/reset-password">Reset Password</a></li>
+      <li><a href="http://hidden.verify.phish-domain.net/unusual"></a></li>
+    </ul>
+    <p>If the links don’t work, copy and paste the URL into your browser.</p>
+    <a href="http://image.phish-hosting.net/verify"><img src="http://cdn.phish-host.com/buttons/verify_now.png" alt="Verify Now"></a>
+    <p>Thank you for your prompt attention.</p>
+    <p>Bank Security Team</p>
+  </body>
+</html>
+
+------=_Part_12345_6789012.1644836130000--

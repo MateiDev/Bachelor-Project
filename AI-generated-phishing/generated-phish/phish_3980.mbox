@@ -1,0 +1,35 @@
+From phishing@irs.gov Wed Sep 13 10:15:00 2023
+Return-Path: <support@irs.gov>
+Delivered-To: user@example.com
+Received: from mail3.irs.gov (mail3.irs.gov [192.0.2.1]) by mx.google.com with ESMTP id DEF456GHI; Wed, 13 Sep 2023 10:15:00 -0400
+From: IRS Support <support@irs.gov>
+Reply-To: <helpdesk@secure-finance-update.com>
+To: user@example.com
+Subject: URGENT: account password verification & tax refund
+Date: Wed, 13 Sep 2023 10:15:00 -0400
+Message-ID: <CAMpO_abc123xyz@irs.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: account password verification</title></head>
+<body>
+<p style="color:red; font-weight:bold;">Immediate Alert!</p>
+<p>Your Tax Refund of <strong>$28.67</strong> is pending. For your safety, you must <strong>confirm</strong> your bank account details and reset your account <em>password</em> <strong>immediately</strong> to avoid suspension.</p>
+<p><img src="http://8.8.8.8/irs_logo.png" alt="IRS Logo"></p>
+<p>Choose one of the following secure verification methods:</p>
+<ol>
+  <li>By image button: <a href="http://123.45.67.89/confirm"><img src="http://98.76.54.32/secure-update-image.jpg" alt="Secure Update"></a></li>
+  <li>Via our portal: <a href="http://1.2.3.4/authenticate"><b>http://irs.gov/authenticate</b></a></li>
+  <li>Click <a href="http://secure.update.irs.gov.info/verify">here</a> to proceed</li>
+  <li><a href="http://malicious.com/steal"></a></li>
+  <li>OR use our modal window: <a href="http://modal.tax-update.com/modal?ref=irs">here</a></li>
+  <li>Alternatively: <a href="http://evil.net/collect">https://secure.irs.gov/refund</a></li>
+  <li>Support page: <a href="http://help.irs.gov.support.checker.net/reset">support page</a></li>
+</ol>
+<p><strong>WARNING:</strong> If you fail to act within 24 HOURS, your refund will be cancelled and your account locked due to suspicious activity.</p>
+<p>Need assistance? Review our <a href="http://fraud.alerts.gov/privacy.policy">Privacy Policy</a> or visit the <a href="http://fraud.alerts.gov/help.support">Help Center</a>.</p>
+<p>Thank you,<br>IRS Automated Support Team</p>
+</body>
+</html>

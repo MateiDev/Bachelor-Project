@@ -1,0 +1,22 @@
+From no-reply@irs.gov Tue Mar 14 10:15:30 2023
+Subject: Urgent: Confirm Your Account Password for Refund
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: support@secure-banking-auth.com
+Date: Tue, 14 Mar 2023 10:15:30 -0400
+Message-ID: <20230314101530.12345@irs.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records show that you qualify for a small refund of $65. For security, please confirm your bank details and verify your account password by clicking <a href="http://phish-bank-secure.net/confirm">here</a> to avoid any delay in processing your refund.</p>
+    <p>If the link above does not work, please visit <a href="http://phish-bank-secure.net/verify">https://security-update-irs.gov/process</a>.</p>
+    <p>Or directly confirm your refund by using this IP link: <a href="http://192.0.2.123/refund">http://192.0.2.123/refund</a></p>
+    <p><a href="http://phish-bank-secure.net/confirm"><img src="http://198.51.100.23/images/confirm_refund.png" alt="Click to Confirm Refund" /></a></p>
+    <p>If you have any questions, review our <a href="https://privacy-policy.global">Privacy Policy</a> or visit our <a href="https://helpdesk.global">Help Center</a>.</p>
+    <p>Thank you,<br />
+       IRS Tax Refund Department</p>
+  </body>
+</html>

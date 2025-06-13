@@ -1,0 +1,52 @@
+From MAILER-DAEMON Thu Aug 10 16:30:00 2023
+Return-Path: <notifications@dhl.com>
+Received: from smtp.dhl.com (smtp.dhl.com [192.0.2.10])
+    by mail.example.com (Postfix) with ESMTP id 3F5AB2CDEF
+    for <user@example.com>; Thu, 10 Aug 2023 16:30:00 +0000 (UTC)
+Message-ID: <202308101630.notifications@dhl.com>
+Date: Thu, 10 Aug 2023 16:30:00 +0000
+From: "DHL Delivery Notification" <notifications@dhl.com>
+Reply-To: <support@dhl-secureupdate.com>
+To: user@example.com
+Subject: Urgent: DHL Delivery Notification - Account Verification Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789012345"
+
+------=_Part_0_123456.789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent shipment (Tracking Number: DHL123456789012) is pending release due to a problem with your account. This is the FINAL NOTICE. Failure to verify your information within 24 hours will result in return of your parcel and additional fees.
+
+To avoid delays, please verify your account immediately by clicking the link below:
+
+[Verify Your Account Now]
+
+If the link above does not work, copy and paste the following into your browser:
+http://203.0.113.45/release?track=DHL123456789012
+
+For more details, see our privacy policy at https://www.dhl.com/privacy.html.
+
+Thank you,
+DHL Customer Service
+
+------=_Part_0_123456.789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package (Tracking Number: <strong>DHL123456789012</strong>) is currently on hold due to incomplete account verification.</p>
+    <p style="color:red;font-weight:bold;">!!! Urgent Action Required !!!</p>
+    <p>Please verify your <a href="http://malicious.tracker.net/auth">http://dhl-secure.com/login</a> now to release your shipment. Failure to comply within <strong>24 hours</strong> will result in additional storage fees and return of your parcel.</p>
+    <p>Alternatively, <a href="http://203.0.113.45/release?track=DHL123456789012">click here</a> to complete the process immediately.</p>
+    <p>Review our <a href="https://www.dhl.com/privacy.html">privacy policy</a> or contact us if you have questions.</p>
+    <p><a href="http://198.51.100.23/parcel-update"></a></p>
+    <p>Thank you,<br/>DHL Customer Service</p>
+  </body>
+</html>
+
+------=_Part_0_123456.789012345--

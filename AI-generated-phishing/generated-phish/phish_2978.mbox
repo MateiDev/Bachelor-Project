@@ -1,0 +1,60 @@
+```mbox
+From fake@supportaccount.com Tue Oct 24 14:32:28 2023
+Return-Path: <fake@supportaccount.com>
+Received: from fake.mailserver.com (fake.mailserver.com. [192.0.2.1])
+        by mx.google.com with ESMTP id abc123xyz456
+        for <user@example.com>;
+        Tue, 24 Oct 2023 14:32:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of fake@supportaccount.com designates 192.0.2.1 as permitted sender) client-ip=192.0.2.1;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of fake@supportaccount.com designates 192.0.2.1 as permitted sender) smtp.mailfrom=fake@supportaccount.com
+Message-ID: <123456789.fakemessageid@fake.mailserver.com>
+Date: Tue, 24 Oct 2023 21:32:28 +0000
+From: "Support Team" <fake@supportaccount.com>
+X-Reply-To: changeto@secure.alertaccounts.com
+To: user@example.com
+Subject: Urgent | Account Action Required: Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1234_567891011.9999999999"
+
+------=_Part_1234_567891011.9999999999
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+We've detected an unusual sign-in attempt to your account from an unrecognized device. To secure your account, please verify your information immediately. 
+
+Visit: http://192.0.2.10/security-check
+
+Your password will expire today. Reset it to ensure continuous access.
+
+Reset Password at: 
+http://192.0.2.20/reset-password today.
+
+Thank you,
+Support Team
+------=_Part_1234_567891011.9999999999
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We've detected an <strong>unusual sign-in</strong> attempt to your acc=
+ount from an unrecognized device. To secure your account, please verify you=
+r information immediately.</p>
+    <p><a href=3D"http://192.0.2.10/security-check"></a></p>
+    <p>Your password will expire today. Reset it to ensure continuous acces=
+s.</p>
+    <p><img src=3D"http://192.0.2.30/reset-image.jpg" alt=3D"Reset Password=
+"><a href=3D"http://192.0.2.20/reset-password"></a></p>
+    <p><a href=3D"http://secure-support.com/help">privacy policy</a> | <a h=
+ref=3D"http://secure-support.com/contact">contact us</a></p>
+    <p>Thank you,</p>
+    <p>Support Team</p>
+  </body>
+</html>
+------=_Part_1234_567891011.9999999999--
+```

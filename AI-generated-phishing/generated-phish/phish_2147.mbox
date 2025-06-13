@@ -1,0 +1,55 @@
+From support@securemail.com Thu Jul 25 14:22:00 2024
+Message-ID: <20240725182200.abc123@securemail.com>
+Date: Thu, 25 Jul 2024 14:22:00 -0400
+From: SecureMail Support <support@securemail.com>
+Reply-To: notifications@helpdesk.com
+To: user@example.org
+Subject: Urgent: Account Password Expires Today – Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in to your account and your password expires today.
+To secure your account, please verify your identity and reset your password immediately by clicking the link below:
+
+Reset your Password: https://secure.example.com/reset-password.html
+
+If you do not update your password within 24 hours, your account will be suspended.
+
+Privacy Policy: https://www.example.com/privacy
+
+Thank you,
+SecureMail Support Team
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;"><strong>Unusual sign-in detected—verify now!</strong><br>
+       Your <em>account</em> <strong>password</strong> <span style="color:blue;">expires today</span>. You must reset it immediately to avoid suspension.</p>
+    <p>
+      <a href="http://192.0.2.123/reset?token=abc123">
+        <img src="http://192.0.2.123/images/verify.png" alt="Verify Now" border="0"/>
+      </a>
+    </p>
+    <p>Or use the link:
+      <a href="http://192.0.2.123/reset?token=abc123">https://secure.example.com/reset-password.html</a>
+    </p>
+    <p>Need help? <a href="http://192.0.2.123/help">click here</a></p>
+    <p>
+      <a href="https://www.example.com/privacy">Privacy Policy</a> |
+      <a href="https://www.example.com/help">Help Center</a>
+    </p>
+    <p>Thank you,<br/>SecureMail Support Team</p>
+  </body>
+</html>
+
+--BOUNDARY--

@@ -1,0 +1,49 @@
+```
+From - Wed Oct 18 14:05:35 2023
+X-Account-Key: account1
+X-UIDL: 0001
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+Return-Path: <refund@taxservices.com>
+Received: from suspiciousdomain.com (suspiciousdomain.com [192.0.2.1])
+	by mail.example.com (Postfix) with ESMTP id 123456789
+	for <user@example.com>; Wed, 18 Oct 2023 14:00:00 +0000 (UTC)
+Date: Wed, 18 Oct 2023 14:00:00 +0000 (UTC)
+From: "Tax Refund Center" <refund@taxservices.com>
+Reply-To: <noreply@fraudulentrefunds.com>
+Subject: Urgent: Action Required For Your Pending Tax Refund!
+To: <user@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_000_12345_67890.abcdefghijk"
+
+------=_Part_000_12345_67890.abcdefghijk
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You are eligible for a tax refund. We've initiated a transfer of $500 to your registered account. Please confirm your details to proceed.
+
+Claim your refund now: http://secure.confirm-details.com/refunds
+
+Thank you,
+Tax Refund Center
+
+------=_Part_000_12345_67890.abcdefghijk
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear Customer,</p>
+<p>Congratulations! You are eligible for a tax refund. We've initiated a transfer of <strong>$500</strong> to your registered account. Please confirm your details to proceed.</p>
+<p>Claim your refund now: <a href="http://secure.details-update.com/refunds"> </a> <a href="http://www.tax-update.com/confirm.details"> </a></p>
+<p>Thank you,</p>
+<p>Tax Refund Center</p>
+</body>
+</html>
+
+------=_Part_000_12345_67890.abcdefghijk--
+```

@@ -1,0 +1,50 @@
+From support@secure-service.com Thu Sep 14 12:00:00 2023
+Return-Path: <support@secure-service.com>
+Received: from mail.secure-service.com (mail.secure-service.com [198.51.100.25])
+    by mx.yourdomain.com with ESMTP id ABC123DEF
+    for <user@yourdomain.com>; Thu, 14 Sep 2023 12:00:00 +0000 (UTC)
+From: "Secure Service" <support@secure-service.com>
+Reply-To: phish@malicious-domain.com
+Subject: URGENT: Verify Your Account Password Immediately to Claim €100 Gift Voucher
+Date: Thu, 14 Sep 2023 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+------=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+This is an urgent notification! You have been selected to receive a €100 gift voucher as a token of our appreciation. However, failure to verify your account password within 24 hours will cause your voucher to expire immediately.
+
+To claim your reward, please complete the verification process now:
+http://203.0.113.42/verify
+
+If you do not act immediately, your eligibility will be revoked. We urge you not to delay.
+
+Best regards,
+Secure Service Support Team
+
+Privacy Policy: http://help.microsoft.com/?linkid=521839
+
+------=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;"><strong>Attention!</strong> This is an <em>urgent</em> notification! You are eligible for a <strong>€100 gift voucher</strong>.</p>
+    <p>To prevent your voucher from expiring, you must verify your account password immediately. Failure to act within 24 hours will result in permanent cancellation.</p>
+    <p>
+      <a href="http://203.0.113.42/verify">click here</a> to verify now.<br>
+      Or follow this link: <a href="http://reward.claims.europe.giveaway.com/voucher">here</a>.
+    </p>
+    <p>If you have any questions, review our <a href="http://help.microsoft.com/?linkid=521839">Privacy Policy</a> or the <a href="http://support.secure-service.com.official.info/help">Help Center</a>.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>Secure Service Support Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_0000--

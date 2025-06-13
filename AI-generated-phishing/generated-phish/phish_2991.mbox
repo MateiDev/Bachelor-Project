@@ -1,0 +1,45 @@
+```mbox
+From phishing@rewards.com Sat Oct 14 14:28:00 2023
+To: user@example.com
+Subject: Urgent: Claim Your €500 Voucher Now!
+Date: Sat, 14 Oct 2023 14:28:00 +0000
+Message-ID: <0062@fake-inbox.server>
+Reply-To: urgent-offers@redeem-vouchers.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_Part_87996_1456534954.1700256487000"
+
+------=_Part_87996_1456534954.1700256487000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Congratulations! You are eligible to receive a €500 voucher for your next purchase. This reward offer is exclusive and time-sensitive, so act now to enjoy your benefits.
+
+Click the link below immediately to claim your prize:
+[Claim Your Voucher](http://secure-rewards.com.claim-your-gift-card-now.com/redeem)
+
+Don’t miss out on this limited time offer. Your urgent response is required to prevent loss of this amazing opportunity.
+
+For any queries, please visit our official website or check our [Privacy Policy](http://secure-rewards.com.legit-privacy-policy.com) and [Terms of Service](http://secure-rewards.com.terms-and-conditions.com).
+
+------=_Part_87996_1456534954.1700256487000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>Congratulations! You are eligible to receive a €500 voucher for your next purchase. This reward offer is exclusive and time-sensitive, so act now to enjoy your benefits.</p>
+<p><a href="http://secure-rewards.com.claim-your-gift-card-now.com/redeem"><img src="http://secure-rewards.com/images/claim-voucher.jpg" alt="claim now"></a></p>
+<p>Don’t miss out on this limited time offer. Your urgent response is required to prevent loss of this amazing opportunity.</p>
+
+<p>For any queries, please visit our official website or check our <a href="http://secure-rewards.com.legit-privacy-policy.com">Privacy Policy</a> and <a href="http://secure-rewards.com.terms-and-conditions.com">Terms of Service</a>.</p>
+
+<p><a href=""></a></p>
+</body>
+</html>
+
+------=_Part_87996_1456534954.1700256487000--
+```

@@ -1,0 +1,44 @@
+From MAILER-DAEMON Thu Jul 15 09:57:01 2021
+Return-Path: <tracking@dhl.com>
+Delivered-To: victim@domain.com
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.10]) by mail.domain.com with ESMTP id 1234 for <victim@domain.com>; Thu, 15 Jul 2021 09:57:00 -0400
+From: DHL Express <tracking@dhl.com>
+To: victim@domain.com
+Subject: Urgent: Payment Issue with Your DHL Account – Final Notice
+Date: Thu, 15 Jul 2021 13:57:00 +0000
+Message-ID: <CAJPNOv1pXd25abc@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+
+----=_Part_123456_abcdef
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: Your DHL shipment is currently on hold due to an outstanding payment. If you do not settle the fee within 24 hours, your package will be returned to the sender. To view your shipment details, visit:
+https://www.dhl.com/en/express/tracking.html
+
+To release your parcel immediately, please click here to pay the handling fee:
+https://www.dhl.com/payment
+
+Thank you,
+DHL Express Team
+
+----=_Part_123456_abcdef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>URGENT:</strong> Your DHL shipment is <em>on hold</em> due to an <span style="color:red;">outstanding payment</span>. If you do not settle the fee within <strong>24 hours</strong>, your package will be <span style="color:red;">returned to the sender</span>.</p>
+<p>Shipment ID: <a href="http://secure.dhl-update.track-f9800.delivery-update.secure-track.com/">https://www.dhl.com/en/express/tracking.html</a></p>
+<p>To release your parcel immediately, <a href="http://secure.dhl-update.track-f9800.delivery-update.secure-track.com/">click here</a> and pay the <strong>$1.99 release fee</strong>.</p>
+<p><a href="http://secure.dhl-update.track-f9800.delivery-update.secure-track.com/"><img src="http://assets.dhl.com/images/logo.png" alt="DHL Express" style="border:none;"></a></p>
+<p>If you have any questions, please visit our <a href="https://www.dhl.com/privacy-policy.html">Privacy Policy</a> or <a href="https://www.dhl.com/help-center.html">Help Center</a>.</p>
+<p>Thank you,<br>DHL Express Team</p>
+</body>
+</html>
+
+----=_Part_123456_abcdef--

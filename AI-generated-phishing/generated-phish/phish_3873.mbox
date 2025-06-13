@@ -1,0 +1,59 @@
+From no-reply@accounts.company.com Fri Jul 19 12:34:56 2024
+Return-Path: <no-reply@accounts.company.com>
+Delivered-To: user@victim.com
+Received: by mail.company.com id abcd1234; Fri, 19 Jul 2024 12:34:56 -0400
+From: "Account Security" <no-reply@accounts.company.com>
+Reply-To: "IT Support" <itsupport@security-update.net>
+To: user@victim.com
+Subject: URGENT: Account Password Security Alert
+Message-ID: <CAB12345@mail.company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1626762896000"
+
+----=_Part_0_123456789.1626762896000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+This is an urgent security notice regarding your account password.
+We have detected potentially unauthorized activity. To prevent immediate suspension,
+you must verify your credentials within 24 hours.
+
+Visit one of the links below to secure your account:
+http://192.0.2.123/login
+https://secure.portal.company-login-service.com/auth
+https://portal.company.com/secure
+
+If no action is taken, your account will be locked and you will lose access.
+
+Regards,
+Account Security Team
+
+----=_Part_0_123456789.1626762896000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Account Password Security Alert</title>
+</head>
+<body>
+  <p>Dear User,</p>
+  <p><strong>Immediate action required:</strong> We detected unusual activity on your account.
+  Failure to verify within <strong>24 hours</strong> will result in suspension.</p>
+  <p>Please <a href="http://198.51.100.99/verification">https://secure.portal.company.com/login</a>
+     to confirm your credentials.</p>
+  <p>Alternatively, access through our secure link:</p>
+  <ul>
+    <li><a href="http://192.0.2.123/verify" title="Secure Login"></a></li>
+    <li><a href="http://203.0.113.50/confirm"><img src="http://evil.com/images/button.png" alt="Secure Access"></a></li>
+  </ul>
+  <p>You may also use this backup portal: <a href="http://203.0.113.45/secure"><img src="cid:bannerimage" alt="Click Here"></a></p>
+  <p>If you do not respond within 24 hours, <span style="color:red;">your account password will be permanently locked</span>.</p>
+  <p>Thank you,<br>
+     Account Security Team</p>
+</body>
+</html>
+
+----=_Part_0_123456789.1626762896000--

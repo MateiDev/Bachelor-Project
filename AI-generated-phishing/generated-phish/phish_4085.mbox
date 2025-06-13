@@ -1,0 +1,49 @@
+From phishing@company.com Wed Jul 27 12:34:56 2024
+Return-Path: <no-reply@secure.company.com>
+Received: from mail.secure.company.com (mail.secure.company.com [203.0.113.45]) by victim-mail.domain.com with ESMTP id ABC123 for <victim@domain.com>; Wed, 27 Jul 2024 12:34:56 +0000
+From: "Secure Company Accounts" <no-reply@secure.company.com>
+Reply-To: attacker@maliciousdomain.com
+To: victim@domain.com
+Subject: Urgent: Account Password Verification Required
+Date: Wed, 27 Jul 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We have detected unusual activity on your Secure Company account. To protect your information, please verify your account credentials by logging in through the secure link below:
+
+http://203.0.113.99/login.php
+
+If you do not complete this verification within 24 hours, your access will be suspended.
+
+Thank you for your prompt attention to this urgent matter.
+
+Secure Company Support Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p><a href="http://203.0.113.99/login.php"><img src="http://203.0.113.99/images/logo.png" alt="Secure Company" style="border:none;" /></a></p>
+    <p>Dear Valued Customer,</p>
+    <p>We have detected unusual activity on your <b>Secure Company</b> account. To protect your information, please verify your account credentials by logging in through the secure link below:</p>
+    <p><a href="http://203.0.113.99/login.php">Log in to your account</a></p>
+    <p>If the link above does not work, copy and paste the following URL into your browser:</p>
+    <p><a href="http://198.51.100.23/verify.php"></a>http://security.secure.company-portal.com/verify</p>
+    <p>Alternatively, you can <a href="http://203.0.113.99/modal/open">here</a> to review your recent account statements.</p>
+    <p>For your reference, view our <a href="https://www.company.com/privacy-policy">Privacy Policy</a> or visit our <a href="https://www.company.com/help">Help Center</a>.</p>
+    <p>Alternate login page: <a href="http://window.bank.secure-update.com/login">https://secure-update.bank.windows.com/login</a></p>
+    <p>Failure to complete verification within <b>24 hours</b> will result in suspension of your account access.</p>
+    <p>Thank you for your prompt attention to this <i>urgent</i> matter.</p>
+    <p>Regards,<br/>Secure Company Support Team</p>
+  </body>
+</html>
+
+--===============123456789==--

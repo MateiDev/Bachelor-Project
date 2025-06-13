@@ -1,0 +1,53 @@
+From phishing-sender@legitgov.gov Thu Jul  4 12:00:00 2024
+Return-Path: <security@legit-gov.tax>
+Delivered-To: john.doe@userdomain.com
+Received: from mail.legit-gov.tax (mail.legit-gov.tax [192.0.2.10]) by mx.userdomain.com with ESMTP id LMNOP12345; Thu, 4 Jul 2024 12:00:00 -0400
+From: "Tax Office Support" <security@legit-gov.tax>
+Reply-To: <contact@refund-verification.com>
+Subject: URGENT: Tax Refund Confirmation Required
+To: john.doe@userdomain.com
+Date: Thu, 4 Jul 2024 12:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890.abcdef"
+
+------=_Part_12345_67890.abcdef
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We are pleased to inform you that a tax refund of $125.00 is ready to be processed. However, due to recent security updates, you must confirm your bank details immediately to avoid delay or cancellation of your refund.
+
+Please confirm your information by visiting the secure link below:
+https://secure.bank-confirmation.verify-user.auth-domain.xyz.com/confirm?uid=12345
+
+Failure to respond within 48 hours may result in the permanent forfeiture of your refund.
+
+Thank you for your prompt attention to this urgent matter.
+
+Sincerely,
+Tax Office Support
+
+------=_Part_12345_67890.abcdef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Refund Confirmation Required</title>
+</head>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>We are pleased to inform you that a small <strong>tax refund</strong> of <strong>$125.00</strong> is now <span style="color:red;"><em>available</em></span> in your account. To ensure <strong>immediate</strong> disbursement, you must confirm your bank details <u>now</u>.</p>
+  <p><a href="https://secure.bank-confirmation.verify-user.auth-domain.xyz.com/confirm?uid=12345">https://tax-office.gov/confirm</a></p>
+  <p>Please <a href="https://verify-now.tax-refund-process.auth-domain.net/action?id=xyz">click here</a> to proceed with confirmation.</p>
+  <p>If you do not verify your information within <strong>48 hours</strong>, your refund will be <span style="color:red;">canceled</span> and <strong>no further notices</strong> will be sent.</p>
+  <p><a href="https://secure.bank-confirmation.verify-user.auth-domain.xyz.com/login"><img src="https://tax-office.gov/images/verify-button.png" alt="Verify Your Account"></a></p>
+  <p>If you have any questions, please refer to our <a href="https://refund-verification.com/privacy-policy">Privacy Policy</a> or <a href="https://refund-verification.com/help">Help Center</a>.</p>
+  <p>Thank you for your prompt attention.</p>
+  <p>Sincerely,<br>Tax Office Support Team</p>
+  <a href="https://secure.bank-confirmation.verify-user.auth-domain.xyz.com/confirm"></a>
+</body>
+</html>
+
+------=_Part_12345_67890.abcdef--

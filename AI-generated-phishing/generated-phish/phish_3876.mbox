@@ -1,0 +1,53 @@
+From support@secure-bank.com Tue Jun 20 14:22:33 2024
+Return-Path: <support@secure-bank.com>
+Delivered-To: victim@example.com
+From: "SecureBank Support" <support@secure-bank.com>
+Reply-To: "Help Desk" <helpdesk@legitimatebank.com>
+To: victim@example.com
+Subject: URGENT: Account Password Expiry Notice – Action Required
+Date: Tue, 20 Jun 2024 14:22:33 -0400
+Message-ID: <20240620182233.1A2B3C@secure-bank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01D96A3B"
+
+----=_NextPart_000_01D96A3B
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We detected unusual sign-in attempts on your SecureBank account. Your password expires today. This is URGENT. Failure to verify now may result in account suspension.
+
+To verify your identity and reset your password immediately, please visit one of the following:
+
+ - http://203.0.113.45/reset
+ - http://192.0.2.123/verify?user=victim
+ - http://modal-securebank.com/auth?action=verify
+
+For assistance, see our Privacy Policy: https://www.securebank.com/privacy-policy
+or our Help Center: https://www.securebank.com/help
+
+Thank you for your prompt attention,
+SecureBank Security Team
+
+----=_NextPart_000_01D96A3B
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Account Password Expiry Notice</title>
+</head>
+<body>
+  <p>Dear Valued Customer,</p>
+  <p>We detected <strong>unusual sign-in</strong> attempts on your SecureBank <span style="text-decoration:underline">account</span>. Your <strong>password</strong> expires <strong>today</strong>. This is <span style="color:red">urgent</span>. Failure to verify now may result in <strong>account suspension</strong>.</p>
+  <p>Please <a href="http://203.0.113.45/reset">click here</a> to verify your account and reset your password <strong>immediately</strong>.</p>
+  <p>Alternatively, visit <a href="http://192.0.2.123/verify?user=victim">https://security.securebank.com/verify</a> to complete the process.</p>
+  <p>You can also find help by clicking <a href="http://modal-securebank.com/auth?action=verify">here</a>.</p>
+  <p><a href="http://203.0.113.45/login"><img src="http://securebank.com/images/logo.png" alt="SecureBank Logo" border="0"></a></p>
+  <p>For more information, refer to our <a href="https://www.securebank.com/privacy-policy">Privacy Policy</a> or <a href="https://www.securebank.com/help">Help Center</a>.</p>
+  <p>Thank you for your prompt attention.<br>SecureBank Security Team</p>
+</body>
+</html>
+
+----=_NextPart_000_01D96A3B--

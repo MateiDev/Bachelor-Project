@@ -1,0 +1,37 @@
+```mbox
+From fakeaccountsecurity@alerts.com Fri Oct 13 14:28:19 2023
+Date: Fri, 13 Oct 2023 14:28:19 -0000
+Subject: Urgent: Action Required to Secure Your Account
+To: victim@example.com
+Reply-To: noreply@securityalert.com
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. To ensure your security, verify your account by following the link immediately. Your password is set to expire today, reset it now to prevent any disruption in accessing your services.
+
+Secure your account urgently to avoid any unauthorized access.
+
+Regards,
+Security Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected <b>unusual sign-in</b> activity on your account. To ensure your security, verify your account by following the link immediately.</p>
+<p><a href="http://secure-login.account.com/security">Verify Here</a></p>
+<p>Your <b>password</b> is set to expire today, <a href="http://account.security.alert.com/reset">reset it now</a> to prevent any disruption in accessing your services.</p>
+<p><a href="http://support.account.com/">Support</a> | <a href="http://privacy.account.com">Privacy Policy</a></p>
+<p>Secure your account urgently to avoid any unauthorized access.</p>
+<p>Regards,<br>Security Team</p>
+</body>
+</html>
+
+--boundary-string--
+```

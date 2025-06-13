@@ -1,0 +1,66 @@
+From attacker@phishtest.local Fri Nov 26 14:22:33 2021
+Return-Path: <no-reply@bank-secure.com>
+Delivered-To: user@victim.com
+Received: from mailtest.local (mailtest.local [192.0.2.1])
+    by mail.phishtest.local with ESMTP id ABC123DEF
+    for <user@victim.com>; Fri, 26 Nov 2021 14:22:33 -0500 (EST)
+Date: Fri, 26 Nov 2021 14:22:33 -0500
+Message-ID: <20211126192233.GA1234@mailtest.local>
+From: "Bank Security Team" <no-reply@bank-secure.com>
+Reply-To: support@secure-update.com
+To: user@victim.com
+Subject: Urgent: Password Expiration Notice - Verify Your Account Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000edcba123456"
+
+--000000000000edcba123456
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Unusual sign-in detected on your account. Your password expires TODAY.
+Immediate action required to prevent suspension of your account.
+
+Verify now by visiting:
+https://www.bank.secure-session.com/verify?user=12345
+or click:
+http://198.51.100.23/reset.password.expiry?id=abc123
+
+Failure to verify will result in permanent lockout.
+Please verify immediately.
+
+Regards,
+Bank Security Team
+
+--000000000000edcba123456
+Content-Type: text/html; charset="UTF-8"
+
+<html><body>
+<h2 style="color:red;">Urgent Security Alert</h2>
+<p>Dear Customer,</p>
+<p><strong>Unusual sign-in detected</strong> from a new device. <span style="font-weight:bold;">Your password expires today</span>. Immediate action is required to avoid suspension of your <em>account</em>.</p>
+<p>
+  <a href="http://203.0.113.45/login_secure.fetch?id=xyz789">
+    <img src="http://203.0.113.45/logo.png" alt="Bank Logo" style="border: none;" />
+  </a>
+</p>
+<p>
+  Please verify your identity by clicking <a href="http://203.0.113.45/verifyAccount?uid=12345">here</a>.
+</p>
+<p>
+  Or copy and paste the following link into your browser:<br/>
+  <a href="http://198.51.100.23/reset.password.expiry.server?id=abc123">
+    https://www.secure-login.bank.com
+  </a>
+</p>
+<p>
+  For more info see our 
+  <a href="http://198.51.100.23/privacy-policy.html">Privacy Policy</a> or 
+  <a href="http://198.51.100.23/help.center.html">Help Center</a>.
+</p>
+<p style="font-size:12px;color:gray;">
+  If you did not initiate this request, please <a href="http://203.0.113.45/support_request"><img src="http://203.0.113.45/support_icon.png" alt="Support" style="vertical-align:middle;">contact support</a> immediately.
+</p>
+</body></html>
+
+--000000000000edcba123456--

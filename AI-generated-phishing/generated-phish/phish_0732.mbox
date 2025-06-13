@@ -1,0 +1,53 @@
+From MAILER-DAEMON Thu Jul  4 15:23:45 2024
+From: "MyBank Security" <support@mybank.com>
+Reply-To: security-team@resetmail.com
+To: recipient@domain.com
+Subject: Urgent: Unusual sign-in detected—verify your account now!
+Date: Thu, 4 Jul 2024 15:23:45 -0400
+Message-ID: <20240704152345.12345@mail.mybank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b8adb705cb3c8a2e"
+
+--000000000000b8adb705cb3c8a2e
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+ACTION REQUIRED: We have detected an unusual sign-in attempt to your account from a new device.
+Your password expires today. Reset it immediately to avoid suspension.
+
+Please visit the following links to secure your account:
+- https://security.mybank.com/verify
+- https://mybank.com/reset
+
+Failure to act within the next hour will result in temporary lockout.
+
+Best regards,
+MyBank Security Team
+
+--000000000000b8adb705cb3c8a2e
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">
+      ACTION REQUIRED: We have detected an <strong>unusual sign-in</strong> attempt to your account<br>
+      Your <strong>password expires today</strong> – <span style="text-decoration:underline">reset immediately</span> or risk suspension.
+    </p>
+    <p>
+      Please <a href="http://malicious.com/verify">https://security.mybank.com/verify</a> or 
+      <a href="http://phish-reset.com">https://mybank.com/reset</a> now to secure your account.
+    </p>
+    <p>
+      For our <a href="http://legit-privacy.com/policy">here</a> you can review our privacy policy.
+    </p>
+    <p>
+      <a href="http://malicious.com/reset"></a>
+    </p>
+    <p>Failure to act within 1 hour will result in temporary lockout.</p>
+    <p>Best regards,<br>MyBank Security Team</p>
+  </body>
+</html>
+
+--000000000000b8adb705cb3c8a2e--

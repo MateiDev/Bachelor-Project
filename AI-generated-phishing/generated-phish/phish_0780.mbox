@@ -1,0 +1,50 @@
+From no-reply@banksecure.com Mon May 20 10:15:00 2024
+Return-Path: <no-reply@banksecure.com>
+Received: from mail.banksecure.com (mail.banksecure.com [198.51.100.25])
+    by mail.victim-domain.com with ESMTP id ABC123DEF456
+    for <target@victim-domain.com>; Mon, 20 May 2024 10:15:00 -0400
+Date: Mon, 20 May 2024 10:15:00 -0400
+From: BankSecure Support <no-reply@banksecure.com>
+To: target@victim-domain.com
+Subject: Urgent: Unusual sign-in detected on your Account—Password expires today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D7B1C0"
+
+----=_NextPart_000_001D_01D7B1C0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in on your Account. Your Password expires today – reset immediately to avoid service interruption.
+
+Please verify your identity here:
+http://123.123.123.123/verify-account
+or
+https://secure-bank.com.login-update-security-info.com/reset-password
+
+Failure to comply will result in temporary Account suspension.
+
+Thank you,
+BankSecure Support
+
+----=_NextPart_000_001D_01D7B1C0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Alert</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected an <strong>unusual sign-in</strong> on your <strong>Account</strong>. Your <strong>Password expires today – reset immediately</strong> to avoid service interruption.</p>
+<p>Please verify your identity by clicking the link below:</p>
+<p><a href="http://123.123.123.123/verify-account"></a></p>
+<p>Alternatively, visit: <a href="https://verify-your-password.bankaccount-login.com/reset">https://secure.bank.com</a></p>
+<p>Failure to comply will result in temporary Account suspension.</p>
+<p>Thank you,<br/>BankSecure Support</p>
+</body>
+</html>
+
+----=_NextPart_000_001D_01D7B1C0--

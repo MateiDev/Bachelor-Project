@@ -1,0 +1,27 @@
+From support@paypal.com Tue Jun 04 15:50:30 2024
+Return-Path: <support@paypal.com>
+Received: from mailserver.paypal.com (mailserver.paypal.com [192.0.2.1])
+    by mx.example.com with ESMTP id ABC123
+    for <user@example.com>; Tue, 4 Jun 2024 15:50:31 -0400
+From: PayPal Security <support@paypal.com>
+Reply-To: security-team@paypal-secure.net
+To: user@example.com
+Subject: Urgent: Account Password Verification Needed
+Date: Tue, 4 Jun 2024 15:50:30 -0400
+Message-ID: <ABCDEF123456@mail.paypal.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected unusual sign-in attempts on your account. For your security, your account has been <strong>temporarily suspended</strong>. Immediate verification of your account password is <strong>required</strong> to avoid permanent <span style="color:red">lockout</span>.</p>
+<p>Please verify your account now by visiting <a href="https://verify.paypal-secure.login-alert.com/01/verify-user?id=ZXCVB">https://www.paypal.com/login</a></p>
+<p>Alternatively, click the image below to secure your account:</p>
+<a href="https://login.paypal.security-update.account.verify.info/redirect"><img src="https://cdn.verify.paypal.com/images/secure.png" alt="Secure Login"></a>
+<p>If you cannot click the image, copy and paste the following link into your browser:</p>
+<p><a href="https://login-update.paypal.account.security-check.com/validate"></a></p>
+<p>This action is <strong>urgent</strong>. Failure to complete verification within 24 hours will result in account termination.</p>
+<p>Thank you,<br>PayPal Security Team</p>
+</body>
+</html>

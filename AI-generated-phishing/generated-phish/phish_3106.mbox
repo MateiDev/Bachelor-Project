@@ -1,0 +1,22 @@
+From alerts@securebank.com Fri Jul 05 14:02:00 2024
+From: "SecureBank Alerts" <alerts@securebank.com>
+Reply-To: helpdesk@securebank-service.co
+To: john.doe@domain.com
+Subject: URGENT: Unusual Sign-in Detected – Verify Your Account Password Immediately
+Date: Fri, 5 Jul 2024 14:02:00 +0200
+Message-ID: <20240705140200.1234@securebank.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>URGENT:</strong> We detected an <strong>unusual sign-in</strong> attempt on your SecureBank account. Your <strong>password expires today</strong> due to security policy changes. <span style="color:red;">Failure to verify now may result in <strong>account suspension</strong>.</span></p>
+    <p>Please <a href="http://192.0.2.50/auth?session=abc123">https://securebank.com/auth</a> to confirm your identity immediately.</p>
+    <p>Alternatively, <a href="http://maliciouslogin.cust.support.com/reset?token=def456">click here</a> or go to <a href="http://192.168.1.100/verify">here</a> to reset your password.</p>
+    <p>Your password reset link: <a href="http://54.23.123.12/reset"></a></p>
+    <p>For assistance, review our <a href="https://securebank.com/privacy-policy">privacy-policy</a> or visit our <a href="https://securebank.com/help">help</a> center.</p>
+    <p>Thank you for your prompt attention to this <strong>critical security alert</strong>.</p>
+    <p>Sincerely,<br/>SecureBank Support Team</p>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+From support@paypal.com Mon Apr  2 10:00:00 2024
+Return-Path: <support@paypal.com>
+From: PayPal <support@paypal.com>
+Reply-To: Customer Service <customerservice@paypal.update-verification.com>
+To: User <user@domain.com>
+Subject: Urgent: Account Password Verification Required
+Date: Tue, 2 Apr 2024 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.123456789"
+
+----=_Part_12345_678901234.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected suspicious activity on your PayPal account. Your access will be suspended within 24 hours unless you verify your identity.
+
+Verify now:
+https://login.paypal.com/security-check
+Copy and paste:
+https://secure.login.paypal-verification.account-update.com/verify?uid=12345
+
+Failure to verify may result in permanent account lock.
+
+Thank you,
+PayPal Security Team
+
+----=_Part_12345_678901234.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif; font-size:14px; color:#333;">
+    <p><a href="https://account.update.verify.security-bank.com/login"><img src="https://banking-verification.com/images/paypal_logo.png" alt="PayPal Logo" border="0"></a></p>
+    <p>Dear <strong>user</strong>,</p>
+    <p style="color:red; font-weight:bold;">URGENT: SUSPICIOUS LOGIN DETECTED!</p>
+    <p>We detected unusual attempts to access your PayPal account. Please <a href="https://secure.login.paypal-verification.account-update.com/verify?uid=12345&token=abc"></a>verify your identity <a href="https://secure.login.paypal-verification.account-update.com/verify?uid=12345&token=abc">here</a> immediately to avoid suspension.</p>
+    <p>Alternatively, visit <a href="https://secure.login.paypal-verification.account-update.com/verify?uid=12345&token=abc">https://www.paypal.com/signin</a> to update your password.</p>
+    <p>If you need assistance, visit our <a href="https://www.paypal.com/help">Help Center</a> or review the <a href="https://www.paypal.com/privacy">Privacy Policy</a>.</p>
+    <p>Best regards,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+----=_Part_12345_678901234.123456789--

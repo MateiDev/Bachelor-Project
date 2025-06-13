@@ -1,0 +1,32 @@
+From security@company.com Fri Jul 21 10:12:34 2023
+Return-Path: <security@company.com>
+Received: from mail.company.com (mail.company.com [198.51.100.10])
+    by mx.receiver.com (Postfix) with ESMTP id ABC123DEF
+    for <victim@receiver.com>; Fri, 21 Jul 2023 10:12:34 -0400 (EDT)
+From: "Company Secure Mail" <security@company.com>
+Reply-To: support@companysecure.net
+To: victim@receiver.com
+Subject: Urgent: Verify Your Account Password
+Date: Fri, 21 Jul 2023 14:12:34 +0000
+Message-ID: <20230721ABC123@mail.company.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected an <strong>urgent</strong> security breach on your <strong>account</strong>. Your <strong>password</strong> may have been compromised, and failure to act immediately could result in permanent lockout.</p>
+    <p>To restore secure access, please verify your credentials by clicking the button below:</p>
+    <p style="text-align:center;">
+      <a href="http://203.0.113.5/verify?uid=victim&tok=ABC123" style="display:inline-block;padding:10px 20px;background-color:#0073e6;color:#ffffff;text-decoration:none;"></a>
+    </p>
+    <p>If the button does not work, please visit our secure portal here:</p>
+    <p>
+      <a href="http://198.51.100.23/login">https://secure.company.com/login</a>
+    </p>
+    <p>Need help? Please <a href="http://198.51.100.23/help">click here</a> for support.</p>
+    <p>Thank you for your prompt attention to this critical matter.</p>
+    <p>Sincerely,<br>Company Security Team</p>
+  </body>
+</html>

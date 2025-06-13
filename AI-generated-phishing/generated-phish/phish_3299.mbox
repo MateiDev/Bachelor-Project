@@ -1,0 +1,58 @@
+From gift@officialrewards.com Thu Jul 20 14:05:00 2023
+Return-Path: <gift@officialrewards.com>
+Received: from mail.officialrewards.com (mail.officialrewards.com [203.0.113.10])
+	by mx.yourdomain.com with ESMTP id ABC123DEF
+	for <user@yourdomain.com>; Thu, 20 Jul 2023 14:05:00 +0000
+From: "Official Rewards Team" <gift@officialrewards.com>
+Reply-To: support@fake-reply.com
+Date: Thu, 20 Jul 2023 14:05:00 +0000
+Subject: 🎁 Urgent: Claim Your €50 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been selected to receive a €50 voucher as a token of our appreciation.
+This offer EXPIRES in 24 HOURS—immediate action is required!
+
+Redeem your voucher here:
+http://192.0.2.50/redeem?code=ABC123
+
+Need help? Visit our Privacy Policy: https://www.trustedsite.com/privacy
+For assistance: https://www.trustedsite.com/help
+
+Best regards,
+Official Rewards Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>URGENT:</strong> You have been <em>selected</em> to receive a <span style="color:green;">€50 voucher</span>!</p>
+    <p style="color:red;">This offer <strong>EXPIRES in 24 HOURS</strong>—immediate action is required!</p>
+    <p>
+      <a href="http://192.0.2.50/redeem?code=ABC123">click here</a> to claim now.
+    </p>
+    <p>
+      Or visit <a href="http://100.200.300.10/voucher.claim/?id=789">https://rewards.company.com</a> directly.
+    </p>
+    <p>
+      <a href="http://123.45.67.89/"></a>
+    </p>
+    <hr>
+    <p>
+      <a href="https://www.trustedsite.com/privacy">Privacy Policy</a> |
+      <a href="https://www.trustedsite.com/help">Help Center</a>
+    </p>
+    <p>Best regards,<br>Official Rewards Team</p>
+  </body>
+</html>
+
+--boundary123--

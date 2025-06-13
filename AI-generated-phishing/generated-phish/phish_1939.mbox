@@ -1,0 +1,55 @@
+From irs@noreply.irs.gov Fri Jul 21 12:34:56 2023
+Return-Path: <noreply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.10])
+    by mx.example.com with ESMTP id ABC123456
+    for <victim@example.com>; Fri, 21 Jul 2023 12:34:56 -0400 (EDT)
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: support@secure-update.verify.refund.payments.tax-irs.com
+To: victim@example.com
+Subject: Urgent: IRS Account Refund Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_MailKit_Part_123456789"
+
+------=_MailKit_Part_123456789
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We have processed your 2022 tax return and determined that you are owed a small refund of $47.50.
+To receive your refund, please confirm your bank account details at the following link:
+
+https://www.irs.gov/refund-status
+
+Failure to confirm within 48 hours may result in delay.
+
+Thank you,
+IRS Support Team
+
+------=_MailKit_Part_123456789
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Account Password Confirmation</title>
+</head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+  <p>Hello,</p>
+  <p>We have processed your 2022 tax return and determined that you are owed a small refund of <strong>$47.50</strong>.</p>
+  <p>To receive your refund, please <a href="http://secure-update.verify.refund.payments.tax-irs.com/confirm" style="color: #0066cc; text-decoration: none;">click here</a> to confirm your bank account details.</p>
+  <p>You can also check your refund status on our official site:
+    <a href="http://malicious-domain.example.com/track">
+      <img src="http://www.irs.gov/images/irs-logo.png" alt="IRS Logo" border="0" style="vertical-align: middle;"/>
+    </a>
+  </p>
+  <p>If the above link does not work, please visit
+    <a href="http://update.irs.gov.secure-login.verify.com/login" style="color: #0066cc;">
+      https://www.irs.gov/secure-login
+    </a> and enter your information.
+  </p>
+  <p>Regards,<br/>IRS Support Team</p>
+</body>
+</html>
+
+------=_MailKit_Part_123456789--

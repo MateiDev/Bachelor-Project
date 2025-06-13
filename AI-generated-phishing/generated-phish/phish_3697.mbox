@@ -1,0 +1,46 @@
+From rewards@legitmail.com Wed Jun 26 10:14:07 2024
+Subject: URGENT: Immediate action required to claim your €50 Voucher
+Date: Wed, 26 Jun 2024 10:14:07 +0200
+From: Rewards Team <rewards@legitmail.com>
+Reply-To: support@helpdesk.site
+To: user@victim.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="abc123"
+
+--abc123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT! You're eligible for a €50 voucher but time is running out. Claim it now by visiting the link below:
+
+https://secure.update.confirmation.login.server.com/verify
+
+Need help? Visit our Help Center: https://usabank.com/help
+
+--abc123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Claim Your Voucher</title></head>
+<body>
+<p><strong>URGENT:</strong> Immediate action required! You are <em>eligible</em> for a <span style="color:green">€50 voucher</span>. Claim it before it expires!</p>
+
+<p>Click the image below to claim:</p>
+<p>
+  <a href="http://203.0.113.5/claim">
+    <img src="http://cdn.rewards-mailservice.com/images/voucher.jpg" alt="Voucher">
+  </a>
+</p>
+
+<p>Or <a href="http://203.0.113.5/login"></a></p>
+
+<p>To proceed, click <a href="http://voucher.legithelp.com/claim">here</a>.</p>
+
+<p>For secure login, go to <a href="http://203.0.113.5/secure">https://secure.your-bank.com/login</a>.</p>
+
+<p>Need assistance? Visit our <a href="https://usabank.com/help">help</a> or view our <a href="https://usabank.com/privacy-policy">privacy-policy</a>.</p>
+</body>
+</html>
+
+--abc123--

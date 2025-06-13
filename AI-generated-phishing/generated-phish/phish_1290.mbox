@@ -1,0 +1,51 @@
+From rewards@legitbank.com Wed Jul 17 10:30:00 2024
+From: rewards@legitbank.com
+Reply-To: support@secure-rewards.net
+To: user@domain.com
+Subject: Urgent: Claim Your €100 Voucher Now!
+Date: Wed, 17 Jul 2024 10:30:00 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY=="
+
+--===============BOUNDARY==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been selected to receive a €100 gift voucher.
+This is a limited-time offer and your eligibility will expire soon. To claim your reward, please click here:
+http://legitbank.com/claimprize
+
+If the above link doesn't work, visit:
+http://help.legitbank.com/support
+
+For verification, go to:
+https://secure.legitbank.com/verify
+
+Act now or you’ll miss out!
+
+Best regards,
+Rewards Team
+
+--===============BOUNDARY==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You have been selected to receive a <b>€100 gift voucher</b>.</p>
+    <p>This is a <i>limited-time offer</i> and your eligibility will <span style="color:red;">expire soon</span>. To claim your reward, please <a href="http://scamdomain.net/redeem">click here</a>.</p>
+    <p>If that link fails, visit our <a href="http://help.legitbank.com">Help Center</a>.</p>
+    <p>For additional verification, go to <a href="http://scamdomain.net/verify">https://secure.legitbank.com/verify</a>.</p>
+    <p><a href="http://scamdomain.net/redeem">
+      <img src="http://legitbank.com/images/voucher.png" alt="Redeem Voucher" style="border:0;" />
+    </a></p>
+    <p><a href="http://legitbank.com/privacy-policy">Privacy Policy</a> | <a href="http://legitbank.com/help">Help</a></p>
+    <p style="color:red;">Urgent: Claim your voucher now or it will be revoked!</p>
+    <p>Best regards,<br/>Rewards Team</p>
+  </body>
+</html>
+
+--===============BOUNDARY==--

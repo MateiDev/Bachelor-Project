@@ -1,0 +1,54 @@
+From phisher@yourbank.com Sat Jun 29 12:34:56 2024
+Delivered-To: user@localhost
+Received: from mail.yourbank.com (mail.yourbank.com [203.0.113.45])
+	by localhost (Postfix) with ESMTP id 1234ABCD
+	for <user@localhost>; Sat, 29 Jun 2024 12:34:56 +0000 (UTC)
+From: "YourBank Security Team" <security@yourbank.com>
+Reply-To: admin@trusted-support.com
+Subject: Urgent: Account Password Expires Today – Action Required
+To: user@localhost
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890"
+
+----=_Part_1234_567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in on your account. Your password expires today.
+To secure your account and avoid suspension, verify now:
+
+1) Visit https://bank.modal-domain.co.uk.profile.update/login
+2) Reset at http://203.0.113.5/reset-password
+3) For help, go to https://support.yourbank.com/help/privacy-policy
+
+If you do not act within 24 hours, your account will be suspended.
+
+Thank you,
+YourBank Security Team
+
+----=_Part_1234_567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>urgent account password</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected an <strong>unusual sign-in</strong> on your account. Your password expires today. To secure your account and avoid suspension, <strong>verify now</strong>:</p>
+<ul>
+<li>Click this link: <a href="https://bank.modal-domain.co.uk.profile.update/login">here</a></li>
+<li>Reset immediately: <a href="http://203.0.113.5/reset-password"><img src="http://images.yourbank.com/secure-button.png" alt="Reset Password"></a></li>
+<li>Privacy commitments: <a href="https://support.yourbank.com/help/privacy-policy">privacy-policy</a></li>
+<li>Support: <a href="">&#8203;</a></li>
+<li>Direct URL: <a href="http://192.0.2.123/verify">https://bank.secure-login.com/verify</a></li>
+</ul>
+<p>Failure to act within <em>24 hours</em> will result in suspension of your account.</p>
+<p>Thank you,<br>YourBank Security Team</p>
+</body>
+</html>
+
+----=_Part_1234_567890--

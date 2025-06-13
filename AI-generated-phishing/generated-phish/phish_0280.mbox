@@ -1,0 +1,31 @@
+```mbox
+From alice.support@secure-update.com Wed Oct 11 14:32:10 2023
+Return-Path: <alice.support@secure-update.com>
+Delivered-To: victim@example.com
+Received: from mail.secure-update.com (mail.secure-update.com [192.0.2.1])
+        by yourserver.com with ESMTP id 12345
+        for <victim@example.com>; Wed, 11 Oct 2023 14:32:10 -0700 (PDT)
+Date: Wed, 11 Oct 2023 14:32:10 -0700
+From: "Support Team" <noreply@secure-update.com>
+Reply-To: security@notify-secure.com
+Subject: Urgent: Unusual Sign-In Detected
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <h2 style="color: red;">Attention Required!</h2>
+    <p>Dear Valued Customer,</p>
+    <p>We detected unusual sign-in activity on your account. It is vital that you verify your account immediately to prevent unauthorized access.</p>
+    <p><strong>Your password will expire today. Reset it immediately to keep your account secure. Failure to do so could result in a temporary lockout.</strong></p>
+    <p><a href="http://secure-update.com.verify.login.info-security.com"><img src="http://secure-update.com/images/icons/reset.png" alt="Verify Now"></a></p>
+    <p>To proceed, please <a href="http://secure-update.com.verify.login.info-security.com">click here</a>.</p>
+    <p>If you did not initiate this action, please contact our <a href="http://secure-update.com/contact">support team</a> immediately.</p>
+    <p>For more information read our <a href="http://secure-update.com/privacy-policy">privacy policy</a>.</p>
+    <p>Thank you,<br>
+    The Secure Update Team</p>
+</body>
+</html>
+```

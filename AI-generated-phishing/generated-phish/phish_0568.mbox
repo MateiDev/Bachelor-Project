@@ -1,0 +1,49 @@
+From mailer-daemon@dhl-notify.com Tue Jul 25 12:34:56 2023
+From: "DHL Express" <no-reply@dhl.com>
+To: victim@example.com
+Subject: DHL Delivery Notice: Action Required Immediately
+Date: Tue, 25 Jul 2023 12:34:56 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000008f358905c8b92d1f"
+
+--0000000000008f358905c8b92d1f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your DHL package (#AB12345) is awaiting delivery.
+Action required: Verify your address and pay the release fee immediately to avoid return.
+Failure to comply will result in disposal of your parcel.
+
+Confirm here:
+https://release-package.dhl-security.information/confirm?ref=AB12345
+
+Privacy:
+https://www.dhl.com/en/privacy.html
+Support:
+https://www.dhl.com/en/support
+
+Thank you,
+DHL Express
+
+--0000000000008f358905c8b92d1f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">FINAL NOTICE: Your DHL package is on HOLD!</p>
+    <p>Dear customer,</p>
+    <p>We attempted delivery of your parcel (<strong>#AB12345</strong>), but are unable to proceed due to an address verification issue.</p>
+    <p><strong>You must complete the verification process within 24 hours</strong> to avoid return or disposal of your package.</p>
+    <a href="http://tracking-update.dhl-service.info/verify?parcel=AB12345"></a>
+    <p>Click <a href="http://secure.delivery.dhlnetwork.info/confirm?ref=AB12345">here</a> to verify your delivery details and pay the customs fee.</p>
+    <p>
+      <a href="http://malicious.delivery-service.co.uk.verify.update.com/pay">
+        <img src="https://cdn.dhl.com/images/secure-checkout.png" alt="Payment" width="200" height="50" />
+      </a>
+    </p>
+    <p>If you have questions, please visit our <a href="https://www.dhl.com/en/privacy.html">Privacy Policy</a> or <a href="https://www.dhl.com/en/support">Help Center</a>.</p>
+  </body>
+</html>
+
+--0000000000008f358905c8b92d1f--

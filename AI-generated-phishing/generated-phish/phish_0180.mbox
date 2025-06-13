@@ -1,0 +1,35 @@
+```
+From - Wed Oct 25 14:38:09 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <refunds@taxportalclaims.com>
+Received: from mail.taxportalclaims.com (mail.taxportalclaims.com [192.0.2.1])
+	by mail.example.com (Internet Post) with ESMTP id h89B4QgK024154
+	for <user@example.com>; Wed, 25 Oct 2023 14:38:09 +0000
+Received: by mail.taxportalclaims.com with SMTP id AA150CD885A
+	for <user@example.com>; Wed, 25 Oct 2023 14:38:08 +0000 (UTC)
+Date: Wed, 25 Oct 2023 14:38:08 +0000
+From: "Tax Refund Department" <refunds@taxportalclaims.com>
+Reply-To: refund.department@secure-tax-info.com
+Subject: Urgent: Your Tax Refund is Ready
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Message-ID: <20231025143808.AA150CD885A@mail.taxportalclaims.com>
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We are pleased to inform you that you have a pending tax refund of $320.75 available. To proceed with your refund, please confirm your banking details by clicking on the secure link below:</p>
+<p><a href="http://taxrefundportal.secureupdate.com.confirm-account-details.info/claim">Click Here to Confirm Your Account Details</a></p>
+<p>To ensure your privacy and security, please do not share your password with anyone. For more information, you can visit our <a href="http://www.taxportalclaims.com/privacy">Privacy Policy</a> or <a href="http://www.taxportalclaims.com/help">Help Center</a>.</p>
+<p>This is an automated message. Please do not reply to this email.</p>
+<p>Thank you,<br>
+<i>Tax Refund Department</i></p>
+<p>If you have any questions, contact us at: <a href="mailto:support@taxportalclaims.com">support@taxportalclaims.com</a></p>
+</body>
+</html>
+```

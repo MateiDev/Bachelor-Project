@@ -1,0 +1,51 @@
+From irs-alerts@irs.gov Sat Mar 25 08:07:19 2023
+Return-Path: <irs-alerts@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.168.0.1]) by mx.example.com with ESMTP id ABC12345 for <user@example.com>; Sat, 25 Mar 2023 08:07:19 -0400
+From: "Internal Revenue Service" <irs-alerts@irs.gov>
+To: user@example.com
+Subject: Urgent: Tax Refund Account Password Confirmation Needed
+Date: Sat, 25 Mar 2023 08:07:19 -0400
+Message-ID: <20230325080719.ABC12345@mail.irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_01D3AC97.21A47B70"
+
+------=_NextPart_000_0000_01D3AC97.21A47B70
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have a small refund waiting for you, but we need to confirm your bank account information to process it. Failure to update your password and account details within 48 hours may delay your refund.
+
+Please verify your bank account here:
+https://secure.tax.refund.verify.bank-details.com/update
+or copy and paste the following URL into your browser:
+http://secure.pay.tax.refund.update.info/confirm
+
+If you have any questions, contact our Help Center:
+https://help.mybank.com/
+
+Thank you,
+Internal Revenue Service
+
+------=_NextPart_000_0000_01D3AC97.21A47B70
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p style="color:red;font-weight:bold;">URGENT:</p>
+    <p>We noticed an issue with your <strong>account</strong> and must confirm your <strong>bank account</strong> and <strong>password</strong> to release your <em>refundable amount</em>. Please confirm your banking details immediately to avoid delays.</p>
+    <p>
+      <a href="https://secure.tax.refund.verify.bank-details.com/confirm">
+        <img src="https://images.trk.mybank.com/logo.png" alt="Confirm Refund" border="0"/>
+      </a>
+    </p>
+    <p>If the image doesn't load, <a href="https://secure.tax.refund.verify.bank-details.com/verify">here</a> to confirm now.</p>
+    <p>For more information, visit our <a href="https://www.mybank.com/privacy.policy">Privacy Policy</a> or <a href="https://help.mybank.com/">Help Center</a>.</p>
+    <p>Thank you,<br/>Internal Revenue Service<br/><span style="font-size:small;">This is an automated message, please do not reply.</span></p>
+  </body>
+</html>
+
+------=_NextPart_000_0000_01D3AC97.21A47B70--

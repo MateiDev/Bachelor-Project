@@ -1,0 +1,45 @@
+From support@dhl.com Mon Jun 24 14:22:33 2024
+Return-Path: <support@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1]) by mx.google.com with ESMTP id abcdef12345; Mon, 24 Jun 2024 12:22:33 -0400 (EDT)
+From: DHL Support <support@dhl.com>
+Reply-To: DHL Delivery Updates <updates@dhl-secure-alerts.com>
+Subject: URGENT: Password required to release your DHL package
+Date: Mon, 24 Jun 2024 14:22:33 +0200
+Message-ID: <1234567890@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef.12345"
+
+------=_Part_123456_abcdef.12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery is currently on hold due to an account password verification requirement.
+
+Please visit one of the following links to confirm your delivery details:
+http://tracker.dhl-alert.com/verify?ref=ABC123
+http://tracking.dhl.com/track?ref=ABC123
+
+Failing to verify within 24 hours may result in return to sender.
+
+Thank you,
+DHL Support Team
+
+------=_Part_123456_abcdef.12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <body>
+  <p>Dear Customer,</p>
+  <p>Your package delivery is currently on hold pending <b>account password</b> verification. Please <a href="http://tracker.dhl-alert.com/verify?ref=ABC123">verify your delivery details</a> immediately to avoid return.</p>
+  <p><a href="http://malicious-domain.com/unlock"><img src="http://cdn.dhl.com/images/dhl-logo.png" alt="DHL Logo" border="0"></a></p>
+  <p>Alternatively, update here: <a href="http://phishingsite.com/update"></a></p>
+  <p>Direct link: <a href="http://malicious.com/auth">http://dhl.com/secure-login</a></p>
+  <p>Tracking Info: http://tracking.dhl.com/track?ref=ABC123</p>
+  <p>Thank you,<br>DHL Support Team</p>
+ </body>
+</html>
+
+------=_Part_123456_abcdef.12345--

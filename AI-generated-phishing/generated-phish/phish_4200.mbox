@@ -1,0 +1,48 @@
+From security@securebank.com Fri Jul  9 16:07:00 2021
+Return-Path: <security@securebank.com>
+Received: from mail.securebank.com (unknown [203.0.113.5])
+    by inbound.testmail.com with ESMTP id abc123
+    for <customer@testmail.com>; Fri, 9 Jul 2021 16:07:00 +0000
+Date: Fri, 9 Jul 2021 16:07:00 +0000
+From: SecureBank Security <security@securebank.com>
+Reply-To: Support Team <support@verify-secure.com>
+To: customer@testmail.com
+Subject: Urgent: Account Password Expires Today – Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1615856881234"
+
+----=_Part_0_123456.1615856881234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We have detected an unusual sign-in on your SecureBank account. Your password expires today. Please verify your account immediately to avoid service interruption:
+
+https://secure-bank.com/login
+
+Thank you,
+SecureBank Security Team
+
+----=_Part_0_123456.1615856881234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We have detected an <strong>unusual sign-in</strong> on your <em>SecureBank</em> account. For your protection, your password is set to <strong>expire today</strong>. To avoid service interruption, please
+    <a href="http://192.0.2.45/verify?uid=12345">here</a> or
+    <a href="http://198.51.100.25/login?session=abc">https://secure-bank.com/login</a>.
+    </p>
+    <p>If you have any issues, visit our
+      <a href="https://help.securebank.com">Help Center</a> or review our
+      <a href="https://policies.securebank.com/privacy-policy.html">Privacy Policy</a>.
+    </p>
+    <a href="http://malicious-domain.net/empty"></a>
+    <p><a href="http://203.0.113.10/reset"><img src="https://securebank.com/logo.png" alt="SecureBank Logo"></a></p>
+    <p>Thank you,<br>SecureBank Security Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.1615856881234--

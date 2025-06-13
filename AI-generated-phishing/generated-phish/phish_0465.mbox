@@ -1,0 +1,47 @@
+From MAILER-DAEMON Tue Oct 10 09:12:34 2023
+Return-Path: <no-reply@secure-verify.com>
+Delivered-To: victim@example.com
+Received: by 10.1.2.3 with SMTP id ab12cdefg4567;
+        Tue, 10 Oct 2023 09:12:34 -0700 (PDT)
+Received: from unknown (HELO secure-verify.com) (203.0.113.51)
+        by mail.example.com with SMTP; Tue, 10 Oct 2023 09:12:30 -0700 (PDT)
+Date: Tue, 10 Oct 2023 09:12:30 -0700
+From: alerts@banking-services.com
+Subject: Urgent: Account Verification Needed Immediately
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000123456789"
+
+--000000000000123456789
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We noticed some unusual activity in your account and need you to verify your information to ensure your account security. Please visit our secure site immediately.
+
+Visit secure verification: [http://secure.banking-serv.com](http://secure.banking-serv.com)
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Your Banking Team
+
+--000000000000123456789
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <head>
+    <title>Account Update Required</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected suspicious activity in your account and require you to verify your details to avoid any disruption in service. Please follow the link below:</p>
+    <p><a href="http://login.secure-bankverify.com"><img src="https://www.yourbank.com/assets/login_button.png" alt="Log In"></a></p>
+    <p>Alternatively, you can verify <a href="http://login.secure-bankverify.com">here</a>.</p>
+    <p>For your convenience, please refer to our <a href="https://www.yourbank.com/privacy-policy">Privacy Policy</a>.</p>
+    <br>
+    <p>Thank you,</p>
+    <p>Your Banking Team</p>
+  </body>
+</html>
+
+--000000000000123456789---

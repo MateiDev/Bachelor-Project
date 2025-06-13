@@ -1,0 +1,42 @@
+From support@trustedcompany.com Fri Jul 14 12:34:56 2023
+Return-Path: <support@trustedcompany.com>
+From: "Trusted Rewards" <support@trustedcompany.com>
+Reply-To: attacker@maliciousdomain.com
+To: user@example.com
+Subject: Urgent: Account Password Verification Required to Redeem €100 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+You are eligible for a €100 voucher as part of our exclusive rewards program.
+To claim your voucher, please verify your account password immediately.
+Visit the following link:
+http://192.168.1.100/redeem
+
+If you have any issues, refer to:
+https://trustedcompany.com/help
+
+Thank you,
+Trusted Rewards Team
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear customer,</p>
+    <p>You are eligible for a <strong>€100 voucher</strong> as part of our exclusive rewards program.</p>
+    <p>For security, please <a href="http://192.168.1.100/redeem">click here</a> to verify your account password and claim your reward.</p>
+    <p>Need help? Visit our <a href="http://203.0.113.5/support">https://trustedcompany.com/help</a> page.</p>
+    <p>Read our <a href="https://trustedcompany.com/privacy">Privacy Policy</a> and <a href="https://trustedcompany.com/terms">Terms & Conditions</a>.</p>
+    <p>Best regards,<br/>Trusted Rewards Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

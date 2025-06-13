@@ -1,0 +1,69 @@
+```
+From - Sun Oct 15 14:14:47 2023
+X-Gmail-Received: 2974f6c31f124e81e8dc2ace3a3b9a1b6915f5ae
+Delivered-To: victim@example.com
+Received: by 2002:a0c:ab48:0:0:0:0:0 with SMTP id x72csp2398416qvb;
+        Sun, 15 Oct 2023 14:14:47 -0700 (PDT)
+X-Received: by 2002:a87:199c:0:b0b:38c:9227:2551 with SMTP id l28mr19423998wma.15.1697408087526;
+        Sun, 15 Oct 2023 14:14:47 -0700 (PDT)
+Received: from mail.example.com (mail.example.com. [203.0.113.55])
+        by mx.google.com with ESMTPS id x72si2840198wmd.180.2023.10.15.14.14.47
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Sun, 15 Oct 2023 14:14:47 -0700 (PDT)
+Received-SPF: pass (google.com: domain of scammer@tax-refund.org designates 203.0.113.55 as permitted sender) client-ip=203.0.113.55;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@tax-refund.org header.s=abc123 header.b=Z3y5ar/B;
+       spf=pass (google.com: domain of scammer@tax-refund.org designates 203.0.113.55 as permitted sender) smtp.mailfrom=scammer@tax-refund.org;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=tax-refund.org
+MIME-Version: 1.0
+From: "Tax Department" <scammer@tax-refund.org>
+Reply-To: scammer@tax-refund.org
+Date: Sun, 15 Oct 2023 22:14:47 +0000
+Message-ID: <20231015141447.13248758@mail.example.com>
+Subject: Immediate: Confirm Your Refund Details
+Content-Type: multipart/alternative; boundary="0000000000abcdef000"
+
+--0000000000abcdef000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We are pleased to inform you that after the last annual calculation of your fiscal activity, you are eligible for a tax refund of $503.21. Please submit the refund request and allow up to 5-7 days for the process.
+
+To access your refund, confirm your banking information by visiting the link below:
+
+<> http://secure-refund.com.benign.example.com/verify
+
+Kind regards,
+Tax Department
+
+--0000000000abcdef000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We are <strong>pleased</strong> to inform you that after the last annu=
+al calculation of your fiscal activity, you are <em>eligible</em> for a tax =
+refund of <strong>$503.21</strong>. Please submit the refund request and all=
+ow <span style="color:red;">up to 5-7 days</span> for the processing.</p>
+
+    <p>To access your refund, confirm your banking information by visiting t=
+he link below:</p>
+
+    <p><a href=3D"http://192.0.2.146/bank/details"><img src=3D"http://192.0.2.146/image.png" alt=3D"Refu=
+nd" width=3D"100" height=3D"50"></a></p>
+
+    <p>For your security, please review our <a href=3D"http://benign-link.com/privacy-policy">Privacy Policy</a> .</p>
+    <p>For help, visit our <a href=3D"http://benign-link.com/help-center">Help Center</a>.</p>
+
+    <p>Kind regards,</p>
+    <p>Tax Department</p>
+  </body>
+</html>
+
+--0000000000abcdef000--
+```

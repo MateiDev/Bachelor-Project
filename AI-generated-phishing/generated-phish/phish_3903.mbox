@@ -1,0 +1,47 @@
+From noreply@secure-mail.com Fri Jul 23 15:02:03 +0000
+Return-Path: <noreply@secure-mail.com>
+Received: from smtp.secure-mail.com (smtp.secure-mail.com [192.0.2.50])
+    by mx.testing-mail.com with ESMTP id A1B2C3D4;
+    Fri, 23 Jul 2021 15:02:03 +0000 (UTC)
+From: "Secure Mail Portal" <noreply@secure-mail.com>
+Reply-To: support@portal-security-update.com
+To: user@testing-mail.com
+Subject: Urgent: Account Password Verification Required
+Date: Fri, 23 Jul 2021 15:02:03 +0000
+Message-ID: <20210723150203.12345@smtp.secure-mail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BoundaryString"
+
+--BoundaryString
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+Your account password needs immediate verification. Failure to act within 24 hours will result in account suspension.
+
+View the message now:
+http://secure-mail.portal.security.com/verify
+
+Regards,
+Secure Mail Team
+
+--BoundaryString
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Urgent: Account Password Verification</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>Your <strong>account</strong> <em>password</em> requires <span style="color:red">immediate verification</span>. Please <a href="http://secure-mail.portal.security.com/verify">view your secure message</a> to update your credentials <strong>now</strong>.</p>
+<p>For help, visit our <a href="https://portal.secure-mail.com/help">help center</a> or read our <a href="https://portal.secure-mail.com/privacy">privacy-policy</a>.</p>
+<p>You have <a href="http://verification.secure.mail.service.net/check"><img src="http://portal-images.testing-mail.net/logo.png" alt="Secure Mail" /></a> pending messages.</p>
+<p>Click <a href="http://spoofed-mail.smtp-portal.com/view"></a> to open the encrypted secure-mail.</p>
+<p>To confirm your password, click <a href="http://fake.update-portal.com/process">here</a>.</p>
+<p>Alternatively, go to <a href="http://phish-testing.org/verify">https://portal.secure-mail.com/login</a> to log into your account.</p>
+<p style="color:red">If you do not act within 24 hours, your access will be suspended.</p>
+<p>Thank you,<br/>Secure Mail Support Team</p>
+</body>
+</html>
+--BoundaryString--

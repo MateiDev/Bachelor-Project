@@ -1,0 +1,28 @@
+```mbox
+From - Thu Oct 19 14:28:05 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:
+Return-Path: <fake-billing@taxservice.com>
+Received: from mail.taxservice.com ([192.168.1.100]) by smtp.mailtrap.io (Postfix) with ESMTP id 1234567890 for <victim@example.com>; Thu, 19 Oct 2023 14:28:05 +0000 (UTC)
+Reply-To: payment-update@taxrefunds-confirmation.com
+From: Tax Refund <fake-billing@taxservice.com>
+Subject: Important: Tax Refund Confirmation Required
+Date: Thu, 19 Oct 2023 14:28:05 +0000
+Message-ID: <000001d392083c0c-7f4c8c23-aadb-41a8-bb67-2d2a69d331b2@taxservice.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html>
+<head></head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We have calculated your tax refund for the fiscal year, and you have an outstanding balance awaiting confirmation. Please complete your verification to receive your refund.</p>
+  <p>Click <a href="http://192.0.2.1/refund">here</a> to confirm your details.</p>
+  <p>If you have any questions, feel free to review our <a href="http://taxservice.com/privacy-policy">Privacy Policy</a> or visit our <a href="http://support.taxservice.com/help">Help Center</a>.</p>
+  <p>Visit {!! link !!}</p>
+</body>
+</html>
+```

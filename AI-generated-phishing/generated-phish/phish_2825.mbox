@@ -1,0 +1,61 @@
+From MAILER-DAEMON@example.com Thu Oct 12 10:28:53 2023
+Return-Path: <noreply-security@securealerts.com>
+Delivered-To: victim@example.com
+Received: by 10.0.0.1 with SMTP id d29csp319234qkd;
+        Thu, 12 Oct 2023 10:28:53 -0700 (PDT)
+X-Received: by 10.0.0.1 with SMTP id h19mr5412520qka.47.1482513232225;
+        Thu, 12 Oct 2023 10:28:53 -0700 (PDT)
+Return-Path: <noreply-security@securealerts.com>
+Received: from smtp.securealerts.com (ip-203-0-113-5.example.com. [203.0.113.5])
+        by mx.google.com with ESMTPS id d29tb123456qkb.10.2023.10.12.10.28.53
+        for <victim@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 12 Oct 2023 10:28:53 -0700 (PDT)
+Reply-To: secure-login@safety.com
+From: "Secure Account Alert" <noreply-security@securealerts.com>
+Date: Thu, 12 Oct 2023 17:28:53 +0000
+Message-ID: <000001d39aa1$0a5e7d70$1f1b6820$@securealerts.com>
+Subject: Urgent: Action Required - Unauthorized Access Attempt Detected
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_0012_01D39AA1.0A5D8D20"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0012_01D39AA1.0A5D8D20
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We noticed an unauthorized attempt to access your account. For your security, please verify your identity immediately by visiting our secure portal.
+
+Secure Verification: http://192.0.2.1/login
+
+Thank you for your prompt attention to this matter.
+
+------=_NextPart_000_0012_01D39AA1.0A5D8D20
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+    <title>Account Security Notice</title>
+</head>
+<body>
+    <p><strong>Dear user,</strong></p>
+    <p>We noticed an <em>unauthorized attempt</em> to access your account. For your security, <strong>please verify your identity immediately</strong> by visiting our secure portal.</p>
+    <p align="center">
+        <a href="http://192.0.2.1/login"><img src="http://www.example.com/secureimage.png" alt="Secure Login"></a>
+    </p>
+    <p>Alternatively, you can click <a href="http://192.0.2.1/login">here</a> to proceed to the secure login page.</p>
+    <p>For more information, you can visit our <a href="http://example.com/privacy-policy">privacy policy</a> or <a href="http://example.com/help">help center</a>.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <br>
+    <footer>
+    <a href="http://example.com/footer-link"></a> <!-- Empty visible <a> text -->
+    </footer>
+</body>
+</html>
+
+------=_NextPart_000_0012_01D39AA1.0A5D8D20--

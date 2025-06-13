@@ -1,0 +1,45 @@
+From security@securebank.com Tue Jun 25 10:00:00 2024
+Return-Path: <security@securebank.com>
+Delivered-To: user@victim.com
+Received: from [203.0.113.45] by mail.securebank.com with SMTP id ABC123; Tue, 25 Jun 2024 10:00:00 -0400
+From: Secure Portal <security@securebank.com>
+Reply-To: Customer Support <support@securebank-support.com>
+To: user@victim.com
+Subject: [SECURITY ALERT] Encrypted Secure-Mail Notification
+Date: Tue, 25 Jun 2024 10:00:00 -0400
+Message-ID: <20240625100000@securebank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01A2B3"
+
+------=_NextPart_000_01A2B3
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+You have received an encrypted secure-mail awaiting your review. To view the message, please visit the secure portal:
+
+https://securebank.com/view?mid=omZb7k
+
+If you do not review within 24 hours, the message will expire.
+
+Thank you,
+Secure Banking Team
+
+------=_NextPart_000_01A2B3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>You have received an encrypted secure-mail awaiting your review. To view the message securely, please click the link below:</p>
+    <p><a href="http://123.45.67.89/login?redirect=/mail/view?mid=omZb7k">https://securebank.com/view?mid=omZb7k</a></p>
+    <p>Alternatively, you may <a href="http://123.45.67.89/secure-session?token=9f5e">here</a> to proceed.</p>
+    <p><a href="http://123.45.67.89/hidden"></a></p>
+    <p>For help with the secure portal, visit our <a href="https://securebank.com/help/faq">help center</a> or view our <a href="https://securebank.com/privacy-policy">privacy policy</a>.</p>
+    <p>Thank you,<br/>Secure Banking Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_01A2B3--

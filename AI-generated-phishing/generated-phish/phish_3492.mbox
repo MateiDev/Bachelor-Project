@@ -1,0 +1,38 @@
+From taxdept@official.gov Tue May 14 09:15:00 2024
+Reply-To: taxhelp@refund-checks.com
+Subject: Urgent: Tax Refund Pending – Confirm Your ACCOUNT Details
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===XYZ==="
+
+--===XYZ===
+Content-Type: text/plain; charset=UTF-8
+
+Dear Taxpayer,
+
+Our records show that a refund of $25.00 is pending. To receive your refund, please visit the link below and confirm your bank information:
+
+Confirm here: http://192.0.2.55/verify
+
+If you do not respond within 48 hours, your refund will be canceled.
+
+For more info, see our Privacy Policy: https://www.irs.gov/privacy-policy
+
+Best regards,
+IRS Tax Department
+
+--===XYZ===
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Urgent: Tax Refund Pending – Confirm Your Account Details</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Our records show that a refund of <strong>$25.00</strong> is pending. To receive your refund, please <a href="http://192.0.2.55/verify"><img src="http://198.51.100.10/images/verify.png" alt="Verify Refund"></a></p>
+<p>If the image doesn't load, <a href="http://192.0.2.55/verify"></a> here.</p>
+<p>Alternatively, you can <a href="http://203.0.113.45/login">https://secure.irs.gov/refund</a> to update your <em>account</em> information.</p>
+<p>For help or to read our <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a>.</p>
+</body>
+</html>
+--===XYZ===

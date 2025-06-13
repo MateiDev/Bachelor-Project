@@ -1,0 +1,48 @@
+From notifications@microsoft.com Thu Sep 14 08:15:30 2023
+Reply-To: support@security-update.com
+From: notifications@microsoft.com
+To: user@example.com
+Date: Thu, 14 Sep 2023 08:15:30 +0000
+Subject: Urgent: Verify Your Account Password to Claim Your €100 Voucher
+Message-ID: <20230914081530.12345@notifications.microsoft.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You're eligible to receive a €100 gift voucher. To claim your reward, please click the link below:
+
+http://192.0.2.1/voucher?code=ABC123
+
+For faster processing, you may also visit:
+http://203.0.113.5/redeem?user=XYZ
+
+As this is urgent, failure to claim will result in voucher cancellation. Verify your account password now to secure your reward.
+
+Best regards,
+The Microsoft Rewards Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You're eligible to receive a <strong>€100 gift voucher</strong>. To claim your reward, please click below:</p>
+    <p>
+      <a href="http://192.0.2.1/voucher?code=ABC123"></a>
+      <a href="http://203.0.113.5/redeem?user=XYZ">
+        <img src="http://198.51.100.2/images/claim.png" alt="Click here to claim your voucher">
+      </a>
+    </p>
+    <p>This is an <strong>urgent</strong> request. Verify your <em>account</em> <em>password</em> now to secure your reward.</p>
+    <p>Best regards,<br>The Microsoft Rewards Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

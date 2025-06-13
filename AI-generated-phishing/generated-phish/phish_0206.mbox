@@ -1,0 +1,51 @@
+```
+From - Wed Oct 25 14:18:02 2023
+X-Account-Key: account2
+X-UIDL: 4dd84a6d-ch7u-9ssf-17d9-fgh7f8g7f8
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-path: <notification@parcelcenter.com>
+Envelope-to: victim@example.com
+Delivery-date: Wed, 25 Oct 2023 14:18:02 +0000
+Received: from unknown (HELO 203.0.113.10) (203.0.113.10)
+    by mail0.example.com with SMTP; Wed, 25 Oct 2023 14:18:02 +0000
+Received: from dispatch.parcel.com (203.0.113.10) 
+	by unknown.server.com with esmtp; Wed, 25 Oct 2023 14:17:59 +0000
+Date: Wed, 25 Oct 2023 14:17:59 +0000
+From: "Parcel Delivery Service" <notification@parcelcenter.com>
+Reply-To: "Parcel Delivery Support" <support@parcelcenter.com>
+Subject: Urgent: Action Required to Release Your Held Package
+Message-ID: <5b8f8f7f-9f7d-4c8d-8e78-1fd0c5b5c5a6@parcelcenter.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_001_0987654321.1234567890123"
+
+------=_Part_001_0987654321.1234567890123
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We tried to deliver your package today but were unable to reach you. Your parcel is being held at our facility. To schedule a redelivery or pickup, please confirm your shipping details and pay a small processing fee:
+
+Click here to resolve: <http://5.196.7.8/update-info>
+
+Thank you for choosing our service.
+
+Parcel Delivery Services
+
+------=_Part_001_0987654321.1234567890123
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We tried to deliver your package today but were unable to reach you. Your parcel is being held at our facility. To schedule a redelivery or pickup, please confirm your shipping details and pay a small processing fee:</p>
+    <p><a href="http://5.196.7.8/update-info">https://www.dhl.com/track</a></p>
+    <a href="http://203.0.113.15/verify"></a>
+    <p>Thank you for choosing our service.</p>
+    <p>Parcel Delivery Services</p>
+  </body>
+</html>
+------=_Part_001_0987654321.1234567890123--
+```

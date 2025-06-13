@@ -1,0 +1,47 @@
+From support@secure-banking.com Thu Jul 11 12:34:56 2024
+Return-Path: <support@secure-banking.com>
+From: "Secure Bank Support" <support@secure-banking.com>
+Reply-To: support@verification-team.biz
+To: victim@example.com
+Subject: URGENT: Account Password Expiry – Action Required
+Date: Thu, 11 Jul 2024 12:34:56 +0000
+Message-ID: <20240711123456.abcdef@secure-banking.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account from a new device—verify now. Your password expires today. To prevent suspension, reset immediately.
+
+To verify and reset your password, visit:
+http://123.45.67.89/login.secure.verify/reset
+
+For our Privacy Policy:
+https://secure-banking.com/privacy.policy
+
+Thank you,
+Secure Bank Support
+
+----=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: Account Verification Required</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected an <strong>unusual sign-in</strong> attempt on your <strong>account</strong> from a new device—verify now.</p>
+<p>Your <strong>password</strong> expires today – <strong>reset immediately</strong> to avoid suspension.</p>
+<p>Please <a href="http://123.45.67.89/login.secure.verify/reset"></a> to verify your account and reset your password.</p>
+<p>For our <a href="https://secure-banking.com/privacy.policy">Privacy Policy</a>.</p>
+<p>Thank you,<br/>
+Secure Bank Support</p>
+</body>
+</html>
+
+----=_NextPart_000_001--

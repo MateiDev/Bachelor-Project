@@ -1,0 +1,46 @@
+From nobody Mon Oct 30 14:52:30 2023
+Return-Path: <security@securemailalerts.com>
+Received: from securemailalerts.com (smtp.securemailalerts.com [192.168.1.100])
+	by mail.example.com (Postfix) with ESMTP id 123456789AB;
+	Mon, 30 Oct 2023 14:52:30 +0000 (UTC)
+Date: Mon, 30 Oct 2023 14:50:30 +0000 (UTC)
+From: "Portal Security Alert" <security@securemailalerts.com>
+Reply-To: noreply@secure-alert.com
+To: victim@example.com
+Subject: Important: Secure Your Account Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_78901234.5678901234567"
+
+------=_Part_123456_78901234.5678901234567
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We've noticed unusual activity on your account. Please secure your account by clicking the link below:
+
+https://www.account-login-security.com/secure
+
+Best,
+Security Team
+
+------=_Part_123456_78901234.5678901234567
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We've noticed <strong>unusual activity</strong> on your account. Please secure your account by clicking the link below:</p>
+    <p>
+      <a href="https://secure.verifyupdate.com/security-check" target="_blank">
+        <img src="https://logos.secure-portal-alerts.s3.amazonaws.com/security.png" alt="Secure Now">
+      </a>
+    </p>
+    <p>Or copy this link into your browser: <a href="https://www.account-login-security.com/secure">https://www.account-login-security.com/secure</a></p>
+    <p>Best,<br>Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_78901234.5678901234567--

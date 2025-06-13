@@ -1,0 +1,57 @@
+```mbox
+From phishing.test@shipadvisor.com Thu Oct 12 01:41:48 2023
+Return-Path: <phishing.test@shipadvisor.com>
+Delivered-To: victim@example.com
+Received: from unknown (HELO server.shipadvisor.com) (198.51.100.1)
+    by mail.example.com with SMTP; Thu, 12 Oct 2023 01:40:00 +0000
+Received: by server.shipadvisor.com with SMTP id 12345
+    Thu, 12 Oct 2023 01:38:50 +0000 (UTC)
+Date: Thu, 12 Oct 2023 01:37:43 +0000
+From: "Shipping Alerts" <phishing.test@shipadvisor.com>
+To: victim@example.com
+Reply-To: service.desk@supportintl.com
+Subject: Urgent: Action Required for Your Held Parcel Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_Part_123456_0987654321.1234567890123"
+
+------=_Part_123456_0987654321.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel is on hold and requires immediate action to be delivered. 
+For more details and to proceed with your parcel, please click here:
+http://198.51.100.2/secure-retrieval. 
+
+You will need to confirm your account details and pay a small delivery fee. 
+
+Thank you for choosing our services.
+
+Best Regards,
+Shipping Alerts Team
+
+------=_Part_123456_0987654321.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your parcel is on hold and requires immediate action to be delivered.</p>
+    <p>For more details and to proceed with your parcel, please click 
+      <a href="http://198.51.100.2/secure-retrieval">here</a>.
+    </p>
+    <p>You will need to confirm your account details and pay a small delivery fee.</p>
+    <p>Thank you for choosing our services.</p>
+    <p><img src="tracking.jpg" alt="Track your parcel" />
+      <a href="http://www.example.com/track">Track your parcel</a>
+    </p>
+    <p><a href="http://www.securesite.com/privacy-policy">Privacy Policy</a> | 
+       <a href="http://www.securesite.com/help">Help</a></p>
+    <p>Best Regards,<br/>Shipping Alerts Team</p>
+  </body>
+</html>
+------=_Part_123456_0987654321.1234567890123--
+```

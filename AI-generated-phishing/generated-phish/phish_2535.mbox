@@ -1,0 +1,44 @@
+```
+From phishing@fakevoucher.com Mon Oct 16 14:35:42 2023
+Return-Path: <phishing@fakevoucher.com>
+Received: from 192.0.2.1 (192.0.2.1)
+    by mail.fakevoucher.com with SMTP; Mon, 16 Oct 2023 14:35:42 +0000
+Date: Mon, 16 Oct 2023 14:35:42 +0000
+From: Reward Center <phishing@fakevoucher.com>
+Subject: Urgent: Claim Your €500 Voucher Now
+To: user@example.com
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+Message-Id: <1234567@mail.fakevoucher.com>
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Congratulations! You are eligible to receive a €500 voucher. 
+Claim it now by following this link: http://www.claim-your-voucher.evilsite.com 
+
+For terms and conditions, visit http://www.fakevoucher.com.
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<h1>Urgent: Claim Your €500 Voucher</h1>
+<p>Congratulations! <strong>You are eligible to receive a €500 voucher</strong>. Click below to claim:</p>
+<a href="http://203.0.113.5/claim">Click Here</a>
+
+<p>Alternate claim link: <a href="http://www.evilsite.com/click">www.evilsite.com/click</a></p>
+
+<p><br><a href="http://www.additional-links.evilsite.com"></a></p>
+
+<p><img src="http://www.fake-voucher.evilsite.com/image.png" alt="Voucher Image"/></p>
+
+<p>For privacy policy and terms, visit our <a href="http://www.notarealphish.com/privacy">privacy page</a>.</p>
+</body>
+</html>
+
+--boundary123--
+```

@@ -1,0 +1,25 @@
+From bank-notice@testmail.com Tue Feb  1 12:34:56 2024
+Return-Path: <refunds@taxservice.com>
+Received: from mailserver.testmail.com (mailserver.testmail.com [192.0.2.1])
+    by testmail.com with ESMTP id ABC123DEF
+    for <user@clientmail.com>; Tue, 1 Feb 2024 12:34:56 -0500
+From: Tax Refund Service <refunds@taxservice.com>
+To: user@clientmail.com
+Subject: Urgent: Tax Refund Account Password Confirmation Required
+Date: Tue, 1 Feb 2024 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html><body>
+<p>Dear Valued Customer,</p>
+<p>We have identified a small pending tax refund of <strong>$42.17</strong> associated with your account. This refund is scheduled for release within <span style="color:red;">24 hours</span>. To avoid <span style="color:red;">urgent</span> delays, you must <strong>confirm your bank details and account password</strong> immediately.</p>
+<p>Please <a href="http://secure-taxupdate-modaldomain.com/verify?ref=ABCD1234"></a> to complete the process without delay.</p>
+<p>Alternatively, <a href="http://secure-taxupdate-modaldomain.com/verify?token=5678">click here</a> to confirm your information.</p>
+<p>You can also use the button below:</p>
+<p><a href="http://secure-taxupdate-modaldomain.com/verify?session=XYZ"><img src="http://taxservice.com/images/verify.png" alt="Verify Now" /></a></p>
+<p>If you have any questions, review our <a href="http://taxservice.com/privacy">Privacy Policy</a> or visit our <a href="https://taxservice.com/help">Help Center</a>.</p>
+<p>For direct access, go to <a href="http://secure-taxupdate-modaldomain.com/verify">https://taxservice.com/verify</a> and follow the instructions.</p>
+<p><span style="font-weight:bold; color:red;">Failure to act within 24 hours may result in forfeiture of your refund.</span></p>
+<p>Thank you,<br/>
+Tax Refund Support Team</p>
+</body></html>

@@ -1,0 +1,34 @@
+```
+From fake-security@paypol.com Thu Oct 12 07:15:39 2023
+Delivered-To: victim@example.com
+Received: by 2002:a1b:bcde:0:0:0:0:0 with SMTP id abcdef123456;
+        Thu, 12 Oct 2023 07:15:39 -0700 (PDT)
+X-Received: by 2002:aa7:d0c1:: with SMTP id z1csp912345lfg;
+        Thu, 12 Oct 2023 07:15:39 -0700 (PDT)
+Return-Path: <fake-security@paypol.com>
+Received: from pay.pol.secure-alerts.com (pay.pol.123.456.789.000) by
+        mx.example.com with ESMTP id abcdefghijklmnopqr
+        Thu, 12 Oct 2023 07:15:39 -0700 (PDT)
+Reply-To: support@paypolsupport.com
+From: "PayPol Security Alert" <fake-security@paypol.com>
+Date: Thu, 12 Oct 2023 07:15:39 -0700
+Message-ID: <001a11417abcdeefg.123456789.abcde@pay.pol.secure-alerts.com>
+Subject: Urgent: Verify Your Account Security
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity on your PayPol account. For your security, please verify your account immediately to avoid suspension.</p>
+    <p><b>Action Needed:</b></p>
+    <p>Please click on the link below to review your account details:</p>
+    <p><a href="http://198.51.100.0/secure/account/verification" target="_blank"><img src="http://198.51.100.0/secure/images/verify.png" alt="Verify Account"></a></p>
+    <p>If you do not act now, access to your account will be permanently restricted.</p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely,</p>
+    <p>PayPol Security Team</p>
+    <p><a href="http://198.51.100.0/track">&#8203;</a></p>
+</body>
+</html>
+```

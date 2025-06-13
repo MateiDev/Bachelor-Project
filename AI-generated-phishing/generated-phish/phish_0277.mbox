@@ -1,0 +1,42 @@
+```
+From nobody Thu Oct 19 10:29:34 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+From: "Account Security Team" <security-update@secure-portal.com>
+Subject: Urgent: Action Required to Secure Your Account
+Date: Thu, 19 Oct 2023 16:29:34 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_94_1078463180.3371402729802"
+
+------=_Part_94_1078463180.3371402729802
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity in your account. Immediate action is needed to prevent unauthorized access. Please visit your secure account portal to verify your identity:
+
+http://192.168.1.100/security-check
+
+This step is critical to maintain your account security. If you do not verify within 24 hours, your account will be temporarily suspended.
+
+Thank you,
+Account Security Team
+
+------=_Part_94_1078463180.3371402729802
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <b>suspicious activity</b> in your account. Immediate action is needed to prevent unauthorized access. Please visit your secure account portal to verify your identity:</p>
+    <p><a href="http://192.168.1.100/security-check">Verify Now</a></p>
+    <p>Use the decrypt link for full details: <a href="http://secure.portal-security.quickaccess.com/security-verification">http://secure.portal-security.quickaccess.com/security-verification</a></p>
+    <p>This step is critical to maintain your account security. If you do not verify within 24 hours, your account will be <b>temporarily suspended</b>.</p>
+    <p>Thank you,<br/>Account Security Team</p>
+  </body>
+</html>
+------=_Part_94_1078463180.3371402729802--
+```

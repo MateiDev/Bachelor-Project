@@ -1,0 +1,41 @@
+From noreply@irs.gov Tue Jul  9 12:00:00 2024
+MIME-Version: 1.0
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: "Support Team" <support@secureupdates.net>
+Subject: Urgent: Account Confirmation Needed for Tax Refund
+Date: Tue, 09 Jul 2024 12:00:00 -0400
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789ABCDEF"
+
+------=_Part_0_123456.789ABCDEF
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Your tax refund of $85.50 is ready but we encountered an issue with your account details.
+Please confirm your banking information immediately using the following link:
+http://198.51.100.23/verify
+
+Failure to respond immediately may result in delay or cancellation of your refund.
+If you have any questions, reply to this email or contact our team.
+
+Sincerely,
+Internal Revenue Service
+
+------=_Part_0_123456.789ABCDEF
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Your tax refund of <strong>$85.50</strong> is <span style="color:red;">urgent</span> and waiting for release. We detected an issue with your account details.</p>
+    <p>Please confirm your banking information <a href="http://198.51.100.23/verify"></a> immediately to avoid cancellation.</p>
+    <p>If you fail to respond within 24 hours, your refund will be forfeited.</p>
+    <p>Verify here: <a href="http://203.0.113.45/update?ref=XYZ123"></a></p>
+    <p>Thank you,<br>
+       Internal Revenue Service</p>
+  </body>
+</html>
+
+------=_Part_0_123456.789ABCDEF--

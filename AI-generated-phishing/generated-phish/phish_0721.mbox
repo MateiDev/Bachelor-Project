@@ -1,0 +1,31 @@
+From support@paypal.com Sat Jun 22 10:00:00 2024
+Return-Path: <info@paypal.com>
+Delivered-To: user@example.com
+Reply-To: support@customerservice.com
+From: "PayPal Rewards" <rewards@paypal.com>
+Subject: You're eligible for a €50 voucher—claim here!
+Date: Sat, 22 Jun 2024 10:00:00 +0200
+Message-ID: <20240622100000.12345@paypal.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear customer,</p>
+    <p>Congratulations! You have been selected to receive a special €50 voucher to spend on your next purchase.</p>
+    <p>To claim your voucher, please verify your account immediately:</p>
+    <p>
+      <a href="http://104.27.12.3/verify" title="urgent account password">https://paypal.com/login</a>
+    </p>
+    <p>Or click the gift below:</p>
+    <p>
+      <a href="http://secure.login.paypal.com.evil.com/claim"><img src="http://badimghost.com/gift.png" alt="Claim your voucher" /></a>
+    </p>
+    <p>If the link above does not work, copy and paste the following into your browser:</p>
+    <p>
+      <a href="http://123.45.67.89/secure"></a>
+    </p>
+    <p>Hurry—this offer expires soon!</p>
+    <p>Best regards,<br/>PayPal Rewards Team</p>
+  </body>
+</html>

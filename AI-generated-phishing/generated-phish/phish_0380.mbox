@@ -1,0 +1,32 @@
+```
+From nobody Mon Oct  2 12:34:56 2023
+Return-Path: <noreply@dhlpackage-service.com>
+Received: from unknown (HELO dhl.com) (123.45.67.89)
+  by yourserver.com with SMTP; Mon, 2 Oct 2023 12:30:00 -0000
+Date: Mon, 2 Oct 2023 12:30:00 -0000
+From: DHL Notifier <noreply@dhlpackage-service.com>
+Message-ID: <1234567890@dhl.com>
+Subject: URGENT: Immediate Action Required - Parcel Delivery Issue
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+    <p>Dear Customer,</p>
+    <p>We tried to deliver your package today, but there was an issue with the address provided. To ensure your parcel arrives on time, please confirm your details and pay the handling fee.</p>
+    <p>Visit the link to resolve this issue: 
+        <a href="http://differentdomain.fake/delivery">http://www.dhl.com/delivery/track</a>
+    </p>
+    <p><a href="http://anotherfakeurl.phishingsite.com/page"><img src="http://anotherfakeurl.phishingsite.com/image.jpg" alt="Track Your Package" /></a></p>
+    <p>You can also confirm your address by visiting this secure link:
+        <a href="http://fake.delivery-service.com/details">http://dhl.com/secure/details</a>
+    </p>
+    <p>This matter requires your URGENT attention to avoid further delay. For any questions, please visit our FAQs <a href="http://mismatched-dhl-site.phish/">http://dhl.com/faq</a>.</p>
+    <p><a href="">Click here</a> to complete the process.</p>
+    <p>Thank you,</p>
+    <p>DHL Support Team</p>
+</body>
+</html>
+```

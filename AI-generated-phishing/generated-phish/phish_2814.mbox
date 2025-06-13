@@ -1,0 +1,29 @@
+```mbox
+From nobody Thu Oct 12 16:20:00 2023
+Return-Path: <spoofing@parcelxservice.com>
+Date: Thu, 12 Oct 2023 16:20:00 +0000
+From: "DHL Express" <parcelupdate@dhl.com>
+Reply-To: urgent-update@delivery-alerts.com
+To: <victim@example.com>
+Subject: Urgent: Action Required for Your DHL Package
+
+--boundary
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Your Package Delivery Update</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package today, but were unable to due to an unpaid fee. It's urgent to <a href="http://192.0.2.1/delivery/update">click here</a> and pay the pending fee to avoid returning the package.</p>
+<p>Tracking Number: DHL12345678</p>
+<img src="http://192.0.2.1/tracking/logo.png" alt="DHL Logo"/>
+<p>For your privacy, you can review our <a href="https://www.dhl.com/en/privacy-policy.html">privacy policy</a> and <a href="https://www.dhl.com/en/help.html">help</a> here.</p>
+<p>If you wish to reschedule the delivery, please visit <a href="http://192.0.2.1/schedule?ref=DHL12345678">www.dhl.com/schedule</a>.</p>
+<p>Best regards,<br>DHL Express Delivery Team</p>
+</body>
+</html>
+--boundary--
+```

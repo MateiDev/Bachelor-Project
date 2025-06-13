@@ -1,0 +1,52 @@
+From support@trustedcompany.com Thu Jul 18 09:45:00 2024
+Return-Path: <support@trustedcompany.com>
+Received: from mail.trustedcompany.com (mail.trustedcompany.com [198.51.100.25])
+    by inbound-smtp.mailtrap.io with ESMTP id xyz123
+    for <user@example.com>; Thu, 18 Jul 2024 09:45:00 +0200 (CEST)
+Date: Thu, 18 Jul 2024 09:45:00 +0200
+Message-ID: <E6D12B7B-6ACC-4E3C-A9E1-ABCDEF12345@trustedcompany.com>
+Subject: URGENT Account Password Update & Voucher Notification
+From: Customer Support <support@trustedcompany.com>
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+
+----=_Part_123456_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We recently detected unusual activity on your account. As a safety measure, your password update is URGENT and must be completed within 24 hours to avoid suspension. Additionally, you’re eligible for a €50 voucher as a token of our appreciation—claim here: http://reward.verify-login.portal.secure-login.com/redeem?code=EU50XYZ
+
+To update your password immediately, visit:
+http://secure.trustedcompany.com/account/password-update
+
+If you have any questions, please see our Privacy Policy at http://secure.trustedcompany.com/help/privacy-policy.php or contact Support at http://support.trustedcompany.com/contact.us.php
+
+Failure to update in time will result in account locking. Act now to secure your account and get your reward!
+
+Best regards,
+Customer Support Team
+trustedcompany.com
+
+----=_Part_123456_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p>Dear Customer,</p>
+    <p style="color: #c00; font-weight: bold;">We detected unusual activity on your account!</p>
+    <p>This is an <span style="color: #c00; font-weight: bold;">URGENT</span> notice. You must update your password <strong>within 24 hours</strong> to avoid <em>immediate suspension</em>.</p>
+    <p>As a thank you for your prompt action, you’re eligible for a <strong>€50 voucher</strong>. To claim it, <a href="http://reward.verify-login.portal.secure-login.com/redeem?code=EU50XYZ">click here</a> or use the empty link below:</p>
+    <p><a href="http://voucher-giftcards.claim-official.com/activate"></a></p>
+    <p>You can also update your password by visiting 
+       <a href="http://secure.trustedcompany.com/account/password-update">our secure page</a>.</p>
+    <p>Need help? <a href="https://secure.trustedcompany.com/help/privacy-policy.php">Privacy Policy</a> | <a href="https://support.trustedcompany.com/contact.us.php">Help Center</a></p>
+    <p style="font-size: 0.9em; color: #666;">If you do not take action immediately, your account will be locked.</p>
+    <p>Thank you,<br>Customer Support Team</p>
+  </body>
+</html>
+
+----=_Part_123456_abcdef--

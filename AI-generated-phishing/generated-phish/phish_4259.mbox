@@ -1,0 +1,46 @@
+From phishing@paypal.com Tue Jul 16 12:15:00 2024
+Return-Path: <support@paypal.com>
+Received: from mailserver.fake by mx.google.com with ESMTP id abc123
+    for <user@example.org>; Tue, 16 Jul 2024 12:15:00 +0000
+From: "PayPal Support" <support@paypal.com>
+Reply-To: admin@security-alerts.fake-domain.net
+To: user@example.org
+Subject: Urgent: Verify Your PayPal Account Password
+Date: Tue, 16 Jul 2024 12:15:00 +0000
+Message-ID: <20240716121500.abc123@paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001"
+
+------=_Part_000_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal Customer,
+
+We have detected unusual activity in your account. Please verify your account password immediately by visiting the link below:
+
+http://203.0.113.5/secure-login
+
+Thank you,
+
+PayPal Security Team
+
+------=_Part_000_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Verify Your PayPal Account Password</title></head>
+<body>
+<p>Dear PayPal Customer,</p>
+<p>We noticed unusual activity on your account and require <strong>immediate</strong> verification.</p>
+<p>Please <a href="http://203.0.113.5/secure-login">click here</a> to verify your login information.</p>
+<p>Alternatively, visit our secure portal: <a href="http://secure.login.verify.paypal.account.com/login?ref=URGENT">https://paypal.com/secure-login</a></p>
+<p><a href="http://192.0.2.123/authenticate"><img src="http://203.0.113.5/images/login_button.png" alt="Login Now"></a></p>
+<p>For more info, check our <a href="https://www.paypal.com/us/legalhub/privacy-full">Privacy Policy</a>.</p>
+<p>Use this link if the above does not load: <a href="http://updates.paypalhelp.support.com/reset"></a></p>
+<p>Thank you,<br>PayPal Security Team</p>
+</body>
+</html>
+
+------=_Part_000_001--

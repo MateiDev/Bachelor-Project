@@ -1,0 +1,34 @@
+```
+From jim@secure-mail.com Mon Oct 30 10:00:00 2023
+Return-Path: <jim@secure-mail.com>
+Received: from unknown (HELO 192.168.1.2) (192.168.1.2)
+  by mail.yourdomain.com with SMTP; Mon, 30 Oct 2023 10:00:00 -0700
+Date: Mon, 30 Oct 2023 10:00:00 -0700
+From: Portal Security Team <alert@secure-mail.com>
+To: user@example.com
+Subject: Urgent: Immediate Action Required for Your Account Security
+
+Dear Valued User,
+
+We have detected suspicious activity in your account and your immediate attention is required to secure your information. Failure to act immediately may result in temporary suspension of your access.
+
+Please verify your account to avoid any disruptions. Click the secure link below to proceed with the verification process:
+
+http://securemail.update.portal-login.com
+
+If the link does not work, type the following URL directly into your browser:
+
+http://securemail.update.portal-login.com
+
+We urge you to complete this verification to prevent any further issues. For more information on how we protect your account, please review our privacy policy and help section below:
+
+Privacy Policy: http://secure-mail.com/privacy
+Help: http://secure-mail.com/help
+
+Remember, your security is our top priority.
+
+Regards,
+Portal Security Team
+
+Note: This message was sent from an unmonitored email address. Please do not reply to this email.
+```

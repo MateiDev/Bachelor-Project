@@ -1,0 +1,44 @@
+```mbox
+From nobody Fri Oct 13 10:00:00 2023
+Date: Fri, 13 Oct 2023 09:59:59 -0700
+From: PayPal Support <security-notice@paypal.com>
+To: victim@example.com
+Subject: Urgent: Immediate Action Required to Secure Your Account
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal User,
+
+We need your immediate attention to secure your account. We've noticed some unusual activity on your account and urgently need you to verify your identity to avoid any restrictions.
+
+Please login immediately by clicking on the link below:
+
+Login here: http://secure.paypal.com.security-check.paypal-update.com/
+
+Failure to do so may result in your account being suspended for security reasons.
+
+Thank you for your attention to this matter.
+
+PayPal Support Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear PayPal User,</p>
+    <p>We need your immediate attention to secure your account. We've noticed some unusual activity on your account and urgently need you to verify your identity to avoid any restrictions.</p>
+    <p>Please login immediately by clicking on the link below:</p>
+    <p><a href="http://secure.paypal.com.security-check.paypal-update.com/">   </a></p>
+    <p>Failure to do so may result in your account being suspended for security reasons.</p>
+    <p>Thank you for your attention to this matter.</p>
+    <p>PayPal Support Team</p>
+    <img src="http://images.paypal.com/logo.png" alt="PayPal Logo" />
+  </body>
+</html>
+
+--boundary-string--
+```

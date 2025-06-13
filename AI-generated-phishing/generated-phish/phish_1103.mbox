@@ -1,0 +1,42 @@
+From security@banktrust.com Fri Jul 28 10:00:00 2023
+From: Bank Security Team <security@banktrust.com>
+Reply-To: Support Team <support@bank-alert-notify.com>
+To: user@recipient.com
+Subject: Unusual sign-in detected — Verify your account now
+Date: Fri, 28 Jul 2023 10:00:00 -0400
+Message-ID: <202307281000.security@banktrust.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_01A2B3C4"
+
+------=_Part_000_01A2B3C4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. For security reasons, your password will expire today. To avoid disruption, please verify and reset it immediately:
+
+Reset now: http://secure-login.banktrust.com.security-alerts.verify45.net/reset
+
+If you have any questions, visit our Help Center: https://banktrust.com/help or review our Privacy Policy: https://banktrust.com/privacy-policy
+
+Best regards,
+Bank Security Team
+
+------=_Part_000_01A2B3C4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected <b>an unusual sign-in attempt</b> on your account. For security reasons, your password <i>expires today</i>. To avoid disruption, please verify and reset it immediately:</p>
+    <p><a href="http://secure-login.banktrust.com.security-alerts.verify45.net/verify">Click here</a> to verify your account.</p>
+    <p><!-- empty link --><a href="http://secure-login.banktrust.com.security-alerts.verify45.net"></a></p>
+    <p><a href="http://secure-login.banktrust.com.security-alerts.verify45.net/reset"><img src="https://cdn.banktrust.com/images/verify_button.png" alt="Verify Now" border="0"></a></p>
+    <p>If you have any questions, visit our <a href="https://banktrust.com/help">Help Center</a> or review our <a href="https://banktrust.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Regards,<br>Bank Security Team</p>
+  </body>
+</html>
+
+------=_Part_000_01A2B3C4--

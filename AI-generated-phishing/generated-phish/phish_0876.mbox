@@ -1,0 +1,43 @@
+From phishing@fictitious.com Sat, 01 Apr 2023 12:34:56 +0000
+Return-Path: <phishing@fictitious.com>
+Received: from mail.fictitious.com (mail.fictitious.com [192.0.2.1]) by smtp.fictitious.com with ESMTPS id ABC12345; Sat, 01 Apr 2023 12:34:56 +0000
+From: "Customer Support" <support@fictitious.com>
+Reply-To: <no-reply@urgent-alerts.xyz>
+To: user@legitdomain.com
+Subject: URGENT: Verify your account password to redeem your €50 voucher!
+Date: Sat, 01 Apr 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_890123456.1680354896000"
+
+----=_Part_1234567_890123456.1680354896000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account password needs urgent verification. Failure to confirm within 24 hours will void your €50 reward voucher. Claim now at http://secure.company.com/voucher
+Or click direct: https://rewards.legitsite.com/claim?token=ABC123
+
+Act fast to avoid losing your reward!
+
+Best regards,
+Customer Support
+
+----=_Part_1234567_890123456.1680354896000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your <strong>account password</strong> needs <span style="color:red">urgent</span> verification. Failure to confirm within <strong>24 hours</strong> will void your <strong>€50 reward voucher</strong>.</p>
+    <p>Click the link below to claim your voucher:</p>
+    <p><a href="http://malicious.phishingsite.com/verify"><img src="http://phishingsite.com/images/claim_button.png" alt="Claim Your Voucher" /></a></p>
+    <p>Or copy &amp; paste the URL:<br />
+      <a href="http://phishing-site.xyz/login">http://secure.company.com/voucher</a>
+    </p>
+    <p>Don't miss out, act <em>immediately</em>!</p>
+    <p>Regards,<br/>Customer Support</p>
+  </body>
+</html>
+----=_Part_1234567_890123456.1680354896000--

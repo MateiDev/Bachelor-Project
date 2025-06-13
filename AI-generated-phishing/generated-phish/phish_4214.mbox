@@ -1,0 +1,57 @@
+From irs-refund@irs.gov Fri Jan  5 14:28:33 2024
+Return-Path: <irs-refund@irs.gov>
+From: IRS Support <irs-refund@irs.gov>
+To: user@example.com
+Subject: URGENT: Account Password Verification Required for Your Tax Refund
+Date: Fri,  5 Jan 2024 14:28:33 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+ALERT: Your federal tax refund of $47.32 is pending. To avoid delays or cancellation, you must immediately confirm your bank details. Failure to verify may result in seizure of funds.
+
+Please open the link below in your browser and follow the instructions:
+https://secure.irs.gov/update
+
+Thank you,
+IRS Refund Department
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p style="color:red;"><strong>CRITICAL NOTICE:</strong> Your federal tax refund of <strong>$47.32</strong> is awaiting confirmation.</p>
+    <p>To prevent automatic cancellation of your refund and ensure funds are deposited into your account, you must <em>confirm your bank details immediately</em>.</p>
+    <p>
+      Click here to verify now:
+      <a href="https://help.irs.gov.policy.manual.refund/update">click here</a>
+    </p>
+    <p>
+      Or use the secure link below:
+      <a href="http://195.54.36.72/secure">https://secure.irs.gov/update</a>
+    </p>
+    <p>
+      <!-- Empty anchor for stealth -->
+      <a href="http://192.0.2.50/confirm"></a>
+    </p>
+    <p>
+      If the link fails, <a href=""> </a> access via our mobile portal.
+    </p>
+    <p>
+      <a href="http://malicious.link/claim">
+        <img src="http://phish.co.rt/banner.jpg" alt="Confirm Refund" width="600" height="200" />
+      </a>
+    </p>
+    <p>Thank you,<br/>IRS Refund Department</p>
+  </body>
+</html>
+
+--BOUNDARY123--

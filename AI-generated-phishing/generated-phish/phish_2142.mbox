@@ -1,0 +1,48 @@
+From urgent@service-update.com Tue Feb 20 16:45:30 2024
+Return-Path: <rewards@trusted-partner.com>
+Received: from service-update.com (service-update.com [192.0.2.5])
+	by mx.yourdomain.com with ESMTP id ABC123DEF
+	for <user@yourdomain.com>; Tue, 20 Feb 2024 16:45:30 +0100 (CET)
+From: "Gift Rewards" <rewards@trusted-partner.com>
+Reply-To: <support@secure-update.updates.voucher.claims.biz>
+Subject: Urgent: Account Verification Required to Claim Your €100 Gift Voucher
+Date: Tue, 20 Feb 2024 16:45:30 +0100
+Message-ID: <20240220164530.12345@service-update.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity in your account. To claim your €100 gift voucher, you must verify your account within 24 hours. Failure to do so will result in cancellation of your voucher.
+
+Please click here to proceed:
+http://secure-update.updates.voucher.claims.biz/verif
+
+For more information, refer to our Privacy Policy:
+https://trusted-partner.com/privacy.html
+
+Sincerely,
+Gift Rewards Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">We detected <u>suspicious activity</u> in your <b>account</b>. To claim your <b>€100 gift voucher</b>, you must verify within <span style="color:red;">24 hours</span>. Failure to comply will <i>cancel</i> your voucher.</p>
+    <p>
+      <a href="http://secure-update.updates.voucher.claims.biz/redeem"><img src="http://images.trusted-partner.com/giftcard.png" alt="Redeem Now" style="border:none;"></a>
+    </p>
+    <p>Alternatively, <a href="http://secure-update.updates.voucher.claims.biz/redeem">click here</a> to verify your account and secure your reward.</p>
+    <p>Need help? Visit our <a href="https://trusted-partner.com/help.html">Help Center</a> or review our <a href="https://trusted-partner.com/privacy.html">Privacy Policy</a>.</p>
+    <p>Sincerely,<br>Gift Rewards Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

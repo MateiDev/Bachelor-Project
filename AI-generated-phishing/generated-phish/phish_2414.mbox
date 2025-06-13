@@ -1,0 +1,53 @@
+From security@portal.example.com Mon Aug 14 09:12:34 2023
+Return-Path: <security@portal.example.com>
+Received: from unknown (HELO portal.example.com) (203.0.113.99)
+    by mx.target.com with SMTP; Mon, 14 Aug 2023 09:12:34 +0000
+Received-SPF: SoftFail (sender SPF authorized through a third party); client-ip=203.0.113.99; envelope-from=security@portal.example.com; helo=portal.example.com
+To: victim@target.com
+Subject: Urgent: Password Account Alert
+From: "Portal Security" <security@portal.example.com>
+Reply-To: support@legitcompany.net
+Date: Mon, 14 Aug 2023 09:12:34 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="MSG-123456"
+
+--MSG-123456
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your account. To protect your password and personal information, please view the details of this security alert.
+
+Access your secure message at:
+http://203.0.113.45/auth
+
+Or via:
+http://secure.login.portalXYZ.co.uk/view/details
+
+Thank you,
+Portal Security Team
+
+--MSG-123456
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unusual activity</strong> on your account. To protect your <em>password</em> and personal information, please view the details of this security alert.</p>
+    <p>Secure message access:</p>
+    <ul>
+      <li>Via IP: <a href="http://203.0.113.45/auth">click here</a></li>
+      <li>Via Portal: <a href="http://secure.login.portalXYZ.co.uk/view/details">here</a></li>
+    </ul>
+    <p>
+      <a href="http://192.0.2.45/secure/main">
+        <img src="http://cdn.trustedmedia.com/images/securemail.png" alt="View Secure Message"/>
+      </a>
+    </p>
+    <p>Regards,<br/>Portal Security Team</p>
+  </body>
+</html>
+
+--MSG-123456--

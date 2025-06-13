@@ -1,0 +1,46 @@
+From security@secure.example.com Fri Jun 14 09:15:00 2024
+Return-Path: <security@secure.example.com>
+Delivered-To: user@example.com
+Received: by mail.example.com id abcd1234; Fri, 14 Jun 2024 09:15:00 -0400
+From: "Secure Service" <security@secure.example.com>
+Reply-To: security-alerts@accounts.example.com
+To: user@example.com
+Subject: Unusual sign-in detected – verify now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in attempt on your account from a new device.
+Your password expires today and must be reset immediately to avoid suspension.
+Please verify your identity and reset your password now:
+https://secure.example.com/verify?token=abc123
+
+If you do not act within 24 hours, your account will be locked.
+
+Thank you,
+Secure Service Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>Unusual sign‐in detected</strong> on your account from a new location.
+    <strong>Your password expires today – reset immediately</strong> to avoid suspension.</p>
+    <p>Please <a href="http://malicious.example.com/verify?token=abc123">https://secure.example.com/verify?token=abc123</a> to confirm your identity.</p>
+    <p><a href="http://malicious.example.com/action"></a></p>
+    <p>For assistance, visit our <a href="https://secure.example.com/help">Help Center</a> or read our
+    <a href="https://secure.example.com/privacy">Privacy Policy</a>.</p>
+    <p>If you have any questions, <a href="http://malicious.example.com/reset">here</a>.</p>
+    <p>Failure to verify within <em>24 hours</em> will result in account suspension.</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

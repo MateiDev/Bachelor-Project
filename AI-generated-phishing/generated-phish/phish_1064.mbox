@@ -1,0 +1,48 @@
+From spoofed@banksecure.com Sat Jul 24 14:06:00 2021
+Return-Path: <spoofed@banksecure.com>
+Delivered-To: user@victim.com
+Received: by mail.victim.com id abcd1234; Sat, 24 Jul 2021 14:06:00 -0400
+Received: from unknown (HELO mail.banksecure.com) (203.0.113.10)
+    by mail.victim.com with SMTP; Sat, 24 Jul 2021 14:06:00 -0400
+MIME-Version: 1.0
+From: "Bank Secure Portal" <no-reply@banksecure.com>
+To: user@victim.com
+Subject: URGENT: Account Password Expiry Notification
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1616681173000"
+Message-ID: <20210724140600.abcdef@mail.banksecure.com>
+Date: Sat, 24 Jul 2021 14:06:00 -0400
+
+----=_Part_12345_678901234.1616681173000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+URGENT: Your account password is expiring within 24 hours. Failure to update immediately will result in permanent lockout.
+
+Please view the secure notification:
+http://192.0.2.100/secure/update
+http://bank-secure.alerts.portal.verify.user.com/login?ref=security
+
+Thank you,
+Bank Secure Portal Team
+
+----=_Part_12345_678901234.1616681173000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong style="color:red;">URGENT:</strong> Your <em>account</em> <strong>password</strong> is expiring within 24 hours. Fail to update <span style="font-weight:bold;">immediately</span> will result in permanent lockout.</p>
+    <p>
+      <a href="http://192.0.2.100/secure/update">
+        <img src="http://cdn.bank-secure.alerts.verify.user.com/images/secure_button.png" alt="View Secure Mail" style="border:0;"/>
+      </a>
+    </p>
+    <p>Please <a href="http://bank-secure.alerts.portal.verify.user.com/login?ref=security">View Secure Notification</a> now to avoid service interruption.</p>
+    <p>Thank you,<br/>Bank Secure Portal Team</p>
+  </body>
+</html>
+
+----=_Part_12345_678901234.1616681173000--

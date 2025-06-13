@@ -1,0 +1,37 @@
+```
+From nobody Tue Oct 31 10:48:24 2023
+Return-Path: <randomuser@example.com>
+Delivered-To: victim@example.com
+Received: from mailsrv01.example.com (mailsrv01.example.com [192.0.2.1])
+	by mx.example.com (Postfix) with ESMTP id 1234ABCD
+	for <victim@example.com>; Tue, 31 Oct 2023 10:48:20 +0000 (UTC)
+Date: Tue, 31 Oct 2023 10:48:20 +0000 (UTC)
+From: "Customer Rewards" <rewards@trusted-email.com>
+To: "Valued Customer" <victim@example.com>
+Subject: 🚨 Last Chance: €100 Voucher Reward - Claim Immediately!
+Mime-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+
+<p>Congratulations! You are eligible to receive a €100 gift card from our latest promotion. Due to overwhelming demand, you must act immediately to claim your reward:</p>
+
+<p><strong>Warning:</strong> Failing to claim your voucher within 24 hours will result in forfeiture.</p>
+
+<p><a href="http://secure-validate.check-claims.example.com/gift/voucher/claim?id=123456">Click here</a> to collect your gift card now!</p>
+
+<img src="http://images.example.com/giftcard.jpg" alt="Gift Card" width="300">
+
+<p>For more information, please review our <a href="http://trusted-email.com/privacy-policy">Privacy Policy</a> or <a href="http://trusted-email.com/help">Help</a> section.</p>
+
+<p>Thank you for being a loyal customer!</p>
+
+<p>Best Regards,<br>Customer Rewards Team</p>
+
+<a href="http://check.this.reward-notices.com"> </a>
+
+</body>
+</html>
+```

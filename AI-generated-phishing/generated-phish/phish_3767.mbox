@@ -1,0 +1,51 @@
+From service@paypal.com Tue Jul  9 08:47:12 2024
+Return-Path: <service@paypal.com>
+From: "PayPal" <service@paypal.com>
+Reply-To: support@secure-update.com
+Subject: Urgent: Account Password Verification Required
+Date: Tue, 9 Jul 2024 08:47:12 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. To secure your account, please verify your password immediately.
+
+Please visit the following link to verify:
+http://123.45.67.89/login.php
+
+If you cannot click the link, copy and paste it into your browser.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We have detected unusual activity on your <strong>PayPal account</strong>. To keep your account secure, please verify your password immediately.</p>
+  <p><a href="http://123.45.67.89/login.php"></a></p>
+  <p>Please <a href="http://malicious.grab-site.com/verify">https://www.paypal.com/login</a> to proceed.</p>
+  <p>If the link above does not work, <a href="http://modal.phishmodal.com/window">here</a> to open the secure window.</p>
+  <p>Alternate secure login:
+    <a href="https://login.secure.paypal-login.auth.phishsite.com/">https://login.secure.paypal.com/</a>
+  </p>
+  <p>Your privacy is important. Read our
+    <a href="https://paypal.com.privacy.notify-update.com/policy">https://www.paypal.com/policy</a>
+  </p>
+  <p><a href="http://evil.phish/index.html"><img src="http://198.51.100.23/images/logo.png" alt="PayPal Logo" /></a></p>
+  <p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

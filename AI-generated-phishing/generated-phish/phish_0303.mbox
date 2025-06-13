@@ -1,0 +1,40 @@
+```mbox
+From phishing@alert-login-service.com Tue Oct 10 09:10:10 2023
+Return-Path: <phishing@alert-login-service.com>
+Delivered-To: victim@example.com
+Received: from [123.45.67.89] by mail.example.com with ESMTP id abc123def456
+        for <victim@example.com>; Tue, 10 Oct 2023 09:10:10 -0700 (PDT)
+Date: Tue, 10 Oct 2023 09:10:10 -0700
+From: Account Alert <support@trusted-service.com>
+Subject: Urgent: Action Required on Your Account
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="Boundary_string"
+MIME-Version: 1.0
+
+--Boundary_string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+We have detected suspicious activity in your account. To help keep it safe, please verify your identity by clicking here: http://192.168.0.1/secure-login. It's important to take this action within 24 hours to avoid any restrictions on your account.
+
+If you have questions, please visit our help page or contact our support team at https://trusted-service.com/support.
+
+Thank you,
+Trusted Service Team
+
+--Boundary_string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected suspicious activity in your account. To help keep it safe, please verify your identity by clicking <a href="http://192.168.0.1/secure-login">here</a>. It's important to take this action within 24 hours to avoid any restrictions on your account.</p>
+    <p><img src="http://trusted-service.com/resources/safe_image.png" alt="Secure" /></p>
+    <p>If you have questions, please visit our <a href="https://trusted-service.com/help">help page</a> or contact our support team at <a href="https://trusted-service.com/support">Trusted Service Support</a>.</p>
+    <p>Thank you,<br>Trusted Service Team</p>
+  </body>
+</html>
+
+--Boundary_string--
+```

@@ -1,0 +1,42 @@
+From MAILER-DAEMON Tue Jan  2 12:34:56 2024
+From: "Portal Security Alert" <alert@secure-mail.com>
+Reply-To: <support@weblogin.com>
+To: victim@domain.com
+Subject: Urgent: Password Reset Required for Your Account
+Date: Tue, 02 Jan 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_abcdef"
+
+------=_Part_123456_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity on your account. For security reasons, you must reset your password immediately.
+
+Please visit the following link to secure your account:
+https://secure.portal.com/reset
+
+Thank you,
+Portal Security Team
+
+------=_Part_123456_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Notice</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We have detected unusual activity on your <strong>account</strong>. For security reasons, you must reset your <strong>password</strong> immediately.</p>
+<p>Please <a href="http://login.secure.portal.login-system.example.com/reset"><img src="http://login.secure.portal.login-system.example.com/images/reset.png" alt="Reset Password"></a></p>
+<p>Alternatively, <a href="http://malicious-login.com/verify" title="Reset your password now">https://secure.portal.com/reset</a></p>
+<p>Or click here to confirm: <a href="http://malicious-login.com/confirm"></a></p>
+<p>Thank you,<br>Portal Security Team</p>
+</body>
+</html>
+------=_Part_123456_abcdef--

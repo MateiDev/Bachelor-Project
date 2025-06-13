@@ -1,0 +1,44 @@
+From support@microsoft.com Mon Jan 16 09:12:34 2023
+Return-Path: <support@microsoft.com>
+Delivered-To: victim@contoso.com
+Received: from mail.microsoft.com (mail.microsoft.com [203.0.113.1])
+    by mx.contoso.com with ESMTP id qwerty12345
+    for <victim@contoso.com>; Mon, 16 Jan 2023 09:12:34 -0800 (PST)
+From: "Microsoft Account Team" <support@microsoft.com>
+To: victim@contoso.com
+Subject: Immediate Verification Required: Suspicious Sign-In Detected
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_abcdef"
+
+----=_Part_1234567_abcdef
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We noticed an unusual sign-in attempt on your Microsoft account. To secure your account, please verify your identity.
+
+Go to https://account.microsoft.com and sign in to confirm your details.
+
+Alternatively, click here: http://123.45.67.89/login
+
+Best Regards,
+Microsoft Account Team
+
+----=_Part_1234567_abcdef
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;">
+    <p>Dear User,</p>
+    <p>We noticed an unusual sign-in attempt on your Microsoft account. To secure your account, please verify your identity by signing in <a href="http://123.45.67.89/login">https://account.microsoft.com</a>.</p>
+    <p>Verify now: <a href="http://123.45.67.89/login"><img src="https://images.microsoft.com/logo.png" alt="Microsoft Logo" border="0"></a></p>
+    <p><a href="http://phish-domain.com/tracker"></a></p>
+    <p>To complete the verification process, click <a href="https://secure.microsoft-modal.com/verify">here</a>.</p>
+    <p>Need help? Visit our <a href="https://support.microsoft.com">Privacy & policy</a>.</p>
+    <p>Regards,<br>Microsoft Account Team</p>
+  </body>
+</html>
+
+----=_Part_1234567_abcdef--

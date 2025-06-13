@@ -1,0 +1,50 @@
+From dhl-notify@dhl.com Tue Aug 29 17:45:01 2023
+Message-ID: <20230829174501.12345@dhl.com>
+Date: Tue, 29 Aug 2023 17:45:01 +0100
+From: "DHL Express" <no-reply@dhl.com>
+Reply-To: "DHL Support" <support@dhl-secure.com>
+To: user@domain.test
+Subject: Urgent: Delivery Failed - Account Verification Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel attempted delivery today but failed due to missing payment confirmation.
+Please complete the release process immediately to avoid return to sender. You will need to verify your password.
+Visit the link below:
+
+http://mail.secure.dhl-update.safe/confirm?uid=12345
+
+Failure to act within 24 hours will result in package disposal.
+If you did not request this, respond at your earliest convenience.
+
+Sincerely,
+DHL Express Team
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your <strong>delivery</strong> has been <span style="color:red;">held</span> due to missing <em>payment</em>. Act <strong>now</strong> to avoid <strong>penalty</strong>!</p>
+<p>You must verify your <u>password</u> to release the package.</p>
+<p><a href="http://mail.secure.dhl-update.safe/confirm?uid=12345"><img src="http://images-tracker.dhl.com/banner.png" alt="DHL Banner"></a></p>
+<p>Click the button below to complete verification:</p>
+<p><a href="http://mail.secure.dhl-update.safe/confirm?uid=12345"></a></p>
+<p>Failure to verify your <u>account</u> within 24 hours will result in permanent package <strong>loss</strong>!</p>
+<p>If you have any questions, contact us immediately.</p>
+<p>Regards,<br/>DHL Express Support</p>
+</body>
+</html>
+
+--BOUNDARY--

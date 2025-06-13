@@ -1,0 +1,42 @@
+From support@voucher-service.com Fri Mar 15 12:34:56 2024
+Return-Path: <support@voucher-service.com>
+Subject: Urgent: Account Verification Required for €50 Voucher
+From: "Voucher Support" <support@voucher-service.com>
+Reply-To: "Voucher Admin" <admin@secure-voucher.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1_abcdef.123456789"
+
+----=_Part_1_abcdef.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account requires immediate verification to secure your €50 voucher reward.
+Failure to act within 24 hours will result in voucher cancellation.
+
+Verify here: http://192.0.2.123/redeem
+
+Regards,
+Voucher Support Team
+
+----=_Part_1_abcdef.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>Final Warning!</strong> Your <em>account</em> verification is <span style="color:red;">urgent</span>. Failure to verify within the next 12 hours will cancel your €50 voucher.</p>
+    <p>You're eligible for a <strong>€50</strong> voucher—<a href="http://192.0.2.123/redeem">claim now</a>!</p>
+    <p>Alternate claim link: <a href="http://voucher.claim.reward-site.com/activate"></a></p>
+    <p>Quick access: <a href="http://malicious.site/grab">http://secure-voucher.com/voucher</a></p>
+    <p>Image link:</p>
+    <a href="http://192.0.2.123/redeem"><img src="http://192.0.2.123/images/reward.png" alt="Click to redeem your voucher" width="200"/></a>
+    <p>Or click here: <a href="http://voucher.claim.reward-site.com/activate">Activate Voucher</a></p>
+    <p>If you did not request this, please contact support immediately.</p>
+    <p>Thank you,<br/>Voucher Support Team</p>
+  </body>
+</html>
+
+----=_Part_1_abcdef.123456789--

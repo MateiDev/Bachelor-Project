@@ -1,0 +1,53 @@
+From security@paypal.com Fri Jul 14 10:52:17 2023
+Return-Path: <security@paypal.com>
+Delivered-To: victim@example.com
+Received: from mail.paypal.com (mail.paypal.com [198.51.100.1])
+    by mail.example.com (Postfix) with ESMTP id 1234567890
+    for <victim@example.com>; Fri, 14 Jul 2023 10:52:17 -0400 (EDT)
+From: PayPal Security <security@paypal.com>
+Reply-To: support-team@paypal-secure.com
+Subject: URGENT Account Notice – Password Expiration Today
+Date: Fri, 14 Jul 2023 10:52:17 -0400
+Message-ID: <20230714145217.12345@mail.paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_001_abcdef"
+
+--boundary_001_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account. Your password is set to expire TODAY.
+Immediate action is required to secure your account and avoid suspension.
+
+Please verify your identity and reset your password immediately:
+https://www.paypal.com/verify
+http://secure.paypal.com/update
+
+Failure to complete this process within 24 hours will result in account deactivation.
+
+Sincerely,
+PayPal Security Team
+
+--boundary_001_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">URGENT: Unusual sign-in detected!</p>
+    <p>Your PayPal <strong>Account</strong> password expires <strong>today</strong>. Verify now to prevent <em>immediate suspension</em>.</p>
+    <p>Please follow the secure link below:</p>
+    <ul>
+      <li><a href="http://www.paypal.com.security.verify-info.net/login?redirect=verify">https://www.paypal.com/verify</a></li>
+      <li><a href="http://alert.paypal.service-account.info/reset">https://secure.paypal.com/update</a></li>
+      <li><a href="http://login.paypal.security-update.verify-account.info/">https://paypal.com/login</a></li>
+    </ul>
+    <p>Failure to verify within 24 hours will result in <strong>account suspension</strong>. Act now!</p>
+    <p>Sincerely,<br/>PayPal Security Team</p>
+  </body>
+</html>
+
+--boundary_001_abcdef--

@@ -1,0 +1,39 @@
+```
+From nobody Tue Oct 24 16:32:55 2023
+Return-Path: <no-reply@parcel-alerts.com>
+Received: from mail.parcel-alerts.com (mail.parcel-alerts.com [192.0.2.5])
+	by mail.example.com (Postfix) with ESMTP id 1234567890
+	for <victim@example.com>; Tue, 24 Oct 2023 16:32:48 +0000 (UTC)
+Date: Tue, 24 Oct 2023 16:32:48 +0000
+From: DHL Notifications <no-reply@parcel-alerts.com>
+Subject: Urgent: Action Required to Release Your Parcel
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Message-ID: <20231024163248.1234567890@mail.parcel-alerts.com>
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We have been trying to deliver your package, but there is an outstanding delivery fee.</p>
+
+<p>Your parcel is <strong>on hold</strong> and will be returned unless you confirm the payment immediately.</p>
+
+<p>Please <a href="http://fake-dhl-shipment.com.release/package/delivery.notice">click here</a> to complete the payment and avoid return.</p>
+
+<p>Visit our <a href="http://dhl.com/privacy-policy">privacy policy</a> for more information.</p>
+
+<p>If you have any questions, please contact our <a href="http://dhl.com/help-center">help center</a> for assistance.</p>
+
+<p>Thank you,</p>
+
+<p>DHL Express</p>
+
+<p><a href="http://dhl.com/terms">Terms and Conditions</a></p>
+
+<p><a href=""></a></p>
+</body>
+</html>
+```

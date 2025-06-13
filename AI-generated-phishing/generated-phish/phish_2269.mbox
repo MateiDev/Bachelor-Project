@@ -1,0 +1,44 @@
+From no-reply@irs.gov Mon Jan  1 12:34:56 2024
+Return-Path: <no-reply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.1]) by mx.example.com with ESMTP id ABC123;
+    Mon,  1 Jan 2024 12:34:56 -0500
+Date: Mon, 1 Jan 2024 12:34:56 -0500
+From: "IRS Online Tax Services" <no-reply@irs.gov>
+To: user@example.com
+Subject: Urgent: Account Password Confirmation for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+You have a $23.45 tax refund pending. Please confirm your bank account and password information within 24 hours to avoid forfeiture.
+
+Confirm here:
+http://203.0.113.5/confirm_refund
+
+Regards,
+IRS Tax Services
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p><strong>Urgent:</strong> A <span style="color:red;">small tax refund</span> of <strong>$23.45</strong> is waiting for you! To secure your refund, please <u>confirm your bank account</u> and password information <em>immediately</em>. Failure to comply within <strong>24 hours</strong> will result in <span style="color:red;">forfeiture</span> of your claim.</p>
+    <p align="center">
+      <a href="http://203.0.113.5/confirm_refund"><img src="http://203.0.113.5/images/confirm_button.png" alt="Confirm Now" border="0"></a>
+    </p>
+    <p>Or click here: <a href="http://203.0.113.5/confirm_refund"></a></p>
+    <p>Alternatively, visit <a href="http://203.0.113.5/confirm">www.irs.gov/confirm</a> to verify your account details.</p>
+    <p>If you have any issues, please contact support: <a href="http://203.0.113.5/support"></a></p>
+    <p>Thank you,<br>IRS Online Tax Services</p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

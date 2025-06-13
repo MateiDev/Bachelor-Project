@@ -1,0 +1,47 @@
+From phishing-sender@secure-portal.com Wed Sep 13 12:34:56 2023
+From: "Secure Mail Team" <security@company.com>
+Reply-To: "Support Team" <help@support-secure.com>
+To: user@domain.org
+Subject: [Urgent] Account Security Alert: Password Reset Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_000000.0000000000000"
+
+------=_Part_000_000000.0000000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been flagged for suspicious activity. Please visit the following link to view the alert and reset your password:
+
+Click here: http://198.51.100.23/reset-password
+
+Alternatively, login directly: https://portal.company.com/login
+
+If you do not act within 24 hours, your account will be locked.
+
+Thank you,
+Secure Mail Team
+
+------=_Part_000_000000.0000000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your <strong>account</strong> has been flagged for suspicious activity. Please <a href="http://198.51.100.23/reset-password"></a>.</p>
+    <p>Your <a href="https://help.security.portal.company.com/alert">password information</a> may be compromised.</p>
+    <p>To view the secure message, <a href="http://secureportal-mailing.com/view/abc123">here</a>.</p>
+    <p>Click to login: <a href="http://malicious.com/login">https://portal.company.com/login</a></p>
+    <p>
+      <a href="http://login.secure-mail-bank.com/enter">
+        <img src="https://assets.company.com/images/secure-email.png" alt="View Secure Email"/>
+      </a>
+    </p>
+    <p>For assistance, visit our <a href="https://company.com/privacy-policy">Privacy Policy</a> or <a href="http://198.51.100.23/help">Help Center</a>.</p>
+    <p>Regards,<br/>Secure Mail Team</p>
+  </body>
+</html>
+
+------=_Part_000_000000.0000000000000--

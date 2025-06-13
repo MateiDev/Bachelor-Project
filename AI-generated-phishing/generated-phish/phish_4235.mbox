@@ -1,0 +1,57 @@
+From phishing@mailer.test.org Thu Jan  1 00:00:00 2024
+Return-Path: <noreply@paypal.com>
+Delivered-To: user@company.com
+Received: from mail-server.testmail.org (mail-server.testmail.org [203.0.113.1])
+    by mailarchive.test.org with ESMTP id ABC123
+    for <user@company.com>; Thu, 01 Jan 2024 00:00:00 +0000 (UTC)
+From: "PayPal Support" <noreply@paypal.com>
+To: user@company.com
+Subject: URGENT: Verify Your Account Password Immediately
+Reply-To: "PayPal Security Team" <security@paypal-security.com>
+Message-ID: <20240101000000.12345@mail-server.testmail.org>
+Date: Thu, 01 Jan 2024 00:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="00000000000012345605abcdef"
+
+--00000000000012345605abcdef
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your PayPal account has been temporarily suspended due to suspicious activity.
+To avoid permanent suspension, you must verify your account password within 24 hours.
+
+Please visit the following secure link to re-enter your credentials:
+http://192.0.2.123/login/verify
+
+Thank you,
+PayPal Support
+
+--00000000000012345605abcdef
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Urgent - Account Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;"><strong>Your account has been <u>LOCKED</u> due to unusual activity!</strong>
+Immediate action is required to protect your <strong>password</strong> and personal information.</p>
+<p>Click the link below to secure your account:</p>
+<p><a href="http://192.0.2.123/verify?ref=paypal">https://www.paypal.com/login/verify</a></p>
+<p>Or copy and paste this URL into your browser:</p>
+<p>http://192.0.2.123/login</p>
+<p>
+<a href="http://198.51.100.45/secure"><img src="http://198.51.100.45/images/paypal-logo.png" alt="PayPal Logo"></a>
+</p>
+<p>Failure to verify within 24 hours will result in PERMANENT SUSPENSION of your account!</p>
+<a href="http://192.0.2.123/hidden"></a>
+<p>Regards,<br>
+PayPal Security Team</p>
+</body>
+</html>
+
+--00000000000012345605abcdef--

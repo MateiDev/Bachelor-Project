@@ -1,0 +1,45 @@
+From no-reply@dhl.com Mon Mar  1 09:15:32 2021
+Return-Path: <alerts@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.50]) by mailserver.com with ESMTP id AB12345 for <user@domain.com>; Mon, 1 Mar 2021 09:15:32 +0000
+From: "DHL Shipping" <no-reply@dhl.com>
+Reply-To: "DHL Support Team" <support@dhl-support-update.net>
+Subject: URGENT: Verify Account Password to Release Your DHL Package
+Date: Mon, 1 Mar 2021 09:15:32 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL parcel is currently ON HOLD due to address validation issues.
+Failure to respond within 24 hours may result in return to sender.
+
+To release your shipment and verify your account password, please visit one of the following:
+http://192.168.1.5/verify?ref=123456
+http://34.56.78.90/confirm
+
+Alternatively, check shipment status:
+https://www.dhl.com/track-your-parcel
+
+Thank you,
+DHL Shipping Support
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family:Arial,sans-serif;">
+<p><strong>URGENT DELIVERY NOTIFICATION:</strong> Your DHL parcel is currently <span style="color:red;">ON HOLD</span> due to <em>address validation issues</em>.</p>
+<p>To release your shipment and verify your <strong>account password</strong>, <a href="http://192.168.1.5/verify?ref=123456">click here</a>.</p>
+<p>Alternatively, view <a href="http://update.dhl-secure-login.com/claim?order=7890">https://www.dhl.com/track-your-parcel</a> for detailed status updates.</p>
+<p>For our legal guidelines, see the <a href="https://www.dhl.com/en/legal/privacy.html">privacy policy</a>.</p>
+<p>Need assistance? <a href="http://34.56.78.90/support"><img src="http://assets.attacker-domain.net/images/help-button.png" alt="Help Center"></a></p>
+<p style="color:red;">Failure to respond within 24 hours may result in your package being returned to the sender.</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

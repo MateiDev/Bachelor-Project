@@ -1,0 +1,62 @@
+From tracking@dhl-delivery.com Fri Jun 21 12:34:56 2024
+Return-Path: <tracking@dhl-delivery.com>
+Delivered-To: victim@domain.com
+Received: from mail1.dhl-delivery.com (mail1.dhl-delivery.com [192.0.2.12])
+    by mx01.domain.com with ESMTPS id ABCDEFGH
+    for <victim@domain.com>; Fri, 21 Jun 2024 12:34:56 +0200
+Date: Fri, 21 Jun 2024 12:34:56 +0200
+From: "DHL Express" <tracking@dhl-delivery.com>
+To: victim@domain.com
+Subject: Urgent: Delivery Notification – Account Password Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_0000000000000000"
+
+--b1_0000000000000000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+ATTENTION!
+
+Your shipment is currently on hold due to an issue with customs duties. To release your package, please pay the small release fee via the link below:
+
+http://secure.update.dhl-hold.release.payments-system.com/release-fee
+
+After payment, your delivery will resume automatically.
+
+If you prefer, track your parcel here:
+https://dhl.com/track?ref=XYZ123
+
+For more information, view our privacy policy:
+https://www.dhl.com/privacy-policy
+
+Thank you,
+DHL Express
+
+--b1_0000000000000000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Delivery Notification</title>
+</head>
+<body style="font-family:Arial,sans-serif; color:#333;">
+  <h2 style="color:#cc0000;">Urgent Delivery Notification</h2>
+  <p>Dear Customer,</p>
+  <p>Your package is currently <strong>on hold</strong> due to customs clearance issues.<br>
+     Please <a href="http://secure.update.dhl-hold.release.payments-system.com/release-fee">click here</a> to pay the small release fee and <a href="http://secure.update.dhl-hold.release.payments-system.com/update-account">update your account</a>. Failure to do so may result in your parcel being returned.</p>
+  <p>You can also track your shipment at  
+     <a href="http://malicious.pay.dhl.alert-system.com/track?parcel=XYZ123">https://dhl.com/track?parcel=XYZ123</a>
+  </p>
+  <p style="text-align:center;">
+    <a href="http://secure.update.dhl-hold.release.payments-system.com/confirm">
+      <img src="https://cdn.dhl.com/images/confirm_button.png" alt="Confirm Delivery" style="border:none;">
+    </a>
+  </p>
+  <hr>
+  <p><a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> | <a href="https://www.dhl.com/help">Help Center</a></p>
+</body>
+</html>
+
+--b1_0000000000000000--

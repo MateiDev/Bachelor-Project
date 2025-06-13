@@ -1,0 +1,46 @@
+```mbox
+From test@example.com Thu Oct 12 03:14:23 2023
+Received: from mail.example.com (mail.example.com [123.45.67.89])
+    by mail-receiver.example.org (Postfix) with ESMTP id 123ABCD456
+    for <victim@example.org>; Thu, 12 Oct 2023 03:14:23 +0000 (UTC)
+Message-ID: <1234567890@example.com>
+Date: Thu, 12 Oct 2023 03:14:23 +0000 (UTC)
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: noreply@taxesupport.example.com
+Subject: Urgent: Confirm Your Account for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------ABC1234567890"
+
+--------------ABC1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have calculated your tax refund to be $498.75. To ensure payment is sent to the correct bank account, please confirm your details by following this secure link: http://192.168.1.1/secure.
+
+Thank you,
+IRS Support Team
+
+
+--------------ABC1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent: Confirm Your Account for Tax Refund</title>
+  </head>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have calculated your tax refund to be <strong>$498.75</strong>. To ensure payment is sent to the correct bank account, please confirm your details by following this secure link:</p>
+    <p><a href="http://192.168.1.1/secure">http://secure.irs-gov.com</a></p>
+    <p><a href="http://malicious.example1.com"></a><a href="http://malicious.example2.com">Confirm Now</a></p>
+    <p><img src="http://notarealurl.example.com/track.png" alt="Verify" /></p>
+    <p>Thank you,</p>
+    <p>IRS Support Team</p>
+  </body>
+</html>
+
+--------------ABC1234567890--
+```

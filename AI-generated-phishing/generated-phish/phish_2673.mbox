@@ -1,0 +1,47 @@
+```mbox
+From nobody Tue Oct 10 10:00:00 2023
+Return-Path: <phishing-alert@example.com>
+Received: from suspicious.server.com (192.168.1.100)
+	by victim.com with SMTP; Tue, 10 Oct 2023 09:58:32 -0700
+Received: by suspicious.server.com id h12cs1234567; Tue, 10 Oct 2023 09:58:31 -0700
+Date: Tue, 10 Oct 2023 09:58:31 -0700
+From: Rewards Service <rewards@trusted-company.com>
+Reply-To: claims@rewards-scam.com
+Message-ID: <CAM97a9H8d_urgent1234abc@phantom>
+To: victim@victim.com
+Subject: Congratulations! You’re eligible for a €1000 voucher – Claim URGENTLY!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="656123abcD"
+
+--656123abcD
+Content-Type: text/plain; charset="UTF-8"
+
+Dear valued customer,
+
+Congratulations! You've been specially selected to receive a €1000 gift card. This offer is exclusively for our loyal customers like you!
+
+To claim your reward, please click the link below or visit https://trustedcompany.offers.fake/claim-now
+
+Act fast before the voucher expires!
+
+Warm regards,
+The Rewards Team
+
+--656123abcD
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear valued customer,</p>
+<p>Congratulations! You've been specially selected to receive a <strong>€1000 gift card</strong>. This offer is exclusively for our loyal customers like you!</p>
+<p>To claim your reward, please click <a href="http://192.168.1.200/fake-claim">here</a> or visit <a href="https://trustedcompany.offers.fake/claim-now">https://trustedcompany.offers.fake/claim-now</a></p>
+<p>For our privacy policy, visit <a href="https://trustedcompany.com/privacy">here</a>.</p>
+<p>Act fast before the voucher expires!</p>
+<p>Warm regards,<br/>
+<img src="http://192.168.1.200/logo.png" alt="Company Logo" /></p>
+<p>The Rewards Team</p>
+</body>
+</html>
+
+--656123abcD--
+```

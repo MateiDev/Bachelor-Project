@@ -1,0 +1,37 @@
+```
+From nobody@example.com Mon Oct 16 14:42:55 2023
+Return-Path: <noreply@voucherhub-rewards.com>
+Date: Mon, 16 Oct 2023 14:35:00 +0000
+From: "VoucherHub Rewards" <noreply@voucherhub-rewards.com>
+Subject: 🚨 Urgent: Confirm Your €500 Voucher Now!
+To: recipient@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear valued customer,
+
+Congratulations! You have been selected to receive a €500 voucher to use at your favorite stores. To claim your voucher, please act now as this offer expires soon. Follow the instructions within this email to confirm your exclusive reward.
+
+Best regards,
+VoucherHub Rewards Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>Congratulations! You have been selected to receive a <strong>€500 voucher</strong> to use at your favorite stores. To claim your voucher, please act now as this offer <span style="color:red;">expires soon</span>.</p>
+    <p>Click <a href="http://secure-voucherhub.com.getyourreward.here-link.io/claim">here</a> to confirm your exclusive reward.</p>
+    <p><a href="http://secure-voucherhub.com.info/privacypolicy"></a></p>
+    <p>For more details about your eligibility, visit our <a href="http://secure-voucherhub.com.info/details"></a>.</p>
+    <p>Best regards,</p>
+    <p>VoucherHub Rewards Team</p>
+  </body>
+</html>
+
+--boundary123--
+```

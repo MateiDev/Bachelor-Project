@@ -1,0 +1,25 @@
+From example@example.com Thu Oct 12 14:22:48 2023
+Return-Path: <example@example.com>
+Received: from unknown (HELO mail.example.com) (192.0.2.1)
+  by mail.example.org with SMTP; Thu, 12 Oct 2023 14:22:48 -0400
+Date: Thu, 12 Oct 2023 14:22:48 -0400
+From: "Bank Security Alert" <security-update@bankonline.com>
+Subject: Urgent: Immediate Action Required - Secure Your Account Now
+To: victim@example.org
+Mime-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected suspicious attempts to access your account. For your safety, please <a href="http://192.0.2.100/secure-login" style="color: blue; text-decoration: underline;">click here</a> to review your account activity immediately.</p>
+    <p style="color: red;">Failure to act could lead to permanent suspension of your account!</p>
+    <p>This <a href="http://trustbank.com/security" title="Security Notice"><img src="cid:security-logo" alt="Security Logo"></a> leads to our security notice for genuine inquiries.</p>
+    <p>To regain full access, please visit our secure login page: <a href="http://192.0.2.101/login">http://yourbank.security-update.com/validation</a></p>
+    <p>If you have any questions, visit our <a href="https://www.bankonline.com/help">help center</a>, or check our <a href="https://www.bankonline.com/privacy">privacy policy</a></p>
+    <p>Thank you for your attention to this urgent matter.</p>
+    <br>
+    <p>Sincerely,</p>
+    <p>Your Trusted Bank Security Team</p>
+  </body>
+</html>

@@ -1,0 +1,44 @@
+```
+From yourservice-support@notifications.yourservice.com Fri Oct 20 10:57:42 2023
+Return-Path: <yourservice-support@notifications.yourservice.com>
+Received: from example.com (123.45.67.89)
+    by mail.example.com with ESMTP id l1mkxa.1.169.145105
+    for <user@example.com>; Fri, 20 Oct 2023 10:57:42 +0000
+Date: Fri, 20 Oct 2023 10:57:42 +0000
+From: YourService Support <yourservice-support@notifications.yourservice.com>
+To: user@example.com
+Subject: Urgent: Account Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary1"
+
+--boundary1
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+We have detected suspicious activity on your account. To protect your account, please log in and verify your identity immediately.
+
+Verify your account now by visiting the link below:
+
+Please update your information to avoid suspension.
+
+Thank you,
+YourService Support Team
+
+--boundary1
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected suspicious activity on your account. To protect your account, please log in and verify your identity immediately.</p>
+    <p><a href="http://192.0.2.1/login">Verify your account now</a> by visiting the link below:</p>
+    <p><a href="http://192.0.2.1/login"><img src="http://192.0.2.1/signin-button.png" alt="Sign In Button"></a></p>
+    <p>Please update your information to avoid suspension.</p>
+    <p>Thank you,<br>YourService Support Team</p>
+    <p><a href="http://www.yourservice.com/privacy-policy" target="_blank">Privacy Policy</a> | <a href="http://www.yourservice.com/help" target="_blank">Help</a> | <a href="http://www.yourservice.com/contact" target="_blank"></a></p>
+  </body>
+</html>
+
+--boundary1--
+```

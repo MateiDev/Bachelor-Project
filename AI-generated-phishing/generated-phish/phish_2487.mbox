@@ -1,0 +1,53 @@
+From service@dhl-package.com Mon Jul  3 12:34:56 2023
+Return-Path: <service@dhl-package.com>
+Delivered-To: user@gmail.com
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1])
+	by mx.google.com with ESMTP id xyz123abc
+	for <user@gmail.com>; Mon, 03 Jul 2023 12:34:56 +0000 (UTC)
+Subject: URGENT: Final Delivery Notice
+From: "DHL Express" <service@dhl-package.com>
+To: undisclosed-recipients:;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_1234567.1625315696000"
+
+----=_Part_0_1234567.1625315696000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today but it is on hold due to unpaid fees. This is your final notice. To avoid return or destruction, you must settle the charge immediately. Follow the link below to pay the small fee and release your parcel:
+
+https://www.updhl.support.com/delivery-fee?id=ABC123
+
+For more info visit:
+- https://help.dhl.support.com/privacy
+- https://secure.track.dhl-delivery.info/update?id=999
+
+This urgent action is required within 24 hours to prevent automatic return.
+
+Thank you,
+DHL Express
+
+----=_Part_0_1234567.1625315696000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial, sans-serif; color:#333; font-size:14px;">
+    <p><img src="https://images.dhl.com/logo.png" alt="DHL Express" /></p>
+    <h2 style="color:#d40000;">URGENT: Final Delivery Notice</h2>
+    <p>Your package is being held for customs clearance due to unpaid fees. This is your last opportunity to avoid return or destruction.</p>
+    <p>Please <a href="https://www.updhl.support.com/delivery-fee?id=ABC123">click here</a> to pay the minimal processing fee instantly.</p>
+    <p>Alternatively, track and release via the direct link:<br>
+      <a href="https://secure.track.dhl-delivery.info/update?id=999">
+        <img src="https://images.dhl.com/track.png" alt="Track Package" />
+      </a>
+    </p>
+    <p>For privacy details, visit our <a href="https://help.dhl.support.com/privacy"></a> or review our <a href="https://dhl-confirm-now.net/verify?ref=XYZ"></a>. For immediate assistance, click <a href="https://delivery.dhl-confirmation-now.com">here</a>.</p>
+    <p style="color:red;"><strong>Immediate action required - your package will be returned if no payment is received within 24 hours!</strong></p>
+    <p>Thank you,<br/>DHL Customer Service</p>
+  </body>
+</html>
+
+----=_Part_0_1234567.1625315696000--

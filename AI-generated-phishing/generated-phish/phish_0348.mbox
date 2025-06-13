@@ -1,0 +1,35 @@
+```mbox
+From nobody Tue Oct 31 10:20:05 2023
+Return-Path: <taxrefunds@nottax.gov.com>
+Received: from smtp.fakeisp.com (smtp.fakeisp.com [192.0.2.1])
+	by mail.example.com (Postfix) with ESMTP id DF7CBC3456F
+	for <user@example.com>; Tue, 31 Oct 2023 08:15:14 -0600 (MDT)
+Date: Tue, 31 Oct 2023 08:15:14 -0600 (MDT)
+From: "Tax Refund Department" <taxrefunds@nottax.gov.com>
+To: user@example.com
+Subject: Urgent: Confirm Your Bank Details for a Pending Tax Refund
+Message-ID: <20231031081514.DF7CBC3456F@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We are pleased to inform you that you have a pending tax refund of $350.75. To ensure prompt processing, please confirm your bank details by clicking <a href="http://192.0.2.2.fakeisp.com/verify?user=<user_id>&token=randomtoken">here</a>.</p>
+    
+    <p>For your reference, visit our <a href="http://www.irs.gov/faq">FAQs</a> page.</p>
+
+    <p>If the link above does not work, copy and paste the following URL into your browser:</p>
+    <p><a href="http://banking-verification.check.refund.actualbank.com/refund">http://192.0.2.2.fakeisp.com/verify?user=<user_id></a></p>
+    
+    <p>As part of our security measures, please confirm your details within 24 hours to avoid any delays in processing your refund.</p>
+    
+    <a href="http://192.0.2.2.fakeisp.com/verify?user=<user_id>&token=randomtoken">
+      <img src="http://192.0.2.2.fakeisp.com/images/clickhere.jpg" alt="Click Here">
+    </a>
+    
+    <p>Best Regards,</p>
+    <p>Tax Refund Department</p>
+  </body>
+</html>
+```

@@ -1,0 +1,40 @@
+From security@secure-bank.com Fri Jul 02 12:34:56 2021
+Received: from mail.secure-bank.com (unknown [192.0.2.1]) by mx.mydomain.com with ESMTP id abc123 for <user@domain.com>; Fri, 02 Jul 2021 12:34:56 +0000
+From: "Secure Bank Notifications" <security@secure-bank.com>
+Reply-To: support@malicious-support.com
+To: user@domain.com
+Subject: Unusual sign-in detected – Verify Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT ACTION REQUIRED: We detected an unusual sign-in on your account.
+Your password expires today – reset immediately to avoid suspension.
+Verify now: https://secure.bank.com/
+
+--==BOUNDARY==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT ACTION REQUIRED</strong>: We detected an unusual sign-in on your account.</p>
+    <p>Your <span style="color:red;">password expires today</span> – reset immediately to avoid suspension.</p>
+    <p>
+      Visit <a href="http://malicious-login.net/verify">https://secure.bank.com/login</a> to verify your identity now.
+    </p>
+    <p>
+      <a href="http://malicious-login.net/verify"><img src="http://secure-account-reset.com/logo.png" alt="Verify Account"/></a>
+    </p>
+    <p>
+      Need more info? <a href="https://secure.bank.com/privacy-policy">Privacy Policy</a> |
+      <a href="http://malicious-login.net/help">click here</a>
+      <a href="http://malicious-login.net/free"></a>
+    </p>
+  </body>
+</html>
+
+--==BOUNDARY==--

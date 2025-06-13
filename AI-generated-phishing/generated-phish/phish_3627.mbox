@@ -1,0 +1,52 @@
+From no-reply@portal.example.com Tue Jun 25 16:02:10 2024
+Message-ID: <20240625160210.no-reply@portal.example.com>
+Subject: Urgent: Account Password Security Alert
+From: "Secure Portal Alert" <no-reply@portal.example.com>
+To: user@victim.com
+Date: Tue, 25 Jun 2024 16:02:10 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0001"
+
+------=_NextPart_000_0001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected multiple failed login attempts on your account. Your account password is at risk and will be locked in 24 hours if not verified immediately.
+
+Please verify your credentials:
+- Visit: http://secure.login.portal.example.com?session.id=ABC123.DE.FG
+- Or reset at http://203.0.113.45/reset
+
+Failure to act now will result in permanent suspension.
+
+If you need assistance, click here: http://privacy.company.com/help
+
+Best regards,
+Secure Portal Team
+
+------=_NextPart_000_0001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p style="color:red;font-weight:bold;">Attention: <u>Immediate Action Required!</u></p>
+    <p>We have detected <strong>unauthorized access</strong> attempts on your <span style="background:#ff0;">account</span>. Your <em>password</em> will be <strong>locked</strong> if not verified <strong>immediately</strong>.</p>
+    <p>
+      <a href="http://198.51.100.23/login">https://accounts.company.com/security</a>
+    </p>
+    <p>
+      <a href="http://malicious.example.com/verify"><img src="https://portal.example.com/images/secure.png" alt="Secure"></a>
+    </p>
+    <p>Please <a href="http://secureportal-alert.co/verify">here</a> to verify your credentials.</p>
+    <p><a href="http://203.0.113.45/reset"></a></p>
+    <p>For support, visit our <a href="https://portal.example.com/privacy.policy">Privacy Policy</a> or <a href="https://portal.example.com/help">Help Center</a>.</p>
+    <p>Failure to act <strong>immediately</strong> may lead to account suspension.</p>
+    <p>Best regards,<br/>Secure Portal Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_0001--

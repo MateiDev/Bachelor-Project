@@ -1,0 +1,52 @@
+From no-reply@dhl-shipment.com Thu Jun 20 14:22:33 2024
+From: "DHL Delivery Alert" <no-reply@dhl-shipment.com>
+Reply-To: support@tracking-updates.net
+To: user@domain.com
+Subject: URGENT: Delivery Notification Failed – ACTION REQUIRED
+Date: Thu, 20 Jun 2024 14:22:33 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_dhl_123456"
+
+--=_dhl_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent DHL delivery could not be processed due to missing information.
+You must verify your details IMMEDIATELY to avoid package return.
+
+Click here to update your info:
+https://www.dhl.com/verify-now
+
+Failure to act will result in shipment cancellation.
+
+Thank you,
+DHL Delivery Team
+
+--=_dhl_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>ATTENTION REQUIRED:</strong> Your DHL package is on hold.</p>
+<p>We attempted to deliver your parcel but could not complete the process. <span style="color:red;">URGENT:</span> Please confirm your information <b>NOW</b> to avoid automatic return of your shipment.</p>
+
+<p><a href="https://www.dhl.com/track.status.delivery-update"><img src="http://192.168.1.50/tracking_banner.jpg" alt="Track your package"></a></p>
+
+<p>To authorize the release, <a href="http://198.51.100.23/login">click here</a> and enter your tracking number.</p>
+
+<p><a href="https://secure.dhl.com.login.verify.svc">https://secure.dhl.com/login</a></p>
+
+<p>To release your parcel <a href="http://dhl-modal-service.com/release">here</a>.</p>
+
+<p>If the link above is not working, <a href="http://203.0.113.5/confirm"></a></p>
+
+<p>Need assistance? Check our <a href="http://updates.dhlstatus.info/privacy.policy">privacy policy</a> or visit our <a href="http://tracking-updates.net/help">help center</a>.</p>
+
+<p>Failure to act within 24 hours will result in cancellation and return to sender.</p>
+</body>
+</html>
+
+--=_dhl_123456--

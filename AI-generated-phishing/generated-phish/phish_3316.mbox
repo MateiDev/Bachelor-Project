@@ -1,0 +1,60 @@
+From phishing@secure-notify.com Mon Jan  1 12:34:56 2024
+Return-Path: <phishing@secure-notify.com>
+Delivered-To: user@target.com
+Received: from mail.secure-notify.com (mail.secure-notify.com [203.0.113.5])
+    by mx.target.com with ESMTP id <abc123>
+    for <user@target.com>; Mon,  1 Jan 2024 12:34:56 +0000
+Message-ID: <20240101123456.abcdef@secure-notify.com>
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+From: "Account Security" <security@secure-notify.com>
+To: user@target.com
+Subject: Urgent: Action Required – Your Account Password Expires Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000e8f0eb05b2b2d2d0"
+
+--000000000000e8f0eb05b2b2d2d0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in on your account. Your password expires today – reset immediately to avoid suspension.
+
+To verify your identity and secure your account, please click here:
+http://192.168.1.100/verify
+
+If you do not act within the next hour, your account will be temporarily locked.
+
+Need help? Visit https://www.help.verify.secure-login.com or our privacy-policy at https://www.privacy-policy.verify-modal.com
+
+Thank you for your prompt attention.
+
+Sincerely,
+Account Security Team
+
+--000000000000e8f0eb05b2b2d2d0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;line-height:1.4;color:#333;">
+    <h2 style="color:#c00;">Unusual Sign-in Detected — Verify Now!</h2>
+    <p>Dear Customer,</p>
+    <p style="font-weight:bold;">Your password expires <span style="color:#c00;">today</span> – you must reset immediately to avoid suspension.</p>
+    <p>To verify your identity and secure your account, please <a href="http://verify-modal.com/Authentication" style="color:#0066cc;text-decoration:none;">here</a>.</p>
+    <p style="margin:20px 0;">
+      <a href="http://203.0.113.5/reset">
+        <img src="http://203.0.113.5/logo.png" alt="Reset Password" style="border:0;width:200px;height:auto;">
+      </a>
+    </p>
+    <p>If you do not act within the next hour, your account will be temporarily locked.</p>
+    <hr>
+    <p style="font-size:0.9em;">
+      Need help? Visit <a href="http://malicious-phish-domain.net/login" 
+      style="color:#0066cc;">https://www.help.verify.secure-login.com</a> or review our <a href="http://login.verify.secure.com/policy" style="color:#0066cc;">privacy-policy</a>.
+    </p>
+    <p style="font-size:0.8em;color:#666;">&copy; 2024 Secure Notifications, Inc.</p>
+  </body>
+</html>
+
+--000000000000e8f0eb05b2b2d2d0--

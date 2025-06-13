@@ -1,0 +1,41 @@
+```
+From nobody@example.com Sat Jan  1 00:00:00 2023
+Return-Path: <security-alert@secureportal.com>
+Received: from unknown (HELO mail.secureportal.com) (192.168.1.1)
+    by mail.example.com with SMTP; Sat, 1 Jan 2023 00:00:00 +0000
+From: "Secure Portal Team" <security-alert@secureportal.com>
+To: victim@example.com
+Subject: Urgent: Action Required on Your Account
+Date: Sat, 1 Jan 2023 00:00:00 +0000
+Message-ID: <20230101000000.0000000@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>We have detected suspicious activity on your account and urgent action is required to secure it.</p>
+
+<p>Please <a href="http://192.172.1.1/security-update" target="_blank">click here</a> immediately to confirm your identity and reset your password to avoid any disruptions.</p>
+
+<p>Your immediate attention is required to protect your account from unauthorized access.</p>
+
+<p>If you have any questions, please visit our <a href="http://www.secureportal.com/help">help page</a> or <a href="http://www.secureportal.com/privacy-policy">privacy policy</a> for more information.</p>
+
+<table>
+<tr>
+    <td><a href="http://malicio.us.link/steal-info"><img src="http://www.secureportal.com/images/secure.png" alt="Secure Image"></a></td>
+</tr>
+</table>
+
+<p><a href="http://different.host/safe-login"><span style="display:none;"></span></a></p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best Regards,<br>Secure Portal Security Team</p>
+
+<p><a href="http://192.172.1.1/check_activity">Get Help</a></p>
+</body>
+</html>
+```

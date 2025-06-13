@@ -1,0 +1,55 @@
+From no-reply@taxdepartment.gov Mon Jul 15 09:23:45 2024
+Return-Path: <no-reply@taxdepartment.gov>
+Received: from mail.taxdepartment.gov (mail.taxdepartment.gov [203.0.113.5])
+	by mx.example.org with ESMTP id ABC12345
+	for <user@example.com>; Mon, 15 Jul 2024 09:23:45 +0000
+Message-ID: <20240715092345.12345@mail.taxdepartment.gov>
+Date: Mon, 15 Jul 2024 09:23:45 +0000
+From: Tax Department <no-reply@taxdepartment.gov>
+Reply-To: Support Team <support@taxdept-confirm.com>
+To: user@example.com
+Subject: [URGENT] Account Tax Refund Pending
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D9F3E0.12345678"
+
+----=_NextPart_000_001D_01D9F3E0.12345678
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear taxpayer,
+
+We have detected an error in your 2023 tax filings. A small refund of $45.67 is currently held pending verification of your bank account details. This is an urgent alert: failure to confirm your information within 48 hours will result in your refund being canceled and potential account suspension.
+
+Please confirm your bank account immediately by visiting the secure link below:
+http://192.168.1.100/confirm/account?ref=TXR2023&id=UID123456
+
+For more information, click here:
+http://taxdepartment.gov/policy
+
+Thank you for your prompt action.
+Tax Department Support Team
+
+----=_NextPart_000_001D_01D9F3E0.12345678
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Alert: Urgent Tax Refund Confirmation Required</title>
+</head>
+<body>
+<p>Dear taxpayer,</p>
+<p>We have detected an <strong>alert</strong> in your 2023 tax filings. A small refund of <strong>$45.67</strong> is currently held pending verification of your bank account details. This is an <span style="color:red;">urgent</span> notice: failure to confirm your information <em>immediately</em> will result in your refund being <strong>canceled</strong> and your account <strong>suspended</strong>.</p>
+<p>Please confirm your bank account details by clicking <a href="http://192.168.1.100/confirm?process.server=eu.tax.update.verify&ref=TXR2023">here</a> or by visiting the link below:</p>
+<p><a href="http://192.168.1.100/process?mod=xyz.account.verify">http://192.168.1.100/process?mod=xyz.account.verify</a></p>
+<p><img src="http://192.168.1.100/images/logo.png" alt="Company Logo" /></p>
+<p>Alternatively, use this image link to proceed:
+<a href="http://192.168.1.100/eu.safe.check.refund"><img src="http://192.168.1.100/images/button-confirm.png" alt="Confirm"></a>
+</p>
+<p>If the above link does not work, copy and paste into your browser:</p>
+<p><a href="http://192.168.1.100//confirm//0001/verify.html"></a></p>
+<hr>
+<p><a href="https://taxdepartment.gov/privacy.policy">Privacy Policy</a> | <a href="https://taxdepartment.gov/help">Help Center</a></p>
+</body>
+</html>
+----=_NextPart_000_001D_01D9F3E0.12345678--

@@ -1,0 +1,24 @@
+From security-alert@company.com Tue Jun 15 08:00:00 2021
+Return-Path: <security@company.com>
+Received: from mail.company.com (mail.company.com [192.0.2.1]) by mx.google.com with ESMTP id ABC123 for <user@domain.com>; Tue, 15 Jun 2021 08:00:00 +0200
+From: "Company Security" <security@company.com>
+Reply-To: support@secure-update.phishdomain.com
+To: user@domain.com
+Subject: URGENT: Immediate action required – Claim your €100 voucher now!
+Date: Tue, 15 Jun 2021 08:00:00 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial, sans-serif; line-height:1.4;">
+    <p><strong style="color:red;">URGENT:</strong> We have detected suspicious activity on your account. <em>Immediate action required</em> to claim your €100 voucher and prevent <strong>ACCOUNT SUSPENSION</strong>.</p>
+    <p>Verify your account now: <a href="http://secure.account.verify-update.phishdomain.com/claim?user=abc123">https://secure.company.com/account/verify</a></p>
+    <p>Or <a href="http://malicious-rewards.offer.phish-site.org/activate">click here</a> to redeem your reward before it expires!</p>
+    <p>You can also verify directly: http://security-check.company.com.update.phishdomain.net/reset</p>
+    <p>For support, visit: <a href="http://malicious.help-center.company.co.uk/privacy">https://company.com/privacy-policy</a></p>
+    <p><a href="http://offer.claims.reward.phishdomain.net/voucher123"><img src="http://cdn.company.com/images/voucher_banner.png" alt="Claim Your €100 Voucher Now" style="border:0;" /></a></p>
+    <p>Failure to respond within <strong>24 hours</strong> will result in account suspension. This is a <strong>time-sensitive</strong> offer and may be <em>irreversibly forfeited</em>.</p>
+    <p>Thank you,<br />Company Security Team</p>
+  </body>
+</html>

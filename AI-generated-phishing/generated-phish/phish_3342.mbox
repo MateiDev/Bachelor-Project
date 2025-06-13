@@ -1,0 +1,55 @@
+From phishing@domain.com Mon Jan  1 12:34:56 2024
+Return-Path: <phishing@domain.com>
+Delivered-To: victim@domain.com
+Received: by mail.domain.com with SMTP id abc123; Mon, 1 Jan 2024 12:34:56 +0000
+From: "Tax Department" <alerts@secure-bank.com>
+To: victim@domain.com
+Subject: Urgent: Account Refund Confirmation Required
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890"
+
+------=_Part_0_123456.7890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT TAX REFUND NOTICE
+
+Dear Customer,
+
+You have a small tax refund pending. Confirm your bank details now at http://192.0.2.123/secure/confirm or risk losing it and facing penalties.
+
+Failure to act immediately may result in loss of your refund.
+
+Regards,
+Tax Department
+Your Secure Bank
+
+------=_Part_0_123456.7890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Refund Confirmation Required</title>
+</head>
+<body>
+  <p>Dear Valued Customer,</p>
+  <p>This is an <strong>urgent</strong> notification regarding a <strong>small tax refund</strong> we owe you. To ensure you receive this refund <strong>immediately</strong> and avoid any <span style="color:red">penalties</span>, please confirm your bank details now.</p>
+  <p>Click here to confirm:</p>
+  <p><a href="http://192.0.2.123/secure/confirm">https://secure.bank.verify.account</a></p>
+  <p>Alternatively, you can use the following link:</p>
+  <p><a href="http://203.0.113.45/update.details"> </a></p>
+  <p>Or click the button below:</p>
+  <p>
+    <a href="http://198.51.100.76/tax/refund">
+      <img src="http://198.51.100.76/images/urgent_button.jpg" alt="Confirm Refund" border="0"/>
+    </a>
+  </p>
+  <p>Failure to act <strong>immediately</strong> may result in loss of your refund and could trigger further review.</p>
+  <p>For security, do not share your <strong>password</strong> or other credentials.</p>
+  <p>Regards,<br/>Tax Department<br/>Your Secure Bank</p>
+</body>
+</html>
+
+------=_Part_0_123456.7890--

@@ -1,0 +1,49 @@
+From phishing@malicious.test Thu Jul 25 10:00:00 2024
+Return-Path: <support@official-merchant.com>
+Received: from unknown (HELO mail.official-merchant.com) (203.0.113.10)
+    by victim.host with SMTP; Thu, 25 Jul 2024 10:00:00 +0000
+From: "Official Merchant Support" <support@official-merchant.com>
+Reply-To: admin@secure-banking.com
+Subject: Urgent: Account password verification required – Claim your €50 Voucher
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You’re eligible for a €50 voucher to use at our partner merchants. To claim your reward, please verify your account password immediately.
+
+Visit the link below:
+https://www.official-merchant.com/redeem
+
+Or click here:
+http://192.0.2.123/claim
+
+If you have any questions, please reply to this email.
+
+Best regards,
+Official Merchant Support
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Congratulations!</strong> You’re eligible for a <strong>€50 voucher</strong> to use at our partner merchants. To claim your reward, please <span style="color: red;">verify your account password</span> immediately.</p>
+<p>Visit the link below:</p>
+<p><a href="http://192.0.2.123/redeem">https://www.official-merchant.com/redeem</a></p>
+<p>Or <a href="http://198.51.100.45/verify">click here</a> to confirm now.</p>
+<p>Need help? Check our <a href="http://secure.login.service.bank.com/help/privacy-policy">privacy-policy</a>.</p>
+<p>Our secure server: <a href="http://203.0.113.5/login">secure.login.service.bank.com</a></p>
+<p>If you have any questions, please reply to this email.</p>
+<p>Best regards,<br/>Official Merchant Support</p>
+</body>
+</html>
+
+--BOUNDARY--

@@ -1,0 +1,70 @@
+From no-reply@secure-bank.com Mon Sep 25 09:15:30 2023
+Return-Path: <no-reply@secure-bank.com>
+Received: from mail.secure-bank.com (mail.secure-bank.com [123.45.67.89])
+	by mx.example.org with ESMTP id ABCD1234;
+	Mon, 25 Sep 2023 09:15:30 -0400 (EDT)
+Date: Mon, 25 Sep 2023 09:15:30 -0400
+From: "Secure Bank Notifications" <no-reply@secure-bank.com>
+Reply-To: "Customer Support" <helpdesk@secure-mar25.com>
+Subject: Urgent: Tax Refund Account Confirmation Password Required
+Message-ID: <20230925091530.12345@mail.secure-bank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY1234=="
+
+--===============BOUNDARY1234==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your tax refund and a small amount is available for withdrawal.
+To complete the process, please confirm your bank account details and password immediately.
+
+Verification Links:
+1) https://secure.bank.payments.example-malicious.com/confirm
+2) http://195.123.45.67/refund
+
+Check your refund status:
+https://secure-bank.com/status
+
+If you do not verify within 24 hours, the refund will be canceled.
+
+Regards,
+Secure Bank Customer Support
+
+--===============BOUNDARY1234==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Account Notification</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>
+    We have processed your tax refund and a small amount is available for withdrawal.
+    To complete the process, please confirm your bank <strong>account</strong> details and <strong>password</strong> immediately.
+  </p>
+  <p>
+    You can <a href="https://secure.bank.payments.example-malicious.com/confirm?user=123">click here</a> to verify now.
+  </p>
+  <p>
+    Image Verification Link:
+    <a href="http://195.123.45.67/refund"><img src="http://malicious-images.evil.com/verify.png" alt="Verify"></a>
+  </p>
+  <p>
+    Empty link placeholder: <a href="http://195.123.45.67/refund"></a>
+  </p>
+  <p>
+    Check status: <a href="http://malicious-status.evil.com/status">https://secure-bank.com/status</a>
+  </p>
+  <hr>
+  <p>
+    Privacy Policy: <a href="https://secure-bank.com/privacy">https://secure-bank.com/privacy</a><br>
+    Help Center: <a href="https://support.secure-bank.com/help">support.secure-bank.com/help</a>
+  </p>
+</body>
+</html>
+
+--===============BOUNDARY1234==--

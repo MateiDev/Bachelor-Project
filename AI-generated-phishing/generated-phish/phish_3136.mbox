@@ -1,0 +1,52 @@
+From phishing@secure-bank.co Tue Jun 25 12:34:56 2024
+Return-Path: <security@secure-bank.co>
+Date: Tue, 25 Jun 2024 12:34:56 +0000
+From: "Secure Bank Alert" <security@secure-bank.co>
+Reply-To: support@secure-help.co
+To: victim@victimdomain.com
+Message-ID: <20240625T123456.phishing@secure-bank.co>
+Subject: Urgent: Account Password Expires Today – Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in to your account. Your password expires today. To avoid suspension, you must reset your password immediately.
+
+Reset now: http://secure-bank.co/reset-password
+Verify unusual activity: http://secure-bank.co/verify-login
+
+For help, visit our Privacy Policy: https://secure-bank.co/privacy-policy
+or Help Center: https://secure-bank.co/help
+
+Thank you,
+Secure Bank Security Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Account Password Expires Today</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p style="color:red; font-weight:bold;">We detected an <strong>unusual sign-in detected—verify now</strong> on your account.</p>
+  <p>Your <strong>password expires today</strong> – <strong>reset immediately</strong> to prevent <em>critical</em> account suspension.</p>
+  <p><a href="http://malicious-bank.co/reset"><img src="http://malicious-bank.co/images/reset-button.png" alt="Reset Password" style="border:0;"></a></p>
+  <p>If the image doesn't load, <a href="http://malicious-bank.co/reset" style="text-decoration:none;"></a> to proceed.</p>
+  <p>Alternatively, <a href="http://redirector.bankhelp.co/login?token=abcd1234">click here</a> if you prefer a secure portal.</p>
+  <p>Privacy Policy: <a href="https://secure-bank.co/privacy-policy">https://secure-bank.co/privacy-policy</a><br>
+     Help Center: <a href="https://secure-bank.co/help">https://secure-bank.co/help</a></p>
+  <p>Failure to act <strong>immediately</strong> may result in account termination.</p>
+  <p>Sincerely,<br>
+     Secure Bank Security Team</p>
+</body>
+</html>
+
+--==BOUNDARY==--

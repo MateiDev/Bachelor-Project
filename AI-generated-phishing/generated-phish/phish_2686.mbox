@@ -1,0 +1,43 @@
+```mbox
+From nobody Tue Oct 31 10:32:09 2023
+From: "Internal Revenue Service" <no-reply@irsrefunds.gov>
+To: victim@example.com
+Reply-To: support@irssupport.help
+Subject: Urgent: Action Required for Pending Tax Refund
+Date: Tue, 31 Oct 2023 10:30:00 -0000
+Message-ID: <202310311032090001@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------ABC123456"
+
+This is a multi-part message in MIME format.
+--------------ABC123456
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We are contacting you regarding an urgent matter concerning your tax refund. A recent calculation indicates that you are eligible to receive an additional amount. To process this refund, please confirm your bank details immediately to avoid delays.
+
+Click the link below to confirm:
+http://192.168.1.100/bank-confirmation
+
+Best regards,
+Internal Revenue Service
+
+--------------ABC123456
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We are contacting you regarding an <strong>urgent</strong> matter concerning your tax refund. A recent calculation indicates that you are eligible to receive an additional amount. To process this refund, please confirm your bank details immediately to avoid delays.</p>
+    <p>Click the link below to confirm:</p>
+    <p><a href="http://192.168.1.100/bank-confirmation"><img src="http://safe-login.com/image.png" alt="Confirm here"/></a></p>
+    <p>For any questions, consult our <a href="http://irs.gov/privacy-policy">Privacy Policy</a> here. Visit <a href="http://irs.gov/help">IRS Help</a> for assistance.</p>
+    <p>Thank you,<br/>
+    Internal Revenue Service</p>
+  </body>
+</html>
+
+```

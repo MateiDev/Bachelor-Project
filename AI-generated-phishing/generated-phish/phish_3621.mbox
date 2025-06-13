@@ -1,0 +1,33 @@
+From phishing-alert@securemail.com Tue Jun  6 09:15:30 2023
+Message-ID: <20230606091530.phish123@securemail.com>
+Date: Tue, 6 Jun 2023 09:15:30 -0400
+From: "Secure Mail Portal" <security@securemail.com>
+Reply-To: support@securemail-help.net
+To: user@domain.com
+Subject: Urgent: Account Password Security Alert
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif;">
+    <h2 style="color: #D9534F;">Security Alert: Account at Risk!</h2>
+    <p>Dear User,</p>
+    <p>We detected suspicious activity on your account. Your password will <strong>expire</strong> in the next <strong>24 hours</strong> if you do not verify your credentials immediately. Failure to verify will result in account <em>suspension</em> without further notice.</p>
+    <p style="text-align: center;">
+      <a href="http://192.0.2.123/verify"><img src="http://203.0.113.45/secure-alert.png" alt="Click to Verify" width="200" /></a>
+    </p>
+    <p style="text-align: center; margin-top: 20px;">
+      <a href="http://203.0.113.45/login">https://secure.portal-auth.company.com/login</a>
+    </p>
+    <p style="text-align: center; margin-top: 10px;">
+      <a href="http://203.0.113.45/altlogin">https://account.security-update.mail.portal.com/verify?token=abc123</a>
+    </p>
+    <p>Please <a href="http://192.0.2.123/confirm"></a>confirm your identity now to prevent immediate denials.</p>
+    <p>If you encounter issues, click <a href="http://192.0.2.123/help">here</a>.</p>
+    <hr/>
+    <p style="font-size: 12px; color: #666;">
+      <a href="https://securemail.com/privacy">Privacy Policy</a> | <a href="https://securemail.com/help">Help Center</a>
+    </p>
+  </body>
+</html>

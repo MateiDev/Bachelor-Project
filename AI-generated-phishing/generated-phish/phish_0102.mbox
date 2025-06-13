@@ -1,0 +1,69 @@
+```mbox
+From - Fri Oct 15 09:15:32 2023
+X-GM-THRID: 100
+X-Gmail-Labels: Inbox
+Delivered-To: victim@example.com
+Received: by 2002:a17:902:7a40:0:0:0:0 with SMTP id x64csp769pvx;
+        Thu, 14 Oct 2023 21:13:30 -0700 (PDT)
+X-Received: by 2002:a05:4006:75f:: with SMTP id o31mr1290524wrt.67.1697344450308;
+        Thu, 14 Oct 2023 21:13:30 -0700 (PDT)
+Return-Path: <fake-tax-refund@example.com>
+Received: from phishing-server.com (phishing-server.com. [192.0.2.0])
+        by mx.google.com with ESMTPS id z13si4197412wra.28.2023.10.14.21.13.30
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 14 Oct 2023 21:13:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of fake-tax-refund@example.com designates 192.0.2.0 as permitted sender) client-ip=192.0.2.0;
+Authentication-Results: mx.google.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=example.com
+MIME-Version: 1.0
+Date: Fri, 15 Oct 2023 04:13:00 +0000
+Message-ID: <100@phishing-server.com>
+Subject: Urgent Action Required: Unclaimed Tax Refund Available Now
+From: Government Tax Dept <fake-tax-refund@example.com>
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="001a11c387355f8fc40591ac205d"
+
+--001a11c387355f8fc40591ac205d
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,
+
+We are contacting you regarding an urgent matter: Your account is eligible =
+for a tax refund of $450.78 USD. To ensure timely delivery, confirm your ba=
+nk details by clicking the secure link below:
+
+[ ](http://malicious-link.com)
+
+Failure to update within 24 hours may result in a delay of your refund. Act=
+ now!
+
+Government Tax Dept
+
+--001a11c387355f8fc40591ac205d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We are contacting you regarding an <strong>urgent</strong> matter: Yo=
+ur <strong>account</strong> is eligible for a tax refund of <strong>$450.78=
+ USD</strong>. To ensure timely delivery, confirm your bank details by clic=
+king the secure link below:</p>
+    <p><a href=3D"http://malicious-link.com"><img src=3D"http://malicious-se=
+rver.com/image.png" alt=3D"Update Information"></a></p>
+    <p>Failure to update within 24 hours may result in a delay of your refu=
+nd. <span style=3D"color:red;">Act now!</span></p>
+    <p>Your swift action is needed to guarantee your refund is processed.<=
+/p>
+    <p>Regards,<br>Government Tax Dept<br>Email: <a href=3D"mailto:fake-tax-refu=
+nd@example.com">fake-tax-refund@example.com</a></p>
+    <p>Visit our site: <a href=3D"http://malicious-tax-site.com">here</a></=
+p>
+  </body>
+</html>
+
+--001a11c387355f8fc40591ac205d--
+```

@@ -1,0 +1,40 @@
+From no-reply@dhl.com Sat May 25 10:15:00 2024
+Subject: Urgent: Account Verification Required for Your DHL Delivery
+From: "DHL Notification" <no-reply@dhl.com>
+To: victim@domain.com
+Date: Sat, 25 May 2024 10:15:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held due to a verification issue. Please verify your account to release your delivery. Failure to verify within 24 hours will result in return to the sender.
+
+To proceed, visit the link below:
+https://www.dhl.com/track
+
+Thank you,
+DHL Delivery Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Verification Required</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>Your package has been temporarily held at customs due to an <strong>account</strong> verification issue. To avoid return to sender, please <a href="http://192.0.2.123/login">click here</a> to confirm your delivery details.</p>
+<p>Alternatively, you can copy the tracking link below into your browser:</p>
+<p><a href="http://malicious.carrier-para..cel.info/verify">https://www.dhl.com/track</a></p>
+<p><a href="https://secure.dhl-support.com/update-password"></a></p>
+<p>If you experience any issues, visit our <a href="https://help.dhl.com">help center</a>.</p>
+<p>Thank you,<br/>DHL Delivery Team</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

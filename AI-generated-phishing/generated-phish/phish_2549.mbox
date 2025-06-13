@@ -1,0 +1,48 @@
+```mbox
+From phishing.alerts@secureportal.com Mon Apr 19 08:05:57 2021
+Date: Mon, 19 Apr 2021 08:05:57 -0400
+From: "Account Security" <noreply@secure-notices.com>
+To: victim@example.com
+Subject: Urgent: Action Required on Your Account
+Message-ID: <002301d73be3$249ee920$6ddcbd60$@secureportal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_0022_01D73BE3.249EE920"
+
+------=_NextPart_000_0022_01D73BE3.249EE920
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account which requires immediate action to secure your information. Please click the secure link below to confirm your identity and resolve this issue.
+
+http://secureportal-update.com/security/verify
+
+For your protection, it is imperative that you verify your identity immediately.
+
+Thank you,
+
+Account Security Team
+
+------=_NextPart_000_0022_01D73BE3.249EE920
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Urgent Account Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected unusual activity on your account which requires <strong>immediate</strong> action to secure your information. Please click the secure link below to confirm your identity and resolve this issue.</p>
+<p><a href="http://192.168.0.1/verify/secure-update">http://secureportal-update.com/security/verify</a></p>
+<p>For your protection, it is imperative that you verify your identity immediately.</p>
+<p>Thank you,</p>
+<p>Account Security Team</p>
+<p><a href="http://secureportal.com/help" ></a></p>
+</body>
+</html>
+
+------=_NextPart_000_0022_01D73BE3.249EE920--
+```

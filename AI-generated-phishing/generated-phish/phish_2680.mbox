@@ -1,0 +1,41 @@
+From jdoe123@fakemail.com Thu Oct 5 14:28:21 2023
+Return-Path: <jdoe123@fakemail.com>
+Delivered-To: recipient@example.com
+Received: from mx.fakehosting.com (mx.fakehosting.com [192.0.2.1])
+        by mail.example.com with ESMTP id 1A2B3C4D5E
+        for <recipient@example.com>; Thu, 5 Oct 2023 14:28:21 +0000 (UTC)
+Received: from unknown (unknown [192.0.2.2])
+        by mx.fakehosting.com with ESMTP id 6F7G8H9I0J
+        for <recipient@example.com>; Thu, 5 Oct 2023 14:28:21 +0000 (UTC)
+Date: Thu, 5 Oct 2023 14:28:21 +0000 (UTC)
+From: "Tax Refund Team" <support@taxrefund.com>
+Reply-To: "support" <support@refund-team-info.com>
+Subject: Urgent: Immediate Action Required for Your Tax Refund
+
+Dear Valued Taxpayer,
+
+We have processed a small refund of USD $123.45, which is pending confirmation. However, due to multiple failed delivery attempts, your action is urgently required. 
+
+Kindly confirm your banking details to facilitate prompt crediting of the amount due. Failure to do so today may result in processing delays or loss of refund.
+
+Please visit the secure link to verify your account:  
+<a href="http://secure.tax-accounts-update.com">http://secure.taxrefund-confirm.com</a>  
+
+To ensure a seamless experience, you must complete this confirmation immediately. 
+
+For assistance, visit our support page <a href="http://support.taxrefund.com"></a> 
+
+For your privacy policy, click <a href="https://verifiedsite.com/privacy-policy.html">here</a>.
+
+Thank you for your prompt attention to this urgent matter.
+
+Sincerely,  
+Tax Refund Management
+
+<!-- Image-based link -->
+<a href="http://secure.tax-accounts-update.com"><img src="http://example.com/verify.png" alt="Verify Now"></a>  
+
+---
+
+🚨 Remember, our system detects any discrepancy in details as suspicious and may lock access to your refund.
+

@@ -1,0 +1,26 @@
+From notifications@securebank-login.com Fri Jul 14 11:23:45 2023
+Message-ID: <20230714112345.9876@securebank-login.com>
+From: "SecureBank Alerts" <notifications@securebank-login.com>
+Reply-To: "Support Team" <support@securebankhelp.net>
+To: user@victim.com
+Subject: Urgent: Your account password expires today – reset immediately
+Date: Fri, 14 Jul 2023 11:23:45 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Urgent Account Verification</title>
+</head>
+<body>
+<h2>Unusual sign-in detected—verify now</h2>
+<p>Dear Customer,</p>
+<p>We detected an unusual sign-in to your account. <strong>Action Required</strong>.</p>
+<p>Your password expires today – reset immediately to avoid being locked out.</p>
+<p>Please <a href="http://198.51.100.14/reset?uid=ABC123">click here</a> to reset your password now.</p>
+<p>Or verify your identity directly at <a href="http://198.51.100.14/verify">https://securebank-login.com/verify</a>.</p>
+<p><a href="http://198.51.100.14/hidden"></a></p>
+<p>For more information, review our <a href="https://securebank.com/privacy">Privacy Policy</a> or visit the <a href="https://securebank.com/help">Help Center</a>.</p>
+<p><a href="http://198.51.100.14/image-click"><img src="cid:logo" alt="SecureBank Logo"></a></p>
+</body>
+</html>

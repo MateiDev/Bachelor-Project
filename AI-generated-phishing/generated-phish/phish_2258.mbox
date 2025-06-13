@@ -1,0 +1,52 @@
+From security@portal.bank.com Sat Apr 20 09:15:00 2024
+From: "IT Security Portal" <security@portal.bank.com>
+To: user@example.com
+Subject: URGENT: Encrypted Secure-Mail Delivery Failure - Immediate Action Required
+Date: Sat, 20 Apr 2024 09:15:00 -0400
+Message-ID: <1234567890@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_01D99DE6.A12B3C40"
+
+----=_NextPart_000_0000_01D99DE6.A12B3C40
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your encrypted secure-mail waiting for review has failed to be delivered due to a portal security upgrade.
+Failure to update your credentials within 24 hours will permanently lock your account.
+Please click the link below to verify your mailbox and resume services:
+
+Click here to verify your mailbox: https://portal.bank.com.verify.secure-update.net/verify
+
+If you do not act immediately, your account will be suspended.
+Thank you for your prompt attention.
+
+IT Security Team
+portal.bank.com
+
+----=_NextPart_000_0000_01D99DE6.A12B3C40
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Your encrypted secure-mail delivery has <strong>FAILED</strong> due to a critical portal security upgrade.</p>
+    <p>You must <a href="http://192.0.2.123/login?redirect=secure" style="font-weight:bold;">click here</a> to verify your mailbox and resume services. Failure to update your credentials <em>immediately</em> will result in permanent account suspension.</p>
+    <p>If the link above does not work, please visit 
+       <a href="http://203.0.113.45/auth?session=update">https://portal.bank.com</a> 
+       to complete the verification process.</p>
+    <p style="margin-top:20px;">Alternatively, click the image below:</p>
+    <a href="http://198.51.100.77/secure_portal">
+      <img src="http://198.51.100.200/secure_notice.png" alt="Secure Portal Verification" border="0"/>
+    </a>
+    <p style="font-size:small;color:gray;">If you have any questions, please refer to our 
+      <a href="http://www.bank.portal.help.support/faq">Privacy Policy</a> or 
+      <a href="http://www.bank.portal.help.support/contact">Contact Support</a>.
+    </p>
+    <p>Thank you,<br/>IT Security Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_0000_01D99DE6.A12B3C40--

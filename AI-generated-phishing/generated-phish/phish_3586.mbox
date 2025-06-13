@@ -1,0 +1,51 @@
+From MAILER-DAEMON Wed Feb  2 14:02:03 2022
+Message-ID: <20220202140203.12345@dhl.com>
+Date: Wed, 2 Feb 2022 14:02:03 +0000
+From: DHL Shipping <shipment@dhl.com>
+Reply-To: Support Team <support@secure-update.com>
+To: user@example.org
+Subject: Urgent Account Delivery Notification - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZboundary123"
+
+--XYZboundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held due to a payment verification error. To avoid return or destruction of your shipment, please confirm your account details immediately.
+
+Go to the link below to verify your shipment:
+http://192.0.2.123/verify
+
+Thank you,
+DHL Customer Support
+
+--XYZboundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Alert - Urgent Password Verification</title>
+</head>
+<body>
+<p style="color:red; font-weight:bold;">Immediate Action Required!</p>
+<p>Dear Customer,</p>
+<p>Your shipment could not be delivered and is now on hold. Please confirm your delivery details and payment to avoid <strong>permanent cancellation</strong>.</p>
+<p>
+<a href="http://192.0.2.123/verify"></a>
+</p>
+<p>Or visit <a href="http://192.0.2.123/verify">www.dhl-delivery.com/verify</a> to complete verification.</p>
+<p>You can also click <a href="http://203.0.113.10/payment">here</a> to pay the small handling fee.</p>
+<p>For your reference, view our <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> or <a href="https://www.dhl.com/help">Help Center</a>.</p>
+<p>Track your package:</p>
+<p>
+<a href="http://198.51.100.45/tracking"><img src="http://198.51.100.45/tracker.gif" alt="DHL Logo"></a>
+</p>
+<p><strong>Warning:</strong> Failure to respond within 24 hours will result in return of your package.</p>
+</body>
+</html>
+
+--XYZboundary123--

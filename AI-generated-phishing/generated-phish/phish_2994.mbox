@@ -1,0 +1,44 @@
+```mbox
+From MAILER-DAEMON@fakeparcel.com Thu Oct  5 12:34:56 2023
+Return-Path: <fakeparcel@tracking.com>
+Delivered-To: victim@example.com
+Received: by example.com (Postfix, from userid 1001)
+    id 89DFE566AB; Thu, 5 Oct 2023 12:34:56 -0000 (GMT)
+Date: Thu, 5 Oct 2023 12:34:56 -0000
+From: "UPS Notification" <services@ups-notification.com>
+Reply-To: noreply@delivery-tracker.com
+Subject: Urgent: Pending Parcel Verification
+Message-ID: <d6789f123abc567@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_Part_456_789012348.1696500896574"
+
+------=_Part_456_789012348.1696500896574
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+An urgent issue has been detected. Your delivery is on hold due to unpaid fees. Please confirm your parcel information to continue delivery.
+
+Visit our secure tracking page here: http://192.0.2.1/parcels/update
+Kind regards,
+UPS Notification Team
+
+------=_Part_456_789012348.1696500896574
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>An <b>urgent</b> issue has been detected. Your delivery is <b>on hold</b> due to unpaid fees. Please confirm your parcel information to continue delivery.</p>
+    <p><a href="http://www.tracking-services.com/payments" target="_blank"><img src="http://www.upsfakesite.com/logo.png" alt="UPS Logo"></a></p>
+    <p>Visit our secure tracking page <a href="http://192.0.2.1/parcels/update"> here</a></p>
+    <footer>
+      <p>For more information, visit our <a href="https://www.ups.com">privacy policy</a>.<a href="http://www.tracking-services.com/payments"></a></p>
+    </footer>
+  </body>
+</html>
+------=_Part_456_789012348.1696500896574--
+```

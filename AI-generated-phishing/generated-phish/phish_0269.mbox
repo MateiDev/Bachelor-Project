@@ -1,0 +1,56 @@
+```mbox
+From - Mon Oct 16 09:18:46 2023
+X-Original-To: user@example.com
+Delivered-To: user@example.com
+Received: by 10.1.1.1 with SMTP id a12csp1234567ioi;
+        Mon, 16 Oct 2023 02:34:56 -0700 (PDT)
+Date: Mon, 16 Oct 2023 09:34:56 +0000
+From: rewards@shopping.com
+Reply-To: bonusclaims@notify-shipping.com
+To: user@example.com
+Subject: Urgent: Claim your €500 Shopping Reward
+
+Content-Type: multipart/alternative; boundary="000123456789abcde000"
+
+--000123456789abcde000
+Content-Type: text/plain; charset="UTF-8"
+
+Congratulations!
+
+You have been selected to receive a €500 Shopping Reward!
+This is a limited time offer and you must claim your voucher within 24 hours.
+
+To claim your reward, please <a href="http://malicious.example.com.claim.now" target="_blank"></a> immediately!
+
+Thank you for being a valued customer.
+
+Best regards,
+Shopping Reward Team
+---
+
+Privacy Policy: http://www.shopping.com/privacy
+Help Center: http://www.shopping.com/help
+
+--000123456789abcde000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:Arial,sans-serif;">
+    <p>Congratulations!</p>
+    <p>You have been selected to receive a <strong>=E2=82=AC500 Shopping Rew=
+ard</strong>!</p>
+    <p>This is a limited time offer and you must claim your voucher within 2=
+4 hours.</p>
+    <p>To claim your reward, please <a href=3D"http://malicious.example.com.=
+claim.now" target=3D"_blank"></a> immediately!</p>
+    <p>Thank you for being a valued customer.<br><br>Best regards,<br>Shoppi=
+ng Reward Team</p>
+    <hr>
+    <p><a href=3D"http://www.shopping.com/privacy" target=3D"_blank">Privacy=
+ Policy</a></p>
+    <p><a href=3D"http://www.shopping.com/help" target=3D"_blank">Help Cente=
+r</a></p>
+</div>
+
+--000123456789abcde000--
+```

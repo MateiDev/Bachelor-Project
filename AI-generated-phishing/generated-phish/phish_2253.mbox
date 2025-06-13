@@ -1,0 +1,37 @@
+From dhl-notify@dhl.com Fri Jul  5 10:22:33 2024
+Return-Path: <dhl-notify@dhl.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1])
+    by mx.example.com with ESMTP id ABC123DEF456
+    for <victim@example.com>; Fri,  5 Jul 2024 10:22:33 -0400 (EDT)
+From: "DHL Express" <dhl-notify@dhl.com>
+Reply-To: support@dhl-notice.com
+To: victim@example.com
+Subject: Urgent: Account Password Update Required for Delivery
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family:Arial, sans-serif; color:#333;">
+    <p>Dear Customer,</p>
+    <p>Your package is currently on hold due to an urgent <strong>account</strong> <strong>password</strong> verification issue. Please complete the verification to avoid return of your shipment.</p>
+    <p>
+      <!-- Image-based link with empty visible text around it -->
+      <a href="http://malicious-release.com/update">
+        <img src="http://malicious-release.com/dhl_banner.png" alt="DHL Notification" style="border:none;"/>
+      </a>
+    </p>
+    <p>To release your shipment immediately, click below:</p>
+    <p>
+      <!-- Empty visible <a> text styled as button -->
+      <a href="http://malicious-release.com/release" style="display:inline-block;width:220px;height:40px;background-color:#F58B00;color:#fff;text-align:center;line-height:40px;text-decoration:none;font-weight:bold;"></a>
+    </p>
+    <p>If the button above does not work, please visit our secure portal at
+      <a href="http://stealcreds.com/login">https://www.dhl.com/login</a>
+    </p>
+    <p>Need assistance? Check our <a href="https://www.dhl.com/help">Help Center</a> or review our <a href="https://www.dhl.com/privacy">Privacy Policy</a>.</p>
+    <p>For more details, click <a href="http://modal-malicious.com/here">here</a>.</p>
+    <p>Thank you for choosing DHL Express.</p>
+    <p>Sincerely,<br/>DHL Express Customer Support</p>
+  </body>
+</html>

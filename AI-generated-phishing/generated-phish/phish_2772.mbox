@@ -1,0 +1,44 @@
+From MAILER-DAEMON@example.com Mon Oct 21 06:12:34 2023
+Return-Path: <MAILER-DAEMON@example.com>
+X-Original-To: user@example.com
+Delivered-To: user@example.com
+Received: by example.com (Postfix) with ESMTP id 1234567890AB
+        for <user@example.com>; Mon, 21 Oct 2023 06:12:34 -0700 (PDT)
+Date: Mon, 21 Oct 2023 06:12:34 -0700 (PDT)
+From: "Customer Support" <support@upstrackingteam.net>
+Reply-To: urgentnotice@parceldeliveryservice.com
+Subject: Urgent: Delivery Notification - Action Required
+Message-ID: <98765jhgfds@example.com>
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but were unsuccessful. To avoid delay, confirm your shipping address and pay a handling fee. Visit:
+
+http://tracking.servicecheck.com.your-package.pending
+
+Thank you.
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We tried to deliver your package but were unsuccessful. Please confirm your shipping address immediately to avoid further delay. Your urgent attention is required.</p>
+<p>Click <a href="http://tracking.servicecheck.com.your-package.pending">here</a> to resolve the issue.</p>
+<p><a href="http://trustedlink.com/help" style="display:block; width: 1px; height: 1px;"></a></p>
+<p><img src="http://images.upstracking.net/logo.jpg" alt="UPS Logo"><a href="http://tracking-malicious.net/tracker"></a></p>
+<p>Thank you,</p>
+<p>Customer Support</p>
+</body>
+</html>
+
+--boundary-string--

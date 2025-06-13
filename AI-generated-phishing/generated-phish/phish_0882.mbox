@@ -1,0 +1,35 @@
+From service@bank-secure.com Tue Aug 29 14:55:02 2023
+Subject: URGENT: Claim Your €50 Voucher Now
+From: "Customer Service" <service@bank-secure.com>
+Reply-To: security@update-verification.com
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_Part_12345_678901234.1693325702000"
+
+------=_Part_12345_678901234.1693325702000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>URGENT ACTION REQUIRED!</strong></p>
+<p>Dear Customer,</p>
+<p>We are pleased to inform you that you are eligible for an exclusive €50 voucher as appreciation for your loyalty. This offer is valid for a limited time only and will expire <em>in 24 hours</em>. <span style="color:red;">Act now</span> to secure your reward.</p>
+
+<p>Click below to claim:</p>
+<p>
+<a href="http://192.0.2.123/claim"></a>
+</p>
+
+<p>Alternatively, click here:
+<a href="http://192.0.2.123/verify" target="_blank">https://voucher.bank.com/secure</a>
+</p>
+
+<p><a href="http://promo.reward.giftcard.bank-offers.us-east-1.aws-company.io/redeem"><img src="https://assets.bank-images.com/banner.png" alt="Claim Voucher"></a></p>
+
+<p>Failure to redeem within the timeframe will result in forfeiture of the voucher.</p>
+<p>Thank you for your prompt attention.</p>
+</body>
+</html>
+
+------=_Part_12345_678901234.1693325702000--

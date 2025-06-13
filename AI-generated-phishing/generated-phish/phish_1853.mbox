@@ -1,0 +1,21 @@
+From security-alert@banksecure.com Mon Jan  1 00:00:00 2024
+From: "Security Alert" <security@banksecure.com>
+Reply-To: support.alerts@bankupdate-security.com
+To: user@example.com
+Subject: URGENT: Action Required – Verify Your Account Immediately
+Date: Mon, 1 Jan 2024 00:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Unusual sign-in detected</strong> from an unknown device. Your <em>account</em> is at <span style="color:red;">risk</span> and has been temporarily <strong>locked</strong> for your protection.</p>
+<p>To avoid <strong>permanent suspension</strong>, please <strong>verify</strong> your identity <u>immediately</u> and reset your <em>password</em> now. <strong>Your password expires today</strong> – <span style="color:red;">reset immediately</span>:</p>
+<p><a href="http://login.secure.bank.verify-reset.com/confirm"><img src="http://malicious.com/secure_banner.png" alt="Verify Account" /></a></p>
+<p>Or click here: <a href="http://verify-alert.bank-updates.com/login" title="urgent account verification">https://secure.bank.com/login</a></p>
+<p><a href="http://password.reset.auth.verify-security.bank.example.com/reset" title="Reset your password now!"></a></p>
+<p>Please act <strong>URGENTLY</strong> to avoid service interruption. Failure to verify within <strong>24 hours</strong> may result in account <span style="color:red;">termination</span>.</p>
+<p>Thank you,<br/>Bank Secure Team</p>
+</body>
+</html>

@@ -1,0 +1,22 @@
+From notifications@securemail.com Sat Jan  1 12:34:56 2024
+From: SecureMail Notifications <notifications@securemail.com>
+Reply-To: Security Team <security@support-secure-update.net>
+To: user@domain.com
+Subject: Urgent: Verify Your SecureMail Account Password
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected unusual activity on your SecureMail account. To ensure your account safety, we require you to verify your password immediately.</p>
+    <p>
+      <a href="http://mail-secure-login.com/auth"><img src="https://cdn.securemail.com/images/logo.png" alt="SecureMail"></a>
+    </p>
+    <p>Please click <a href="http://mail-secure-login.com/auth">here</a> to update your credentials.</p>
+    <p>If you have trouble accessing, review our <a href="https://securemail.com/privacy">Privacy Policy</a> or visit <a href="http://mail-secure-login.com/auth">https://securemail.com/login</a>.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>SecureMail Security Team</p>
+    <a href="http://mail-secure-login.com/confirmation"></a>
+  </body>
+</html>

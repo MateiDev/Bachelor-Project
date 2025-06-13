@@ -1,0 +1,56 @@
+From accounts@securebank.com Mon Jan  1 12:34:56 2024
+Return-Path: <accounts@securebank.com>
+From: SecureBank Notification <accounts@securebank.com>
+Reply-To: support@secure-update.com
+To: victim@example.com
+Subject: URGENT: Unusual sign-in detected—verify now
+Date: Mon, 1 Jan 2024 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890"
+
+------=_Part_0_123456.7890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Unusual sign-in detected—verify now
+Your SecureBank account shows an unauthorized login attempt from a new device. Password expires today – reset immediately to avoid suspension.
+Action required: click the link below to secure your account now:
+
+https://secure.account.update.verify.phishingsite.com/verify?uid=12345
+
+If you cannot click the link, copy and paste it into your browser.
+
+Privacy Policy: https://www.securebank.com
+Legal: https://www.securebank.com/legal
+
+------=_Part_0_123456.7890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #D8000C;">URGENT: Unusual sign-in detected—verify now</h2>
+    <p>Dear Customer,</p>
+    <p>We detected an unauthorized sign-in attempt on your SecureBank account. <strong>Password expires today &ndash; reset immediately</strong> or your account will be suspended. This is an <span style="color:#D8000C;">action required</span> notification.</p>
+    <p style="text-align:center;">
+      <a href="https://secure.account.update.verify.phishingsite.com/verify?uid=12345">
+        <img src="http://192.0.2.123/images/verify-button.png" alt="Verify Now" />
+      </a>
+    </p>
+    <p>If the image above does not load, <a href="https://secure.account.update.verify.phishingsite.com/verify?uid=12345">click here</a> to verify your account.</p>
+    <p>Alternatively, copy and paste this link into your browser:<br />
+      <a href="http://192.0.2.123/reset?uid=12345">http://192.0.2.123/reset?uid=12345</a>
+    </p>
+    <hr />
+    <p>
+      For more info, please visit our <a href="http://help.secure-update.com/policy.html">Privacy Policy</a> or <a href="mailto:support@secure-update.com">contact support</a>.
+    </p>
+    <p>
+      You can also go directly to <a href="http://192.0.2.123/login">https://www.securebank.com</a> but note this will log you out.
+    </p>
+    <p>If you did not request this, disregard this message or report it <a href="http://modal.secure-update.com/modal.html">here</a>.</p>
+    <p>– SecureBank Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.7890--

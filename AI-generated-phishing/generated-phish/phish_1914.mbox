@@ -1,0 +1,54 @@
+From noreply@rewards-service.com Tue Jul 09 07:00:00 2024
+Return-Path: <noreply@rewards-service.com>
+Delivered-To: user@domain.com
+Received: from mail.rewards-service.com (mail.rewards-service.com [198.51.100.24])
+    by domain.com with ESMTP id abc12345
+    for <user@domain.com>; Tue,  9 Jul 2024 07:00:00 +0000
+Subject: Congratulations! Claim Your €100 Gift Voucher
+From: Rewards Service <noreply@rewards-service.com>
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear valued customer,
+
+Congratulations! You've been selected to receive a €100 gift voucher from our service.
+
+To claim your reward, please visit:
+http://93.184.216.34/claim
+
+If the above link doesn't work, you can also copy and paste this into your browser:
+https://rewards-service.com/claim
+
+For assistance, visit our help page:
+https://company.com/help
+
+Best regards,
+Rewards Service Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>Congratulations! You’re eligible for a <strong>€100 gift voucher</strong>.</p>
+    <p>Simply <a href="http://93.184.216.34/claim">here</a> to secure your reward!</p>
+    <p>Alternatively, click the voucher image below:</p>
+    <p><a href="http://192.0.2.1/voucher"><img src="http://192.0.2.1/voucher.png" alt="Voucher"></a></p>
+    <p>Or copy and paste this URL into your browser:<br>
+       <a href="http://93.184.216.34/redeem">https://rewards-service.com/redeem</a>
+    </p>
+    <p><a href="http://93.184.216.34/track"></a></p>
+    <p>For more information, check our <a href="https://company.com/privacy">privacy policy</a> 
+       or <a href="https://company.com/help">help page</a>.</p>
+    <p>Thank you,<br>Rewards Service Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

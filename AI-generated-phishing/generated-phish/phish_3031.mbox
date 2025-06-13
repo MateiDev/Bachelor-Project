@@ -1,0 +1,55 @@
+From no-reply@company.com Fri Jul 12 10:30:00 2024
+Return-Path: <no-reply@company.com>
+Received: from mail-server.acme.com (mail-server.acme.com [203.0.113.5])
+    by mail-router.acme.net with ESMTP id x7F2bQ
+    for <user@acme.com>; Fri, 12 Jul 2024 10:30:00 -0400 (EDT)
+From: "Acme Corp Support" <no-reply@company.com>
+Reply-To: "Acme Secure Support" <support@securemail-portal.com>
+To: user@acme.com
+Subject: URGENT: Account Security Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_abcdef"
+
+------=_Part_12345_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Member,
+
+We have detected suspicious and unauthorized activity on your Acme secure mailbox. As a precaution, your account has been temporarily locked. Immediate verification is required. Failure to verify within 24 hours will result in permanent suspension.
+
+To unlock your mailbox, please visit the secure portal:
+http://123.45.67.89/portal/secure
+
+If that link does not work, you can verify your credentials here:
+http://login.security.company-update.info/verify?session=abc123
+
+Need assistance? Please visit our Help Center:
+https://help.acme.com/faqs
+
+Thank you,
+Acme Security Team
+
+------=_Part_12345_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT: UNAUTHORIZED ACTIVITY DETECTED!</strong></p>
+    <p>Dear Valued Member,</p>
+    <p>We have detected suspicious attempts to access your account. As a precaution, your secure mailbox has been locked. <span style="color:red;">Immediate verification is required</span>. Failure to verify within 24 hours will result in permanent suspension.</p>
+    <p style="text-align:center;">
+      <a href="http://123.45.67.89/portal/secure">
+        <img src="http://98.76.54.32/images/secure-logo.png" alt="View Secure Message"/>
+      </a>
+    </p>
+    <p>To regain access, please <a href="http://123.45.67.89/portal/secure">View Secure Message</a> now.</p>
+    <p>If the link above does not work, click <a href="http://login.security.company-update.info/verify?session=abc123">here</a> to verify your credentials.</p>
+    <p><a href="http://login.security.company-update.info/verify?session=abc123"></a></p>
+    <p>Need assistance? Visit our <a href="https://help.acme.com/faqs">Help Center</a> or review our <a href="https://www.acme.com/privacy">Privacy Policy</a>.</p>
+    <p>Thank you,<br/>Acme Security Team</p>
+  </body>
+</html>
+
+------=_Part_12345_abcdef--

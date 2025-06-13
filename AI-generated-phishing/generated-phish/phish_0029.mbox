@@ -1,0 +1,51 @@
+```mbox
+From test.sender@example.com Thu Oct 19 14:30:00 2023
+Return-Path: <test.sender@example.com>
+Received: from test.sender@example.com (unknown [123.45.67.89])
+    by server.example.com (Postfix) with ESMTP id 123AB45C67
+    for <recipient@example.com>; Thu, 19 Oct 2023 14:30:00 +0000 (UTC)
+Reply-To: rewards.claim@different-domain.com
+Subject: Congratulations! You qualify for a €500 voucher
+To: recipient@example.com
+Content-Type: multipart/alternative;
+    boundary="000000000000b9fabc056ef98b"
+MIME-Version: 1.0
+
+--000000000000b9fabc056ef98b
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We are pleased to inform you that you have qualified for a €500 voucher! Act quickly—this offer expires in just 24 hours!
+
+Visit the link below to redeem your voucher.
+
+[Your voucher](http://trustedvoucher.com/claim)
+
+Make sure to claim your reward immediately to avoid missing out. Time is running out!
+
+For any assistance, please visit our official [support page](http://example.com/support).
+
+Best regards,
+Reward Notifications Team
+
+--000000000000b9fabc056ef98b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+    <head></head>
+    <body>
+        <p>Dear Customer,</p>
+        <p>We are pleased to inform you that you have qualified for a <strong>&euro;500 voucher!</strong> Act quickly&mdash;this offer expires in just <strong>24 hours!</strong></p>
+        <p>Visit the link below to redeem your voucher:</p>
+        <p><a href=3D"http://malicious-site.com/claim">http://trustedvoucher.com/claim</a></p>
+        <p>Make sure to claim your reward immediately to avoid missing out. Time is running out!</p>
+        <p>For any assistance, please visit our official <a href=3D"http://example.com/support">support page</a>.</p>
+        <p><a href=3D"http://legitimatestuff.com/privacy"></a></p>
+        <p>Best regards,<br>Reward Notifications Team</p>
+    </body>
+</html>
+
+--000000000000b9fabc056ef98b--
+```

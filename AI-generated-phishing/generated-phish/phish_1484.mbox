@@ -1,0 +1,52 @@
+From attacker@trusted.com Sat Jul 10 12:34:56 2021
+Subject: URGENT: Password Reset Required for Your Account!
+From: "Customer Support" <support@secure-portal.com>
+Reply-To: support@customer-care.com
+To: user@example.org
+Date: Sat, 10 Jul 2021 12:34:56 -0400
+Message-ID: <20210710123456.0001@secure-portal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====boundary===="
+
+--====boundary====
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected multiple failed login attempts on your account. As a security measure, your account will be temporarily suspended unless you reset your password immediately.
+
+Please visit the following link to reset your password:
+https://secureportal.bank.com/login
+
+This is an URGENT security alert. Failure to act within 24 hours will result in permanent suspension of your account.
+
+Privacy Policy: https://secureportal.bank.com/privacy
+Help Center: https://secureportal.bank.com/help
+
+Thank you,
+Customer Support
+
+--====boundary====
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected <strong>multiple failed login attempts</strong> on your <strong>account</strong>. As a security measure, your account will be <span style="color:red">temporarily suspended</span> unless you reset your <strong>password</strong> immediately.</p>
+    <p>Please <a href="http://malicious-redirect.com/reset?uid=12345" style="color: #d9534f;">click here</a> to reset your password now.</p>
+    <p>Or copy and paste the following link into your browser:</p>
+    <p><a href="http://malicious-redirect.com/verify?token=abcdef">https://secureportal.bank.com/login</a></p>
+    <p>
+      <a href="http://malicious-redirect.com/secure-image"><img src="http://malicious-redirect.com/images/secure-mail.png" alt="Secure Mail Notification"></a>
+    </p>
+    <p><small>
+      <a href="https://secureportal.bank.com/privacy">Privacy Policy</a> |
+      <a href="https://secureportal.bank.com/help">Help Center</a>
+    </small></p>
+    <p>Thank you,<br/>Customer Support</p>
+  </body>
+</html>
+
+--====boundary====--

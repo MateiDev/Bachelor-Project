@@ -1,0 +1,44 @@
+From security@paypal.com Thu Jun 06 14:28:00 2024
+Return-Path: <security@paypal.com>
+From: "PayPal Security" <security@paypal.com>
+Reply-To: "PayPal Support" <no-reply@security-alert-warning.net>
+To: user@clientdomain.com
+Subject: URGENT: Account Password Verification Required
+Date: Thu, 06 Jun 2024 14:28:00 -0400
+Message-ID: <20240606142800.abcdefg@paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1654504080000"
+
+----=_Part_12345_678901234.1654504080000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. URGENT: Your account password must be verified immediately to avoid a lockout.
+
+Please verify your password by visiting the following link:
+https://secure.portal.banksecure.com/login
+
+Failure to complete verification within 24 hours will result in account suspension.
+
+Thank you,
+PayPal Security Team
+
+----=_Part_12345_678901234.1654504080000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong style="color:red;">Urgent Warning!</strong> Suspicious login attempts have been detected on your account, and immediate action is required to prevent <em>account suspension</em>.</p>
+    <p>Please <a href="http://malicious-login.com/login">https://secure.portal.banksecure.com/login</a> to verify your <span style="font-weight:bold;">password</span> now.</p>
+    <p>Review our <a href="https://www.paypal.com/privacy">Privacy Policy</a> or <a href="http://malicious-login.com/help">click here</a> for more information.</p>
+    <p><a href="http://malicious-login.com/login"><img src="http://malicious-login.com/secure-email.png" alt="Secure Mail Verification" style="border:none;"></a></p>
+    <p>If you need help, visit our <a href="https://www.paypal.com/help">Help Center</a>.</p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+----=_Part_12345_678901234.1654504080000--

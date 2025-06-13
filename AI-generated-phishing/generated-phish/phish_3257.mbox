@@ -1,0 +1,61 @@
+From support@legitcompany.com Thu Jun 27 14:23:07 2024
+Return-Path: <support@legitcompany.com>
+Received: from promo.legitcompany.com (promo.legitcompany.com [198.51.100.25])
+        by mail.legitcompany.com with ESMTP id ABC123DEF for <user@example.net>;
+        Thu, 27 Jun 2024 14:23:07 +0200 (CEST)
+Message-ID: <20240627122307.ABC123DEF@legitcompany.com>
+Date: Thu, 27 Jun 2024 14:23:07 +0200
+From: "Customer Service" <support@legitcompany.com>
+Reply-To: security-team@203.0.113.5
+To: user@example.net
+Subject: URGENT: Account Password Verification Required – Claim Your €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7890"
+
+------=_Part_123456_7890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account password requires immediate verification. You have been selected to receive a €50 gift voucher. To avoid losing this reward and to secure your account, you must act now.
+
+Please verify your details and claim your voucher using the link below:
+http://203.0.113.5/verify
+
+If you don't complete the verification within 24 hours, your account will be locked permanently.
+
+For more info, visit our Privacy Policy:
+http://legitcompany.com/privacy-policy
+
+Thank you,
+Customer Service Team
+
+------=_Part_123456_7890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Account Password Verification – Claim Your €50 Voucher</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>Your <strong>account</strong> password requires <em>immediate</em> verification. You've been <strong>selected</strong> to receive a <strong>€50 voucher</strong>. This is your <span style="color:red;">last chance</span>—you must <em>act now</em> to <strong>secure</strong> your account!</p>
+  <p>
+    <a href="http://45.77.34.21/claim">
+      <img src="http://promo.company.rewards.voucher.app/images/voucher.png" alt="Claim Your Voucher" width="200" height="100" border="0">
+    </a>
+  </p>
+  <p>Or you can <a href="http://45.77.34.21/claim">click here</a> to proceed.</p>
+  <p>Insight: Paper insight — Fette et al. (2007) observed that phishers often keep benign-looking links (privacy-policy, help, etc.) intact while hiding their malicious URL behind a generic anchor such as “click here” or “here”.</p>
+  <p>Verify using this link which appears legitimate but points to a different host:
+     <a href="http://45.77.34.21/secure">http://legitcompany.com/voucher</a>
+  </p>
+  <p>Manage your account and view our <a href="http://legitcompany.com/help.faq.policy">Help Center</a> or read our <a href="http://legitcompany.com/privacy-policy">Privacy Policy</a>.</p>
+  <p>If you don't verify within <strong>24 hours</strong>, your account will be <strong>locked</strong>.</p>
+  <p>Regards,<br>Customer Service Team</p>
+</body>
+</html>
+
+------=_Part_123456_7890--

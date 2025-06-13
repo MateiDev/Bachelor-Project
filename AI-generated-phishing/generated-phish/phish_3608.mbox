@@ -1,0 +1,45 @@
+From notifications@irs.gov Tue Sep 12 10:22:33 2023
+Return-Path: <notifications@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.1]) by mx.company.com with ESMTP id ABC123; Tue, 12 Sep 2023 10:22:33 -0400
+From: "IRS Notification" <notifications@irs.gov>
+To: user@example.com
+Subject: Urgent: Account Password Confirmation Required for $24.50 Tax Refund
+Reply-To: support@taxsecurity.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-----=_Part_0_123456.123456789"
+
+-----=_Part_0_123456.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear taxpayer,
+
+Our records indicate that you have a pending tax refund of $24.50. To expedite your refund, please confirm your bank account password immediately. Failure to do so may delay your payment and could result in account suspension.
+
+Visit https://secure.irs.gov/confirm to verify your details.
+
+Thank you,
+IRS Online Services
+
+-----=_Part_0_123456.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Confirmation Required</title>
+</head>
+<body>
+<p>Dear taxpayer,</p>
+<p>Our records indicate that you have a pending <strong>tax refund of $24.50</strong>. To expedite your refund and avoid <em>delay or account suspension</em>, you must confirm your bank <span style="color:red;">password</span> now.</p>
+<p>Click <a href="http://198.51.100.23/secure/update?ref=tax2023">here</a> to confirm your details.</p>
+<p>If the link above does not work, copy and paste the following URL into your browser:</p>
+<p><a href="http://198.51.100.23/secure/update?ref=tax2023">https://secure.irs.gov/update</a></p>
+<p>For assistance, visit our <a href="https://help.irs.gov/">help center</a> or review our <a href="https://privacy-policy.irs.gov/">privacy policy</a>.</p>
+<p><a href="http://198.51.100.23/validate"></a></p>
+<p><a href="http://198.51.100.23/login"><img src="http://198.51.100.23/irs_logo.png" alt="IRS Logo"></a></p>
+<p>Thank you,<br>IRS Online Services</p>
+</body>
+</html>
+
+-----=_Part_0_123456.123456789--

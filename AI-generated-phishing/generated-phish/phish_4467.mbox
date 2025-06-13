@@ -1,0 +1,49 @@
+From noreply@secure-giftcards.com Fri Jun 21 09:15:00 2024
+Return-Path: <noreply@secure-giftcards.com>
+Received: from mail.secure-giftcards.com by mx01.domain.com with SMTP id ABC123; Fri, 21 Jun 2024 09:15:00 +0200
+From: "Rewards Team" <noreply@secure-giftcards.com>
+Reply-To: help@official-bank.com
+To: user@domain.com
+Subject: Urgent: account Password Validation & € Voucher Claim
+Date: Fri, 21 Jun 2024 09:15:00 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D9F9F8.1A1B2C3D"
+
+----=_NextPart_000_001D_01D9F9F8.1A1B2C3D
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear valued user,
+
+We noticed unusual activity on your account. To secure your password and claim your €50 gift voucher, please verify immediately.
+
+Time is running out. Act now to avoid losing your reward!
+
+Claim your voucher:
+http://198.51.100.45/redeem
+
+For support, visit:
+https://support.banksecure.com/help
+
+Best regards,
+Rewards Team
+
+----=_NextPart_000_001D_01D9F9F8.1A1B2C3D
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear valued user,</p>
+<p>We noticed unusual activity on your <strong>account</strong>. To secure your <strong>password</strong> and claim your <strong>€50 gift voucher</strong>, please verify immediately.</p>
+<p style="color:red;"><em>Time is running out. Act <strong>now</strong>!</em></p>
+<p>Click <a href="http://198.51.100.45/redeem">here</a> to claim your voucher.</p>
+<p>Alternatively, you may visit <a href="https://support.banksecure.com/help">https://support.banksecure.com/help</a> for assistance.</p>
+<p><a href="http://198.51.100.45/"></a></p>
+<p><a href="http://203.0.113.5/phish">https://yourbank.com/login</a></p>
+<p><a href="https://support.banksecure.com/privacy-policy">Privacy Policy</a></p>
+<p><a href="http://198.51.100.45/voucher"><img src="http://198.51.100.45/images/voucher.png" alt="Voucher" style="border:none;" /></a></p>
+</body>
+</html>
+
+----=_NextPart_000_001D_01D9F9F8.1A1B2C3D--

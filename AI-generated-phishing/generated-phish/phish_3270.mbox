@@ -1,0 +1,54 @@
+From notifications@irs-gov.us Mon Mar  6 12:34:56 2023
+From: "IRS Tax Dept" <notifications@irs-gov.us>
+To: victim@domain.com
+Subject: Urgent: Account Tax Refund Awaiting Your Confirmation
+Date: Mon, 6 Mar 2023 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====boundary===="
+
+--====boundary====
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your claim for a small tax refund remains unprocessed. This is an urgent notice: you must confirm your bank details immediately to prevent cancellation of your refund.
+
+Please visit the following link to verify your information:
+http://update.tax.bankmodal.com/confirm?user=12345
+
+Failure to act within 24 hours will automatically cancel your claim. For assistance, view our Privacy Policy:
+https://www.irs.gov/privacy-policy
+
+Sincerely,
+IRS Tax Department
+
+--====boundary====
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;font-weight:bold;">Important: <span style="text-decoration:underline;">Immediate Action Required</span></p>
+    <p>
+      Your tax refund claim is at risk of cancellation due to unverified bank details.<br>
+      Please <a href="http://update.tax.bankmodal.com/confirm?user=12345">click here</a> to confirm your information now.
+    </p>
+    <p>
+      <a href="http://secure.bankmodal.com/verify"><img src="http://images.taxrefund.gov/logo.png" alt="IRS Logo"></a>
+    </p>
+    <p>
+      Access your secure account now: <a href="http://tax-refund.modal-bank-secure.com/login">https://irs.gov/secure-login</a><br>
+      Or <a href="http://bank-modal.com/confirm"></a><a href="http://bank-modal.com/confirm">here</a> if the above link fails.
+    </p>
+    <p>
+      For more info, visit our
+      <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> or
+      <a href="https://www.irs.gov/help">Help Center</a>.
+    </p>
+    <p style="font-size:small;color:grey;">&copy; 2023 IRS. All rights reserved.</p>
+  </body>
+</html>
+
+--====boundary====--

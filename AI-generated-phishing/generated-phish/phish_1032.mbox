@@ -1,0 +1,56 @@
+From support@rewards.com Thu Jun 27 10:15:00 2024
+Return-Path: <support@rewards.com>
+Message-ID: <202406271015.ABC123@rewards.com>
+Date: Thu, 27 Jun 2024 10:15:00 +0200
+From: "Rewards Support" <support@rewards.com>
+Reply-To: "Secure Assistance" <assistance@secure-rewards.com>
+To: "Valued Customer" <user@domain.com>
+Subject: URGENT: Account Password Verification Required to Claim Your €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D952A2.BF4A2C30"
+
+----=_NextPart_000_001D_01D952A2.BF4A2C30
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We have detected unusual activity on your account that puts it at RISK of suspension.
+To secure your account and immediately claim your €50 reward, you MUST verify your account password now.
+This is a LIMITED-TIME offer. Failure to act within 24 hours will CANCEL your voucher.
+
+Click here to verify and claim:
+http://192.0.2.123/claim/voucher?uid=6743
+or
+https://secure.verify.claims.online.com/rewards/claim?uid=6743
+
+Act NOW to avoid losing your reward!
+
+Best regards,
+Rewards Support Team
+
+----=_NextPart_000_001D_01D952A2.BF4A2C30
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p style="color:red; font-weight:bold;">URGENT: Your account is at RISK of deactivation!</p>
+    <p>To secure your <strong>account</strong> and claim your <span style="color:green;">€50 Gift Voucher</span>, please verify your password immediately. This LIMITED-TIME offer expires in 24 hours.</p>
+    <p>
+      <a href="https://secure.verify.claims.online.com/rewards/claim?uid=6743">Verify &amp; Claim Your Voucher</a>
+    </p>
+    <p>Or click the image below:</p>
+    <p>
+      <a href="http://192.0.2.123/claim/voucher?uid=6743">
+        <img src="https://cdn.offers-images.promo.net/giftcard.png" alt="Claim Voucher" border="0"/>
+      </a>
+    </p>
+    <p style="font-size:smaller;">If you do not act now, your account will be suspended and your voucher CANCELLED.</p>
+    <p>Best regards,<br/>Rewards Support Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_001D_01D952A2.BF4A2C30--

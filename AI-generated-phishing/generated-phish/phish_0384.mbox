@@ -1,0 +1,41 @@
+From MAILER-DAEMON Fri Oct 13 10:00:00 2023  
+Date: Fri, 13 Oct 2023 10:00:00 -0400  
+From: "IRS Refunds" <refunds@irs.gov>  
+Subject: Urgent: Confirm Your Tax Refund Now!  
+To: victim@example.com  
+MIME-Version: 1.0  
+Content-Type: multipart/alternative; boundary="boundary_string"
+
+--boundary_string  
+Content-Type: text/plain; charset="UTF-8"  
+Content-Transfer-Encoding: 7bit  
+
+Dear Taxpayer,
+
+You have an urgent tax refund pending. Please confirm your banking information to receive a refund of $500.00. 
+
+To proceed, please click the link below:  
+http://192.168.0.1/confirm-refund  
+
+Best Regards,  
+IRS Support Team  
+
+Privacy Policy: https://www.irs.gov/privacy  
+Help Center: https://www.irs.gov/help  
+Contact Us: https://www.irs.gov/contact  
+
+--boundary_string  
+Content-Type: text/html; charset="UTF-8"  
+Content-Transfer-Encoding: 7bit  
+
+<html>  
+  <body>  
+    <p>Dear Taxpayer,</p>  
+    <p>You have an <b>urgent</b> tax refund pending. Please confirm your banking information to receive a refund of $500.00.</p>  
+    <p>To proceed, please click <a href="http://192.168.0.1/confirm-refund">here</a>.</p>  
+    <p>Best Regards,<br>IRS Support Team</p>  
+    <a href="https://www.irs.gov/privacy">Privacy Policy</a> | <a href="https://www.irs.gov/help">Help Center</a> | <a href="https://www.irs.gov/contact">Contact Us</a>  
+  </body>  
+</html>
+
+--boundary_string--  

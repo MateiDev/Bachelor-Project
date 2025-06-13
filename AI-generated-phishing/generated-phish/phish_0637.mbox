@@ -1,0 +1,43 @@
+From no-reply@trusted.com Fri Aug 11 09:12:00 2023
+Return-Path: <no-reply@trusted.com>
+Received: from mail.trusted.com (mail.trusted.com [203.0.113.45]) by mx.domain.com with ESMTP id A1B2C3D4; Fri, 11 Aug 2023 09:12:01 +0000
+Subject: Urgent: Account Password Reset Needed to Claim €100 Voucher
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===BOUNDARY123==="
+
+--===BOUNDARY123===
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account has been flagged for suspicious activity. Immediate action is required. You must verify your password to avoid permanent suspension. Once verified, you will be eligible for a €100 reward voucher.
+
+Please visit the secure link below to confirm:
+http://192.168.0.123/verify
+
+Failure to act now will result in account lockout and loss of your reward entitlement. This is your last chance to claim.
+
+Thank you for your prompt attention.
+
+Best regards,
+Trusted Rewards Team
+
+--===BOUNDARY123===
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Critical Alert:</strong> Suspicious activity detected on your account. <em>Immediate verification</em> of your password is required to prevent lockout and to <strong>claim your €100 voucher</strong>.</p>
+    <p>Please verify now by clicking <a href="http://192.168.0.123/verify">here</a>.</p>
+    <p>If the link above doesn't work, copy and paste the following URL into your browser:</p>
+    <p><a href="http://192.168.0.123/verify">http://secure.voucher.bank.com/rewards</a></p>
+    <p>For more information, see our <a href="http://192.168.0.123/privacy">www.bank.com/privacy.policy.html</a>.</p>
+    <p style="font-size:small;color:gray;">Thank you,<br/>Trusted Rewards Team</p>
+  </body>
+</html>
+
+--===BOUNDARY123===--

@@ -1,0 +1,53 @@
+From no-reply@securemail.com Wed Jun 26 11:02:03 2024
+Return-Path: <no-reply@securemail.com>
+From: "SecureMail Security" <no-reply@securemail.com>
+Reply-To: support@secure-account.net
+To: user@example.com
+Subject: Urgent: Account Password Expiration Notice
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_89101112"
+
+------=_Part_1234567_89101112
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected—verify now.
+
+We noticed an unusual sign-in attempt on your SecureMail account from a new device. As a precaution, access to your account has been temporarily limited. Your password expires today – reset immediately to avoid any disruption.
+
+Action required:
+1. Verify your account here: http://198.51.100.23/verify?email=user@example.com
+2. Visit https://securemail.com/account/reset to confirm your identity.
+3. Reset your password now at https://update.security.verify.account.example.com/reset
+
+For additional support, reply to this email.
+
+SecureMail Security Team
+
+------=_Part_1234567_89101112
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Expiration Notice</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Unusual sign-in detected—verify now.</strong></p>
+<p>We noticed an unusual sign-in attempt on your <em>SecureMail</em> account from a new device. As a precaution, access to your account has been temporarily limited. <strong>Your password expires today – reset immediately</strong> to avoid any disruption.</p>
+<p>Action required:</p>
+<ol>
+<li>Verify your account with one click: <a href="http://198.51.100.23/verify?email=user@example.com">Verify Now</a></li>
+<li>Confirm your identity: <a href="http://malicious.example.org/login">https://securemail.com/account/reset</a></li>
+<li>Reset your password now: <a href="https://update.security.verify.account.example.com/reset">Reset Password Now</a></li>
+</ol>
+<p><a href="http://203.0.113.45/login"><img src="http://203.0.113.45/logo.png" alt="SecureMail Logo" border="0"></a></p>
+<p>For additional support, please reply to this email.</p>
+<p>SecureMail Security Team</p>
+</body>
+</html>
+
+------=_Part_1234567_89101112--

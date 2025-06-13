@@ -1,0 +1,64 @@
+From notifications@dhl.com Wed Jul 31 10:15:00 2024
+Return-Path: <notifications@dhl.com>
+From: "DHL Express" <notifications@dhl.com>
+Reply-To: support@dhl-info.org
+To: user@example.com
+Subject: Delivery Notification: Action Required to Release Your Package
+Date: Wed, 31 Jul 2024 10:15:00 +0000
+Message-ID: <20240731101500.abcdefg@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_Part_0_123456.7890123456"
+
+------=_Part_0_123456.7890123456
+Content-Type: multipart/alternative; boundary="----=_Part_1_0987654321"
+
+------=_Part_1_0987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our records indicate that your recent shipment (Tracking #: 1Z999AA10123456784) is on hold awaiting additional payment of $8.50 for customs clearance.
+
+To release your package, please visit the link below:
+http://secure.dhl.fee.verify.release-info.com/release
+
+If you have any questions, you can visit our Help Center:
+https://www.dhl.com/en/support.html
+
+Thank you for choosing DHL Express.
+
+Best regards,
+DHL Express Delivery Team
+
+------=_Part_1_0987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head><meta charset="UTF-8"><title>Delivery Notification</title></head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package with Tracking #: <strong>1Z999AA10123456784</strong> is currently on hold by customs until additional fees are paid.</p>
+    <p>Please <a href="http://secure.dhl.fee.verify.release-info.com/release">click here</a> to pay the outstanding fee of <strong>$8.50</strong> and release your package.</p>
+    <p>You may also<a href="http://release.dhl.123.payments.com/confirm"></a> review the <a href="https://www.dhl.com/en/privacy_policy.html">Privacy Policy</a> or visit our <a href="https://www.dhl.com/en/support.html">Help Center</a>.</p>
+    <p>If you prefer, you can directly <a href="http://urgent-release.dhl.payment-confirmation.com/unlock"><img src="cid:tracking" alt="Track your package" style="border:none;"></a></p>
+    <p>We appreciate your prompt attention to this matter.</p>
+    <p>Best regards,<br>DHL Express Delivery Team</p>
+    <hr>
+    <p style="font-size:small;">This is an automated notification. Please do not reply to this email.</p>
+  </body>
+</html>
+
+------=_Part_1_0987654321--
+
+------=_Part_0_123456.7890123456
+Content-Type: image/png; name="tracking.png"
+Content-Transfer-Encoding: base64
+Content-ID: <tracking>
+
+iVBORw0KGgoAAAANSUhEUgAAAAUA
+AAAFCAYAAACNbyblAAAAHElEQVQI12P4
+//8/w38GIAXDIBKE0DHxgljNBAAO
+9TXL0Y4OHwAAAABJRU5ErkJggg==
+------=_Part_0_123456.7890123456--

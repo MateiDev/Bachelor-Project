@@ -1,0 +1,24 @@
+From support@acmebank.com Fri Jun 14 10:15:42 2024
+MIME-Version: 1.0
+From: "Acme Bank Security" <security@acmebank.com>
+To: customer@example.com
+Subject: [URGENT] Unusual Sign-In Detected—Verify Now
+Date: Fri, 14 Jun 2024 10:15:42 -0400
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Attention!</strong> We detected an <em>unusual</em> sign-in attempt on your Acme Bank account from an unknown device. Your account is in <span style="color:red;">IMMEDIATE</span> danger of being <strong>locked</strong> if not verified within the next <strong>60 minutes</strong>.</p>
+<p>Your password expires today – reset immediately to avoid suspension.</p>
+<p>Please verify your identity now by visiting the secure link below:</p>
+<ul>
+<li><a href="http://secure-update.bank.acmblogin.verify-now.net/reset" target="_blank">https://acmebank.com/security/verify</a></li>
+<li><a href="http://secure-update.bank.acmblogin.verify-now.net/reset">click here</a> if the link above is not working.</li>
+<li><a href="http://verify.acmblinksecurity.net/login"></a></li>
+<li><a href="http://verify.acmblinksecurity.net/login"><img src="http://images.acmsupport.net/logo.png" alt="Acme Bank Verification"></a></li>
+</ul>
+<p>If you do not take action <strong>immediately</strong>, your account will be permanently disabled!</p>
+<p>For assistance, visit our <a href="http://support.acm...bank.policy.com/faq">Privacy Policy</a> or <a href="http://help.desktp.acm...bank.support.com/">Help Center</a>.</p>
+</body>
+</html>

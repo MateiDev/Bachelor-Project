@@ -1,0 +1,45 @@
+From security@trusted-bank.com Mon Jan  2 12:34:56 2023
+From: "Bank Security Team" <security@trusted-bank.com>
+Reply-To: security.alerts@secure-updates.net
+To: user@victim.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity in your account. To prevent immediate suspension, please verify your password NOW. Failure to comply within 24 hours will result in permanent account lockout.
+
+Please use the secure link below:
+https://trusted-bank.com/login
+
+For assistance, visit our privacy policy:
+https://trusted-bank.com/privacy.policy
+
+Regards,
+Security Team
+
+--===============123456789==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>SECURITY ALERT:</strong> We have detected <em>unauthorized</em> access attempts on your account. Immediate verification is required to avoid <strong>permanent suspension</strong>.</p>
+    <p>Please <a href="http://192.168.1.100/login?session=XYZ">Click to verify</a> your credentials.</p>
+    <p>Or <a href="http://203.0.113.10/verify"></a></p>
+    <p>Alternatively, if you cannot click the link, copy and paste the following URL into your browser:<br/>
+      <a href="http://update.security.trusted-bank.com.alert.secure.mail.verify.login.203.0.113.20/path">https://trusted-bank.com/login</a>
+    </p>
+    <p>For help, <a href="http://198.51.100.25/support">click here</a> or visit our <a href="https://trusted-bank.com/privacy.policy">Privacy Policy</a>.</p>
+    <p><a href="http://203.0.113.10/verify"><img src="https://trusted-bank.com/images/security.png" alt="Security Update" /></a></p>
+    <p>Thank you,<br/>Bank Security Team</p>
+  </body>
+</html>
+
+--===============123456789==--

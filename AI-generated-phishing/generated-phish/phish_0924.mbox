@@ -1,0 +1,20 @@
+From rewards@loyalty-vouchers.com Wed Jun 12 14:22:08 2024
+Date: Wed, 12 Jun 2024 14:22:08 +0200
+From: "Loyalty Rewards Team" <rewards@loyalty-vouchers.com>
+Reply-To: support@secure-verify.io
+To: recipient@mydomain.net
+Subject: URGENT: Your account is eligible for a €50 voucher—claim here
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We are pleased to inform you that your account has been selected for an exclusive reward.</p>
+    <p>Click the image below to redeem your €50 voucher now:</p>
+    <a href="http://192.0.2.123/redeem"><img src="http://192.0.2.123/images/voucher.png" alt="Redeem Voucher"></a>
+    <p>Alternatively, visit <a href="http://malicious.site/claim">https://trusted-voucher.com/redeem</a> if the image fails to load.</p>
+    <p>Best regards,<br>Loyalty Rewards Team</p>
+  </body>
+</html>

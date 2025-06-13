@@ -1,0 +1,44 @@
+From support@secure-mail.com Sat Jan  5 09:14:16 2024
+Return-Path: <support@secure-mail.com>
+Reply-To: spoofy@attacker.com
+From: "Secure Portal Alert" <support@secure-mail.com>
+Subject: Urgent: Account Security Alert
+Date: Sat, 05 Jan 2024 09:14:16 -0500
+Message-ID: <202401051414.abcdef@secure-mail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Boundary_1_abcdef"
+
+--Boundary_1_abcdef
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected unusual activity on your account. To avoid suspension, please verify your password immediately by clicking the link below:
+
+https://secure.verify-account.net/action/validate?uid=12345
+https://portal.security-update.com/confirm
+
+If you fail to verify, your access may be disabled.
+
+Thank you,
+Secure Portal Team
+
+--Boundary_1_abcdef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Password Verification Required</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We detected unusual activity on your <strong>account</strong>. To avoid suspension, please verify your <em>password</em> immediately by clicking below:</p>
+<p><a href="https://login.attacker.verify-secure-mail.co.uk"></a></p>
+<p>Alternatively, you can visit <a href="https://secure-mail.com/verify">https://security-update.portal.com/login</a> or <a href="https://portal.security-update.com/confirm">view this secure notice</a>.</p>
+<p>If you fail to verify, your access may be disabled.</p>
+<p>Thank you,<br/>Secure Portal Team</p>
+</body>
+</html>
+--Boundary_1_abcdef--

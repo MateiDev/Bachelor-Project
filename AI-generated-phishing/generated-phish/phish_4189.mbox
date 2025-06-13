@@ -1,0 +1,56 @@
+From rewards@legitshop.com Sat Jun 22 12:00:00 2024
+Subject: Urgent: Claim your €50 reward voucher now!
+From: "LegitShop Rewards" <rewards@legitshop.com>
+Reply-To: support@customer-reply.net
+To: user@example.org
+Date: Sat, 22 Jun 2024 12:00:00 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456654321"
+
+----=_Part_0_123456654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations! You are eligible for a €50 voucher at LegitShop.
+Hurry—this offer expires in 24 hours. 
+To redeem, visit: https://legitshop.com/voucher
+Or click here: http://123.45.67.89/claim
+
+----=_Part_0_123456654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;">
+    <p>
+      <strong>Congratulations!</strong><br>
+      You have been <span style="color:red;">SELECTED</span> for an exclusive <span style="color:green;">€50</span> voucher.<br>
+      <em>This offer is <span style="font-weight:bold;">URGENT</span> and expires <span style="color:red;">in 24h</span>!</em>
+    </p>
+    <!-- Image-based link to IP-based URL -->
+    <p>
+      <a href="http://123.45.67.89/claim" style="display:inline-block;text-decoration:none;">
+        <img src="http://cdn.legitshop.com/images/claim_now.png" alt="Claim Now" style="border:0;width:200px;height:auto;" />
+      </a>
+    </p>
+    <!-- Non-matching URL link -->
+    <p>
+      <a href="http://89.23.45.67/voucher">
+        https://secure.legitshop.com/voucher
+      </a>
+    </p>
+    <!-- Empty anchor + generic "here" link to malicious domain -->
+    <p>
+      <a href="https://secure-legitshop.com.vouches.fake.com/redeem"></a>
+      Click <a href="https://secure-legitshop.com.vouches.fake.com/redeem">here</a> to secure your reward now.
+    </p>
+    <!-- Legitimate-looking footer links -->
+    <p style="font-size:12px;color:#666;">
+      For assistance visit our
+      <a href="https://legitshop.com/help">Help Center</a> or review our
+      <a href="https://legitshop.com/privacy.policy">Privacy Policy</a>.
+    </p>
+  </body>
+</html>
+
+----=_Part_0_123456654321--

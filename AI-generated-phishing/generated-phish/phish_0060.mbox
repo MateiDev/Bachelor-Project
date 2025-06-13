@@ -1,0 +1,29 @@
+```mbox
+From - Mon Oct 23 09:25:27 2023
+Return-Path: <alerts@officialtaxrefunds.gov>
+Received: from unknown (HELO officialtaxrefunds.gov) (192.0.2.1)
+  by mail.example.com with SMTP; Mon, 23 Oct 2023 09:25:24 -0500
+Received: from officialtaxrefunds.gov (localhost [127.0.0.1])
+  by officialtaxrefunds.gov (8.14.4/8.14.4) with ESMTP id r0N9EIin027892
+  for <you@example.com>; Mon, 23 Oct 2023 09:24:18 -0500
+Date: Mon, 23 Oct 2023 09:24:18 -0500
+From: Tax Refund Department <alerts@officialtaxrefunds.gov>
+Reply-To: <support.reply@differentdomain.com>
+Subject: Urgent: Verify your tax refund account details
+To: you@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>We have calculated your tax returns and you are eligible for a refund of $315.70. To proceed, please confirm your account details to expedite the transfer.</p>
+  <p>Click <a href="http://secure-refunds.example.com">here</a> to confirm your information.</p>
+  <p>If you need assistance, visit our <a href="http://officialtaxrefunds.gov/help">help page</a> or read our <a href="http://officialtaxrefunds.gov/privacy-policy">privacy policy</a>.</p>
+  <p><a href="">This</a> </p>
+  <p>Visit our main site at <a href="http://taxrefunds.official.site.example.com"></a> for more information.</p>
+  <p>Thank you,<br>The Tax Refund Department</p>
+</body>
+</html>
+```

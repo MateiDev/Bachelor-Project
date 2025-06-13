@@ -1,0 +1,51 @@
+From noreply@securemail.company.com Mon Jul 26 09:15:00 2021
+Return-Path: <noreply@securemail.company.com>
+Received: from mail.securemail.company.com (mail.securemail.company.com [192.0.2.10])
+    by mx.example.com with ESMTP id ABC12345;
+    Mon, 26 Jul 2021 09:15:00 +0000 (UTC)
+From: "SecureMail Alert" <noreply@securemail.company.com>
+Reply-To: support-team@customerservice.security-update.net
+Subject: Urgent Account Password Alert
+To: user@example.com
+Date: Mon, 26 Jul 2021 09:15:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1627292100000"
+
+------=_Part_12345_678901234.1627292100000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account password has been flagged for review. Please access your secure mail immediately.
+
+View here: https://secure.company.com/portal
+
+Regards,
+SecureMail Security Team
+
+------=_Part_12345_678901234.1627292100000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your <strong>account</strong> <em>password</em> access is <strong>urgent</strong> review required.</p>
+    <p>
+      Please click the secure link below to verify your credentials:
+    </p>
+    <p>
+      <a href="http://malicious.attacker.ru/secure-portal/login">
+        <img src="http://www.company.com/images/secure_logo.png" alt="Secure Portal" />
+      </a>
+    </p>
+    <p>Alternatively, you can access it here:
+      <a href="http://login.verify.security-check.srv.com">https://secure.company.com/login</a>
+    </p>
+    <p>Thank you,<br/>
+    SecureMail Security Team</p>
+  </body>
+</html>
+
+------=_Part_12345_678901234.1627292100000--

@@ -1,0 +1,40 @@
+From nobody Sat Oct  7 15:55:49 2023
+Return-Path: <alert@secure-notify.com>
+Date: Sat, 7 Oct 2023 15:55:49 +0000
+From: "Security Team" <alert@secure-notify.com>
+Reply-To: urgent-response@mail-security.com
+Subject: Urgent: Claim Your €100 Voucher Now!
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have noticed an unusual activity on your account. As a valued customer, you are eligible for a €100 voucher. Claim your reward immediately to prevent any interruption in your account services. 
+
+Visit: http://offer-secure-now.eu to confirm your voucher.
+
+Thank you,
+Security Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h3>Dear Customer,</h3>
+    <p>We have noticed an <b>unusual activity</b> on your <b>account</b>. As a valued customer, you are eligible for a €100 voucher. <b>Claim your reward immediately</b> to prevent any interruption in your account services.</p>
+    <p><a href="http://offer-secure-now.eu"><img src="http://example.com/voucher.jpg" alt="Claim Voucher"></a></p>
+    <p>Visit: <a href="http://192.168.0.1">http://offer-secure-notify.com</a> to confirm your voucher.</p>
+    <p><a href="http://secure-notify.com/privacy-policy">Privacy Policy</a></p>
+    <p><a href="http://secure-notify.com/help"></a></p>
+    <p>Thank you,<br>Security Team</p>
+    <p>If you have any issues, <a href="">click here</a>.</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

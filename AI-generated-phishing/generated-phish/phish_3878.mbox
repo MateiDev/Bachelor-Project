@@ -1,0 +1,65 @@
+From mailer-daemon@tax-refund.gov Wed Mar  1 12:34:56 2023
+Return-Path: <mailer-daemon@tax-refund.gov>
+Received: from mailserver.tax-refund.gov (mailserver.tax-refund.gov [198.51.100.25])
+    by mx1.tax-refund.gov with ESMTP id abc123
+    Wed,  1 Mar 2023 12:34:56 +0000
+From: "Tax Refund Department" <notifications@tax-refund.gov>
+Reply-To: support@unrelatedbank.com
+To: user@domain.com
+Subject: Urgent: Pending Tax Refund Notice
+Date: Wed, 1 Mar 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_12345"
+
+----=_Part_0_12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your most recent tax return and found an overpayment of $125.45 due for refund.
+To avoid delay, please confirm your bank account details immediately at the following link:
+
+HTTP://secure.taxrefund.gov/validate
+
+For assistance, visit our help page:
+http://www.taxrefund.gov/help
+
+Failure to respond within 24 hours will result in cancellation of your refund.
+
+Thank you,
+Tax Refund Department
+
+----=_Part_0_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Account Update Required - Urgent</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p style="color:red; font-weight:bold;">
+    Your tax refund of <strong>$125.45</strong> is waiting, but we could not process it due to <u>missing bank details</u>. This is an <strong>urgent</strong> matter.
+    If you do not confirm within <strong>24 hours</strong>, your refund will be <em>forfeited</em>.
+  </p>
+  <p>Please <a href="http://203.0.113.50/verify?acc=12345">click here</a> to securely confirm your bank account information.</p>
+  <p>If the link above does not work, copy and paste the following URL into your browser:</p>
+  <p><a href="http://203.0.113.50/verify?acc=12345">https://secure.taxrefund.gov/verify</a></p>
+  <p>
+    <a href="http://198.51.100.77/redirect">
+      <img src="http://192.0.2.50/images/secure.png" alt="Secure Lock" />
+    </a>
+  </p>
+  <p>
+    <a href="http://malicious.phish.com/privacy-policy">Privacy Policy</a> |
+    <a href="http://malicious.phish.com/help">Help</a> |
+    <a href="http://malicious.phish.com/contact">Contact Us</a>
+  </p>
+  <p style="visibility:hidden;"><a href="http://malicious.phish.com/login"></a></p>
+  <p>Best regards,<br/>Tax Refund Department</p>
+</body>
+</html>
+
+----=_Part_0_12345--

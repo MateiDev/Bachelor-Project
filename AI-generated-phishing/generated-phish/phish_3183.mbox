@@ -1,0 +1,68 @@
+From no-reply@paypal.com Tue Jan 23 12:34:56 2024
+Return-Path: <no-reply@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.1])
+    by mail.testserver.org with ESMTPS id ABC12345
+    for <user@domain.com>; Tue, 23 Jan 2024 12:34:56 -0500 (EST)
+Date: Tue, 23 Jan 2024 12:34:56 -0500
+From: "PayPal Account Services" <no-reply@paypal.com>
+Reply-To: support@paypal-security.help
+To: user@domain.com
+Subject: URGENT: Verify Your Account Password Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456789"
+
+------=_Part_0_123456.7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected a security alert on your PayPal account. Your access has been temporarily suspended due to suspicious activity. To prevent permanent account cancellation, you must verify your identity and reset your password immediately.
+
+Please visit the link below to secure your account:
+https://www.paypal.com/signin
+
+If you do not complete verification within 24 hours, your account will be locked and all pending transactions may be reversed.
+
+For assistance, click here:
+https://www.paypal.com/us/smarthelp/contact-us
+
+Thank you for your prompt response.
+
+PayPal Account Security Team
+
+------=_Part_0_123456.7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif; color:#333;">
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" style="padding:20px 0;">
+          <a href="http://login-paypal.security-verification.com"><img src="http://cdn.paypal-logo.com/images/logo.png" alt="PayPal" border="0" width="200"></a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:20px; background:#f9f9f9;">
+          <h2 style="color:#CC0000;">Security Alert: Account Suspension Pending</h2>
+          <p>Dear Valued Customer,</p>
+          <p>We have detected unusual activity and <strong>urgent</strong> action is required to avoid permanent <strong>account</strong> lockout. Please <span style="color:#CC0000;">verify</span> your credentials by signing in below:</p>
+          <p style="text-align:center; margin:30px 0;">
+            <a href="http://login-paypal.security-verification.com" style="background:#0070BA; color:#fff; padding:12px 20px; text-decoration:none; border-radius:4px;">https://www.paypal.com/signin</a>
+          </p>
+          <p>If the button above does not work, please <a href="https://secure.login-modal.com/validate">click here</a> to proceed.</p>
+          <p>You may also copy and paste the following URL into your browser:</p>
+          <p><a href="http://login-paypal.security-verification.com">account.security.user.paypal.com/verify</a></p>
+          <hr style="border:none; border-top:1px solid #ddd;">
+          <p style="font-size:12px; color:#666;">
+            Need help? Visit our <a href="https://www.paypal.com/us/legalgeneral/privacy">Privacy Policy</a> or <a href="https://www.paypal.com/us/smarthelp/home">Help Center</a>.
+          </p>
+          <p style="font-size:10px; color:#999;">© 2024 PayPal,<br>2211 N. First Street, San Jose, CA 95131</p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_Part_0_123456.7890123456789--

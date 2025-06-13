@@ -1,0 +1,55 @@
+From support@paypal.com Thu Jun 27 17:13:22 2024
+Return-Path: <mailer@paypal.com>
+Received: from unknown (HELO server) (203.0.113.55) by mailgateway.internal.net with SMTP; Thu, 27 Jun 2024 17:13:22 +0000
+From: "PayPal Service" <noreply@paypal.com>
+Reply-To: "PayPal Security" <support@paypal.support.com>
+To: user@domain.com
+Subject: URGENT: Verify Your Account Password Now
+Date: Thu, 27 Jun 2024 17:13:22 +0000
+Message-ID: <20240627171322.ABC123@mail.paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_ABC"
+
+----=_Part_000_ABC
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+We have detected suspicious activity on your PayPal account. Your password is set to expire soon
+and we need you to verify your account immediately or it will be locked.
+
+Please visit this link to secure your account:
+https://www.paypal.com/signin
+
+Thank you for your prompt attention to this urgent matter.
+
+PayPal Security Team
+
+----=_Part_000_ABC
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family:Arial,sans-serif;color:#333">
+<p>Dear customer,</p>
+<p style="color:#D8000C;"><strong>Urgent notice:</strong> We detected unauthorized sign-in attempts on your PayPal <strong>account</strong>. To prevent your access from being <strong>locked</strong>, please <em>verify</em> your credentials within the next 24 hours.</p>
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" bgcolor="#00457C" style="padding:10px;">
+<a href="http://203.0.113.45/verify.php?session=ABCD1234" style="color:#FFFFFF;text-decoration:none;font-size:16px;">
+Verify Your Account
+</a>
+</td>
+</tr>
+</table>
+<p>Or if you prefer, go to <a href="http://203.0.113.47/login">https://www.paypal.com/security</a>.</p>
+<p>Alternatively, <a href="http://203.0.113.48/process?ref=link">here</a> to secure now.</p>
+<p>Direct access: <a href="http://login.security.verify-paypal.com">https://www.paypal.com/login</a></p>
+<p><a href="https://www.paypal.com/privacy-policy">Privacy Policy</a> | <a href="https://www.paypal.com/help">Help Center</a> | <a href="https://www.paypal.com/contact">Contact Us</a></p>
+<p style="margin-top:30px;"><a href="https://www.paypal.com"><img src="http://203.0.113.46/images/logo.png" alt="PayPal Logo" border="0"></a></p>
+<p style="font-size:12px;color:#777">This message contains important information about your account. If you do not verify within 24 hours, your account will be locked to protect you.</p>
+</body>
+</html>
+
+----=_Part_000_ABC--

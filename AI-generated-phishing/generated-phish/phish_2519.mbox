@@ -1,0 +1,46 @@
+```mbox
+From phishing-email@example.com Sat Jan  1 12:00:00 2023
+Received: from suspicious-domain.com (192.0.2.1) by mail.example.com with SMTP;
+    Sat, 01 Jan 2023 12:00:00 +0000
+Date: Sat, 01 Jan 2023 12:00:00 +0000
+From: Portal Security <alert@secureportal.com>
+Subject: Urgent: Immediate Action Required for Your Account Security
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="mail-boundary"
+
+--mail-boundary
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued User,
+
+We have detected unusual activity in your account, and immediate action is required. Please verify your credentials to avoid any disruption in service. 
+
+[Verify Now](http://192.0.2.100/secure-login) 
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Portal Security Team
+
+--mail-boundary
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear Valued User,</p>
+    <p>We have detected unusual activity in your account, and immediate action is required. Please verify your credentials to avoid any disruption in service.</p>
+    <p><a href="http://192.0.2.100/secure-login"><img src="https://www.trustedsite.com/images/secure-logo.png" alt="Secure Login"></a></p>
+    <p><a href="http://192.0.2.100/secure-login">Verify Now</a></p>
+    <p>Please review our <a href="http://www.secureportal.com/privacy-policy">Privacy Policy</a> and <a href="http://www.secureportal.com/help">Help</a> pages.</p>
+    <br />
+    <p><a href="http://192.0.2.100/?login">Login</a></p>
+    <p><a href="http://192.0.2.100/signin"></a></p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br />Portal Security Team</p>
+  </body>
+</html>
+
+--mail-boundary--
+```

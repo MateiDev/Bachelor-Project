@@ -1,0 +1,27 @@
+From rewards@official-bank.com Sat Jul 20 12:34:56 2024
+Return-Path: <rewards@official-bank.com>
+Received: from mailing.official-bank.com ([192.0.2.10]) by mx1.receiving-server.com with ESMTP id abc123; Sat, 20 Jul 2024 12:34:56 +0200
+Subject: Urgent: Verify Your Account Password to Claim €50 Reward
+From: rewards@official-bank.com
+Reply-To: support@secure-rewards-bank.net
+To: user@domain.com
+Message-ID: <20240720123456.abc123@mailing.official-bank.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+  <title>Account Notification</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>Congratulations! You’re eligible for a special €50 voucher as a token of our appreciation.</p>
+  <p>To secure your reward, please <a href="http://123.45.67.89/claim">here</a>.</p>
+  <p>Explore more at <a href="http://offer.rewards.bank-secure.org/deals">our latest deals</a>.</p>
+  <p>If you need assistance, see our <a href="https://www.securebanking.com/privacy-policy">Privacy Policy</a> or <a href="https://support.securebanking.com">Help Center</a>.</p>
+  <p><a href="http://85.214.15.23/secure"></a></p>
+  <p><strong>Important:</strong> Verify your account information now to avoid expiry.</p>
+  <p>Best regards,<br />
+     The Rewards Team</p>
+</body>
+</html>

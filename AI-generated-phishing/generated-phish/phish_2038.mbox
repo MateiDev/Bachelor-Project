@@ -1,0 +1,35 @@
+From service@paypal.com Sat Jul 23 12:34:56 2022
+Return-Path: <service@paypal.com>
+Delivered-To: user@domain.com
+Received: from mailgw.paypal.com (mailgw.paypal.com [192.0.2.10])
+    by mx.google.com with ESMTPS id abc123xyz
+    for <user@domain.com>; Sat, 23 Jul 2022 12:34:55 -0400 (EDT)
+From: PayPal Service <service@paypal.com>
+Reply-To: PayPal Support <support@paypal-security.net>
+To: user@domain.com
+Subject: URGENT: Immediate Verification Required for Your PayPal Account
+Message-ID: <ABC12345@mailgw.paypal.com>
+Date: Sat, 23 Jul 2022 12:34:55 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Valued PayPal Member,</p>
+<p>We detected <strong>unusual login attempts</strong> on your PayPal account. As a result, access has been <strong>temporarily restricted</strong>. To restore full access, you must verify your identity <strong>immediately</strong>. Failure to verify within <strong>24 hours</strong> will result in <strong>permanent account closure</strong>.</p>
+<p>To verify your account, please choose one of the options below:</p>
+<p>
+  <a href="http://login.paypal-update.security.verify.net/authenticate">
+    <img src="https://www.paypal.com/en_US/i/icon/pp_favicon_x.ico" alt="PayPal Logo">
+  </a>
+</p>
+<p>Or use one of the following links:<br>
+1) Sign in securely: <a href="http://paypal.verify-update.login.paypal-security.com/login">https://www.paypal.com/signin</a><br>
+2) Quick verify: <a href="http://secure.paypal-login-update.security.net">click here</a><br>
+3) Need help? Click <a href="http://paypal.security-update-center.net">here</a>
+</p>
+<p>For more details, review our <a href="https://www.paypal.com/us/legalhub/privacy-policy">Privacy Policy</a>.</p>
+<p>Sincerely,<br>
+The PayPal Security Team</p>
+</body>
+</html>

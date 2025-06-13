@@ -1,0 +1,68 @@
+```
+From - Sun Oct 22 14:22:00 2023
+X-GM-THRID: 1234567890abcdef
+X-Gmail-Labels: Phishing
+Delivered-To: victim@example.com
+Received: by 2002:a0c:bbcd:0:0:0:0:0 with SMTP id v13csp1234567ioi;
+        Sun, 22 Oct 2023 14:21:59 -0700 (PDT)
+X-Received: by 2002:a05:6214:368:b0:348:1c04:0 with SMTP id bd4mr6543210itm.71.1697901719520;
+        Sun, 22 Oct 2023 14:21:59 -0700 (PDT)
+Return-Path: <no-reply@notice-secureportal.com>
+Received: from suspicious.mailer.com (345.567.89.10)
+        by mx.google.com with ESMTP id gf8si12345678qvb.244.2023.10.22.14.21.58;
+        Sun, 22 Oct 2023 14:21:58 -0700 (PDT)
+Received-SPF: fail (google.com: domain of no-reply@notice-secureportal.com does not designate 345.567.89.10 as permitted sender) client-ip=345.567.89.10;
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of no-reply@notice-secureportal.com does not designate 345.567.89.10 as permitted sender) smtp.mailfrom=no-reply@notice-secureportal.com
+Received: from secure by suspicious.mailer.com with ESMTPA id abcd1234;
+        Sun, 22 Oct 2023 21:21:57 +0000
+Content-Type: multipart/alternative; boundary="000000000000abcd1234567890"
+MIME-Version: 1.0
+Message-ID: <9876543210.20231022142157@notice-secureportal.com>
+Date: Sun, 22 Oct 2023 21:21:57 +0000
+From: Portal Security <no-reply@notice-secureportal.com>
+Reply-To: support@security-updates.com
+To: <victim@example.com>
+Subject: Urgent: Immediate Account Verification Required
+
+--000000000000abcd1234567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+We have detected unusual activity in your account. For your security, it is =
+imperative you verify your identity to prevent account suspension. Please v=
+isit the URL below immediately to confirm your information:
+
+http://www.security-portal.updates.verify-1234.com/login
+
+If this is not resolved within 24 hours, access to your account will be per=
+manently restricted.
+
+Thank you for your prompt attention.
+
+Sincerely,
+Portal Security Team
+
+--000000000000abcd1234567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity in your account. For your security, it is imperative you verify your identity to prevent account suspension. Please click <a href=3D"http://345.567.89.10/login?redirect=3Dcheck">here</a> to verify your information.</p>
+    <p>Alternatively, visit the URL below immediately:</p>
+    <p><a href=3D"http://www.security.apple.verify-secure.com/login">http://www.security-portal.verify.com/login</a></p>
+    <p>If this is not resolved within 24 hours, access to your account will be permanently restricted.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br> Portal Security Team</p>
+    <img src=3D"http://images.updates-security.com/security.png" alt=3D"Security Alert">
+
+    <p><a href=3D"http://www.trustedoriginals.com/privacy-policy">Privacy Policy</a> | <a href=3D"http://www.trustedoriginals.com/help">Help</a></p>
+  </body>
+</html>
+
+--000000000000abcd1234567890--
+```

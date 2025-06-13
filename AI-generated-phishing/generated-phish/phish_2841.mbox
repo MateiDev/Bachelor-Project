@@ -1,0 +1,28 @@
+```mbox
+From nobody Thu Oct 19 14:38:00 2023
+Return-Path: <nobody@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.example.net (Postfix) with ESMTP id 123456789
+    for <user@example.com>; Thu, 19 Oct 2023 14:37:59 +0000 (UTC)
+Message-ID: <1234567890@example.com>
+Date: Thu, 19 Oct 2023 14:37:59 +0000 (UTC)
+From: "Customer Service" <support@secure-rewards.com>
+Reply-To: "Customer Service" <support@secure-rewards.com>
+To: user@example.com
+Subject: Urgent: You’re eligible for a €100 voucher—claim now!
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+    <h1>Congratulations, valued customer!</h1>
+    <p>We're excited to inform you that you've been selected to receive a special €100 voucher! But act fast, this offer is <strong>urgent</strong> and expires soon.</p>
+    <p>Please <a href="http://192.0.2.255/gift" title="claim here"></a> to claim your voucher!</p>
+    <p><a href="http://www.secure-rewards.com/user/secure.index" style="display: block;">
+        <img src="http://www.example.com/images/claim-now.jpg" alt="Claim Now"/>
+    </a></p>
+    <p>If you have questions, please visit our <a href="https://www.secure-rewards.com/help.html">help page</a> or read our <a href="https://www.secure-rewards.com/privacy-policy.html">privacy policy</a>.</p>
+    <p><a href="http://example.rewards.com/special.promo">http://example.rewards.com/special.promo</a></p>
+</body>
+</html>
+```

@@ -1,0 +1,48 @@
+```
+From nobody Mon Oct 02 21:34:56 2023
+Return-Path: <phishing@example.com>
+Received: from unknown (HELO mail.invalid) (123.45.67.89)
+  by mail.example.com with SMTP; Mon, 2 Oct 2023 21:34:56 +0200
+Date: Mon, 2 Oct 2023 19:34:56 +0000
+From: Security Team <security@example.com>
+Subject: Urgent: Unusual sign-in detected on your account
+To: victim@example.com
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_001_000A_01D09F7F.A8C5E3F0"
+Message-ID: <001a1145709c$c87ae950$d970bcf0$@example.com>
+MIME-Version: 1.0
+
+------=_NextPart_001_000A_01D09F7F.A8C5E3F0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your account. To ensure your security, please verify your account immediately by clicking the link below.
+
+Verify Now: http:// www.security-alert.com/verification
+
+Thank you,
+Security Team
+
+------=_NextPart_001_000A_01D09F7F.A8C5E3F0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Unusual sign-in detected on your account</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We have detected an <strong>unusual sign-in attempt</strong> on your account. To ensure your security, please verify your account immediately by clicking the link below.</p>
+<p><a href="http://malicious-site.fake/verify">Verify Now</a></p>
+<p>If you do not verify within 24 hours, your account access will be <strong>permanently restricted</strong>.</p>
+<p>Thank you,<br>Security Team</p>
+<hr>
+<p>Privacy Policy | Terms of Service | Help Center</p>
+</body>
+</html>
+
+------=_NextPart_001_000A_01D09F7F.A8C5E3F0--
+```

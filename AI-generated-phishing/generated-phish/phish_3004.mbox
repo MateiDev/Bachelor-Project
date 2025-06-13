@@ -1,0 +1,50 @@
+From alert@secure-update.net Tue Jul 16 14:23:15 2024
+Return-Path: <alert@secure-update.net>
+Received: from mail.secure-update.net (mail.secure-update.net [203.0.113.5])
+	by inbound.local with ESMTP id ABC12345
+	for <user@test.com>; Tue, 16 Jul 2024 14:23:15 +0000
+Message-ID: <20240716142315.alert@secure-update.net>
+From: Security Alert <alert@secure-update.net>
+To: user@test.com
+Subject: Urgent: Unusual Sign-in Detected—Verify Now
+Date: Tue, 16 Jul 2024 14:23:15 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=PHISH=1234"
+
+--=PHISH=1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. Your password expires today – reset immediately to avoid suspension.
+
+Verify now:
+http://198.51.100.14/reset?token=abc123
+
+Failure to act may result in service interruption.
+
+Security Team
+
+--=PHISH=1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>urgent account password alert</title>
+</head>
+<body style="font-family:Arial,sans-serif;line-height:1.5;">
+<img src="http://1.2.3.4/images/logo.png" alt="Company Logo">
+<h2 style="color:#D8000C;">Action Required: Unusual Sign-in Detected</h2>
+<p>Dear Customer,</p>
+<p>We noticed an <strong>unusual sign-in</strong> attempt on your <strong>account</strong>. Your <strong>password expires today</strong>—<em>reset immediately</em> to secure access.</p>
+<p><a href="http://203.0.113.5/verify?uid=xyz"><img src="http://1.2.3.4/images/security.png" alt="Security Alert"></a></p>
+<p>Please <a href="http://198.51.100.14/password.update?token=abc123"></a> now to secure your account.</p>
+<p>If you need assistance, visit our <a href="http://203.0.113.5/privacy-policy">Privacy Policy</a> or <a href="http://203.0.113.5/help">Help Center</a>.</p>
+<p>Or go to <a href="http://198.51.100.14/validate?uid=abc">http://support.service.mycompany.org/verify</a> for more info.</p>
+<p style="color:red;">This is your last chance! Immediate action required!</p>
+</body>
+</html>
+
+--=PHISH=1234--

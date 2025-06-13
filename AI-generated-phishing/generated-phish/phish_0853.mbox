@@ -1,0 +1,41 @@
+From no-reply@officialtaxoffice.gov Fri Jul 14 12:34:56 2023
+Subject: URGENT: Pending Tax Refund – Confirm Your Account Details
+From: "Official Tax Office" <no-reply@officialtaxoffice.gov>
+To: John Doe <john.doe@clientmail.com>
+Date: Fri, 14 Jul 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3cfa005cd52c12a"
+
+--000000000000b3cfa005cd52c12a
+Content-Type: text/plain; charset="UTF-8"
+
+Dear John Doe,
+
+We have processed your 2022 Federal Tax Return and a refund of $38.25 is pending. To receive this amount, please confirm your bank account details immediately by visiting the secure portal below:
+
+https://secure.officialtaxoffice.gov/login
+
+Failure to confirm within 48 hours will result in forfeiture of your refund.
+
+Thank you,
+Official Tax Office Support Team
+
+--000000000000b3cfa005cd52c12a
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear John Doe,</p>
+<p>We have processed your 2022 Federal Tax Return and determined you are eligible for a <strong>$38.25 refund</strong>. To receive your payment, please confirm your bank account details by clicking the button below:</p>
+<p>
+<a href="http://198.51.100.23/confirm">
+  <img src="https://payment.verify.service.com/button.png" alt="Confirm Refund" style="border:none;">
+</a>
+</p>
+<p>Alternatively, you can visit our secure portal:</p>
+<p><a href="http://198.51.100.23/login">https://secure.officialtaxoffice.gov/login</a></p>
+<p>If the button does not load correctly, please <a href="https://secure.verify.payment.info/verify"></a>click here.</p>
+<p style="color:#888;font-size:0.9em;">Thank you,<br>Official Tax Office Support Team</p>
+</body>
+</html>
+--000000000000b3cfa005cd52c12a--

@@ -1,0 +1,59 @@
+```
+From - Fri Sep 29 13:16:43 2023
+X-GM-THRID: 1616548822885092989
+X-Gmail-Labels: Sent
+Delivered-To: victim@example.com
+Received: by 2002:a17:906:c07:0:0:0:0 with SMTP id j7csp1011119ejb;
+        Fri, 29 Sep 2023 06:24:12 -0700 (PDT)
+X-Received: by 2002:aa7:b3d6:0:b0:5d1:5928:6de0
+        with SMTP id a22-20020aa7b3d60000000000000000abc00mr1379580eda.31.1695991452000;
+        Fri, 29 Sep 2023 06:24:12 -0700 (PDT)
+Return-Path: <noreply@secure-verification.com>
+Received: from ip-34-89-75-234.eu-west-1.compute.internal
+        (ip-34-89-75-234.eu-west-1.compute.internal. [34.89.75.234])
+        by smtp.gmail.com with ESMTPSA id s11sm12456122wma.1.2023.09.29.06.24.11
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Fri, 29 Sep 2023 06:24:11 -0700 (PDT)
+Message-ID: <000000000000f6e6840}
+Date: Fri, 29 Sep 2023 13:24:11 +0000
+Subject: Alert: Unusual Sign-In Detected
+From: Account Security <noreply@secure-verification.com>
+Reply-To: security-alert@supportteam-help.com
+To: victim@example.com
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_458622344_44789534.1806648856302"
+
+------=_Part_458622344_44789534.1806648856302
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in attempt on your account and need your immediate attention. To secure your account, please verify your information by clicking the link below within the next 24 hours.
+
+Verify Now: http://192.168.1.1/secure-authentication
+
+If you did not attempt to log in, please reset your password immediately to ensure your account safety.
+
+Thank you,
+Account Security Team
+
+------=_Part_458622344_44789534.1806648856302
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected an unusual sign-in attempt on your account and need your immediate attention. To secure your account, please verify your information by clicking the link below within the next 24 hours.</p>
+    <p><a href="http://192.168.1.1/secure-authentication">Verify Now</a></p>
+    <p>If you did not attempt to log in, please reset your password immediately to ensure your account safety.</p>
+    <p>Helpful Links:</p>
+    <p><a href="https://legitimate-site.com/help"></a> | <a href="https://legitimate-site.com/privacy-policy"></a></p>
+    <p>Thank you,<br>Account Security Team</p>
+  </body>
+</html>
+
+------=_Part_458622344_44789534.1806648856302--
+```

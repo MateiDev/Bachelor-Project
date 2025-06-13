@@ -1,0 +1,59 @@
+From no-reply@irs.gov Sat Jul 06 12:34:56 2024
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: <support@secure-update.com>
+To: user@example.org
+Subject: URGENT: Confirm Your Tax Refund
+Date: Sat, 06 Jul 2024 12:34:56 -0400
+Message-ID: <20240706123456.no-reply@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====Boundary123456===="
+
+--====Boundary123456====
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+IMPORTANT: Your tax refund claim of $47.90 is pending. We require immediate confirmation of your bank account details to process your payment. Failure to act within 48 hours will result in a delay and potential penalties.
+
+Please verify now:
+https://secure.irs.refund-check.claims-online.com/verify
+
+Alternate link:
+https://www.irs.gov/update
+
+If you experience issues, click here:
+http://tax-update.verify-scorpions.net/check
+
+Thank you,
+IRS Refund Division
+
+--====Boundary123456====
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p style="color:red; font-weight:bold;">URGENT: Your small tax refund of <strong>$47.90</strong> is waiting. Confirm your bank details immediately to avoid <span style="color:red;">delays</span> or <span style="color:red;">penalties</span>.</p>
+
+<p>Confirm your refund now:</p>
+<ul>
+  <li><a href="http://54.23.123.45/confirm" target="_blank">https://secure.irs.gov/refund-status/</a></li>
+  <li><a href="https://secure.irs.refund-check.claims-online.com/verify" target="_blank">https://secure.irs.refund-check.claims-online.com/verify</a></li>
+</ul>
+
+<p>Or <a href="http://tax-update.verify-scorpions.net/check" style="text-decoration:none;">click here</a> to secure your refund.</p>
+
+<p><a href="http://54.23.123.45/confirm">
+  <img src="http://malicious.com/images/refund.png" alt="Confirm Refund" style="border:none;">
+</a></p>
+
+<p>Review our <a href="https://www.irs.gov/privacy-policy">privacy policy</a> or <a href="http://54.23.123.45/sec-update">here</a>.</p>
+
+<p>Thank you,<br>
+Internal Revenue Service Refund Division</p>
+</body>
+</html>
+
+--====Boundary123456====--

@@ -1,0 +1,31 @@
+From DHL_Noreply@dhl.com Sun Jan 10 00:00:00 2021
+Return-Path: <DHL_Noreply@dhl.com>
+Delivered-To: victim@userdemo.com
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5])
+    by mx.userdemo.com with ESMTP id ABC123XYZ
+    for <victim@userdemo.com>; Sun, 10 Jan 2021 00:00:00 +0000
+Date: Sun, 10 Jan 2021 00:00:00 +0000
+From: DHL Delivery Notification <DHL_Noreply@dhl.com>
+To: victim@userdemo.com
+Subject: Urgent: Delivery Notification
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Our system was unable to deliver your recent shipment. Your package is now on hold pending additional verification. Please <a href="http://192.0.2.123/verify-shipment">click here</a> to confirm your identity and pay a small processing fee to release your parcel.</p>
+    <p>Alternatively, you can track your package using one of the links below:</p>
+    <ul>
+      <li><a href="http://123.45.67.89/parcel?id=ABC123">http://dhl.com/track/ABC123</a></li>
+      <li><a href="http://198.51.100.77/update">https://secure.dhl.update.delivery.com/ABC123</a></li>
+      <li><a href="http://104.236.171.10/pay">here</a></li>
+      <li><a href="http://203.0.113.10/route"></a></li>
+    </ul>
+    <p>You can also access your shipment details by clicking the image below:</p>
+    <p><a href="http://198.51.100.42/tracking"><img src="http://198.51.100.42/logo.png" alt="DHL"></a></p>
+    <p>If you need assistance, please visit our <a href="http://203.0.113.15/privacy">Privacy Policy</a> or <a href="http://203.0.113.15/help">Help Center</a>.</p>
+    <p>Thank you for choosing DHL.</p>
+    <p>Sincerely,<br>DHL Customer Service</p>
+  </body>
+</html>

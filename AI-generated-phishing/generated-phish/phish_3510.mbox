@@ -1,0 +1,58 @@
+From no-reply@security.company.com Mon Aug  7 10:00:00 2023
+Return-Path: <no-reply@security.company.com>
+Received: from mail.security.company.com (mail.security.company.com [203.0.113.5])
+        by mail.company.com with ESMTP id abc123
+        for <user@company.com>; Mon, 7 Aug 2023 10:00:00 -0400 (EDT)
+From: "Company Security" <no-reply@security.company.com>
+Reply-To: "Support Team" <helpdesk@scam-domain.com>
+To: user@company.com
+Subject: Urgent: Unusual sign-in detected – Verify Now | Password Expires Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--boundary_01"
+
+--boundary_01
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected an unusual sign-in attempt on your account. Your password expires today – reset immediately to avoid LOCKOUT.
+
+Verify now:
+http://192.168.1.25/reset.php?uid=abc
+http://login.company-secure.com.verify.update.reset.com/action
+
+Failure to act will result in permanent suspension of your account.
+
+Regards,
+Company Security Team
+
+--boundary_01
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Password Expiring – Urgent Action Required</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p style="color:red;"><strong>Unusual sign-in detected</strong> on your <em>account</em>.</p>
+<p>Your <strong>password</strong> expires <span style="color:red;">today</span> – <strong>reset immediately</strong> to avoid <span style="font-weight:bold;">lockout</span>.</p>
+<p>
+<a href="http://164.68.102.150/login"><img src="http://164.68.102.150/alert.png" alt="Security Alert"/></a>
+</p>
+<p>
+<a href="http://192.168.0.100/">  </a>
+</p>
+<p>
+<a href="http://login.company.com">http://secure.company.com</a><br/>
+<a href="http://malicious.update-server.com/verify">Verify Now</a>
+</p>
+<p><a href="http://login.company-secure.com.verify.update.reset.com/login">Click here</a> to secure your account.</p>
+<p>Failure to act will result in permanent suspension.</p>
+<p>Regards,<br/>Security Team</p>
+</body>
+</html>
+
+--boundary_01--

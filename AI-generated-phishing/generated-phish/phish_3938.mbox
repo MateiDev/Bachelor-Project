@@ -1,0 +1,56 @@
+From no-reply@irs.gov Fri Jun  7 08:15:00 2024
+Return-Path: <no-reply@irs.gov>
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: support@revenue-update.com
+To: user@example.com
+Subject: Immediate: Tax Refund Confirmation Needed
+Date: Fri, 7 Jun 2024 08:15:00 -0400
+Message-ID: <202406070815.no-reply@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY123=="
+
+--==BOUNDARY123==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records show a pending tax refund of $56.72. To receive your refund, please confirm your bank details immediately by visiting the link below:
+
+http://203.0.113.45/confirm?refund_id=278392
+
+Failure to verify within 48 hours will result in automatic cancellation of your refund.
+
+Thank you,
+Internal Revenue Service
+
+--==BOUNDARY123==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records indicate that you are eligible for a small refund of <strong>$56.72</strong>. To <a href="http://203.0.113.45/confirm?refund_id=278392" title="urgent: verify account">confirm</a> your bank details and claim your refund, please follow the instructions below.</p>
+    <p style="text-align:center;">
+      <a href="http://203.0.113.45/confirm?refund_id=278392">
+        <img src="http://123.45.67.89/modal.png" alt="Confirm Refund" width="200" height="50" title="password required">
+      </a>
+    </p>
+    <p>If the button above does not work, copy and paste the following link into your browser:</p>
+    <ul>
+      <li><a href="http://secure.irs-data.verify-update.com/process" title="urgent action">http://secure.irs.gov/refund</a></li>
+      <li><a href="http://modal-domain.com/verify" title="account security">Here</a></li>
+      <li><a href="http://198.51.100.23/update"></a></li>
+    </ul>
+    <p>Please note that failure to verify within <strong>48 hours</strong> will cancel your refund automatically.</p>
+    <p>Thank you,<br>Internal Revenue Service</p>
+    <hr>
+    <p>
+      <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> |
+      <a href="https://www.irs.gov/help">Help Center</a>
+    </p>
+  </body>
+</html>
+
+--==BOUNDARY123==--

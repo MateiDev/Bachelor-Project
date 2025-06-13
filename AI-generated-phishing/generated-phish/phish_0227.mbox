@@ -1,0 +1,20 @@
+```
+From John Doe <support@freeservices.com>
+Date: Thu, 5 Oct 2023 15:23:51 -0700
+Subject: Urgent: Claim Your €500 Voucher Now!
+To: youremail@example.com
+Content-Type: text/html; charset=UTF-8
+MIME-Version: 1.0
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We are excited to inform you that you are eligible for a <strong>€500 voucher!</strong></p>
+    <p>This is a <strong>limited-time offer</strong> and you must act quickly to claim your reward.</p>
+    <p>Please click <a href="http://malicious.ipaddress.com/login.php">here</a> to claim your voucher now.</p>
+    <p>Note: Failure to claim within 24 hours will result in the loss of this opportunity.</p>
+    <p>Visit our <a href="https://freeservices.com/privacy-policy">Privacy Policy</a> or <a href="https://freeservices.com/help">Help Center</a> for more information.</p>
+    <p>Best Regards, <br> The Free Services Team</p>
+  </body>
+</html>
+```

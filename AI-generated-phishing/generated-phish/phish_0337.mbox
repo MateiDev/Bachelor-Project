@@ -1,0 +1,47 @@
+```
+From - Sat Oct 28 14:32:29 2023
+X-Google-Sender-Auth: lmsbfPLS25s8C4aZPwiXQe2g8d8
+X-Received: by 2002:a17:906:471b:: with SMTP id t27mr208284wmd.171.1677391452930; Sat, 28 Oct 2023 14:32:29 -0700 (PDT)
+Return-Path: <noreply@secureportal.com>
+Received: from mail.spoofed-domain.com (mail.spoofed-domain.com. [198.51.100.12]) by mx.google.com with ESMTP id z123sm123456wmb.2.2023.10.28.14.32.29 for <victim@example.com>; Sat, 28 Oct 2023 14:32:29 -0700 (PDT)
+To: victim@example.com
+Subject: Urgent: Your Account Password Must Be Verified
+Date: Sat, 28 Oct 2023 21:32:29 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890.1234567890"
+Message-ID: <1234567890.1234567890@mail.spoofed-domain.com>
+From: Secure Portal <noreply@secureportal.com>
+
+------=_Part_12345_67890.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account password must be verified to maintain access. Please follow this link to verify your password: http://secureportal.com.verify-now.com
+
+Thank you,
+Secure Portal Team
+
+------=_Part_12345_67890.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent Account Alert</title>
+  </head>
+  <body>
+    <p>Dear User,</p>
+    <p>Your account password must be verified to maintain access. Please click the button below to verify your password:</p>
+    <a href="http://secureportal.com.verify-now.com" style="display:block;">
+      <img src="http://safeimage.verify-now.com/secure-portal-button.png" alt="Verify Now">
+    </a>
+    <p>Or follow this link: <a href="http://secureportal.com.verify-now.com">http://secureportal.com</a></p>
+    <p>If you do not verify your account, access will be restricted.</p>
+    <p>Thank you,<br>Secure Portal Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890.1234567890--
+```

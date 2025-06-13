@@ -1,0 +1,43 @@
+```mbox
+From fake-support@onlinebankingsecure.com Fri Oct 13 11:34:28 2023
+Received: from 192.0.2.1 (mail.fake.com. [192.0.2.1])
+        by mx.google.com with ESMTP id x29si2096300qke.47.2023.10.13.11.34.28
+        for <testuser@example.com>;
+        Fri, 13 Oct 2023 11:34:28 -0700 (PDT)
+Reply-To: urgent-response@securebank-update.com
+Message-ID: <CAEPK3R29FJTX61YZ2LNT9+EO7@onlinebankingsecure.com>
+Date: Fri, 13 Oct 2023 11:34:28 -0700
+Subject: Urgent Action Required: Verify Your Bank Account Now
+To: testuser@example.com
+Content-Type: multipart/alternative; boundary="000000000000f9e89b05e26bd5c"
+
+--000000000000f9e89b05e26bd5c
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected unusual activity in your bank account. Immediate verification is required to avoid suspension.
+
+Please visit the link below to secure your account:
+http://securebank-login.com.accountverify/safety
+
+Regards,
+Online Banking Security Team
+
+--000000000000f9e89b05e26bd5c
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected <strong>unusual activity</strong> in your bank account. <strong>Immediate verification</strong> is required <strong>to avoid suspension</strong>.</p>
+    <p>Please visit the link below to secure your account:</p>
+    <p><a href="http://secure-login.com.important-bank.com/account/verify">http://securebank-login.com.accountverify/safety</a></p>
+    <a href=""></a>
+    <p>Regards,</p>
+    <p>Online Banking Security Team</p>
+  </body>
+</html>
+
+--000000000000f9e89b05e26bd5c--
+```

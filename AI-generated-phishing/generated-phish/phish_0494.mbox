@@ -1,0 +1,62 @@
+```
+From - Mon Oct 30 16:28:52 2023
+Return-Path: <shipping@notice-dhl.com>
+Delivered-To: example@example.com
+Received: by 2002:a05:600c:abc:: with SMTP id o28csp762930wmi;
+        Mon, 30 Oct 2023 06:11:22 -0700 (PDT)
+X-Received: by 2002:a5d:7094:: with SMTP id b5mr14201603wrm.23.1698670682213;
+        Mon, 30 Oct 2023 06:11:22 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1698670682; cv=none;
+        d=google.com; s=arc-20160816;
+        b=abcdefghij1234567890...
+ARC-Message-Signature: a=rsa-sha256; b=klmnopqrstuvwxy0+0987654321...;
+        bh=mnopqrs45678abcde/xyz=;
+        d=google.com; h=mime-version:from:to:subject:date:message-id;
+        s=arc-20160816; i=1
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@notice-dhl.com header.s=dkim header.b=qrstuvwx;
+       spf=pass (google.com: domain of shipping@notice-dhl.com designates 150.32.189.150 as permitted sender) smtp.mailfrom=shipping@notice-dhl.com
+MIME-Version: 1.0
+From: DHL Notification <shipping@notice-dhl.com>
+To: example@example.com
+Subject: Urgent: Action Required to Release Your Package
+Date: Mon, 30 Oct 2023 16:11:22 +0000
+Message-ID: <0123456789abcdefg@mail.notice-dhl.com>
+Content-Type: multipart/alternative; boundary="00000000000012345abcd"
+
+--00000000000012345abcd
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We tried to deliver your package today, but there was an issue. Your parcel is held at our facility and it requires your action to be released.
+
+Please visit the link below to confirm your details and arrange a new delivery date:
+
+http://192.168.0.1/verify
+
+If you do not respond within 48 hours, your package will be returned to the sender.
+
+Thank you,
+DHL Express
+
+--00000000000012345abcd
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We tried to deliver your package today, but there was an issue. Your parcel is held at our facility and it requires your action to be released.</p>
+    <p>Please visit the link below to confirm your details and arrange a new delivery date:</p>
+    <a href="http://192.168.0.1/verify">http://dhl-update.com</a>
+    <p>If you do not respond within 48 hours, your package will be returned to the sender.</p>
+    <p>Thank you,<br>DHL Express</p>
+    <p style="border-top:1px solid #ddd; padding-top:10px;">
+      <a href="http://www.dhl.com/privacy-policy">Privacy Policy</a> |
+      <a href="http://www.dhl-support.com/contact">Contact Us</a>
+    </p>
+  </body>
+</html>
+
+--00000000000012345abcd--
+```

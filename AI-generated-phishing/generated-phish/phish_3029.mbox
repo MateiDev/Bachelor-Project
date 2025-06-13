@@ -1,0 +1,58 @@
+From rewards@legitimate-company.com Tue Mar 14 16:02:37 2023
+Return-Path: <no-reply@legitimate-company.com>
+From: "Rewards Team" <rewards@legitimate-company.com>
+Reply-To: <support@superfast-claim.net>
+To: user@example.com
+Subject: URGENT: Your €100 Voucher Expires Today!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890"
+
+------=_Part_0_123456.7890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+This is an urgent notification that your exclusive €100 voucher is set to expire TODAY.
+To avoid losing your reward, please claim it immediately by visiting the secure link below:
+
+https://www.legitimate-company.com/voucher
+
+If you do not claim your voucher within the next 2 hours, it will be permanently forfeited.
+
+Best regards,
+Rewards Team
+support@legitimate-company.com
+
+------=_Part_0_123456.7890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #D9534F;">URGENT NOTICE!</h2>
+    <p>Dear Valued Customer,</p>
+    <p>Your <strong>€100 voucher</strong> is about to <span style="color:red;">EXPIRE IN 2 HOURS</span>. 
+       Claim it <em>IMMEDIATELY</em> to avoid losing this reward forever.</p>
+    <p>
+      <!-- Non-matching URL: anchor text looks legit but href is IP-based phishing link -->
+      <a href="http://198.51.100.25/claim?ref=abc.def.123">https://www.legitimate-company.com/voucher</a>
+    </p>
+    <p>
+      <!-- Empty visible anchor text -->
+      <a href="http://198.51.100.25/urgent-claim"></a>
+    </p>
+    <p>
+      <!-- Image-based link to a multi-dot domain -->
+      <a href="http://promo.rewards.fake-domain.co.uk/redeem">
+        <img src="http://198.51.100.25/images/claim_now.png" alt="Redeem Your Voucher Now" style="border:none;">
+      </a>
+    </p>
+    <p>For verification, you can also visit: 
+      <a href="http://198.51.100.25/verify.reward.center">http://promo.rewards.phish-target.com/verify</a>
+    </p>
+    <p style="color:#777; font-size:12px;">If you have any issues, reply to <a href="mailto:helpdesk@legitimate-company.com">helpdesk@legitimate-company.com</a>.</p>
+  </body>
+</html>
+
+------=_Part_0_123456.7890--

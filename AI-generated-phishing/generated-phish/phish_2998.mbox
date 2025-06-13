@@ -1,0 +1,41 @@
+```mbox
+From phishing@taxrefunds.com Sat Oct 14 16:01:01 2023
+Return-Path: <phishing@taxrefunds.com>
+Delivered-To: testing@example.com
+Received: from suspicious.mail.server.com (suspicious.mail.server.com [192.168.0.1])
+        by mail.example.com (Postfix) with ESMTP id ABC12345DEF
+        for <testing@example.com>; Sat, 14 Oct 2023 16:01:01 +0000 (UTC)
+Date: Sat, 14 Oct 2023 16:01:01 +0000
+From: "Tax Department" <phishing@taxrefunds.com>
+To: undisclosed-recipients:;
+Reply-To: innocent@mailservice.com
+Subject: URGENT: Immediate Action Required to Claim Your Tax Refund
+
+Content-Type: multipart/alternative; boundary="000000000000abcdef123456"
+
+--000000000000abcdef123456
+Content-Type: text/plain; charset="UTF-8"
+
+Dear taxpayer,
+
+Due to a recent calculation error, you are entitled to a tax refund of $250.00. Please verify your banking details to receive your refund. Failure to confirm your details may result in delayed payment.
+
+Confirm your refund here:
+
+--000000000000abcdef123456
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear taxpayer,</p>
+    <p>Due to a recent <b>calculation error</b>, you are entitled to a <b>tax refund</b> of $250.00. Please verify your banking details to receive your refund. <i>Failure to confirm your details may result in delayed payment.</i></p>
+    <p>Confirm your refund here:<br>
+    <a href="http://secure.refundportal.com.confirm.bank-details.com"></a></p>
+    <p><a href="http://www.bank.com.refund.verify.details.com">http://www.bank.com.refund.verify.details.com</a></p>
+    <p>Best regards,<br>Tax Department</p>
+    <a href="http://secure-tax.com/refund"><img src="http://phishingsite.com/secure-image.png" alt="Secure Portal"></a>
+  </body>
+</html>
+
+--000000000000abcdef123456--
+```

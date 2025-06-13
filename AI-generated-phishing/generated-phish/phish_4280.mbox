@@ -1,0 +1,53 @@
+From no-reply@tax-alerts.gov Mon Aug 21 10:00:00 2023
+Return-Path: <no-reply@tax-alerts.gov>
+Received: from mail.tax-alerts.gov (mail.tax-alerts.gov [192.0.2.1]) by recipient.example.com with ESMTP id ABC123 for <victim@example.com>; Mon, 21 Aug 2023 10:00:00 +0000
+From: "Tax Department" <no-reply@tax-alerts.gov>
+To: victim@example.com
+Subject: URGENT: Tax REFUND Available – Confirm Your Account Details
+Date: Mon, 21 Aug 2023 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_0000"
+
+----=_Part_000_0000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear taxpayer,
+
+Your urgent tax refund of $45.67 is pending. To avoid ANY delays, you MUST confirm your bank details immediately.
+
+Use the link below to verify:
+http://192.0.2.123/confirm
+
+For assistance, visit:
+help.tax-alerts.gov/privacy
+
+Failure to act within 24 hours may result in account suspension.
+
+Best regards,
+Tax Department
+
+----=_Part_000_0000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Alert: Password Required</title>
+</head>
+<body>
+<p>Dear taxpayer,</p>
+<p>Your <strong>urgent</strong> tax refund of <strong>$45.67</strong> is <em>pending</em>. To avoid ANY delays, you <strong>MUST</strong> confirm your bank details <u>immediately</u>.</p>
+<p>Please use the link below:</p>
+<ul>
+<li><a href="http://192.0.2.123/confirm"></a></li>
+<li><a href="http://203.0.113.45/secure">http://tax-refund.tax.gov</a></li>
+<li><a href="http://secure.bank-verification.com.checker.example.org/login"><img src="http://images.tax-alerts.gov/logo.png" alt="Tax Dept"></a></li>
+<li>For account security, <a href="http://192.0.2.123/validate">click here</a> to update Password now!</li>
+</ul>
+<p>Privacy Policy: <a href="http://help.tax-alerts.gov/privacy">help.tax-alerts.gov/privacy</a> | Terms: <a href="http://policy.tax-alerts.gov/terms">policy.tax-alerts.gov/terms</a></p>
+<p><strong>Failure to act within 24 hours</strong> may result in <em>account suspension</em>.</p>
+<p>Best regards,<br>Tax Department</p>
+</body>
+</html>
+----=_Part_000_0000--

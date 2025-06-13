@@ -1,0 +1,46 @@
+From phish-alerts@example.com Wed Jun 12 09:15:00 2024
+Return-Path: <security@paypal.com>
+From: "PayPal Security" <security@paypal.com>
+Reply-To: "PayPal Support" <support@paypa11.com>
+Subject: Urgent Account Password Update Required
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal Customer,
+
+We have detected a breach attempt. Please update your password immediately:
+http://192.168.1.100/update
+
+Failure to act within 24 hours will result in account suspension.
+
+Thank you,
+PayPal Security Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Alert</title>
+</head>
+<body>
+<p>Dear PayPal Customer,</p>
+<p>Due to recent suspicious login attempts, we require you to <strong>update</strong> your account credentials now.</p>
+<p>Click here to verify: <a href="http://192.168.1.100/update"></a></p>
+<p>If the link above does not work, copy and paste one of the following URLs into your browser:</p>
+<ul>
+<li><a href="http://malicious.example.com/verify">http://secure.paypal.com/verify</a></li>
+<li><a href="http://203.0.113.5/auth">Support Portal</a></li>
+</ul>
+<p>Failure to comply will lead to immediate password reset lockout.</p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+
+--===============123456789==--

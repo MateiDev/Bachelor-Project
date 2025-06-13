@@ -1,0 +1,37 @@
+From taxalerts@irs.gov Mon Jul 15 12:34:56 2024
+Return-Path: <taxalerts@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.165.63.10]) by mailhost.example.org with ESMTP id abc123; Mon, 15 Jul 2024 12:34:56 -0400
+Date: Mon, 15 Jul 2024 12:34:56 -0400
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: support@securetaxhelp.com
+To: user@example.com
+Subject: URGENT: Tax Refund Confirmation Required
+Message-ID: <20240715123456.12345@mail.irs.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h2 style="color:#d00;">Immediate Action Required: Tax Refund Pending</h2>
+    <p>Dear Valued Taxpayer,</p>
+    <p>Our system indicates a <strong>small refund</strong> of <strong>$47.00</strong> is waiting for you. You must <strong>confirm</strong> your bank details <span style="color:#d00;">immediately</span> to avoid any delay or <strong>penalties</strong>. This is an <strong>urgent</strong> security measure. If we do not receive your confirmation within <strong>48 hours</strong>, your refund will be <em>forfeited</em> and you may face additional fees.</p>
+    <p>Click the button below to verify now:</p>
+    <p>
+      <a href="http://54.23.12.90/verifyRefund?user=123456">
+        <img src="http://images.trustedtaxalerts.com/refund-button.png" alt="Verify Refund Now">
+      </a>
+    </p>
+    <p>If the image link fails, please use the following URLs:</p>
+    <ul>
+      <li><a href="https://www.irs.gov/refund-check">https://www.irs.gov/refund-check</a></li>
+      <li><a href="http://securetaxupdate.com/login">https://irs.gov/login</a></li>
+    </ul>
+    <p>Or directly confirm here: <a href="http://203.0.113.50/bank"> </a></p>
+    <p><em>Failure to act now will result in cancellation of your refund and potential fines.</em></p>
+    <p>Thank you for your prompt attention to this <strong>critical</strong> matter.</p>
+    <p>Sincerely,<br>
+       Internal Revenue Service<br>
+       Tax Resolution Department</p>
+  </body>
+</html>

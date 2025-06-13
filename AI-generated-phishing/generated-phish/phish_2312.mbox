@@ -1,0 +1,45 @@
+From support@securemailportal.com Wed Sep 27 12:34:56 2023
+Return-Path: <spoofed@securemailportal.com>
+Delivered-To: victim@domain.com
+Received: from mail.securemailportal.com (unknown [192.0.2.1]) by mx.domain.com with ESMTPS id ABC123 for <victim@domain.com>; Wed, 27 Sep 2023 12:34:56 +0000 (UTC)
+From: "SecureMail Portal" <no-reply@securemailportal.com>
+Reply-To: support@secureportal-alert.com
+To: victim@domain.com
+Subject: URGENT: Secure Portal Security Alert – Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000006a2b7205cc8b48ee"
+
+--0000000000006a2b7205cc8b48ee
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Attention,
+
+Your account has triggered a critical security alert. Immediate action is required to prevent unauthorized access and potential data loss. Please click the link below to view and verify your secure portal message:
+
+https://securemailportal.com/portal.login
+
+Failure to verify within 24 hours will result in temporary suspension of your access. Thank you for your prompt attention.
+
+SecureMail Portal Security Team
+
+--0000000000006a2b7205cc8b48ee
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:#d00; font-weight:bold;">SECURITY ALERT: IMMEDIATE ACTION REQUIRED</p>
+    <p>Dear User,</p>
+    <p>Your SecureMail Portal has detected unusual activity and locked your account to protect your sensitive information. To restore full access, you must verify your identity now.</p>
+    <p>Please click <a href="https://secure-portal.verify-login.com/session?token=AKd93JkLq799"></a> to view your secure message.</p>
+    <p>If you are unable to click directly, copy and paste the following URL into your browser:</p>
+    <p>Anchor text URL: <a href="https://login.securemailportal.com/authenticate">https://securemailportal.com/verify</a></p>
+    <p>Alternatively, visit: <a href="https://secure.edge-server.login.verify.access/initiate">https://secure.edge-server.login.verify.access/initiate</a></p>
+    <p>Failure to complete verification within <strong>24 HOURS</strong> will result in permanent suspension of your account.</p>
+    <br>
+    <p>Regards,<br>SecureMail Portal Security Team</p>
+  </body>
+</html>
+
+--0000000000006a2b7205cc8b48ee--

@@ -1,0 +1,59 @@
+From dhl-update@dhl-delivery.com Mon Sep 14 14:05:01 2021
+Return-Path: <dhl-update@dhl-delivery.com>
+Delivered-To: user@usermail.com
+Received: from mail139.us-smtp.provider.com (mail139.us-smtp.provider.com [192.0.2.139])
+    by inbound.smtp.provider.com with ESMTPS id ABC123XYZ
+    for <user@usermail.com>; Mon, 14 Sep 2021 14:05:01 -0400
+Date: Mon, 14 Sep 2021 14:05:01 -0400
+From: DHL Notifications <notification@dhl-delivery.com>
+Reply-To: support@service-update.com
+To: user@usermail.com
+Subject: URGENT: Delivery Notification
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_1A2B3C.4D5E6F7G"
+
+----=_Part_000_1A2B3C.4D5E6F7G
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel delivery is on HOLD due to missing information.
+TRACKING NUMBER: 1234567890.
+IMMEDIATE action is required to avoid additional fees or return to sender.
+
+Please visit the link below to confirm your details and release your package:
+http://secure.dhl-delivery.com/release
+
+Alternatively, use this link:
+http://dhl-confirm.com/verify
+
+Failure to update within 24 HOURS will result in cancellation.
+
+Regards,
+DHL Delivery Team
+
+----=_Part_000_1A2B3C.4D5E6F7G
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Your parcel is <em>on HOLD</em> for missing information.</p>
+    <p>TRACKING NUMBER: <strong>1234567890</strong></p>
+    <p>Please <a href="http://secure.dhl-alerts.com/authenticate">click here</a> to confirm your details and release your package immediately.</p>
+    <p>Or visit <a href="http://dhl-confirm.com/verify">https://www.dhl.com/track?num=1234567890</a> for status update.</p>
+    <p>
+      <a href="http://secure.dhl-alerts.com/payment">
+        <img src="http://images.dhl.com/logo.png" alt="DHL Logo" />
+      </a>
+    </p>
+    <p>Empty link below:</p>
+    <p><a href="http://malicious-update.com"></a></p>
+    <p style="color:darkred;">Act now to avoid late fees or return. FAILURE to act within <strong>24 HOURS</strong> will cancel delivery.</p>
+    <p>Thank you,<br/>DHL Delivery Team</p>
+  </body>
+</html>
+
+----=_Part_000_1A2B3C.4D5E6F7G--

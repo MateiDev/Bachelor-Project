@@ -1,0 +1,39 @@
+```mbox
+From phishing@example.com Wed Oct 25 14:34:56 2023
+Return-Path: <phishing@example.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from fake-mailserver.com (fake-mailserver.com [123.45.67.89])
+	by mailhost.example.com (Postfix) with ESMTP id 1234567890
+	for <victim@example.com>; Wed, 25 Oct 2023 14:34:56 +0000 (UTC)
+Received: from secure.online-banking.fake ([192.168.1.50])
+	by fake-mailserver.com (Postfix) with ESMTP id 0987654321;
+	Wed, 25 Oct 2023 14:34:55 +0000 (UTC)
+Date: Wed, 25 Oct 2023 14:34:55 +0000
+From: "Support Team" <phishing@example.com>
+To: victim@example.com
+Subject: Urgent: Verify Your Account for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123_4567890.1234567890123"
+
+------=_Part_123_4567890.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+    <title>Account Verification Required</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected a pending tax refund of $123.45 associated with your account. To ensure the funds are transferred correctly, please confirm your bank details through the secure link below:</p>
+    <p><a href="https://securetaxanswers.example.com/verify" style="display:none;"><img src="https://secure.taxfake.com/icon.jpg" alt="Verify"></a><a href="https://securetaxanswers.example.com/verify">Confirm Here</a></p>
+    <p>This is an urgent request to avoid delays in refund processing. Please do not ignore this notification.</p>
+    <p>Best Regards,<br> Tax Refund Support Team</p>
+    <p>Visit our main site here: <a href="http://secure.bank-fake.com">http://banking-safe.com</a></p>
+  </body>
+</html>
+
+------=_Part_123_4567890.1234567890123--
+```

@@ -1,0 +1,55 @@
+From service@dhl.com Thu Jul 11 09:30:00 2024
+Return-Path: <service@dhl.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl-alerts.com (mail.dhl-alerts.com [198.51.100.23])
+	by mx.google.com with ESMTPS id c12si1234567qtd.45.2024.07.11.09.30.00
+	for <victim@example.com>
+	Date: Thu, 11 Jul 2024 09:30:00 +0000
+From: "DHL Delivery Confirmation" <service@dhl.com>
+To: victim@example.com
+Reply-To: support@dhl-service-modal.org
+Subject: Urgent: Package Held - Action Required to Confirm Your Account Password for Delivery
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1600000000000"
+
+----=_Part_123456_789012345.1600000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent delivery is pending and requires immediate confirmation of your account password.
+To avoid delay, please click the link below to verify your details:
+http://123.45.67.89/release
+
+If you do not confirm within 24 hours, your package will be returned to sender.
+
+Thank you,
+DHL Delivery Team
+
+----=_Part_123456_789012345.1600000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Confirmation</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+<p>Dear Customer,</p>
+<p>Your package is currently <strong>held</strong> at our facility pending confirmation of your <em>account password</em> to complete the delivery.</p>
+<p>Please <a href="http://123.45.67.89/release">here</a> to verify your details immediately:</p>
+<p>
+<a href="http://203.0.113.10/track">
+<img src="http://tracking.deliveryservice.com/logo.png" alt="DHL Logo" style="border:0;">
+</a>
+</p>
+<p>If the image does not load, <a href="http://modaldomain-delivery.info/confirm"></a> or copy and paste the URL below into your browser:</p>
+<p>http://tracking.service-modal.delivery.com/confirm-account</p>
+<p>For more information, refer to our <a href="http://srv.tracking.deliveryfail.com/policy">Privacy Policy</a> or <a href="http://malicious-server.delivery-info.net">https://www.dhl.com</a>.</p>
+<p>Failure to confirm your details within 24 hours will result in the return of your package.</p>
+<p>Regards,<br>DHL Delivery Team</p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1600000000000--

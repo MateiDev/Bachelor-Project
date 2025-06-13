@@ -1,0 +1,47 @@
+From notifications@dhl.com Sat Jun 15 09:42:00 2024
+MIME-Version: 1.0
+Subject: Delivery Notification - Action Required
+From: "DHL Express" <notifications@dhl.com>
+Reply-To: support@account-security.net
+To: user@domain.com
+Date: Sat, 15 Jun 2024 09:42:00 +0000
+Content-Type: multipart/alternative; boundary="====BOUNDARY===="
+
+--====BOUNDARY====
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver a package to your address but were unable to complete the delivery. Your package is now held at our facility. You must pay a small release fee within 24 hours to avoid cancellation.
+
+Access your delivery details:
+http://198.51.100.47/deliveryinfo
+Pay the release fee here:
+http://release-modal.com/fee
+
+Thank you,
+DHL Express
+
+--====BOUNDARY====
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Urgent:</strong> We attempted to deliver a package to your address but <span style="color:red;">failed</span> due to missing payment. Your package is now <strong>on hold</strong> and will be canceled in 24 hours if not released.</p>
+    <p>Please click the image below to review your delivery details:</p>
+    <p>
+      <a href="http://198.51.100.47/release">
+        <img src="http://198.51.100.47/images/dhl_logo.png" alt="DHL Express" border="0">
+      </a>
+    </p>
+    <p>To pay the release fee, <a href="http://api.modal-delivery.net/release">here</a>.</p>
+    <p>Alternatively, <a href="http://modal-release.com/pay">click here</a> to pay now.</p>
+    <p>For questions, visit our <a href="https://www.dhl.com/privacy-policy">privacy policy</a> or <a href="https://www.dhl.com/help-center">help center</a>.</p>
+    <p>Thank you,<br>DHL Express Delivery Team</p>
+  </body>
+</html>
+
+--====BOUNDARY====--

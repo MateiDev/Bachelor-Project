@@ -1,0 +1,52 @@
+From service@paypal.com Thu Jul 15 10:34:56 2021
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [67.21.89.1]) by mx.testdomain.com with ESMTP id ABCD12345 for <user123@testdomain.com>; Thu, 15 Jul 2021 10:34:56 -0400
+Message-ID: <A1B2C3D4E5@testdomain.com>
+Date: Thu, 15 Jul 2021 10:34:56 -0400
+From: PayPal Service <service@paypal.com>
+Reply-To: support@secure-payments.net
+To: user123@testdomain.com
+Subject: Urgent: Update Your PayPal Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_01D78F1C.5ABCD123"
+
+----=_NextPart_000_0000_01D78F1C.5ABCD123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. To ensure your security, please update your password immediately by following the link below:
+
+click here to update your password:
+http://192.0.2.123/login?cmd=_login-run
+
+If you do not update within 24 hours, your account will be limited.
+
+For more information, visit our help or privacy policy pages:
+https://www.paypal.com/us/help
+https://www.paypal.com/us/privacy-policy
+
+Thank you,
+PayPal Security Team
+
+----=_NextPart_000_0000_01D78F1C.5ABCD123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Notice</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected unusual activity on your PayPal account. To ensure your security, please update your password immediately by following the link below:</p>
+<p><a href="http://192.0.2.123/login?cmd=_login-run">click here</a> to update your password.</p>
+<p>If you fail to <a href="http://192.0.2.123/login?cmd=_login-run"></a> update within 24 hours, your account will be limited.</p>
+<p>For more information, visit our <a href="https://www.paypal.com/us/help">help</a> or <a href="https://www.paypal.com/us/privacy-policy">privacy policy</a> pages.</p>
+<p>Thank you,<br>
+PayPal Security Team</p>
+</body>
+</html>
+
+----=_NextPart_000_0000_01D78F1C.5ABCD123--

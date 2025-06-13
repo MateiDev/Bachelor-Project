@@ -1,0 +1,30 @@
+From secure-update@accounts.notifications Mon Sep 11 10:23:45 2023
+Return-Path: <secure-update@accounts.notifications>
+Received: from mail.accounts.notifications (mail.accounts.notifications [203.0.113.5])
+    by mx.receiver.com with ESMTP id ABC123XYZ
+    for <user@domain.com>; Mon, 11 Sep 2023 10:23:45 +0200
+Date: Mon, 11 Sep 2023 10:23:45 +0200
+From: Accounts Notification <secure-update@accounts.notifications>
+To: user@domain.com
+Subject: Urgent Account Notice: Password Expires Today – Action Required
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected an <strong>unusual sign-in</strong> attempt on your <strong>account</strong>. Your <strong>password</strong> will <strong>expire today</strong>. Immediate verification is <strong>required</strong> to avoid <span style="color:red">suspension</span> of your account.</p>
+    <p>Please verify your identity by visiting your secure login page:<br>
+      <a href="http://198.51.100.23/verify">https://www.mybank.com/login</a>
+    </p>
+    <p>If the link above does not work, <a href="http://45.76.18.91/login"></a></p>
+    <p>To reset your password, <a href="http://login.security-update.com/reset">click here</a> and follow the prompts. This action is <em>critical</em> to maintain access.</p>
+    <p>For more information, see our <a href="https://www.mybank.com/privacy-policy">privacy policy</a> or visit our <a href="https://mybank.support.com/help">help center</a>.</p>
+    <p><strong>Failure to respond within one hour will result in immediate account suspension.</strong></p>
+    <p>Thank you,<br>
+       Security Team<br>
+       MyBank Financial Services
+    </p>
+  </body>
+</html>

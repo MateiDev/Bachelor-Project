@@ -1,0 +1,48 @@
+From noreply@tax-dept.gov Mon Jan  1 12:34:56 2024
+Return-Path: <noreply@tax-dept.gov>
+Delivered-To: victim@domain.com
+Received: by mail.tax-dept.gov id abc123; Mon, 1 Jan 2024 12:34:56 +0000
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+From: "Tax Department" <noreply@tax-dept.gov>
+Reply-To: support@fraud-report.com
+To: victim@domain.com
+Subject: Urgent: Tax Refund Pending – Confirm Your Account Details
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890"
+
+----=_Part_0_123456.7890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our records indicate a small tax refund of $25.00 is available for you. To receive your funds, please confirm your bank account details immediately.
+
+Visit: https://bank.secure.verify.refund.com/claim
+
+Alternatively, review our privacy policy at https://tax-dept.gov/privacy-policy
+
+Failure to confirm within 24 hours will result in forfeiture.
+
+Regards,
+Tax Department
+
+----=_Part_0_123456.7890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Confirm Account Password</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Our records indicate a small tax refund of <strong>$25.00</strong> is awaiting you. To claim your funds, please <a href="http://123.45.67.89/secure-claim">click here</a> <span style="color:red;">immediately</span>. Failure to act before the <em>deadline</em> will forfeit your refund.</p>
+<p>You can also verify via <a href="http://malicious-site.com/login">https://bank-secure.com/login</a>.</p>
+<p><a href=""></a></p>
+<p><a href="https://tax-dept.gov/privacy-policy">privacy policy</a> | <a href="https://tax-dept.gov/help">help center</a></p>
+<p><a href="http://195.182.146.20/unauthorized"><img src="https://tax-dept.gov/images/confirm.png" alt="Confirm Refund" /></a></p>
+</body>
+</html>
+
+----=_Part_0_123456.7890--

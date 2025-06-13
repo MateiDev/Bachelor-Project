@@ -1,0 +1,20 @@
+From no-reply@microsoft.com Fri Jul 26 12:34:56 2024
+From: Microsoft Account Team <no-reply@microsoft.com>
+Reply-To: support@ms-security-update.com
+To: user@example.com
+Subject: Urgent Account Verification Required
+Date: Fri, 26 Jul 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected <strong>unauthorized</strong> access attempts on your Microsoft account. To prevent your account from being <span style="color:red;">suspended</span>, you must verify your credentials <strong>immediately</strong>. Failure to act within <strong>24 hours</strong> will result in permanent <strong>account suspension</strong>.</p>
+<p>Please <a href="http://secure.office-microsoft.login.verify.access-corp.blackshield.net/auth">click here</a> to complete the verification process.</p>
+<p>Alternatively, visit <a href="http://secure-update-login.com/verify"></a> or go to <a href="http://secure.update-login.microsoft.com.verify-access-portal.net/login">https://login.microsoftonline.com</a> to update your <strong>password</strong>.</p>
+<p>For more information, see our <a href="https://www.microsoft.com/privacy">Privacy Policy</a> or <a href="https://support.microsoft.com">Help Center</a>.</p>
+<p>Thank you for your prompt attention to this <strong>urgent</strong> matter.</p>
+<p>Sincerely,<br>Microsoft Account Security Team</p>
+</body>
+</html>

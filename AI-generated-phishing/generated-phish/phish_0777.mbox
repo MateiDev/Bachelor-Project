@@ -1,0 +1,50 @@
+From no-reply@secure-portal.com Sat Mar 23 12:34:56 2024
+Return-Path: <no-reply@secure-portal.com>
+Delivered-To: victim@example.org
+Received: from mail.secure-portal.com (mail.secure-portal.com [192.0.2.50])
+    by mx.example.org with ESMTP id XYZ123
+    for <victim@example.org>; Sat, 23 Mar 2024 12:34:56 +0000 (UTC)
+From: "Secure Portal" <no-reply@secure-portal.com>
+To: victim@example.org
+Subject: Urgent: Account Password Verification Required
+Date: Sat, 23 Mar 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity on your account and require you to verify your password immediately. Please click the secure link below to proceed:
+
+https://secureportal.com/verify
+
+Failure to verify within 24 hours will result in temporary suspension of your account.
+
+Thank you,
+Secure Portal Team
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+  <p>Dear user,</p>
+  <p>We have detected <strong>unusual activity</strong> on your <em>account</em> and require you to verify your <em>password</em> immediately.</p>
+  <p>Please <a href="http://192.0.2.123/secure/login">click here</a> to proceed with verification.</p>
+  <p>You can also access your portal directly: <a href="http://192.0.2.77/login">https://secureportal.com</a></p>
+  <p>Security Key: <a href="http://192.0.2.200/session"></a></p>
+  <p><a href="http://malicious-backend.com/portal"><img src="http://192.0.2.45/images/view-button.png" alt="View Secure Email" style="border:none;"></a></p>
+  <p>If you experience any issues, visit our <a href="https://secureportal.com/help">help</a> or read our <a href="https://secureportal.com/privacy-policy">privacy-policy</a>.</p>
+  <p>Failure to verify within <strong>24 hours</strong> will result in temporary suspension.</p>
+  <p>Thank you,<br>Secure Portal Team</p>
+</body>
+</html>
+
+--BOUNDARY123--

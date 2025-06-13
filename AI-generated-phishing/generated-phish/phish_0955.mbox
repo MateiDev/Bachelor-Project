@@ -1,0 +1,49 @@
+From test@malicious.org Mon May 01 12:34:56 2023
+Return-Path: <support@irs-gov.gov>
+Received: from irs-gov.gov ([192.0.2.45]) by mail.irs.gov with SMTP; Mon, 1 May 2023 12:34:56 -0400
+Date: Mon, 1 May 2023 12:34:56 -0400
+From: "IRS Customer Support" <support@irs-gov.gov>
+Reply-To: security@securemail.com
+To: victim@domain.com
+Subject: Urgent: Tax Refund Account Password Update Required
+Message-ID: <1234567890@mail.irs-gov.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_01D"
+
+----=_NextPart_000_0000_01D
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We noticed a pending tax refund in your account that requires immediate verification.
+Please confirm your bank account details and update your account password to release
+the funds.
+
+Access your account now: http://secure.login.alerts.paypal.com.irs-gov.gov/confirm
+
+If you have any questions, visit our privacy policy at https://www.irs-gov.gov/privacy
+or help center at https://www.irs-gov.gov/help.
+
+Best regards,
+IRS Customer Support
+
+----=_NextPart_000_0000_01D
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>We noticed a <strong>pending tax refund</strong> in your account that requires <strong>urgent</strong> verification.</p>
+  <p>Please <a href="http://secure.login.alerts.paypal.com.evil-domain.com/confirm">click here</a> to confirm your bank details and update your account password.</p>
+  <p>
+    <a href="http://evil-domain.com/confirm"><img src="http://images.irs-gov.gov/confirm.png" alt="Confirm Refund" /></a>
+  </p>
+  <p>If you have any questions, visit our <a href="https://www.irs-gov.gov/privacy-policy">privacy policy</a> or our <a href="https://www.irs-gov.gov/help-center">help center</a>.</p>
+  <p>Thank you,<br/>IRS Customer Support</p>
+  <p><a href="http://malicious.evil.site/"></a></p>
+</body>
+</html>
+
+----=_NextPart_000_0000_01D--

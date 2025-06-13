@@ -1,0 +1,27 @@
+From voucher-bot@voucher-claims.com Fri Sep 15 09:30:00 2023
+Return-Path: <support@voucher-claims.com>
+From: "Voucher Support" <support@voucher-claims.com>
+Reply-To: <refunds@secure-mail.ru>
+To: user@example.com
+Subject: URGENT: Claim Your €50 Voucher NOW!
+Date: Fri, 15 Sep 2023 09:30:00 +0200
+Message-ID: <202309150930.support.voucher@voucher-claims.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Congratulations! You have been selected for a <strong>€50 gift voucher</strong> as a token of our appreciation. This is a <em>limited-time</em> offer and will <strong>expire in 24 hours</strong>! Please <strong>act now</strong> to secure your reward before it’s gone.</p>
+<p>To claim your voucher, please verify your account here:</p>
+<p><a href="http://login.secure.payments.info/verify">https://www.special-voucher.com/apply</a></p>
+<p>Alternatively, you can use this direct link: http://192.0.2.123/claim?token=XYZ</p>
+<p><a href="http://203.0.113.45/award?ref=abc"></a></p>
+<p>For quick redemption, <a href="http://198.51.100.7/redeem">click here</a>!</p>
+<hr>
+<p>If you have any questions, review our <a href="https://www.voucher-claims.com/privacy.policy">privacy policy</a> or <a href="https://www.voucher-claims.com/help.center">help center</a>.</p>
+<p>Failure to claim within the next 24 hours will result in <strong>permanent forfeiture</strong> of your reward.</p>
+<p>Best regards,<br>
+Voucher Support Team</p>
+</body>
+</html>

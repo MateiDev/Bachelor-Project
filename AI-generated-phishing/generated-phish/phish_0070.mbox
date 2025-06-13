@@ -1,0 +1,32 @@
+```mbox
+From fakebank.alerts@example.com Mon Oct 30 12:28:53 2023
+Return-Path: <fakebank.alerts@example.com>
+Delivered-To: victim@example.com
+Received: from suspicious-server.net (192.168.10.5)
+	by mail.example.com with ESMTP id 123456789
+	for <victim@example.com>; Mon, 30 Oct 2023 12:28:53 +0000
+Subject: Urgent: Unusual Sign-in Detected on Your Account
+Date: Mon, 30 Oct 2023 12:28:47 +0000
+From: Account Security <fakebank.alerts@example.com>
+Reply-To: noreply@security-notifications.com
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We detected an <b>unusual sign-in attempt</b> on your account originating from an unknown location at <b>192.168.100.50</b>. As a security measure, we require you to <b>verify your identity</b> immediately to avoid any unauthorized access.</p>
+
+<p>Your <b>password expires today</b>. To ensure uninterrupted access to your account, please <a href="http://192.168.34.101/reset-password" target="_blank"><b>reset your password now</b></a>.</p>
+
+<p>Failure to verify your account will result in <b>temporary suspension</b> for your protection. Please click the link below to proceed:</p>
+<p><a href="http://192.168.34.101/security-verification" target="_blank"></a></p>
+
+<p>For additional security information, visit <a href="http://security.fakebank.alerts.services.secure.com/help" target="_blank">here</a>.</p>
+
+<p>Best Regards,<br>
+FakeBank Security Team</p>
+</body>
+</html>
+```

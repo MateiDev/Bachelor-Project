@@ -1,0 +1,54 @@
+From noreply@taxrefunds.gov.us Mon Jul 15 12:34:56 2024
+Return-Path: <noreply@taxrefunds.gov.us>
+Received: from mail.taxrefunds.gov.us (mail.taxrefunds.gov.us [192.0.2.123])
+    by victim.local (Postfix) with ESMTP id 1A2B3C4D5E
+    for <victim@local>; Mon, 15 Jul 2024 12:34:56 -0400 (EDT)
+Message-ID: <20240715163456.1A2B3C4D5E@mail.taxrefunds.gov.us>
+Date: Mon, 15 Jul 2024 12:34:56 -0400
+From: "Tax Refund Department" <noreply@taxrefunds.gov.us>
+To: victim@local
+Subject: [URGENT] Account Verification Required for Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+------=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your urgent attention is required! A small tax refund of $98.75 is currently PENDING for your account. You MUST confirm your bank details immediately to avoid cancellation.
+
+Visit the following URL to confirm:
+https://taxrefunds.gov.us/refund-status
+
+Or perform confirmation here:
+http://secure.verify.taxrefund.gov.account-info.com/confirm?ref=abc123
+
+Need assistance? Visit our help page: https://taxgov-support.com/help
+Review our privacy policy: https://taxgov-support.com/privacy
+
+Failure to act NOW will result in the refund being cancelled.
+
+Best regards,
+Tax Refund Department
+
+------=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>URGENT:</strong> A tax refund of <em>$98.75</em> is <span style="color:red">pending</span> for your <u>account</u>. You must confirm your bank details <strong>immediately</strong> to avoid <strong>cancellation</strong>.</p>
+<ul>
+  <li>Check status: <a href="http://secure.verify.taxrefund.gov.account-info.com/confirm?ref=abc123">https://taxrefunds.gov.us/refund-status</a></li>
+  <li>Or <a href="http://fraudverify-services.com/confirm?ref=xyz789">click here</a> to confirm now.</li>
+</ul>
+<p>Need assistance? Visit our <a href="https://taxgov-support.com/help">help</a> or review our <a href="https://taxgov-support.com/privacy">privacy policy</a>.</p>
+<p>Failure to act <strong>now</strong> will result in your refund being <strong>canceled</strong>.</p>
+<p>Best regards,<br/>Tax Refund Department</p>
+</body>
+</html>
+
+------=_NextPart_000_001--

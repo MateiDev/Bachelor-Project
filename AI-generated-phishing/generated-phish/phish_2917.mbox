@@ -1,0 +1,44 @@
+```mbox
+From fake@support.example.com Thu Oct 26 14:30:00 2023
+Return-Path: <fake@support.example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by receiver.example.org (ESMTP) with SMTP id ABC123DEF456
+    for <user@example.org>; Thu, 26 Oct 2023 14:30:00 -0400 (EDT)
+Date: Thu, 26 Oct 2023 18:30:00 +0000
+From: "Customer Support" <support@paypal.example.com>
+Reply-To: "Customer Support" <reply@secure-authentication.example.com>
+To: user@example.org
+Subject: Urgent: Account Verification Needed!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_12345_67890.1234567890"
+
+------=_Part_12345_67890.1234567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We've detected unusual activity with your account. Please verify your information immediately to avoid any potential disruption.
+
+Click here: http://secure-verify.example-security.com/login
+
+Sincerely,
+PayPal Security Team
+
+------=_Part_12345_67890.1234567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We've detected unusual activity with your account. Please verify your information immediately to avoid any potential disruption.</p>
+    <p><a href="http://secure-verify.example-security.com/login">Click here to verify your account</a></p>
+    <p>For more information, visit our <a href="https://www.paypal.com/security">Security Center</a> or contact our <a href="https://www.paypal.com/help">Help Desk</a>.</p>
+    <p><img src="http://login-image.fake-paypal.com/logo.png" alt="PayPal Logo"></p>
+    <p>Sincerely,<br>PayPal Security Team</p>
+  </body>
+</html>
+------=_Part_12345_67890.1234567890--
+```

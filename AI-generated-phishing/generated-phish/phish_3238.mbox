@@ -1,0 +1,30 @@
+From no-reply@paypal.com Mon Jan  1 12:00:00 2024
+Message-ID: <20240101120000.abcdef@paypal.com>
+Date: Mon, 1 Jan 2024 12:00:00 +0000
+From: PayPal Security <no-reply@paypal.com>
+To: user@domain.com
+Reply-To: support@security-update.info
+Subject: Urgent Account Password Expires Today – Action Required
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear PayPal Customer,</p>
+<p>We detected an unusual sign-in attempt from a new device. Your account has been <strong>temporarily locked</strong> and your <strong>password expires today</strong>. You must verify your identity <span style="color:red;">immediately</span> to prevent permanent suspension.</p>
+<p>
+  <a href="http://203.0.113.5/reset"></a><br>
+  <a href="http://login.security-paypal.com.process">login.security-paypal.com.process</a><br>
+  <a href="http://malicious.bad/verify">https://www.paypal.com/secure</a><br>
+  Please <a href="http://203.0.113.5/reset">click here</a> to update your account credentials.<br>
+  For assistance visit <a href="http://help.paypal.com.fakesite.com">here</a>.
+</p>
+<p>
+  <a href="http://paypal.security-update.com"><img src="http://203.0.113.5/button.png" alt="Verify Now"></a>
+</p>
+<p><strong>Warning:</strong> If you do not act <span style="font-weight:bold;">within 24 hours</span>, your account will be permanently suspended.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Sincerely,<br>
+PayPal Security Team</p>
+</body>
+</html>

@@ -1,0 +1,44 @@
+From promo-alerts@service-updatealerts.net Wed Oct 13 10:15:20 2021
+Return-Path: <promo-alerts@service-updatealerts.net>
+Received: from mail.service-updatealerts.net ([198.51.100.23])
+	Date: Wed, 13 Oct 2021 10:15:20 +0200
+From: "Service Update" <no-reply@service-updatealerts.net>
+To: user@clientdomain.com
+Subject: You’ve been selected to receive a €50 voucher!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You’re eligible to receive a 50 EUR gift voucher.
+
+To claim your voucher, visit the following link:
+http://192.168.50.5/claim?uid=12345
+
+Alternatively, go to https://secure.shop-promo.service-update.co.uk/redeem today!
+Need help? Visit our Help Center at https://service-update.co.uk/help
+
+Best regards,
+Service Update Team
+
+--boundary123
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Congratulations! You’ve been selected to receive a <strong>€50 gift voucher</strong>!</p>
+<p>To claim your voucher, <a href="http://192.168.50.5/claim?uid=12345">click here</a>.</p>
+<p>Or <a href="https://secure.shop-promo.service-update.co.uk/redeem">here</a> to redeem instantly.</p>
+<p>Check our <a href="https://service-update.co.uk/privacy-policy">Privacy Policy</a> or <a href="https://service-update.co.uk/help-center">Help Center</a> for more info.</p>
+<p>Also verify your eligibility by visiting <a href="http://203.0.113.45/verify"><img src="http://cdn.promotions.net/images/voucher.png" alt="Verify Now"/></a></p>
+<p>If you prefer, go to <a href="http://203.0.113.45/fraud"><span>https://www.vouchersafe.com</span></a> for secure processing.</p>
+<p>Best regards,<br/>Service Update Team</p>
+</body>
+</html>
+--boundary123--

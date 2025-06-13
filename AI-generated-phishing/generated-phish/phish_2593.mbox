@@ -1,0 +1,44 @@
+From me@example.com Mon Oct 30 14:26:47 2023  
+Return-Path: <me@example.com>  
+Received: from [192.168.1.10] ([192.168.1.10]) by mail.example.com with ESMTP id <20231030142647> for <user@example.com>; Mon, 30 Oct 2023 14:26:47 -0700 (PDT)  
+From: "Support Team" <support@secure-alert.com>  
+To: user@example.com  
+Subject: Urgent: Action Required to Secure Your Account  
+MIME-Version: 1.0  
+Content-Type: multipart/alternative; boundary="boundary12345"  
+
+--boundary12345  
+Content-Type: text/plain; charset=utf-8  
+
+Dear user,
+
+We have noticed suspicious activity on your account. Immediate action is required to secure your account.
+
+Please log in promptly by clicking the link below:
+
+http://198.51.100.1/secure-login
+
+Failure to verify your account will lead to immediate suspension.
+
+Thank you,  
+Security Support Team  
+
+--boundary12345  
+Content-Type: text/html; charset=utf-8  
+
+<!DOCTYPE html>  
+<html>  
+<body>  
+<p>Dear user,</p>  
+<p>We have noticed suspicious activity on your account. <strong>Immediate action is required</strong> to secure your account.</p>  
+<p>Please log in promptly by clicking the link below:</p>  
+<p><a href="http://198.51.100.1/secure-login">http://secure-login.com</a></p>  
+<p>Failure to verify your account will lead to immediate suspension.</p>  
+<p>Thank you,<br>  
+Security Support Team</p>  
+<p><a href="http://www.secure-alert.com/images/logo.png"><img src="http://www.secure-alert.com/images/logo.png" alt="Logo"></a></p>  
+<p>For more information, read our <a href="http://www.trusted-site.com/privacy-policy">privacy policy</a> or <a href="http://www.trusted-site.com/help">contact support</a>.</p>  
+</body>  
+</html>  
+
+--boundary12345--  

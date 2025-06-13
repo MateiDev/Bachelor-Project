@@ -1,0 +1,49 @@
+From phisher@phishingtest.com Wed Jun 12 14:28:01 2024
+Return-Path: <alerts@trustedbrand.com>
+Received: from mail.trustedbrand.com (mail.trustedbrand.com [198.51.100.25])
+	by mx.trustedbrand.com with ESMTP id 12345AB
+	for <user@victim.com>; Wed, 12 Jun 2024 14:28:00 +0000
+Date: Wed, 12 Jun 2024 14:28:00 +0000
+From: "TrustedBrand Security" <alerts@trustedbrand.com>
+Reply-To: support@accounts-secure.org
+To: user@victim.com
+Subject: URGENT: Password Verification Required for Your TrustedBrand Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789"
+
+------=_Part_0_123456789
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Dear user@victim.com,
+
+URGENT: We have detected suspicious activity on your account. You must verify your password immediately to avoid suspension.
+
+Please visit the link below to secure your account:
+https://secure.trustedbrand.com/security
+
+Thank you for your prompt attention.
+
+Regards,
+TrustedBrand Security Team
+
+------=_Part_0_123456789
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user@victim.com,</p>
+    <p style="color:red;"><strong>URGENT: Suspicious activity detected on your account.</strong><br>
+       You must verify your password immediately to avoid suspension.</p>
+    <p>Click <a href="http://192.0.2.123/login.php">here</a> to verify now.</p>
+    <p>If that link doesn’t work, try this:</p>
+    <p><a href="http://phishmodal.net/redirect">https://secure.trustedbrand.com/security</a></p>
+    <p>Need help? Visit our <a href="https://trustedbrand.com/help">Help Center</a> or review our <a href="https://trustedbrand.com/privacy">Privacy Policy</a>.</p>
+    <p><a href="http://login.security.account-update.com/verify?acct=12345"></a></p>
+    <p>Best regards,<br>
+       TrustedBrand Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456789--

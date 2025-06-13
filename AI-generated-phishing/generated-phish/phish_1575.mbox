@@ -1,0 +1,26 @@
+From no-reply@dhl.com Mon Jun 10 12:00:00 2024
+Return-Path: <no-reply@dhl.com>
+Delivered-To: victim@domain.com
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.25]) by victim.domain.com (Postfix) with ESMTP id ABC123DEF for <victim@domain.com>; Mon, 10 Jun 2024 12:00:00 +0000 (UTC)
+From: DHL Delivery Notification <no-reply@dhl.com>
+Reply-To: support@secure-update.com
+Subject: Urgent: Action Required to Release Your Package
+Date: Mon, 10 Jun 2024 12:00:00 +0000
+Message-ID: <20240610120000.12345@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>URGENT Account Delivery Notice</title>
+</head>
+<body>
+<p><strong>Attention Customer,</strong></p>
+<p>Your package delivery has <strong>failed</strong> due to unpaid fees. Immediate action is <em>required</em> to release your parcel.</p>
+<p>Please click the link below to pay the small service fee and <span style="font-weight:bold;">avoid package return</span>:</p>
+<p><a href="http://203.0.113.45/tracking?ref=ABC12345">https://dhl.delivery.tracking.com/parcel?id=ABC12345</a></p>
+<p>If payment is not received within 24 hours, your package will be returned to the sender.</p>
+<p>Thank you,<br>DHL Delivery Team</p>
+<p><a href="http://203.0.113.45/update?token=5566"></a></p>
+</body>
+</html>

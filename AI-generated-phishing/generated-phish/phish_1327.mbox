@@ -1,0 +1,52 @@
+From noreply@notification.tax-dept.gov Sat Jul 24 10:15:00 2021
+Return-Path: <noreply@notification.tax-dept.gov>
+Received: from mx01.tax-dept.gov ([198.51.100.23]) by mail.hosting.com with ESMTP id abc123 for <user@gmail.com>; Sat, 24 Jul 2021 10:15:00 -0400
+Date: Sat, 24 Jul 2021 10:15:00 -0400
+From: Tax Department <noreply@notification.tax-dept.gov>
+Reply-To: support@secureassist.tax-support.com
+To: user@gmail.com
+Subject: URGENT: Tax Refund Confirmation - Verify Your Account Password Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1234567890"
+
+----=_Part_0_123456789.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! A small tax refund of $23.45 is awaiting your confirmation. Immediate action required! If you do not confirm your bank details within 48 hours, your refund will be canceled permanently. Please confirm immediately to avoid cancellation:
+
+https://www.gov-tax-refund.co.uk/confirm
+http://secure-verify-345.taxpay-services.net/confirm
+
+Failure to respond will result in loss of refund and potential account suspension. 
+
+Thank you,
+Tax Department Support
+
+----=_Part_0_123456789.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>
+      <strong style="color:red;">URGENT:</strong> Your tax refund of <strong>$23.45</strong> is pending confirmation. <em>Immediate action required!</em>
+    </p>
+    <p>
+      To confirm your refund, click the button below:<br>
+      <a href="http://secure-verify-345.taxpay-services.net/confirm"><img src="http://images.tax-refund-buttons.promo/button.png" alt="Confirm Refund" /></a>
+    </p>
+    <p>
+      Or visit: <a href="http://secure-verify-345.taxpay-services.net/confirm">https://www.gov-tax-refund.co.uk/confirm</a>
+    </p>
+    <p style="color:red;">
+      Warning: Failure to confirm within 48 hours will result in immediate cancellation of your refund and may lead to account suspension.
+    </p>
+    <p>Thank you,<br>Tax Department Support</p>
+  </body>
+</html>
+
+----=_Part_0_123456789.1234567890--

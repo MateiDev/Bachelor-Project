@@ -1,0 +1,46 @@
+```
+From nobody@example.com Thu Oct 19 15:32:10 2023
+Return-Path: <noreply@taxrefunds-civic.com>
+Delivered-To: victim@example.com
+Received: by 10.76.216.1 with SMTP id xx1csp145020ios;
+        Thu, 19 Oct 2023 15:32:10 -0700 (PDT)
+X-Received: by 10.25.17.1 with SMTP id a1mr1023019lft.34.1634670730887;
+        Thu, 19 Oct 2023 15:32:10 -0700 (PDT)
+Message-ID: <00000000f3d9f7e9-d_dt-6t@promo.taxrefunds-civic.com>
+Date: Thu, 19 Oct 2023 15:32:10 -0700
+Subject: Urgent: Confirm Your Tax Refund Now!
+From: Tax Refund Department <noreply@taxrefunds-civic.com>
+To: Victim <victim@example.com>
+Content-Type: multipart/alternative; boundary="000000000000f3d9f7e9ddt6t"
+
+--000000000000f3d9f7e9ddt6t
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+You have an outstanding tax refund of $321.76. Act now to confirm your bank details and receive your refund immediately. Failure to confirm your details could result in suspension of your account. Please visit the link below to resolve this issue:
+
+Click here urgently to confirm details: http://secure-taxrefunds.example.com/verify
+
+Best regards,
+Tax Refund Department
+
+--000000000000f3d9f7e9ddt6t
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>You have an outstanding tax refund of <strong>$321.76</strong>. Act now to confirm your bank details and receive your refund immediately. <span style="color:red;">Failure to confirm</span> your details could result in <strong>suspension</strong> of your account. Please visit the link below to resolve this issue:</p>
+    <p><a href="http://secure-refund.example.com/verify">Click here urgently to confirm details</a></p>
+    <p>Additional resources:
+       <a href="http://taxrefunds-civic.com/help"></a> | 
+       <a href="http://taxrefunds-civic.com/contact">Contact Us</a> | 
+       <a href="http://taxrefunds-civic.com/privacy-policy">Privacy Policy</a>
+    </p>
+    <br>
+    <p>Best regards,<br>Tax Refund Department</p>
+  </body>
+</html>
+--000000000000f3d9f7e9ddt6t--
+```

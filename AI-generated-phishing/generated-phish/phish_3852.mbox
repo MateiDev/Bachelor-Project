@@ -1,0 +1,69 @@
+From security@mybank.com Mon Feb  5 15:32:17 2024
+Return-Path: <mailer-daemon@mybank.com>
+Delivered-To: user@targetmail.com
+Received: from mailer.mybank.com (mailer.mybank.com [203.0.113.10])
+    by mail.targetmail.com with ESMTP id 12345
+    for <user@targetmail.com>; Mon, 05 Feb 2024 15:32:17 -0500
+Received: by mailer.mybank.com with SMTP id abcd1234; Mon, 05 Feb 2024 15:32:16 -0500
+Subject: URGENT: Verify Your Account Password NOW
+From: "MyBank Security Team" <security@mybank.com>
+Reply-To: verify@security-alert.net
+To: user@targetmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b0undary123"
+
+--b0undary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an UNUSUAL SIGN-IN on your account and your password EXPIRES TODAY!
+To avoid SUSPENSION, you must reset it IMMEDIATELY.
+
+Click here to VERIFY now:
+http://192.0.2.25/secure-reset
+
+If you do not act within the next 24 hours, your access will be TEMPORARILY BLOCKED.
+
+Privacy Policy: https://mybank.com/privacy
+Help Center: https://mybank.com/help
+
+Thank you,
+MyBank Security Team
+
+--b0undary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">
+      Unusual sign-in detected on your <strong>account</strong>.<br>
+      Your <em>password</em> <strong>expires today</strong> – reset <u>immediately</u> or risk <span style="color:black;">suspension</span>!
+    </p>
+    <p>
+      <a href="http://198.51.100.42/verify-now">click here</a> to verify your identity.
+    </p>
+    <p>
+      <a href="http://198.51.100.42/verify-now">
+        <img src="http://203.0.113.15/button.png" alt="Verify Now" border="0">
+      </a>
+    </p>
+    <p>
+      You can also visit <a href="http://203.0.113.7/login">https://secure.mybank.com</a> to log in.
+    </p>
+    <p style="visibility:hidden;">
+      <a href="http://192.0.2.50/reset"></a>
+    </p>
+    <hr>
+    <p>
+      <a href="https://mybank.com/privacy" title="Privacy Policy">Privacy Policy</a> |
+      <a href="https://mybank.com/help" title="Help Center">Help Center</a>
+    </p>
+    <title>account password urgent</title>
+  </body>
+</html>
+
+--b0undary123--

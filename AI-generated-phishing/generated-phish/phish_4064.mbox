@@ -1,0 +1,53 @@
+From support@banksecure.com Thu Mar 03 12:34:56 2022
+Return-Path: <support@banksecure.com>
+X-Original-From: support@banksecure.com
+From: Bank Secure <support@banksecure.com>
+Reply-To: helpdesk@secure-assist.info
+To: user@domain.org
+Subject: Urgent: account Refund Confirmation Required
+Date: Thu, 03 Mar 2022 12:34:56 -0400
+Message-ID: <20220303123456.1@banksecure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your 2021 tax returns and identified a small refund of $47.80 pending confirmation. To securely receive your funds, please confirm your bank details immediately by visiting the link below:
+
+https://www.banksecure.com/confirm
+
+If you encounter any issues, you can also check our privacy policy:
+https://www.banksecure.com/privacy-policy
+
+Best regards,
+Bank Secure Support Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Password Update & Refund Confirmation</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We have processed your 2021 tax returns and identified a small refund of $47.80 pending confirmation. To securely receive your funds, please confirm your bank details immediately.</p>
+<ul>
+<li><a href="https://www.banksecure.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="https://help.banksecure.com/faq">Help & Support</a></li>
+<li><a href="https://www.banksecure.com/security">Security Information</a></li>
+<li><a href="http://secure.login.bank-portal.co.uk/update">Account Update Center</a></li>
+</ul>
+<p>To confirm now, <a href="http://193.168.1.100/confirm?user=12345">https://www.banksecure.com/confirm</a>.</p>
+<p>Alternatively, <a href="http://203.0.113.45/secureModal?uid=12345">click here</a> to complete the verification.</p>
+<p>For instant processing, use the secure button:</p>
+<p><a href="http://198.51.100.17/verify"><img src="http://192.0.2.123/logo.png" alt="Confirm Refund"></a></p>
+<p>If you have login issues, <a href="http://modal-secure-services.net/modal?ref=tax">here</a> for assistance.</p>
+<p><a href="http://45.76.128.13/privacy-policy"></a></p>
+</body>
+</html>
+
+------=_Part_12345_67890--

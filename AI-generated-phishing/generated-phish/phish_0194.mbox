@@ -1,0 +1,37 @@
+```mbox
+From - Wed Oct 04 13:34:56 2023
+Return-Path: <notifications@dhl-services.com>
+Received: from smtp.dhl-services.com (smtp.dhl-services.com [192.0.2.15])
+        by mail.example.com (Postfix) with ESMTP id 1234567890
+        for <victim@example.com>; Wed,  4 Oct 2023 13:34:56 +0000 (UTC)
+Message-ID: <0987654321@mail.example.com>
+Date: Wed, 04 Oct 2023 13:34:56 +0000 (UTC)
+From: DHL Notification <info@dhl-services.com>
+Reply-To: alerts@dhl-security.com
+Subject: Urgent: Action Required to Release Your Package!
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head></head>
+<body>
+<p>Dear Customer,</p>
+
+<p>We are unable to deliver your package due to unpaid delivery fees. To release your package, please settle the outstanding fee immediately using the link below:</p>
+
+<p><strong><a href="https://secure.dhl-services.com.payments.com/release" style="color: red;">Click here to resolve your delivery issue now!</a></strong></p>
+
+<p>Method of payment failed, please <a href="https://verification.dhl-update114.com">try again</a> urgently to prevent your package from being returned to sender.</p>
+
+<p>To track your shipment status, ensure payment completion: <a href="https://www.dhl.com/shipment.tracking/status">Track Now</a></p>
+
+<p>Please be aware that your package will be held for a maximum of 48 hours. <a href="https://help.dhl-safety123.com">Contact support</a> for any inquiries.</p>
+
+<p><a href="http://malicious.link.fake"><img src="http://images.dhl-services.com/logo.png" alt="DHL Logo" /></a></p>
+
+<p>Thank you for choosing DHL!</p>
+
+<p>The DHL Team</p>
+</body>
+</html>
+```

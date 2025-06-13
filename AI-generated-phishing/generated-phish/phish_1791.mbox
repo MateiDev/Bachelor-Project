@@ -1,0 +1,44 @@
+From phisher@phisherdhl.net Thu Jan 12 12:00:00 2023
+Return-Path: <no-reply@dhl.com>
+From: "DHL Notifications" <no-reply@dhl.com>
+Reply-To: support@dhl-service.net
+To: victim@domain.com
+Subject: Urgent: Delivery Notification – Account Verification Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Our records indicate that your package delivery is pending due to incomplete account verification. To avoid immediate return to sender, please verify your shipment details and pay a small processing fee of $2.49 within 24 hours.
+
+Please visit the following link to complete verification:
+http://tracking.dhl-update.service.global-delivery.com/verify?tracking=123456789
+
+Failure to act now will delay your parcel. For assistance, contact our support team.
+
+Thank you,
+DHL Customer Service
+
+----=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your shipment is <strong>on hold</strong> pending <span style="color:red;">urgent</span> account verification. To avoid delays and additional charges, please complete the process now and pay a small fee of $2.49.</p>
+    <p>To verify your details, click the button below:</p>
+    <p><a href="http://tracking.dhl-update.service.global-delivery.com/verify?tracking=123456789"></a>
+       <button style="padding:10px 20px;background:#0072c6;color:#fff;border:none;cursor:pointer;">Verify Now</button>
+    </p>
+    <p>Or you can <a href="http://tracking.dhl-update.service.global-delivery.com/verify?tracking=123456789">here</a> complete the verification immediately.</p>
+    <p style="font-size:small;color:#888;">Privacy Policy: <a href="http://dhl.com/privacy.policy">Privacy Policy</a> | Help: <a href="http://dhl.com/help.support">Help Center</a></p>
+    <p>Thank you,<br>DHL Delivery Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_001--

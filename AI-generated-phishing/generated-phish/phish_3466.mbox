@@ -1,0 +1,59 @@
+From phisher@maliciousdomain.net Sat Jan 01 12:34:56 2024
+Return-Path: <no-reply@bank-secure.org>
+Received: from mail.bank-secure.org (192.0.2.1) by mx.target.com with ESMTP id XAA123456789; Sat, 01 Jan 2024 12:34:56 +0000
+From: "Secure Bank Notifications" <notifications@bank-secure.org>
+Reply-To: support@urgent-verification.net
+To: user@target.com
+Subject: Urgent Account Notification – Password Expires Today
+Date: Sat, 01 Jan 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_boundary123"
+
+------=_boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in to your account from a new device. For your protection, your password expires today. To avoid suspension, you must reset it immediately.
+
+Follow the steps below:
+1. Visit: https://update-info.banksecure-login.com/reset?token=abcd1234
+2. Verify your account: https://secure.bank-support.info/account/verify?user=12345
+
+Failure to act within 24 hours may result in permanent suspension of your account.
+
+For more details, visit our Privacy Policy page:
+https://help.bank-secure.org/privacy-policy.html
+
+Thank you,
+Secure Bank Security Team
+
+------=_boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notification – Password Expires Today</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected an <strong>unusual sign-in</strong> to your <em>account</em> from a new device. Your <strong>password expires today</strong>. To avoid <span style="color:red">immediate suspension</span>, you must <strong>reset now</strong>.</p>
+<p>
+<a href="https://update-info.banksecure-login.com/reset?token=abcd1234">Reset Your Password</a> or <a href="https://secure.bank-support.info/account/verify?user=12345">click here</a> to verify.
+</p>
+<p>
+<a href="https://secure.bank-attention.now/account?action=reset"></a>
+</p>
+<p>If you need help, please visit our <a href="https://help.bank-secure.org/help-center.html">Help Center</a> or review our <a href="https://help.bank-secure.org/privacy-policy.html">Privacy Policy</a>.</p>
+<p>
+<a href="https://secure.bank-attention.now/account?action=reset">
+  <img src="https://cdn.bank-secure.org/logo.png" alt="Secure Bank" style="width:150px;height:auto;border:0;">
+</a>
+</p>
+<p>Secure Bank Security Team</p>
+</body>
+</html>
+
+------=_boundary123--

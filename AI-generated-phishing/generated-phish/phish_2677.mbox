@@ -1,0 +1,41 @@
+```mbox
+From nobody Mon Oct 02 02:03:04 2023
+Return-Path: <alert@secure-notification.com>
+Received: from unknown (HELO secure-smtp.com) (192.168.0.1)
+Date: Mon, 2 Oct 2023 02:03:04 +0000
+From: Security Alert <alert@secure-notification.com>
+Reply-To: recovery@urgent-update.com
+Subject: Urgent: Verify Your Account Access Now
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+
+Dear User,
+
+There has been unauthorized access to your account. Immediate verification is required to ensure your data is safe. Please visit the link below to secure your account:
+
+http://192.168.0.2/login
+
+Failure to do so might lead to account suspension.
+
+Best regards,
+Security Team
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>There has been unauthorized access to your account. <strong>Immediate verification</strong> is required to ensure your data is safe. Please visit the link below to secure your account:</p>
+    <p><a href="http://192.168.0.2/login"><img src="https://example.com/security-update.png" alt="" /></a></p>
+    <p>Failure to do so might lead to account suspension.</p>
+    <p>Best regards,</p>
+    <p>Security Team</p>
+  </body>
+</html>
+--boundary123--
+```

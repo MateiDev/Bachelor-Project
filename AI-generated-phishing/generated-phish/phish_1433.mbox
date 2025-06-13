@@ -1,0 +1,65 @@
+From service@trustedbank.com Wed, 15 May 2024 10:23:45 +0000
+Return-Path: <service@trustedbank.com>
+Received: from mail.trustedbank.com (mail.trustedbank.com [192.0.2.1]) by inbound.trustedbank.com with ESMTP id ABC123DEF for <user@domain.com>; Wed, 15 May 2024 10:23:45 +0000
+Message-ID: <20240515102345.GR1234@mail.trustedbank.com>
+Date: Wed, 15 May 2024 10:23:45 +0000
+From: TrustedBank Alerts <service@trustedbank.com>
+To: user@domain.com
+Subject: Urgent: Unusual sign-in detected – verify now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an UNUSUAL SIGN-IN attempt to your account. For your protection, IMMEDIATE ACTION REQUIRED.
+
+Your password is set to EXPIRE TODAY. Please RESET IMMEDIATELY to avoid being locked out.
+
+Verify your identity now by clicking here:
+http://secure-bank-update.com/verify-id
+
+If you do not act within the next hour, your account may be suspended.
+
+Need help? Visit our support center:
+http://help.trustedbank.com.support.verify-login.com
+
+Thank you,
+TrustedBank Security Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <h2 style="color:#d9534f;">Immediate Action Required!</h2>
+    <p style="font-size:14px;">
+      We noticed an <strong>unusual sign-in detected</strong> on your TrustedBank account.
+      To secure your account, please verify your identity <a href="http://secure-bank-update.com/verify-id">here</a>.
+    </p>
+    <p style="font-size:14px;">
+      <strong>Your password expires today – reset immediately!</strong> Click the link below:
+    </p>
+    <p>
+      <a href="http://trustedbank-secure.login-reset.com/reset"><img src="https://cdn.trustedbank.com/assets/logo.png" alt="TrustedBank Logo" width="200" /></a>
+    </p>
+    <p style="font-size:14px;">
+      Or visit: 
+      <a href="http://trustedbank.com/reset">https://www.trustedbank.com/reset-password</a>
+    </p>
+    <hr/>
+    <p style="font-size:12px;color:#777;">
+      Privacy Policy: <a href="http://privacy-policy.secure-update.com">click here</a> | 
+      Help Center: <a href="http://help.trustedbank.com.support.verify-login.com">help.trustedbank.com/support</a>
+    </p>
+    <p style="font-size:12px;color:#777;">
+      If you did not initiate this request, contact us immediately.
+    </p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

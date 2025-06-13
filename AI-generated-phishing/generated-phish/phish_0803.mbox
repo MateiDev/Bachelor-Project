@@ -1,0 +1,46 @@
+From support@paypal.com Mon Jun 10 12:34:56 2024
+Return-Path: <support@paypal.com>
+Delivered-To: victim@domain.com
+Received: from mail.paypal.com by mail.domain.com with ESMTP; Mon, 10 Jun 2024 12:34:56 -0400
+Message-ID: <12345@mail.paypal.com>
+Date: Mon, 10 Jun 2024 12:34:56 -0400
+From: "PayPal Support" <support@paypal.com>
+To: victim@domain.com
+Subject: Urgent: Verify Your Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.578345678"
+
+----=_Part_12345_678901234.578345678
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account password must be updated immediately to avoid suspension.
+Please verify your account by visiting the link below:
+
+https://www.paypal.com/login
+
+Thank you,
+PayPal Security Team
+
+----=_Part_12345_678901234.578345678
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Verify Your Account Password</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>Your <strong>account</strong> has encountered an issue and requires <em>immediate</em> attention.</p>
+<p>To avoid <span style="color:red;">suspension</span> of your account, please <u>verify</u> your password by clicking on the link below:</p>
+<p><a href="http://login.paypal-secure.com/verify" style="font-weight:bold;">https://www.paypal.com/login</a></p>
+<p>Alternatively, you can <a href="http://login.paypal-secure.com/verify"></a> to secure your account.</p>
+<p>For details, click <a href="http://fake-alerts.com/details">here</a>.</p>
+<p>Need help? Visit our <a href="https://www.paypal.com/help">Help Center</a> or <a href="https://www.paypal.com/privacy">Privacy Policy</a>.</p>
+<p>Failure to act <strong>immediately</strong> may result in permanent suspension.</p>
+<p>Thank you,<br>PayPal Security Team</p>
+</body>
+</html>
+
+----=_Part_12345_678901234.578345678--

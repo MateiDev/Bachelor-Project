@@ -1,0 +1,49 @@
+From support@securemail.com Fri Oct 20 12:34:56 2023
+Return-Path: <support@securemail.com>
+Received: from mail.securemail.com (mail.securemail.com [198.51.100.23]) by mx.example.com with ESMTP id abc123; Fri, 20 Oct 2023 12:34:56 -0400
+From: "SecureMail Support" <support@securemail.com>
+Reply-To: <helpdesk@randomdomain.com>
+To: user@example.com
+Subject: URGENT: Your account password must be updated immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456"
+
+----=_Part_0_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your SecureMail account password has expired. This is a critical update. You must verify your login credentials immediately to avoid suspension.
+
+Visit https://securemail-update.com/login?token=abc
+or https://verify.securemail.com now.
+
+Failure to comply will result in permanent account lock.
+
+SecureMail Support Team
+
+----=_Part_0_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Password Update Required</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>Your <strong>SecureMail</strong> <em>account</em> <strong>password</strong> has <span style="color:red;">expired</span>. This is a <u>critical</u> update.</p>
+<p>You must verify your login credentials <strong>immediately</strong> to avoid suspension.</p>
+<p>
+<a href="https://securemail-update.com/login?token=abc"></a>
+<a href="https://securemail-update.com/login?token=abc"><img src="https://securemail-update.com/logo.png" alt="SecureMail Logo" border="0"></a>
+</p>
+<p>Alternatively, click the link below:</p>
+<p><a href="https://verify.securemail.com"></a>https://verify.securemail.com</p>
+<p><strong>Failure to comply will result in permanent account lock.</strong></p>
+<p>SecureMail Support Team</p>
+</body>
+</html>
+
+----=_Part_0_123456--

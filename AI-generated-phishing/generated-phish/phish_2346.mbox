@@ -1,0 +1,29 @@
+From loyalty@companyrewards.com Sat Jun 15 12:34:56 2024
+Return-Path: <loyalty@companyrewards.com>
+Delivered-To: user@company.com
+Received: by mail.company.com with SMTP id x7mr123456qkb.15.2024.06.15.12.34.56; Sat, 15 Jun 2024 12:34:56 +0200 (CEST)
+Subject: URGENT: Claim Your €50 Reward Voucher Now!
+From: Loyalty Rewards <loyalty@companyrewards.com>
+To: user@company.com
+Date: Sat, 15 Jun 2024 12:34:56 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Member,</p>
+<p>Congratulations! You’re eligible for a <strong>€50 voucher</strong>—claim here before it expires! This is a <em>limited time</em> offer and your <strong>account will be deactivated</strong> in 24 hours if you do not act now.</p>
+<p>To secure your reward, please click the links below:</p>
+<ul>
+<li>IP-based URL: <a href="http://198.51.100.23/claim?ref=12345">http://198.51.100.23/claim?ref=12345</a></li>
+<li>Non-matching URL: <a href="http://malicious-server.net/redeem">https://secure.company.com/voucher</a></li>
+<li>Multi-dot URL: <a href="http://promo.rewards.voucher-service.co.uk/activate">Activate Voucher</a></li>
+<li>Empty link: <a href="http://93.184.216.34/voucher"></a></li>
+<li>Image-based link: <a href="http://free-gifts.now-offers.com/get-voucher"><img src="http://192.168.0.50/images/voucher.png" alt="Click Here"/></a></li>
+</ul>
+<p>Ensure you complete the process now to avoid losing your reward.</p>
+<p>Thank you for your loyalty,<br/>
+Loyalty Rewards Team</p>
+</body>
+</html>

@@ -1,0 +1,26 @@
+From phishing@malicious.test Mon Jan  1 00:00:00 2024
+Return-Path: <noreply@irs.gov>
+From: "IRS Notification" <noreply@irs.gov>
+To: "Valued Customer" <victim@example.com>
+Reply-To: support@secure-taxupdate.com
+Subject: Urgent Account Password Tax Refund Notice
+Date: Mon, 01 Jan 2024 00:00:00 +0000
+Message-ID: <20240101000000.abcdef@irs.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our system has detected an <strong>urgent</strong> issue with your IRS <strong>account password</strong>. You have a small tax refund of <b>$125.00</b> pending, but we require you to confirm your bank details <strong>immediately</strong> to avoid any <em>penalty</em> or <em>freeze</em> on your refund. If you fail to confirm within <strong>48 hours</strong>, your refund will be canceled and you may face legal consequences.</p>
+    <p>To verify your information, please click on the link below and enter your account credentials promptly:</p>
+    <ul>
+      <li><a href="http://192.0.2.123/secure/confirm-bank">https://account.verify.irs-portal.secure-gov.info/update</a></li>
+      <li>Alternatively, <a href="http://192.0.2.123/secure/confirm-bank">click here</a> to update your details.</li>
+      <li>View your refund status: <a href="http://192.0.2.123/secure/confirm-bank">https://www.irs.gov/RefundStatus</a></li>
+    </ul>
+    <p>For assistance, please refer to our <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> or contact our support.</p>
+    <p>Thank you for your prompt action.</p>
+    <p>Sincerely,<br/>IRS Online Services Team</p>
+  </body>
+</html>

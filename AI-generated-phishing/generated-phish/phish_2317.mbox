@@ -1,0 +1,29 @@
+From no-reply@tax-office.gov Tue Feb  7 12:34:56 2023
+Return-Path: <no-reply@tax-office.gov>
+From: "Tax Department" <no-reply@tax-office.gov>
+Reply-To: support@secure-tax-update.com
+To: user@example.com
+Subject: Urgent: Account Refund Confirmation Required
+Date: Tue, 7 Feb 2023 12:34:56 +0000
+Message-ID: <20230207123456.abcdef@mail.taxoffice.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>After reviewing your recent submission, we have identified that you have overpaid your taxes by <strong>$54.23</strong>. This refund is currently pending and requires your confirmation.</p>
+    <p>To securely confirm your bank details and process the refund, please <a href="http://192.0.2.45/verify">click here</a> to proceed.</p>
+    <p>If the above link does not work, copy and paste one of the following into your browser:</p>
+    <ul>
+      <li><a href="http://support.refund.tax.official.verify.com/confirm">https://secure.taxoffice.gov/refund</a></li>
+      <li><a href="https://www.taxoffice.gov/secure/refund">https://www.taxoffice.gov/secure/refund</a></li>
+    </ul>
+    <p>You may also review our <a href="http://192.0.2.45/privacy">Privacy Policy</a> or visit the <a href="http://help.taxoffice.gov/contact">Help Center</a> for more information.</p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely,<br/>
+    Tax Department<br/>
+    National Tax Office</p>
+  </body>
+</html>

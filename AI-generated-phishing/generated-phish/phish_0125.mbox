@@ -1,0 +1,21 @@
+```
+From nobody Sat Jan  1 00:00:00 2022
+From: "Gift Rewards" <promo@rewards-service.com>
+To: "valueduser@example.com" <valueduser@example.com>
+Subject: Urgent: Claim Your €500 Gift Card Now!
+Date: Sat, 1 Jan 2022 00:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Congratulations! You are eligible for a €500 gift card. To claim your reward, please <a href="http://malicious-domain.com/redeem" title="Click here to claim">click here</a> now. This offer is only available for a limited time and will expire soon.</p>
+    <a href="http://malicious-domain.com/redeem"><img src="http://images.promotions.online/images/giftcard.jpg" alt="Claim Your Gift Card"></a>
+    <p>For more details, visit our <a href="http://legitimate-privacy.com"><!-- Empty anchor text --></a>Privacy Policy.</p>
+    <p>We urge you to take action to avoid missing out on this exclusive offer.</p>
+    <p>Sincerely,<br>The Rewards Team</p>
+  </body>
+</html>
+```

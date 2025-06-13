@@ -1,0 +1,45 @@
+From no-reply@dhl-express.com Wed Jul 26 10:15:30 2023
+From: "DHL Express" <no-reply@dhl-express.com>
+Reply-To: support.team@delivery-alerts.net
+To: user@consumer.com
+Subject: Urgent: Delivery Notification for Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0001_12345678.abcdef123456"
+
+------=_Part_0001_12345678.abcdef123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted delivery of your package but were unable to complete it due to an address verification issue.
+
+Please confirm your details by visiting the link below:
+http://192.0.2.123/verify
+
+Alternatively, you can track your shipment at:
+https://dhl.com/track
+
+If the link above does not work, copy and paste this URL into your browser:
+http://203.0.113.5/confirm-shipment
+
+Kind regards,
+DHL Delivery Team
+
+------=_Part_0001_12345678.abcdef123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted delivery of your package but were unable to complete it due to an address verification issue.</p>
+    <p>To release your package, please verify your shipment by clicking <a href="http://192.0.2.123/verify">here</a>.</p>
+    <p>If the button above does not work, click <a href="http://203.0.113.5/update-shipment">https://dhl.com/update-shipment</a>.</p>
+    <p>You can also go to <a href="https://dhl.com/track">https://dhl.com/track</a> to track your shipment.</p>
+    <p>If you need help, visit our <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Kind regards,<br>DHL Delivery Team</p>
+  </body>
+</html>
+
+------=_Part_0001_12345678.abcdef123456--

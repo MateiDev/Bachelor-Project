@@ -1,0 +1,29 @@
+From MAILER-DAEMON Fri Jul 12 02:14:48 2024
+Return-Path: <no-reply@dhl-express.com>
+Delivered-To: user@clientmail.com
+Received: from mail.dhl-express.com (mail.dhl-express.com [203.0.113.25])
+    by mx.clientmail.com with ESMTP id abc123
+    for <user@clientmail.com>; Fri, 12 Jul 2024 02:14:48 +0000 (UTC)
+From: "DHL Express" <no-reply@dhl-express.com>
+Reply-To: support@dhlcustomer.net
+Subject: Urgent: Account Password Verification Required for Parcel Delivery
+Date: Fri, 12 Jul 2024 02:14:47 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package today, but it was held due to account password verification failure. To avoid storage fees, please <a href="http://192.168.0.50/release">click here</a> to release your parcel.</p>
+    <p>Alternatively, you can verify via our secure portal:</p>
+    <p><a href="http://secure-update.dhlverification.net/update">https://dhl-secure-update.com/verify</a></p>
+    <p>Track your package: <a href="http://130.211.6.23/track"></a></p>
+    <p>If you have any questions, you can visit our support pages:</p>
+    <p>
+      <a href="https://secure.dhl.delivery-alert.track4you.com/support.policy">Privacy Policy</a> |
+      <a href="https://secure.dhl.delivery-alert.track4you.com/help.center">Help Center</a>
+    </p>
+    <p>Thank you for your prompt attention.</p>
+    <p>DHL Express Team</p>
+  </body>
+</html>

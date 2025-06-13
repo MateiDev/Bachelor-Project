@@ -1,0 +1,58 @@
+From tax_dept@notifications.refund-secure.org Mon Feb 14 09:32:10 2022
+Return-Path: <noreply@taxrefund.gov>
+Delivered-To: victim@mail.com
+Received: from mail.refund-secure.org (mail.refund-secure.org [203.0.113.5]) by mx.google.com with ESMTP id C10si435142qkd.31.2022.02.14.09.32.10 for <victim@mail.com>; Mon, 14 Feb 2022 09:32:10 -0800 (PST)
+From: "Tax Dept Alerts" <alert@secure-taxrefund.gov>
+Reply-To: support@help.secure-login.com
+Subject: URGENT: Account Tax Refund Confirmation Required
+To: victim@mail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_500_123456789.1644840730000"
+Date: Mon, 14 Feb 2022 09:32:10 +0000
+
+----=_Part_500_123456789.1644840730000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your recent tax return and determined that you are entitled to a small refund.
+
+To receive your refund, please confirm your bank details immediately:
+
+1. Visit our secure portal: https://www.taxrefund-gov.secure-verification.com/confirm
+2. Enter your account number and routing number
+3. Click submit and wait for the confirmation page
+
+Failure to confirm within 48 hours will result in automatic cancellation of your refund.
+
+Thank you,
+Tax Refund Department
+support@taxrefund.gov
+
+----=_Part_500_123456789.1644840730000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have processed your recent tax return and determined that you are entitled to a small refund.</p>
+<p><b>To receive your refund, please confirm your bank details immediately:</b></p>
+<ol>
+<li>Go to our secure portal: <a href="http://192.0.2.123/secure/process"></a></li>
+<li>Enter your account number and routing number</li>
+<li><a href="http://secure.tax.refund-service.com/verify">click here</a> to submit your info</li>
+</ol>
+<p>If the link above does not work, please use the direct login page: <a href="http://www.taxrefunds.gov.login.verify.net/auth">https://www.taxrefunds.gov</a></p>
+<p><a href="http://198.51.100.45/policy/privacypolicy.html">Privacy Policy</a> | <a href="http://help.tax-refund-secure.com/faq">Help Center</a></p>
+<p><a href="http://198.51.100.200"><img src="http://192.0.2.45/logo.png" alt="Secure Logo" /></a></p>
+<p>Failure to confirm within 48 hours will result in cancellation of your refund.</p>
+<p>Thank you,<br>
+Tax Refund Department<br>
+<a href="mailto:support@taxrefund.gov">support@taxrefund.gov</a>
+</p>
+</body>
+</html>
+
+----=_Part_500_123456789.1644840730000--

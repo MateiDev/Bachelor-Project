@@ -1,0 +1,30 @@
+From support@bankservices.com Fri Jan 13 10:23:45 2023
+Return-Path: <support@bankservices.com>
+Delivered-To: user@domainmail.net
+Received: from mail.bankservices.com (mail.bankservices.com [203.0.113.10])
+    by mx.domainmail.net with ESMTP id abc123
+    for <user@domainmail.net>; Fri, 13 Jan 2023 10:23:45 +0000 (GMT)
+From: "Bank Support Team" <support@bankservices.com>
+Reply-To: support@secure-update.com
+To: user@domainmail.net
+Subject: URGENT: Verify Your Account to Claim Gift Voucher
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: Account Verification Required</title></head>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We are excited to let you know that you are eligible to receive a <strong>€100 voucher</strong> as part of our exclusive rewards program.</p>
+<p>To secure your voucher, please <a href="http://192.0.2.50/claimvoucher?user=12345">click here</a> to verify your account information immediately.</p>
+<p>Alternatively, you can redeem your voucher by visiting our secure portal: <a href="http://gift.secure-bank.login-services.net/redeem?token=abcde12345">Redeem Voucher</a></p>
+<p><a href="http://198.51.100.23/track.png"><img src="http://198.51.100.23/images/voucher.jpg" alt="Voucher Image" border="0"/></a></p>
+<p>If you have forgotten your credentials, please <a href="http://login.secure.bank.login-services.net/account/recovery">reset your password</a> immediately to avoid any interruption.</p>
+<hr>
+<p>
+Need assistance? View our <a href="https://bankservices.com/privacy-policy">Privacy Policy</a> or visit our <a href="https://bankservices.com/help">Help Center</a>.
+</p>
+<p>Best Regards,<br/>Bank Support Team</p>
+</body>
+</html>

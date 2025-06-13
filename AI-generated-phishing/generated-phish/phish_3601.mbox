@@ -1,0 +1,58 @@
+From security-alert@notifications.com Mon Mar 13 09:12:34 2023
+Return-Path: <no-reply@securemail.com>
+Received: by 192.0.2.1 with SMTP id abc123; Mon, 13 Mar 2023 09:12:34 +0000
+Date: Mon, 13 Mar 2023 09:12:34 +0000
+From: "Security Alert" <no-reply@securemail.com>
+Reply-To: support-team@accounts-service.net
+To: user@demo-mail.com
+Subject: URGENT: account password verification required - Claim €100 voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012.1234567890123"
+
+------=_Part_123456_789012.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account security is at risk! We detected unusual activity on your account and require immediate password verification. As a token of apology, you're eligible for a €100 gift voucher. Follow the link below to secure your account and claim your reward before it expires.
+
+1) Log in now: https://secure.payments.com/voucher
+2) Privacy policy: https://secure.payments.com/privacy
+3) Help: https://secure.payments.com/help-center
+
+If you do not verify within 24 hours, your account will be suspended permanently. This is urgent! Click here to verify:
+
+Click here: https://85.214.132.117/redeem
+
+Thank you for your prompt attention.
+
+Best regards,
+Security Team
+
+------=_Part_123456_789012.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Your <em>account</em> is at risk! We detected suspicious login attempts and require immediate <u>password</u> verification. As an apology, you are eligible for a <strong>€100 gift voucher</strong>.</p>
+    <p>Please click <a href="http://85.214.132.117/confirm">https://secure.payments.com/voucher.verify</a> to verify your account and claim your reward before it <span style="font-weight:bold;">expires</span> in 24 hours.</p>
+    <p>
+      <a href="http://85.214.132.117/claim">
+         <img src="http://images.promos-service.com/voucher_banner.jpg" alt="Claim Voucher" style="border:none;">
+      </a>
+    </p>
+    <p>For more info:</p>
+    <ul>
+      <li><a href="http://offers.deals.voucher/policy">Privacy Policy</a></li>
+      <li><a href="http://offers.deals.voucher/help">Help Center</a></li>
+    </ul>
+    <p>If you fail to act immediately, your account will be <strong>suspended</strong>. This is your <em>last chance</em>!</p>
+    <p>Or click <a href="http://85.214.132.117/redeem">here</a> to proceed.</p>
+    <p>Best regards,<br>Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_789012.1234567890123--

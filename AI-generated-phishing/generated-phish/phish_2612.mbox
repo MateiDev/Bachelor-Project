@@ -1,0 +1,67 @@
+```mbox
+From john.service.alert@example.com Sat Oct 14 09:30:00 2023
+Received: from mail01.example.com ([192.0.2.45])
+    by mx.example.com with ESMTP id m123456789qwe;
+    Sat, 14 Oct 2023 09:30:00 -0500 (CDT)
+Date: Sat, 14 Oct 2023 09:30:00 -0500
+From: "Service Alert" <john.service.alert@example.com>
+To: victim@example.com
+Subject: Urgent: Unusual sign-in detected – Verify Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_112233_44556677.1234567890"
+
+------=_Part_112233_44556677.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual sign-in activity on your account. To protect your information, immediate action is required:
+
+- Your password expires today. Click the link below to reset it now:
+  http://192.0.2.100/reset
+
+- Review the details of your recent activity here:
+  http://192.0.2.100/activity
+  http://192.0.2.100/verify
+
+Failing to take action may result in account suspension.
+
+Please ensure your account security by verifying your information today.
+
+Regards,
+Account Security Team
+
+------=_Part_112233_44556677.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <b>unusual sign-in activity</b> on your account. To protect your information, immediate action is required:</p>
+
+<ul>
+<li>Your password expires today. Click the link below to reset it now:<br />
+<a href="http://192.0.2.100/reset" target="_blank">Reset Password</a></li>
+
+<li>Review the details of your recent activity <a href="http://192.0.2.100/activity" target="_blank">here</a>.</li>
+<li>Verify your information <a href="http://192.0.2.100/verify" target="_blank">here</a>.</li>
+</ul>
+
+<p><img src="http://192.0.2.101/logo.png" alt="Secure Logo" /></p>
+
+<p>Failing to take action may result in account suspension.</p>
+<p>Please ensure your account security by verifying your information today.</p>
+
+<p>Regards,<br />
+Account Security Team</p>
+
+<p><a href="http://www.example.com/privacy-policy" target="_blank">Privacy Policy</a></p>
+
+</body>
+</html>
+
+------=_Part_112233_44556677.1234567890--
+```

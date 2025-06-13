@@ -1,0 +1,42 @@
+```mbox
+From phishing@example.com Sat Oct 14 10:10:00 2023
+Return-Path: <phishing@example.com>
+Delivered-To: victim@example.com
+Received: from ip-172-31-94-52.ec2.internal ([172.31.94.52])
+        by mail.example.com with ESMTP id l33JMMbG031299
+        for <victim@example.com>; Sat, 14 Oct 2023 10:10:00 -0400 (EDT)
+Date: Sat, 14 Oct 2023 10:10:00 -0400
+From: "Support Team" <support@example.com>
+To: victim@example.com
+Subject: Urgent: Immediate Action Required for Your Account Security
+Content-Type: multipart/alternative; boundary="0000000000000b7a7c05c9430d37"
+
+--0000000000000b7a7c05c9430d37
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your account. Immediate verification is required to ensure your account's security. Please visit the link below to login and verify your details:
+
+http://192.168.1.1/login
+
+Thank you,
+Support Team
+
+--0000000000000b7a7c05c9430d37
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity on your account. Immediate verification is required to ensure your account's security. Please visit the link below to login and verify your details:</p>
+    <p><a href="http://192.168.1.1/login"></a></p>
+    <p><a href="http://security-alert.example.com.invalid/login"> </a></p>
+    <p>If the above link is not working, please use this alternative link:</p>
+    <p><a href="http://alert.example.com.security.account/login"> </a></p>
+    <p>Thank you,<br>Support Team</p>
+  </body>
+</html>
+
+--0000000000000b7a7c05c9430d37--
+```

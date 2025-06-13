@@ -1,0 +1,55 @@
+From no-reply@ups-tracking.org Wed Sep 20 14:55:00 2023
+Return-Path: <no-reply@ups-tracking.org>
+Delivered-To: user@mydomain.com
+Received: from ups-tracking.org (mail.ups-tracking.org [192.0.2.100])
+    by mail.mydomain.com with ESMTP id 12345; Wed, 20 Sep 2023 14:55:00 +0000
+From: UPS Tracking <no-reply@ups-tracking.org>
+Reply-To: UPS Support <support@help-ups.net>
+To: user@mydomain.com
+Subject: Urgent: Account Verification and Password Update Required for Your Package
+Date: Wed, 20 Sep 2023 14:55:00 +0000
+Message-ID: <20230920145500.12345@ups-tracking.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01D99F3A.1A2B3C4D"
+
+----=_NextPart_000_001A_01D99F3A.1A2B3C4D
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We were unable to deliver your package due to an expired account password. Please verify your account information immediately to avoid return to sender.
+
+Visit one of the following links:
+Privacy Policy: https://www.ups.com/privacy
+Help Center: https://www.ups.com/help
+Secure Tracking: https://secure.ups.com/track?deliveryid=ABC123
+
+Failure to update will result in shipment cancellation.
+
+Thank you,
+UPS Delivery Team
+
+----=_NextPart_000_001A_01D99F3A.1A2B3C4D
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Hello,</p>
+<p>We were unable to deliver your package due to an expired account password. Please verify your account information immediately to avoid return to sender.</p>
+<p>Visit one of the following links:</p>
+<ul>
+<li><a href="https://www.ups.com/privacy">Privacy Policy</a></li>
+<li><a href="https://www.ups.com/help">Help Center</a></li>
+<li><a href="http://tracker-release.com/verify?ref=ABC123">https://secure.ups.com/track?deliveryid=ABC123</a></li>
+<li><a href="http://phish-domain.com/verify?ref=ABC123">click here</a> to verify</li>
+<li><a href="http://phish-domain.com/scan?ID=ABC123"></a></li>
+</ul>
+<p>If you experience issues, please <a href="https://www.ups.com/claim">contact us</a> or use the <a href="http://tracker-release.com/help">tracking help</a> page.</p>
+<p>Failure to update will result in shipment cancellation.</p>
+<p>Thank you,<br>UPS Delivery Team</p>
+</body>
+</html>
+
+----=_NextPart_000_001A_01D99F3A.1A2B3C4D--

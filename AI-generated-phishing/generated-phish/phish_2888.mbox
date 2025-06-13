@@ -1,0 +1,52 @@
+```mbox
+From john.doe@securemailer.com Thu Oct 12 14:26:03 2023
+Return-Path: <john.doe@securemailer.com>
+Received: from suspicioussite.com (192.168.0.1) by victimserver.com with SMTP;
+    Thu, 12 Oct 2023 14:26:03 -0400
+Date: Thu, 12 Oct 2023 18:26:03 +0000
+From: "Security Alert" <no-reply@securemailer.com>
+Reply-To: urgent-update@malicious.com
+Subject: Urgent Action Required: Verify Your Account Now
+To: victim@victimemail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123456"
+
+--boundary123456
+Content-Type: text/plain; charset=UTF-8
+
+Dear User,
+
+We detected unusual sign-in activity on your account. To ensure your safety and maintain account status, please verify your account immediately. 
+
+Visit the link below to confirm your activity:
+http://192.0.2.1/update
+
+Failure to verify will lead to account suspension.
+
+Thank you,
+Account Security Team
+
+Helpful Resources:
+Privacy Policy: http://securemail.com/privacy-policy
+Help: http://securemail.com/help
+
+--boundary123456
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected unusual sign-in activity on your account. To ensure your safety and maintain account status, please verify your account immediately.</p>
+    <p>Visit the link below to confirm your activity:</p>
+    <a href="http://192.0.2.1/update">http://securemail.com/update</a>
+    <p>Failure to verify will lead to account suspension.</p>
+    <p>Thank you,<br>Account Security Team</p>
+    
+    <p>Helpful Resources:</p>
+    <a href="">Privacy Policy</a>
+    <a href="http://securemail.com/help">Help</a>
+  </body>
+</html>
+
+--boundary123456--
+```

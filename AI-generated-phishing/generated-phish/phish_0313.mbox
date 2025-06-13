@@ -1,0 +1,55 @@
+```mbox
+From fake@support-portal-secure.com Thu Oct 19 14:22:38 2023
+Return-Path: <fake@support-portal-secure.com>
+Received: from [192.0.2.1] by yourdomain.com with ESMTP; Thu, 19 Oct 2023 14:22:38 +0000
+Date: Thu, 19 Oct 2023 14:22:38 +0000
+From: Portal Security <fake@support-portal-secure.com>
+Reply-To: support@secureportal.com
+To: victim@yourdomain.com
+Message-ID: <20231019142238.1234567890@fake.support-portal-secure.com>
+Subject: Urgent: Verify Your Account Security Notice
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="---=_Part_123456_7890123456.7890123456789"
+
+-----=_Part_123456_7890123456.7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. Please verify your identity immediately by following the link below:
+
+[Empty visible text that conceals URL]
+
+If you did not initiate this request, please contact our support team.
+
+Thank you,
+Portal Security Team
+
+-----=_Part_123456_7890123456.7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<link href="https://legit-portal.com/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<p>Dear User,</p>
+<p>We have detected suspicious activity on your account. Please verify your identity immediately by clicking <a href="http://192.0.2.2/verification.html">here</a>.</p>
+
+<table>
+<tr>
+<td>
+   <a href="http://192.0.2.3/login"><img src="http://192.0.2.4/button.png" alt="Verify Now"></a>
+</td>
+</tr>
+</table>
+<p>If you did not initiate this request, please contact our <a href="https://legit-portal.com/support">support team</a>.</p>
+<p>Thank you,<br>Portal Security Team</p>
+</body>
+</html>
+
+-----=_Part_123456_7890123456.7890123456789--
+```

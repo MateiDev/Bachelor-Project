@@ -1,0 +1,40 @@
+From rewards@company.com Tue Feb 20 10:00:00 2024
+From: "Rewards Department" <rewards@company.com>
+Reply-To: support-security@secure-update.company.security.net
+To: user@victim.com
+Subject: Urgent: Account Reward €50 Voucher - Action Required
+Date: Tue, 20 Feb 2024 10:00:00 +0000
+Message-ID: <1234567890@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1700000000000"
+
+------=_Part_123456_789012345.1700000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your €50 voucher is awaiting activation. To claim your reward, visit:
+http://192.0.2.123/claim?session=xyz
+
+This is an urgent notice and will expire soon. If you did not request this, contact support immediately.
+
+Privacy Policy: https://www.company.com/privacy-policy.html
+
+------=_Part_123456_789012345.1700000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Reward €50 Voucher</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We are pleased to inform you that you are eligible for a <strong>€50 voucher</strong>. This is an <em>urgent</em> offer and will <u>expire</u> if not claimed.</p>
+<p>To activate your reward, please <a href="http://192.0.2.123/claim?session=xyz">click here</a> now!</p>
+<p>To secure your voucher, please log into your account at <a href="http://198.51.100.77/login">https://secure.company-bank.com/login</a>.</p>
+<p>View your voucher image: <a href="http://203.0.113.45/voucher.png"><img src="http://203.0.113.45/images/voucher.png" alt="Your Voucher"></a></p>
+<p>For more information, see our <a href="https://www.company.com/privacy-policy.html">Privacy Policy</a> or <a href="http://malicious.evil-domain.offer/empty"></a>.</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.1700000000000--

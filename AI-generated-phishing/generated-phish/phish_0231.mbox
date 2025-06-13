@@ -1,0 +1,32 @@
+From phishing@fakeservice.com Fri Mar 11 20:34:22 2023  
+Return-Path: <phishing@fakeservice.com>  
+Received: from unknown (HELO mail.fakeservice.com) (192.0.2.1)  
+          by mail.example.com with SMTP; Fri, 11 Mar 2023 20:34:22 -0000  
+Date: Fri, 11 Mar 2023 20:34:22 +0000  
+From: Fakeservice Support <support@fakeservice.com>  
+Reply-To: support@fakeservice.com  
+Subject: Urgent: Action Required on Your Account  
+To: victim@example.com  
+
+Dear User,
+
+We have detected unusual activity in your account that requires immediate attention. As a precaution, we need you to verify your identity to prevent any unauthorized access.
+
+**Please login to your account using the link below to resolve this issue now:**  
+
+[Verify Account](http://secure-login.fakeservice.com.update.info.account.security-check.com)  
+
+Failure to verify your account within 24 hours will result in limited access to your services.   
+
+For your reference, please view these important links:  
+- [Privacy Policy](http://www.example.com/legal/privacy-policy)  
+- [Help Center](http://www.example.com/support/help-center)  
+
+Avoid any interruption by verifying immediately.  
+
+Thank you for your prompt attention to this urgent matter.  
+
+Best regards,  
+Fakeservice Support Team  
+
+**Note:** This message was sent to you by Fakeservice.com for full account verification. Please disregard if you have already verified your account.

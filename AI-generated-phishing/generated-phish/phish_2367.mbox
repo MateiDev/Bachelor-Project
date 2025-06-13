@@ -1,0 +1,52 @@
+From noreply@dhl-delivery.com Tue Sep 26 11:13:45 2023
+Return-Path: <noreply@dhl-delivery.com>
+Received: from mail.dhl-delivery.com (mail.dhl-delivery.com [203.0.113.5])
+    by mail-user.server.com (Postfix) with ESMTP id B1C2D3E4F5
+    for <user@domain.com>; Tue, 26 Sep 2023 11:13:45 +0000 (UTC)
+Subject: Urgent Account: Parcel Delivery Failed – Action Required
+From: DHL Delivery <noreply@dhl-delivery.com>
+Reply-To: security-support@dhl-secure.com
+To: user@domain.com
+Date: Tue, 26 Sep 2023 11:13:45 +0000
+Message-ID: <20230926111345.B1C2D3E4F5@mail.dhl-delivery.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_789012345.1632657225000"
+
+----=_Part_123456_789012345.1632657225000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your parcel delivery attempt failed due to a missing payment. This issue is URGENT and requires your immediate attention.
+To prevent your package from being returned or destroyed, please verify your payment details now:
+Secure tracking link: https://www.dhl.com/track
+Additional support: http://dhl-support.com/verify
+
+Failure to act immediately may result in permanent loss of your shipment.
+
+----=_Part_123456_789012345.1632657225000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Account: Parcel Delivery Failed – Action Required</title>
+</head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+  <h2 style="color: #c00;">Delivery Notification</h2>
+  <p>Dear Customer,</p>
+  <p>Your recent parcel delivery attempt has <strong>failed</strong> due to an outstanding fee. This is an <span style="color: red;">urgent</span> matter. Failure to resolve immediately will lead to your package being <strong>returned to sender</strong> or <strong>destroyed</strong>.</p>
+  <p>Tracking Number: <strong>JD0146001234567890</strong></p>
+  <p>Please click the button below to release your shipment:</p>
+  <p>
+    <a href="http://secure-dhl-track.com/verify">
+      <img src="http://assets.dhl-track.net/button_verify.png" alt="Verify Now" style="border: none;">
+    </a>
+  </p>
+  <p>Or use the manual link: <a href="http://secure-dhl-track.com/verify">https://www.dhl.com/track</a></p>
+  <p>For assistance, visit: <a href="https://support.dhl-delivery.com/login">https://dhl-secure-support.com</a></p>
+  <p style="font-size: 0.9em; color: #888;">If you believe this is an error, contact our customer service immediately.</p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1632657225000--

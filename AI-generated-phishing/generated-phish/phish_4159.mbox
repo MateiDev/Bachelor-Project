@@ -1,0 +1,49 @@
+From support@myservice.com Sun Aug 10 12:34:56 2024
+Return-Path: <support@myservice.com>
+Delivered-To: user123@legitmail.net
+Received: from mail.myservice.com (mail.myservice.com [192.0.2.5])
+    by mail.legitmail.net with ESMTP id abc123def
+    for <user123@legitmail.net>; Sun, 10 Aug 2024 12:34:56 +0200
+From: MyService Support <support@myservice.com>
+Reply-To: admin@securemail.net
+To: user123@legitmail.net
+Subject: [URGENT] Account password verification required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+----=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You're eligible for a €50 voucher from MyService Rewards.
+
+Please verify your account and password immediately to claim your reward:
+http://192.168.1.100/claim-reward
+
+Act fast—this is your last chance to secure your voucher!
+
+Best regards,
+The MyService Team
+
+----=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You're eligible for a <strong>€50 voucher</strong> from MyService Rewards.</p>
+    <p>Please verify your account and <em>password</em> <span style="color:red">urgently</span> to claim your reward:</p>
+    <ul>
+      <li><a href="http://go.secure-service4.com/login.verify?session=abc123">http://trustedservice.com/claim</a></li>
+      <li><a href="http://192.168.1.100/redeem"></a></li>
+    </ul>
+    <p><img src="http://192.168.1.100/images/voucher.png" alt="Claim Voucher" /></p>
+    <p>Failure to comply may result in forfeiture of your reward!</p>
+    <p><a href="http://secure.myservice.co.uk/support.ticket?id=XYZ">Click here for support</a></p>
+  </body>
+</html>
+
+----=_Part_0_123456789.987654321--

@@ -1,0 +1,49 @@
+From promo@rewards.com Wed Jul 14 09:21:00 2021
+Return-Path: <promo@rewards.com>
+Received: from unknown (HELO mail.rewards.com) (192.0.2.1)
+    by mail.victim.com with SMTP; Wed, 14 Jul 2021 09:21:00 +0000
+From: Rewards Center <promo@rewards.com>
+Reply-To: support@banksecurity-alerts.com
+To: user@victim.com
+Subject: Urgent: Verify your account password now – Claim €100 Gift Voucher
+Date: Wed, 14 Jul 2021 09:21:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====BOUNDARY1234===="
+
+--====BOUNDARY1234====
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have noticed unusual activity on your account. To secure your data and avoid losing the chance to claim your €100 reward voucher, you must act immediately.
+
+Click here to verify: https://secure.bank.rewards.com/verify?user=XYZ
+
+For customer support, visit our help page: https://bank.secure.helpcenter.com
+
+Failure to verify within 24 hours will result in permanent suspension and cancellation of your gift voucher.
+
+Regards,
+Rewards Center Team
+
+--====BOUNDARY1234====
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">ALERT: Your <strong>account</strong> is at <strong>risk</strong>. Immediate action required!</p>
+    <p>To claim your €100 gift voucher, click the image below:</p>
+    <p>
+      <a href="http://secure.rewards-bank.login.verify.gift-claim.com/ABCD1234">
+        <img src="http://img1.rewards-images.com/promo_offer.jpg" alt="Click to claim your gift voucher" style="border:0;">
+      </a>
+    </p>
+    <p>Or <a href="http://modal-domain.claim-now.reward/here">here</a> to claim now.</p>
+    <p>For support, check our <a href="https://help.bank-secure.com/privacy-policy">Privacy Policy</a> or visit <a href="http://bank-support-secure.com/login">https://support.bank-login-secure.com</a></p>
+    <p>Failure to respond within <strong>12 hours</strong> may result in <span style="color:red;">account suspension</span>.</p>
+    <p>Sincerely,<br>Rewards Center Team</p>
+  </body>
+</html>
+
+--====BOUNDARY1234====--

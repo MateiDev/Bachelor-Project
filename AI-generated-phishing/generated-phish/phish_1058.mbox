@@ -1,0 +1,47 @@
+From spoofed@yourbank.com Mon Jun 24 10:05:30 2024
+Return-Path: <spoofed@yourbank.com>
+Received: from [192.0.2.1] (unknown [192.0.2.1])
+	by mail.yourbank.com (Postfix) with SMTP id 4F3A5123C1
+	for <user@domain.com>; Mon, 24 Jun 2024 10:05:30 -0400 (EDT)
+From: "YourBank Security Alert" <security@yourbank.com>
+To: user@domain.com
+Subject: Urgent: Account Password Verification Required
+Date: Mon, 24 Jun 2024 10:05:30 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif; background-color:#f9f9f9; margin:0; padding:20px;">
+    <table width="600" align="center" cellpadding="0" cellspacing="0" style="background-color:#ffffff; border:1px solid #dddddd;">
+      <tr>
+        <td style="padding:20px; text-align:center;">
+          <a href="http://198.51.100.23/welcome">
+            <img src="http://198.51.100.23/assets/logo.png" alt="YourBank Logo" width="150" style="border:0;">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:20px; color:#333333;">
+          <h2 style="color:#d9534f;">Security Alert: Immediate Action Required</h2>
+          <p>Dear Customer,</p>
+          <p>We have detected suspicious activity on your account and your password may be compromised. To prevent your account from being <strong>suspended</strong> or <strong>blocked</strong>, you must verify your credentials within the next 24 hours.</p>
+          <p style="margin:30px 0; text-align:center;">
+            <a href="http://192.0.2.123/verify" style="display:inline-block; padding:12px 20px; background-color:#d9534f; color:#ffffff; text-decoration:none; font-weight:bold;">
+              Verify Now
+            </a>
+          </p>
+          <p>If the button above does not work, please <a href="http://203.0.113.45/login">click here</a> to update your password immediately.</p>
+          <p>For your reference, your secure login portal is <a href="http://secure.portal.verify.loginuser.com/">https://secure.yourbank.com</a>.</p>
+          <p>We take your security seriously. Failure to comply may result in account restrictions.</p>
+          <p>Thank you,<br>YourBank Security Team</p>
+        </td>
+      </tr>
+      <tr>
+        <td style="background-color:#f0f0f0; padding:15px; font-size:12px; color:#666666; text-align:center;">
+          <p>If you have questions, visit our <a href="http://secure.portal.verify.loginuser.com/help">http://help.yourbank.com</a> or review our <a href="http://203.0.113.45/privacy.html">Privacy Policy</a>.</p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

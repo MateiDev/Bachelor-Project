@@ -1,0 +1,42 @@
+```mbox
+From fraud-notice@securemail.com Tue Oct 10 12:34:56 2023
+Received: from unknown (HELO secure-server.com) (192.168.1.1)
+  by mail.fakeprovider.com with SMTP; Tue, 10 Oct 2023 12:34:56 -0500
+Date: Tue, 10 Oct 2023 12:34:56 -0500
+From: security-updates@securemail.com
+To: victim@example.com
+Subject: Urgent Account Security Notice
+Reply-To: noreply@fakeprovider-alert.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="0000000000"
+
+--0000000000
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+Your account has been flagged for suspicious activity. Please verify your credentials immediately to avoid account suspension.
+
+Click the link below to secure your account:
+http://secure-update.com/login
+
+Thank you,
+Secure Mail Team
+
+--0000000000
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>Your account has been flagged for suspicious activity. Please verify your credentials immediately to avoid account suspension.</p>
+    <p>Click the link below to secure your account:</p>
+    <a href="http://192.168.2.3/account/login"><b></b></a>
+    <p>Thank you,</p>
+    <p>Secure Mail Team</p>
+  </body>
+</html>
+
+--0000000000--
+```

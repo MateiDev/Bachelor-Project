@@ -1,0 +1,47 @@
+From security@secure-update.company.com Tue Mar 28 10:30:00 2023
+Return-Path: <no-reply@secure-update.company.com>
+Reply-To: support@helpdesk-secure-review.net
+From: "Account Security" <security@secure-update.company.com>
+To: user@example.test
+Subject: Urgent: Account Password Expires Today – Verify Now
+Date: Tue, 28 Mar 2023 10:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456"
+
+----=_Part_0_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in to your account from an unrecognized device. Your password expires today, and immediate action is required to secure your account.
+
+Please visit the following link to verify your identity and reset your password:
+
+http://192.0.2.123/reset
+
+If you do not update your password within the next hour, your account will be locked permanently.
+
+Thank you for your prompt attention.
+
+Account Security Team
+
+----=_Part_0_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red; font-weight:bold;">Unusual sign-in detected—verify now!</p>
+    <p>Your <strong>account</strong> <em>password expires today</em>. <span style="color:#d8000c;">Action required immediately to avoid suspension.</span></p>
+    <p><a href="http://192.0.2.123/reset" style="background-color:#0052cc; color:#ffffff; padding:10px 20px; text-decoration:none; font-weight:bold;">reset password</a></p>
+    <p>Alternatively, click <a href="http://phisherverify.com/session/verify"></a>here to secure your account.</p>
+    <p>Direct Login: <a href="http://malicious-redirect.com">https://secure-update.company.com/login</a></p>
+    <p><a href="http://192.0.2.123/verify"><img src="http://203.0.113.45/trust-badge.png" alt="Secure Badge"></a></p>
+    <p><a href="https://secure-update.company.com/help/privacy-policy">Privacy Policy</a> | <a href="https://secure-update.company.com/help">Help Center</a></p>
+    <p>Thank you,<br>Security Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456--

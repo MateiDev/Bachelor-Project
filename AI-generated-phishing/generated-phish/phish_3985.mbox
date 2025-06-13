@@ -1,0 +1,57 @@
+From phishing@rewards.com Thu Jun 20 10:15:30 2024
+Return-Path: <phishing@rewards.com>
+Received: from mail.rewards.com (192.0.2.50) by inbound.mailserver.com with ESMTP id AB123456; Thu, 20 Jun 2024 10:15:30 +0000
+Date: Thu, 20 Jun 2024 10:15:30 +0000
+From: "Rewards Team" <service@rewards.com>
+Reply-To: <support@helpdesk.rewards-support.net>
+To: victimuser@gmail.com
+Subject: Urgent: Verify your account password now to claim your €50 voucher
+Message-ID: <20240620101530.AB123456@mail.rewards.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1592604930254"
+
+----=_Part_0_123456789.1592604930254
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account has been selected for an exclusive €50 voucher! Act now and claim your reward before it's too late.
+
+To claim your voucher, click here:
+http://198.51.100.25/claim?code=ABCD1234
+
+For our privacy terms, see:
+http://trusted-bank.com/security
+
+Thank you,
+Rewards Team
+
+----=_Part_0_123456789.1592604930254
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear valued user,</p>
+    <p style="color:red;font-weight:bold;">Immediate action required! Your <strong>account</strong> is pending activation.</p>
+    <p>You are eligible for a <strong>€50 voucher</strong>. Claim it now before it's gone!</p>
+    <p>
+      <a href="http://198.51.100.25/claim?code=ABCD1234">
+        <img src="http://203.0.113.50/images/voucher.png" alt="Voucher" style="border:0;">
+      </a>
+    </p>
+    <p style="display:none;">
+      <a href="http://192.0.2.10/login.v2.php?user=abc"></a>
+    </p>
+    <p>
+      For support, <a href="http://198.51.100.25/privacy">click here</a>.
+    </p>
+    <p>
+      Our secure portal: <a href="http://198.51.100.25/login">http://trusted-bank.com/security</a>
+    </p>
+    <p>— Rewards Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456789.1592604930254--

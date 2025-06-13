@@ -1,0 +1,55 @@
+From newsletter@promo-shop.rewards.net Wed Jul 21 12:34:56 2021
+Return-Path: <newsletter@promo-shop.rewards.net>
+Delivered-To: user@mail.com
+Received: from mail.promo-shop.rewards.net (mail.promo-shop.rewards.net [198.51.100.42])
+    by mail.gateway.local (Cyrus v2.5) with ESMTP id 1234567890
+    for <user@mail.com>; Wed, 21 Jul 2021 12:34:56 +0000
+From: "Reward Center" <newsletter@promo-shop.rewards.net>
+To: user@mail.com
+Subject: URGENT: Account Password Verification Required for €50 Voucher
+Message-ID: <20210721123456.newsletter@promo-shop.rewards.net>
+Date: Wed, 21 Jul 2021 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====Boundary_1234567890===="
+
+--====Boundary_1234567890====
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Congratulations! You're eligible for a €50 voucher. To claim your reward, please verify your account password immediately by visiting:
+
+https://promo.shop.rewards.com/claim?voucher=50
+
+If you do not verify within 24 hours, the offer will expire and your reward will be forfeited.
+
+Thank you,
+Rewards Team
+
+--====Boundary_1234567890====
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: Account Password Verification</title></head>
+<body>
+  <p>Hello,</p>
+  <p>Congratulations! You&#39;re eligible for a <strong>€50 voucher</strong>. To claim your reward, please verify your <em>account password</em> now by clicking the link below:</p>
+  <p>
+    <a href="https://promo.shop.rewards.com/claim?voucher=50">https://promo.shop.rewards.com/claim?voucher=50</a>
+  </p>
+  <p>Quick verify: 
+    <a href="https://malicious.site/steal">https://accounts.secure-bank.com/login</a>
+  </p>
+  <p>Or <a href="https://malicious.phishingsite.bad/verify?session=ABC123&amp;uid=789">click here</a> to confirm.</p>
+  <p>Privacy: <a href="https://support.helpdesk.net/privacy">privacy policy</a></p>
+  <p>Help: <a href="https://support.helpdesk.net/help">help center</a></p>
+  <p>If link fails:<br/>
+    <a href="https://promo.shop.rewards.com/claim?voucher=50"></a>
+  </p>
+  <p>Thank you,<br/>Rewards Team</p>
+</body>
+</html>
+
+--====Boundary_1234567890====--

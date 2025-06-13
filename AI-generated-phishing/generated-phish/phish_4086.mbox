@@ -1,0 +1,54 @@
+From support@securecorp.com Tue Nov 28 18:54:14 2023
+Return-Path: <support@securecorp.com>
+Received: from mail.securecorp.com (mail.securecorp.com [203.0.113.10])
+    by securecorp.com (Postfix) with ESMTP id ABC123DEF
+    for <user@domain.com>; Tue, 28 Nov 2023 18:54:14 +0000 (UTC)
+Date: Tue, 28 Nov 2023 18:54:14 +0000
+From: "SecureCorp Support Team" <support@securecorp.com>
+Reply-To: admin@maliciousdomain.net
+To: user@domain.com
+Subject: Urgent: Account Password Expiration Notification
+Message-ID: <20231128185414.ABC123DEF@mail.securecorp.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1606594541439"
+
+------=_Part_123456_789012345.1606594541439
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Unusual sign-in detected on your account. Your password expires today. Please verify your credentials immediately:
+
+https://secure-login.securecorp.com/verify
+
+Thank you,
+SecureCorp Support Team
+
+------=_Part_123456_789012345.1606594541439
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;"><strong>Unusual sign-in detected—verify now!</strong></p>
+    <p>Your <a href="http://phishingsite.net/login">https://secure-login.securecorp.com</a> password expires today – reset immediately to avoid suspension of your account.</p>
+    <p>
+      <a href="http://127.0.0.1/verify"></a>
+      <a href="http://203.0.113.50/reset-password" style="display:inline-block;padding:10px 20px;background-color:#007bff;color:#fff;text-decoration:none;border-radius:4px;">click here</a>
+    </p>
+    <p>
+      <a href="http://192.0.2.123/confirm">here</a> to secure your access.
+    </p>
+    <p>
+      <a href="https://securecorp.com/help">help</a> |
+      <a href="https://securecorp.com/privacy-policy">privacy-policy</a>
+    </p>
+    <p>
+      <a href="http://malicious-site.net/login"><img src="https://securecorp.com/assets/logo.png" alt="SecureCorp Logo" width="120" border="0"></a>
+    </p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1606594541439--

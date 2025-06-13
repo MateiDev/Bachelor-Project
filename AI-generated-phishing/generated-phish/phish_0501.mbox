@@ -1,0 +1,52 @@
+From alerts@secure-portal.com Tue Jun 20 08:15:30 2023
+Return-Path: <alerts@secure-portal.com>
+Delivered-To: user@victim.com
+Received: by mail.secure-portal.com id abcd1234; Tue, 20 Jun 2023 08:15:30 -0400
+Date: Tue, 20 Jun 2023 08:15:30 -0400
+From: "Secure Portal Alerts" <alerts@secure-portal.com>
+Reply-To: support@portal-security.com
+To: user@victim.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected unusual activity on your account. You must verify your password immediately to avoid suspension.
+
+Visit the link below:
+https://secure.mailcorp.com/verify
+
+Thank you,
+Secure Portal Alerts
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We detected unusual activity on your account. You must verify your password immediately to avoid suspension.</p>
+<p>
+  <a href="http://192.0.2.123/verify"><img src="https://secure-portal.com/images/verify.png" alt="Verify Account" /></a>
+</p>
+<p>
+  Or click here:
+  <a href="https://mailverify.attacker.com/login">https://secure.mailcorp.com/verify</a>
+</p>
+<p>
+  Need help? <a href="http://203.0.113.45/support"></a>
+</p>
+<p>Thank you,<br/>Secure Portal Alerts</p>
+</body>
+</html>
+
+----=_NextPart_000_0000--

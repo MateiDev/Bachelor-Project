@@ -1,0 +1,27 @@
+From MAILER-DAEMON Mon Jan 14 13:27:00 2024
+Return-Path: <service@paypal.com>
+Received: from mailserver.paypal.com (mailserver.paypal.com [198.51.100.23])
+    by mail.domain.com with ESMTP id ABC123;
+    Mon, 14 Jan 2024 13:27:00 +0000
+Message-ID: <CALYqtG9Nr=2Fg1@mail.paypal.com>
+Date: Mon, 14 Jan 2024 13:27:00 +0000
+From: PayPal Security <service@paypal.com>
+To: victim@domain.com
+Subject: Urgent: Account Password Verification Required
+Reply-To: security@paypal-support.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity in your account and require you to verify your password to ensure uninterrupted access. Please <a href="http://192.0.2.123/verify?session=abc123">click here</a> to confirm your credentials immediately.</p>
+    <p>You may also use the link below:</p>
+    <p><a href="http://login.paypal.secure.validation.service.com/12345"><img src="http://203.0.113.45/images/paypal_header.jpg" alt="PayPal Security Center"></a></p>
+    <p>If you have any questions, feel free to visit our <a href="https://www.paypal.com/myaccount/help">Help Center</a> or review our <a href="https://www.paypal.com/myaccount/privacy">Privacy Policy</a>.</p>
+    <p>Failure to verify within 24 hours may result in account suspension.</p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely,<br>PayPal Security Team</p>
+  </body>
+</html>

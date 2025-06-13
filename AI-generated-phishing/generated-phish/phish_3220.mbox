@@ -1,0 +1,55 @@
+From security@bank.com Sat Aug 26 14:00:00 2023
+To: user@domain.com
+Subject: URGENT: Account Password Expiring Today – Verify Immediately
+Reply-To: support@legitcorp.com
+Message-ID: <20230826140000.98765@bank.com>
+Date: Sat, 26 Aug 2023 14:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1693072800000"
+
+----=_Part_123456_789012345.1693072800000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in on your account. Your password EXPIRES TODAY.
+Reset immediately to avoid SUSPENSION.
+
+Reset now: http://secure.bank.login.verify.com/update?uid=12345
+Review our privacy policy: http://policy.mybank.com/privacy.html
+Contact support: http://help.bank.com/contact
+
+Thank you,
+Security Team
+
+----=_Part_123456_789012345.1693072800000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Security Alert – Action Required</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+  <h2 style="color:#C00;">Unusual sign-in detected</h2>
+  <p>Your <strong>password expires today</strong> – reset <strong>immediately</strong> to prevent <em>account suspension</em>.</p>
+  <p>
+    <a href="http://malicious-update.login-security.mybank.com/verify"></a>
+    Please authenticate <a href="http://malicious-update.login-security.mybank.com/verify">here</a> now.
+  </p>
+  <p>
+    <img src="http://imgs.bank-security.com/banner.jpg" alt="Security Alert" width="600" height="200">
+  </p>
+  <p>
+    <a href="http://malicious-update.login-security.mybank.com/verify"><img src="http://cdn.images.com/btn-reset.png" alt="Reset Password"></a>
+  </p>
+  <hr>
+  <p>
+    <a href="http://support.bank.com/help.privacy">Privacy Policy</a> |
+    <a href="http://help.bank.com/contact.us">Help Center</a>
+  </p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1693072800000--

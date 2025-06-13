@@ -1,0 +1,46 @@
+From support@securebank.com Tue Jul 25 14:23:55 2023
+Subject: Urgent: Update Your Account to Claim €100 Voucher
+From: Secure Bank Support <support@securebank.com>
+Reply-To: service@helpdesk-update.com
+To: user@testmail.com
+Message-ID: <20230725142355.0bAnce@securebank.com>
+Date: Tue, 25 Jul 2023 14:23:55 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7891011"
+
+------=_Part_0_123456.7891011
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+You’re eligible for a €100 voucher! To activate your gift, please visit:
+https://www.securebank.com/voucher
+
+If you have questions, read our privacy policy: https://securebank.com/privacy-policy
+
+Best regards,
+Secure Bank Support Team
+
+------=_Part_0_123456.7891011
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <p>Hello,</p>
+    <p>You’re eligible for a <strong>€100 voucher</strong>! To activate your gift, please <a href="http://194.220.160.40/activate">click here</a>.</p>
+    <p>Alternatively, copy and paste this URL into your browser:<br>
+       <a href="http://5.6.7.8/redeem">https://www.securebank.com/voucher</a>
+    </p>
+    <p>Need help? Visit our <a href="https://securebank.com/privacy-policy">Privacy Policy</a> or <a href="http://5.6.7.8/support">Support Center</a>.</p>
+    <p>For more info, see this link: <a href="http://194.220.160.40/bonus"></a></p>
+    <p><a href="http://5.6.7.8/imgclick"><img src="http://help.service.securebank.com/logo.png" alt="Secure Bank Logo"></a></p>
+    <p>Claim your reward <a href="http://5.6.7.8/offer.page">here</a> now!</p>
+    <p>Best regards,<br>
+       Secure Bank Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.7891011--

@@ -1,0 +1,41 @@
+```
+From nobody Mon Oct 30 14:32:42 2023
+To: user@example.com
+From: "DHL Support" <support@dhl-notice.com>
+Subject: Urgent: Action Required for Your Held Package Delivery Notification
+Date: Mon, 30 Oct 2023 14:32:42 +0000
+Message-ID: <20231030143242.1234567890@dhl-notice.com>
+Content-Type: multipart/alternative; boundary="boundary1234"
+
+--boundary1234
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We attempted to deliver your package but it is currently on hold due to unpaid fees. Please pay the small release fee of $1.95 before the package is returned to the sender. Act quickly to avoid penalties.
+
+Kindly click the link below to complete the payment process and release your package:
+
+http://192.168.1.100.secure.dhl-update.com/release
+
+Thank you for choosing our service.
+
+DHL Support Team
+
+--boundary1234
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package but it is currently on hold due to unpaid fees. Please pay the small release fee of $1.95 before the package is returned to the sender. Act quickly to avoid penalties.</p>
+    <p>Kindly click the link below to complete the payment process and release your package:</p>
+    <p><a href="http://192.168.1.100.secure.dhl-update.com/release">Click Here</a></p>
+    <p>Thank you for choosing our service.</p>
+    <p>DHL Support Team</p>
+    <p><a href="http://www.dhl.com/en/privacy_policy.html">Privacy Policy</a> | <a href="http://www.dhl.com/en/help.html">Help</a></p>
+  </body>
+</html>
+
+--boundary1234--
+```

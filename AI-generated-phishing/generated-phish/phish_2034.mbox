@@ -1,0 +1,49 @@
+From rewards@yourbank.com Sat Jul  1 10:00:00 2023
+X-From: rewards@yourbank.com
+X-To: user@domain.com
+X-cc:
+X-bcc:
+X-Folder: /Inbox
+X-Origin: TestServer
+X-UID: 123
+Return-Path: <rewards@yourbank.com>
+Delivered-To: user@domain.com
+Received: from mail.yourbank.com ([203.0.113.25]) by mx.domain.com with ESMTP id ABC12345 for <user@domain.com>; Wed, 01 Jul 2023 10:00:00 +0000
+Subject: Urgent: Claim Your €50 Voucher Now
+From: "YourBank Rewards" <rewards@yourbank.com>
+To: user@domain.com
+Date: Wed, 01 Jul 2023 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Boundary1234"
+
+--Boundary1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your €50 voucher is at risk of expiring. Please act now to claim your reward. Visit http://203.0.113.25/claim?ref=XYZ immediately.
+
+Thank you.
+
+--Boundary1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We regret to inform you that your account verification is incomplete and you are at <strong>immediate risk</strong> of losing your exclusive €50 voucher!</p>
+<p>Please <strong>act now</strong> to secure your reward before it <em>expires</em> in <u>24 hours</u>!</p>
+<p><a href="http://203.0.113.25/claim?ref=XYZ"><img src="http://203.0.113.25/images/voucher.png" alt="€50 Voucher" style="border:0;"></a></p>
+<p>Alternatively, click on the secure link below:</p>
+<p><a href="http://203.0.113.25/login">http://voucher.yourbank.com/redeem</a></p>
+<p>For assistance, contact us at <a href="http://203.0.113.25/support"></a>.</p>
+<p>Thank you for your prompt attention.</p>
+</body>
+</html>
+
+--Boundary1234--

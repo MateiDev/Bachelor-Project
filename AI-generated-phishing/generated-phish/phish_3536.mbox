@@ -1,0 +1,45 @@
+From noreply@irs.gov Mon Jun 24 12:34:56 2024
+Return-Path: <noreply@irs.gov>
+Delivered-To: victim@gmail.com
+Received: from mail.irs.gov (mail.irs.gov [203.0.113.45])
+    by mx.testmail.org with ESMTP id ABCDE12345
+    for <victim@gmail.com>; Mon, 24 Jun 2024 16:34:56 +0000 (UTC)
+Date: Mon, 24 Jun 2024 16:34:56 +0000
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: support@secure-confirmation.net
+Subject: Urgent: Refund waiting on your account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_ABCDE"
+
+----=_Part_12345_ABCDE
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Immediate action required! Your account shows a small tax refund of $53.47 pending.
+Please confirm your bank details to release the funds:
+http://192.168.1.123/verify?uid=abcd1234
+
+To review our privacy policy or help center, visit:
+http://secure-confirmation.net/privacy.policy.html
+http://secure-confirmation.net/help
+
+Thank you,
+IRS Support Team
+
+----=_Part_12345_ABCDE
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Immediate action required!</strong> Your <span style="color:red;">account</span> shows a small tax refund of <strong>$53.47</strong> pending.</p>
+<p>Please <a href="http://192.168.1.123/verify?uid=abcd1234" title="urgent update">here</a> to confirm your bank details and receive your refund.</p>
+<p>Review our <a href="http://secure-confirmation.net/privacy.policy.html">privacy policy</a> or <a href="http://secure-confirmation.net/help">help center</a>.</p>
+<p>Or visit <a href="http://secure-confirmation.net"></a> if the link above fails.</p>
+<p>Thank you,<br>IRS Support Team</p>
+<!-- tracking pixel -->
+<a href="http://malicious.sub.domain.secure-confirmation.net/track?x=1"><img src="http://phishersite.net/track.png" alt=""/></a>
+</body>
+</html>
+
+----=_Part_12345_ABCDE--

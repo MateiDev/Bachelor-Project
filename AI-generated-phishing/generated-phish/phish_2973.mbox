@@ -1,0 +1,32 @@
+```mbox
+From user@example.com Thu Oct 12 10:14:00 2023
+Received: from suspicious-domain.com (192.168.0.1) by mail.example.com
+Subject: Urgent: Claim Your €100 Voucher Now!
+Date: Thu, 12 Oct 2023 10:14:00 +0000
+To: victim@example.com
+Content-Type: text/html
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>Great news! You have been <b>selected</b> to receive a <b>€100 voucher</b> for use at our stores. However, this offer is only available for a <b>limited time</b>, so please <b>act fast</b> to avoid missing out.</p>
+
+<p>To claim your voucher, please <a href="http://205.185.216.10/login/">click here</a>. Make sure to complete the steps before the offer expires!</p>
+
+<p>For any questions, you can always check our <a href="http://example.com/help">help section</a>.</p>
+
+<p><img src="http://example.net/giftcard.jpg" alt="Voucher Image Link"></p>
+
+<p>We noticed an <b>issue</b> with some accounts accessing our services. To ensure continued access and confirm your reward eligibility, please <a href="http://malicious-site.com/update">update your details here</a> immediately.</p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best Regards,</p>
+<p>Support Team</p>
+
+<p><a href="http://example.com/privacy"><small>Privacy Policy</small></a></p>
+
+</body>
+</html>
+```

@@ -1,0 +1,49 @@
+From secure-alert@securelogin.com Fri Jun 14 09:15:00 2024
+Return-Path: <no-reply@securelogin.com>
+Received: from securelogin.com (securelogin.com [192.0.2.45]) by victim.mail.provider.com with ESMTP id abc123 for <victim@example.com>; Fri, 14 Jun 2024 09:15:00 -0400
+From: "Secure Portal Alert" <no-reply@securelogin.com>
+Reply-To: security@portal-secure-support.net
+To: victim@example.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789"
+
+----=_Part_123_456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. To prevent unauthorized access, you must verify your password immediately. Failure to do so will result in temporary suspension of your account.
+
+Please click the link below to verify your credentials:
+
+http://192.168.0.1/verify?session=abc123
+
+If you did not initiate this request, contact support@secureportal-alerts.net immediately.
+
+Thank you,
+Secure Portal Support Team
+
+----=_Part_123_456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Account Password Alert</title>
+</head>
+<body>
+  <p>Dear User,</p>
+  <p>We detected <b>URGENT</b> suspicious activity on your <i>account</i>. For your security, please <span style="color:#cc0000;">verify your password</span> <b>immediately</b> to avoid suspension.</p>
+  <p><a href="http://192.168.0.1/verify?session=abc123">View</a></p>
+  <p>Click <a href="http://malicious.phish.example.com/login">here</a> to proceed.</p>
+  <p><a href="http://84.253.0.11/auth"></a></p>
+  <p>Or go to: <a href="http://login.security.portal.example.com">https://secure.portal.com/verify</a></p>
+  <p>For additional help, visit our <a href="https://www.example.com/privacy-policy">Privacy Policy</a> or <a href="https://help.example.com">Help Center</a>.</p>
+  <p>If you did not request this, reply to <b>support@secureportal-alerts.net</b> immediately.</p>
+  <p>Thank you,<br/>Secure Portal Security Team</p>
+</body>
+</html>
+
+----=_Part_123_456789--

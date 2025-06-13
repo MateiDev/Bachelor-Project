@@ -1,0 +1,35 @@
+```mbox
+From - Sat Dec 02 11:00:00 2023
+X-Account-Key: ACCOUNT_KEY
+X-UIDL: UIDL
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <taxrefund@notification-service.org>
+Received: from suspiciousdomain.fakeip.by (suspiciousdomain.fakeip.by [192.168.1.100])
+    by mailserver.notrealservice.world (Real Mail Server) with SMTP id 01234567;
+    Sat, 02 Dec 2023 11:00:00 +0000
+Message-ID: <20231202110000.01234567@mailserver.notrealservice.world>
+Date: Sat, 02 Dec 2023 11:00:00 +0000
+From: "Tax Refund Department" <taxrefund@notification-service.org>
+Reply-To: noreply@taxprocess.org
+To: recipient@personalemail.com
+Subject: Urgent: Update Required to Claim Your Tax Refund
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html>
+<body>
+  <div>
+    <h1>Action Required: Confirm Your Refund Details</h1>
+    <p>Dear Valued Taxpayer,</p>
+    <p>We are pleased to inform you that you are entitled to a tax refund of $478.56. However, due to a discrepancy in your records, we require you to confirm your banking details to process the refund immediately.</p>
+    <p><strong>Failure to respond within 48 hours may result in a delay or cancellation of your refund.</strong></p>
+    <a href="http://192.168.1.100/bankdetails/confirm"><img src="http://suspiciousdomain.fakeip.by/image-for-link.jpg" alt="Confirm now"></a>
+    <p>Click <a href="http://192.168.1.100/bankdetails/confirm">here</a> to confirm your details now.</p>
+    <p>If you need further assistance, visit our <a href="http://realservice.gov/privacypolicy.html">Privacy Policy</a> or <a href="http://realservice.gov/contact.html">Contact Us</a> page.</p>
+    <p>Thank you,<br>Tax Refund Department</p>
+    <p><a href=""></a></p>
+  </div>
+</body>
+</html>
+```

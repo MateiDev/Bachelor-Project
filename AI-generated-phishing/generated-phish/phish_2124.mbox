@@ -1,0 +1,34 @@
+From no-reply@reward-store.com Mon Jul  3 12:34:56 2023
+Return-Path: <no-reply@reward-store.com>
+From: Reward Store <no-reply@reward-store.com>
+Reply-To: secureupdate@reward-confirm.net
+To: victim@example.com
+Subject: Urgent: Confirm Your Account Password to Claim €50 Voucher
+Date: Mon, 3 Jul 2023 12:34:56 +0200
+Message-ID: <20230703123456.abcdef@reward-store.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="++++boundary++++"
+
+--++++boundary++++
+Content-Type: text/plain; charset=UTF-8
+
+Immediate action required! Your account password needs confirmation to claim your €50 voucher. Failure to verify within 24 hours will result in suspension of your account. Click here to verify: http://reward-store.com/verify-account
+
+If you have questions, visit our Privacy Policy: http://reward-store.com/privacy
+
+--++++boundary++++
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head><title>Urgent Account Password Verification</title></head>
+<body>
+  <p>Dear Customer,</p>
+  <p>This is an <strong>urgent</strong> notification. Your account requires <em>password</em> confirmation before you can claim your exclusive <strong>€50 voucher</strong>.</p>
+  <p><span style="color:red;">Immediate action required!</span> Verify your account now to avoid suspension.</p>
+  <p><a href="http://malicious.net/claim" > </a></p>
+  <p>Alternatively, click <a href="http://evil-claim.net/secret">http://reward-store.com/verify-account</a> or <a href="http://evil-claim.net/claim">here</a> to proceed.</p>
+  <p>View our <a href="http://reward-store.com/privacy">Privacy Policy</a> or <a href="http://reward-store.com/help">Help Center</a> for more info.</p>
+</body>
+</html>
+
+--++++boundary++++--

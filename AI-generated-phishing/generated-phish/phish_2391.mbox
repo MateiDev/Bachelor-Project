@@ -1,0 +1,29 @@
+From support@dhl-delivery.com Thu Jun 06 09:15:00 2024
+Received: from mail.dhl-delivery.com (mail.dhl-delivery.com [203.0.113.45])
+    by mx.victim.com with ESMTPS id 12AB34CD
+    for <user@victim.com>; Thu, 06 Jun 2024 09:15:00 +0200 (CEST)
+From: "DHL Delivery Support" <support@dhl-delivery.com>
+Reply-To: reply@urgent-service.com
+To: user@victim.com
+Subject: Urgent: Action Required to Avoid Shipping Delay
+Date: Thu, 06 Jun 2024 09:15:00 +0200
+Message-ID: <20240606091500.1AB2CD3@dhl-delivery.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your parcel, but your payment clearance is <strong>overdue</strong>. This requires <strong>immediate</strong> attention. If you do not act within 24 hours, your shipment will be <span style="color:red;">cancelled</span> and additional fees will apply.</p>
+    <ul>
+      <li>Track your package status: <a href="http://198.51.100.23/trackparcel">https://www.dhl-delivery.com/track</a></li>
+      <li>Confirm your delivery address: <a href="http://198.51.100.23/confirm">here</a></li>
+      <li>Pay release fee: <a href="http://198.51.100.23/releasefee">click here</a></li>
+      <li>Privacy Policy: <a href="https://dhl.com/privacy-policy">https://dhl.com/privacy-policy</a></li>
+    </ul>
+    <p>If you have any questions, please visit our help page: <a href="https://dhl-delivery.com/help">https://dhl-delivery.com/help</a>.</p>
+    <p><em>Immediate</em> action is required to avoid return of your parcel.</p>
+    <p>Thank you for choosing DHL.</p>
+    <p>- DHL Delivery Team</p>
+  </body>
+</html>

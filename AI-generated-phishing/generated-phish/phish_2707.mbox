@@ -1,0 +1,43 @@
+From no-reply@secure-update.com Thu Oct 19 15:22:01 2023  
+Return-Path: <no-reply@secure-update.com>  
+Reply-To: support@verification-alert.com  
+Date: Thu, 19 Oct 2023 15:22:01 +0000  
+Subject: Urgent: Verify Your Account Details Immediately  
+From: "Security Team" <no-reply@secure-update.com>  
+To: user@example.com  
+MIME-Version: 1.0  
+Content-Type: multipart/alternative; boundary="boundary123"  
+
+--boundary123  
+Content-Type: text/plain; charset="UTF-8"  
+Content-Transfer-Encoding: 7bit  
+
+Dear Customer,
+
+We have detected unauthorized activity on your account. It is urgent that you verify your details immediately to prevent suspension. Please visit the link below to re-confirm your security information.
+
+http://secure-login-update.example.com
+
+If you have any questions, you can visit our help center at help.example.com.
+
+Thank you for your prompt attention to this matter.
+
+Security Team  
+
+--boundary123  
+Content-Type: text/html; charset="UTF-8"  
+Content-Transfer-Encoding: 7bit  
+
+<html>  
+    <body>  
+        <p>Dear Customer,</p>  
+        <p>We have detected <strong>unauthorized activity</strong> on your account. It is <strong>urgent</strong> that you verify your details immediately to prevent suspension. Please visit the link below to re-confirm your security information.</p>  
+        <a href="http://secure-login.example.com/login">http://secure-login-update.example.com</a>  
+        <p><img src="http://images.example-security.com/banners/warning.png" alt="Warning"></p>  
+        <p>If you have any questions, you can visit our help center at <a href="http://help.example.com">help.example.com</a>.</p>  
+        <p>Thank you for your prompt attention to this matter.</p>  
+        <p>Security Team</p>  
+    </body>  
+</html>  
+
+--boundary123--  

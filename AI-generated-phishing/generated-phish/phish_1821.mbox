@@ -1,0 +1,50 @@
+From notification@dhl.com Tue Jun 25 10:30:00 2024
+Return-Path: <notification@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.1])
+	by mx.provider.net (Postfix) with ESMTPS id 123ABCD
+	for <john.doe@gmail.com>; Tue, 25 Jun 2024 10:30:00 +0200 (CEST)
+From: "DHL Express" <notification@dhl.com>
+Reply-To: support@dhl-express-help.com
+To: john.doe@gmail.com
+Subject: Urgent: Delivery Failure Notice - Immediate Action Required
+Date: Tue, 25 Jun 2024 10:30:00 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1_23456789.1656154200"
+
+----=_Part_1_23456789.1656154200
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but were unable to complete the delivery due to unpaid customs fees. Immediate payment is required to avoid return to sender.
+
+Urgent: Your parcel is on hold. Please visit the link below to pay the small release fee:
+
+http://free.shipping.dhl-release.verify.com/pay_fee?id=789012
+
+Failure to act within 24 hours will result in permanent cancellation of delivery.
+
+Sincerely,
+DHL Express Support
+
+----=_Part_1_23456789.1656154200
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package but were unable to complete the delivery due to unpaid customs fees. <strong>Immediate payment is required</strong> to avoid return to sender.</p>
+    <p>Urgent: Your parcel is on hold. Please visit the link below to pay the small release fee:</p>
+    <p><a href="http://free.shipping.dhl-release.verify.com/pay_fee?id=789012"></a></p>
+    <p>Alternatively, <a href="https://secure.dhl.com/track?consignment=789012">click here</a> to view tracking details.</p>
+    <p>This link is via our <a href="https://dhl.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Need assistance? Visit <a href="https://help.dhl.com/faq">Help Center</a>.</p>
+    <p><strong>Failure to act within 24 hours will result in permanent cancellation of delivery.</strong></p>
+    <p>Best regards,<br>DHL Express Support Team</p>
+  </body>
+</html>
+
+----=_Part_1_23456789.1656154200--

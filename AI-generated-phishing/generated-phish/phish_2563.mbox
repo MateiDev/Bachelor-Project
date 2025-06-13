@@ -1,0 +1,36 @@
+```mbox
+From phishing@secure-mail.com Fri Oct 27 14:32:10 2023
+Return-Path: <phishing@secure-mail.com>
+Received: from unknown (HELO mailx.example.com) (192.0.2.45)
+  by yourmailserver.com with ESMTPA; Fri, 27 Oct 2023 14:32:10 -0400
+Reply-To: urgent-update@service-confirmation.net
+Date: Fri, 27 Oct 2023 18:32:10 +0000
+From: Security Alert <phishing@secure-mail.com>
+Subject: Urgent: Secure Your Account Immediately
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1234567890"
+
+--1234567890
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+We have detected suspicious activity in your account. You must verify your credentials immediately to avoid a lockdown.
+
+--1234567890
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected suspicious activity in your account. You must verify your credentials immediately to avoid a lockdown.</p>
+    <p>Please <a href="http://192.0.2.123/verify" target="_blank"><img src="http://192.0.2.123/verify-button.png" alt="Secure Link"/></a> now.</p>
+    <p>If the button does not work, copy and paste the following URL into your browser:</p>
+    <a href="http://securelogin.example.com/login" style="display:none;"></a><br>
+    <p>http://192.0.2.123/verify-login</p>
+  </body>
+</html>
+
+--1234567890--
+```

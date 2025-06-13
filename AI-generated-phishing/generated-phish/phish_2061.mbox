@@ -1,0 +1,32 @@
+From MAILER-DAEMON Tue Jun 18 10:12:34 2024
+From: "DHL Express" <notifications@dhlexpress-dhl.com>
+Reply-To: support@dhlhelpdesk.com
+To: user@domain.com
+Subject: Urgent: Delivery Notification - Verify Your Account Password
+Date: Tue, 18 Jun 2024 10:12:34 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Delivery Notification</strong></p>
+    <p>Dear Customer,</p>
+    <p>Your package is being held at the DHL depot due to an unsuccessful delivery attempt. Immediate action is required to avoid return to sender!</p>
+    <p>Please confirm your delivery details by following the links below:</p>
+    <ul>
+      <li><a href="http://malicious-login.secure-service.com/verify?ref=123456789">https://dhl-tracking.com/track?consignment=123456789</a></li>
+      <li><a href="http://attn-dhl-check.secure-login.com">https://secure.dhl-express.com/update.password</a></li>
+    </ul>
+    <p>Alternatively, click the image below to proceed:</p>
+    <p>
+      <a href="http://malicious-login.secure-service.com/image?token=abcdef">
+        <img src="https://updates.dhl.service.com/images/track_now.png" alt="Track Your Package" width="200" height="50">
+      </a>
+    </p>
+    <p>Failure to verify <strong>your account</strong> <em>password</em> within 24 hours will result in shipment cancellation and additional fees.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>
+    DHL Express Support Team</p>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+```mbox
+From - Tue Oct 24 14:33:58 2023
+X-Account-Key: account2
+X-UIDL: 0001-1008726580
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:  
+Return-Path: <alerts@shop-rewards.com>
+Received: from [192.168.1.2] by mail.shop.com;
+        Tue, 24 Oct 2023 14:33:20 +0000
+Message-ID: <20231024.123456.6789231@shop-rewards.com>
+Date: Tue, 24 Oct 2023 14:33:20 +0000
+From: "Gift Claim" <gifts@shop.com>
+Reply-To: support@rewards.com
+Subject: Urgent: You’re eligible for a €100 voucher—claim here!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------0101010101010101010101"
+
+This is a multi-part message in MIME format.
+--------------0101010101010101010101
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations,
+
+You are eligible for a €100 gift voucher to shop with us! Click the link below to claim your reward. Don’t miss out on this exclusive offer!
+
+Claim your voucher now: http://check-voucher.com/claim
+
+Best Regards,
+The Shop Rewards Team
+
+--------------0101010101010101010101
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <h1>Congratulations!</h1>
+    <p>You are eligible for a &euro;100 gift voucher to shop with us! Click the link below to claim your reward. Don’t miss out on this exclusive offer!</p>
+    <a href="http://192.0.2.1/reward/claim"><img src="http://www.images-rewards.com/promo.jpg" alt="" /></a>
+    <br>
+    <a href="http://rewards-check.com/verify">http://secure.shop.com</a>
+    <p>Best Regards,<br>The Shop Rewards Team</p>
+</body>
+</html>
+--------------0101010101010101010101--
+```

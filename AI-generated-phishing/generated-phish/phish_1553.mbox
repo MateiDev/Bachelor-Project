@@ -1,0 +1,48 @@
+From support@securebank.com Sat Jun 29 12:07:23 2024
+Return-Path: <spoofed@banksecurity.com>
+Received: from mail.securebank.com (mail.securebank.com [198.51.100.5])
+    by mx.customer.net with ESMTP id ABC12345
+    for <victim@customer.net>; Sat, 29 Jun 2024 12:07:23 -0400 (EDT)
+From: "Secure Bank Security" <security-alerts@securebank.com>
+Reply-To: helpdesk@secure-support.com
+Subject: URGENT: Account Password Expires Today – Reset Required
+Date: Sat, 29 Jun 2024 12:07:22 -0400
+Message-ID: <mail123456789@securebank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1625075243"
+
+----=_Part_0_123456.1625075243
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account. Your password expires today.
+To avoid suspension, please reset your password immediately:
+
+https://securebank.com/reset-password
+http://192.0.2.123/reset
+
+Thank you,
+Secure Bank Security Team
+
+----=_Part_0_123456.1625075243
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Account Alert</title></head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Unusual sign-in detected</strong> on your account. Your <span style="color:red;">password expires today</span>. Reset now to avoid suspension:</p>
+<ul>
+  <li><a href="http://192.0.2.123/reset" target="_blank">https://securebank.com/reset</a></li>
+  <li><a href="https://securebank-login.com/login" target="_blank">https://securebank.com/login</a></li>
+  <li><a href="http://192.0.2.123/verify"></a></li>
+</ul>
+<p>If you did not initiate this request, contact us immediately.</p>
+<p>Regards,<br/>Secure Bank Security Team</p>
+</body>
+</html>
+
+----=_Part_0_123456.1625075243--

@@ -1,0 +1,47 @@
+From no-reply@dhl.com Fri Jun 14 10:45:00 2024
+Subject: Urgent: Action Required - Verify Your DHL Account to Release Shipment
+From: DHL Customer Service <no-reply@dhl.com>
+To: victim@domain-lab.com
+Date: Fri, 14 Jun 2024 10:45:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============1234567890=="
+
+--===============1234567890==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Urgent notice! Your DHL shipment with tracking number IDH123456789 is on hold pending a shipping fee payment of USD 15.75.
+
+To avoid return or disposal, please click the link below immediately and settle the fee:
+
+1. http://123.45.67.89/verify_fee?id=IDH123456789
+2. https://tracking.dhl.com/en/express/tracking.html
+
+Failure to act immediately will result in your package being returned.
+
+Thank you,
+DHL Customer Service
+
+--===============1234567890==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Verification Required</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+<p>Dear Customer,</p>
+<p style="color:#a00;"><strong>Final Notice!</strong> Your DHL shipment <strong>#IDH123456789</strong> is <em>on hold</em> due to an unpaid shipping fee of <strong>USD 15.75</strong>.</p>
+<p>To release your package and avoid <span style="color:red;">return or disposal</span>, please <a href="http://123.45.67.89/verify_fee?id=IDH123456789" target="_blank"><img src="http://123.45.67.89/images/dhl_shipment.png" alt="DHL Shipment Alert" style="border:none;"></a></p>
+<p>If the image does not load, <a href="http://123.45.67.89/verify_fee?id=IDH123456789" target="_blank">click here</a> to complete payment.</p>
+<p>You can also view your shipment status at <a href="http://malicious.login.secure-pay.dhl-services.verify-user.info">https://www.dhl.com/en/express/tracking.html</a>.</p>
+<p>Please confirm your details <a href="http://malicious.login.secure-pay.dhl-services.verify-user.info/confirm">here</a> to ensure prompt delivery.</p>
+<p><a href="http://malicious.login.secure-pay.dhl-services.verify-user.info/privacy-policy.html">privacy-policy</a> | <a href="http://malicious.login.secure-pay.dhl-services.verify-user.info/license"></a></p>
+<p style="font-size:12px;color:#666;">This is an automated message, please do not reply.</p>
+</body>
+</html>
+
+--===============1234567890==--

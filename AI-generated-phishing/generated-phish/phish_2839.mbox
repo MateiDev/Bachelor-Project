@@ -1,0 +1,59 @@
+```
+From - Mon Sep 25 10:32:10 2023
+X-Account-Key: account2
+X-UIDL: UID123456789
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <security-alerts@secureupdate.com>
+Received: from unknown (HELO relay.mailserver.com) (192.168.1.100)
+    by mydomain.com with SMTP; Mon, 25 Sep 2023 10:31:00 -0700
+Reply-To: alert-updates@secure-checkinfo.com
+Date: Mon, 25 Sep 2023 13:30:00 -0400
+From: "Account Alert" <security-alerts@secureupdate.com>
+Subject: Urgent: Immediate Action Required for Your Account
+To: user@mydomain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="boundary123456789"
+
+--boundary123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected <b>suspicious activity</b> on your account and require you to <i>verify your identity</i> to avoid immediate suspension. </p>
+    <p>Please <a href="http://203.0.113.5/verify" target="_blank"><img src="http://203.0.113.5/images/verify-button.png" alt="Click Here to Verify"></a> to proceed.</p>
+    
+    <p>If you do not take action within 24 hours, your account will be temporarily suspended.</p>
+    <p>For your reference, you may review our <a href="https://safedomain.com/privacy-policy" target="_blank">Privacy Policy</a> and <a href="https://safedomain.com/help" target="_blank">Help Center</a>.</p>
+    <p>Thank you,</p>
+    <p><a href=""></a></p>
+    <p>Security Team</p>
+  </body>
+</html>
+
+--boundary123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,
+
+We have detected suspicious activity on your account and require you to verify your identity to avoid immediate suspension.
+
+Please click here http://203.0.113.5/verify to proceed.
+
+If you do not take action within 24 hours, your account will be temporarily suspended.
+
+For your reference, you may review our Privacy Policy https://safedomain.com/privacy-policy and Help Center https://safedomain.com/help.
+
+Thank you,
+
+Security Team
+<a href=""></a>
+
+
+--boundary123456789--
+```

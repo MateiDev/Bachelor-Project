@@ -1,0 +1,50 @@
+From nobody Mon Oct  2 13:09:26 2023
+Return-Path: <scammer@phishy.com>
+Delivered-To: victim@example.com
+Received: from suspicious-originating-ip ([192.0.2.123])
+        by mail.fakeprovider.fake with ESMTP id f123abc456ef
+        for <victim@example.com>; Mon, 02 Oct 2023 13:09:26 +0000 (UTC)
+Date: Mon, 02 Oct 2023 13:09:26 +0000
+From: "Support Team" <support@secure-email.fake>
+To: victim@example.com
+Subject: Urgent: Claim Your €100 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123_456789.123456789"
+
+------=_Part_123_456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations! You've been selected to receive a €100 voucher. Click the link to claim: http://192.0.2.123/secure/claimnow
+
+------=_Part_123_456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+    <body>
+        <p>Dear valued customer,</p>
+        <p>We are pleased to inform you that you are eligible for an exclusive €100 voucher. This offer is available for a limited time only and requires your immediate attention!</p>
+        
+        <p>To secure your voucher, please <a href="http://192.0.2.123/secure/claimnow" style="color: blue; text-decoration: underline;">click here</a> now:</p>
+        
+        <p style="text-align: center;">
+            <a href="http://192.0.2.123/secure/claimnow">
+                <img src="http://images.example.com/offer.png" alt="Claim your voucher">
+            </a>
+        </p>
+        
+        <p>For more information, visit our <a href="http://genuine-website.com/help">help</a> page.</p>
+
+        <p>This offer is valid until stocks last. We urge you not to miss out!</p>
+        
+        <p>Best regards,<br>The Support Team</p>
+
+        <a href="#"></a>
+        
+        <p><a href="http://genuine-website.com/privacy-policy">Privacy Policy</a> | <a href="http://genuine-website.com/contact">Contact Us</a></p>
+    </body>
+</html>
+
+------=_Part_123_456789.123456789--

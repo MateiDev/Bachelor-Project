@@ -1,0 +1,30 @@
+```
+From phishing-scammer@example.com Mon Oct 30 14:28:00 2023
+Return-Path: <phishing-scammer@example.com>
+Received: from scammer.com (scammer.com. [192.168.1.1])
+        by mx.google.com with SMTP id z123456789abcde.1;
+        Mon, 30 Oct 2023 14:28:00 -0700 (PDT)
+Date: Mon, 30 Oct 2023 14:28:00 -0700
+Message-ID: <1234567890.abcdefghijklene@scammer.com>
+Subject: Action Required - Your Account Access is Suspended
+From: Support Team <support@wellknownservice.com>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<p>Dear User,</p>
+
+<p>We have detected unusual activity from your account. To protect your account, we have temporarily suspended access.</p>
+
+<p>To restore access, you are required to verify your information immediately. Failure to do so could result in permanent suspension of your account.</p>
+
+<p>Please <a href="http://192.168.1.5/fake-login" style="color:red;">click here</a> to confirm your identity. It is imperative to complete this verification within the next 24 hours to avoid further actions.</p>
+
+<p>You can verify it by logging into: <a href="http://192.168.1.5/fake-login">http://wellknownservice.com/login</a></p>
+
+<p>If you have questions, visit our <a href="http://wellknownservice.com/help">help center</a>, view our <a href="http://wellknownservice.com/privacy">privacy policy</a> or </p>
+<p><a href=""></a></p>
+
+<p>Best Regards,</p>
+<p>Customer Support</p>
+```

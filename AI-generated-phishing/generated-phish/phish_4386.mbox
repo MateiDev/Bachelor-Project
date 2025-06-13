@@ -1,0 +1,47 @@
+From support@securemail.com Fri Jul 12 14:05:23 2024
+Return-Path: <support@securemail.com>
+Delivered-To: user@example.com
+Received: by mail.securemail.com id abc123; Fri, 12 Jul 2024 14:05:23 +0000
+Subject: Urgent: Account Password Expiry Notification
+To: user@example.com
+From: "SecureMail Support" <support@securemail.com>
+Date: Fri, 12 Jul 2024 14:05:23 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f8b405d7ed14b4"
+
+--000000000000b3f8b405d7ed14b4
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+Unusual sign-in detected on your account. Your password expires today – reset immediately to avoid account suspension.
+
+Please verify your identity: http://198.51.100.23/verify
+or visit our secure portal: http://securemail-support.com/login.
+
+Failure to act now will result in immediate suspension of your account.
+
+Sincerely,
+SecureMail Support
+
+--000000000000b3f8b405d7ed14b4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Urgent Password Account Verification Required</title>
+</head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+  <p>Dear user,</p>
+  <p style="color: red; font-weight: bold;">Unusual sign-in detected on your account. Your password expires today – reset immediately to avoid <span style="text-decoration: underline;">suspension</span>.</p>
+  <p>Please <a href="http://198.51.100.23/verify" style="color: #0066cc; text-decoration: none;">http://securemail-support.com/verify</a> to confirm your identity.</p>
+  <p>You may also verify by clicking the image below:</p>
+  <p><a href="http://login.securemail.support.com/account.verify"><img src="http://securemail.com/images/verify.png" alt="Verify Now" style="border: none;"></a></p>
+  <p>For privacy details, <a href="http://198.51.100.23/privacy.html"></a> or <a href="http://198.51.100.23/help">click here</a>.</p>
+  <p>Failure to <a href="http://198.51.100.23/reset"></a> reset your <strong>password</strong> <strong>URGENTLY</strong> will result in immediate <em>account</em> <span style="color: red;">suspension</span>.</p>
+  <p>Sincerely,<br>SecureMail Support Team</p>
+</body>
+</html>
+
+--000000000000b3f8b405d7ed14b4--

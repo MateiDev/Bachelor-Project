@@ -1,0 +1,60 @@
+From phishing@banking.com Mon Jan  1 10:00:00 2024
+Return-Path: <phishing@security-update.com>
+Delivered-To: user@client.com
+Received: from unknown (HELO banking.secure-update.bank) (203.0.113.5)
+    by mail.client.com with SMTP; Mon, 1 Jan 2024 10:00:00 +0000
+From: "Security Team" <alert@banking.secure-update.bank>
+To: user@client.com
+Subject: [URGENT] Password Expires Today – Account Verification Required
+Date: Mon, 1 Jan 2024 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Unusual sign-in detected—verify now
+Your account password expires today. Immediate action required to avoid suspension.
+Reset now: http://203.0.113.5/update
+Or visit our support page: https://banking.secure-update.bank/help
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h2 style="color:red;">Immediate Action Required</h2>
+    <p>Unusual sign-in detected—verify now to protect your account.</p>
+    <p style="font-weight:bold;">Password expires today – reset immediately!</p>
+    <p>
+      <!-- IP-based URL link -->
+      Click <a href="http://195.54.1.1/reset">here</a> to reset your password.
+    </p>
+    <p>
+      <!-- Multiple dots link -->
+      Or <a href="http://login.verify.secure.bank.update.com/reset">click here</a> to begin
+    </p>
+    <p>
+      <!-- Non-matching anchor URL -->
+      Go to <a href="http://203.0.113.5/check">https://www.bank-secure.com</a> to view account details.
+    </p>
+    <p>
+      <!-- Empty visible link -->
+      <a href="http://195.54.1.1/confirm"></a>
+    </p>
+    <p>
+      <!-- Image-based link -->
+      <a href="http://203.0.113.5/verify"><img src="http://assets.bank-secure.com/banner.jpg" alt="Verify Now"></a>
+    </p>
+    <p>
+      <!-- Benign-looking privacy link -->
+      <a href="https://banking.secure-update.bank/privacy-policy">Privacy Policy</a> |
+      <a href="https://banking.secure-update.bank/help">Help Center</a>
+    </p>
+    <p style="color:gray;font-size:small;">© 2024 Secure Bank. All rights reserved.</p>
+  </body>
+</html>
+
+--BOUNDARY--

@@ -1,0 +1,41 @@
+```mbox
+From - Fri Oct 13 10:17:32 2023
+Return-Path: <no-reply@dhlnotifications.com>
+Received: from mail.fakeprovider.com (mail.fakeprovider.com [192.210.220.5])
+        by mail.yourdomain.com (Postfix) with ESMTP id 78YEU1E8ZG67
+        for <user@yourdomain.com>; Fri, 13 Oct 2023 10:17:32 +0000 (UTC)
+Date: Fri, 13 Oct 2023 10:17:25 +0000
+From: DHL Express <no-reply@dhlnotifications.com>
+Reply-To: support.team.trackings@dhl-support.com
+Subject: Urgent: Parcel Held Up - Action Required!
+To: user@yourdomain.com
+Message-ID: <1649325785.1847.1.JavaMail@dhlnotifications.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1846_834798453.1639447850312"
+
+------=_Part_1846_834798453.1639447850312
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent shipment with Tracking Number: 1234567890 has been held at our distribution center due to pending delivery charges. Click the following link to confirm your delivery address and pay the fee: http://www.dhltrack-confirm.payments.com/redirect
+
+Thank you,
+DHL Customer Service
+
+------=_Part_1846_834798453.1639447850312
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your recent shipment with Tracking Number: <strong>1234567890</strong> has been held at our distribution center due to pending delivery charges. Click the following link to confirm your delivery address and pay the fee:</p>
+    <a href="http://192.0.2.1/trackpackage"><img src="http://www.dhl.com/logo.png" alt="DHL Logo" style="width:100px;"></a>
+    <p>Thank you,<br>DHL Customer Service</p>
+  </body>
+</html>
+
+------=_Part_1846_834798453.1639447850312--
+```

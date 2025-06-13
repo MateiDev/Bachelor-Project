@@ -1,0 +1,53 @@
+From securemail@portal.example.com Fri Jul 23 12:34:56 2021
+Return-Path: <securemail@portal.example.com>
+Delivered-To: victim@victimdomain.com
+Received: from mail.portal.example.com (mail.portal.example.com [198.51.100.23])
+    by victim.mailserver.com with ESMTP id abc123 for <victim@victimdomain.com>; Fri, 23 Jul 2021 12:34:55 -0400 (EDT)
+From: "SecureMail Portal" <securemail@portal.example.com>
+To: "Valued User" <victim@victimdomain.com>
+Subject: URGENT: Account Password Confirmation Required
+Date: Fri, 23 Jul 2021 12:34:56 -0400
+Message-ID: <20210723123456.abc123@mail.portal.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_abcdef"
+
+------=_Part_1234567_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your secure message requires your immediate attention. Visit the link below to confirm your account password:
+
+https://securemail.example.com/view?msg=12345
+
+If you did not request this, please contact support immediately.
+
+------=_Part_1234567_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Password Alert</title>
+</head>
+<body style="font-family: Arial, sans-serif;">
+<p>Dear User,</p>
+<p>You have received an <strong>encrypted secure-mail</strong> that requires your action. To view the message and confirm your password, please click the link below:</p>
+
+<p><a href="http://198.51.100.45/login">click here</a></p>
+
+<p>Or use this direct link if the button above does not work:</p>
+<p><a href="http://evil.example.net/secure">https://securemail.example.com/secure</a></p>
+
+<p><!-- Empty anchor below --><a href="http://phish.attacker.com"></a></p>
+
+<p><a href="http://evil.example.net/login"><img src="https://securemail.example.com/images/view-button.png" alt="View Secure Message" style="border:none;"></a></p>
+
+<hr>
+<p style="font-size:smaller;color:#888;">
+  <a href="https://securemail.example.com/privacy">Privacy Policy</a> | 
+  <a href="https://securemail.example.com/help">Help Center</a>
+</p>
+</body>
+</html>
+
+------=_Part_1234567_abcdef--

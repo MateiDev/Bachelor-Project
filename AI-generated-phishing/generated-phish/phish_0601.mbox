@@ -1,0 +1,23 @@
+From notifications@loyaltyrewards.com Thu Jul  8 10:00:00 2023
+From: notifications@loyaltyrewards.com
+To: victim@domain.com
+Reply-To: support@secure-update.refresh-account.com
+Subject: Congratulations! Claim your €100 Gift Voucher
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We're excited to offer you a <strong>€100 Voucher</strong> as a token of our appreciation for your loyalty.</p>
+    <p>To redeem, simply verify your account information by clicking the button below:</p>
+    <a href="http://192.0.2.123/verify?session=ABCD1234" title="Urgent: Update account password">
+      <img src="http://192.0.2.123/images/redeem-button.png" alt="Redeem Now">
+    </a>
+    <p>If the button doesn't work, you can also redeem your voucher via the following link:</p>
+    <a href="http://secure.login.reward.claimaire-safe.site.giveaway.com/redeem?code=XYZ" title="URGENT: Update account details and password"></a>
+    <p>For immediate assistance, click <a href="http://modal-offer.other-domain-promo.com/claim">here</a>.</p>
+    <p>Thank you for being part of our community!</p>
+    <p>Best regards,<br>Loyalty Rewards Team</p>
+  </body>
+</html>

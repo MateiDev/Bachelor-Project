@@ -1,0 +1,45 @@
+```mbox
+From nobody Sun Oct 29 14:32:56 2023
+Date: Sun, 29 Oct 2023 14:32:56 -0000
+From: "Portal Security" <security-alerts@secureportal.com>
+Reply-To: "security-alerts@secureportal-service.com"
+To: victim@example.com
+Subject: Urgent: Action Required - Secure Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b8c8e905d9f8e1d0"
+
+--000000000000b8c8e905d9f8e1d0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your account. To ensure the safety of your account, please follow the instructions by clicking the link below:
+
+[Click Here](http://secureportal.com.validateainfo.net)
+
+If you need help or have any questions, please visit our [Help Center](http://secureportal.com/help).
+
+Thank you,
+Portal Security Team
+
+--000000000000b8c8e905d9f8e1d0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>We have detected unusual activity on your account. To ensure the safety of your account, please follow the instructions by clicking the link below:</p>
+
+<p><a href="http://secureportal.com.validateainfo.net">Click Here</a></p>
+
+<p>If you need help or have any questions, please visit our <a href="http://secureportal.com/help">Help Center</a>.</p>
+
+<p>Thank you,<br>
+Portal Security Team</p>
+
+</body>
+</html>
+
+--000000000000b8c8e905d9f8e1d0--
+```

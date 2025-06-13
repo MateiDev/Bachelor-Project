@@ -1,0 +1,63 @@
+From support@securemail.example.com Thu Feb  1 08:15:42 2024
+Return-Path: <bounces@securemail.example.com>
+Delivered-To: user@example.com
+From: "SecureMail Support" <support@securemail.example.com>
+Reply-To: "Help Desk" <help@urgent-reset.fakephish.com>
+To: user@example.com
+Subject: Urgent: Unusual Sign-In Detected – Verify Now
+Date: Thu, 1 Feb 2024 08:15:42 -0500
+Message-ID: <20240201081542.GA12345@securemail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01DXXXXX.XXXXXX"
+
+----=_NextPart_000_001A_01DXXXXX.XXXXXX
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an urgent security alert: unusual sign-in activity on your account.
+Your password expires today and must be reset immediately to avoid suspension.
+
+Please verify your account here: https://www.securemail.example.com/account
+
+Failure to verify now may result in permanent account deactivation.
+
+Privacy Policy: https://www.securemail.example.com/privacy
+Help Center: https://www.securemail.example.com/help
+
+Thank you,
+SecureMail Support
+
+----=_NextPart_000_001A_01DXXXXX.XXXXXX
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent: Unusual Sign-In Detected – Verify Your Account Password</title>
+  </head>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p>Dear User,</p>
+    <p style="color: red; font-weight: bold;">Urgent security alert!</p>
+    <p>We have detected an <em>unusual sign-in</em> attempt on your account. Your <strong>password expires today</strong> – reset immediately to avoid suspension.</p>
+    <p>Click the button below to verify your account and update your password:</p>
+    <p>
+      <a href="http://11.22.33.44/verify" style="display: inline-block; background-color: #0066cc; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 4px;">https://www.securemail.example.com/account/login</a>
+    </p>
+    <p>Or <a href="http://77.88.99.100/reset">click here</a> if the button above does not work.</p>
+    <p>
+      <a href="http://77.88.99.100/image_verify">
+        <img src="https://www.securemail.example.com/logo.png" alt="SecureMail Logo" width="200" style="display: block; margin: 10px 0;">
+      </a>
+    </p>
+    <p>Need help? Visit our <a href="http://evil.modal-domain.com/help.html">help center</a>.</p>
+    <p>Privacy Policy: <a href="http://evil.modal-domain.com/privacy.html">here</a></p>
+    <a href="http://11.22.33.44/empty"></a>
+    <p style="color: #666; font-size: 12px;">SecureMail Support Team<br/>
+    123 Security Blvd, Suite 1000<br/>
+    If you did not request this change, please contact us immediately.</p>
+  </body>
+</html>
+
+----=_NextPart_000_001A_01DXXXXX.XXXXXX--

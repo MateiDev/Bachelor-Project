@@ -1,0 +1,49 @@
+From notifications@trustedbank.com Sat Jan  6 08:30:00 2024
+Return-Path: <notifications@trustedbank.com>
+Received: from smtp.trustedbank.com by mx.mailserver.net; Sat,  6 Jan 2024 08:29:50 -0500
+Date: Sat,  6 Jan 2024 08:29:50 -0500
+From: Trusted Bank Updates <notifications@trustedbank.com>
+Reply-To: security-alerts <security@trustedbank-alerts.com>
+Subject: Urgent: Tax Refund Notification - Immediate Action Required
+Message-ID: <20240106082950.98765@smtp.trustedbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_TrustedBankBoundary_123456"
+
+------=_TrustedBankBoundary_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your annual tax return and identified a small refund of $47.50 pending in your account. To ensure you receive this refund, please confirm your bank details immediately to avoid cancellation.
+
+You can confirm the refund by clicking here:
+https://secure.trustedbank.com/confirm
+
+Privacy Policy: http://trustedbank.com/privacy-policy
+
+Failure to confirm within 48 hours will result in automatic forfeiture of your refund.
+
+Thank you,
+Trusted Bank Customer Support
+
+------=_TrustedBankBoundary_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have processed your annual tax return and identified a small refund of <strong>$47.50</strong> pending in your account. To <span style="color:red;">avoid losing your refund</span>, please verify your bank details <em>immediately</em>.</p>
+    <!-- Image-based link -->
+    <p><a href="http://malicious-domain.com/verify"><img src="http://malicious-domain.com/images/confirm_refund.png" alt="Confirm Refund" style="border:0;"/></a></p>
+    <p>Or <a href="http://malicious-domain.com/verify">click here</a> to confirm your refund now.</p>
+    <p>Verify here: <a href="http://malicious-domain.com/confirm">https://secure.trustedbank.com/confirm</a></p>
+    <p>For assistance, visit our <a href="https://trustedbank.com/help">Help Center</a> or review our <a href="http://trustedbank.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>If you do not confirm within <strong>48 hours</strong>, your refund will be <span style="color:red;">automatically canceled</span>.</p>
+    <p>Thank you,<br/>
+       Trusted Bank Security Team</p>
+  </body>
+</html>
+
+------=_TrustedBankBoundary_123456--

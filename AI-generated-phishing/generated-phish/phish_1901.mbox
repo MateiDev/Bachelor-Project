@@ -1,0 +1,45 @@
+From security-team@company-secure.com Wed May 10 14:25:18 2023
+Subject: URGENT: Unusual Sign-in Detected — Action Required
+From: security-team@company-secure.com
+To: user@domain.com
+Date: Wed, 10 May 2023 14:25:18 -0400
+Message-ID: <20230510182518.security-team@company-secure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary12345"
+
+--boundary12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+We detected an UNUSUAL SIGN-IN to your account from a new device. Your password EXPIRES TODAY. IMMEDIATE action is required to secure your account.
+
+Please verify your identity and reset your password using the link below:
+http://203.0.113.45/reset-password
+
+If you do not act within 24 hours, your account will be SUSPENDED.
+
+Best regards,
+Security Team
+
+--boundary12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Valued User,</p>
+<p><strong style="color:red;">URGENT SECURITY ALERT:</strong> We detected an <strong>unusual sign-in</strong> attempt on your account. Your password <strong>expires today</strong>. You must <em>reset immediately</em> to avoid <span style="color:red;">account suspension</span>.</p>
+<p>Please <strong>verify now</strong> by clicking one of the links below:</p>
+<ul>
+<li><a href="http://malicious-server.net/verify?uid=12345">https://secure.company.com/verify-account</a></li>
+<li><a href="http://203.0.113.45/reset-password">Reset your password here</a></li>
+<li><a href="http://login.security-check.company.com/account.status?user=12345">login.security-check.company.com/account.status</a></li>
+</ul>
+<p>Or click the image below:</p>
+<p><a href="http://203.0.113.45/reset"><img src="http://cdn.company-official.com/logo.png" alt="Verify Account" border="0"></a></p>
+<p><span style="color:red;">WARNING:</span> If you do not verify within <strong>24 HOURS</strong>, your access will be <strong>permanently blocked</strong>.</p>
+<p>Thank you,<br>Security Team</p>
+</body></html>
+
+--boundary12345--

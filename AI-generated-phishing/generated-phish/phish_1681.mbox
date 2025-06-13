@@ -1,0 +1,27 @@
+From refund-notify@irs.gov Sat Jun 22 11:23:45 2024
+Subject: Urgent Account Password Confirmation Needed for Tax Refund
+From: "IRS Refund Department" <refund-notify@irs.gov>
+Reply-To: "Support Team" <support@secure-irs-support.com>
+To: user@clientmail.com
+Date: Sat, 22 Jun 2024 11:23:45 -0400
+Message-ID: <0456F9E2@irs.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Our automated system has identified a <strong>critical issue</strong> with your tax refund request. To prevent <span style="color:red">immediate cancellation</span>, you must confirm your bank account details right away.</p>
+<p>Please click the image below to verify your refund status:</p>
+<p>
+<a href="http://198.51.100.23/verify"><img src="http://198.51.100.23/logo.png" alt="Verify Refund Status" style="border:0;" /></a>
+</p>
+<p>If the image does not load, please visit: 
+<a href="http://198.51.100.23/confirm" target="_blank">https://secure.tax.irs.gov/refunds/confirm</a>
+</p>
+<p>This action is <strong>urgent</strong>. Failure to comply within 24 hours will result in your refund being <em>permanently voided</em>.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Sincerely,<br/>
+IRS Customer Service Team</p>
+</body>
+</html>

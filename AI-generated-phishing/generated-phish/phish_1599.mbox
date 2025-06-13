@@ -1,0 +1,38 @@
+From phish@dhl-notify.com Sat Mar 30 12:34:56 2024
+Subject: URGENT: Delivery Notification - Account Password Update
+From: DHL Shipping <support@dhl-shipping.com>
+To: user@domain.com
+Date: Sat, 30 Mar 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+----=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but were unable to complete delivery due to an unpaid handling fee. Please review your delivery details and pay the small fee to release your package:
+
+Track here: http://192.0.2.123/dhl/release
+
+Thank you for choosing DHL.
+
+DHL Express
+
+----=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: Delivery Notification - Account Password Update</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package but were unable to complete delivery due to an <b>unpaid handling fee</b>. To ensure prompt delivery, please <a href="http://192.0.2.123/dhl/release">click here</a> to review your delivery details and pay the small fee.</p>
+<p>Need assistance? Visit our <a href="https://help.dhl.com.support.track-status.com/privacy.policy.html">Privacy Policy</a> or <a href="https://help.dhl.com.support.track-status.com/terms.service.html">Terms of Service</a>.</p>
+<p><a href="http://203.0.113.45/confirm"></a></p>
+<p>Thank you for choosing DHL Express.</p>
+</body>
+</html>
+
+----=_Part_0_123456789.987654321--

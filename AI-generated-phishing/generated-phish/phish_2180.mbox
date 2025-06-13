@@ -1,0 +1,31 @@
+From support@secureportal.com Wed Jul 3 10:15:00 2024
+Return-Path: <support@secureportal.com>
+Received: from mail.secureportal.com (mail.secureportal.com [192.0.2.1])
+	by mx.yourserver.com with ESMTP id AB12345
+	for <user@target.com>; Wed,  3 Jul 2024 10:15:00 +0000 (UTC)
+Message-ID: <CA+9f1h23jk4@mail.secureportal.com>
+Date: Wed,  3 Jul 2024 10:15:00 +0000
+From: "Secure Portal Support" <support@secureportal.com>
+Reply-To: "Security Alerts" <admin@secureportal-alerts.com>
+To: user@target.com
+Subject: Urgent Security Alert: Verify Your Account Password
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>URGENT:</strong> Suspicious activity detected on your account. Immediate action required to prevent account suspension.</p>
+    <p>Your <em>password</em> has potentially been compromised. Please review the alert below and verify your credentials.</p>
+    <p>
+      <a href="https://portal-secure.verify-login.com/alert" title="View Your Security Alert">https://secureportal.com/alert</a>
+    </p>
+    <p>Please <a href="https://portal-secure.verify-login.com/alert">click here</a> to resolve this issue now.</p>
+    <p>Access quickly: <a href="https://portal-secure.verify-login.com/login"></a></p>
+    <hr>
+    <p>Privacy Policy: <a href="https://secureportal.com/privacy-policy">Privacy Policy</a></p>
+    <p>Help Center: <a href="https://secureportal.com/help-center">https://help.secureportal.com</a></p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>— Secure Portal Support Team</p>
+  </body>
+</html>

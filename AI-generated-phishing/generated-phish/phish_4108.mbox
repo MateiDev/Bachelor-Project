@@ -1,0 +1,52 @@
+From dhl-alert@dhl-delivery.com Fri Jun 07 13:10:00 2024
+Return-Path: <dhl-alert@dhl-delivery.com>
+Delivered-To: user@mailservice.com
+Received: from unknown (HELO mail.dhl-delivery.com) (198.51.100.23) by mx.mailservice.com with SMTP; Fri, 07 Jun 2024 13:10:00 +0200
+From: "DHL Delivery" <dhl-alert@dhl-delivery.com>
+Reply-To: support@secure-dhl.com
+Subject: URGENT: Your DHL Account Password Verification Needed
+Date: Fri, 07 Jun 2024 13:10:00 +0200
+Message-ID: <202406071310.d4DABE829A@mail.dhl-delivery.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===BOUNDARY==="
+
+--===BOUNDARY===
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL package is on hold due to an issue with your account. This is URGENT. To avoid cancellation, please verify your account immediately by clicking the link below:
+
+Verify here: http://123.45.67.89/verify?uid=XYZ123
+
+If you fail to verify within 24 hours, your shipment will be permanently cancelled.
+
+For assistance, visit our Privacy Policy: https://dhl.com/privacy
+
+Thank you,
+DHL Delivery Support
+
+--===BOUNDARY===
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your <strong>DHL</strong> package is currently on hold because of an issue with your <em>account</em>. This is <span style="color:red;">urgent</span>! If you do not verify your <u>password</u> immediately, your shipment will be cancelled.</p>
+<p>Please <a href="http://123.45.67.89/verify?uid=XYZ123">click here</a> to verify your account now.</p>
+<p>Alternatively, you can release your package by <a href="http://malicious.com/release?package=12345">paying a small fee</a>.</p>
+<p>Track your package: <a href="http://malicious.com/tracking?pkg=ABCD1234">https://dhl.com/track</a></p>
+<p><a href="http://123.45.67.89/malware"><img src="http://198.51.100.45/images/dhl-logo.png" alt="DHL Logo"/></a></p>
+<p><a href="http://123.45.67.89/release"></a></p>
+<p>For help, visit our <a href="https://dhl.com/help">Help Center</a> or read our <a href="https://dhl.com/privacy">Privacy Policy</a>.</p>
+<p><em>This is your last chance to avoid cancellation.</em></p>
+<p>--<br/>DHL Delivery Support</p>
+</body>
+</html>
+
+--===BOUNDARY===--

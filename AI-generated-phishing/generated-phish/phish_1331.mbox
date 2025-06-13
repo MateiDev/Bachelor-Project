@@ -1,0 +1,53 @@
+From admin@secure-login.com Fri Jul 14 09:15:17 2023
+Return-Path: <admin@secure-login.com>
+Received: from mail.secure-login.com (mail.secure-login.com [198.51.100.23]) by secure-login.com with ESMTP id ABC123; Fri, 14 Jul 2023 09:15:17 -0400
+Subject: Urgent: Account Password Expiration Notice
+Message-ID: <20230714091517.ABC123@mail.secure-login.com>
+Date: Fri, 14 Jul 2023 09:15:17 -0400
+From: "Secure Login Team" <admin@secure-login.com>
+To: Customer <customer@client.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an Unusual sign-in to your account. Your password expires today – reset immediately to avoid suspension. 
+
+Verify your identity now:
+https://bank.security.verify.login.com/sign-in
+Or click here: http://192.0.2.123/verify?token=ABCDEF123456
+
+For support, visit:
+https://help.secure-login.com
+Privacy policy:
+https://privacy-policy.secure-login.com/info.html
+
+This is a final warning. Act immediately to prevent permanent account lock. 
+
+Secure Login Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Unusual sign-in detected—verify now</strong></p>
+    <p>Your <strong>password expires today&nbsp;– reset immediately</strong> to avoid account suspension.</p>
+    <p>
+      <a href="https://bank.security.verify.login.com/sign-in">https://bank.security.verify.login.com/sign-in</a><br>
+      <a href="http://192.0.2.123/verify?token=ABCDEF123456">Click here</a> to verify your account now.
+    </p>
+    <p>For support, visit <a href="https://help.secure-login.com">help.secure-login.com</a></p>
+    <p>Review our <a href="https://privacy-policy.secure-login.com/info.html">Privacy Policy</a></p>
+    <p style="font-weight:bold;">This is your final warning. Act now to prevent permanent lockout!</p>
+    <p>Secure Login Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

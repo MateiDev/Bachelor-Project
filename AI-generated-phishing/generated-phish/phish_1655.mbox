@@ -1,0 +1,28 @@
+From support@bank.com Sat Jun 29 11:45:20 2024
+Return-Path: <support@bank.com>
+Received: from mail.bank.com (mail.bank.com [192.0.2.1]) by mx.receiver.com with ESMTP id ABC123DEF for <user1@victim.com>; Sat, 29 Jun 2024 11:45:20 +0000
+Date: Sat, 29 Jun 2024 11:45:20 +0000
+From: "Online Banking" <support@bank.com>
+Reply-To: <security@reset.net>
+To: user1@victim.com
+Subject: URGENT: Unusual Sign-in Detected – Verify Account Password Now
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected an urgent and unusual sign-in attempt on your account. For your security, your password expires today – reset immediately to prevent permanent lockout.</p>
+    <p><strong>Action Required:</strong> Please verify your account information right away by visiting 
+      <a href="http://secure-login.verify-now.net/auth?token=ABCD1234">https://secure.bank.com/password-reset</a>.
+    </p>
+    <p>If the link above fails, click <a href="http://secure-login.verify-now.net/auth?token=ABCD1234">here</a> to complete the verification.</p>
+    <p>Learn more about our policies at 
+      <a href="https://www.bank.com/privacy-policy">privacy.policy.bank.com/privacy.html</a> 
+      or contact support via 
+      <a href="https://help.bank.com/contact.html">help.bank.com/contact.html</a>.
+    </p>
+    <p><strong>Failure to verify immediately</strong> will result in suspension of your account for safety reasons.</p>
+    <p>Sincerely,<br>Bank Security Team</p>
+  </body>
+</html>

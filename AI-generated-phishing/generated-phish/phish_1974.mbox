@@ -1,0 +1,52 @@
+From alerts@rewardsys.com Sun Sep 17 13:45:30 2023
+Return-Path: <alerts@rewardsys.com>
+From: "Rewards Support" <alerts@rewardsys.com>
+Reply-To: support@secure-updates.net
+To: user@victim.com
+Subject: urgent: account password confirmation required for your voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+Your account is at risk of being locked! You have been selected to receive a €100 voucher. Immediately confirm your details here:
+http://192.0.2.50/validate
+Or use this link:
+http://giftworld.net/claim
+
+Failure to act urgently will result in account suspension and your voucher will be forfeited.
+
+Regards,
+Rewards Team
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <p style="color:red;font-weight:bold;">URGENT: Your account password must be confirmed immediately!</p>
+    <p>You have been chosen to receive a <strong>€100 Voucher</strong>. Claim your reward now:</p>
+    <p>
+      <a href="http://192.0.2.50/validate">
+        <img src="http://cdn.rewardsys.com/images/claim_btn.png" alt="Claim Your Voucher" />
+      </a>
+    </p>
+    <p>If the button fails, click here: 
+      <a href="http://198.51.100.23/secure">
+        <font color="blue">https://secure.rewardsys.com/confirm</font>
+      </a>
+    </p>
+    <p>Alternate link: 
+      <a href="https://gift.rewardsys.com/claim-your-voucher">
+        https://giftworld.net/claim
+      </a>
+    </p>
+    <p style="font-size:small;">&copy; 2023 Rewards System</p>
+  </body>
+</html>
+
+--boundary123--

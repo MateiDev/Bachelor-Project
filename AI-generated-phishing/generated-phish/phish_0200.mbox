@@ -1,0 +1,50 @@
+```
+From - Thu Oct 12 14:40:37 2023
+X-Account-Key: account2
+X-UIDL: UID12345
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+Return-path: <no-reply@delivery-update.com>
+Received: from unknown (HELO mail.delivery-update.com) (192.168.1.100)
+  by yourmailserver.com with SMTP; Thu, 12 Oct 2023 14:40:00 +0000
+Reply-To: urgent-packages@service-center.com
+From: "DHL Express" <no-reply@delivery-update.com>
+Subject: Urgent Action Required: Package on Hold
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0001_01D12345ABCDEF"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0001_01D12345ABCDEF
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today but were unable to due to an unpaid balance.
+To release your package, please settle the nominal fee immediately. Failing to do so within 24 hours will result in returning the item to sender.
+
+Please click the link below to resolve this issue urgently:
+[Unpaid Delivery Fee Link]
+
+Thank you.
+DHL Express
+
+------=_NextPart_000_0001_01D12345ABCDEF
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package today but were unable to due to an unpaid balance.</p>
+<p>To release your package, please settle the nominal fee immediately. Failing to do so within 24 hours will result in returning the item to sender.</p>
+<p>Please click the link below to resolve this issue urgently:</p>
+<a href="http://secure.dhl.delivery-update.com/paynow"> </a>
+<p>Thank you.<br>DHL Express</p>
+</body>
+</html>
+
+------=_NextPart_000_0001_01D12345ABCDEF--
+```

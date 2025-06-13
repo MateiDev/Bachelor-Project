@@ -1,0 +1,31 @@
+From no-reply@taxdept-services.com Fri Aug 18 15:30:00 2023
+Return-Path: <mailer-daemon@taxdept-services.com>
+Received: from mail.taxdept-services.com (mail.taxdept-services.com [203.0.113.45])
+	by smtp.taxdept-services.com with ESMTP id abc123;
+	Fri, 18 Aug 2023 15:30:00 +0000 (UTC)
+From: "Internal Revenue Service" <no-reply@taxdept-services.com>
+Reply-To: updates@secure-verification.mailservice.io
+To: user@domain.com
+Subject: URGENT: Tax Refund Confirmation Required for Your Account
+Date: Fri, 18 Aug 2023 15:30:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">URGENT NOTICE</p>
+    <p>Dear Taxpayer,</p>
+    <p>You have a <strong>pending tax refund</strong> of <strong>$124.18</strong> waiting for disbursement. Failure to verify your bank information within the next <strong>48 HOURS</strong> will result in cancellation of your refund.</p>
+    <p>To secure your refund, please confirm your bank account and password-protected account details immediately:</p>
+    <p>
+      <a href="http://198.51.100.23/confirm">
+        <img src="http://198.51.100.23/images/verify.png" alt="Verify Now" style="border: none;" />
+      </a>
+    </p>
+    <p>Alternatively, visit: 
+      <a href="http://198.51.100.23/confirm">https://www.tax.refund.update.service.com/verify</a>
+    </p>
+    <p style="color:darkred;">This is an urgent security requirement. Do not ignore!</p>
+    <p>Sincerely,<br/>IRS Tax Refund Department</p>
+  </body>
+</html>

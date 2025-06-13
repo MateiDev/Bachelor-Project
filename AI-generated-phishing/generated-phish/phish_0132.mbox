@@ -1,0 +1,43 @@
+```mbox
+From phishing-sc@mples.com Sat Oct 21 10:00:00 2023
+Return-Path: <phishing-sc@mples.com>
+Delivered-To: victim@inbox.com
+Received: from tricksmtp.mail.com (tricksmtp.mail.com. [192.168.1.1])
+        by mx.google.com with ESMTP id c2si1234567qkg.2.2023.10.21.10.00.00
+        for <victim@inbox.com>;
+        Sat, 21 Oct 2023 10:00:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of phishing-sc@mples.com designates 192.168.1.1 as permitted sender) client-ip=192.168.1.1;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@phishing-sc@mples.com;
+       spf=pass (google.com: domain of phishing-sc@mples.com designates 192.168.1.1 as permitted sender) smtp.mailfrom=phishing-sc@mples.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=phishing-sc@mples.com
+Message-ID: <1234567890@mail.com>
+Date: Sat, 21 Oct 2023 10:00:00 +0000
+From: "Tax Refund Department" <refunds@taxdeptsecure.com>
+To: victim@inbox.com
+Subject: Immediate Attention Required: Unclaimed Tax Refund
+
+Dear Valued Taxpayer,
+
+We hope this message finds you well. We are reaching out to inform you that due to a recent system upgrade, we have identified an **unclaimed refund** to your account. This requires your _immediate attention_. We strongly urge you to **verify** your banking information to claim your refund in the amount of USD 550.23.
+
+Please verify your details by visiting our secure portal: <img src="notification.png" alt="secure portal" /><a href="http://taxdeptsecure.refund.com">http://secure.taxes-gov-portal.com</a>
+
+To avoid cancellation of your refund claim, you must complete this verification within the next 24 hours. Failing to do so may result in forfeiture of your refund and additional investigations by our team.
+
+### Additional Links for your reference:
+
+1. Tax Guidelines: [http://taxdeptsecure.com/guidelines](http://taxguidelines.secureportal.com)
+2. Contact Support: <a href="http://taxdeptsecure.com/contact"> </a>
+
+Please do not share this information with anyone, as the link contains personalized details. **Your prompt action is needed to avoid any issues.**
+
+Sincerely,
+
+Tax Refund Department
+[http://taxdeptsecure.com](http://verifie-secure.taxportal.com)
+
+---
+
+Confidential: This message is intended for the designated recipient(s) only. Any dissemination, distribution, or copying of this communication is strictly prohibited.
+```

@@ -1,0 +1,51 @@
+From phishing@sender.com Sat, 14 Oct 2023 08:30:00 +0000
+Message-ID: <20231014083000.abcdef123456@secure-login.com>
+Date: Sat, 14 Oct 2023 08:30:00 +0000
+From: "Secure Support" <support@secure-login.com>
+Reply-To: <refund@customer-care.net>
+To: user@example.org
+Subject: urgent: Claim Your €100 Voucher Now – Confirm Your account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D9C123.ABCDEF"
+
+------=_NextPart_000_001D_01D9C123.ABCDEF
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account has been flagged for suspicious activity. To secure your account and receive your exclusive €100 gift voucher, you must verify your information immediately. Failure to act now may result in permanent suspension of your account.
+
+Visit the following link to claim your voucher:
+http://secure.account.mail-voucher.com/redeem
+
+Alternatively, use the IP-based verify page:
+http://203.0.113.5/verify
+
+Act now to avoid losing your gift!
+
+Regards,
+Secure Support Team
+
+------=_NextPart_000_001D_01D9C123.ABCDEF
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>urgent: Account Verification Required</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p><strong>Urgent:</strong> Your <em>account</em> has been <strong>flagged</strong> for suspicious activity. To avoid <span style="color:#FF0000">permanent suspension</span> and claim your exclusive <strong>€100 Voucher</strong>, please verify your information immediately.</p>
+<p>1) Click the link below to claim your voucher:</p>
+<p><a href="http://malicious-host.com/collect">http://voucher.reward.secure-login.com/claim-now</a></p>
+<p>2) Or verify via our IP page: <a href="http://203.0.113.5/verify">http://voucher.verify.panel</a></p>
+<p>3) Click the button:</p>
+<p><a href="http://192.168.0.1/redeem"><img src="http://images.secure-login.com/button.png" alt="Redeem Voucher" border="0"></a></p>
+<p>4) Quick link without text: <a href="http://voucher.reward.secure-login.com/collect"></a></p>
+<p><em>Act Now!</em> This offer expires soon. If you do not respond within 24 hours, your voucher will be forfeited and your account put at <strong>risk</strong>.</p>
+<p>Regards,<br>Secure Support Team</p>
+</body>
+</html>
+------=_NextPart_000_001D_01D9C123.ABCDEF--

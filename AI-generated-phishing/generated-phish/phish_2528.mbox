@@ -1,0 +1,45 @@
+From nobody Tue Oct 10 14:19:18 2023
+Return-Path: <security-alerts@yourbank-security.com>
+Date: Tue, 10 Oct 2023 14:19:18 +0000
+From: "Your Bank Security" <security-alerts@yourbank-security.com>
+Subject: Urgent: Unusual Sign-In Detected on Your Account
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZboundary"
+
+--XYZboundary
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt for your account. It is vital you verify your identity immediately to avoid account suspension. Please reset your password using the link below:
+http://security-check.yourbank.com.xyz123.secure-account.io
+
+Your immediate action is required to secure your data. If not verified, your access will be restricted.
+
+Sincerely,
+Your Bank Security Team
+
+--XYZboundary
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We have detected an <strong>unusual sign-in attempt</strong> for your account. It is vital you verify your identity <strong>immediately</strong> to avoid account suspension. Please reset your password using the link below:</p>
+
+<a href="http://security-check.yourbank.com.xyz123.secure-account.io">http://security-check.yourbank-secure.web</a><br>
+<a href="http://security-check.yourbank-secure.web"><img src="http://images.yourbank-secure-web.com/logo.png" alt="Your Bank Logo"></a><br>
+
+<p>Your immediate action is required to secure your data. If not verified, your access will be restricted.</p>
+
+<a href="http://update-password.yourbank.com.xyz321.support-secure.io" style="color: #ffffff;">Reset your password now</a><br>
+<a href="http://another.link.to.secure.password.reset.com">http://another.link.to.secure.password.reset.com</a>
+
+<p>Sincerely,<br>Your Bank Security Team</p>
+
+</body>
+</html>
+
+--XYZboundary--

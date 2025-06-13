@@ -1,0 +1,48 @@
+```mbox
+From fake-security-alert@securemail.com Fri Oct 27 14:28:45 2023
+Return-Path: <fake-security-alert@securemail.com>
+Received: from smtp.securemail.com (smtp.securemail.com. [198.51.100.1])
+        by mx.google.com with ESMTP id k12si4568730qkb.198.2023.10.27.14.28.43
+        for <user@example.com>;
+        Fri, 27 Oct 2023 14:28:44 -0700 (PDT)
+Date: Fri, 27 Oct 2023 21:28:44 +0000
+From: Security Team <fake-security-alert@securemail.com>
+Subject: Urgent: Account Security Alert - Immediate Action Required
+To: user@example.com
+Content-Type: multipart/alternative; boundary="000000000000b123ad"
+MIME-Version: 1.0
+Message-ID: <20231027142845.fake-security-alert@securemail.com>
+
+--000000000000b123ad
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user@example.com,
+
+We have detected suspicious activity on your account. Immediate action is required to avoid account suspension. Please verify your account details at your earliest convenience.
+
+Click here to verify: http://secure-login.com.verification.alert/security
+
+For your security, please do not ignore this message.
+
+Thank you,
+Security Team
+
+Privacy Policy: https://www.securemail.com/privacy-policy
+Help Center: https://www.securemail.com/help-center
+
+--000000000000b123ad
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user@example.com,</p>
+    <p>We have detected <strong>suspicious activity</strong> on your account. <span style="color: red;">Immediate action is required</span> to avoid account suspension. Please verify your account details at your earliest convenience.</p>
+    <p><a href="http://secure-login.com.verification.alert/security" target="_blank">Click here to verify</a></p>
+    <p>For your security, please do not ignore this message.</p>
+    <p>Thank you,<br>Security Team</p>
+    <p><a href="https://www.securemail.com/privacy-policy">Privacy Policy</a> | <a href="https://www.securemail.com/help-center">Help Center</a></p>
+  </body>
+</html>
+
+--000000000000b123ad--
+```

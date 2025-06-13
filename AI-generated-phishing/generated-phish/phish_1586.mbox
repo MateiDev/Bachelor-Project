@@ -1,0 +1,41 @@
+From spoofed@secureportal.com Mon Apr 15 10:00:00 2024
+Return-Path: <spoofed@secureportal.com>
+Delivered-To: victim@domain.com
+Received: by mail.server.com with SMTP id abc123; Mon, 15 Apr 2024 10:00:00 -0400 (EDT)
+Subject: Urgent Account Password Expiry Notice
+From: "Secure Portal Alerts" <alerts@secureportal.com>
+To: victim@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--boundary123"
+
+----boundary123
+Content-Type: text/plain; charset=UTF-8
+
+Dear user,
+
+Our records indicate your account password will expire within 24 hours. To avoid service interruption, please visit the secure portal at the link below and update your password immediately:
+
+http://login.security.portal1.com/update.authenticate.secure
+http://secure-update.policy.info
+
+Thank you,
+Secure Portal Team
+
+----boundary123
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear user,</p>
+<p><strong>Urgent:</strong> Your <em>account</em> <u>password</u> will expire in <strong>24 hours</strong>. To prevent interruption, please update your credentials by clicking the button below:</p>
+<p>
+<a href="http://login.security.portal1.com/update.authenticate.secure" title="Update Your Password Now">
+  <img src="http://malicious.example.com/logo.png" alt="Secure Portal Login" style="border:0;">
+</a>
+</p>
+<p>If the button above does not work, <a href="http://login.security.portal1.com/update.authenticate.secure">click here</a> to reset your password.</p>
+<p>For secure access <a href="http://account.login.secure-portal.com">here</a>.</p>
+<p><a href="http://malicious.link.example.com"></a> For assistance, visit our <a href="http://helpdesk.support-login.com">Help Center</a> or review the <a href="http://secure-update.policy.info">Privacy Policy</a>.</p>
+</body>
+</html>
+----boundary123--

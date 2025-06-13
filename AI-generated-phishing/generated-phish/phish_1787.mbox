@@ -1,0 +1,29 @@
+From no-reply@security-service.com Wed Feb 21 14:22:30 2024
+Return-Path: <no-reply@security-service.com>
+Delivered-To: victim@domain.net
+Received: by 2002:a0c:9d08:0:b0:1c2d:4e5f with SMTP id h8csp872195qvb;
+        Wed, 21 Feb 2024 14:22:30 -0800 (PST)
+Subject: URGENT: Unusual sign-in detected – Verify Now
+From: Security Team <no-reply@security-service.com>
+To: victim@domain.net
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Notice</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p><strong>Immediate action required:</strong> We detected an <em>unusual sign-in</em> attempt on your account from an unrecognized device. Your <strong>password expires today</strong>. Click the link below to verify your identity to avoid <span style="color:red;">account suspension</span>:</p>
+<p>
+<a href="http://login.verify.secure-update.com.evil.net/validate"><img src="http://cdn.secure-updates.com/logo.png" alt="Verify Now" border="0"></a>
+</p>
+<p>If the image doesn't load, <a href="http://login.verify.secure-update.com.evil.net/validate">click here</a>.</p>
+<p>For account support, visit <a href="http://support.service.security.com.phish.net">http://security-service.com/help</a> or <a href="http://help.security-service.com.customer-support.phish.net">here</a>.</p>
+<p>To reset your password immediately, go to <a href="http://phish.evil.net/reset">https://security-service.com/reset_password</a>.</p>
+<p><a href="http://malicious.evil.net/void"></a></p>
+<p>Thank you,<br/>Your Security Team</p>
+</body>
+</html>

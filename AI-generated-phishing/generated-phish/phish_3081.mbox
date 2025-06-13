@@ -1,0 +1,51 @@
+From security@globalbank.com Fri Jul 23 20:12:22 2021
+Return-Path: <security@globalbank.com>
+Delivered-To: victim@example.com
+Received: from mail.globalbank.com (mail.globalbank.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABC123DEF456
+    for <victim@example.com>; Fri, 23 Jul 2021 20:12:22 -0400 (EDT)
+Subject: Urgent: Verify Your Account Password
+Date: Fri, 23 Jul 2021 20:12:22 -0400
+From: "Global Bank Security" <security@globalbank.com>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_8901234.1627074742000"
+
+----=_Part_1234567_8901234.1627074742000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your account. To protect your account, we require you to verify your password immediately. Please visit the link below:
+
+https://secure.globalbank.com/login
+
+If you fail to verify within 24 hours, your account will be suspended.
+
+Global Bank Security Team
+
+----=_Part_1234567_8901234.1627074742000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Update Account Password</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected unusual activity on your <b>account</b>. To protect your <b>account</b>, we require you to verify your <b>password</b> immediately. Please click the link below:</p>
+<p>
+<a href="http://123.45.67.89/authenticate"> </a>
+<a href="http://login-update.globalbank-secure.com/verify">
+  <img src="http://images.globalbank.com/logo.png" alt="Global Bank Logo"/>
+</a>
+</p>
+<p>You can also go to <a href="http://auth.globalbank.security.login.com">https://secure.globalbank.com/login</a> if the image does not load.</p>
+<p>For assistance, click <a href="http://help.globalbanksupport.com/modal">here</a>.</p>
+<p>Failure to verify will result in account suspension.</p>
+<p>Regards,<br/>Global Bank Security Team</p>
+</body>
+</html>
+----=_Part_1234567_8901234.1627074742000--

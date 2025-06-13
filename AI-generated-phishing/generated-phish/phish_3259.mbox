@@ -1,0 +1,50 @@
+From security@company.com Wed Jun 26 14:59:59 2024
+From: "SecurePortal Alert" <security@company.com>
+To: victim@example.com
+Reply-To: "IT Support" <itsupport@fakehelp.com>
+Subject: Urgent: Account Password Security Alert
+Date: Wed, 26 Jun 2024 14:59:59 -0400
+Message-ID: <2e5f7c8b-dabc-4afa-8fef-1234567890ab@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your SecurePortal account password has been flagged for suspicious activity and is urgent to review to prevent suspension.
+
+Please click here to view your secure message and update your credentials:
+http://192.168.0.100/portal/login
+
+Alternatively, visit https://company.com/password-reset for more information.
+
+Thank you,
+SecurePortal Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <p>Dear User,</p>
+    <p>Your SecurePortal <strong>account</strong> <em>password</em> has been flagged for suspicious activity and is <span style="color:red;">urgent</span> to review to prevent suspension.</p>
+    <p>Please <a href="http://192.168.0.100/portal/login">click here</a> to view and secure your account now.</p>
+    <p>If the link above does not work, <a href="https://portal.company.com.verifylogin.security-update.info/login">here</a>.</p>
+    <p>Alternatively, you can visit <a href="http://malicious.phish.com/login">https://portal.company.com</a> to access your portal.</p>
+    <p>
+      <a href="http://203.0.113.10/reset">https://www.company.com/support</a> |
+      <a href="https://company.com/privacy-policy">Privacy Policy</a> |
+      <a href="https://company.com/help">Help Center</a>
+    </p>
+    <p>Thank you,<br/>
+       SecurePortal Security Team
+    </p>
+    <p><a href="http://malicious.phish.com/track"></a></p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

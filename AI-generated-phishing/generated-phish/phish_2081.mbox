@@ -1,0 +1,45 @@
+From phishing-simulation@mailer Mon Jun 10 12:00:00 2024
+Return-Path: <bounce@company.com>
+Received: from mail.company.com (mail.company.com [192.0.2.1]) by mx.domain.com with ESMTP id ABC123 for <user@domain.com>; Mon, 10 Jun 2024 12:00:00 -0400
+From: "Company Security" <security@company.com>
+Reply-To: "Support Team" <support@evilmail.com>
+To: user@domain.com
+Subject: Urgent: Account Password Expires Today – Reset Immediately
+Date: Mon, 10 Jun 2024 12:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_Boundary_123456"
+
+--=_Boundary_123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected on your account. Your password expires today. Failure to reset immediately may result in suspension.
+
+To secure your account, click here: https://accounts.company.com/security-modal?redirect=https://secure-update.com/reset
+
+If you did not request this, please contact our support.
+
+Sincerely,
+Company Security Team
+
+--=_Boundary_123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">Urgent: Action Required!</p>
+    <p>We detected an unusual sign-in attempt on your account. Your <strong>password expires today</strong>. Reset it now to avoid suspension.</p>
+    <p>Please <a href="https://accounts.company.com/security-modal?redirect=https://secure-update.com/reset">click here</a> to reset your password immediately.</p>
+    <p>
+      <a href="https://accounts.company.com/security-modal?redirect=https://secure-update.com/reset"></a>
+      <img src="https://secure-update.com/images/reset_now_button.png" alt="Reset Now">
+    </p>
+    <p>If you have any questions, visit our <a href="https://accounts.company.com/privacy-policy">privacy policy</a> or <a href="https://accounts.company.com/help">help page</a>.</p>
+    <p>Security Team</p>
+  </body>
+</html>
+
+--=_Boundary_123456--

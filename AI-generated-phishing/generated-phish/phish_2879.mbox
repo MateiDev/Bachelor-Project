@@ -1,0 +1,44 @@
+From - Thu Oct 26 14:36:30 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                  
+Return-Path: <no-reply@security-alert.com>
+Received: from unknown (HELO mail.security-alert.com) (192.168.1.100)
+  by mail.localdomain with SMTP; Thu, 26 Oct 2023 14:36:30 +0000
+Message-ID: <20231026143630.000000@security-alert.com>
+Date: Thu, 26 Oct 2023 14:36:30 +0000
+From: Security Team <no-reply@security-alert.com>
+Reply-To: urgent-helpdesk@securemail.com
+Subject: Immediate Action Required: Verify Your Account Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Urgent: Your account access is at risk. Visit our security portal immediately to update your information and prevent suspension.
+
+--boundary-string
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;">Your account has been temporarily locked due to suspicious login attempts.</p>
+<p><strong>Please <a href="http://secure-account.com/verification" style="color:blue; text-decoration:none;"></a> immediately to verify your identity and restore full access.</strong></p>
+<p>For your security, verify now to avoid drastic action on your account. <a href="http://secure-account.com/update">http://verify-portal.com/update</a></p>
+<p>Thank you for your prompt attention to this critical matter.</p>
+<p>Sincerely,</p>
+<p>The Security Team</p>
+
+<p><a href="http://safe-links.com/privacy" target="_blank">Privacy Policy</a> | <a href="http://safe-links.com/help" target="_blank">Help Center</a></p>
+
+<p><img src="http://secure-content.com/logo.png" alt="Company Logo" style="width:100px;height:auto;"></p>
+</body>
+</html>
+
+--boundary-string--

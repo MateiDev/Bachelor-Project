@@ -1,0 +1,30 @@
+From taxdept@irs.gov Sat Jun 01 12:00:00 2024
+Return-Path: <taxdept@irs.gov>
+Received: from mail1.irs.gov (mail1.irs.gov [198.51.100.24])
+    by mx.yourdomain.com with ESMTP id AB12345
+    for <user@domain.com>; Sat, 01 Jun 2024 12:00:00 -0400 (EDT)
+From: "Internal Revenue Service" <taxdept@irs.gov>
+To: user@domain.com
+Subject: Urgent: Tax Refund Account Verification Required
+Date: Sat, 01 Jun 2024 12:00:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have processed your tax return and a small refund is pending. <strong>Action Required:</strong> Please verify your bank <span>account</span> details to receive your funds without delay.</p>
+    <p>Your current refund status: <a href="http://192.0.2.123/status">Check Now</a></p>
+    <p>To confirm your payment information, click the link below:</p>
+    <ul>
+      <li><a href="http://192.0.2.123/verify"></a></li>
+      <li><a href="http://secure.tax-refund.verify-now.com/payment">here</a></li>
+    </ul>
+    <p>Alternatively, use the button:</p>
+    <p><a href="http://192.0.2.123/verify"><img src="http://secure.tax-refund.verify-now.com/assets/button.png" alt="Verify Now"></a></p>
+    <p>Need help? Visit our <a href="http://help.irs.gov/support">help center</a> or review our <a href="http://policy.privacy.trusted-services.com/terms">privacy policy</a>.</p>
+    <p>If you do not confirm within 48 hours, your refund may be delayed.</p>
+    <p>Thank you,<br>IRS Online Service</p>
+  </body>
+</html>

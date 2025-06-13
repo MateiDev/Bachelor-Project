@@ -1,0 +1,54 @@
+```mbox
+From nobody@example.com Thu Oct 12 15:08:07 2023
+Return-Path: <noreply@securemail.example.com>
+Received: from mail.example.com (mail.example.com. [192.168.1.2])
+        by mx.google.com with ESMTP id x34si237981qkf.230.2023.10.12.15.08.07
+        for <victim@example.com>;
+        Thu, 12 Oct 2023 15:08:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@securemail.example.com designates 192.168.1.2 as permitted sender) client-ip=192.168.1.2;
+Date: Thu, 12 Oct 2023 15:08:07 -0700
+From: Secure Mail <support@securemail.example.com>
+Reply-To: account-update-service@alerts.securemail.com
+To: victim@example.com
+Subject: Urgent: Secure Account Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="001a11423098cceived990420de390"
+
+--001a11423098cceived990420de390
+Content-Type: text/plain; charset="UTF-8"
+
+Attention: Immediate Secure Verification Needed
+
+Dear User,
+
+We have detected unauthorized access to your portal account. For your safety and to prevent further unauthorized access, please verify your account immediately by clicking the link below:
+
+http://192.168.1.5/secure-check
+
+Failure to verify your account within 24 hours may result in permanent suspension. Protect your information now!
+
+Sincerely,
+Secure Mail Support Team
+
+--001a11423098cceived990420de390
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Urgent Account Verification</title>
+</head>
+<body>
+    <p style="color:red;">Attention: Immediate Secure Verification Needed</p>
+    <p>Dear User,</p>
+    <p>We have detected <b>unauthorized access</b> to your portal account. For your safety and to prevent further unauthorized access, please verify your account immediately by clicking the link below:</p>
+    <p><a href="http://192.168.1.5/secure-check"><img src="http://192.168.1.5/images/verify.png" alt="Verify Now" width="150" height="50"></a></p>
+    <p><b>Failure to verify your account within 24 hours</b> may result in permanent suspension. Protect your information now!</p>
+    <p>Sincerely,<br>Secure Mail Support Team</p>
+    <p>If you have any questions, please contact us at <a href="mailto:support@example.com">support@example.com</a></p>
+</body>
+</html>
+
+--001a11423098cceived990420de390--
+```

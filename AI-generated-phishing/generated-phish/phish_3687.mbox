@@ -1,0 +1,60 @@
+From security.team@secure-alerts.com Thu Oct 12 14:30:00 2023
+Return-Path: <security.team@secure-alerts.com>
+Delivered-To: victim@target.com
+Received: by mail.secure-alerts.com with SMTP id abc123; Thu, 12 Oct 2023 14:30:00 +0000
+X-Spam-Status: No
+From: "Security Team" <security.team@secure-alerts.com>
+Reply-To: support@legitimate-company.com
+To: victim@target.com
+Subject: Urgent: Account Password Verification Required
+Date: Thu, 12 Oct 2023 14:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Boundary123"
+
+--Boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity in your account. To ensure your security, please verify your password immediately by clicking the following link:
+
+http://123.45.67.89/verify
+
+Best regards,
+Security Team
+
+--Boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent: Account Password Verification Required</title>
+  </head>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected <strong>unusual activity</strong> in your <em>account</em>. To ensure your security, please verify your password immediately by clicking the button below:</p>
+    <p>
+      <a href="http://123.45.67.89/secureportal">
+        <img src="http://192.168.100.100/logo.png" alt="Secure Portal" />
+      </a>
+    </p>
+    <p>
+      Please verify <a href="http://123.45.67.89/verify"></a>
+    </p>
+    <p>
+      Alternatively, click <a href="http://123.45.67.89/verify">here</a> to proceed.
+    </p>
+    <p>
+      If you can't click the button, copy and paste this link into your browser:<br/>
+      <a href="http://123.45.67.89/verify">https://portal.secure-mail.security-services.co.uk/login</a>
+    </p>
+    <p>
+      For more information, visit our <a href="https://secure-alerts.com/privacy-policy.html">Privacy Policy</a> or <a href="https://secure-alerts.com/help.html">Help Center</a>.
+    </p>
+    <p>Thank you,<br/>Security Team</p>
+  </body>
+</html>
+
+--Boundary123--

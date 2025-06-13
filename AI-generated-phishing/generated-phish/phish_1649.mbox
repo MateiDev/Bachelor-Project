@@ -1,0 +1,28 @@
+From support@securebank.com Fri Jul 21 09:15:00 2023
+Return-Path: <support@securebank.com>
+Received: from mail.securebank.com (mail.securebank.com [198.51.100.23])
+    by mx.externalmail.com with ESMTPS id ABC123
+    for <john.doe@domain.org>; Fri, 21 Jul 2023 09:15:00 -0700 (PDT)
+From: "Secure Bank Support" <support@securebank.com>
+To: john.doe@domain.org
+Subject: URGENT: Unusual sign-in detected on your account – action required
+Date: Fri, 21 Jul 2023 09:15:00 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected an <strong>UNUSUAL SIGN-IN</strong> attempt on your <strong>account</strong> from a new device. For your protection, you must <strong>VERIFY NOW</strong> or your <strong>password expires today</strong> and your access will be <strong>LOCKED</strong> immediately.</p>
+<p>To secure your account, please visit our support page:</p>
+<p><a href="http://192.0.2.1/securelogin">https://support.security.bank.main.com/securelogin</a></p>
+<p>If that link doesn’t work, <a href="http://malicious.attacker.net/verify" title="urgent verification">click here</a>.</p>
+<p>Or copy and paste this into your browser:</p>
+<p>https://support.security.bank.main.com/reset-password</p>
+<p><a href="http://203.0.113.66/reset" ></a></p>
+<p>Failure to act immediately will result in PERMANENT SUSPENSION of your <strong>account</strong>. We apologize for any trouble and thank you for your urgent attention.</p>
+<p>Sincerely,<br/>Secure Bank Security Team</p>
+<p><a href="https://bank.com/privacy-policy">Privacy Policy</a> | <a href="https://bank.com/help">Help Center</a></p>
+</body>
+</html>

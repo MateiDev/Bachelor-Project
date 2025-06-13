@@ -1,0 +1,48 @@
+```
+From - Mon Oct 30 14:25:17 2023
+Return-Path: <refund-notice@taxdepartment.com>
+Received: from mail.taxes-firm.com (mail.taxes-firm.com [192.0.2.1])
+        by yourmailserver.com (Postfix) with ESMTP id 123456789
+        for <user@yourmail.com>; Mon, 30 Oct 2023 14:25:14 -0400 (EDT)
+Message-ID: <20231030142517.123456789@mail.taxes-firm.com>
+Date: Mon, 30 Oct 2023 18:25:17 +0000
+From: "Tax Refund Dept" <refund-notice@taxdepartment.com>
+To: <user@yourmail.com>
+Subject: Urgent: Unclaimed Tax Refund Notice
+
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_789012345.1234567890123"
+
+------=_Part_123456_789012345.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+You have an unclaimed tax refund. Please visit our secure portal to confirm your bank details and claim your refund:
+
+<Click here> for your refund.
+[Image](http://secure.taxrefund.gov.es) <!-- Non-matching URL -->
+
+Thank you,
+
+Tax Refund Department
+
+------=_Part_123456_789012345.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>You have an unclaimed tax refund. Please visit our secure portal to confirm your bank details and claim your refund:</p>
+<p><a href="http://secure.taxrefund.net" target="_blank"><img src="http://taxdepartment.com/claim.png" alt="Click here"></a></p> <!-- Image-based Links -->
+<p>Thank you,</p>
+<p>Tax Refund Department</p>
+<p><a href="#" style="display:none;"></a></p> <!-- Empty visible <a> text -->
+</body>
+</html>
+
+------=_Part_123456_789012345.1234567890123--
+```

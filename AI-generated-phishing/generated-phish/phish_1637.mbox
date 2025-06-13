@@ -1,0 +1,53 @@
+From support@trustedbank.com Fri Jun 21 09:15:30 2024
+Return-Path: <support@trustedbank.com>
+Received: by mail.trustedbank.com with SMTP id abc123 for <user@domain.com>; Fri, 21 Jun 2024 09:15:30 +0000
+Date: Fri, 21 Jun 2024 09:15:30 +0000
+From: "Trusted Bank Security" <security@trustedbank.com>
+To: user@domain.com
+Subject: Urgent: Account Action Required – Verify Sign-In & Reset Password Now
+Message-ID: <01D8C5F0.B2C3D4E5@trustedbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01D8C5F0.B2C3D4E5"
+
+------=_NextPart_000_001A_01D8C5F0.B2C3D4E5
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We detected an unusual sign-in to your account. Your password expires today.
+Please verify your activity and reset your password immediately to avoid suspension.
+
+Reset now: http://192.0.2.123/reset?uid=98765
+Secure login: http://203.0.113.45/secure-login
+
+For assistance, visit help: https://trustedbank.com/help or privacy policy: https://trustedbank.com/privacy-policy
+
+Thank you,
+TrustedBank Security Team
+
+------=_NextPart_000_001A_01D8C5F0.B2C3D4E5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<HTML>
+<HEAD>
+<TITLE>Urgent: Account Alert</TITLE>
+</HEAD>
+<BODY>
+<p>Hello,</p>
+<p>We detected an <strong>unusual sign-in</strong> to your <strong>account</strong>. <strong>Your password expires today</strong>.</p>
+<p style="color:red;">Please verify your activity and reset your password immediately to avoid suspension.</p>
+<ul>
+<li><a href="http://192.0.2.123/reset?uid=98765">reset now</a></li>
+<li><a href="http://203.0.113.45/secure-login"><img src="http://203.0.113.45/images/secure-banner.png" alt="Secure Login" /></a></li>
+<li><a href="http://malicious.site.com/login">click here</a> to verify your account</li>
+</ul>
+<p>For assistance:</p>
+<p><a href="https://trustedbank.com/help">help</a> | <a href="https://trustedbank.com/privacy-policy">privacy policy</a></p>
+<p style="font-size:small;color:gray;">Please take action within 24 hours or your account will be suspended.</p>
+<p>Thank you,<br/>TrustedBank Security Team</p>
+</BODY>
+</HTML>
+
+------=_NextPart_000_001A_01D8C5F0.B2C3D4E5--

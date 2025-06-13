@@ -1,0 +1,50 @@
+From support@bank.example.com Sat Jul 15 11:22:33 2023
+Return-Path: <no-reply@notifications.bank-example.com>
+Received: from mail.bank-example.com (mail.bank-example.com [192.0.2.1])
+    by mx.google.com with ESMTP id x7si1234567qko.23.2023.07.15.11.22.33
+    for <victim@example.com>; Sat, 15 Jul 2023 11:22:33 -0700 (PDT)
+From: "Example Bank Support" <support@bank.example.com>
+Reply-To: "Security Team" <alerts@security.bank-update.info>
+Subject: URGENT: Update your password & verify your account to claim €100 voucher
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3a0e905cc1f13ee"
+
+--000000000000b3a0e905cc1f13ee
+Content-Type: text/plain; charset="UTF-8"
+
+Dear valued customer,
+
+Your account has encountered an unusual login attempt and will be suspended if you do not verify your information immediately. As a token of our apology, you are eligible for a €100 voucher. Claim it now, last chance!
+
+Follow the link below to update your password, secure your account and redeem your voucher:
+https://secure.bank-example.com/redeem
+
+Alternatively, visit:
+http://promo.voucher.bank-update.info/offer
+
+Need help? Visit our help page:
+https://help.bank-example.com
+
+Best regards,
+Example Bank Security Team
+
+--000000000000b3a0e905cc1f13ee
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>Your <b>account</b> has encountered an <span style="color:red;">urgent</span> security issue and will be <span style="font-weight:bold;">suspended</span> if not verified immediately. As an apology, you're eligible for a <b>€100 voucher</b>. This offer <u>expires soon</u>!</p>
+    <!-- Hidden tracker -->
+    <a href="http://152.67.34.189/tracker"></a>
+    <p>To update your password, secure your account and redeem your voucher:</p>
+    <p><a href="http://203.0.113.5/claim">https://secure.bank-example.com/redeem</a></p>
+    <p>Or click <a href="http://198.51.100.24/voucher">here</a> to claim instantly.</p>
+    <p>Alternatively, see our promotional page at <a href="http://promo.voucher.bank-update.info/offer">promo.voucher.bank-update.info</a>.</p>
+    <p>Need assistance? Visit our <a href="https://secure.bank-example.com/privacypolicy">Privacy Policy</a> or <a href="https://help.bank-example.com">Help Center</a>.</p>
+    <p>Best regards,<br>Example Bank Security Team</p>
+  </body>
+</html>
+
+--000000000000b3a0e905cc1f13ee--

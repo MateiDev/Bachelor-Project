@@ -1,0 +1,44 @@
+From someone@example.com Mon Sep 25 17:17:29 2023
+Return-Path: <someone@example.com>
+Received: from 192.168.1.1 (192.168.1.1)
+    by mail.example.com (Postfix) with ESMTP id 123ABCD456
+    for <you@example.com>; Mon, 25 Sep 2023 17:17:29 +0200 (CEST)
+Date: Mon, 25 Sep 2023 17:17:29 +0200 (CEST)
+From: "Rewards Team" <rewards@example.com>
+Message-ID: <1234567890@example.com>
+To: <you@example.com>
+Subject: Congratulations! Claim Your €500 Gift Voucher Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_001_0001_ABCD1234"
+
+------=_NextPart_001_0001_ABCD1234
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Congratulations! You’re eligible for a €500 gift voucher. Don’t miss out!
+
+Click <a href="http://192.168.1.100/rewards/claim">here</a> to claim your voucher now.
+
+Thank you,
+Rewards Team
+
+------=_NextPart_001_0001_ABCD1234
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Hello,</p>
+<p>Congratulations! You’re eligible for a €500 gift voucher. Don’t miss o=
+ut!</p>
+<p><a href="http://192.168.1.100/rewards/claim"></a></p>
+<p>Click <a href="http://192.168.1.100.rewards.claim/here">here</a> to claim your voucher now.</p>
+<p>For more information, visit our <a href="http://www.example.com/privacy">Privacy Policy</a> or <a href="http://www.example.com/help">Help Page</a>.</p>
+<p>Thank you,<br>Rewards Team</p>
+</body>
+</html>
+
+------=_NextPart_001_0001_ABCD1234--

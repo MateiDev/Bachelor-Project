@@ -1,0 +1,44 @@
+From MAILER-DAEMON Tue Apr 25 14:32:00 2024
+Return-Path: <no-reply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5]) by inbound-smtp.example.net with ESMTP id ABC123; Tue, 25 Apr 2024 14:32:00 +0000
+Message-ID: <20240425143200.12345@mail.dhl.com>
+Date: Tue, 25 Apr 2024 14:32:00 +0000
+Subject: Urgent: Delivery Notification - Package Pending Payment for Account Verification
+From: "DHL Express" <no-reply@dhl.com>
+Reply-To: "DHL Security" <support@dhl-secure-update.com>
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held by our courier due to missing verification of your account password. Please click the link below to verify your details immediately to avoid return to sender:
+
+Verify Now: http://192.0.2.1/verify.php?id=abc123
+
+For assistance, visit our Help Center:
+https://dhl.com/help
+
+Thank you,
+DHL Delivery Team
+
+--ABC123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h2 style="color:red;">Urgent Delivery Notification</h2>
+    <p>Dear Customer,</p>
+    <p>Your package is currently <strong>pending payment</strong> due to an issue with your <em>account</em> <u>password</u>. Failure to act <strong>immediately</strong> will result in return to sender.</p>
+    <p>Please <a href="http://192.0.2.2/secure/update.php?ref=xyz"><img src="http://192.0.2.3/images/button.jpg" alt="Verify Now"/></a></p>
+    <p>Alternatively, you can <a href="http://delivery.update.track.service.com/release?code=789">click here</a> or <a href="http://updates.delivery.service.urgent.update.com/m"></a> to complete your verification.</p>
+    <p>Manage your preferences: <a href="https://dhl.com/privacy-policy">Privacy Policy</a> | <a href="https://dhl.com/terms">Terms of Service</a></p>
+    <p>If you have questions, visit our <a href="https://dhl.com/help">Help Center</a> or reply to this email.</p>
+  </body>
+</html>
+--ABC123--

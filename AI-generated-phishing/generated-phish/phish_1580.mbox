@@ -1,0 +1,46 @@
+From portal-security@secure-company.com Fri Jul 21 10:34:21 2023
+Return-Path: <portal-security@secure-company.com>
+Delivered-To: victim@company.com
+Received: from mail.secure-company.com (mail.secure-company.com [192.0.2.1])
+        by mx.company.com with ESMTP id ABC123
+        for <victim@company.com>; Fri, 21 Jul 2023 10:34:21 -0700 (PDT)
+From: "Company Portal Security" <portal-security@secure-company.com>
+Reply-To: admin@secureportal-support.com
+Subject: Critical Security Alert – Immediate Verification Required!
+To: victim@company.com
+Message-ID: <20230721103421.ABC123@mail.secure-company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D8A6F3.2C5E3A10"
+
+------=_NextPart_000_001D_01D8A6F3.2C5E3A10
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+This is an URGENT notification due to a critical security issue detected in your corporate portal account. You must verify your credentials IMMEDIATELY to avoid suspension.
+
+Please CLICK the link below to verify:
+http://203.0.113.45/verify
+
+Thank you,
+Corporate Security Team
+
+------=_NextPart_000_001D_01D8A6F3.2C5E3A10
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>URGENT:</strong> We have detected unusual activity on your account. To prevent a <em>critical account suspension</em>, you must verify your credentials <strong>immediately</strong>.</p>
+    <p>Please click the link below to view your new secure message:</p>
+    <p><a href="http://198.51.100.23/secure-mail"></a></p>
+    <p>Or access via portal:</p>
+    <p><a href="http://203.0.113.45/login">http://portal.company.com/login</a></p>
+    <p>If you do not act within the next 24 hours, your account will be locked.</p>
+    <p>Regards,<br/>Corporate Security Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001D_01D8A6F3.2C5E3A10--

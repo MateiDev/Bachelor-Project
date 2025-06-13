@@ -1,0 +1,52 @@
+From phishing-simulator@trusted-domain.com Sat Jan  6 12:34:56 2024
+Return-Path: <rewards@trusted-domain.com>
+Received: from mail.trusted-domain.com (mail.trusted-domain.com [198.51.100.25])
+	by inbound.trusted-domain.com with ESMTP id ABC123XYZ
+	for <user123@userdomain.com>; Sat,  6 Jan 2024 12:34:56 +0000 (UTC)
+From: "Rewards Team" <rewards@trusted-domain.com>
+Reply-To: support@urgent-login-service.com
+To: user123@userdomain.com
+Subject: Urgent: Verify your account to Claim Your €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+You are eligible for a €50 gift voucher! To claim your reward, please verify your account password and click the link below:
+
+https://rewards.secure.bank.login/claim-voucher
+
+If you do not verify within 48 hours, your voucher will expire.
+
+Regards,
+Rewards Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Action Required: account password verification</title>
+</head>
+<body>
+<p>Dear customer,</p>
+<p>Great news! You’re eligible for a <strong>€50 gift voucher</strong>. To claim your reward, please verify your <em>account password</em> and click the button below:</p>
+<p>
+<a href="http://192.0.2.123/voucher?ref=ABCD1234" title="Verify now to avoid expiration">
+  <img src="http://203.0.113.5/images/claim-now.png" alt="Claim Now" style="border:none;">
+</a>
+</p>
+<p>If the button above does not work, copy and paste this link into your browser:</p>
+<p><a href="http://192.0.2.123/voucher?ref=ABCD1234">https://secure.bank.com/login</a></p>
+<p><small>Offer expires in 48 hours.</small></p>
+<p>Best regards,<br>
+Rewards Team</p>
+</body>
+</html>
+
+--BOUNDARY123--

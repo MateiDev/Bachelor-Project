@@ -1,0 +1,49 @@
+From info@dhl.com Fri Jun 15 10:23:45 2024
+Return-Path: <info@dhl.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5])
+	by mx.example.com with ESMTP id 12345ABC;
+	Fri, 15 Jun 2024 10:23:45 -0400
+Date: Fri, 15 Jun 2024 10:23:45 -0400
+From: "DHL Express" <info@dhl.com>
+Reply-To: helpdesk@dhl-support.com
+To: victim@example.com
+Subject: Urgent: Delivery Notification for Your DHL Account – Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D90F89.D3A7C610"
+
+------=_NextPart_000_001D_01D90F89.D3A7C610
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held at the DHL sorting facility due to unpaid fees. To avoid return, please verify your address and password to release your shipment.
+
+Track your package: http://tracking.dhl.com/ABC123
+Pay fees and confirm here: http://198.51.100.23/release
+
+Thank you,
+DHL Express
+
+------=_NextPart_000_001D_01D90F89.D3A7C610
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Delivery Notification</title>
+</head>
+<body style="font-family:Arial,sans-serif;">
+<img src="https://assets.dhl.com/dhl_header.png" alt="DHL" />
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package, but it is currently <strong>on hold</strong> at our facility because of pending fees. To release your parcel, please <a href="http://198.51.100.23/release" style="color:#D40000;">click here</a> to pay a small handling fee. This urgent action is required to avoid return of your parcel.</p>
+<p>You can also view your tracking details by visiting <a href="http://198.51.100.23/auth">http://tracking.dhl.com/ABC123</a>.</p>
+<p>If you need further assistance, access our <a href="http://198.51.100.23/help">privacy-policy</a> or <a href="http://198.51.100.23/help">help</a>.</p>
+<p><a href="http://198.51.100.23/invoice"><img src="https://assets.dhl.com/invoice_icon.png" alt="Invoice" /></a></p>
+<p>Download your invoice <a href="http://198.51.100.23/invoice">here</a>.</p>
+<p>Sincerely,<br/>DHL Express Customer Service</p>
+</body>
+</html>
+
+------=_NextPart_000_001D_01D90F89.D3A7C610--

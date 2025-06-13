@@ -1,0 +1,51 @@
+From security@my-bank.com Thu Jul  4 12:34:56 2024
+Return-Path: <security@my-bank.com>
+Received: from mail.my-bank.com (mail.my-bank.com [203.0.113.10]) by mx.google.com with ESMTP id abc123def456 for <user@domain.com>; Thu, 4 Jul 2024 12:34:56 +0000
+Date: Thu, 4 Jul 2024 12:34:56 +0000
+From: "MyBank Security Team" <security@my-bank.com>
+To: user@domain.com
+Subject: Urgent: Unusual Sign-In Detected—Verify Now or Password Expires Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7890123.165"
+
+------=_Part_123456_7890123.165
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account from IP 203.0.113.55.
+Your account is now locked, and your password expires today.
+You must verify your identity and reset your password immediately to avoid permanent suspension.
+
+Verify your account now:
+https://secure.my-bank.com/reset?token=abc1234
+
+Failure to act within 24 hours will result in permanent account lockout.
+
+For more information, see our Privacy Policy: https://www.my-bank.com/privacy
+or Help Center: https://www.my-bank.com/help
+
+Thank you,
+MyBank Security Team
+
+------=_Part_123456_7890123.165
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Urgent:</strong> We have detected an unusual sign-in attempt on your account from IP 203.0.113.55.</p>
+<p>Your password <em>expires today</em> and your account has been temporarily locked.</p>
+<p>To verify your identity and reset your password immediately, please click the link below:</p>
+<p><a href="http://198.51.100.23/reset?id=abc1234">https://secure.my-bank.com/reset?token=abc1234</a></p>
+<p>Alternatively, <a href="http://198.51.100.23/init">here</a> to verify immediately.</p>
+<p><a href="http://198.51.100.23/verify"></a></p>
+<p><a href="http://198.51.100.23/login"><img src="http://198.51.100.23/images/verify.png" alt="Verify Account" /></a></p>
+<p>For assistance, review our <a href="https://www.my-bank.com/privacy-policy">Privacy Policy</a> or <a href="https://www.my-bank.com/help">Help Center</a>.</p>
+<p>Sincerely,<br/>MyBank Security Team</p>
+</body>
+</html>
+
+------=_Part_123456_7890123.165--

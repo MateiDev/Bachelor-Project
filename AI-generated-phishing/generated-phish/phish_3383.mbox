@@ -1,0 +1,49 @@
+From support@modalbank.com Fri Jul 30 09:15:00 2021
+Return-Path: <support@modalbank.com>
+Delivered-To: user@example.com
+Received: from mail.modalbank.com (mail.modalbank.com [203.0.113.5])
+    by mail.example.com with ESMTP id abc123xyz
+    for <user@example.com>; Fri, 30 Jul 2021 09:15:00 +0000
+Date: Fri, 30 Jul 2021 09:15:00 +0000
+From: "Modal Bank Support" <support@modalbank.com>
+Reply-To: phish@sneaky.com
+To: user@example.com
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We have detected unusual activity on your account. To confirm your password and secure your account, please visit the link below immediately:
+
+https://www.modalbank-secure.com/verify
+
+If you do not verify your account within 24 hours, your password may be reset and you may lose access.
+
+Also, you have been selected for a €100 gift voucher. To claim, click here:
+http://198.51.100.10/redeem?code=XYZ123
+
+For more information, visit our privacy policy at https://www.modalbank.com/privacy-policy
+
+Best regards,
+Modal Bank Support
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity on your <strong>account</strong>. To confirm your <strong>password</strong> and secure your account, please <a href="http://malicious.evil.com/login">https://www.bank-secure.com/login</a> immediately.</p>
+    <p>If you do not verify your account within <span style="color:red;">24 hours</span>, your <strong>password</strong> may be reset and you may lose access.</p>
+    <p>You are eligible for a €100 voucher—claim your reward by <a href="http://198.51.100.10/redeem?code=XYZ123">click here</a> now!</p>
+    <p>Alternatively, <a href="http://100.64.0.1/promo"><img src="http://tracker.spam.trustbad.net/img.gif" alt="Claim your voucher" width="200" height="80"></a></p>
+    <p>For help, please <a href="http://help.modalbank.com/">here</a> or visit our <a href="https://www.modalbank.com/privacy-policy">privacy-policy</a>.</p>
+    <p>Best regards,<br>
+       Modal Bank Support</p>
+  </body>
+</html>
+--BOUNDARY--

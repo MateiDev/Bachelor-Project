@@ -1,0 +1,47 @@
+```
+From fake-service@accounts-notification.com Tue Oct 24 14:22:00 2023
+Return-path: <fake-service@accounts-notification.com>
+Received: from mail.fake-server.com (mail.fake-server.com [123.45.67.89])
+        by yourdomain.com (Postfix) with ESMTP id ABC1234DEF
+        for <user@yourdomain.com>; Tue, 24 Oct 2023 14:22:00 +0000 (UTC)
+Message-ID: <1234567890@mail.fake-server.com>
+Subject: Urgent: Action Required to Secure Your Account
+To: user@yourdomain.com
+Date: Tue, 24 Oct 2023 14:22:00 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.6789012345"
+
+------=_Part_123456_789012345.6789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your account that requires your immediate attention. To ensure the safety of your information, please verify your login details immediately by visiting the link below:
+
+https://secure.account-safe-verification.com.login/security/update
+
+Failure to update your information could result in a temporary suspension for security reasons.
+
+Thank you for your prompt attention to this matter.
+
+Best,
+Account Security Team
+
+------=_Part_123456_789012345.6789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <b>unusual activity</b> on your account that requires your <b>immediate attention</b>. To ensure the safety of your information, please verify your login details immediately by visiting the link below:</p>
+    <p><a href="https://secure.account-safe-verification.com.login/security/update"></a></p>
+    <p><b>Failure</b> to update your information could result in a <b>temporary suspension</b> for security reasons.</p>
+    <p><a href="https://login.account-recovery.com"></a></p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Best,<br>Account Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.6789012345--
+```

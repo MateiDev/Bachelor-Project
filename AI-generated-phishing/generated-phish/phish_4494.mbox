@@ -1,0 +1,57 @@
+From phishing@dhl.com Fri Jan  1 12:00:00 2021
+Return-Path: <tracking@dhl.com>
+Delivered-To: victim@example.com
+Received: by mailserver.example.com with SMTP id abc123; Fri, 1 Jan 2021 12:00:00 +0000
+From: "DHL Express" <tracking@dhl.com>
+Reply-To: <support@dhl-support.help>
+To: victim@example.com
+Subject: URGENT: DHL Delivery Notification – Immediate Action Required
+Date: Fri, 1 Jan 2021 12:00:00 +0000
+Message-ID: <0001.1234567890@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_ABC123"
+
+----=_Part_ABC123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Your DHL Express shipment AWB: 1234567890 is currently ON HOLD due to unpaid handling charges.
+This is an urgent notification. Please complete payment within 24 hours to avoid permanent cancellation.
+
+Track and pay here:
+https://www.dhl.com/en/express/tracking.html?AWB=1234567890
+or via IP:
+http://208.76.50.22/release?awb=1234567890
+
+If you have questions, contact our support.
+
+Thank you,
+DHL Express Support Team
+
+----=_Part_ABC123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Valued Customer,</p>
+<p style="color:red; font-weight:bold;">Your DHL Express shipment <strong>AWB: 1234567890</strong> is <u>ON HOLD</u> due to <strong>UNPAID HANDLING CHARGES</strong>.</p>
+<p>This is an <strong>urgent</strong> notification. Please resolve this <span style="color:red;">within 24 HOURS</span> to avoid <strong>CANCELLATION</strong>.</p>
+<p>Track &amp; Pay securely via:
+<a href="http://208.76.50.22/release?awb=1234567890">https://www.dhl.com/en/express/tracking.html?AWB=1234567890</a>
+</p>
+<p>Or click <a href="http://45.77.123.45/verify?shipment=1234567890">here</a>.</p>
+<p>Alternatively, verify using this IP-based URL: <a href="http://198.51.100.25/confirm"></a></p>
+<p>Need assistance? Visit our 
+<a href="">Privacy Policy</a> | 
+<a href="http://45.77.123.45/help">Help Center</a> | 
+<a href="https://dhl.com.urgent-support.page/contact">Contact Us</a>
+</p>
+<p><a href="http://208.76.50.22/release?awb=1234567890"><img src="http://203.0.113.5/images/dhl-logo.png" alt="DHL Logo"></a></p>
+<p>Thank you for choosing DHL Express.</p>
+<p>DHL Express Support Team<br/>
+For inquiries, reply to <a href="mailto:support@dhl-support.help">support@dhl-support.help</a>
+</p>
+</body></html>
+----=_Part_ABC123--

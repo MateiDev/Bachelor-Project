@@ -1,0 +1,56 @@
+```mbox
+From - Mon Oct 02 14:14:50 2023
+X-Account-Key: account2
+X-UIDL: 00015c26f29c2545
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <noreply@taxrefund.com>
+Received: from unexpectedserver.com (unexpectedserver.com [192.0.2.15])
+        by mailbox.yourdomain.com (Postfix) with ESMTP id AB12345678
+        for <you@yourdomain.com>; Mon,  2 Oct 2023 14:14:50 -0400 (EDT)
+Reply-To: urgentupdate@refundupdate.com
+From: Tax Refund Department <noreply@taxrefund.com>
+Subject: ACTION REQUIRED: Confirm your tax refund details
+Date: Mon, 2 Oct 2023 18:14:50 +0000
+Message-ID: <abc123def456@taxrefund.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_001D_01CBC838.6E72F350"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_001D_01CBC838.6E72F350
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear taxpayer,
+
+We are pleased to inform you that you are eligible for a tax refund of $287.43. To ensure you receive your refund promptly, please confirm your banking details immediately through your secure online account.
+
+Failure to confirm your details within 24 hours will result in the delay of your refund processing.
+
+Click here to proceed: [HTML content not displayed]
+
+Sincerely,
+Tax Refund Department
+
+------=_NextPart_000_001D_01CBC838.6E72F350
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear taxpayer,</p>
+    <p>We are pleased to inform you that you are eligible for a tax refund of <b>$287.43</b>. To ensure you receive your refund promptly, please confirm your banking details immediately through your secure online account.</p>
+    <p><b>Failure to confirm your details within 24 hours will result in the delay of your refund processing.</b></p>
+    <p><a href="http://malicious-link.com" style="display: block;text-indent: -9999px;height: 1px;width: 1px;">.</a></p>
+    <p>Click <a href="http://malicious-link.com">here</a> to proceed</p>
+    <p>Sincerely,<br>Tax Refund Department</p>
+    <img src="http://legitimate-looking-image.com/banner.png" alt="Tax Department Logo" width="200" height="50"><br>
+    <a href="http://malicious-link.com"></a><br>
+    <a href="http://taxoffice.gov/privacy-policy">Privacy Policy</a> | <a href="http://taxoffice.gov/help">Help</a>
+  </body>
+</html>
+
+------=_NextPart_000_001D_01CBC838.6E72F350--
+```

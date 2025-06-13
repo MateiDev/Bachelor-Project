@@ -1,0 +1,44 @@
+From no-reply@delivery.dhl.com Thu Jul 18 15:22:01 2024
+Return-Path: <no-reply@delivery.dhl.com>
+From: "DHL Delivery" <no-reply@delivery.dhl.com>
+Reply-To: support@secure-dhl.com
+To: victim@example.com
+Subject: Urgent: Delivery Account Notification - Action Required
+Date: Thu, 18 Jul 2024 13:22:00 +0200
+Message-ID: <20240718132200.no-reply@delivery.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your shipment is currently on hold due to an unresolved fee.
+Please visit the link below to confirm your information and complete the payment:
+
+1) https://dhl-update.example.com/track?shipment=123456789&lang=en
+2) http://192.0.2.123/confirm
+
+Failure to complete this step within 24 hours will result in return to sender.
+
+Thank you,
+DHL Delivery Support
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your shipment is currently <strong>on hold</strong> due to an unresolved fee.</p>
+    <p>Please <a href="http://192.0.2.123/confirm" style="text-decoration:none;">click here</a> to confirm your information and complete the payment. <a href="http://203.0.113.5/secure">https://dhl.secure-auth.com/verify</a></p>
+    <p>If the link does not work, please visit our policy page <a href="http://modal.policy-update.info"></a>.</p>
+    <p style="color:red;">Note: This is an <em>urgent</em> notification. Failure to act will return your package.</p>
+    <p>Best regards,<br>DHL Delivery Support</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

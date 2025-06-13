@@ -1,0 +1,65 @@
+From support@securebank.com Thu Jul 15 10:30:00 2021
+Return-Path: <support@securebank.com>
+Received: by mail.securebank.com id 12345; Thu, 15 Jul 2021 10:29:55 -0400
+From: "SecureBank Support" <support@securebank.com>
+Reply-To: security@secure-bank-verification.com
+To: user@example.net
+Subject: URGENT: Account password expires TODAY – Reset Immediately
+Date: Thu, 15 Jul 2021 10:29:55 -0400
+Message-ID: <20210715102955.12345@mail.securebank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an UNUSUAL SIGN-IN to your account from a new location.
+Your account password expires today. Please reset immediately to avoid
+suspension.
+
+Visit the link below to verify your identity and reset your password:
+http://102.54.94.97/verify
+or
+https://secure.login.bank.co.uk
+
+If you do not act now, your access will be restricted.
+
+Sincerely,
+SecureBank Security Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">
+      Immediate action required!<br/>
+      Unusual sign-in detected on your account.
+    </p>
+    <p>Your <strong>password expires today</strong>. Reset immediately to avoid 
+      unauthorized access.</p>
+    <p>
+      <a href="http://198.51.100.123/verify"></a>
+    </p>
+    <p>
+      <a href="http://malicious.verify-now.com/login">
+        https://secure.login.bank.co.uk
+      </a>
+    </p>
+    <p>
+      <a href="http://102.54.94.97/verify">
+        <img src="http://102.54.94.97/alert.png" alt="Verify Now" border="0"/>
+      </a>
+    </p>
+    <p>Failure to verify will result in immediate suspension.</p>
+    <p>Sincerely,<br/>
+    SecureBank Security Team</p>
+  </body>
+</html>
+
+--===============123456789==--

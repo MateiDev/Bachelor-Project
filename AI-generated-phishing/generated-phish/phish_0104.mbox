@@ -1,0 +1,34 @@
+```
+From nobody Mon Oct 2 14:30:00 2023
+Return-Path: <notifications@parceldelivery.com>
+Delivered-To: victim@example.com
+Received: from unknown (HELO mail.parcel-scam.com) ([192.0.2.1])
+    by mail.example.com with SMTP; Mon, 02 Oct 2023 14:29:58 +0000
+Date: Mon, 02 Oct 2023 14:29:58 +0000
+From: "DHL Support" <notifications@parceldelivery.com>
+Subject: Urgent: Your Package Is On Hold - Action Required Immediately!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We tried to deliver your package but <b>urgent</b> action is required to avoid returning it to the sender. A payment of <b>$1.99</b> is needed to release your parcel.</p>
+    <p>Follow the link below to verify your details and proceed with the payment:</p>
+    
+    <a href="http://secure.dhl-service.packagetracker.com.releasehold.info/urgent-action" style="display:block; width:100px; height:100px;">
+      <img src="http://secure.dhl-service.packagetracker.com/images/track-button.png" alt="Track Now" />
+    </a>
+    
+    <p>For more details on your package status, visit our service center:</p>
+    <p><a href="http://secure.dhl-service.packagetracker.com/servicestatus">http://www.dhl.com/service/status</a></p>
+
+    <p><a href="http://secure.dhl-service.packagetracker.com/releaseFee"> </a></p>
+
+    <p>Failure to resolve today could result in the package being sent back. Act <b>now</b> to ensure smooth delivery!</p>
+
+    <p>Thank you,<br>DHL Support Team</p>
+  </body>
+</html>
+```

@@ -1,0 +1,46 @@
+From - Thu Oct 19 14:07:43 2023
+X-Account-Key: account2
+X-UIDL: UID28645-1534169301
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <alerts@security-notice.com>
+Received: from 192.0.2.1 (192.0.2.1) by mail.example.com with SMTP; Thu, 19 Oct 2023 14:01:53 -0700
+Date: Thu, 19 Oct 2023 21:01:53 +0000
+From: "Account Security Alert" <alerts@security-notice.com>
+Subject: Urgent: Unusual Sign-In Detected - Verify Immediately
+To: victim@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+    boundary="----=_Part_1234_567890123.9876543210"
+
+------=_Part_1234_567890123.9876543210
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your account and we need you to verify your identity to prevent any unauthorized activity. Please update your password immediately.
+
+Review your account details by clicking the link below:
+http://www.security-verification-check.com
+
+------=_Part_1234_567890123.9876543210
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Password Reset Required</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p style="color: red; font-weight: bold;">We have detected an <b>unusual sign-in attempt</b> on your account and we need you to verify your identity to prevent any unauthorized activity.</p>
+<p style="color: blue;">For your safety, please update your password immediately.</p>
+<p>Review your account details by clicking the <a href="http://192.0.2.1/security-update">link</a> now.</p>
+
+<p>For privacy policies, <a href="https://www.legitimate-policy.com/privacy">click here</a>.<br>
+To go to the legitimate help site, <a href="https://www.legitimate-help.com">click here</a>.</p>
+</body>
+</html>
+
+------=_Part_1234_567890123.9876543210--

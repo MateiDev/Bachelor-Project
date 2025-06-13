@@ -1,0 +1,48 @@
+From MAILER-DAEMON Wed Jun 05 12:34:56 2024
+Return-Path: <no-reply@dhl.com>
+Received: from mail1.dhl.com (mail1.dhl.com [192.0.2.1])
+    by mx.domain.com with ESMTP id ABC123DEF
+    for <user@domain.com>; Wed, 05 Jun 2024 12:34:56 +0000 (UTC)
+Date: Wed, 05 Jun 2024 12:34:56 +0000
+From: DHL Delivery <no-reply@dhl.com>
+To: user@domain.com
+Subject: Urgent: Delivery Failed - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ123ABC"
+
+--XYZ123ABC
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Attention! Your package delivery has failed due to unpaid fees.
+You must settle the outstanding charge immediately to avoid permanent loss of your parcel.
+
+Release your package now:
+http://tracking.dhl.com.verify-shipment.net/release?ref=ABC123
+or
+http://203.0.113.5/payment
+
+--XYZ123ABC
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>ATTENTION!</strong> Your recent DHL shipment could <em>not</em> be delivered.</p>
+    <p>To prevent <span style="color:red;">permanent loss</span> of your package, you must <strong>act now</strong> and pay the fee <strong>immediately</strong>!</p>
+    <p>Click below to review and release your parcel:</p>
+    <p>
+      <a href="http://tracking.dhl.com.verify-shipment.net/release?ref=ABC123">
+        http://www.dhl.com.track.verify.com
+      </a>
+    </p>
+    <p>Or use your unique billing portal:</p>
+    <p>
+      <a href="http://203.0.113.5/payment"></a>
+    </p>
+    <p><strong>Warning:</strong> Failure to complete payment within 24 hours will result in return to sender.</p>
+    <p>Sincerely,<br/>DHL Customer Support</p>
+  </body>
+</html>
+
+--XYZ123ABC--

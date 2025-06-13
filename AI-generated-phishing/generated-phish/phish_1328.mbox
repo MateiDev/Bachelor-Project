@@ -1,0 +1,43 @@
+From security@securemail.example.net Fri Jul 14 09:15:07 2023
+Message-ID: <20230714091507.ABC123@securemail.example.net>
+Date: Fri, 14 Jul 2023 09:15:07 -0400
+From: "SecureMail Portal Alert" <security@securemail.example.net>
+Reply-To: support@helpdesk.secureaccess.net
+To: user@victim.com
+Subject: SecureMail Portal Alert: Credential Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_ABCDEF"
+
+----=_Part_ABCDEF
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your SecureMail Portal account.
+To ensure uninterrupted access, please verify your credentials immediately.
+
+View your secure messages:
+http://87.129.45.23/verify
+
+For assistance, visit:
+help.support.securemail.example.net
+privacy.policy.securemail.example.net
+
+Thank you,
+SecureMail Portal Security Team
+
+----=_Part_ABCDEF
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity on your SecureMail Portal account.<br>
+       To ensure uninterrupted access, please verify your credentials immediately.</p>
+    <p>Click <a href="http://87.129.45.23/verify">here</a> to view your secure messages.</p>
+    <p>Alternatively, go to <a href="http://87.129.45.23/verify">https://secure.myportal.com/messages</a></p>
+    <p>For assistance, visit us at <a href="https://help.support.securemail.example.net">help.support.securemail.example.net</a> or <a href="https://privacy.policy.securemail.example.net">privacy.policy.securemail.example.net</a>.</p>
+    <p>Thank you,<br>SecureMail Portal Security Team</p>
+  </body>
+</html>
+----=_Part_ABCDEF--

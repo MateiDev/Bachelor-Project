@@ -1,0 +1,47 @@
+From no-reply@tax.gov Thu Jul 18 14:18:30 2024
+From: "Tax Refund Department" <no-reply@tax.gov>
+Reply-To: "Customer Support" <support@customer-care.com>
+To: user@example.org
+Subject: Urgent: Confirm Your Account Details for Tax Refund
+Date: Thu, 18 Jul 2024 14:18:30 +0000
+Message-ID: <20240718T141830Z-12345@tax.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f6d005fba4f6d0"
+
+--000000000000b3f6d005fba4f6d0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+Your request for a tax refund is pending. A small refund is waiting in your account.
+This is your LAST CHANCE to verify your banking details to receive your funds. Failure to act immediately may delay your refund or cause your funds to be forfeited.
+
+Please confirm your bank details here:
+https://secure.bank.verify.login.com/confirm
+
+For help, visit:
+http://www.tax.gov/help
+http://192.0.2.123/policy
+
+Best regards,
+Tax Refund Department
+
+--000000000000b3f6d005fba4f6d0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Your request for a tax refund is <strong>pending</strong>. A small refund is <em>waiting</em> in your account.<br>
+       This is your <span style="color:red">LAST CHANCE</span> to verify your banking details to receive your funds.
+       Failure to act <strong>immediately</strong> may delay your refund or cause your funds to be forfeited.
+    </p>
+    <p>Please confirm your bank details <a href="http://193.51.100.23/verify?user=12345"></a></p>
+    <p><a href="https://privacy.policy.tax.gov">Privacy Policy</a> | <a href="https://support.tax.gov">Help Center</a></p>
+    <p>Alternatively, click <a href="http://malicious.example.com">here</a> to update now!</p>
+    <p>Or visit our secure site: <a href="http://secure-bank.com">http://accounts.tax-authority.com</a></p>
+    <p>Regards,<br>Tax Refund Department</p>
+  </body>
+</html>
+
+--000000000000b3f6d005fba4f6d0--

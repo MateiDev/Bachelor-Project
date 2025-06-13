@@ -1,0 +1,29 @@
+```mbox
+From fake-support@secure-notification.com Wed Nov  1 12:00:00 2023
+Return-Path: <fake-support@secure-notification.com>
+Delivered-To: victim@example.com
+Received: from unknown (HELO secure-notification.com) (192.168.1.100)
+        by mail.example.com with SMTP; Wed, 1 Nov 2023 12:00:00 -0000
+From: "Support Team" <support@secure-updates.com>
+Reply-To: account-verification@secure-notification.com
+Subject: Urgent: Immediate Action Required on Your Account
+To: victim@example.com
+Date: Wed, 1 Nov 2023 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <h2>Your Immediate Attention Required</h2>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity on your account, and we need your urgent attention to avoid suspension.</p>
+    <p>Please <a href="http://192.168.1.101/verify">click here</a> to verify your account details.</p>
+    <p>For help and support, visit our <a href="http://example.com/help">help page</a> or review our <a href="http://example.com/privacy-policy">privacy policy</a>.</p>
+    <p>If you do not respond within 24 hours, your account will be permanently disabled for your safety.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Regards,</p>
+    <p>Security Team</p>
+</body>
+</html>
+```

@@ -1,0 +1,46 @@
+From support@taxservice.gov Tue Aug 29 10:15:30 2023
+Return-Path: <support@taxservice.gov>
+Delivered-To: recipient@example.com
+Received: from mail.taxservice.gov (mail.taxservice.gov [192.0.2.1]) by recipient.example.com with ESMTP id 12345 for <recipient@example.com>; Tue, 29 Aug 2023 10:15:30 -0400 (EDT)
+Subject: Urgent: Tax Refund Account Confirmation Needed
+From: Tax Service <support@taxservice.gov>
+To: recipient@example.com
+Date: Tue, 29 Aug 2023 10:15:30 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Immediate action required!
+
+Your tax refund of $58.23 is pending confirmation. To avoid cancellation of your refund, please confirm your bank details now:
+
+http://tax-refund.verify-bank.info/confirm?id=12345
+https://secure.refund.bank-portal.com/confirm?id=abcde
+
+Failure to comply within 24 hours will result in automatic cancellation of your refund!
+
+Sincerely,
+Tax Service Support Team
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Tax Refund Account Confirmation</title></head>
+<body>
+<p><strong>Attention!</strong> Your <span style="color:red;">tax refund</span> is pending. <em>Immediate action required!</em></p>
+<p>Click the image below to confirm your bank details and avoid cancellation:</p>
+<p><a href="http://tax-refund.verify-bank.info/confirm?id=12345"><img src="http://images.taxservice.gov/refund_button.png" alt="Confirm Refund"></a></p>
+<p>You may also confirm here: <a href="https://secure.refund.bank-portal.com/confirm?id=abcde"></a></p>
+<p>Or visit: <a href="http://verify.secure-refund.bank.example.com/validate?id=xyz789">http://verify.secure-refund.bank.example.com/validate?id=xyz789</a></p>
+<p><strong>Warning:</strong> Failure to confirm within 24 hours will <em>automatically</em> cancel your refund!</p>
+</body>
+</html>
+
+--BOUNDARY--

@@ -1,0 +1,50 @@
+From phishing@scammer.com Tue Mar 12 08:00:00 2024
+Return-Path: phishing@scammer.com
+From: "Rewards Team" <rewards@promo.scamsite.com>
+Reply-To: support@trustedpartner.com
+To: victim@target.com
+Subject: Urgent: Update your account to claim €50 voucher now
+Date: Tue, 12 Mar 2024 08:00:00 +0000
+Message-ID: <1234567890@promo.scamsite.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your reward is waiting! Claim your €50 voucher now by visiting the links below. Failure to do so within 24 hours will result in expiration.
+
+http://promo.reward.co.uk/activate
+http://192.0.2.123/claim?user=abc
+
+Click immediately to avoid losing your reward!
+
+Best regards,
+Rewards Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Member,</p>
+    <p>Your <strong>urgent</strong> reward of <strong>€50 Gift Voucher</strong> is ready! <span style="color:red;">Immediate action required: your voucher will expire in <strong>24 hours</strong>!</span></p>
+    <p>To claim, click the image below:</p>
+    <p>
+      <a href="http://192.0.2.123/giftcard">
+        <img src="http://promo.reward.co.uk/images/voucher.png" alt="Claim Voucher" />
+      </a>
+    </p>
+    <p>Or visit <a href="http://promo.reward.co.uk/activate">promo.reward.co.uk/activate</a> to proceed.</p>
+    <p>Account holders should verify details at <a href="http://malicious-scamsite.net/login">http://secure.givingsite.com</a> immediately.</p>
+    <p><a href="http://secure-update.finance.co"></a></p>
+    <p>If you have any questions, feel free to contact us.</p>
+    <p>Best regards,<br/>Rewards Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

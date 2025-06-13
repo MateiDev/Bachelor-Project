@@ -1,0 +1,41 @@
+From phishing-simulator@localhost Fri Jul 12 12:34:56 2024
+Date: Fri, 12 Jul 2024 12:34:56 +0000
+From: "Customer Support" <support@secure-bank.example.co.uk>
+Reply-To: <alert@securebannk.login-verify.example.com>
+To: victim@example.org
+Subject: Urgent: ACCOUNT Password Expires Today – Reset Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary123"
+
+------=_Boundary123
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We’ve detected an unusual sign-in attempt on your account from a new device. Your password is set to expire today.
+
+This is a critical alert! If you do not verify your account and reset your password immediately, your access will be suspended.
+
+Verify now: http://login.verify.system.secure.bank.example.com
+Reset password: http://secure.bank.example.co.uk/reset
+
+Thank you for your prompt attention.
+
+Customer Support
+
+------=_Boundary123
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Urgent Alert!</strong> We’ve detected an <em>unusual sign-in</em> attempt on your <strong>account</strong> from a new device.</p>
+    <p>Your <strong>password</strong> is set to <span style="color:red;">expire today</span>. To avoid <em>critical risk</em> and <em>account suspension</em>, you must <strong>verify now</strong> and <strong>reset immediately</strong>.</p>
+    <p><a href="http://login.verify.system.secure.bank.example.com"></a></p>
+    <p><a href="http://secure.bank.example.co.uk/reset"></a></p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Customer Support</p>
+  </body>
+</html>
+
+------=_Boundary123--

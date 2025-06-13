@@ -1,0 +1,51 @@
+From service@dhl-delivery.com Sat Sep 16 10:15:30 2023
+Return-Path: <service@dhl-delivery.com>
+Delivered-To: victim@example.com
+Received: by mail.example.com id h7gk...
+Received: from mail139.dhl.com (mail139.dhl.com [198.51.100.139])
+    by mail.example.com with ESMTP id abc123;
+    Sat, 16 Sep 2023 10:15:29 +0000
+From: "DHL Delivery Team" <service@dhl-delivery.com>
+Reply-To: support-urgent@dhl-security-update.net
+To: recipient@example.com
+Subject: Urgent: Delivery Held – Action Required
+Date: Sat, 16 Sep 2023 10:15:30 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01"
+
+------=_NextPart_000_01
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your shipment #DHL123456789 is currently on hold due to unpaid handling fees.
+
+To avoid return to sender, please follow the link below to release your package:
+
+http://192.168.1.105/claim?ref=DHL123456789
+
+If this is not paid within 24 hours, your package will be returned.
+
+Thank you,
+DHL Delivery Team
+
+------=_NextPart_000_01
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Urgent: Account Alert</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your shipment <b>#DHL123456789</b> is currently on hold due to unpaid handling fees.</p>
+<p>Please <a href="http://192.168.1.105/claim?ref=DHL123456789">here</a> to release your package.</p>
+<p>Alternatively, you can <a href="http://198.51.100.23/freecede">click here</a> to pay the fee directly.</p>
+<p>To verify account details, visit <a href="http://malicious.phish-server.com/reset">https://dhl.com/passwordreset</a> or use this link <a href="http://aler-ts.dhl-security-update.com/verify"><img src="http://198.51.100.23/dhl_logo.png" alt="DHL Secure"></a>.</p>
+<p><a href="https://privacy-policy.dhl.com"></a></p>
+<p>For help, see <a href="https://help.dhl.com">help</a>.</p>
+<p>Thank you,<br/>DHL Delivery Team</p>
+</body>
+</html>
+
+------=_NextPart_000_01--

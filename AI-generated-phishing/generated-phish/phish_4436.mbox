@@ -1,0 +1,55 @@
+From phishing@malicious.net Tue Jun 18 09:30:00 2024
+Return-Path: <support@bank.com>
+Received: from unknown (HELO mail.bank.com) (203.0.113.10)
+    by mail.receiver.com with SMTP; Tue, 18 Jun 2024 09:29:58 -0400
+From: "Bank Support" <support@bank.com>
+Reply-To: admin@fakeupdate.net
+To: customer23@domain.com
+Subject: URGENT: Password Expiration Notice—Verify Your Account Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f8c105cc9e9c2b"
+
+--000000000000b3f8c105cc9e9c2b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in on your account. Your password expires today – reset immediately to avoid suspension:
+
+1. https://bank.secure-login_verify.com/account
+2. http://192.0.2.123/confirm
+3. http://203.0.113.5/secure/reset
+
+Failure to verify now may result in permanent lock. For help, click here: http://85.25.196.11/help
+
+Thank you,
+Bank Support Team
+
+--000000000000b3f8c105cc9e9c2b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #c00;">URGENT: Action Required</h2>
+    <p>Dear Customer,</p>
+    <p style="color: #c00; font-weight: bold;">
+      Unusual sign-in detected—verify now! Your password expires today – reset immediately to avoid account suspension.
+    </p>
+    <ul>
+      <li><a href="http://203.0.113.5/secure/reset"><img src="http://203.0.113.5/banner.jpg" alt="Verify Account" style="border: none; width: 200px;"></a></li>
+      <li><a href="http://203.0.113.5/secure/reset">https://bank.com/reset-password</a></li>
+      <li><a href="http://203.0.113.5/verify">security.login.verify.bank.com</a></li>
+      <li><a href="http://192.0.2.123/confirm">http://192.0.2.123/confirm</a></li>
+    </ul>
+    <p>Failure to verify now may result in permanent lock.</p>
+    <p>Need assistance? <a href="http://85.25.196.11/help">click here</a></p>
+    <hr>
+    <p style="font-size: small; color: #666;">
+      <a href="https://bank.com/privacy-policy">Privacy Policy</a> | <a href="https://bank.com/help">Help Center</a>
+    </p>
+  </body>
+</html>
+
+--000000000000b3f8c105cc9e9c2b--

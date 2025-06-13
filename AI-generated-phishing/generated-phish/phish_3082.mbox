@@ -1,0 +1,42 @@
+From account-service@yourbank.com Wed Jul 21 10:15:00 2021
+Return-Path: <noreply@yourbank.com>
+Received: from mail.yourbank.com (mail.yourbank.com [192.0.2.10]) by mx.example.com with ESMTP id ABC12345 for <user@example.com>; Wed, 21 Jul 2021 10:15:00 -0400 (EDT)
+From: "Your Bank Account Team" <account-service@yourbank.com>
+Reply-To: security@secure-bank-verify.net
+Subject: URGENT: Password Expires Today – Reset Immediately to Avoid Suspension
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f6a205c1a8bbf2"
+
+--000000000000b3f6a205c1a8bbf2
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected an unusual sign-in on your account. Your password expires today.
+Please verify your identity immediately to avoid suspension.
+
+Visit the link below to verify now:
+https://secure.bank.com/login
+
+Thank you,
+Your Bank Security Team
+
+--000000000000b3f6a205c1a8bbf2
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p><strong>Unusual Sign-In Detected — Verify Now</strong></p>
+    <p>Dear User,</p>
+    <p>We noticed a <span style="color:red">suspicious</span> sign-in attempt on your <strong>account</strong> and your <strong>password</strong> <em>expires today</em>. <strong>Immediate action required</strong> to prevent account suspension.</p>
+    <p><a href="http://login.secure.bank-account.verify.com"></a></p>
+    <p>To verify your identity, please click the button below:</p>
+    <p><a href="http://secure.bank-verify.net/verify"><img src="cid:verifyimg" alt="Verify Now" /></a></p>
+    <p>Alternatively, visit <a href="http://evil.net/reset">https://www.yourbank.com/password-reset</a> if the button fails.</p>
+    <p>If you do not verify within the next <strong>30 minutes</strong>, your account will be temporarily locked due to security policy.</p>
+    <p>Regards,<br/>Your Bank Account Security Team</p>
+  </body>
+</html>
+
+--000000000000b3f6a205c1a8bbf2--

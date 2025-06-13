@@ -1,0 +1,53 @@
+```mbox
+From phishing@example.com Wed Oct 18 10:00:00 2023
+Return-Path: <phishing@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by yourmailserver.com (Postfix) with ESMTP id ABC123XYZ
+    for <user@company.com>; Wed, 18 Oct 2023 10:00:00 -0400 (EDT)
+Date: Wed, 18 Oct 2023 14:00:00 +0000
+From: "DHL Support" <support@fakeshipping.com>
+Reply-To: "DHL Support" <support@anotherdomain.com>
+Subject: Urgent: Package Awaiting Your Action
+To: user@company.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------030203060104010401020103"
+
+This is a multi-part message in MIME format.
+--------------030203060104010401020103
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but there is an issue. Your immediate attention is required to prevent return of the package.
+
+For more details, please click the link below:
+
+http://secure.deliverupdate.com/track?id=123456789
+
+Thank you,
+DHL Support Team
+
+--------------030203060104010401020103
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package but there is an issue. Your immediate attention is required to prevent return of the package.</p>
+    <p>
+      <img src="cid:trackingimage" alt="track" border="0" />
+      <a href="http://maliciouslink.example.com"><img style="display:none;" src="tracking_pixel.jpg" alt="Track Your Parcel" /></a>
+    </p>
+    <p>
+      Please visit our <a href="http://secure.deliverupdate.com/track?id=123456789">website</a> or <a href="http://maliciouslink.example.com">here</a> to resolve the issue.
+    </p>
+    <p>For privacy policy click <a href="http://www.dhl.com/privacy-policy">here</a>.</p>
+    <p>Thank you,<br>
+    DHL Support Team</p>
+  </body>
+</html>
+--------------030203060104010401020103--
+```

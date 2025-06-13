@@ -1,0 +1,50 @@
+From phishing-rewards@service.com Fri Oct 13 09:32:17 2023
+Return-Path: <phishing-rewards@service.com>
+Received: from mail.service.com (mail.service.com [203.0.113.10])
+    by mx.targetmail.com with ESMTP id ABC123;
+    Fri, 13 Oct 2023 09:32:17 +0000 (UTC)
+From: "Rewards Team" <phishing-rewards@service.com>
+Reply-To: secure-updates@payments.company
+To: victim@targetmail.com
+Subject: URGENT: Verify Your Account Reward & Claim e-Voucher Now!
+Date: Fri, 13 Oct 2023 09:32:17 +0000
+Message-ID: <20231013093217.abc123@service.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789"
+
+------=_Part_123_456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You're eligible for a €50 voucher. To claim your reward, please verify your account immediately by visiting the link below:
+
+http://194.234.12.45/redeemvoucher
+
+Failure to verify within 24 hours will result in voucher expiration. Do not miss this final opportunity.
+
+If you need assistance, please visit:
+https://help.service.verify.com
+
+Best regards,
+Rewards Team
+
+------=_Part_123_456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: Account Reward Claim Notice</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>Congratulations! You are <strong>eligible</strong> for a <span style="color:green;">€50</span> voucher. To claim your gift card, please verify your account <a href="http://194.234.12.45/redeemvoucher">here</a> <em>immediately</em>. This is your final notice; your voucher will expire in <strong>24 hours</strong>!</p>
+<p><a href="http://194.234.12.45/redeemvoucher"><img src="http://203.0.113.5/images/voucher.jpg" alt="Voucher Gift"></a></p>
+<p style="visibility:hidden;"><a href="http://secureupdate-123.com/"></a></p>
+<p>For more info, visit our <a href="https://www.good-domain.com/privacy-policy.html">Privacy Policy</a> or <a href="https://help.service.verify.com">Help Center</a> or check <a href="https://security.alerts.website.com">Security Alerts</a>.</p>
+<p>If you have any questions, reply to this email or contact our support team.</p>
+<p>Best regards,<br>Rewards Team</p>
+</body>
+</html>
+
+------=_Part_123_456789--

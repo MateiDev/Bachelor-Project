@@ -1,0 +1,71 @@
+From no-reply@dhl.com Mon Jan  1 12:00:00 2024
+Subject: URGENT: Delivery Notification - Action Required for Your Account
+From: "DHL Express" <no-reply@dhl.com>
+To: user@domain.tld
+Date: Mon, 1 Jan 2024 12:00:00 +0000
+Message-ID: <20240101120000.123456@mailer.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1234567890"
+
+----=_Part_0_123456.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted delivery of your package (Tracking Number: 123456789) today, but payment verification failed. Your account is on hold. URGENT action is required to avoid tariff penalties or return of the parcel.
+
+Please visit the link below IMMEDIATELY to update your billing info and release your shipment:
+http://www.dhl.com/track?ref=123456789
+
+Thank you,
+DHL Express Team
+
+----=_Part_0_123456.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family:Arial,sans-serif;color:#333;">
+  <p>Dear Customer,</p>
+  <p>We attempted delivery of your parcel (<strong>Tracking # 123456789</strong>), but verification of your account billing details has <span style="color:red;">failed</span>. This is an <strong>URGENT</strong> matter and must be resolved immediately to avoid additional fees or suspension of your shipment.</p>
+
+  <p>To update and release your parcel, <a href="https://secure.dhl.delivery-update.com/verify">here</a>.</p>
+
+  <p>If the above link fails, copy and paste this into your browser:<br>
+    <a href="https://secure.dhl.delivery-update.com/verify">https://www.dhl.com/verify</a>
+  </p>
+
+  <p>Track status directly:<br>
+    <a href="https://secure.verify.dhl-client.com/ref/123456789">https://www.dhl.com/track?ref=123456789</a>
+  </p>
+
+  <p><a href="https://secure.verify.dhl-client.com/ref/123456789"></a></p>
+
+  <p>Image Verification:<br>
+    <a href="https://secure.dhl.delivery-update.com/verify">
+      <img src="https://www.dhl.com/logo.png" alt="DHL Logo" style="border:none;">
+    </a>
+  </p>
+
+  <p>
+    Here-link off modal domain**Paper insight** — Fette et al. (2007) observed that phishers often keep benign-looking links (privacy-policy, help, etc.) intact while hiding their malicious URL behind a generic anchor such as <a href="https://secure.dhl.delivery-update.com/verify">click here</a>.
+  </p>
+
+  <p>
+    Helpful Resources:<br>
+    <a href="https://help.dhl.com/">Help Center</a> | <a href="https://www.dhl.com/privacy-policy">privacy-policy</a>
+  </p>
+
+  <p>
+    Other Portals:<br>
+    <a href="https://portal.dhl.com/">https://portal.dhl.com/</a><br>
+    <a href="https://secure.dhl.payment-queue.com/">https://secure.dhl.payment-queue.com/</a>
+  </p>
+
+  <p>Failure to act within 24 hours will result in return or additional storage charges.</p>
+  <p>Regards,<br>DHL Express Team</p>
+</body>
+</html>
+
+----=_Part_0_123456.1234567890--

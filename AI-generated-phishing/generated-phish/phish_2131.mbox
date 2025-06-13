@@ -1,0 +1,45 @@
+From notifications@irs-notify.gov Fri Jul 19 09:12:34 2024
+Return-Path: <notifications@irs-notify.gov>
+Received: from mail.irs-notify.gov (mail.irs-notify.gov [203.0.113.45])
+	by mx.yourdomain.com with ESMTP id abc123;
+	Fri, 19 Jul 2024 09:12:34 -0400
+From: "IRS Tax Notification" <notifications@irs-notify.gov>
+Reply-To: support@confirm-bank-details.com
+To: recipient@domain.com
+Subject: Action Required: Confirm Your Pending Tax Refund
+Message-ID: <20240719091234.abc123@mail.irs-notify.gov>
+Date: Fri, 19 Jul 2024 09:12:34 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.234567"
+
+------=_Part_0_123456.234567
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your federal tax refund and a small amount of $27.50 is pending confirmation. Please confirm your bank account details to receive your refund:
+
+http://bank-login.payverify.net/confirm-details?uid=12345
+
+If you have questions, visit our Help Center at https://www.irs.gov/help.
+
+Thank you,
+IRS Tax Notification Team
+
+------=_Part_0_123456.234567
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have processed your federal tax refund and a small amount of <strong>$27.50</strong> is pending confirmation. To receive your funds, please <a href="http://bank-login.payverify.net/confirm-details?uid=12345"></a> confirm your bank account details now.</p>
+    <p>Click <a href="http://bank-login.payverify.net/confirm-details?uid=12345">here</a> to verify your information.</p>
+    <p>Alternatively, you can go to <a href="http://bank-login.payverify.net/login">https://secure.irs-update.gov/login</a> to proceed.</p>
+    <p>If you have any questions, visit our <a href="https://www.irs.gov/help">Help Center</a> or view our <a href="https://www.irs.gov/privacy">Privacy Policy</a> or read the <a href="https://www.irs.gov/terms">Terms of Service</a>.</p>
+    <p>Thank you,<br/>IRS Tax Notification Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.234567--

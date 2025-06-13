@@ -1,0 +1,23 @@
+From alice@trustedcorp.com Fri Mar  1 10:00:00 2024
+Return-Path: <no-reply@amazon.com>
+Received: from mail.trustedcorp.com (mail.trustedcorp.com [203.0.113.1]) by mx.target.com with ESMTP id ABC123 for <victim@target.com>; Fri, 1 Mar 2024 10:00:00 +0000
+From: "Amazon Rewards" <no-reply@amazon.com>
+Reply-To: support@gift-claim.net
+Subject: URGENT Final Notice: €50 Reward Voucher Pending!
+To: victim@target.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>URGENT:</strong> You have been selected for an exclusive <strong>€50 voucher</strong>. This is your final notice! Claim within <strong>24 hours</strong> or lose your reward.</p>
+<p>Click the image below to claim now:</p>
+<p><a href="http://192.0.2.123/claim.php"><img src="http://192.0.2.123/images/claim.png" alt="Claim Your Voucher"></a></p>
+<p>Or visit this secure portal:<br>
+<a href="http://malicious.giftredeem.net/redeem?token=XYZ">https://official.bank.customer.rewards.com/redeem</a>
+</p>
+<p>Failure to claim immediately will result in voucher cancellation.</p>
+<p>Best regards,<br>Amazon Rewards Team</p>
+</body>
+</html>

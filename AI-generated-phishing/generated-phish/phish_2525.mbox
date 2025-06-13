@@ -1,0 +1,31 @@
+```mbox
+From phishing-alert@secureportal.com Fri Oct 20 12:30:00 2023
+Date: Fri, 20 Oct 2023 12:30:00 -0700
+From: "Account Security Update" <phishing-alert@secureportal.com>
+Reply-To: security-update@accountsafety.com
+To: victim@example.com
+Subject: Urgent: Immediate Account Verification Required
+
+Dear User,
+
+We have detected suspicious activities on your account, and we require immediate verification to ensure your account is not compromised. Failing to verify within 24 hours could result in a temporary suspension of your account access.
+
+To restore access, please click on the secured link provided:
+
+<a href="https://secureportal.verification.process.account-update-secure.com" target="_blank">https://secureportal.verification.process.account-update-secure.com</a>
+
+For your reference, please review our Privacy Policy and Help documents:
+- <a href="https://www.trustedsupport.com/privacy-policy">Privacy Policy</a>
+- <a href="https://www.trustedsupport.com/help">Help</a>
+
+Additionally, for further assistance, you may contact our support team by clicking <a href="https://secureportal.verification.process.account-update-secure.com/support">here</a>.
+
+Please note: Any delay in response may result in more severe actions taken against your account.
+
+<a href="https://malicioussite.ab/encrypted" target="_blank"><img src="https://secure-icons.auth.expert/attention.png" alt="Attention Required"></a>
+
+Thank you for your prompt attention to this urgent matter.
+
+Best regards,
+Account Security Team
+```

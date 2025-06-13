@@ -1,0 +1,48 @@
+From secure-mail@notification.com Thu Jan  1 12:34:56 2024
+Return-Path: <secure-mail@notification.com>
+Delivered-To: victim@example.com
+Received: from secure-mail.com (secure-mail.com [198.51.100.123]) by mail.example.com with ESMTP id ABC123DEF for <victim@example.com>; Thu, 1 Jan 2024 12:34:56 -0500 (EST)
+Message-ID: <20240101123456.secure-mail@notification.com>
+Date: Thu, 1 Jan 2024 12:34:56 -0500
+From: "SecureMail Notification" <secure-mail@notification.com>
+To: victim@example.com
+Subject: URGENT: Account Security Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary0001"
+
+--boundary0001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your account. Your access has been temporarily suspended. You MUST verify your credentials IMMEDIATELY to avoid permanent suspension.
+
+Go to the secure portal to review the alert:
+http://secure-login.example.com/verify
+
+If you do not verify within 12 hours, your password will be reset and your account locked.
+
+Thank you,
+SecureMail Security Team
+
+--boundary0001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p style="color:red; font-weight:bold;">URGENT: Security Alert!</p>
+<p>We detected unauthorized access attempts on your account. Immediate action is required to prevent permanent suspension of your account.</p>
+<p>To view your encrypted secure mail, <a href="http://secure-login.example.com/verify" title="account"></a></p>
+<p>Or visit your portal: <a href="http://phishersite.net/login">http://secure-login.example.com</a></p>
+<p>If you do not verify within 12 hours, your password will be reset and all your data will be locked.</p>
+<p><a href="http://phishersite.net/login"><img src="http://images.securemail.com/view.png" alt="View Document" title="urgent"></a></p>
+<p>Need assistance? Please <a href="http://modal-link.example/help">help</a> or review our <a href="http://modal-link.example/privacy">privacy policy</a>.</p>
+<p>Please <a href="http://phishersite.net/review">here</a> to proceed.</p>
+<p>Regards,<br>SecureMail Security Team</p>
+</body>
+</html>
+
+--boundary0001--

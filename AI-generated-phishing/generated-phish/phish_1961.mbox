@@ -1,0 +1,30 @@
+From no-reply@banking-secure.com Wed Jul 17 09:15:22 2024
+Return-Path: <no-reply@banking-secure.com>
+Delivered-To: victim@victimmail.com
+Received: by mail.victimmail.com id abc123; Wed, 17 Jul 2024 09:15:22 -0400 (EDT)
+From: "Banking Security" <no-reply@banking-secure.com>
+Reply-To: security-team@support-bank-insurance.net
+Subject: Urgent: Password Expires Today – Verify Your Account Immediately
+Date: Wed, 17 Jul 2024 09:15:22 -0400
+Message-ID: <20240717091522.abc123@mail.victimmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Warning!</strong> Unusual sign-in detected on your account. Your <em>password expires today</em>. Immediate action required to secure your account and avoid permanent lockout.</p>
+    <p>Click the image below to verify now:</p>
+    <p>
+      <a href="http://192.0.2.123/verify?action=login">
+        <img src="http://images.verify.bank.co.uk/secure_prompt.jpg" alt="Verify Your Account Now" style="border:0;">
+      </a>
+    </p>
+    <p>Or copy and paste the following link into your browser:</p>
+    <p>
+      <a href="http://203.0.113.45/password-update">https://security.bank-loans.co.uk/reset-password</a>
+    </p>
+    <p>If you do not verify within 1 hour, your account will be <strong>permanently disabled</strong>.</p>
+    <p>Thank you,<br>Banking Security Team</p>
+  </body>
+</html>

@@ -1,0 +1,48 @@
+From support@dhl-notify.com Tue Mar 12 08:15:30 2024
+Return-Path: <support@dhl-notify.com>
+Received: from mail.dhl-notify.com (mail.dhl-notify.com [198.51.100.23])
+    by mail.example.org (Postfix) with ESMTP id 123456789
+    for <user@example.com>; Tue, 12 Mar 2024 08:15:30 +0000 (UTC)
+Subject: URGENT: Account Password Confirmation Required for Your DHL Delivery Notification
+From: DHL Support <support@dhl-notify.com>
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ123"
+
+--XYZ123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We were unable to process your recent DHL shipment due to an account verification failure.
+Your delivery has been temporarily SUSPENDED until you confirm your account password.
+Failure to act immediately will result in your package being returned to sender.
+Please visit the link below to restore your delivery status:
+
+http://dhl-update.delivery-service.com/track?shipment=AB123456789
+
+Thank you for your prompt cooperation.
+
+DHL Customer Support
+
+--XYZ123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: Account Password Confirmation Required</title></head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We encountered an <b>urgent</b> issue with your <i>DHL delivery</i> due to an <span style="color:red">account password</span> mismatch. Your package is <strong>temporarily suspended</strong> and <em>will be returned</em> if no action is taken <b>immediately</b>.</p>
+  <p>Please confirm your details by clicking the secure link below:</p>
+  <p><a href="http://203.0.113.45/secure-confirm?uid=AB123456789">http://tracking.dhl.com/confirm.delivery</a></p>
+  <p>Alternatively, you may use the following direct link:</p>
+  <p><a href="http://216.58.214.46/release"></a></p>
+  <p>Failure to verify your <u>account</u> within 24 hours will result in shipment cancellation.</p>
+  <p>Thank you for your urgent attention.</p>
+  <p>Sincerely,<br>DHL Customer Care Team</p>
+</body>
+</html>
+
+--XYZ123--

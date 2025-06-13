@@ -1,0 +1,45 @@
+From security@service.com Wed Jul 05 14:00:00 2023
+Return-Path: <security@service.com>
+To: user@domain.com
+Subject: Urgent Account Password Alert – Action Required Now
+Date: Wed, 05 Jul 2023 14:00:00 -0400
+Message-ID: <20230705140000.security@service.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your account. Your password will expire today. To avoid suspension, verify your identity immediately by following the links below:
+
+1. http://192.168.0.10/reset
+2. http://203.0.113.5/account/check
+
+Failure to act now may result in permanent account lock.
+
+Regards,
+Security Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p style="color:red;font-weight:bold;">Urgent Security Alert</p>
+<p>We noticed an unusual sign-in from a new location. Your account password expires today – reset immediately to prevent suspension.</p>
+<ul>
+  <li><a href="http://192.168.0.10/reset"></a></li>
+  <li><a href="http://203.0.113.5/account/check"></a></li>
+  <li><a href="http://login.security.authentication.portal.com/verify?user=123"></a></li>
+  <li><a href="http://123.45.67.89.secure.verify.me/login"></a></li>
+</ul>
+<p>If you do not verify within 12 hours, access will be restricted.</p>
+<p>Regards,<br>Security Team</p>
+</body>
+</html>
+
+--===============123456789==--

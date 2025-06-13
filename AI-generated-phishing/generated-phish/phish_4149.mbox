@@ -1,0 +1,50 @@
+From portal-security@secure-portal.com Tue Aug 24 14:15:22 2021
+From: "Portal Security Alert" <portal-security@secure-portal.com>
+Reply-To: helpdesk@support-safe.org
+To: user@victim.com
+Subject: URGENT: Account Password Verification Required
+Date: Tue, 24 Aug 2021 14:15:22 -0400
+Message-ID: <202108241815.portal-security@secure-portal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unauthorized access to your account and a potential security breach. To prevent immediate suspension, you must verify your password urgently.
+
+Visit the secure portal to update your credentials:
+https://mail.secure-portal.com/login
+If that link does not work, go to:
+http://192.0.2.45/verify
+
+Failure to verify within 24 hours will result in account lock.
+
+Thank you,
+Portal Security Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h2 style="color:red;">URGENT: Security Alert</h2>
+    <p>Dear User,</p>
+    <p>We have detected a <strong>critical security breach</strong> in your account due to multiple unauthorized login attempts. You must verify your password <em>immediately</em> to avoid account suspension.</p>
+    <ul>
+      <li>Last login attempt from IP: 203.0.113.5</li>
+      <li>Breach time: 2021-08-24 13:50 UTC</li>
+    </ul>
+    <p>Please <a href="http://192.0.2.45/verify">click here</a> to verify your credentials now.</p>
+    <p>Alternatively, you can access your secure portal below:</p>
+    <p><a href="http://203.0.113.10/secure.login.portal.company.com"></a></p>
+    <p>For assistance, review our <a href="http://malicious.helpdesk.net/privacy-policy">https://mail.secure-portal.com/privacy-policy</a> or visit our <a href="http://phish.attacker.com/help.html">help page</a>.</p>
+    <p>If you do not verify within 24 hours, your account will be locked.</p>
+    <p>Thank you,<br/>Portal Security Team</p>
+  </body>
+</html>
+--==BOUNDARY==--

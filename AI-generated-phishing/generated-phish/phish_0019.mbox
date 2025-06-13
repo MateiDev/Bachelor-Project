@@ -1,0 +1,20 @@
+From nobody Tue Oct 10 14:33:12 2023
+Return-Path: <alert-service@sample.com>
+Received: from unexpected-domain.com (unknown [203.0.113.10])
+	by mail.example.com (Postfix) with ESMTP id 123456789AB
+	for <victim@example.com>; Tue, 10 Oct 2023 14:33:11 +0000 (UTC)
+Date: Tue, 10 Oct 2023 14:33:11 +0000 (UTC)
+From: "Security Service" <alert-service@sample.com>
+Reply-To: noreply@unverified-access.com
+Subject: Urgent: Immediate Action Required - Secure Your Account Now!
+To: undisclosed-recipients:;
+
+<html>
+<body>
+<p>Dear user,</p>
+<p>We have detected multiple unauthorized login attempts to your account. As your safety is our priority, we require immediate action to secure your account.</p>
+<p>Please <a href="http://192.0.2.0/secure/login" style="text-decoration:none;"><img src="http://203.0.113.10/secure-image.jpg" alt="Secure Your Account Now" style="border:none;" /></a> to confirm your details. Failure to do so may result in your account being permanently locked for your protection.</p>
+<p>For more information, please review our <a href="https://www.sample.com/privacy-policy">Privacy Policy</a> or visit our <a href="https://www.sample.com/help">Help Center</a>.</p>
+<p>Stay Safe,<br/> The Security Team<br/></p>
+</body>
+</html>

@@ -1,0 +1,56 @@
+From security@secureportal.com Sat Mar 11 11:45:36 2023
+Message-ID: <1234567890@secureportal.com>
+Date: Sat, 11 Mar 2023 11:45:36 +0000
+From: "Secure Portal Alerts" <security@secureportal.com>
+Reply-To: "Report Desk" <reports@portal-support.com>
+To: user@victim.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_0001_01D..."
+
+----=_Part_000_0001_01D...
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account password is scheduled to expire in 24 hours. This is a CRITICAL security notification.
+To avoid immediate suspension, you MUST verify your credentials now:
+
+http://203.0.113.45/login
+http://192.168.100.55/secure-alert
+
+For assistance, visit our privacy-policy:
+http://secureportal.com/privacy
+
+Failure to comply will result in permanent account lock.
+
+Sincerely,
+Secure Portal Team
+
+----=_Part_000_0001_01D...
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p><strong>Your account password is scheduled to expire in <span style="color:red;">24 hours</span>.</strong>
+This is a <em>CRITICAL</em> security notification.</p>
+<p>To avoid <u>immediate suspension</u>, you <span style="color:red;">MUST</span> verify your credentials now:</p>
+<p>
+<a href="http://203.0.113.45/login"><img src="http://192.168.100.55/images/sec_logo.png" alt="SecureMail" /></a><br/>
+<a href="http://203.0.113.45/login">click here</a> to verify your account.
+</p>
+<p>Alternate login:</p>
+<p><a href="http://login.secure.portalcompany.com.verify.secure.mail.203.0.113.45/login">
+https://secureportal.com/login</a></p>
+<p>Need help? <a href="http://secureportal.com/privacy">privacy-policy</a> | 
+<a href="http://secureportal.com/help">help</a></p>
+<p>Failure to comply will result in <span style="font-weight:bold;">permanent account lock</span>.</p>
+<p>Sincerely,<br/>
+Secure Portal Team</p>
+</body>
+</html>
+
+----=_Part_000_0001_01D----

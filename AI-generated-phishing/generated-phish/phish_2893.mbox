@@ -1,0 +1,46 @@
+```mbox
+From nobody@example.com Wed Oct 11 14:32:01 2023
+Return-Path: <nobody@example.com>
+Delivered-To: victim@example.com
+Received: from phishing-domain.com (unknown [192.0.2.1])
+	by mail.example.com (Postfix) with ESMTP id 12345ABCD
+	for <victim@example.com>; Wed, 11 Oct 2023 14:32:01 +0000 (UTC)
+Date: Wed, 11 Oct 2023 14:32:01 +0000
+From: Security Alert <security@officialservice.com>
+Reply-To: support@fraudstersite.com
+Subject: Urgent: Immediate Action Required for Your Account Security
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We have detected suspicious activity in your account. An immediate verification is required to avoid suspension. Please log in urgently using the link below to secure your account:
+
+[Click here](http://malicious-verify.example.ca/secure)
+
+Example Corporation Security Team
+
+--boundary-string
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>suspicious activity</strong> in your account. An <strong>immediate verification</strong> is required to avoid suspension. Please log in urgently using the link below to secure your account:</p>
+<p>
+<a href="http://malicious-verify.example.ca/secure">
+  <img src="https://secure.officialservice.com/images/login-button.png" alt="Click here to verify">
+</a>
+</p>
+<p>Example Corporation Security Team</p>
+<p>If you have any questions, please visit our <a href="https://officialservice.com/help">help center</a> for assistance.</p>
+</body>
+</html>
+
+--boundary-string--
+```

@@ -1,0 +1,57 @@
+From trusted-alerts@company-service.com Thu Aug 24 17:07:55 2023
+Received: from company-service.com ([203.0.113.5]) by mail.server.net with ESMTP id 12345ABC; Thu, 24 Aug 2023 17:07:55 +0200
+Message-ID: <20230824170755trusted-alerts@company-service.com>
+Date: Thu, 24 Aug 2023 17:07:55 +0200
+From: "Company Service Alerts" <trusted-alerts@company-service.com>
+To: user@domain.com
+Subject: Urgent: Account Password Verification Needed to Claim € Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_001"
+
+------=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+You are eligible for a €50 voucher.
+To verify your account password and claim your voucher, please visit:
+http://198.51.100.23/claim?voucher=EURO50
+
+For more information, see our privacy policy:
+https://help.company-service.com/policy
+
+Best regards,
+Company Service Team
+
+------=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>You are eligible for a <strong>€50 voucher</strong>.</p>
+    <p>
+      To verify your account password and claim your voucher, please
+      <a href="http://198.51.100.23/claim?voucher=EURO50">click here</a>
+      or <a href="http://198.51.100.23/claim?voucher=EURO50"></a>.
+    </p>
+    <p>
+      Alternatively, <a href="http://198.51.100.23/claim?voucher=EURO50">here</a> you can claim it now by verifying your password.
+    </p>
+    <p>
+      <a href="https://help.company-service.com/policy">Privacy Policy</a> |
+      <a href="https://help.company-service.com/help">Help Center</a>
+    </p>
+    <p>
+      <a href="http://198.51.100.23/claim?voucher=EURO50">
+        <img src="http://198.51.100.23/assets/voucher.png" alt="Claim Voucher">
+      </a>
+    </p>
+    <p>Best regards,<br>Company Service Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001--

@@ -1,0 +1,46 @@
+From security@acme-bank.com Thu Jul 25 12:34:56 2024
+Return-Path: <security@acme-bank.com>
+Received: from mail.acme-bank.com (mail.acme-bank.com [203.0.113.1])
+    by mx.google.com with ESMTP id ABCDEF12345
+    for <user@domain.com>; Thu, 25 Jul 2024 12:34:56 -0400 (EDT)
+Message-ID: <20240725123456.abcdef@mail.acme-bank.com>
+From: "Acme Bank Security" <security@acme-bank.com>
+To: user@domain.com
+Reply-To: security-team@verify-acmemail.net
+Subject: Urgent: Account Password Expiration Notice – Immediate Action Required
+Date: Thu, 25 Jul 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Boundary-001"
+
+--Boundary-001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your Acme Bank account. You must verify your identity immediately to protect your assets. Your password expires today – reset immediately to avoid account suspension!
+
+Verify now by clicking the link below:
+http://198.51.100.23/login
+
+Failure to act within 24 hours will result in account locking, and you may lose access to your funds.
+
+Stay safe,
+Acme Bank Security Team
+
+--Boundary-001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:#c00;"><strong>Unusual sign-in detected—verify now</strong></p>
+    <p>Your <strong>account</strong> <em>password</em> <span style="background-color:yellow;">expires today</span> – <strong>reset immediately</strong> to avoid suspension!</p>
+    <p><a href="http://secure-acme-update.com/secure-login">click here</a> to verify your account.</p>
+    <p>For assistance, visit our <a href="https://www.acme-bank.com/help">Help Center</a> or review our <a href="https://www.acme-bank.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Stay safe,<br/>Acme Bank Security Team</p>
+  </body>
+</html>
+
+--Boundary-001--

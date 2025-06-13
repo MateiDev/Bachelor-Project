@@ -1,0 +1,62 @@
+From phishing@irs.gov Wed Jan 10 15:00:00 2024
+Message-ID: <20240110150000.abcdef@irs.gov>
+Date: Wed, 10 Jan 2024 15:00:00 -0500
+From: "IRS Tax Refund Department" <refund@irs.gov>
+Reply-To: admin.support@mybanking.com
+Subject: Urgent: Tax Refund Pending – Action Required Immediately!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==123456=="
+
+--==123456==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate that you have an unclaimed tax refund of $45.73 waiting. This is a final notice. To avoid missing your payment, please confirm your bank account details immediately.
+
+Click the link below to verify:
+https://security.update.verify.online.company.com/refund
+
+Alternatively, go to:
+http://5.6.7.8/confirm
+
+This is your last chance. Failure to act now will result in forfeiture of your refund.
+
+For questions, visit our help page:
+https://www.irs.gov/help
+
+Sincerely,
+IRS Tax Refund Department
+
+--==123456==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p><strong>URGENT:</strong> Your tax refund of <strong>$45.73</strong> is <em>pending</em>. This is your <span style="color:red;">final notice</span>!<br>
+    To avoid losing your refund, <a href="http://5.6.7.8/confirm">confirm your bank details now</a>.</p>
+    <p>Click <a href="http://5.6.7.8/confirm"></a> to proceed.</p>
+    <p>For more information, <a href="http://123.45.67.89/status">here</a>.</p>
+    <p>Verify via security portal:<br>
+      <a href="http://123.45.67.89/refund">
+        https://security.update.verify.online.company.com/refund
+      </a>
+    </p>
+    <p>
+      <a href="http://9.10.11.12/bank">
+        <img src="http://help.company.com/images/confirm.png" alt="Confirm Details" />
+      </a>
+    </p>
+    <hr>
+    <p>
+      <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> |
+      <a href="https://www.irs.gov/help">Help</a>
+    </p>
+    <p>Sincerely,<br>IRS Tax Refund Department</p>
+  </body>
+</html>
+
+--==123456==--

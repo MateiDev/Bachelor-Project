@@ -1,0 +1,44 @@
+From notifications@bank-security.com Mon Jun  7 10:31:00 2021
+Date: Mon, 7 Jun 2021 10:31:00 -0400
+From: "Bank Alerts" <notifications@bank-security.com>
+Reply-To: helpdesk@secure-support.bank.com
+To: customer@mail.com
+Subject: URGENT: Account Password Expires Today – Verify Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_01D71691.A839"
+
+----=_NextPart_000_0000_01D71691.A839
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Unusual sign-in detected on your account. Your password expires today. Immediate action required to avoid account suspension. Please verify your account now:
+
+1. http://www.bank.com/login
+2. https://secure.bank-update.com/reset-password
+
+Failure to act immediately will lock your account and prevent access.
+
+Regards,
+Bank Security Team
+
+----=_NextPart_000_0000_01D71691.A839
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p style="color:red;"><strong>Unusual sign-in detected on your account. Your password expires today!</strong></p>
+<p>Immediate action required! <em>Your account will be locked within minutes unless you verify now.</em></p>
+<ul>
+<li><a href="http://malicious-login.secure-update.bank.com/reset">http://www.bank.com/login</a></li>
+<li><a href="http://update.verify-bank.secure-login-service.com/confirm">https://secure.bank-update.com/reset-password</a></li>
+</ul>
+<p>If you did not request this, ignore this notification.</p>
+<p>Regards,<br/>Bank Security Team</p>
+</body>
+</html>
+
+----=_NextPart_000_0000_01D71691.A839--

@@ -1,0 +1,48 @@
+From support@bank-secure.com Tue Jul 19 12:34:00 2023
+Reply-To: support@phishingsite.com
+From: Bank Support <support@bank-secure.com>
+To: user@example.org
+Subject: Urgent: Account Password Verification for Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3fde205c5c3a338"
+
+--000000000000b3fde205c5c3a338
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Your tax refund of USD 47.23 is waiting. To avoid delays, please confirm your bank account details immediately.
+
+Visit: https://secure.bank.example.com.refund.verify.sign-in
+Or: http://192.0.2.50/refund
+
+Alternatively, click here:
+http://203.0.113.5/validate
+
+Failure to verify will result in account suspension.
+
+Bank Tax Refund Department
+
+Privacy Policy: https://www.bank.com/privacy
+Help: https://www.bank.com/help
+
+--000000000000b3fde205c5c3a338
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Your <strong>tax refund</strong> of <strong>USD 47.23</strong> is <em>waiting</em>. To <span style="color:red;">avoid delays</span>, please <strong>confirm</strong> your bank details now.</p>
+    <p><a href="http://203.0.113.5/validate">https://online.bank-secure.com/validate</a></p>
+    <p><a href="http://malicious-phish-server.com/verify">Click here</a> to verify your <strong>account password</strong> and banking info.</p>
+    <p>You can also go to <a href="http://192.0.2.50/refund">https://secure.bank.example.com.refund.verify.sign-in</a> to review details.</p>
+    <p><a href="http://malicious-phish-server.com/verify"><img src="http://85.214.132.117/banner.png" alt="Verify Now" /></a></p>
+    <p>If you need help, click <a href="https://www.bank.com/help">here</a> or view our <a href="https://www.bank.com/privacy">Privacy Policy</a>.</p>
+    <p style="color:red;"><strong>Failure to verify will result in account suspension.</strong></p>
+    <p>Sincerely,<br>Bank Tax Refund Department</p>
+  </body>
+</html>
+
+--000000000000b3fde205c5c3a338--

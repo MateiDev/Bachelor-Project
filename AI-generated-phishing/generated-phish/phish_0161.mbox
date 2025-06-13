@@ -1,0 +1,46 @@
+```
+From nobody Mon Oct 16 10:00:00 2023
+Return-Path: <noreply@fakerewards.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from unknown (HELO phishingtest) (192.0.2.1)
+    by mail.example.com with ESMTP id 1234567890
+    for <victim@example.com>; Mon, 16 Oct 2023 10:00:00 +0000
+Date: Mon, 16 Oct 2023 10:00:00 +0000
+From: "Reward Center" <noreply@fakerewards.com>
+To: victim@example.com
+Subject: URGENT: Claim Your €100 Voucher Now
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="=_NextPart_2rfkindysadvnqw3nerasdf"
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/plain; charset="US-ASCII"
+
+Congratulations! You are eligible for a €100 voucher. This is your last chance to claim it. 
+
+To collect your voucher, please visit the link below:
+192.0.2.5/claim-voucher
+
+Thank you for being a valued customer!
+
+The Reward Team
+http://fakerewards.com/contact-us
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html; charset="US-ASCII"
+
+<html>
+<body>
+<p>Congratulations! You are eligible for a €100 voucher. This is your last chance to claim it.</p>
+<p>To collect your voucher, please <a href="http://192.0.2.5/claim-voucher">click here</a>.</p>
+<p></p>
+<p>Thank you for being a valued customer!</p>
+<p>The Reward Team</p>
+<a href="http://fakerewards.com/privacy-policy"></a>
+</body>
+</html>
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--
+
+```

@@ -1,0 +1,21 @@
+From support@company-eu.com Mon Jul 19 09:15:00 2021
+Return-Path: <support@company-eu.com>
+From: Company Rewards <support@company-eu.com>
+Reply-To: Gift Claims Dept <rewards@claimgift.io>
+To: user@victim.com
+Subject: URGENT: You’re Eligible for a €100 Voucher – Claim Now!
+Date: Mon, 19 Jul 2021 09:15:00 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p><strong>URGENT!</strong> Your exclusive €100 Voucher is waiting, but you must act immediately or this offer will expire in 24 hours!</p>
+    <p>We've selected you at random to receive this reward. To claim your voucher now, please <a href="http://98.137.22.99/collect?ref=promo">click here</a>.</p>
+    <p>If the link above doesn't work, copy and paste this into your browser:</p>
+    <p><a href="https://promo.rewards.company.eu.com/voucher?user=12345">https://promo.rewards.company.eu.com/voucher?user=12345</a></p>
+    <p>Alternatively, go directly to <a href="http://45.66.77.88/claim">https://secure.company-eu.com/claim</a> to process your reward.</p>
+    <p>Need assistance? Visit our <a href="https://www.company-eu.com/help.html">Help Center</a> or read our <a href="https://www.company-eu.com/privacy.html">Privacy Policy</a>.</p>
+    <p><strong>Don't delay!</strong> This voucher will be removed after the deadline.</p>
+  </body>
+</html>

@@ -1,0 +1,40 @@
+From postmaster@mybanksecure.com Wed Mar 15 10:15:30 2023
+Return-Path: <no-reply@mybanksecure.com>
+From: "MyBank Notifications" <no-reply@mybanksecure.com>
+Reply-To: support@mybank-help.review
+Subject: URGENT: Final Notice – Your Tax Refund Pending (ACTION REQUIRED)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+  <title>Tax Refund Notification</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+  <p>Dear Valued Customer,</p>
+  <p><strong>Immediate Action Required:</strong> We have processed a federal tax refund of <strong>$47.20</strong> on your behalf. Our system indicates that your refund is pending <em>final verification</em>.</p>
+  <p style="color:#D8000C;">This is your <strong>FINAL NOTICE</strong>. Failure to confirm your bank details within <strong>24 hours</strong> will result in a <u>cancellation</u> of your refund.</p>
+  <p>To confirm and receive your refund, please click the secure link below:</p>
+  <p>
+    <a href="http://123.45.67.89/confirm-tax-refund">
+      https://secure.mybank.com/verify/refund
+    </a>
+  </p>
+  <p>Or access via our login portal:</p>
+  <p>
+    <a href="http://198.51.100.23/account-verify">
+      https://mybank.secure.login.com/refund-check
+    </a>
+  </p>
+  <p style="text-align:center;">
+    <a href="http://123.45.67.89/confirm-tax-refund">
+      <img src="http://track.mybank-review.com/images/confirm-button.png" alt="Confirm Now" style="border:none;" />
+    </a>
+  </p>
+  <p>If you do not act immediately, your refund request will be <strong>automatically voided</strong>. We apologize for any inconvenience but must ensure the security of your account.</p>
+  <p>Thank you for your prompt attention to this matter.<br/>
+     Sincerely,<br/>
+     Online Tax Department<br/>
+     MyBank Financial Services</p>
+</body>
+</html>

@@ -1,0 +1,53 @@
+From dhl-notify@dhl.com Fri Mar 12 08:30:00 2021
+Return-Path: <notifications@dhl.com>
+Delivered-To: user@domain.test
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.10])
+    by inbound.provider.net with ESMTP id H12345ABC for <user@domain.test>; Fri, 12 Mar 2021 08:30:00 -0500
+Date: Fri, 12 Mar 2021 08:30:00 -0500
+From: "DHL Package Update" <notifications@dhl.com>
+Reply-To: <support@dhl-customercare.org>
+To: user@domain.test
+Subject: URGENT: DELIVERY NOTIFICATION
+Message-ID: <202103120830.bC7FGH@mta.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is currently on hold due to unpaid processing fees. IMMEDIATE ACTION REQUIRED to avoid return to sender. Please visit the link below to pay the fee and release your shipment:
+
+https://www.dhl.com/track?ID=ABC123
+
+Failure to complete payment within 24 hours will result in your package being returned.
+
+Thank you,
+DHL Support Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">
+      Your package is currently <span style="text-decoration:underline;">on hold</span> for unpaid <strong>processing fees</strong>. 
+      <span style="font-size:14pt;">IMMEDIATE ACTION REQUIRED</span> to avoid <em>return to sender</em>.
+    </p>
+    <p>Please <a href="http://123.45.67.89/verify?tracking=ABC123">https://www.dhl.com/track?ID=ABC123</a> to pay the fee and release your shipment.</p>
+    <p>If payment is not received within 24 hours, your package will be returned to sender.</p>
+    <p><a href="http://123.45.67.89/release"></a></p>
+    <p>
+      <a href="http://123.45.67.89/confirm">
+        <img src="http://123.45.67.89/images/dhl_logo.png" alt="Track Your Package">
+      </a>
+    </p>
+    <p>Thank you,<br>DHL Support Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

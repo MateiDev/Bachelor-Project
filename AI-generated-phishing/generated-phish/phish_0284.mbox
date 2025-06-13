@@ -1,0 +1,52 @@
+```mbox
+From MAILER-DAEMON@fakepost.com  Mon Oct 16 05:34:17 2023
+Return-Path: <mailer-daemon@fakepost.com>
+Received: from mail.fakepost.com (mail.fakepost.com [127.0.0.1])
+    by mail.fakepost.com (Postfix) with ESMTP id 1A2BC3D4E5F
+    for <victim@example.com>; Mon, 16 Oct 2023 05:34:17 -0700 (PDT)
+Date: Mon, 16 Oct 2023 05:34:17 -0700
+From: DHL Express <contact@dhl-notify.com>
+To: victim@example.com
+Subject: DHL Parcel Notification: Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-1234567890"
+
+--boundary-1234567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel (ID: 478923748237) is currently being held at our facility due to unpaid charges (Total: $1.99). Please settle the balance to release your package.
+
+Please <a href="http://192.185.14.78/pay">click here</a> to pay now.
+  
+Thank you for choosing DHL Express.
+
+Customer Service
+
+DHL Express
+
+http://www.dhl.com
+
+--boundary-1234567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your parcel (ID: 478923748237) is currently being held at our facility due to unpaid charges (Total: $1.99). Please settle the balance to release your package.</p>
+
+<p>Please <a href="http://192.185.14.78/pay"><a></a></a><a href="http://192.185.14.78/pay">click here</a> to pay now.</p>
+
+<p>Thank you for choosing DHL Express.</p>
+<p>Customer Service</p>
+<p><a href="http://dhl.help.com">http://dhl.help.com</a></p>
+<p>DHL Express</p>
+<p><a href="http://www.dhl.com" target="_blank">http://www.dhl.com</a></p>
+</body>
+</html>
+
+--boundary-1234567890--
+```

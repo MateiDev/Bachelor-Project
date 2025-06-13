@@ -1,0 +1,48 @@
+From - Mon Oct 30 14:20:00 2023
+X-Account-Key: account2
+X-UIDL: 3
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <notice@taxreturns.com>
+Delivered-To: victim@example.com
+Received: from suspiciousserver.com (suspiciousserver.com [192.0.2.1])
+	by mail.example.com (Postfix) with ESMTPS id 9YHdRf2zRyz5T6LK
+	for <victim@example.com>; Mon, 30 Oct 2023 14:20:00 +0000 (UTC)
+Message-ID: <20231030142000.9YHdRf2zRyz5T6LK@mail.example.com>
+Date: Mon, 30 Oct 2023 14:20:00 +0000
+From: Internal Revenue Service <noreply@taxrefund-irs.org>
+Reply-To: noreply@quicktaxusa.com
+Subject: Urgent: Account Verification Required to Claim Your Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_34_8457321.20231030142000"
+
+------=_Part_34_8457321.20231030142000
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have been trying to contact you. You have an urgent refund waiting from your tax submissions. Please verify your bank details immediately to ensure prompt processing.
+
+Access your account here: http://update-your-details.com
+
+Best regards,
+Internal Revenue Service
+
+------=_Part_34_8457321.20231030142000
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have been trying to contact you. You have an <strong>urgent</strong> refund waiting from your tax submissions. Please verify your bank details immediately to ensure prompt processing.</p>
+    <p><a href="http://93.184.216.34/update">Access your account here</a></p>
+    <p><a href="http://192.0.2.123/verify"></a></p>
+    <p><a href="http://different-host.com">http://update-your-details.com</a></p>
+    <p><img src="http://another-host.com/logo.png" alt="IRS Logo"></p>
+    <p>Best regards,<br>Internal Revenue Service</p>
+  </body>
+</html>
+
+------=_Part_34_8457321.20231030142000--

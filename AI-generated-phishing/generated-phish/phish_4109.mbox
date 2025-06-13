@@ -1,0 +1,49 @@
+From no-reply@microsoft.com Wed Jun 19 09:00:00 2024
+Return-Path: <no-reply@microsoft.com>
+Received: from mail.microsoft.com (mail.microsoft.com [198.41.23.54])
+    by inbound-smtp.mail.com with ESMTP id WXYZ1234
+Date: Wed, 19 Jun 2024 09:00:00 -0400
+From: "Microsoft Office 365" <no-reply@microsoft.com>
+Reply-To: support@office365.update-info.net
+To: user@domain.com
+Subject: Urgent: Account Password Validation Required
+Message-ID: <CAFuniqueid@mail.microsoft.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_87654321.1592468800000"
+
+----=_Part_1234567_87654321.1592468800000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your Microsoft Office 365 account. In order to avoid account suspension, you must validate your password immediately.
+
+Please visit the following link to confirm your account details:
+http://98.76.54.32/login
+
+Failure to verify your account within 24 hours will result in temporary suspension.
+
+Thank you,
+Microsoft Security Team
+
+----=_Part_1234567_87654321.1592468800000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Password Validation</title></head>
+<body>
+<p>Dear User,</p>
+<p><strong>Security Alert:</strong> We detected suspicious login attempts on your <em>Office 365</em> account. Your account will be <span style="color:red;">suspended</span> if you do not <span style="font-weight:bold;">validate your password immediately</span>.</p>
+<p>
+<a href="http://98.76.54.32/login"><img src="http://assets.office365.com/logo.png" alt="Microsoft Office 365"></a>
+</p>
+<p>To validate your account, please visit <a href="http://123.45.67.89/secure-login">www.office.com</a> or click here: <a href="http://phishmail.secure-login.net">here</a>.</p>
+<p><a href="http://123.45.67.89/validate"></a></p>
+<p>For assistance, see our <a href="https://privacy.microsoft.com">Privacy Policy</a> or contact the <a href="mailto:support@microsoft.com">Help Center</a>.</p>
+<p>Thank you,<br>Microsoft Security Team</p>
+</body>
+</html>
+
+----=_Part_1234567_87654321.1592468800000--

@@ -1,0 +1,53 @@
+From no-reply@ups.com Wed Sep 27 12:34:56 2023
+Return-Path: <no-reply@ups.com>
+Reply-To: support@yourshippinginfo.com
+From: "UPS Delivery" <no-reply@ups.com>
+To: victim@example.com
+Subject: Urgent: Account Password Verification Required – Delivery Notification
+Message-ID: <20230927123456.abcdef@example.com>
+Date: Wed, 27 Sep 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890"
+
+------=_Part_0_123456.7890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+Your package delivery has encountered an ISSUE and is being HELD by UPS. To avoid delays or return, please verify your Account information and password within the next 24 hours.
+
+Review your delivery status by visiting:
+https://www.ups.com/track?tracknum=1Z999AA10123456784
+
+Or go to: http://192.0.2.123/release?awb=1Z999AA10123456784
+
+Please do this now to avoid additional fees.
+
+Thank you,
+The UPS Delivery Team
+
+------=_Part_0_123456.7890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear customer,</p>
+    <p>Your package delivery has encountered an <strong>ISSUE</strong> and is being <strong>HELD</strong> by UPS. To avoid delays or return, please verify your <strong>Account</strong> information and <strong>password</strong> within the next <span style="color:red;">24 hours</span>.</p>
+    <p>Click the link below to review your delivery status:</p>
+    <p>
+      <a href="http://192.0.2.123/release?awb=1Z999AA10123456784">https://www.ups.com/track?tracknum=1Z999AA10123456784</a>
+    </p>
+    <p>Or simply click the image below:</p>
+    <p>
+      <a href="http://203.0.113.45/install?package=1Z999AA10123456784">
+        <img src="http://203.0.113.45/images/ups_banner.png" alt="UPS Delivery Notice" border="0" />
+      </a>
+    </p>
+    <p>Please do this now to <span style="color:red;">avoid additional fees</span>.</p>
+    <p>Thank you,<br>The UPS Delivery Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.7890--

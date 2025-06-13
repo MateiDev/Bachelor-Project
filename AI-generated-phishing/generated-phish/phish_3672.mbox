@@ -1,0 +1,56 @@
+From support@secure-banking.com Thu Jul 18 10:15:30 2024
+Return-Path: <support@secure-banking.com>
+Delivered-To: victim@securemail.com
+Received: from mail.secure-banking.com (mail.secure-banking.com [198.51.100.23])
+    by victim-mail.com with ESMTP id ABC123;
+    Thu, 18 Jul 2024 10:15:30 +0000
+From: "Secure Banking Support" <support@secure-banking.com>
+Reply-To: "Secure Update Desk" <help@secure-update.phishing-attack.net>
+To: "User" <user@victim.com>
+Subject: URGENT: Account Password EXPIRES Today – VERIFY Immediately
+Message-ID: <20240718101530.12345@mail.secure-banking.com>
+Date: Thu, 18 Jul 2024 10:15:30 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_000_001A_01D9F5BE.BCA9D380"
+
+----=_Part_000_001A_01D9F5BE.BCA9D380
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected—verify now. Password expires today – reset immediately to avoid suspension.
+
+Please visit the following link to secure your account:
+
+http://192.0.2.123/login/reset
+
+If you do not take action within the next hour, your account will be locked.
+
+Thank you,
+Secure Banking Support
+
+----=_Part_000_001A_01D9F5BE.BCA9D380
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Unusual sign-in detected—verify now.</strong><br>
+    Your <em>password expires today</em> – reset <span style="color:red;">immediately</span> to avoid account suspension.</p>
+    <!-- Empty visible anchor -->
+    <a href="http://203.0.113.45/steal"></a>
+    <p>To secure your account, <a href="http://secure-update.modal-login.com/verify">click here</a> or follow this link:</p>
+    <!-- Image based link -->
+    <a href="http://192.0.2.123/login/reset">
+      <img src="https://secure-banking.com/assets/warning.png" alt="Security Alert" width="200" height="100">
+    </a>
+    <p>Alternatively, visit <a href="http://malicious.domain.phish-login-return.verify.profile.com/update">www.secure-banking.com/update</a> if you experience any issues.</p>
+    <p>For help, <a href="https://secure-banking.com/privacy-policy">Privacy Policy</a> | <a href="https://secure-banking.com/help">Help Center</a></p>
+    <p>Regards,<br>Secure Banking Support Team</p>
+  </body>
+</html>
+
+----=_Part_000_001A_01D9F5BE.BCA9D380--

@@ -1,0 +1,23 @@
+From phishing@bank-support.com Sat Jan  1 12:34:56 2022
+Subject: Urgent: Account Password Expiry Notice
+From: support@secure-bank.com
+To: user@domain.com
+Date: Sat, 1 Jan 2022 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head><title>Account Security Alert - Password Expiration</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected an <strong>unusual sign-in</strong> on your account. <span style="color:red">Your password expires today</span>. To avoid <span style="font-weight:bold">immediate suspension</span>, you must verify your identity and reset your password <strong>now</strong>. This is <em>urgent</em> and <em>action required</em>.</p>
+<p>Please <a href="https://secure-bank-login.com.verify-account-update.info/reset-password">https://secure-bank-login.com</a> to secure your account.</p>
+<p>Alternatively, you may <a href="http://45.33.22.11/verify">click here</a> to confirm your credentials.</p>
+<p>To update your credentials, please go <a href="http://modal-domain.org/confirm">here</a>.</p>
+<p>For your convenience, we have provided the link below:</p>
+<p><a href="http://security.alert.bank-verify-login-info.net/login"><img src="http://malicious-content.net/images/secure_button.png" alt="Secure Login" /></a></p>
+<p>You can also review our <a href="http://securelogin.com/privacy-policy">Privacy Policy</a> and <a href="http://securelogin.com/help">Help Center</a>.</p>
+<p>Regards,<br />Security Team</p>
+<a href="http://45.33.22.11/verify"></a>
+</body>
+</html>

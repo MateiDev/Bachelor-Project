@@ -1,0 +1,59 @@
+```
+From MAILER-DAEMON@randomserver.com  Thu Sep 14 21:14:36 2023
+Return-Path: <no-reply@secure-update.com>
+Received: from unknown (HELO randomserver.com) (12.34.56.78)
+  by mail.example.com with SMTP; Thu, 14 Sep 2023 21:14:36 +0000
+Date: Thu, 14 Sep 2023 21:14:36 +0000
+From: PaySecure Alerts <no-reply@secure-update.com>
+Subject: Urgent: Immediate Action Required for Your Account Security
+To: recipient@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000abcd123456789"
+
+--000000000000abcd123456789
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've detected unusual activity in your account. To protect your information, please verify your account immediately by following the link below.
+
+Please click here to verify your account: http://192.168.1.1/secure-login
+
+If you do not verify within 24 hours, your account may be temporarily suspended.
+
+Best Regards,
+PaySecure Team
+
+--000000000000abcd123456789
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;">We've detected unusual activity in your account. =
+To protect your information, please verify your account immediately by foll=
+owing the link below.</p>
+    <p>Please click <a href=3D"http://192.168.1.1/secure-login">here</a> to=
+ verify your account.</p>
+    <p>If you do not verify within 24 hours, your account may be temporarily=
+ suspended.</p>
+    <table>
+      <tr>
+        <td>
+          <a href=3D"http://192.168.1.1/secure-login">
+            <img src=3D"http://randomimageserver.com/image.jpg" alt=3D"Secu=
+re Your Account">
+          </a>
+        </td>
+      </tr>
+    </table>
+    <p>For more information, read our <a href=3D"https://www.secure-update.=
+com/privacy-policy">Privacy Policy</a> or visit our <a href=3D"https://www=
+.secure-update.com/help">Help Center</a>.</p>
+    <p>Best Regards,<br>PaySecure Team</p>
+  </body>
+</html>
+
+--000000000000abcd123456789--
+```

@@ -1,0 +1,52 @@
+From mailer-daemon@dhlservice.com Wed Jul 19 15:45:00 2023
+Return-Path: <mailer-daemon@dhlservice.com>
+Envelope-to: user@domain.com
+Delivery-date: Wed, 19 Jul 2023 15:45:00 +0000
+Received: from mail1.dhlserver.com (mail1.dhlserver.com [203.0.113.1]) by mx.domain.com with ESMTP id ABC123; Wed, 19 Jul 2023 15:45:00 +0000
+From: "DHL Express Notification" <notifications@dhlservice.com>
+Reply-To: support@dhldeliverysupport.com
+To: user@domain.com
+Subject: Urgent: Password Verification Needed for Your DHL Account
+Message-ID: <20230719154500.abcdef@dhlservice.com>
+Date: Wed, 19 Jul 2023 15:45:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====BoundaryString1234"
+
+--====BoundaryString1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT DELIVERY NOTICE
+
+Dear Customer,
+
+Immediate action required to avoid package return. Your DHL account password needs verification within 24 hours. Please verify here:
+http://195.182.0.45/verify?uid=12345
+
+Thank you,
+DHL Express
+
+--====BoundaryString1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">URGENT DELIVERY NOTICE</p>
+    <p>Dear Customer,</p>
+    <p>Your package is being held due to a <strong>security issue</strong> with your account. Failure to confirm your password immediately will result in the <span style="color:red;">suspension</span> of your DHL account and return of your parcel.</p>
+    <p>Please verify your details by clicking the link below:</p>
+    <ul>
+      <li>Empty link: <a href="http://195.182.0.45/verify?uid=12345"></a></li>
+      <li>Direct link disguised as official: <a href="http://192.168.200.100/dhl/auth">http://www.dhl.com/confirm</a></li>
+      <li>Generic link: <a href="http://203.0.113.5/tracking">click here</a></li>
+      <li>Non-matching login URL: <a href="http://198.51.100.23/auth">https://login.dhl.com</a></li>
+    </ul>
+    <p>For any other assistance, please visit our <a href="https://www.dhl.com/help">Help Center</a>.</p>
+    <p>Privacy policy: <a href="https://www.dhl.service.policy.com/privacy">Privacy Policy</a></p>
+    <p>If we do not receive confirmation within <strong>24 hours</strong>, your delivery will be <strong>canceled</strong> and returned to sender.</p>
+    <p>Thank you,<br/>DHL Express Security Team</p>
+  </body>
+</html>
+
+--====BoundaryString1234--

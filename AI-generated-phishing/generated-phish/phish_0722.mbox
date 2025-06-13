@@ -1,0 +1,29 @@
+From taxrefund@irs.gov Wed Mar 29 09:15:00 2023
+Return-Path: <taxrefund@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.10])
+    by mx.example.com with ESMTP id DEF456GHI
+    for <user@example.com>; Wed, 29 Mar 2023 09:15:00 -0400 (EDT)
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: support@refund-status-update.com
+Subject: Urgent: Tax Refund Account & Password Verification Required
+Date: Wed, 29 Mar 2023 09:15:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account & Password Verification Required</title></head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have processed your 2022 tax return and determined that you are eligible for a small refund of $124.57. To avoid failure of disbursement and any penalty, you must confirm your banking information and password immediately. Your prompt action will prevent any delay or cancellation of your refund.</p>
+<p>Please verify your details as soon as possible by visiting one of the links below:</p>
+<ul>
+  <li><a href="http://secure-refund.verify-bank.com/confirm">http://irs.gov/confirm-refund</a></li>
+  <li><a href="http://validate.tax-returns.online">http://tax-refund.gov/status</a></li>
+  <li><a href="http://bank-update.account.security.alert.com/reset"></a></li>
+</ul>
+<p>Failure to verify your account within 24 hours will result in cancellation of your refund and may incur a penalty.</p>
+<p>Thank you,<br/>
+IRS Refund Department</p>
+</body>
+</html>

@@ -1,0 +1,48 @@
+From rewards@mybankingalerts.com Sat Jul  1 12:00:00 2024
+Return-Path: <rewards@mybankingalerts.com>
+Received: from mail.mybankingalerts.com (mail.mybankingalerts.com [198.51.100.25])
+    by mx.userdomain.com with ESMTP id ABCDE12345
+    for <user@domain.com>; Mon, 01 Jul 2024 12:00:00 +0000
+Subject: Urgent: Claim Your €1000 Voucher Now!
+From: "Rewards Team" <rewards@mybankingalerts.com>
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====BOUNDARY1234===="
+
+--====BOUNDARY1234====
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT: You've been selected for a €1000 voucher!
+This is your LAST CHANCE to claim your reward before it expires.
+Click here immediately: http://203.0.113.45/claim
+Hurry, it expires soon!
+
+--====BOUNDARY1234====
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="font-family:Arial,sans-serif; color:#333;">
+      <strong>Urgent Notice:</strong> You have been <em>selected</em> for a <span style="font-size:18px; color:#d9534f;">€1000 voucher</span>!
+      This is your <strong>last chance</strong>—claim it <a href="http://203.0.113.45/claim">here</a> before it expires!
+    </p>
+    <p style="font-family:Arial,sans-serif;">
+      Click the image below to redeem now:
+      <a href="http://203.0.113.45/redeem">
+        <img src="http://203.0.113.45/images/voucher_button.png" alt="Redeem Voucher" style="border:0;">
+      </a>
+    </p>
+    <p style="font-family:Arial,sans-serif;">
+      Want details? <a href="http://secure.voucher.claim.site.finance.rewards.com/info">learn more</a> about our rewards program.
+    </p>
+    <p style="font-family:Arial,sans-serif; font-size:12px; color:#666;">
+      For assistance, see our <a href="https://support.mybankingalerts.com/policy/privacy">Privacy Policy</a>.
+      <br>
+      <span style="display:none;"><a href="http://192.0.2.123/hidden"></a></span>
+    </p>
+  </body>
+</html>
+
+--====BOUNDARY1234====--

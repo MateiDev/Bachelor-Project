@@ -1,0 +1,68 @@
+From rewards@trusted-company.com Fri Jul 19 10:15:30 2024
+Return-Path: <rewards@trusted-company.com>
+Received: from mail.trusted-company.com (mail.trusted-company.com [203.0.113.10])
+	by mx.example.org with ESMTP id abc123def
+	for <user@example.org>; Fri, 19 Jul 2024 10:15:29 +0000 (UTC)
+Date: Fri, 19 Jul 2024 10:15:29 +0000
+Message-ID: <20240719101529.abc123def@mail.trusted-company.com>
+From: "Rewards Department" <rewards@trusted-company.com>
+Reply-To: support@phishingsite.net
+To: user@example.org
+Subject: Urgent: Claim Your €50 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456"
+
+------=_Part_0_123456.7890123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You’re eligible for a €50 voucher. This is a limited-time offer and will expire soon. To secure your reward, please follow one of the links below and complete your claim immediately to avoid forfeiture:
+
+1) Secure Claim Portal:
+   https://secure.verify.bank.example.com/claim
+
+2) Direct IP Access:
+   http://123.45.67.89/claim
+
+3) Backup Login:
+   https://secure.trusted-company.com/login
+
+Failure to act now may result in the automatic cancellation of your voucher. This is your final notice!
+
+Best regards,
+Rewards Department
+Trusted Company
+
+------=_Part_0_123456.7890123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <h2 style="color:#d44;">Action Required: Claim Your €50 Voucher</h2>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You’ve been selected for an exclusive €50 voucher. This is a <strong>limited-time</strong> offer and will <strong>expire soon</strong>. Please complete your claim <em>immediately</em> to avoid cancellation.</p>
+    <p style="margin:20px 0;">
+      <!-- Image-based Link -->
+      <a href="http://malicious.example.net/reward">
+        <img src="http://cdn.trusted-company.com/images/voucher.png" alt="Click to Claim Your Voucher" style="border:0;width:300px;height:auto;">
+      </a>
+    </p>
+    <p>
+      Or use one of the following portals:
+      <ul>
+        <li>Official Portal: <a href="http://198.51.100.23/login">https://secure.trusted-company.com/login</a></li>
+        <li>IP Access: <a href="http://123.45.67.89/claim">http://123.45.67.89/claim</a></li>
+        <li>Alternate Verify: <a href="https://secure.verify.bank.example.com/"> </a><em>(click here)</em></li>
+      </ul>
+    </p>
+    <p>If you encounter issues, <a href="http://123.45.67.89/claim">click here</a> for support.</p>
+    <p>Thank you for choosing Trusted Company Rewards.<br/>
+       <small>For privacy details, visit our <a href="https://trusted-company.com/privacy-policy">Privacy Policy</a>.</small>
+    </p>
+  </body>
+</html>
+
+------=_Part_0_123456.7890123456--

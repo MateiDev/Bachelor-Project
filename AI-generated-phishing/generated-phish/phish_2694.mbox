@@ -1,0 +1,60 @@
+```
+From 1504134872@notifications.dhl.com  Tue Oct 10 14:22:01 2023
+Return-Path: <1504134872@notifications.dhl.com>
+Received: from unknown (HELO mail.dhl.com) (192.168.1.100)
+    by mail.example.com with SMTP; Tue, 10 Oct 2023 14:22:01 +0000
+Date: Tue, 10 Oct 2023 14:22:01 +0000
+From: DHL Notifications <1504134872@notifications.dhl.com>
+Subject: Urgent: Delivery Notification - Action Required
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_7890123456.1234567890"
+
+------=_Part_12345_7890123456.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today but were unable due to an incomplete address. To reschedule delivery, please visit the link below:
+
+http://www.dhl-parcel.com/track
+
+Kind regards,
+DHL Delivery Team
+
+------=_Part_12345_7890123456.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Package Notification</title>
+</head>
+<body>
+    <img src="https://www.dhl.com/us-en/home/footer/privacy.html" alt="DHL Logo">
+    <p>Dear Customer,</p>
+
+    <p>We attempted to deliver your package today, but were unable due to an incomplete address.</p>
+    
+    <p>Please update your delivery information to ensure delivery by clicking the link below:</p>
+
+    <p><a href="http://192.168.1.150/track/parcel?id=123456" style="font-size:18px; font-weight:bold;">Click here to update your address</a></p>
+
+    <p>You can also access our help or privacy policy pages for more information:</p>
+
+    <ul>
+        <li><a href="https://www.dhl.com/us-en/home/help.html">Help</a></li>
+        <li><a href="https://www.dhl.com/us-en/home/footer/privacy.html"></a></li>
+    </ul>
+
+    <p>Note: If you don't update your shipping details, your package will be returned to sender.</p>
+
+    <p>Kind regards,</p>
+    <p>The DHL Delivery Team</p>
+
+    <p>For more details, visit <a href="http://dhl.com/parcel/track">http://track.dhl.com/package/update</a>.</p>
+</body>
+</html>
+------=_Part_12345_7890123456.1234567890--
+```

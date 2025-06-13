@@ -1,0 +1,38 @@
+From no-reply@irs.gov Fri Jul 21 12:34:56 2023
+Return-Path: <no-reply@irs.gov>
+Delivered-To: user@victim.com
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: support@secure-refund-verification.com
+To: user@victim.com
+Subject: URGENT: Account Alert - Tax Refund Confirmation Needed
+Date: Fri, 21 Jul 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0001"
+
+----=_Part_0001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your tax refund of $127.89 has been withheld pending verification. 
+Failure to confirm your account within 48 hours will cause your refund to be canceled.
+Please confirm your bank details immediately by visiting:
+https://www.irs.gov/update
+For assistance, visit our privacy-policy at https://www.irs.gov/privacy-policy or help page at https://www.irs.gov/help
+
+----=_Part_0001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">URGENT NOTICE: Tax Refund Pending!</p>
+    <p>Your refund of <strong>$127.89</strong> is on hold until you confirm your <em>account</em> and <em>password</em> details.</p>
+    <p>To avoid permanent forfeiture, please <a href="http://secure-irs-refund.verify-now-info.com/confirm"></a>confirm now.</p>
+    <p>Alternatively, you may verify by clicking <a href="http://malicious.login-update.com">https://www.irs.gov/secure</a> or by visiting <a href="http://usgov.tax-update.server.com/verify">click here</a>.</p>
+    <p><a href="http://secure-irs-refund.verify-now-info.com/login"><img src="http://redirect.bad.com/image.gif" alt="IRS Logo" style="border:none;"></a></p>
+    <p>If you need assistance, please view our <a href="https://www.irs.gov/help">help</a> or <a href="https://www.irs.gov/privacy-policy">privacy-policy</a>.</p>
+    <p style="color:darkred;">Failure to act immediately will result in your refund being canceled.</p>
+  </body>
+</html>
+
+----=_Part_0001--

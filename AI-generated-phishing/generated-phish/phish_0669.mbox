@@ -1,0 +1,51 @@
+From security@secureportal.net Thu Apr 18 09:12:33 2024
+Return-Path: <security@secureportal.net>
+Received: from mail.secureportal.net (mail.secureportal.net [198.51.100.23])
+    by inbound.client.net (Postfix) with ESMTP id 7F3A12C
+    for <user@client.com>; Thu, 18 Apr 2024 09:12:33 -0400 (EDT)
+From: "Portal Security Alert" <security@secureportal.net>
+Reply-To: "Support Team" <support@bankinghelp.net>
+To: user@client.com
+Subject: URGENT: Portal Security Alert - ACTION REQUIRED
+Date: Thu, 18 Apr 2024 09:12:33 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your secure portal access has been temporarily disabled due to suspicious activity. Immediate action is required to avoid permanent suspension.
+
+Verify your account now: http://192.0.2.123/verify-security
+
+Alternative link: https://secureportal.net/login
+
+Failure to comply within 24 hours will result in complete account termination.
+
+Respectfully,
+Portal Security Team
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>Your <strong>secure portal</strong> access has been <span style="color:red;">temporarily disabled</span> due to <em>suspicious activity</em>. <strong>URGENT:</strong> Immediate verification is required to prevent permanent <strong>termination</strong>.</p>
+<p>
+<a href="http://203.0.113.45/secure/login">
+    <img src="http://203.0.113.45/assets/view_secure.png" alt="View Secure Notice">
+</a>
+</p>
+<p>Please click <a href="http://203.0.113.45/secure/login">https://secureportal.net/verify</a> to confirm your credentials.</p>
+<p>Need help? Visit <a href="http://203.0.113.45/help-center">https://secureportal.net/help-center</a></p>
+<p>Failure to act within 24 hours will lead to permanent account suspension.</p>
+<p>Sincerely,<br>Portal Security Team</p>
+</body>
+</html>
+
+--BOUNDARY--

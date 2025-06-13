@@ -1,0 +1,44 @@
+From security@amazon.com Sat Jul 20 10:00:00 2024
+Subject: Urgent: Your Amazon Account Password Must Be Updated
+From: "Amazon Support" <security@amazon.com>
+Reply-To: "Amazon Support Team" <alerts@amazon-security.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your Amazon account. To prevent permanent
+suspension of your account, you MUST update your password immediately.
+
+Visit our secure site: https://secure-login.verify-account.info/SignIn.html
+Or click here: https://modal-content.amazon-secure.co/privacy-policy
+
+If you do not verify your credentials within 24 hours, your account will be locked.
+
+For additional assistance, visit https://help-center.amazon.verify-secure.org
+
+Thank you,
+Amazon Security Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Urgent Notice:</strong> We have detected <em>suspicious activity</em> on your Amazon account.
+    To avoid <strong>permanent suspension</strong>, please verify your credentials <u>immediately</u>.</p>
+    <p>Please go to <a href="https://secure-login.verify-account.info/SignIn.html">https://www.amazon.com/account-login</a> to
+    update your password.</p>
+    <p>Review our policy <a href="https://modal-content.amazon-secure.co/privacy-policy">click here</a>.</p>
+    <p>Need help? Visit <a href="https://help-center.amazon.verify-secure.org">https://login.amazon.com/help</a>.</p>
+    <p>Thank you,<br/>Amazon Security Team</p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

@@ -1,0 +1,72 @@
+From phishingtester@example.com Sat Mar 20 12:34:56 2021
+Return-Path: <support@security.office.com>
+Received: from mail.security.office.com (mail.security.office.com [198.51.100.45])
+    by mx.example.org with ESMTP id ABC1234
+    for <user@recipient.com>; Sat, 20 Mar 2021 12:34:56 -0400 (EDT)
+Date: Sat, 20 Mar 2021 12:34:56 -0400
+From: "Security Team" <support@security.office.com>
+Reply-To: respond@client-alerts.com
+To: user@recipient.com
+Message-ID: <20210320123456.ABC1234@mail.security.office.com>
+Subject: Urgent: Password Expires Today – Verify Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_ABC"
+
+------=_Part_000_ABC
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+URGENT ALERT: We have detected an unusual sign-in on your account.
+Your password expires TODAY. Immediate verification is REQUIRED to avoid
+ACCOUNT access suspension.
+
+Please visit one of the following links immediately to secure your account:
+http://192.0.2.123/login.php
+http://update.security.alerts.com/verify
+https://www.office.com/security
+
+If you do not act now, your access will be suspended.
+
+Thank you,
+Security Team
+
+------=_Part_000_ABC
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Password Expires Today – Verify Your Account</title>
+</head>
+<body style="font-family:Arial,sans-serif; color:#333;">
+  <p>Dear User,</p>
+  <p><strong style="color:red;">WARNING: Unusual sign-in detected on your account!</strong></p>
+  <p>Your password <em>expires today</em>. <span style="color:red;">Immediate action required!</span></p>
+  <p>Please <a href="http://update.security.alerts.com/verify">click here</a> to update your password now.</p>
+  <p>Alternatively, visit 
+    <a href="http://malicious.example.org/reset" title="Reset Password">
+      https://www.office.com/reset
+    </a>
+  </p>
+  <p>To secure your account, <a href="http://login.secure-update.account.net/confirm">here</a>.</p>
+  <p>Or use the direct IP link: 
+    <a href="http://192.0.2.123/action/reset-password">
+      http://192.0.2.123/action/reset-password
+    </a>
+  </p>
+  <p>Need help? Visit our 
+    <a href="https://www.office.com/help" title="Help Center">help</a> or 
+    <a href="https://www.office.com/privacy-policy" title="Privacy Policy">privacy-policy</a>.
+  </p>
+  <p>
+    <a href="http://phish.bad-example.com/redirect?token=abc">
+      <img src="http://192.0.2.123/logo.png" alt="Security Logo" style="border:none; width:100px; height:auto;">
+    </a>
+  </p>
+  <p>Thank you,<br>Security Team</p>
+</body>
+</html>
+
+------=_Part_000_ABC--

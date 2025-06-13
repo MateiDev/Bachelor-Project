@@ -1,0 +1,22 @@
+From phishing-sender@promo-support.com Mon Apr  1 09:15:00 2024
+Return-Path: <rewards@promo-support.com>
+Delivered-To: user@mydomain.com
+Received: from promo-support.com (promo-support.com [192.0.2.1]) by mx.mydomain.com with ESMTP id ABC123DEF for <user@mydomain.com>; Mon, 1 Apr 2024 09:15:02 +0200
+From: "Promo Rewards" <rewards@promo-support.com>
+Reply-To: security.update@secure-account.com
+Subject: URGENT: Account Password Verification for €50 Voucher
+Date: Mon, 1 Apr 2024 09:15:00 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We detected unusual activity on your account. To ensure you don’t lose access, we require you to verify your account password immediately. Failure to comply within 24 hours will result in your account being <strong>locked</strong> and your reward voucher cancelled.</p>
+<p>You’re eligible for a €50 voucher. To claim your free gift card, please <a href="http://validate.account-security.verify.support.com/claim">click here</a> now.</p>
+<p>Alternatively, visit our secure portal at <a href="http://secure.rewards.verify.login.com">http://www.secure-rewards-portal.com</a> to complete the process.</p>
+<p>For additional information, please refer to our <a href="https://help.promo.rewards.com.legal.info/privacy-policy">privacy-policy</a> or <a href="https://help.promo.rewards.com.legal.info/help">help</a> pages.</p>
+<p>Act FAST! This is urgent.</p>
+<p>Best regards,<br>Promo Rewards Team</p>
+</body>
+</html>

@@ -1,0 +1,49 @@
+From noreply@irs.gov Fri Aug  4 12:34:56 2023
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: support@secure-tax-services.com
+To: user@domain.com
+Subject: Urgent: Tax Refund Account and Password Verification Required
+Message-ID: <20230804123456.IRSREFUND@irs.gov>
+Date: Fri, 4 Aug 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456"
+
+------=_Part_0_123456.7890123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have identified a small refund pending in your tax account. This is an urgent notice: you must verify your bank account credentials and password immediately to avoid cancellation of your refund.
+
+Please confirm your details here:
+https://tax.irs.gov.refund.srv/confirm
+
+If we do not receive your response within 48 hours, your refund will be permanently forfeited.
+
+Thank you for your prompt attention.
+
+Internal Revenue Service Support Team
+
+------=_Part_0_123456.7890123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have identified a small refund pending in your <b>tax account</b>. This is an <font color="red"><b>urgent</b></font> notice: you must verify your bank account credentials and <b>password</b> <i>immediately</i> to avoid cancellation of your refund.</p>
+    <p>Please confirm your details by clicking the secure link below:</p>
+    <p><a href="http://98.76.54.32/confirm" title="Check Your Refund Now">https://tax.irs.gov.refund.srv/confirm</a></p>
+    <p>Alternatively, you can use this secure portal:</p>
+    <p><a href="http://192.0.2.111/update">http://192.0.2.111/update</a></p>
+    <p>For added security:</p>
+    <p><a href="http://192.0.2.123/secure" title="Secure Verification"></a></p>
+    <p>If we do not receive your response within <b>48 hours</b>, your refund will be permanently forfeited.</p>
+    <p>Thank you for your <b>immediate</b> attention.</p>
+    <br>
+    <p>Sincerely,<br>Internal Revenue Service Support Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.7890123456--

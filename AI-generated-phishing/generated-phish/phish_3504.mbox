@@ -1,0 +1,55 @@
+From support@paypal.com Wed Mar 15 10:15:30 2023
+Return-Path: <support@paypal.com>
+Delivered-To: user@example.com
+Received: from mailserver ([192.0.2.1]) by mx.example.com with ESMTP id ABC1234 for <user@example.com>; Wed, 15 Mar 2023 10:15:30 -0400 (EDT)
+Received: from unknown (HELO localhost) (unknown@[203.0.113.5]) by mailserver; Wed, 15 Mar 2023 10:15:29 -0400
+From: "PayPal Security Team" <support@paypal.com>
+Reply-To: "PayPal Support" <paypal.support@45.67.89.210>
+To: user@example.com
+Subject: URGENT Account Password Expiry Warning
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an UNUSUAL sign-in attempt on your account. Your password expires TODAY.
+To secure your PayPal account, please verify your identity immediately.
+
+Click here to verify: http://123.45.67.89/validate
+Or visit our help center: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+
+Failure to verify will result in account suspension.
+
+Sincerely,
+PayPal Security Team
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;font-weight:bold;">ALERT: Unusual sign-in detected – verify NOW to avoid suspension.</p>
+    <p>Your <strong>account</strong> <em>password</em> expires <span style="text-decoration:underline;">today</span>. Reset immediately.</p>
+    <p>
+      <a href="http://123.45.67.89/validate">
+        <img src="http://badsite.com/button.png" alt="Verify Now" />
+      </a>
+    </p>
+    <p>
+      Or <a href="http://45.67.89.01/urgent/verify">here</a> to review recent activity.
+      <a href="http://phish.secure.login.verify.account.com.phishingsite.xxx/reset"></a>
+    </p>
+    <p>
+      Help: <a href="https://www.paypal.com/help">Privacy Policy</a> | <a href="https://www.paypal.com/ua-help">User Agreement</a>
+    </p>
+    <p>Sincerely,<br/>PayPal Security Team</p>
+  </body>
+</html>
+
+--BOUNDARY--

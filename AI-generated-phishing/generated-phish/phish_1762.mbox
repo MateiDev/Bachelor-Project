@@ -1,0 +1,54 @@
+From no-reply@security.paypal.com Sat Jan 15 12:34:56 2022
+Return-Path: <no-reply@security.paypal.com>
+Received: from mail-gw.security.paypal.com (mail-gw.security.paypal.com [203.0.113.100])
+        by mx.example.com with ESMTP id ABCD123XYZ for <victim@example.com>;
+        Sat, 15 Jan 2022 12:34:56 -0800 (PST)
+From: "PayPal Security Alert" <security@paypal.com>
+To: victim@example.com
+Subject: URGENT: Account Password Verification Required
+Date: Sat, 15 Jan 2022 12:34:56 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----Boundary_123456789"
+
+----Boundary_123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal Customer,
+
+We have detected suspicious login attempts on your account, and have temporarily suspended access for security reasons. To restore access, you must verify your password immediately.
+
+Please visit the following link to verify your account:
+http://203.0.113.45/security/check
+
+Alternatively, you may copy and paste this secure URL into your browser:
+https://service.online.paypal.security-verify.com/login
+
+Failure to verify within 24 hours will result in permanent suspension of your account.
+
+Thank you for your prompt action.
+PayPal Security Team
+https://www.paypal.com/signin
+
+----Boundary_123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear PayPal Customer,</p>
+<p>We have detected suspicious login attempts on your <strong>account</strong>, and have temporarily <strong>suspended</strong> access for security reasons. To restore access, please verify your <em>password</em> <strong>immediately</strong>.</p>
+<p>
+  <a href="http://203.0.113.45/security/check">
+    <img src="http://images.paypal.com/verify.png" alt="Verify Now" border="0"/>
+  </a>
+</p>
+<p>Or click here: <a href="https://service.online.paypal.security-verify.com/login">Verify Account</a></p>
+<p>Alternatively, you can use the following link:</p>
+<p><a href="http://203.0.113.45/security/check">https://www.paypal.com/signin</a></p>
+<p><strong>Warning:</strong> Failure to verify your account within 24 hours will result in permanent suspension.</p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+
+----Boundary_123456789--

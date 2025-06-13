@@ -1,0 +1,37 @@
+From scanner@mailer.com Tue Jun 25 14:05:06 2024
+Return-Path: <rewards@officialmail.com>
+From: "Rewards Team" <rewards@officialmail.com>
+Reply-To: support@claimsecure.org
+To: user@targetdomain.com
+Subject: Urgent Account Voucher Claim
+Date: Tue, 25 Jun 2024 14:05:06 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your voucher is ready. Claim here: http://123.45.67.89/claim-voucher 
+Act now or it will expire!
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Password Account Notice</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>This is an <b>urgent</b> notification! You are eligible for a <strong>€100 voucher</strong>. To claim your reward <a href="http://123.45.67.89/claim?voucher=100">click now</a> before it expires!</p>
+<p>Verify your status <a href="http://malicious.modal-domain.com/verify">here</a>.</p>
+<p><a href="http://98.76.54.32/secret"></a></p>
+<p><a href="http://123.45.67.89/voucher"><img src="http://123.45.67.89/images/voucher.png" alt="Voucher"></a></p>
+<p>For details, read our <a href="http://info.phishingsite.co.uk/policy.update.php">Privacy Policy</a> or <a href="http://help.domain.support.net/contact.html">Help Center</a>.</p>
+<p>-- The Rewards Team</p>
+</body>
+</html>
+
+--BOUNDARY--

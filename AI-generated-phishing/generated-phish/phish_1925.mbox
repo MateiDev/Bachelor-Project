@@ -1,0 +1,44 @@
+From no-reply@securebank.com Thu Sep 12 08:00:00 2024
+Return-Path: <no-reply@securebank.com>
+Received: from mail.securebank.com (mail.securebank.com [203.0.113.100])
+  by mx.bankmail.com with ESMTP id abc123
+  for <victim@domain.com>; Thu, 12 Sep 2024 08:00:00 -0400 (EDT)
+Received: from [198.51.100.1] (unknown [198.51.100.1])
+  by mail.securebank.com with ESMTP id def456
+  for <victim@domain.com>; Thu, 12 Sep 2024 08:00:00 -0400 (EDT)
+From: "Secure Bank Security" <no-reply@securebank.com>
+To: victim@domain.com
+Subject: Unusual sign-in detected—verify now
+Date: Thu, 12 Sep 2024 08:00:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Expiration Notice</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+  <p>Dear Valued Customer,</p>
+  <p>We detected an unusual sign-in on your account from a new device. To protect your information, <strong>action required</strong>. Your password expires today – reset immediately to avoid service interruptions.</p>
+  <ol>
+    <li>
+      Reset your password now:<br>
+      <a href="http://192.0.2.50/reset?p=abc123" title="Urgent! Password Expiration" style="background:#0073e6;color:#fff;padding:10px 20px;text-decoration:none;border-radius:4px;display:inline-block;">Reset Password</a>
+    </li>
+    <li>
+      Confirm recent login attempts by visiting:<br>
+      <a href="http://203.0.113.55/account-verify" title="Account Alert">https://secure.bank.com/account</a>
+    </li>
+    <li>
+      For full verification, click <a href="http://modal.bankaction.com/verify" title="Verify Now">here</a> to complete the process.
+    </li>
+  </ol>
+  <p>If the button above does not load, please use this link: <a href="http://198.51.100.23/login"></a></p>
+  <p>Or confirm via the image below:</p>
+  <p><a href="http://192.0.2.75/confirm"><img src="http://192.0.2.75/logo.png" alt="Secure Login" style="border:0;"></a></p>
+  <p>If you have questions, visit our <a href="https://realbank.com/help" title="Help Center">Help Center</a> or review our <a href="https://realbank.com/privacy-policy">Privacy Policy</a>.</p>
+  <p>This is an <strong>urgent</strong> security notification. Thank you for your prompt attention.</p>
+  <p>Sincerely,<br>Secure Bank Security Team</p>
+</body>
+</html>

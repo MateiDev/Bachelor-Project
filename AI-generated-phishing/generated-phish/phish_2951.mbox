@@ -1,0 +1,44 @@
+```
+From nobody Fri Oct 27 12:34:56 2023
+From: "Security Alert" <security@verify-accounts.com>
+To: victim@trustedemail.com
+Subject: Urgent: Immediate Action Required for Your Account Security
+Date: Fri, 27 Oct 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------ABC123DEF456"
+
+--------------ABC123DEF456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: We've detected suspicious activity in your account. Secure your account immediately by following the link.
+
+--------------ABC123DEF456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Security Alert</title>
+</head>
+<body>
+    <h2>Security Alert: Immediate Action Required</h2>
+    <p>Dear User,</p>
+    <p>We have detected <b>suspicious activity</b> involving your account. As a measure of safety, we require you to <u>verify</u> your credentials. Failure to do so may result in your account being <span style="color:red;">permanently locked</span>.</p>
+    <p>Please <a href="http://192.168.0.1/security-update" style="color:blue; text-decoration:underline;">click here</a> to secure your account immediately.</p>
+    <table>
+        <tr>
+            <td><a href="http://192.168.0.1/security-update"><img src="https://secure-image-link.com/security.png" alt="Security Update" /></a></td>
+        </tr>
+    </table>
+    <p>For more information, you can visit our <a href="https://trustedsecuritypage.com/help">help page</a>.</p>
+    <p>Thank you,<br>Account Security Team</p>
+    <p style="font-size:small; color:#999;">Privacy Policy | Terms & Conditions</p>
+    <a href="mailto:support@yourbank.com" style="display:none;"></a>
+</body>
+</html>
+
+--------------ABC123DEF456--
+
+```

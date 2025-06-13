@@ -1,0 +1,44 @@
+From security-team@netflix.com Sun Jul  7 12:34:56 2024
+Return-Path: <security@netflix.com>
+Received: from unknown (192.0.2.50) by mail.victim.com with SMTP id abc123; Sun, 7 Jul 2024 12:34:56 +0000
+From: "Security Team" <security@netflix.com>
+Reply-To: support@helpdesk-secure.net
+To: victim@victim.com
+Subject: Urgent: Password Reset Required for Your Netflix Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_1234_01D9E8A0"
+
+----=_NextPart_000_1234_01D9E8A0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected suspicious activity on your account. To secure your Netflix account immediately, please click the link below within the next 24 hours or your account will be suspended:
+
+http://198.51.100.23/login/verification?session=abc123
+
+For assistance, visit http://help.netflix.com
+
+Regards,
+Security Team
+Netflix Security
+
+----=_NextPart_000_1234_01D9E8A0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Verification</title></head>
+<body>
+<p>Dear User,</p>
+<p>We have noticed multiple failed login attempts on your Netflix <strong>account</strong>. To ensure your account remains secure, you must verify your credentials immediately. Failure to do so will result in your account being <em>temporarily suspended</em>.</p>
+<p><a href="http://198.51.100.23/login/verification?session=abc123"><img src="http://198.51.100.23/branding/netflix_header.png" alt="Netflix" /></a></p>
+<p>To verify your account, <a href="http://198.51.100.23/login/verification?session=abc123" title="account.netflix.com">click here</a> to proceed to the secure login page.</p>
+<p>If the link above does not work, copy and paste this URL into your browser:</p>
+<p><a href="https://secure-login.netflix.com/security">https://secure-login.netflix.com/security</a></p>
+<p>Privacy Policy | <a href="http://198.51.100.23/privacy">http://netflix.com/policy</a> | Help Center: <a href="http://help.netflix.com">http://help.netflix.com</a> | <a href="">here</a></p>
+</body>
+</html>
+
+----=_NextPart_000_1234_01D9E8A0--

@@ -1,0 +1,38 @@
+```mbox
+From fake@taxrefund-alerts.com Thu Jan 13 16:38:00 2023
+Received: from [192.168.1.100] by mail.fakecompany.com with ESMTP
+	id <20230113043800>; Thu, 13 Jan 2023 16:38:00 -0500
+To: victim@example.com
+Subject: IMPORTANT: Tax Refund Pending - Immediate Action Required!
+Date: Thu, 13 Jan 2023 16:38:00 -0500
+From: "Tax Refund Service" <refunds@taxservice.com>
+Reply-To: "Support Team" <support@tax-update.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Taxpayer,
+
+We are reaching out to inform you that you have a pending tax refund of $483.50. Please confirm your banking details to process this refund immediately. Failure to do so may result in delays or denial of your refund!
+
+To safeguard your account and confirm your refund, please follow the instructions urgently.
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Valued Taxpayer,</p>
+    <p>We are reaching out to inform you that you have a pending tax refund of <strong>$483.50</strong>. Please confirm your banking details to process this refund immediately. Failure to do so may result in <strong>delays or denial</strong> of your refund!</p>
+    <p>To safeguard your account and confirm your refund, please follow the instructions <strong>urgently</strong>.</p>
+    <p><a href="http://192.0.2.1/verify-tax-info" style="background: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; display: inline-block;">Click Here to Confirm</a></p>
+    <p>For assistance, visit our <a href="http://legitimate-taxservice.com/help">Help Center</a> or review our <a href="http://legitimate-taxservice.com/privacy">Privacy Policy</a>.</p>
+    <img src="http://legitimate-taxservice.com/images/tax-refund.png" alt="Tax Refund">
+  </body>
+</html>
+
+--boundary123--
+
+```

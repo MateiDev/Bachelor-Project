@@ -1,0 +1,43 @@
+From support@yourbank.com Mon May 15 10:05:00 2023
+Date: Mon, 15 May 2023 10:05:00 +0200
+From: "YourBank Support" <support@yourbank.com>
+Reply-To: admin@trustedmailer.com
+To: customer@example.org
+Subject: URGENT: Account Password Update Required - Claim Your €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====boundary123"
+
+--====boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account has been flagged for suspicious activity. To avoid permanent suspension and password lockdown, you must claim your exclusive €50 voucher immediately.
+
+This offer expires in 24 hours—failure to act now may result in account restrictions.
+
+Claim now: http://203.0.113.5/claim
+
+For more info, see our privacy policy: https://modal-domain.com/privacy-policy
+
+--====boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<h1 style="color:red;">URGENT ACTION REQUIRED</h1>
+<p>Dear Customer,</p>
+<p>Your account has been flagged for suspicious activity. To avoid permanent suspension and <strong>password</strong> lockdown, you must <strong>claim</strong> your exclusive €50 voucher immediately.</p>
+<p>This offer <em>expires in 24 hours</em>—failure to act now may result in <span style="font-weight:bold;">account</span> restrictions.</p>
+<p>
+  <a href="http://203.0.113.5/claim"><img src="http://203.0.113.5/images/voucher-banner.jpg" alt="Claim Your €50 Voucher"></a>
+</p>
+<p>Alternatively, to reset your security settings, please visit: <a href="http://203.0.113.5/reset">https://yourbank.com/security</a></p>
+<p>For more information, please refer to our <a href="https://modal-domain.com/privacy-policy">here</a>.</p>
+<a href="http://203.0.113.5/hidden"></a>
+</body>
+</html>
+
+--====boundary123--

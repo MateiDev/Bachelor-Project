@@ -1,0 +1,47 @@
+From internal-revenue-service@irs.gov Thu Jul 11 14:23:45 2024
+Return-Path: <no-reply@irs.gov>
+Delivered-To: victim@domain.com
+Received: from mail.irs.gov (mail.irs.gov [198.51.100.50]) by mx.domain.com with ESMTP id 1A2BC3456 for <victim@domain.com>; Thu, 11 Jul 2024 14:23:45 -0400 (EDT)
+Date: Thu, 11 Jul 2024 14:23:45 -0400
+From: "Internal Revenue Service" <no-reply@irs.gov>
+To: victim@domain.com
+Subject: Urgent: Account password Verification & Tax Refund
+Message-ID: <CA+E6F2B3D1@mail.irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+------=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+
+Dear Taxpayer,
+
+Our records show that your 2023 tax refund is pending. To secure & confirm your bank account details, please verify immediately.
+
+Visit: http://192.168.56.254/confirm
+
+Failure to confirm may delay your refund.
+
+Thank you,
+Internal Revenue Service
+
+------=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Your 2023 tax refund is pending. To secure & confirm your bank account details, please verify immediately:</p>
+    <p>
+      <a href="http://here.irs.gov.security-update.com/verify">click here</a>
+    </p>
+    <p>Or use this link directly:</p>
+    <p>
+      <a href="http://203.0.113.45/secure">http://www.irs.gov/confirm</a>
+    </p>
+    <p>More info: <a href="http://198.51.100.23/info"></a></p>
+    <p>Failure to confirm may delay your refund.</p>
+    <p>Thank you,<br/>Internal Revenue Service</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.987654321--

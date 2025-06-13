@@ -1,0 +1,39 @@
+From no-reply@dhl-express.com Fri Jul 23 13:00:00 2021
+Date: Fri, 23 Jul 2021 13:00:00 -0400
+From: "DHL Express" <no-reply@dhl-express.com>
+To: victim@example.com
+Subject: Urgent: Account Delivery Notification - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1627054800000"
+
+------=_Part_0_123456789.1627054800000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but were unable to do so. To prevent return to sender, please verify your shipping details immediately.
+
+Visit http://203.0.113.45/track to confirm your delivery status.
+
+Thank you,
+DHL Customer Service
+
+------=_Part_0_123456789.1627054800000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Delivery Notification</title></head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We were unable to deliver your package due to an issue with your shipping <strong>address</strong>. To avoid return to sender, please <a href="http://malicious-delivery.com/verify">click here</a> to verify your <strong>account</strong> information.</p>
+  <p>To release your package, pay the small fee by <a href="http://malicious-payment.com/pay">here</a> or through this invisible link <a href="http://192.0.2.123/release"></a> to complete the <strong>urgent</strong> transaction.</p>
+  <p>Track your shipment by clicking the logo below:</p>
+  <p><a href="http://203.0.113.45/track?id=ABC123"><img src="http://203.0.113.45/images/dhl_logo.png" alt="DHL Express"></a></p>
+  <p>If you did not request this delivery, please <a href="http://malicious-help.com/support">here</a> to contact support and reset your <strong>password</strong>.</p>
+  <p>Thank you,<br/>DHL Express Team</p>
+</body>
+</html>
+
+------=_Part_0_123456789.1627054800000--

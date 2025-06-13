@@ -1,0 +1,56 @@
+From service@paypal.com Fri Jul 21 09:12:45 2023
+Return-Path: <service@paypal.com>
+Received: from smtp4.paypal.com (smtp4.paypal.com [198.51.100.1]) by mx.google.com with ESMTP id ABCDE for <user@domain.com>; Fri, 21 Jul 2023 09:12:45 -0700 (PDT)
+From: "PayPal" <service@paypal.com>
+Reply-To: support@paypal-security.com
+To: user@domain.com
+Subject: Urgent: Account Password Update Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account has been LIMITED due to suspicious activity. You must update your password immediately to avoid suspension.
+
+Visit https://www.paypal.com/signin to secure your account now.
+
+Failure to update within 24 hours will result in permanent hold.
+
+Thank you,
+PayPal Security Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">Urgent Security Alert!</p>
+    <p>Dear Valued Customer,</p>
+    <p>We have detected unauthorized login attempts on your PayPal account. Your account is temporarily limited. You must reset your password immediately to restore full access.</p>
+    <p>
+      <a href="http://198.51.100.12/login"><img src="http://198.51.100.12/images/paypal_logo.png" alt="PayPal"></a>
+    </p>
+    <p>
+      To proceed, please <a href="http://198.51.100.12/login">here</a> or <a href="http://198.51.100.12/login">click here</a>.
+    </p>
+    <p>
+      Or go to <a href="http://198.51.100.12/login">https://www.paypal.com/signin</a> to sign in.
+    </p>
+    <p><a href="http://198.51.100.12/login"></a></p>
+    <p>
+      Privacy Policy: <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full">https://www.paypal.com/us/webapps/mpp/ua/privacy-full</a><br>
+      Help Center: <a href="https://www.paypal.com/us/smarthelp/home">https://www.paypal.com/us/smarthelp/home</a>
+    </p>
+    <p style="color:red;">Failure to update within 24 hours will result in account suspension.</p>
+    <p>Regards,<br>
+      PayPal Security Team
+    </p>
+  </body>
+</html>
+
+--===============123456789==--

@@ -1,0 +1,28 @@
+From dhl-delivery@dhl.com Mon Mar 13 09:15:00 2023
+From: "DHL Service" <delivery@dhl.com>
+Reply-To: support@secure-update.example.com
+Subject: Urgent: Delivery Notification - Account Password Update Required
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #c00;">Immediate Attention Required!</h2>
+    <p>Dear Customer,</p>
+    <p>Your package is currently being held due to an <strong>outstanding customs fee</strong>. To avoid returning your shipment to the sender, <span style="color: red; font-weight: bold;">you must complete a quick verification of your account password</span> within the next 24 hours.</p>
+    <p style="margin:20px 0;">
+      <a href="https://dhl.com/privacy-policy">Privacy Policy</a> |
+      <a href="https://dhl.com/help">Help Center</a>
+    </p>
+    <p>To verify and release your parcel, <a href="http://192.0.2.123/verify">click here</a> to proceed with the <strong>urgent update</strong>.</p>
+    <p>
+      <a href="http://192.0.2.123/verify"><img src="http://192.0.2.123/dhl_truck.png" alt="Delivery Icon" width="100" height="50" style="border: none;"/></a>
+    </p>
+    <p>If verification is not completed, <span style="color: #c00;">your shipment will be suspended</span> and returned to sender.</p>
+    <!-- Empty visible link -->
+    <a href="http://192.0.2.123/update"></a>
+    <p>Thank you for your prompt attention to this critical update.</p>
+    <p>Sincerely,<br/>DHL Delivery Team</p>
+  </body>
+</html>

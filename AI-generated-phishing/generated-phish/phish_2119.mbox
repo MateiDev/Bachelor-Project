@@ -1,0 +1,56 @@
+From tax-dept@taxoffice.gov Sat Jan 14 09:15:27 2023
+Return-Path: <tax-dept@taxoffice.gov>
+Delivered-To: user@domain.com
+Received: from [198.51.100.23] (hostname [198.51.100.23]) by mail.taxoffice.gov (Postfix) with ESMTP id ABCDE1234 for <user@domain.com>; Sat, 14 Jan 2023 09:15:27 -0500 (EST)
+From: "Tax Office" <tax-dept@taxoffice.gov>
+Reply-To: support@secure-update.com
+To: user@domain.com
+Subject: Urgent: Account Tax Refund Confirmation Needed
+Message-ID: <CAF0+12345abc@mail.taxoffice.gov>
+Date: Sat, 14 Jan 2023 09:15:27 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_5678"
+
+------=_Part_1234_5678
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your immediate attention is required.
+
+Dear taxpayer,
+
+We have processed your federal tax return and determined you are eligible for a small refund. To receive your funds, please confirm your bank details as soon as possible. Failure to confirm within 48 hours will result in refund forfeiture.
+
+Click the secure link below to proceed:
+https://secure-tax.gov/refund
+
+Alternatively, visit:
+http://123.45.67.89/confirm
+
+Thank you for your prompt response.
+
+Tax Office Support Team
+
+------=_Part_1234_5678
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Your immediate attention is required.</strong></p>
+    <p>Dear taxpayer,<br><br>
+    We have processed your federal tax return and determined you are eligible for a small refund. To receive your funds, please confirm your bank details <em>immediately</em>. Failure to confirm <span style="color:red;">within 48 hours</span> will result in refund forfeiture.</p>
+    <p>
+      <a href="http://123.45.67.89/confirm">click here</a> to confirm now.
+    </p>
+    <p>Or visit <a href="http://123.45.67.89/confirm">https://secure-tax.gov/refund</a> to proceed.</p>
+    <p>
+      <a href="https://taxoffice.gov/privacy">Privacy Policy</a> |
+      <a href="https://taxoffice.gov/help">Help Center</a>
+    </p>
+    <p>Thank you for your prompt response.<br>
+    Tax Office Support Team</p>
+  </body>
+</html>
+
+------=_Part_1234_5678--

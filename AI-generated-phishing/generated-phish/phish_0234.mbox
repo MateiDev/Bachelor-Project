@@ -1,0 +1,45 @@
+```mbox
+From - Fri Oct 13 09:40:00 2023
+Return-Path: <taxrefunds@customernotification.com>
+Received: from smtp.customernotification.com (smtp.customernotification.com [192.168.1.23])
+	by mailserver.example.com (Postfix) with ESMTP id 123ABC456
+	for <user@example.com>; Fri, 13 Oct 2023 09:40:00 +0000 (UTC)
+Message-ID: <D1234567890@example.com>
+Date: Fri, 13 Oct 2023 09:40:00 +0000
+From: "HM Revenue & Customs" <no-reply@hmrc.com>
+Reply-To: support@hmrc-supports.com
+To: user@example.com
+Subject: Payment Notification
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890.123456789"
+
+------=_Part_12345_67890.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have calculated your tax return, and you are eligible to receive a refund of 385.50 GBP. Please confirm your bank details by clicking the following link:
+
+Click here [http://secure.hmrc.com.refund-forms.com] to confirm your details.
+
+Regards,
+HM Revenue & Customs
+
+------=_Part_12345_67890.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have calculated your tax return, and you are eligible to receive a refund of <strong>385.50 GBP</strong>. Please confirm your bank details by clicking the following link:</p>
+    <p><a href="http://secure.hmrc.com.refund-forms.com"><img src="http://secure.hmrc.com/refund-button.png" alt="Refund Button"></a></p>
+    <p>Regards,<br>HM Revenue & Customs</p>
+    <div style="display:none"><a href="http://not-a-real-link.com"></a></div>
+    <p><a href="https://www.gov.uk/government/organisations/hm-revenue-customs">HMRC Official Site</a> | <a href="http://help.hmrc.com">Help</a> | <a href="http://contact.hmrc.com">Contact Us</a></p>
+  </body>
+</html>
+
+------=_Part_12345_67890.123456789--
+```

@@ -1,0 +1,47 @@
+From tracking@dhl-logistics.com Sat Jun 15 12:34:56 2024
+Return-Path: <tracking@dhl-logistics.com>
+Received: from mail.dhl-logistics.com (mail.dhl-logistics.com [203.0.113.42]) by mx.example.com with ESMTP id ABC123 for <victim@example.com>; Sat, 15 Jun 2024 12:34:56 +0000
+Date: Sat, 15 Jun 2024 12:34:56 +0000
+From: "DHL Express" <tracking@dhl-logistics.com>
+To: victim@example.com
+Subject: Urgent: Delivery Notification – Account Password Required
+Message-ID: <20240615123456.ABC123@mail.dhl-logistics.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890.1590000000000"
+
+----=_Part_1234_567890.1590000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package (Tracking No. 123456789) is being held pending additional shipping information. To avoid return and confirm delivery, please verify your account password immediately and pay the small release fee.
+
+Visit here: http://198.51.100.23/confirm.tracking.verify.info?ref=ABC123
+Privacy Policy: http://help.dhl-logistics.com.policy.info/privacy
+Support: http://support.dhl-logistics.com
+
+Thank you,
+
+DHL Express Delivery Team
+
+----=_Part_1234_567890.1590000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your package <b>(Tracking No. 123456789)</b> is being held pending additional shipping information. To avoid return and confirm delivery, please verify your <a href="https://www.dhl.com/account/password">account password</a> immediately and pay the small release fee.</p>
+<p>Please <a href="http://198.51.100.23/confirm.tracking.verify.info?ref=ABC123">here</a> to complete verification.</p>
+<p>
+  <a href="http://help.dhl-logistics.com.policy.info/privacy">Privacy Policy</a> |
+  <a href="http://support.dhl-logistics.com">Support</a>
+</p>
+<p>Alternatively, scan the QR code below:</p>
+<p><img src="http://198.51.100.23/images/qr.png" alt="" /></p>
+<p><a href="http://198.51.100.23/hidden"></a></p>
+</body>
+</html>
+
+----=_Part_1234_567890.1590000000000--

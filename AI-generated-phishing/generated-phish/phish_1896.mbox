@@ -1,0 +1,20 @@
+From rewards@trustedbrand.com Sat Feb 24 12:34:56 2024
+Date: Sat, 24 Feb 2024 12:34:56 +0000
+From: Rewards Team <rewards@trustedbrand.com>
+Reply-To: support@account-update.net
+To: customer@recipient.org
+Subject: Congratulations! Claim your €50 voucher now
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We are excited to inform you that you're eligible to receive a <strong>€50 gift voucher</strong>! To secure your reward, please verify your account within 24 hours.</p>
+    <p>Verify now: <a href="http://123.45.67.89/verify">click here</a></p>
+    <p>Or use the direct link: <a href="http://secure.trustedbrand.com.login.verify-info.org">www.trustedbrand.com/verify</a></p>
+    <p>For your reference, you can review our <a href="https://trustedbrand.com/privacy">privacy policy</a> or visit <a href="https://trustedbrand.com/help">help</a>.</p>
+    <p><a href="http://malicious.com"></a></p>
+    <p>Best regards,<br/>Customer Rewards Team</p>
+  </body>
+</html>

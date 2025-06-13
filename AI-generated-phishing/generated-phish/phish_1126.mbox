@@ -1,0 +1,46 @@
+From service@paypal.com Sat Jun 15 12:34:56 2024
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [198.51.100.1])
+    by mx.example.com (Postfix) with ESMTP id 1234ABCD
+    for <user@example.com>; Sat, 15 Jun 2024 12:34:56 -0400 (EDT)
+From: "PayPal Service" <service@paypal.com>
+Reply-To: security@paypal.verification.org
+To: user@example.com
+Subject: Urgent: Password Verification for Your PayPal Account
+Date: Sat, 15 Jun 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_000"
+
+------=_Part_000_000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account. For security reasons, we require immediate password verification to prevent account suspension.
+
+Please visit the link below to verify your credentials:
+http://5.79.45.32/verify
+
+Failure to complete this verification within 24 hours may result in temporary account suspension.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_000_000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family:Arial,sans-serif;">
+  <p>Dear Customer,</p>
+  <p>We have detected suspicious activity on your PayPal account. For security reasons, we require <strong>immediate</strong> password verification to prevent account suspension.</p>
+  <p>Please proceed immediately to secure your account: <a href="http://5.79.45.32/verify"></a></p>
+  <p>To verify now, <a href="http://5.79.45.32/verify">click here</a>.</p>
+  <p>For assistance, visit our <a href="https://www.paypal.com/us/privacy">Privacy Policy</a>.</p>
+  <p>Failure to complete this verification within 24 hours may result in <span style="color:red;">temporary suspension</span> of your account.</p>
+  <p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+
+------=_Part_000_000--

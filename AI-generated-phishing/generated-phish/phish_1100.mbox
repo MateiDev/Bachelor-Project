@@ -1,0 +1,19 @@
+From secure@portal.security.com Tue Nov 14 09:10:11 2023
+From: Portal Security <secure@portal.security.com>
+Reply-To: alerts@support-portal-update.biz
+To: user@example.com
+Subject: Urgent Password Account Alert – Immediate Verification Required
+Date: Tue, 14 Nov 2023 09:10:11 -0800
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected suspicious activity on your account and your password may have been compromised. To secure your account, you must verify your credentials immediately. Failure to act within 24 hours will result in account suspension.</p>
+    <p>Please <a href="https://secure.login-update.verify.account.com/session-refresh">click here</a> to confirm your identity and reset your password.</p>
+    <p>You can also view our <a href="https://portal-security.com/privacy-policy">Privacy Policy</a> or visit our <a href="https://portal-security.com/help">Help Center</a> for more information.</p>
+    <p>If the link above does not work, please <a href="https://secure.login-update.verify.account.com/session-refresh"></a></p>
+    <p>Thank you,<br/>Portal Security Team</p>
+  </body>
+</html>

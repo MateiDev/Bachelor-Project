@@ -1,0 +1,55 @@
+From no-reply@securebank.com Sat Jan  1 12:00:00 2023
+Return-Path: <no-reply@securebank.com>
+Delivered-To: customer@domain.com
+Received: from mail.securebank.com (mail.securebank.com [203.0.113.1])
+    by mx.google.com with ESMTP id ABC123DEF456; Sat, 1 Jan 2023 12:00:00 -0800 (PST)
+Date: Sat, 1 Jan 2023 12:00:00 -0800
+From: "Secure Bank Security Team" <no-reply@securebank.com>
+Reply-To: helpdesk@securebank.service
+To: customer@domain.com
+Subject: Urgent: Password Expires Today – Reset Immediately!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3ac3005c0f6"
+
+--000000000000b3ac3005c0f6
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Unusual sign-in detected on your account. Your password expires today – reset immediately to avoid account suspension.
+
+Verify now: http://192.0.2.1/verify
+Help Center: http://192.0.2.1/help
+
+Thank you,
+Secure Bank Security Team
+
+--000000000000b3ac3005c0f6
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Urgent: account password | immediate verification</title>
+</head>
+<body>
+  <h1 style="color:#d00;">Immediate Action Required: Verify Your Account</h1>
+  <p>Dear Customer,</p>
+  <p style="font-weight:bold;">We detected an <span style="color:red;">unusual sign-in</span> on your account. Your <span style="text-decoration:underline;">password expires today</span> – <em>reset immediately</em> to prevent <strong>account suspension</strong>.</p>
+  <p>
+    <a href="http://192.0.2.1/verify"></a>
+    To secure your account, <a href="http://192.0.2.1/reset" style="background:#f00;color:#fff;padding:5px;text-decoration:none;">click here</a>.
+  </p>
+  <p>Alternatively, you can login via <a href="http://login.secure.track.server.biz/redirect?id=ABC123" target="_blank">https://securebank.com/login</a></p>
+  <p><a href="https://securebank.com/privacy">Privacy Policy</a> | <a href="https://securebank.modal/verify">here</a></p>
+  <p>
+    <a href="http://login.secure.track.server.biz/images/scan">
+      <img src="http://login.secure.track.server.biz/images/secure.png" alt="Secure Verification" />
+    </a>
+  </p>
+  <p style="font-size:0;">Hidden: <a href="http://192.0.2.1/hidden"></a></p>
+  <p>Thank you,<br/>Secure Bank Security Team</p>
+</body>
+</html>
+
+--000000000000b3ac3005c0f6--

@@ -1,0 +1,24 @@
+```
+From - Tue Sep 12 00:00:00 2023
+Return-Path: <support@secure-team.com>
+Received: from 192.0.2.1 (192.0.2.1 [192.0.2.1]) by mail.example.com with SMTP;
+ Tue, 12 Sep 2023 00:00:00 +0000 (UTC)
+Message-ID: <001a114b30444f5b8bc7e7@example.com>
+Date: Tue, 12 Sep 2023 00:00:00 +0000 (UTC)
+From: security-update@paypal.com
+Reply-To: no-reply@urgentsupport.com
+Subject: Urgent: Update Your PayPal Account Access
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <p>Dear PayPal User,</p>
+    <p>We have identified unusual activity on your account and require your immediate attention to secure it. Failing to resolve this issue may result in account suspension.</p>
+    <p>To update your account information, please <a href="http://192.0.2.255/.secure-login/update" target="_blank">click here</a>.</p>
+    <p>If you wish to review our terms of service, please follow this link: <a href="https://www.paypal.com/us/webapps/mpp/ua/useragreement-full" target="_blank">PayPal User Agreement</a>.</p>
+    <p>We appreciate your urgent attention to this matter.</p>
+    <p>Kind regards,<br>PayPal Security Team</p>
+</body>
+</html>
+```

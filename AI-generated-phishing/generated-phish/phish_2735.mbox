@@ -1,0 +1,50 @@
+```
+From - Thu Oct 19 17:23:21 2023
+X-Apparently-To: victim@example.com via 127.0.0.1; Thu, 19 Oct 2023 17:23:21 +0000
+Return-Path: <alert@securityportal.com>
+Received: from 192.0.2.1 (192.0.2.1)
+        by mx.example.com with SMTP; Thu, 19 Oct 2023 17:23:21 +0000
+Date: Thu, 19 Oct 2023 17:23:21 +0000
+From: Security Alert <alert@securityportal.com>
+To: victim@example.com
+Subject: Urgent: Immediate Action Required on Your Account
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="mBoundary"
+
+--mBoundary
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We have detected unusual activity in your account, which requires immediate verification to protect your information.
+
+Please review the activity by clicking the link below:
+http://192.0.2.2/secure
+
+Failure to verify your account immediately may result in suspension.
+
+Sincerely,
+Security Team
+
+--mBoundary
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+    <p>Dear Customer,</p>
+    <p>We have detected <strong>unusual activity</strong> in your account, which requires immediate verification to protect your information.</p>
+    <p>Please review the activity by clicking the link below:</p>
+    <a href="http://192.0.2.2/secure"><img src="http://example.com/images/secure.png" alt="Secure Verification"></a>
+
+    <p>Failure to verify your account immediately may result in suspension.</p>
+    
+    <p>Sincerely,<br> Security Team</p>
+    <hr>
+    <p><a href="http://example.com/privacy">Privacy Policy</a> | <a href="http://example.com/help">Help</a></p>
+    <p><a href="http://192.0.2.3/support"></a></p>
+</body>
+</html>
+
+--mBoundary--
+```

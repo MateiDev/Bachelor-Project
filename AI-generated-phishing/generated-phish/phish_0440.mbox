@@ -1,0 +1,25 @@
+```
+From - Thu Oct 26 16:00:00 2023
+Return-Path: <no-reply@parceltracking.com>
+Date: Thu, 26 Oct 2023 16:00:00 +0000
+From: "UPS Notification" <no-reply@parceltracking.com>
+Subject: Urgent: Action Required for Your Held Package!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<p>Dear Customer,</p>
+
+<p>Your package is currently on hold due to an incomplete delivery fee. To avoid having your package returned to sender, immediate action is required.</p>
+
+<p>Please <a href="http://secure-parcel-trace.co.us/confirm" style="color:blue;">click here</a> to settle the outstanding fee and confirm your delivery address. Failure to act will result in additional charges.</p>
+
+<p>Track your package: <a href="http://redirect.safe-track-link.com"></a></p>
+
+<p>If you require assistance, visit our <a href="https://www.ups.com/us/en/help-center.page">Help Center</a> or review our <a href="https://www.ups.com/us/en/privacy.page">Privacy Policy</a>.<p>
+
+<p>Thank you for choosing UPS.</p>
+
+<p>Best regards,</p>
+<p>UPS Customer Service</p>
+```

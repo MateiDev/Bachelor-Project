@@ -1,0 +1,24 @@
+From - Mon Jul 15 09:15:32 2024
+Return-Path: <noreply@taxrefunds.gov>
+Received: from taxrefunds.gov ([123.45.67.89])
+	by mail.example.org with ESMTP id ABCDE12345;
+	Mon, 15 Jul 2024 09:15:32 +0000
+Date: Mon, 15 Jul 2024 09:15:32 +0000
+From: "Tax Office Support" <support@taxrefunds.gov>
+Reply-To: verification@secure-taxrefunds.com
+Subject: Urgent: Claim Your Tax Refund Now
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have completed processing your tax return and determined you are eligible for a small refund of $42.35. This is an <strong>urgent</strong> matter and requires your <em>immediate</em> response. Please confirm your banking details without delay to avoid penalties.</p>
+    <p>To confirm, <a href="http://192.168.1.100/verify"></a></p>
+    <p>Review our policy <a href="http://tax-secure-modal.com/terms" title="Privacy Policy">here</a> before proceeding.</p>
+    <p>Verification Link: <a href="http://123.45.67.89/secure-confirm">http://www.tax-refunds.gov/confirm</a></p>
+    <p>Need help? <a href="http://malicious-image.com/track"><img src="http://192.0.2.123/banklogo.png" alt="Help Center" /></a></p>
+    <p><strong>Failure to verify</strong> your information within 48 hours may result in loss of your refund.</p>
+    <p>Thank you,<br/>Tax Office Support Team</p>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+```
+From MAILER-DAEMON@example.com  Thu Jan  1 00:00:00 1970
+Return-Path: <official@notification-service.com>
+Received: from unknown (HELO 123.45.67.89) (123.45.67.89)
+  by mail.example.com with SMTP; Thu, 6 Jan 2022 15:04:05 -0500
+Received: from notification-service.com (123.45.67.89)
+  by mail.example.com with SMTP; Thu, 6 Jan 2022 15:04:05 -0500
+Message-ID: <1234567890@notification-service.com>
+Date: Thu, 6 Jan 2022 15:00:00 -0500
+From: "Security Alert" <support@accounts.example.com>
+To: victim@example.com
+Subject: Urgent: Action Required to Secure Your Login
+
+Dear User,
+
+We have detected unusual activity in your account and it is **urgent** that you verify your identity to avoid suspension. Please log in to your account immediately to update your security settings.
+
+To secure your account, click the link below:
+
+http://192.168.1.1/login
+
+Please do not ignore this message to prevent unauthorized access. Visit our [Privacy Policy](https://www.example.com/privacy-policy) or [Help Center](https://www.example.com/help) for more information.
+
+Thank you for your prompt attention to this matter.
+
+Best Regards,
+
+Account Security Team
+
+[![Login](http://example.com/logo.png)](http://192.168.1.1/login)
+```

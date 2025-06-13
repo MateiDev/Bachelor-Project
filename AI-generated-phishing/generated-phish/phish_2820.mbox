@@ -1,0 +1,47 @@
+```
+From - Mon Oct 2 14:38:22 2023
+Return-Path: <no-reply@delivery-alerts.com>
+Received: from suspicious-server.com (192.168.1.100) by victim-email-server.com
+Date: Mon, 02 Oct 2023 14:38:22 +0000
+From: "DHL Express" <no-reply@delivery-alerts.com>
+Reply-To: delivery-service@parcel-notification.com
+Subject: Urgent: Action Required for Your DHL Account - Immediate Verification Needed!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123route"
+
+--ABC123route
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We attempted to deliver a package to you but unfortunately, there was an issue. 
+Immediate verification is required to prevent your package from being returned to the sender. 
+
+To resolve this matter, please complete the verification process by following the link below:
+http://192.0.2.1/secure-delivery
+
+Act quickly to avoid the package being held at our facility indefinitely.
+
+Best regards,
+DHL Express Team
+
+--ABC123route
+Content-Type: text/html; charset="utf-8"
+
+<html>
+  <body>
+    <img src="http://fraudulent.website.tracker/track.jpg" alt="DHL Logo">
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver a package to you but unfortunately, there was an issue. 
+    <strong>Immediate verification is required</strong> to prevent your package from being returned to the sender.</p>
+    <p>To resolve this matter, please <a href="http://192.0.2.1/secure-delivery">complete the verification process</a> by following the link below:</p>
+    <p><a href="http://fake-link.deliveryservice.com/load">http://192.0.2.1/secure-delivery</a></p>
+    <p>Act quickly to avoid the package being held at our facility indefinitely.</p>
+    <p>Best regards,<br>DHL Express Team</p>
+    <p><a href="http://entity-not-associated.com/track">Track your parcel</a> | <a href="http://fake-customerservice-url.com/help">Customer Service</a></p>
+  </body>
+</html>
+
+--ABC123route--
+```

@@ -1,0 +1,66 @@
+From no-reply@usgov-tax.gov Wed Dec 06 12:34:56 2023
+Return-Path: <no-reply@usgov-tax.gov>
+Delivered-To: victim@domain.org
+Received: from smtp.usgov-tax.gov (smtp.usgov-tax.gov [198.51.100.23])
+    by mail.domain.org with ESMTP id GHI789JKL01234;
+    Wed, 06 Dec 2023 12:34:56 -0500
+From: "United States Tax Department" <no-reply@usgov-tax.gov>
+Reply-To: "Support Team" <support@phishingsite.biz>
+Subject: Urgent: Refund Pending - Confirm Your Account Details
+Date: Wed, 06 Dec 2023 12:34:56 -0500
+Message-ID: <20231206123456.123456@smtp.usgov-tax.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY-1234"
+
+--BOUNDARY-1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate you have a small tax refund waiting. To receive your funds, please confirm your bank account details immediately:
+
+IP Link: http://192.0.2.123/confirm  
+Secure Portal: https://secure.verify.update.account.tax.gov.phishsite.com/confirm
+
+For assistance, visit our help page:  
+https://www.irs.gov/help
+
+Thank you,  
+United States Tax Department
+
+--BOUNDARY-1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records indicate you have a small tax refund waiting. To receive your funds, please <strong>confirm your bank account details</strong> as soon as possible.</p>
+    <p>
+      Click the button below:<br>
+      <a href="http://192.0.2.123/confirm">
+        <img src="http://192.0.2.123/images/confirm_button.png" alt="Confirm Now" style="border:none;">
+      </a>
+    </p>
+    <p>
+      Or access via our secure portal:
+      <a href="https://phishingsite.biz/secure-login">here</a>
+    </p>
+    <p>
+      Direct link: <a href="http://malicious-phish.com/banking">https://secure.irs.gov/update</a><br>
+      <a href="https://www.irs.gov/help">help</a> | <a href="https://www.irs.gov/privacy-policy">privacy-policy</a>
+    </p>
+    <p>
+      Also, please review your account status:<br>
+      <a href="https://192.0.2.123/status"></a>
+    </p>
+    <p>
+      Best regards,<br>
+      Tax Refund Services<br>
+      <a href="https://www.irs.gov/password-recovery">account/password recovery</a>
+    </p>
+  </body>
+</html>
+
+--BOUNDARY-1234--

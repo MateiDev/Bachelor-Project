@@ -1,0 +1,48 @@
+From phishing-test@mbox Sat Jul 20 12:00:00 2024
+Return-path: <support@bank.com>
+Received: from mail.bank.com (mail.bank.com [198.51.100.25])
+    by mx.google.com with ESMTPS id ABC123DEF
+From: "Bank Support" <support@bank.com>
+Reply-To: secure.portal@malicious-securemail.net
+To: victim@domain.com
+Subject: Urgent: Account Password Verification Required
+Date: Sat, 20 Jul 2024 12:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account. To ensure uninterrupted access, please verify your password immediately.
+Click on the link below to proceed:
+
+https://login.secure.bank.com/verify
+
+If you have any questions, see our privacy policy: https://www.bank.com/privacy-policy
+
+Thank you,
+Bank Support Team
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected unusual activity on your account. To ensure uninterrupted access, please verify your password immediately by clicking <a href="http://malicious-portal.verify-info.security-check.com/login">here</a>.</p>
+<p>If the link above does not work, copy and paste the following URL into your browser:</p>
+<p><a href="http://malicious-portal.verify-info.security-check.com/login"></a></p>
+<p>For assistance, visit our <a href="https://www.bank.com/help">help</a> page or review our <a href="https://www.bank.com/privacy-policy">privacy-policy</a>.</p>
+<p>Alternatively, open your account portal directly:</p>
+<p><a href="http://tinyurl.com/secure.portal.access">https://online.bankportal.com/login.security.portal</a></p>
+<p>Regards,<br/>Bank Support Team</p>
+</body>
+</html>
+----=_NextPart_000_0000--

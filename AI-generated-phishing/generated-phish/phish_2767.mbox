@@ -1,0 +1,39 @@
+```mbox
+From scammer@fakebank.com Fri Oct 14 09:32:20 2023
+Return-Path: <scammer@fakebank.com>
+Delivered-To: victim@example.com
+Received: from suspiciousserver.com (suspiciousserver.com [192.0.2.1])
+        by mail.example.com with ESMTP id m12345678
+        for <victim@example.com>; Fri, 14 Oct 2023 09:32:20 -0400 (EDT)
+Message-ID: <1234567890@suspiciousserver.com>
+Date: Fri, 14 Oct 2023 13:32:20 +0000
+From: FakeBank Support <support@fakebank.com>
+Reply-To: customer-service@not-fakebank.com
+Subject: Urgent Action Required – Account Verification Needed
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>We have detected <b>suspicious activity</b> on your account during our regular maintenance check. <b>Immediate action</b> is required to avoid account suspension.</p>
+    <p>Please verify your account by following the link below:</p>
+
+    <p><a href="http://192.0.2.2/login" target="_blank"><img src="https://fakebank.com/logo.png" alt="FakeBank" /></a></p>
+
+    <p><a href="http://suspicious.link.com/login">http://fakebank.com/login</a></p>
+
+    <p>To proceed, please <a href="http://192.0.2.3/login-verify">click here</a>.</p>
+
+    <p>For your convenience, below are some useful links:</p>
+    <ul>
+        <li><a href="https://www.fakebank.com/help">Help</a></li>
+        <li><a href="https://www.fakebank.com/privacy">Privacy Policy</a></li>
+    </ul>
+
+    <p>Your security is our priority. Click <a href="http://192.0.2.4/secure-verify">here</a> to resolve this issue now.</p>
+
+    <p>Thank you,<br>FakeBank Security Team</p>
+</body>
+</html>
+```

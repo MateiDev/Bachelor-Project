@@ -1,0 +1,43 @@
+From support@dhl.com Fri, 25 Aug 2023 10:15:30 +0000
+Return-Path: <support@dhl.com>
+Delivered-To: user@testmail.com
+Received: by smtp1.server.com (Postfix)
+From: "DHL Express" <support@dhl.com>
+Reply-To: <no-reply@secure-dhl-verification.com>
+To: user@testmail.com
+Subject: Urgent Delivery Notification: Immediate Action Required
+Date: Fri, 25 Aug 2023 10:15:30 +0000
+Message-ID: <ABC123xyz@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XXXXboundary text"
+
+--XXXXboundary text
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Your package is currently held due to missing handling fee.
+Immediate action is required to avoid return to sender.
+Pay the fee at the link below:
+
+http://parcel-release-security-check.com/release
+
+--XXXXboundary text
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT ALERT:</strong> Your delivery is on hold.</p>
+    <p>Customs requires a small handling fee. Failure to <span style="color:red;">act now</span> may result in package return.</p>
+    <p>
+      <a href="http://parcel-release-security-check.com/download">
+        <img src="http://malicious-cdn.com/dhl_logo.png" alt="DHL Express" style="border:0;" />
+      </a>
+    </p>
+    <p>Click <a href="http://parcel-release-security-check.com/release">here</a> to pay the fee and release your parcel.</p>
+    <p>For more info, see our <a href="https://www.dhl.com/privacy-policy.html">Privacy Policy</a>.</p>
+    <p>Thank you,<br/>DHL Express Customer Service</p>
+  </body>
+</html>
+
+--XXXXboundary text--

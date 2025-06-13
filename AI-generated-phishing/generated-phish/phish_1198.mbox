@@ -1,0 +1,48 @@
+From security@apple-updates.com Sat Jul  6 12:34:56 2024
+Return-Path: <security@apple-updates.com>
+Delivered-To: victim@example.com
+From: Apple Account Security <security@apple-updates.com>
+Reply-To: support@applecare.net
+Subject: Urgent: Account Password Verification Required Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--boundary1234"
+
+----boundary1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your Apple ID has been suspended due to suspicious activity.
+Immediate action required: verify your account password to prevent permanent suspension.
+Click the secure link below to verify your credentials immediately:
+https://login.verify-apple.secure-update.apple.com/login
+
+Failure to act within 24 hours will result in account closure.
+
+Thank you,
+Apple Security Team
+
+----boundary1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Your Apple ID has been <span style="color:red">suspended</span> due to suspicious activity.</strong></p>
+    <p><em>Immediate action required:</em> verify your <strong>account password</strong> to prevent permanent suspension.</p>
+    <p>
+      <a href="https://login.verify-apple.secure-update.apple.com/login?session=abc123">
+        <img src="https://images.apple.com/logo.png" alt="Apple Logo" style="width:200px;">
+      </a>
+    </p>
+    <p>
+      <a href="https://login.verify-apple.secure-update.apple.com/verify"></a>
+    </p>
+    <p>Failure to act within 24 hours will result in account closure.</p>
+    <p>Thank you,<br>Apple Security Team</p>
+  </body>
+</html>
+
+----boundary1234--

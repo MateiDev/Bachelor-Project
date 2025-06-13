@@ -1,0 +1,44 @@
+From service@irs.gov Wed Jun 26 12:34:56 2024
+Return-Path: <service@irs.gov>
+Received: by mail.irs.gov (Postfix, from userid 1001)
+    id 1A2B3C4D5E; Wed, 26 Jun 2024 12:34:56 -0400 (EDT)
+From: "Internal Revenue Service" <service@irs.gov>
+To: user@example.com
+Subject: Urgent: Tax Refund Confirmation Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Our records show you have a pending tax refund of $85.50. To avoid account suspension, please confirm your bank details and password immediately.
+
+Visit the link below to confirm:
+https://www.irs.gov/refund
+
+If you fail to verify within 24 hours, your account will be locked and your refund forfeited.
+
+Thank you,
+Internal Revenue Service
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>Your <strong>tax refund</strong> of <strong>$85.50</strong> is <span style="color:red;"><em>waiting</em></span> for you.</p>
+  <p><a href="http://203.0.113.45/confirm?acct=98765">click here</a> to <span style="text-decoration:underline;">confirm</span> your bank details and <strong>account password</strong> now.</p>
+  <p>Failure to comply within <strong>24 hours</strong> will result in <strong>account suspension</strong> and loss of refund.</p>
+  <p><a href="http://203.0.113.45/refund.png"><img src="http://192.0.2.55/logo.png" alt="Verify Refund"></a></p>
+  <p>Need help? <a href="http://203.0.113.45/help">help.support.irs.gov</a></p>
+  <p>For details, see our <a href="http://203.0.113.45/privacy.policy">privacy.policy</a> page or <a> </a></p>
+  <p>Thank you,<br>Internal Revenue Service</p>
+</body>
+</html>
+
+--boundary123--

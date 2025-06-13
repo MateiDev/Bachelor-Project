@@ -1,0 +1,32 @@
+```mbox
+From nobody Fri Oct  13 11:53:00 2023
+Return-Path: <fake@phishing.com>
+Received: from 192.0.2.1 (192.0.2.1)
+        by mail.test.com with SMTP; Fri, 13 Oct 2023 10:53:00 +0000
+Date: Fri, 13 Oct 2023 10:53:00 +0000
+From: "Customer Support" <fake@phishing.com>
+Reply-To: support@phishing-rewards.com
+Subject: Urgent: Your €500 Gift Card Is Waiting!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Congratulations! You are eligible for a €500 voucher. 
+Claim now by following the link: http://192.0.2.2/reward
+For privacy policy or help visit: http://example.com/help
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Congratulations! You are <b>eligible</b> for a €500 voucher.</p>
+<p>Claim now by clicking <a href="http://192.0.2.2/reward">here</a></p>
+<p>For privacy policy or help visit: <a href="http://example.com/help">our help page</a></p>
+</body>
+</html>
+
+--boundary-string--
+```

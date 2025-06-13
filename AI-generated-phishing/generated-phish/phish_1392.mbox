@@ -1,0 +1,51 @@
+From rewards@trusted.com Mon Jan  1 10:00:00 2024
+Message-ID: <unique.12345@trusted.com>
+Date: Mon, 1 Jan 2024 10:00:00 +0000
+From: "Rewards Team" <rewards@trusted.com>
+Reply-To: support@secure-alerts.com
+To: user@anymail.com
+Subject: URGENT: Account Update Required – Claim Your €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+
+----=_Part_123456_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+Your account needs immediate attention! You’re eligible for a €50 voucher but you must claim it within 24 hours to avoid forfeiture.
+
+Click here to secure your reward now:
+http://malicious.phish/claim123
+
+If the link above does not work, please visit:
+www.trusted-rewards.com/claim
+
+Privacy info: https://trusted-rewards.com/privacy-policy
+
+Thank you,
+Rewards Team
+
+----=_Part_123456_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Account Update Required – Claim Your €50 Voucher</title>
+</head>
+<body>
+  <p>Dear Valued User,</p>
+  <p style="color:red; font-weight:bold;">Your account needs immediate attention!</p>
+  <p>You’re eligible for a <strong>€50 voucher</strong> but you must claim it within <em>24 hours</em> to avoid forfeiture.</p>
+  <p><a href="http://malicious.phish/claim123" style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;">click here</a> to secure your reward now!</p>
+  <p>If the button above does not work, try this link:</p>
+  <p><a href="http://malicious.phish/claim123">www.trusted-rewards.com/claim</a></p>
+  <hr>
+  <p><a href="https://trusted-rewards.com/privacy-policy">Privacy Policy</a> | <a href="https://trusted-rewards.com/help">Help Center</a></p>
+  <p>Thank you,<br/>Rewards Team</p>
+</body>
+</html>
+
+----=_Part_123456_abcdef--

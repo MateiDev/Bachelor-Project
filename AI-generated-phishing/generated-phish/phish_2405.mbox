@@ -1,0 +1,51 @@
+From security@mybank.com Fri Aug 25 12:34:56 2023
+Date: Fri, 25 Aug 2023 12:34:56 -0400
+From: MyBank Security <security@mybank.com>
+Reply-To: support@bankupdates.com
+To: user@clientmail.com
+Subject: Unusual sign-in detected–Verify your account now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in to your MyBank account from a new device. For your protection, your account is temporarily locked.
+Action required immediately: verify your identity and reset your password to avoid permanent suspension.
+
+Password expires today – reset immediately:
+  - Verify Account: https://mybank.com/security
+  - Reset Password: http://verify.bank-auth.net/reset
+  - Account Center: https://secure-login-update.com/account
+
+For assistance, review our Privacy Policy at https://legal.mybank.com/privacy or click here: http://verify.bank-auth.net/support
+
+Thank you for your prompt attention to this urgent matter.
+
+Sincerely,
+MyBank Security Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Unusual sign-in detected—your account has been locked.</strong></p>
+    <p><strong>Action required immediately:</strong> verify your identity and <em>reset your password</em> to avoid <span style="text-decoration:underline;">permanent suspension.</span></p>
+    <ul>
+      <li>Password expires today – reset immediately: <a href="http://verify.bank-auth.net/reset">Reset Password</a></li>
+      <li>Verify your account details at <a href="http://secure-update.mybank-logins.com/auth">https://mybank.com/security</a></li>
+      <li>Manage settings in the <a href="https://secure-login-update.com/account">Account Center</a></li>
+    </ul>
+    <p>For assistance, please review our <a href="https://legal.mybank.com/privacy">Privacy Policy</a> or <a href="http://verify.bank-auth.net/support">click here</a>.</p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely,<br/>MyBank Security Team</p>
+  </body>
+</html>
+
+--===============123456789==--

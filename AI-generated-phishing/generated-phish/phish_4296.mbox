@@ -1,0 +1,55 @@
+From support@legit-company.com Fri Jul 15 09:30:00 2022
+Return-Path: <spoofed@legit-company.com>
+Delivered-To: user@victim.com
+Received: from mail.legit-company.com (mail.legit-company.com [192.0.2.1])
+    by mail.victim.com with ESMTP id ABC123;
+    Fri, 15 Jul 2022 09:30:00 +0000
+Message-ID: <20220715093000@mail.legit-company.com>
+Date: Fri, 15 Jul 2022 09:30:00 +0000
+From: "Legit Company Support" <support@legit-company.com>
+Reply-To: <security-alerts@random-security.net>
+Subject: URGENT: Account Password Expires Today - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1"
+
+--b1
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account. Your password expires today – reset immediately to avoid suspension.
+
+Verify now: http://192.0.2.123/reset-password?user=12345
+
+Failure to act promptly will result in loss of access.
+
+Thank you,
+Security Team
+
+--b1
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p style="color:red;font-size:16px;font-weight:bold;">
+      URGENT: Action Required – Account Security Alert
+    </p>
+    <p>
+      We detected a <strong>critical</strong> sign-in attempt from an unfamiliar device. Your <em>password expires today</em> – reset immediately to prevent suspension.
+    </p>
+    <p>
+      Click <a href="http://192.0.2.123/reset-password?user=12345&token=abc.def.ghi"></a> to verify your account now.
+    </p>
+    <p>
+      Or go to <a href="http://secure-login.legit-company.com/update?user=12345&session=abcdef123456">https://account.legit.com/verify</a>
+    </p>
+    <p>
+      <a href="http://203.0.113.5/verify"><img src="http://203.0.113.5/images/secure.png" alt="" style="border:0;" /></a>
+    </p>
+    <p>
+      For direct access: <a href="http://64.233.160.0/login">http://64.233.160.0/login</a>
+    </p>
+  </body>
+</html>
+
+--b1--

@@ -1,0 +1,43 @@
+From phishing@voucher-portal.com Fri Jul  7 12:34:56 2023
+Return-Path: <bounce@scamdomain.com>
+Delivered-To: user@legitcompany.com
+Received: from mailserver.legitcompany.com (mailserver.legitcompany.com [192.0.2.1]) by smtp.legitcompany.com with ESMTP id ABC123 for <user@legitcompany.com>; Fri, 07 Jul 2023 12:34:56 +0200
+From: "Voucher Support" <offers@voucherportal.com>
+Reply-To: support@secure-payment.com
+To: user@legitcompany.com
+Subject: Claim Your €50 Gift Voucher Now!
+Date: Fri, 07 Jul 2023 12:34:56 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef"
+
+----=_Part_123456_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been selected to receive a €50 voucher.
+To claim, visit:
+http://voucher.portal-rewards.com/claim?uid=12345
+
+Best regards,
+Voucher Support Team
+
+----=_Part_123456_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You're eligible for a <b>€50 gift voucher</b>.</p>
+    <p>Click the link below to claim:</p>
+    <p><a href="http://secure.payments.voucher-redeem.claims.com/claim?user=12345">http://voucherportal.com/claim</a></p>
+    <p>Or click the image:</p>
+    <p><a href="http://redirect.tracking.reward-system.com/out?token=abcdef"><img src="http://images.voucherportal.com/button.png" alt="Claim Now"></a></p>
+    <p>Alternatively, <a href="http://fake.update.voucherportal-support.com/"> </a>then follow instructions.</p>
+    <p>Thank you,<br/>Voucher Support Team</p>
+  </body>
+</html>
+
+----=_Part_123456_abcdef--

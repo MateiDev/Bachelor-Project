@@ -1,0 +1,48 @@
+From MAILER-DAEMON Wed Jul 14 12:34:56 2021
+Return-Path: <no-reply@banking-support.com>
+Delivered-To: user@example.com
+From: "Your Bank Support" <no-reply@banking-support.com>
+Reply-To: support@alerts.trusted-services.com
+To: user@example.com
+Subject: Urgent: Password Update & Account Confirmation
+Date: Wed, 14 Jul 2021 12:34:56 -0400
+Message-ID: <abcd1234@banking-support.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.987654321"
+
+----=_Part_0_123456.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed a small tax refund for your account. To receive your refund, please confirm your bank details by visiting the link below:
+
+http://bank.secure-update.com/confirm?ref=ABC123
+
+For assistance, see our privacy policy:
+
+http://www.banking.com.maintenance.support/privacy
+
+Failure to confirm within 48 hours will forfeit your refund.
+
+Thank you,
+Your Bank Support Team
+
+----=_Part_0_123456.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Password Update & Account Confirmation</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We have processed a <b>small tax refund</b> for your account. To receive your funds, please confirm your bank details <a href="http://modal-update.bank.secure-update.tk/confirm?ref=ABC123">here</a> within the next <b>48 hours</b>.</p>
+<p>Alternatively, verify directly: <a href="http://malicious-domain-update.tk/verify">http://bankupdate.verify/refund</a></p>
+<p>For more information, see our <a href="https://www.banking.com.maintenance.support/privacy">Privacy Policy</a> or <a href="https://help.bankname.com/contact-us">Contact Us</a>.</p>
+<p>Failure to confirm will result in forfeiture of your refund.</p>
+<p>Thank you,<br>
+Banking Support Team</p>
+</body>
+</html>
+----=_Part_0_123456.987654321--

@@ -1,0 +1,76 @@
+```
+From - Thu Oct 19 10:34:56 2023
+X-Google-Sender-Auth: pbsR7BqLLodU9PvmpoJ3df8nZpk
+X-Received: by 10.107.146.14 with SMTP id m14mr2042315ioj.2.1508414095912;
+        Thu, 19 Oct 2023 10:34:56 -0700 (PDT)
+Return-Path: <notice-update@secure-account-notification.com>
+Received: from suspicious-ip.com (suspicious-ip.com. [203.0.113.54])
+        by smtp.gmail.com with ESMTPS id u12si3429929itf.245.2023.10.19.10.34.56
+        for <victim@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Oct 2023 10:34:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notice-update@secure-account-notification.com designates 203.0.113.54 as permitted sender) client-ip=203.0.113.54;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notice-update@secure-account-notification.com designates 203.0.113.54 as permitted sender) smtp.mailfrom=notice-update@secure-account-notification.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=secure-account-notification.com
+Message-ID: <20231019103456.6D4F39253C@suspicious-ip.com>
+Date: Thu, 19 Oct 2023 17:34:56 +0000
+From: "Account Security" <notice-update@secure-account-notification.com>
+To: victim@example.com
+Subject: Urgent: Unusual Activity Detected on Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============4523296218601641525=="
+
+--===============4523296218601641525==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. For your security, we're requiring an additional verification. 
+
+Please verify NOW to ensure your account is not compromised:
+[Verify Now](http://203.0.113.54/verify?userid=your_user_id)
+
+Failure to take action will result in a temporary suspension of your account for your protection.
+
+Additionally, your password is set to expire TODAY. Reset it immediately to safeguard your account.
+[Reset Password](http://203.0.113.54/reset?userid=your_user_id)
+
+To review our privacy policy, please visit our official website: [Privacy Policy](https://www.example.com/privacy)
+
+If you did not attempt to sign in, please contact our support team immediately to secure your account.
+
+Best, Account Security Team
+
+--===============4523296218601641525==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<img src="http://203.0.113.54/image?alert=security" alt="Alert Image" style="display:block;">
+<p>Dear User,</p>
+<p>We have detected <strong>unusual sign-in activity</strong> on your accoun=
+t. For your security, we're requiring an additional verification.</p>
+<p>Please verify NOW to ensure your account is not compromised:</p>
+<a href="http://203.0.113.54/verify?userid=your_user_id" style="text-decora=
+tion:none;color:#fff;background-color:#d9534f;padding:10px;border-radius:5p=
+x;">Verify Now</a>
+<p>Failure to take action will result in a <strong>temporary suspension</st=
+rong> of your account for your protection.</p>
+<p>Additionally, your password is set to <strong>expire TODAY</strong>. Rese=
+t it immediately to safeguard your account.</p>
+<a href="http://203.0.113.54/reset?userid=your_user_id" style="text-decora=
+tion:none;color:#fff;background-color:#f0ad4e;padding:10px;border-radius:5px=
+;">Reset Password</a>
+<p>To review our privacy policy, please visit our official website: <a href=
+="https://www.example.com/privacy">Privacy Policy</a></p>
+<p>If you did not attempt to sign in, please contact our support team immedi=
+ately to secure your account.</p>
+<p>Best,<br>Account Security Team</p>
+</body>
+</html>
+
+--===============4523296218601641525==--
+```

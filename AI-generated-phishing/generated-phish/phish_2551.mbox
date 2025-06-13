@@ -1,0 +1,39 @@
+```mbox
+From nobody@test Fri Oct  1 12:00:00 2023
+From: Account Update <support@secure-banking.com>
+Reply-To: urgent-update@example-security.com
+Subject: Urgent: Verify Your Account Information to Avoid Suspension
+
+To: valuedcustomer@example.com
+Content-Type: multipart/alternative; boundary="0000000000000abcdef123456789"
+
+--0000000000000abcdef123456789
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account requires immediate attention. Please verify your information to prevent suspension:
+
+Login here: http://secure.banklogin.example.com
+Thank you,
+Secure Banking Support Team
+
+--0000000000000abcdef123456789
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <img src="https://secure-banking.com/logo.png" alt="Bank Logo">
+    <p>Dear Customer,</p> 
+    <p>Your account has been flagged for urgent security verification and will be suspended within 24 hours unless updated. </p>
+    <p>To prevent disruption of service, click <a href="http://secure.banklogin.example.com">here</a> to verify immediately.</p>
+    <p><a href="http://secure.banklogin.example.com"></a></p>
+    <p>For assistance, please visit our <a href="https://secure-banking.com/help" target="_blank">help page</a> or review our <a href="https://secure-banking.com/privacy-policy" target="_blank">privacy policy</a>.</p>
+    <p>Thank you,<br>Secure Banking Support Team</p>
+</body>
+</html>
+
+--0000000000000abcdef123456789--
+```

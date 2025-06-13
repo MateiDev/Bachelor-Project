@@ -1,0 +1,49 @@
+```
+From nobody Wed Oct 18 12:34:56 2023
+Return-Path: <alerts@ups-delivery.com>
+Received: from unknown (HELO mailserver1) (192.168.1.1)
+  by yourserver.com with SMTP; Wed, 18 Oct 2023 12:34:56 +0000
+Received: from unknown (HELO mailserver2) (192.168.1.2)
+  by mailserver1 with SMTP; Wed, 18 Oct 2023 12:34:55 +0000
+Date: Wed, 18 Oct 2023 12:34:54 +0000
+From: UPS Support <alerts@ups-delivery.com>
+Subject: Urgent: Your Package Delivery is Pending
+To: unsuspecting@user.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We tried to deliver your package today, but unfortunately, it could not be delivered because of an unpaid fee. To complete the delivery, please visit the following link immediately:
+
+http://ups-tracking.com/package/release?id=12345
+
+Failure to do so will result in the package being returned to the sender.
+
+Best regards,
+UPS Support Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We tried to deliver your package today, but <b>unfortunately, it could not be delivered</b> because of <b>an unpaid fee</b>. To complete the delivery, please visit the following link immediately:</p>
+    <p><a href="http://malicious-link.com/track">Click here</a></p>
+    <p>Or visit directly:</p>
+    <p><a href="http://malicious-link.com/track">http://ups-tracking.com/package/release?id=12345</a></p>
+    <p>For more information, visit our <a href="http://ups.com/privacy-policy">privacy policy</a> or <a href="http://ups.com/help">help</a> page.</p>
+    <p>Best regards,</p>
+    <p>UPS Support Team</p>
+    <a href=""></a>
+  </body>
+</html>
+
+--boundary123--
+```

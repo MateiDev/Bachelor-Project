@@ -1,0 +1,54 @@
+From support@bank-secure.com Wed, 2 Aug 2023 14:55:02 -0400
+From: "Bank Support" <support@bank-secure.com>
+Reply-To: security@bankalerts.com
+To: user@recipient.com
+Subject: Unusual sign-in detected – verify now
+Date: Wed, 2 Aug 2023 14:55:02 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_ABCDE"
+
+----=_Part_123456_ABCDE
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in to your account. Immediate action required to secure your access. Your password expires today – reset immediately to avoid account suspension.
+
+Go to the link below to verify and reset:
+https://secure.bank.com/verify
+https://privacy.bank.com/policy
+http://192.0.2.123/login
+
+Thank you,
+Bank Support Team
+
+----=_Part_123456_ABCDE
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p style="color:red; font-weight:bold;">
+Unusual sign-in detected &#8211; verify now!<br>
+Password expires today &#8211; reset immediately to avoid suspension!
+</p>
+<p>Please <a href="http://192.0.2.123/login">click here</a> to secure your account.</p>
+<p>Alternatively, verify at 
+<a href="http://malicious-domain.com/verify">https://bank.com/login.verify.security</a></p>
+<p><a href="http://another-bad-site.com"></a></p>
+<p>For full details, visit our 
+<a href="https://bank.com/privacy">Privacy Policy</a> or 
+<a href="https://bank.com/help">Help Center</a>.
+</p>
+<p>You can also <a href="https://secure-modal-login.com/verify">here</a> for quick verification.</p>
+<p>
+<a href="http://192.0.2.123/flag"><img src="http://malicious-cdn.com/verify.png" alt="Verify Now"></a>
+</p>
+<p>Thank you,<br>
+Bank Support Team</p>
+</body>
+</html>
+
+----=_Part_123456_ABCDE--

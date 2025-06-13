@@ -1,0 +1,49 @@
+From - Thu Oct 19 16:35:24 2023
+X-Original-Mailbox: user@example.com
+Return-Path: <fraudulent@scamdomain.com>
+Received: from mail.scamdomain.com (mail.scamdomain.com [123.45.67.89])
+        by mail.example.com with ESMTP id q0JGM24q018101
+        for <victim@example.com>; Thu, 19 Oct 2023 16:30:00 -0700
+Date: Thu, 19 Oct 2023 16:30:00 -0700
+From: DHL Support <support@dhl-delivery-notice.com>
+Reply-To: support@dhl-contact.com
+To: victim@example.com
+Subject: Urgent: Your Parcel Has Been Held!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_1234567.1234567890123"
+
+------=_Part_1234567_1234567.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel has been held at the DHL Distribution Center due to an unpaid delivery fee. Failure to address this immediately may result in your package being returned.
+
+To release your package, please confirm your payment details at the link provided.
+
+Click here: https://secure-dhl.com/parcel-release
+
+To view your parcel status at any time, visit our main website.
+
+Thank you for choosing DHL.
+
+Sincerely,  
+DHL Customer Service
+
+------=_Part_1234567_1234567.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your parcel has been held at the DHL Distribution Center due to an unpaid delivery fee. Failure to address this immediately may result in your package being returned.</p>
+    <p>To release your package, please confirm your payment details at the link provided.</p>
+    <p><a href="https://maliciouswebsite.com/login"></a>Click here</a>: <a href="https://secure-dhl.com/parcel-release">https://secure-dhl.com/parcel-release</a></p>
+    <p>To view your parcel status at any time, visit our <a href="https://actual-dhl.com/">main website</a>.</p>
+    <p>Thank you for choosing DHL.</p>
+    <p>Sincerely,<br/>DHL Customer Service</p>
+  </body>
+</html>
+------=_Part_1234567_1234567.1234567890123--

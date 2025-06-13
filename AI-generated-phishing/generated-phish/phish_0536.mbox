@@ -1,0 +1,43 @@
+From MAILER-DAEMON Mon Jan  1 00:00:00 2024
+Return-Path: <no-reply@treasury.gov>
+Delivered-To: customer@domain.com
+Received: by mail.server.com with SMTP id a1bcdefg; Mon,  1 Jan 2024 00:00:00 +0000
+From: "Department of the Treasury Refund Center" <no-reply@treasury.gov>
+To: customer@domain.com
+Subject: Urgent: Account Refund Confirmation
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============0123456789=="
+
+--===============0123456789==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear taxpayer,
+
+We are pleased to inform you that you may be eligible for a small tax refund. Please confirm your bank account details by visiting the link below:
+
+https://secure.tax.gov/confirm-refund
+
+Thank you,
+
+Department of the Treasury Refund Center
+
+--===============0123456789==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear taxpayer,</p>
+<p>We are pleased to inform you that you may be eligible for a small tax refund. To receive your refund, please <a href="http://198.51.100.14/confirm?account_id=12345">https://secure.tax.gov</a> your bank account details.</p>
+<p>If the link doesn't work, <a href="http://phishersite.fraud.com/refund.verify.php">click here</a>.</p>
+<p>Privacy Policy: <a href="http://malicious.com"></a></p>
+<p>Thank you,<br>
+Department of the Treasury Refund Center</p>
+</body>
+</html>
+
+--===============0123456789==--

@@ -1,0 +1,56 @@
+From notifications@dhl-tracking.com Fri Jul 26 10:15:30 2024
+Return-Path: <notifications@dhl-tracking.com>
+Received: from mail.dhl-tracking.com (mail.dhl-tracking.com [203.0.113.45])
+        by mx.example.com (Postfix) with ESMTP id 1A2B3C4D5E
+        for <user@example.com>; Fri, 26 Jul 2024 10:15:30 -0400 (EDT)
+Subject: URGENT: Account Delivery Notification
+From: "DHL Delivery" <notifications@dhl-tracking.com>
+Reply-To: "DHL Support Team" <service@dhlservice-support.com>
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_6789012345.1658830530000"
+
+----=_Part_12345_6789012345.1658830530000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL parcel with tracking number D123456789CN is pending release due to an
+unpaid handling fee of $2.99. This is an urgent notification. Failure to act
+within 24 hours will result in return to sender.
+
+Please complete payment immediately to avoid shipment cancellation:
+
+http://192.168.100.5/process?ref=D123456789CN
+
+Or click here: http://updates.delivery.service.dhlonline.co.uk/release
+
+For your security, do not share your password or account details with anyone.
+
+Thank you,
+DHL Support Team
+
+Privacy Policy: https://www.dhl.com/help/legal/privacy-policy
+Help Center: https://www.dhl.com/help
+
+----=_Part_12345_6789012345.1658830530000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your DHL parcel with tracking number <strong>D123456789CN</strong> is <span style="color:red">pending release</span> due to an unpaid handling fee of <strong>$2.99</strong>. This is an <b>urgent</b> notification. Failure to act within <b>24 hours</b> will result in return to sender.</p>
+    <p>Please complete payment immediately to avoid shipment cancellation:</p>
+    <p><a href="http://192.168.100.5/process?ref=D123456789CN">here</a></p>
+    <p>Or access your shipment online: <a href="http://updates.delivery.service.dhlonline.co.uk/release">Click here</a></p>
+    <p>For your security, do not share your <strong>password</strong> or <strong>account</strong> details with anyone.</p>
+    <br>
+    <p>Thank you,<br>DHL Support Team</p>
+    <hr>
+    <p><a href="https://www.dhl.com/help/legal/privacy-policy">Privacy Policy</a> | <a href="https://www.dhl.com/help">Help Center</a></p>
+  </body>
+</html>
+
+----=_Part_12345_6789012345.1658830530000--

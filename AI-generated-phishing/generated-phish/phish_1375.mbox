@@ -1,0 +1,48 @@
+From no-reply@secure-taxgov-services.com Mon Jul  3 09:15:00 2023
+Message-ID: <CA+20230703@secure-taxgov-services.com>
+Date: Mon, 3 Jul 2023 09:15:00 -0400
+From: "Tax Services Dept." <no-reply@secure-taxgov-services.com>
+Reply-To: support@taxpayerhelpdesk.com
+To: user@example.com
+Subject: URGENT: Immediate Tax Refund Confirmation Required!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Taxpayer,
+
+Our records indicate a small refund is awaiting confirmation. Failure to confirm your bank account details within 48 hours will result in automatic forfeiture and potential delays. Please verify immediately:
+
+1. Confirm refund here: https://secure.tax.gov/portal
+2. Privacy info: http://modal-domain.com/privacy
+3. Help page: https://secure.tax.gov/help
+
+Protect your funds now to avoid any account freeze!
+
+Regards,
+Tax Services Department
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear Valued Taxpayer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Your tax refund is pending confirmation and <em>must be processed within 48 hours</em> to avoid <span style="text-decoration:underline;">forfeiture</span> or account freeze.</p>
+    <ul>
+      <li>Confirm your refund: <a href="http://203.0.113.5/confirm">here</a></li>
+      <li>Account portal: <a href="http://192.0.2.123/login">https://secure.tax.gov/portal</a></li>
+      <li>Transaction verify link: <a href="http://192.0.2.44/verify_refund">https://secure.taxgov-services.com/verify</a></li>
+      <li>Privacy Policy: <a href="http://modal-domain.com/privacy">Privacy Policy</a></li>
+      <li>Help Center: <a href="http://modal-domain.com/help">Help</a></li>
+    </ul>
+    <p>Please <a href="http://203.0.113.5/confirm">click here</a> to protect your refund and avoid delays!</p>
+    <p>Best regards,<br/>Tax Services Department</p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

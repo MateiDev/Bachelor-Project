@@ -1,0 +1,68 @@
+From phishing@scamserver.com Tue Jun 25 14:00:00 2024
+Return-Path: <support@paypal.com>
+Delivered-To: user@domain.com
+Received: from mail.scamserver.com ([198.51.100.23]) by mail.domain.com with SMTP id ABC123 for <user@domain.com>; Tue, 25 Jun 2024 14:00:00 +0000
+From: "PayPal Account Security" <support@paypal.com>
+Reply-To: "PayPal Support" <support@paypa1.com>
+To: user@domain.com
+Subject: Urgent: Account Password Verification Required
+Date: Tue, 25 Jun 2024 14:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0001_01D95E6D.12345678"
+
+----=_NextPart_000_0001_01D95E6D.12345678
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account. To prevent suspension, you must verify your password immediately. Failure to verify within 24 hours will result in account lockout.
+
+Please visit the link below to complete the verification process:
+
+https://secure.login.paypal.verify-account.com/login
+
+Thank you for your prompt attention to this urgent matter.
+
+PayPal Security Team
+
+----=_NextPart_000_0001_01D95E6D.12345678
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Password Verification Required</title></head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>We have detected suspicious activity on your <span>PayPal account</span>.</strong> To prevent <em>suspension</em>, you must verify your password <u>immediately</u>. Failure to verify within <strong>24 hours</strong> will result in account lockout.</p>
+
+<p>Click the link below to complete the verification process:</p>
+
+<p>
+<a href="https://secure.login.paypal.verify-account.com/login" target="_blank">
+<img src="https://www.paypal.com/logo.png" alt="PayPal" style="border:none;">
+</a>
+</p>
+
+<p>
+<a href="https://secure.login.paypal.verify-account.com/login" target="_blank">https://www.paypal.com/security</a>
+</p>
+
+<p>
+<a href="http://secure-paypal-login.verify-account.com/verify"></a>
+</p>
+
+<p>For assistance, <a href="http://paypal.security-update.verify123.net/here" target="_blank">click here</a> to contact our support team.</p>
+
+<p>Alternatively, review our policy:</p>
+<ul>
+<li><a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full">Privacy Policy</a></li>
+<li><a href="https://www.paypal.com/us/smarthelp/home">Help Center</a></li>
+</ul>
+
+<p>Thank you for your prompt attention to this <strong>urgent</strong> request.<br>
+PayPal Security Team</p>
+</body>
+</html>
+
+----=_NextPart_000_0001_01D95E6D.12345678--

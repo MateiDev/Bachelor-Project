@@ -1,0 +1,50 @@
+From phishing@notice.securebank.com Wed Jun 29 09:15:32 2023
+Return-Path: <phishing@notice.securebank.com>
+Received: from mail.securebank.com (unknown [192.0.2.10]) by mail.example.com with ESMTP id ABC123DEF; Wed, 29 Jun 2023 09:15:32 +0000
+Received: from [10.0.0.5] (helo=mail.securebank.com) by mail.securebank.com with SMTP; Wed, 29 Jun 2023 09:15:31 +0000
+Date: Wed, 29 Jun 2023 09:15:32 +0000
+From: "SecureBank Security" <security@securebank.com>
+To: user@example.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_4567890.1656489332"
+
+------=_Part_123_4567890.1656489332
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your SecureBank account has experienced unauthorized access attempts and is at risk of suspension. To avoid service interruption, you must verify your credentials immediately.
+
+Please click the link below to update your password now:
+click here: https://login.securebank.com/verify
+
+Failure to verify within 24 hours will result in account suspension.
+
+Thank you for your prompt attention to this urgent matter.
+
+SecureBank Security Team
+
+------=_Part_123_4567890.1656489332
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your <strong>SecureBank</strong> account has experienced <span style="color:red;">unauthorized access attempts</span> and is at risk of <em>suspension</em>. To avoid service interruption, you must verify your credentials <strong>immediately</strong>.</p>
+    <p>Click <a href="http://192.0.2.123/login">here</a> to update your password now.</p>
+    <p>Alternatively, you can visit 
+      <a href="http://203.0.113.45/secure">
+        <img src="http://203.0.113.45/logo.png" alt="SecureBank Logo" style="border:none;">
+      </a>
+    </p>
+    <p><small>For assistance, visit our Help Center: <a href="http://192.0.2.200/help">https://securebank.com/help</a></small></p>
+    <p>Failure to verify within 24 hours will result in account suspension.</p>
+    <p>Thank you for your prompt attention to this <strong>urgent</strong> matter.</p>
+    <p>SecureBank Security Team</p>
+  </body>
+</html>
+
+------=_Part_123_4567890.1656489332--

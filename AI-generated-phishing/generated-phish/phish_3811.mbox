@@ -1,0 +1,51 @@
+From customer-service@trustedbank.com Fri Jul 14 12:34:56 2023
+Return-Path: <support@trustedbank.com>
+Received: from mail.trustedbank.com (mail.trustedbank.com [203.0.113.1])
+    by inbound.example.com with ESMTP id ABC123
+    for <user@example.com>; Fri, 14 Jul 2023 12:34:56 +0000
+From: "Trusted Bank Rewards" <support@trustedbank.com>
+Reply-To: fraud-response@phishingsite.com
+To: user@example.com
+Subject: URGENT: You’re eligible for a €50 voucher—claim now!
+Date: Fri, 14 Jul 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We noticed your account is at risk. You’re eligible for a €50 voucher.
+To claim your voucher, please visit the link below immediately to avoid losing your reward:
+
+click here: http://198.51.100.23/claim
+
+If you have any questions, visit our help page: https://help.trustedbank.com
+
+Best regards,
+Trusted Bank Rewards Team
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Account Security Alert</title></head>
+<body>
+  <p>Dear Customer,</p>
+  <p>Your password may be compromised and your account is in <strong>urgent</strong> need of protection.</p>
+  <p>You’re eligible for a <strong>€50 voucher</strong> – <a href="http://198.51.100.23/claim"></a><a href="http://198.51.100.23/claim">here</a>!</p>
+  <p>Visit <a href="http://203.0.113.5/claim">www.trustedbank.com</a> to verify.</p>
+  <p>Or <a href="http://198.51.100.23/claim">click here</a> to redeem your reward immediately.</p>
+  <p><a href="https://help.trustedbank.com">Privacy Policy</a> |
+     <a href="https://privacy.policy.trustedbank.com">Privacy Policy</a> |
+     <a href="https://help.support.trustedbank.com">Help Center</a></p>
+  <p><a href="http://198.51.100.23/activate"><img src="http://malicious.example.com/img/voucher.png" alt="Activate Voucher"></a></p>
+  <p>If you do not act now, this offer will expire soon.</p>
+  <p>Regards,<br>Rewards Team</p>
+</body>
+</html>
+
+--BOUNDARY--

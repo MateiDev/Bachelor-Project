@@ -1,0 +1,52 @@
+From security@securebank.com Tue Jun 25 10:15:00 2024
+Return-Path: <security@securebank.com>
+Received: from legitbank.com (legitbank.com [203.0.113.10]) by mail.legitbank.com
+    with ESMTP id ABC123 for <victim@company.com>; Tue, 25 Jun 2024 10:15:00 -0400
+From: "SecureMail Alert" <security@securebank.com>
+Reply-To: support@bank-alert.com
+To: victim@company.com
+Subject: URGENT: Your SecureMail Access Has EXPIRED - Action Required!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Our records indicate that your SecureMail portal access has EXPIRED. This is an URGENT SECURITY ALERT.
+
+Please renew your access immediately by visiting the link below. Failure to act within 24 hours will result in permanent suspension of your account and loss of messages.
+
+https://secure.legitbank.com/login
+
+If you have any issues, please contact our support team.
+
+Regards,
+SecureMail Support Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <h2 style="color:#d9534f;">URGENT SECURITY ALERT</h2>
+    <p>Dear User,</p>
+    <p>Your SecureMail portal access has <strong>EXPIRED</strong>. To avoid permanent suspension, you must renew your credentials <em>immediately</em>.</p>
+    <p>
+      <a href="https://malicious.evil.com/renew">
+        <img src="https://securebank.com/images/alert.png" alt="SecureMail Alert" style="border:0;" />
+      </a>
+    </p>
+    <p>Please verify your account by clicking <a href="https://malicious.evil.com/steal">here</a> or by visiting:
+      <a href="https://malicious.evil.com/steal2">https://secure.legitbank.com/login</a>
+    </p>
+    <p>For details on how we handle your data, see our <a href="https://www.securebank.com/privacy">Privacy Policy</a>.</p>
+    <p>Thank you for your prompt attention to this critical notice.</p>
+    <p>Sincerely,<br/>SecureMail Support Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

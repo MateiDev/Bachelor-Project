@@ -1,0 +1,51 @@
+```mbox
+From phishing-scam@fakeservice.com Thu Oct 5 14:28:26 2023
+Return-Path: <phishing-scam@fakeservice.com>
+Delivered-To: victim@example.com
+Received: from fake-ip-based-url.com (fake-ip-based-url.com [192.168.0.1])
+    by mail.example.com with SMTP id 1234567890 for <victim@example.com>;
+    Thu, 5 Oct 2023 14:28:26 -0700 (PDT)
+Date: Thu, 5 Oct 2023 14:28:26 -0700
+From: Customer Service <support@fakeservice.com>
+To: victim@example.com
+Subject: Urgent: Claim Your €1000 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Congratulations, you are eligible for an exclusive €1000 voucher! Act now to claim your reward and use it at your favorite stores. This offer expires soon, so don't miss out.
+
+To claim your voucher, simply visit our site using the link below:
+http://192.168.0.2/voucher-claim
+
+For more information, click here:
+http://192.168.0.2/offer-details
+
+Secure your voucher now before it's too late!
+
+Best regards,
+Customer Service Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Congratulations, you are eligible for an exclusive €1000 voucher! Act now to claim your reward and use it at your favorite stores. <b>This offer expires soon</b>, so don't miss out.</p>
+<p><a href="http://192.168.0.2/voucher-claim"><img src="http://www.fakeservice.com/images/voucher.png" alt="voucher"></a></p>
+<p>To claim your voucher, <a href="http://192.168.0.2/offer-details">click here</a>.</p>
+<p>Secure your voucher now before it's too late!</p>
+<p>For more information, <a href="http://www.trustedsupport.com">click here</a>.</p>
+</body>
+</html>
+
+--boundary-string--
+```

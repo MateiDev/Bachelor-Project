@@ -1,0 +1,46 @@
+From service@paypal.com Fri Jun 14 10:00:00 2024
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.1]) by mx.google.com with ESMTP id abc123
+From: "PayPal Security" <service@paypal.com>
+Reply-To: support@paypal.verification-login.com
+To: user@domain.com
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789012"
+
+----=_Part_0_123456.789012
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected suspicious activity on your PayPal account. Your account has been temporarily suspended due to multiple unauthorized login attempts. To restore access, please verify your password immediately by visiting the link below:
+
+http://secure.login-update.paypal.com/verify
+
+Failure to complete this verification within 24 hours will result in permanent account closure.
+
+Privacy: https://www.paypal.com/privacy
+Help: https://www.paypal.com/help
+
+----=_Part_0_123456.789012
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p style="color:red;"><strong>Urgent: Unauthorized access detected!</strong></p>
+    <p>Your account has been <strong>suspended</strong> due to multiple / unauthorized login attempts. To <em>restore access</em>, please verify your details <a href="https://paypal-verification.malicious.com/confirm">here</a> immediately.</p>
+    <p>This is a mandatory verification to avoid account closure. Click <a href="https://modal-login.paypalsecurity.com">here</a> to verify now.</p>
+    <p>Or login directly: <a href="http://malicious-login.input-paypal.com">https://paypal.com/login</a></p>
+    <p>Alternatively, click the button below:</p>
+    <p><a href="http://login.verify.payposts.com"><img src="https://cdn.paypal.com/logo.png" alt="PayPal Logo"></a></p>
+    <p>If you did not initiate this request, contact support <a href="https://support.paypal.com/contactus">support page</a>.</p>
+    <p><a href="https://www.paypal.com/privacy">Privacy Policy</a> | <a href="https://www.paypal.com/help">Help Center</a></p>
+    <p> <a href="http://malicious.click/fake"></a></p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.789012--

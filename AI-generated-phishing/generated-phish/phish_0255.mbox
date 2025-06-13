@@ -1,0 +1,41 @@
+```
+From - Sat Oct 28 12:34:56 2023
+X-Google-Sender-Auth: abc123xyz
+Received: by 2002:a65:efb2:0:0:0:0:0 with SMTP id l52csp1476392kry;
+        Sat, 28 Oct 2023 05:34:56 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a65:2042:0:0:0:0:0 with HTTP; Sat, 28 Oct 2023 05:34:56 -0700 (PDT)
+From: "Account Security" <security@notgooglealerts.com>
+Date: Sat, 28 Oct 2023 12:34:56 +0000
+Message-ID: <0000000000000000abcd123@example.com>
+Subject: Urgent: Action Required for Your Account
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000abcd123456789"
+
+--000000000000abcd123456789
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We have detected suspicious activity in your account. To ensure your safety, please click here: http://secure-login.com immediately to verify your account details.  
+
+Thank you,
+Account Security Team
+
+--000000000000abcd123456789
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <img src="https://example.com/logo.png" alt="Company Logo">
+    <p>Hello,</p>
+    <p>We have detected suspicious activity in your account. To ensure your safety, please <a href="http://secure-login.com">click here</a> immediately to verify your account details.</p>
+    <p>For any assistance, visit our official site <a href="https://support.google.com"></a> or check our <a href="https://policies.google.com">Privacy Policy</a>.</p>
+    <p>Thank you,<br>Account Security Team</p>
+  </body>
+</html>
+
+--000000000000abcd123456789--
+```

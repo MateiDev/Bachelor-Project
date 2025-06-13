@@ -1,0 +1,51 @@
+From support@paypal.com Tue Sep 21 16:01:07 2021
+Reply-To: security@paypal-support.com
+From: PayPal Service <service@paypal.com>
+To: user@domain.com
+Subject: Urgent: Account Password Verification Needed
+Date: Tue, 21 Sep 2021 16:01:07 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.123456789"
+
+------=_Part_0_123456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT: We detected unauthorized activity in your PayPal account. To prevent suspension, you must verify your password immediately.
+
+Please visit the following link to secure your account:
+http://secure-login-paypal.com
+
+Failure to act within 24 hours will result in permanent suspension.
+
+Sincerely,
+PayPal Security Team
+
+------=_Part_0_123456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent: Account Password Verification Needed</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> We detected <em>unauthorized</em> activity in your PayPal account. To prevent suspension,
+       <strong>you must verify your password immediately</strong>.</p>
+    <p>
+      <a href="http://secure-login-paypal.com/login"><img src="http://assets.phishingsite.com/login-button.png" alt="Verify Now"></a>
+    </p>
+    <p>
+      Alternatively, you can login here:
+      <a href="http://secure-login-paypal.com/login"></a>
+      <a href="http://secure-login-paypal.com/login">https://www.paypal.com/signin</a>
+    </p>
+    <p style="font-size:small;">Failure to act within 24 hours will result in permanent suspension.</p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.123456789--

@@ -1,0 +1,48 @@
+From no-reply@irs.gov Mon Mar 18 12:34:56 2024
+Return-Path: <no-reply@irs.gov>
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: "Customer Support" <support@federaltaxhelp.com>
+To: victim@example.com
+Subject: Urgent: Account Refund Pending - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============ABC123456789=="
+
+--===============ABC123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have determined that you are eligible for a small tax refund that must be claimed immediately to avoid forfeiture.
+Your refund is pending, and failure to confirm your bank details within 48 hours will result in cancellation.
+
+Please verify your bank details here:
+https://secure.irs.gov/confirm
+
+If you do not act now, your refund will be voided.
+
+Thank you,
+Internal Revenue Service
+
+--===============ABC123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p style="color:red; font-weight:bold;">URGENT: Your <strong>account</strong> refund is pending!</p>
+    <p>We have determined that you qualify for a small tax refund. You must confirm your bank details immediately to <em>avoid cancellation</em>.</p>
+    <p>Please verify your bank information by clicking 
+      <a href="http://secure.irs.gov.verify-account.com/confirm"></a>
+    immediately.</p>
+    <p>You can also <a href="http://malicious.com/login">here</a> to confirm now.</p>
+    <p>Visit our legitimate backup page: 
+       <a href="https://privacy.irs.gov/policy">https://www.irs.gov/privacy</a> if you have questions.</p>
+    <p>Failure to act within 48 hours will permanently void your refund.</p>
+    <p>Thank you,<br/>
+       Internal Revenue Service</p>
+  </body>
+</html>
+
+--===============ABC123456789==--

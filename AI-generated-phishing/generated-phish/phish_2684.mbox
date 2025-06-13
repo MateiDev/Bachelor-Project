@@ -1,0 +1,44 @@
+```mbox
+From nobody@invalid Mon Oct 2 14:50:43 2023
+From: "Alert Service" <no-reply@security-alerts.com>
+Reply-To: "Support Team" <support-team@authenticateservice.com>
+To: testuser@example.com
+Subject: Urgent: Unusual Activity Detected on Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_0_1234567.8901234567890"
+
+------=_Part_0_1234567.8901234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. As a precautionary measure, we require you to verify your information immediately. Failure to do so may result in temporary suspension of your account. 
+
+Please click the link below to verify your account details:
+
+[Verify Now](http://security.check-verify.com/login)
+
+Thank you for your prompt attention to this matter. 
+
+------=_Part_0_1234567.8901234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear User,</p>
+<p>We have detected unusual sign-in activity on your account. As a precautionary measure, we require you to verify your information immediately. Failure to do so may result in temporary suspension of your account.</p>
+<p>Click <a href="http://security.check-verify.com/login">here</a> to verify your account details.</p>
+<p><a href="http://support.service-contact.us"><!--Empty Link--></a></p>
+<p>If you have any questions, please visit our <a href="http://support.service-contact.us/help" target="_blank">help center</a>.</p>
+<p>You can also view our privacy policy <a href="http://support.service-contact.us/privacy-policy" target="_blank">here</a>.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Sincerely,<br>The Support Team</p>
+</body>
+</html>
+
+------=_Part_0_1234567.8901234567890--
+```

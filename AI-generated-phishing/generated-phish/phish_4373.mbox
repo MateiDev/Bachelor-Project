@@ -1,0 +1,59 @@
+From service@paypal.com Wed, 12 Jul 2023 14:15:02 -0400
+Return-Path: <service@paypal.com>
+Delivered-To: victim@example.com
+Received: from mail.paypal.com (mail.paypal.com [198.51.100.10]) by mx.example.com with ESMTP id abc123xyz for <victim@example.com>; Wed, 12 Jul 2023 14:15:02 -0400
+From: "PayPal" <service@paypal.com>
+To: victim@example.com
+Subject: Urgent: Your account password needs immediate verification
+Date: Wed, 12 Jul 2023 14:15:02 -0400
+Message-ID: <ABCDEF123456@mail.paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1234567890"
+
+----=_Part_0_123456789.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+We detected suspicious activity on your PayPal account. To ensure your account remains secure, you must verify your password immediately. Please go to the following link to complete verification:
+
+https://www.paypal.com/verify-password
+
+If you do not verify your account within 24 hours, we will suspend your account.
+
+Thank you for your prompt attention to this urgent matter.
+
+Regards,
+PayPal Security Team
+
+----=_Part_0_123456789.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body style="font-family:Arial, sans-serif; background-color:#f5f5f5; padding:20px;">
+<div style="max-width:600px; margin:auto; background:#fff; padding:20px; border:1px solid #ccc;">
+<table width="100%">
+<tr><td align="center">
+<a href="http://login.verify.paypal.account-update.com"><img src="http://198.51.100.42/images/paypal_logo.png" alt="PayPal" /></a>
+</td></tr>
+<tr><td>
+<h2 style="color:#cc0000;">Urgent: Your account has been compromised!</h2>
+<p>Dear customer,</p>
+<p>We have noticed <strong>suspicious</strong> logins to your PayPal <em>account</em> from an unknown device. For your protection, you must <strong>verify</strong> your <strong>password</strong> immediately to avoid <span style="color:#cc0000;">account suspension</span>.</p>
+<p>Please <a href="http://198.51.100.42/secure-login"></a><a href="http://login.verify.paypal.account-update.com">click here</a> to secure your account now. You can also access your account directly via <a href="http://login.verify.paypal.account-update.com">https://www.paypal.com/login</a>.</p>
+<p>If the link above does not work, please visit <a href="http://198.51.100.42/signin">http://198.51.100.42/signin</a> or <a href="http://203.0.113.5/verify">203.0.113.5/verify</a>.</p>
+<p>Need help? Visit our <a href="https://www.paypal.com/help">Help Center</a> or review our <a href="https://www.paypal.com/privacy">Privacy Policy</a>.</p>
+<p style="color:#cc0000;"><strong>Action required:</strong> Verify your credentials within <em>24 hours</em> to prevent account lockout.</p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</td></tr>
+</table>
+</div>
+</body>
+</html>
+
+----=_Part_0_123456789.1234567890--

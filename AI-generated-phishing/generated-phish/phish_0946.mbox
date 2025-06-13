@@ -1,0 +1,47 @@
+From paypal-alerts@paypal.com Fri Oct  1 12:34:56 2021
+Return-Path: <paypal-alerts@paypal.com>
+Received: from smtp.paypal.com (smtp.paypal.com [203.0.113.45])
+    by victim-mailserver.com with ESMTP id ABC123;
+    Fri, 1 Oct 2021 12:34:56 -0400
+From: "PayPal Support" <security@paypal.com>
+Reply-To: "Support Team" <helpdesk@secure-paypal.net>
+Subject: Urgent: Account Verification Required Immediately
+Date: Fri, 1 Oct 2021 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your PayPal account has experienced suspicious activity. To prevent permanent suspension,
+you must verify your identity immediately. Failure to do so will result in restricted access.
+
+Please visit the following links to confirm your details:
+https://paypal.com/login
+http://203.0.113.50/verify
+
+Thank you for your prompt attention.
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your PayPal account has experienced <strong>suspicious activity</strong>. To prevent
+    <span style="color:red;">permanent suspension</span>, you must verify your identity <strong>immediately</strong>. Failure to do so will result in <em>restricted access</em>.</p>
+    <p>Please <a href="http://203.0.113.50/verify"></a> to confirm your details.</p>
+    <p>You can also go to 
+      <a href="http://secure-login.paypal-verification.com/auth">https://www.paypal.com/login</a>
+    and follow the instructions.</p>
+    <p>For security, we strongly advise you to take <strong>action now</strong>.</p>
+    <p>Thank you,<br>
+       PayPal Support Team</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

@@ -1,0 +1,47 @@
+From notifications@paypai.com Tue Jan 02 15:04:05 2024
+Return-Path: <notifications@paypai.com>
+Received: from mail.paypai.com ([203.0.113.5]) by mx.google.com with ESMTP id v12si1234567qkg.83.2024.01.02.15.04.05; Tue, 02 Jan 2024 15:04:05 -0800 (PST)
+From: Paypai Alerts <notifications@paypai.com>
+Reply-To: support@secure-update-service.com
+Subject: Urgent: Verify Your Paypai Password Immediately
+Date: Tue, 02 Jan 2024 23:04:05 +0000
+Message-ID: <ABC123DEF456@mail.paypai.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789012345"
+
+----=_Part_0_123456.789012345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Your Paypai account has been temporarily suspended due to suspicious activity.
+Please verify your credentials immediately to avoid permanent suspension.
+Go to https://www.paypai.com/security-login
+If you have any questions, contact us.
+
+----=_Part_0_123456.789012345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red;"><strong>Urgent: Your account is at risk!</strong></p>
+    <p>Dear User,</p>
+    <p>We detected unusual sign-in attempts on your Paypai account. To avoid irreversible suspension, please 
+      <a href="http://192.0.2.123/login" title="password verification">click here</a> to confirm your identity.
+    </p>
+    <p>Alternatively, login via our secure portal: 
+      <a href="http://secure.paypai.verify-login.com/portal"></a>
+    </p>
+    <p>Direct link: 
+      <a href="http://malicious-secure-login.phish-server.net/auth">https://www.paypai.com/secure</a>
+    </p>
+    <p>
+      <a href="http://verify.paypai-update.com">
+        <img src="http://198.51.100.25/images/logo.png" alt="Paypai Logo" />
+      </a>
+    </p>
+    <p>If you fail to verify within 24 hours, your account will be permanently locked.</p>
+    <p>Regards,<br/>Paypai Security Team</p>
+  </body>
+</html>
+----=_Part_0_123456.789012345--

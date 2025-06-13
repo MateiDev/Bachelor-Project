@@ -1,0 +1,44 @@
+From MAILER-DAEMON Tue Jun 18 12:34:56 2024
+Return-Path: <rewards@companyny.com>
+Received: from mail.companyny.com (mail.companyny.com [203.0.113.45]) by mx.google.com with ESMTP id C01si12345678qke.203.2024.06.18.12.34.56; Tue, 18 Jun 2024 12:34:56 -0700 (PDT)
+Date: Tue, 18 Jun 2024 12:34:56 +0000
+From: Rewards Team <rewards@companyny.com>
+Reply-To: support@mybank-secure.com
+To: customer@domain.com
+Subject: Urgent: Verify Your Account to Claim €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789012.1234567890123"
+
+------=_Part_123_456789012.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Congratulations! You're eligible for a special €50 gift voucher.
+To claim your reward, please verify your account by visiting the link below:
+
+https://account.rewards.companyny.com/verify
+
+If you have any questions, please visit our privacy-policy page:
+https://www.companyny.com/privacy-policy.html
+
+Best regards,
+Rewards Team
+
+------=_Part_123_456789012.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Congratulations! You’re eligible for a <strong>€50 gift voucher</strong>.</p>
+<p>To claim your reward, please verify your account by clicking <a href="http://203.0.113.45/secure/verify">here</a>.</p>
+<p>Alternatively, you can also <a href="http://198.51.100.7/login" title="https://account.rewards.companyny.com">fast-track your claim</a>.</p>
+<p>If you need help, check our <a href="http://help.company.support.com/faq">help</a> or review the <a href="http://help.company.support.com/privacy">privacy-policy</a>.</p>
+<p>Thank you,<br>Rewards Team</p>
+</body>
+</html>
+
+------=_Part_123_456789012.1234567890123--

@@ -1,0 +1,40 @@
+```mbox
+From nobody Fri Oct 27 10:00:00 2023
+Return-Path: <al3rt@secur3mail.com>
+Received: from unknown (HELO sec-mail.com) by mail.fakehost.com with SMTP; Fri, 27 Oct 2023 10:00:00 -0000
+Message-ID: <20231027100000.1234567890@secur3mail.com>
+Reply-To: alert@securecheck.com
+From: alert@another-domain.com
+Date: Fri, 27 Oct 2023 10:00:00 +0000
+Subject: URGENT: Account Verification Required Immediately
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Security Alert</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We have detected suspicious activity on your account. To ensure your security, 
+please <a href="http://secure.verify-security-alert.com">CLICK HERE</a> to verify your account immediately. Failure to verify may lead to your account being blocked.</p>
+
+<p>Your immediate attention is required to prevent unauthorised access. 
+Failure to act will result in permanent suspension.</p>
+
+<a href="http://secure.verify-security-alert.com"><img src="http://safe.image-server.com/secure-image.png" alt="View Details"></a>
+
+<p>Verify your identity <a href="http://malicious.link-to-your-security.com">here</a>.</p>
+
+<p>If you have any queries, visit our <a href="http://valid-portal.securemail.com">Help Page</a>.</p>
+
+<p>Sincerely,</p>
+<p>Your Security Team</p>
+
+<p style="display:none;">&nbsp;<a href="http://malicious-verify-link.com"></a></p>
+
+<p>Please note: Clicking any parts of this email that resemble a URL may take you to <a href="http://malicious-verify-link.com">different locations</a> than you would expect. Always verify a linked URL matches its host name carefully.</p>
+
+<p>©2023 SecureMail Privacy | <a href="http://safe-privacy-link.com">Our Privacy Policy</a></p>
+</body>
+</html>
+```

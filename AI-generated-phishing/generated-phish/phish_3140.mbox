@@ -1,0 +1,47 @@
+From support@dhl.com Fri Sep 15 08:23:45 2023
+Return-Path: <support@dhl.com>
+Delivered-To: user@example.com
+Received: from unknown (HELO mail.dhl.com) (203.0.113.5) by mail.example.com with SMTP; Fri, 15 Sep 2023 08:23:45 +0000
+From: "DHL Delivery Team" <support@dhl.com>
+Reply-To: noreply@official-dhl-service.ru
+To: user@example.com
+Subject: Urgent: Account Delivery Password Notification
+Message-ID: <1234567890@mail.dhl.com>
+Date: Fri, 15 Sep 2023 08:23:45 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D12345"
+
+------=_NextPart_000_001D_01D12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL delivery has been temporarily held due to a failed payment authorization. We attempted to charge the release fee, but your account password verification failed.
+
+To avoid extra charges or permanent return of your parcel, please update your account details immediately.
+
+Track and confirm your package at:
+http://45.33.32.156/track?ID=AB1234
+http://delivery.service.update.thisweek.com/confirm
+
+Failure to comply within 24 HOURS will result in cancellation of delivery and additional penalties.
+
+Thank you,
+DHL Delivery Team
+
+------=_NextPart_000_001D_01D12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Attention:</strong> Your shipment is on hold!</p>
+    <p>We were unable to process your delivery fee due to a <span style="color:red;">failed authorization</span>. To prevent any further <em>delay</em> or <em>penalty</em>, please update your password and payment information <a href="http://45.33.32.156/track?ID=AB1234">here</a>.</p>
+    <p>Alternatively, verify now by clicking <a href="http://help.docs.dhl-security.com/confirm.php?ref=7890"></a> to release your parcel.</p>
+    <p>If no action is taken within <strong>24 hours</strong>, your package will be returned and extra fees will apply.</p>
+    <p>Thank you,<br/>DHL Delivery Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001D_01D12345--

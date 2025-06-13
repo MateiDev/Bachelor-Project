@@ -1,0 +1,31 @@
+From no-reply@microsoft.com Mon Jan  1 12:34:56 2024
+Return-Path: <no-reply@microsoft.com>
+Received: from mail.microsoft.com (mail.microsoft.com [207.46.13.5]) by victim-mail.com with ESMTP id X12345;
+    Mon, 1 Jan 2024 12:34:56 +0000
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+From: "Microsoft Account Team" <no-reply@microsoft.com>
+Reply-To: "Online Security" <security@security-microsoft.com>
+To: user@example.net
+Subject: Urgent: Account Password Verification Required
+Message-ID: <ABCDEF123456@mail.microsoft.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Our system has detected unusual sign-in activity on your account. To protect your data, you must verify your <b>password</b> immediately.</p>
+    <p>Before proceeding, visit your account portal: 
+      <a href="http://111.222.333.444/secure/verify.login.page?id=123">https://login.microsoftonline.com</a>
+    </p>
+    <p>Alternatively, <a href="http://111.222.333.444/secure/verify.login.page?id=123">click here</a> to access your account and complete verification.</p>
+    <p>
+      <a href="http://111.222.333.444/secure/verify.login.page?id=123">
+        <img src="http://111.222.333.444/secure/images/ms.logo.png" alt="Microsoft Logo">
+      </a>
+    </p>
+    <p>If you do not verify within 24 hours, access to your account will be suspended.</p>
+    <p>Need assistance? Visit our <a href="https://privacy.microsoft.com/en-us/privacystatement">Privacy & Cookies Policy</a> or <a href="https://support.microsoft.com">Help Center</a>.</p>
+    <p>Thank you,<br>Microsoft Account Team</p>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+From security@service.com Wed Jun 05 14:22:31 2024
+From: "Account Security" <security@service.com>
+To: user@example.com
+Subject: URGENT: Unusual sign-in detected – Verify your account immediately
+Date: Wed, 5 Jun 2024 14:22:31 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We detected an <strong>unusual sign-in</strong> attempt on your account from a new device. For your <em>security</em>, we have temporarily suspended access. To avoid any <span style="color:red">account suspension</span>, you must verify your identity and <strong>reset your password immediately</strong>.</p>
+<p><a href="https://secure.update.login.service-update.com/auth?token=ABC123"><img src="http://98.76.54.32/banner.png" alt="Secure Login" style="border:none;"></a></p>
+<p>Please <a href="http://123.45.67.89/reset">here</a> to complete verification.</p>
+<p>Or copy and paste the following URL into your browser:</p>
+<p><a href="http://malicious.phish-login.com/verify">https://service.com/verify</a></p>
+<p>If the link above does not work, click <a href="https://security-update.service.com/login"></a> to proceed.</p>
+<p>For more information, view our <a href="https://service.com/privacy">Privacy Policy</a> or <a href="https://service.com/help">Help Center</a>.</p>
+<p>Your immediate action is required to secure your account. Failure to act may result in permanent suspension.</p>
+<p>Regards,<br>Account Security Team</p>
+</body>
+</html>

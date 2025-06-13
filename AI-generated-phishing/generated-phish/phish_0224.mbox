@@ -1,0 +1,45 @@
+From steve@shippingupdates.com Mon Oct 9 14:32:10 2023
+Return-Path: <steve@shippingupdates.com>
+Date: Mon, 09 Oct 2023 14:32:10 -0700
+From: "Shipping Notifications" <steve@shippingupdates.com>
+To: <victim@example.com>
+Subject: URGENT: Your Parcel is on Hold!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.678901234"
+
+This is a multi-part message in MIME format.
+
+------=_Part_123456_789012345.678901234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is to inform you that your package is being held due to unpaid duties. To avoid RETURNING the parcel to the sender, please clear the pending charges IMMEDIATELY. Failure to do so may result in additional penalties.
+
+Please click the link below to resolve this issue:
+http://203.0.113.25/parceldetails
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Customer Support Team
+
+------=_Part_123456_789012345.678901234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>This is to inform you that your package is being held due to unpaid duties. To avoid <strong>RETURNING</strong> the parcel to the sender, please clear the pending charges <strong>IMMEDIATELY</strong>. Failure to do so may result in additional penalties.</p>
+<p>Please click the link below to resolve this issue:</p>
+<a href="http://203.0.113.25/parceldetails">http://track.yourpackage.com</a>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Sincerely,<br>
+Customer Support Team</p>
+<p>For help, visit our <a href="http://www.legit-shipping-help.com">Help Center</a> or check our <a href="http://www.legit-shipping.com/privacy-policy">Privacy Policy</a>.</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.678901234--

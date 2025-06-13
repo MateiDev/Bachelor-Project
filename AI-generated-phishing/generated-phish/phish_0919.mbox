@@ -1,0 +1,46 @@
+From support@irs.gov Thu Jun 27 09:27:13 2024
+Return-Path: <support@irs.gov>
+Delivered-To: victim@example.com
+Received: by mail.irs.gov (Postfix, from userid 1001)
+    id 0123456789; Thu, 27 Jun 2024 09:27:13 -0400 (EDT)
+From: "IRS Department" <support@irs.gov>
+Reply-To: service@secure-irs-update.com
+To: victim@example.com
+Subject: [Urgent] Account Password Verification Required for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have a small refund waiting for you. To expedite the deposit of your refund, please click here:
+http://192.0.2.123/confirm
+
+Alternatively, you can visit https://banking.irs.gov/login (via http://192.0.2.123/login).
+
+For more information, see our privacy policy here:
+http://192.0.2.123/privacy-policy
+
+Sincerely,
+IRS Department
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have a small refund waiting for you. To expedite the deposit of your refund, please
+      <a href="http://192.0.2.123/confirm">click here</a> to confirm your bank account details securely.</p>
+    <p><a href="http://198.51.100.45/update"><img src="http://malicious-domain.com/confirm-button.png" alt="Confirm Refund Details"></a></p>
+    <p>Alternatively, you can visit <a href="http://192.0.2.123/login">https://banking.irs.gov/login</a> if you prefer.</p>
+    <p>For more information, see our <a href="http://192.0.2.123/privacy-policy">here</a> privacy policy.</p>
+    <p>Sincerely,<br/>IRS Department</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

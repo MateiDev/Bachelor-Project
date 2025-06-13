@@ -1,0 +1,50 @@
+```mbox
+From fake-irs@refunds-center.com Fri Oct 20 10:01:22 2023
+Return-Path: <fake-irs@refunds-center.com>
+Received: from mail.fakeisp.com (mail.fakeisp.com [192.0.2.1])
+    by mymailserver.com (MyMailServer) with ESMTP id HJKL123456
+    for <victim@example.com>; Fri, 20 Oct 2023 10:01:22 -0700 (PDT)
+Reply-To: noreply@irs-department.org
+Date: Fri, 20 Oct 2023 10:01:22 -0700
+From: Internal Revenue Service <fake-irs@refunds-center.com>
+Subject: Urgent: Action Required for Your Tax Refund
+To: Victim <victim@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary1234"
+
+--boundary1234
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We are pleased to inform you that you are eligible for a tax refund of $429.87. To expedite the process, please confirm your banking information immediately using the secure link below:
+
+Click here: http://192.0.2.2/secure-bank-confirmation
+
+Failure to update your information may result in delays or prevent you from receiving your refund.
+
+Sincerely,
+Internal Revenue Service
+1-800-555-0199
+
+Privacy Policy: https://www.irs.gov/privacy
+Help: https://www.irs.gov/help
+
+--boundary1234
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We are pleased to inform you that you are eligible for a tax refund of <strong>$429.87</strong>. To expedite the process, please confirm your banking information immediately using the secure link below:</p>
+<p><a href="http://192.0.2.2/secure-bank-confirmation"><img src="http://192.0.2.3/button.jpg" alt="Click Here" /></a></p>
+<p>Failure to update your information may result in <strong>delays</strong> or prevent you from receiving your refund.</p>
+<p>Sincerely,<br/>
+Internal Revenue Service<br/>
+1-800-555-0199</p>
+<p><a href="https://www.irs.gov/privacy">Privacy Policy</a> | <a href="https://www.irs.gov/help">Help</a></p>
+</body>
+</html>
+
+--boundary1234--
+```

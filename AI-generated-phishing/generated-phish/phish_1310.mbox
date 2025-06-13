@@ -1,0 +1,38 @@
+From security@securemail.com Tue Jun 15 10:05:00 2021
+Return-Path: <security@securemail.com>
+Delivered-To: user@domain.com
+Subject: URGENT: SecureMail Encrypted Message Alert
+From: SecureMail Security <security@securemail.com>
+To: user@domain.com
+Date: Tue, 15 Jun 2021 10:05:00 -0400
+Message-ID: <20210615140500.1A2B3C4@securemail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01D3_01D6A4F7.CBB12340"
+
+------=_NextPart_000_01D3_01D6A4F7.CBB12340
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your SecureMail account has detected suspicious activity. An encrypted message awaits. Click here to verify your identity immediately (to avoid suspension): http://203.0.113.45/verify?sid=XYZ
+
+If this link fails, copy the following in your browser: http://198.51.100.23/sec-portal
+
+Visit our Privacy Policy: http://securemail.com/privacy.html | Help Center: http://securemail.com/help
+
+------=_NextPart_000_01D3_01D6A4F7.CBB12340
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:#d8000c; font-weight:bold; font-size:16px;">URGENT SECURITY NOTICE</p>
+    <p>Your SecureMail account has been flagged for <strong>suspicious activity</strong>. An encrypted message is pending delivery.</p>
+    <p>To view it and secure your account, please <a href="http://203.0.113.45/verify?sid=XYZ">click here</a> right now.</p>
+    <p>If the button doesn’t work, paste this into your browser:</p>
+    <p><a href="http://198.51.100.23/sec-portal">https://securemail.com/portal-login</a></p>
+    <p><a href="http://malicious.com/reset"> </a></p>
+    <p>For assistance, see our <a href="http://securemail.com/privacy.html">Privacy Policy</a> or <a href="http://securemail.com/help">Help Center</a>.</p>
+  </body>
+</html>
+
+------=_NextPart_000_01D3_01D6A4F7.CBB12340--

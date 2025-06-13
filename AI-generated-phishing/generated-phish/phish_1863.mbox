@@ -1,0 +1,42 @@
+From phisher@dhl-delivery.com Mon Jun 24 12:34:56 2024
+Return-Path: <no-reply@dhl-delivery.com>
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.23]) by consumer.mail.test with ESMTP id 12345ABCDE; Mon, 24 Jun 2024 12:34:56 +0000
+Date: Mon, 24 Jun 2024 12:34:56 +0000
+From: "DHL Express" <no-reply@dhl-delivery.com>
+To: user@example.com
+Subject: URGENT DELIVERY NOTIFICATION
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT NOTICE: Your package is being held due to an unpaid fee.
+Failure to pay now will result in the immediate return of your parcel.
+Please view the HTML portion of this email to release your shipment immediately.
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial, sans-serif; color:#333;">
+    <h2 style="color:#D8000C;">URGENT NOTICE: Delivery Payment Required</h2>
+    <p>Dear Customer,</p>
+    <p>Your recent parcel delivery could not be completed due to an <strong>unpaid fee</strong>. <span style="color:#D8000C; font-weight:bold;">Failure</span> to settle this charge will lead to the <strong>return of your package</strong>. This is your <em>FINAL ATTEMPT</em> before the shipment is sent back.</p>
+    <p>Please pay the fee <a href="http://secure.dhl-paymentservice.co.uk/release?parcel_id=12345">here</a> now to release your package.</p>
+    <p align="center">
+      <a href="http://tracking.yourparcels.dhl-shipments.net/status?ref=XYZ">
+        <img src="https://cdn.dhl.com/images/track_button.gif" alt="Track My Package" style="border: none;"/>
+      </a>
+    </p>
+    <p>Or click <a href="http://phishing.malicious-site.com/invisible"></a> if the button above does not work.</p>
+    <p>Check your tracking: <a href="http://malicious.com">https://dhl.com/tracking/update</a></p>
+    <hr/>
+    <p>Need assistance? View our <a href="https://www.dhl.com/en/legal/terms.html">privacy-policy</a> or get <a href="https://www.dhl.com/en/help">help</a>.</p>
+    <p style="font-size:12px; color:#888;">DHL Express, 1234 Shipping Ln, Parcel City, 56789</p>
+  </body>
+</html>
+
+--===============123456789==--

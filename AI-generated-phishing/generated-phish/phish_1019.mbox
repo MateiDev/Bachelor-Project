@@ -1,0 +1,56 @@
+From support@securebank.com Tue Jun 18 15:45:13 2024
+Return-Path: <support@securebank.com>
+Received: from mailserver.urgent.info (mailserver.urgent.info [203.0.113.5]) by inbound.securebank.com with ESMTP id ABCD1234; Tue, 18 Jun 2024 15:45:13 -0400
+Message-ID: <20240618154513.ABCD1234@securebank.com>
+Date: Tue, 18 Jun 2024 15:45:13 -0400
+From: Support Team <support@securebank.com>
+Reply-To: no-reply@mailserver.urgent.info
+To: user@personalmail.com
+Subject: Unusual sign-in detected – Verify Now | Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_00ABCD"
+
+----=_Part_000_00ABCD
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an UNUSUAL sign-in attempt on your account. For your protection, we have temporarily locked access.
+
+Your password EXPIRES TODAY. Immediate reset is required to avoid PERMANENT suspension.
+
+Please click the link below to verify your identity and reset your password:
+
+1) http://192.168.100.23/reset?token=5f4dcc3b5aa765d6
+2) https://secure.bank.customer.support/privacy.policy
+3) https://support.securebank.com/help.center/faqs
+
+Failure to act will result in LOSS of all account data.
+
+Thank you for your prompt attention.
+
+SecureBank Support Team
+
+----=_Part_000_00ABCD
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;font-weight:bold;">
+      We detected an <strong>UNUSUAL</strong> sign-in attempt on your account. For your protection, we have temporarily locked access.
+    </p>
+    <p style="font-weight:bold;">
+      Your password <strong>EXPIRES TODAY</strong>. Immediate reset is required to avoid <em>PERMANENT</em> suspension.
+    </p>
+    <p>Please <a href="http://192.168.100.23/reset?token=5f4dcc3b5aa765d6">click here</a> to verify your identity and reset your password immediately.</p>
+    <p>For more information, visit our <a href="https://secure.bank.customer.support/privacy.policy">Privacy Policy</a> or our <a href="https://support.securebank.com/help.center/faqs">Help Center</a>.</p>
+    <p>Failure to act will result in <span style="color:red;font-weight:bold;">LOSS</span> of all account data.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>SecureBank Support Team</p>
+  </body>
+</html>
+
+----=_Part_000_00ABCD--

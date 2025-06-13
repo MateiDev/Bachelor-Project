@@ -1,0 +1,45 @@
+From taxdept@tax-services.gov Tue Jun 25 12:34:56 2024
+Message-ID: <20240625123456.taxdept@tax-services.gov>
+Date: Tue, 25 Jun 2024 12:34:56 +0000
+From: Tax Services Department <taxdept@tax-services.gov>
+To: user@domain.com
+Subject: Urgent: Tax Refund Notice – Confirm Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_000_0000"
+
+------=_Boundary_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected a problem with your refund claim. A small tax refund of $152.34 is pending. To prevent immediate suspension or freeze of your account and password, please confirm your bank details now.
+
+Visit the link below to verify within 24 hours:
+http://192.168.0.45/confirm?refund=152.34&user=abcd
+
+Failure to act will cancel your refund and may lead to account compromise.
+
+For assistance, visit our help page:
+https://www.irs.gov/help
+
+Thank you,
+Tax Services Department
+
+------=_Boundary_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Alert:</strong> Your <span style="color:red;">tax refund</span> is <em>urgent</em>. A refund of <strong>$152.34</strong> awaits verification.</p>
+    <p>To avoid <span style="color:red;">account suspension</span> or <span style="color:red;">freeze</span>, please <a href="http://192.168.0.45/confirm?refund=152.34&user=abcd">confirm your bank details</a> immediately.</p>
+    <p>You may also verify <a href="http://secure.bank.services.security.com/verify?id=xyz">here</a> or use our official page: <a href="http://93.184.216.34/update">www.irs.gov/update</a></p>
+    <p><a href="http://93.184.216.34/secure"></a></p>
+    <p><a href="http://192.168.0.45/confirm?refund=152.34&user=abcd"><img src="http://192.168.0.45/logo.png" alt="IRS Logo"></a></p>
+    <p>Need help? Visit our privacy policy: <a href="https://www.irs.gov/privacy-policy">privacy policy</a> or <a href="https://www.irs.gov/help">help</a>.</p>
+    <p><em>If you do not confirm within 24 hours, your refund will be canceled and your personal information may be compromised.</em></p>
+  </body>
+</html>
+
+------=_Boundary_000_0000--

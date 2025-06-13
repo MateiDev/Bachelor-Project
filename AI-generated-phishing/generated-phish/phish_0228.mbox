@@ -1,0 +1,47 @@
+```
+From phishing@example.com Thu Oct 5 14:28:50 2023
+Return-Path: <phishing@example.com>
+Date: Thu, 5 Oct 2023 14:28:50 +0000
+From: "Internal Revenue Service" <notify@irs-refund.com>
+To: victim@example.com
+Subject: Urgent: Confirm Your Pending Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have calculated that you are eligible for a refund of $586.75. To ensure we can deposit this amount into your account, please confirm your banking details by following the secure link below:
+
+http://192.168.1.1/secure/refund/confirm
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+IRS Refund Department
+
+Please do not reply to this automated email.
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have calculated that you are eligible for a refund of <b>$586.75</b>. To ensure we can deposit this amount into your account, please confirm your banking details by following the secure link below:</p>
+    <p><a href="http://192.168.1.1/secure/refund/confirm">click here</a></p>
+<ul>
+<li><a href="http://example.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="http://example.com/help">Help</a></li>
+</ul>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>
+       IRS Refund Department</p>
+    <p><a href="http://192.168.1.1/secure/refund/confirm"></a></p>
+    <p>Please do not reply to this automated email.</p>
+  </body>
+</html>
+--boundary123--
+```

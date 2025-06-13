@@ -1,0 +1,67 @@
+From no-reply@voucher-service.com Fri Jul  1 12:34:56 2023
+Return-Path: <no-reply@voucher-service.com>
+Received: from voucher-service.com ([192.0.2.1]) by voucher-service.com with SMTP id abc123; Fri, 01 Jul 2023 12:34:56 +0200
+Date: Fri, 1 Jul 2023 12:34:56 +0200
+From: "Voucher Rewards" <no-reply@voucher-service.com>
+To: user@test.com
+Subject: URGENT: Immediate Action Required! €100 Voucher Pending
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--boundary_01_abc"
+
+--boundary_01_abc
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+** Your account is at RISK! **
+
+Dear Customer,
+
+Your personal data may have been compromised. You have been selected for an exclusive €100 voucher—claim it NOW before it EXPIRES!
+
+Activate your voucher here:
+http://192.168.0.45/claim
+
+Need help or privacy-policy details?
+http://legal.company.co.uk/help.html
+http://legal.company.co.uk/privacy.html
+
+WARNING: Failure to respond IMMEDIATELY will RESULT IN FORFEITURE of your reward.
+
+Best regards,
+Voucher Rewards Team
+
+--boundary_01_abc
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong style="color:red;">CRITICAL ALERT:</strong> Your account security is COMPROMISED!</p>
+    <p>You are eligible for a <strong>€100 REWARD</strong>. Claim it <em>IMMEDIATELY</em> to avoid CANCELLATION!</p>
+    <p>
+      <!-- Empty visible anchor text -->
+      <a href="http://malicious.bad/secret"></a>
+    </p>
+    <p>
+      <!-- Image-based link with IP URL -->
+      <a href="http://192.168.0.45/claim">
+        <img src="http://support.company.co.uk/images/gift.png" alt="Claim Voucher" />
+      </a>
+    </p>
+    <p>
+      Or click this secure link:
+      <a href="http://phish.bad/redirect">http://secure.account.services</a>
+    </p>
+    <p>
+      Get your voucher <a href="http://voucher.modal-offers.co/popup">here</a> before it EXPIRES!
+    </p>
+    <p>
+      For privacy-policy:
+      <a href="http://legal.company.co.uk/privacy.html"> privacy-policy </a> |
+      <a href="http://legal.company.co.uk/help.html"> help </a>
+    </p>
+    <p><em>WARNING: Act within 24 HOURS or your reward will be VOIDED.</em></p>
+  </body>
+</html>
+
+--boundary_01_abc--

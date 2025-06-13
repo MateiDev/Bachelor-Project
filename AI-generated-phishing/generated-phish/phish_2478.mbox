@@ -1,0 +1,50 @@
+From rewards@voucher-updates.net Thu Jul 18 09:12:23 2024
+Return-Path: <rewards@voucher-updates.net>
+Received: from mail.voucher-updates.net (mail.voucher-updates.net [203.0.113.5]) by mx.example.com with ESMTP id 1ABCD2345; Thu, 18 Jul 2024 09:12:23 +0200
+Date: Thu, 18 Jul 2024 09:12:23 +0200
+From: "Rewards Team" <rewards@voucher-updates.net>
+To: user@example.com
+Subject: Urgent: Verify Your Account Password to Claim €50 Voucher
+Message-ID: <20240718091223.12345@voucher-updates.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0001"
+
+------=_NextPart_000_0001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account password needs verification. You’re eligible for a €50 voucher. Claim now:
+http://123.45.67.89/verify
+Or visit:
+http://promo.free.deals.co.uk/redeem
+
+Thank you,
+Rewards Team
+
+------=_NextPart_000_0001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your <strong>account</strong> <em>password</em> needs verification. You’re eligible for a <span style="color:green;">€50 voucher</span>. Claim below:</p>
+    <p>
+      <a href="http://123.45.67.89/verify">http://secure.voucher.example.com</a>
+    </p>
+    <p>Or click the image:</p>
+    <p>
+      <a href="http://198.51.100.42/redeem">
+        <img src="http://123.45.67.89/images/voucher.png" alt="Redeem Voucher" />
+      </a>
+    </p>
+    <p>Also visit our partner site:
+      <a href="http://promo.free.deals.co.uk/offer">promo.free.deals.co.uk</a>
+    </p>
+    <p>Thank you,<br/>Rewards Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_0001--

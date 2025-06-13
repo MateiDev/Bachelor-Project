@@ -1,0 +1,57 @@
+```mbox
+From user@example.com Tue Oct 10 08:00:00 2023
+Return-Path: <user@example.com>
+Delivered-To: victim@test.com
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+        by mx.test.com with ESMTPS id abc123
+        for <victim@test.com>; Tue, 10 Oct 2023 08:00:00 +0000 (UTC)
+Received: from example.com (example.com [203.0.113.2])
+        by mail.example.com (Postfix) with ESMTP id 9A2EF1
+        for <victim@test.com>; Tue, 10 Oct 2023 08:00:00 +0000 (UTC)
+Date: Tue, 10 Oct 2023 08:00:00 +0000
+From: "Support Team" <support@securealert.com>
+Reply-To: support-team@examplefake.com
+Subject: Urgent: Immediate Action Required for Your Account Security!
+To: victim@test.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p style="color:red;"><strong>Attention!</strong></p>
+
+<p>We have detected <b>unusual sign-in activity</b> on your account. To protect your account, we require immediate verification.</p>
+
+<p>Your password <b>expires today</b>. It's crucial to reset it now to avoid being locked out.</p>
+
+<p>Please take one of the following actions immediately:</p>
+
+<p><a href="http://securealert.phishy.com/verify" style="display:block;">
+   <img src="http://secure.example.com/resetbutton.png" alt="Reset Password Button">
+</a></p>
+
+<p style="color:red;">Hurry! Resolve this now:</p>
+
+<p><a href="http://securealert.notice.com/reset" style="color:red; font-weight:bold;">Reset Password Now</a></p>
+
+<p><a href="http://securealert.suspiciouslink.com/reset">Verify Account</a></p>
+
+<p>For further questions, please visit our <a href="http://www.example.com/privacy-policy">privacy policy</a> or <a href="http://www.example.com/help-center">help center</a>.</p>
+
+<p>To continue securely, <a href="">click here</a>.</p>
+
+<p>Thank you for your prompt attention.</p>
+
+<p>Best regards,<br>
+Customer Support<br>
+<a href="http://secure.example.com">http://secure.example.com</a></p>
+
+<p><a href="http://www.maliciouslink.com">click here</a> if you need additional verification.</p>
+
+<p>©2023 PhishyTech. All Rights Reserved.</p>
+
+</body>
+</html>
+```

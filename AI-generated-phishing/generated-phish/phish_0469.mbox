@@ -1,0 +1,26 @@
+```mbox
+From fakeupdate@secure-portal-update.com Fri Oct 13 10:23:11 2023
+Return-Path: <fakeupdate@secure-portal-update.com>
+Received: from suspicious-mail.com (unknown [192.0.2.1])
+        by mailserver.example.com (Postfix) with ESMTP id 1234567890
+        for <victim@example.com>; Fri, 13 Oct 2023 10:23:11 +0000 (UTC)
+Date: Fri, 13 Oct 2023 10:23:11 +0000 (UTC)
+From: "Security Alert" <fakeupdate@secure-portal-update.com>
+Reply-To: secureupdate@securitynotice.com
+Subject: Urgent Account Security Notification
+To: <victim@example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear valued user,</p>
+    <p>Your ACCOUNT has been flagged for suspicious activity! Immediate ATTENTION is required to secure your information.</p>
+    <p>Please click the secure link below to verify your account details within the next 24 hours to avoid suspension:</p>
+    <a href="http://secure-signin.alert.updates.com">http://secure-portal-login.com</a>
+    <p>Failure to comply will result in restrictions being placed on your account.</p>
+    <p>Thank you for your prompt action to resolve this CRITICAL issue.</p>
+    <p>Sincerely,<br>Security Team</p>
+  </body>
+</html>
+```

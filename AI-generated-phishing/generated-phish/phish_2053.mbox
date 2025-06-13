@@ -1,0 +1,43 @@
+From no-reply@taxsecure.io Wed May 01 08:30:00 2024
+Return-Path: <mailer-daemon@taxsecure.io>
+Delivered-To: user@company.com
+Received: from mail.taxsecure.io ([203.0.113.5]) by mail.company.com with ESMTP id ABC123 for <user@company.com>; Wed, 01 May 2024 08:30:00 -0400
+From: National Tax Office <no-reply@taxsecure.io>
+Reply-To: Refund Department <refund-support@usa-refunds.org>
+Subject: Urgent: Action Required – Tax Refund Account Verification
+Date: Wed, 01 May 2024 08:30:00 -0400
+Message-ID: <202405010830.mailtax@taxsecure.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789012345"
+
+----=_Part_0_123456.789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your latest tax submission and determined that you are eligible for a small refund of $87.50. To claim this refund, you must verify your banking information immediately.
+
+Please visit the following link to confirm your details. Failure to respond within 24 hours will result in cancellation of your refund request.
+
+https://secure.tax.gov/refund
+
+Sincerely,
+National Tax Office Support Team
+
+----=_Part_0_123456.789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Urgent Security Alert:</strong> Your Tax Refund <span style="color:red">$87.50</span> is ready, but <em>action is required</em> to avoid <strong>cancellation</strong> of your account.</p>
+    <p>Click the link below to verify your banking details <strong>immediately</strong>:</p>
+    <p><a href="http://updates.secure.tax.refund.usa.bank-system.com/confirm">https://secure.tax.gov/refund</a></p>
+    <p>Alternatively, you can verify via our secure server:</p>
+    <p><a href="http://198.51.100.23/verify">http://198.51.100.23/verify</a></p>
+    <p><em>If you do not confirm within 24 hours, your refund will be voided.</em></p>
+  </body>
+</html>
+
+----=_Part_0_123456.789012345--

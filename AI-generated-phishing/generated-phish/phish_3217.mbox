@@ -1,0 +1,56 @@
+From security@company.com Fri Jul 21 12:34:56 2023
+Date: Fri, 21 Jul 2023 12:34:56 +0000
+From: "Company Portal Security" <security@company.com>
+Reply-To: support@secure-mail-portal.com
+To: user@domain.org
+Subject: URGENT: Account Password Verification Required Immediately
+Message-ID: <123456$abcdef@company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.abcdef"
+
+------=_Part_0_123456.abcdef
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been flagged for suspected unauthorized access. Immediate password verification is required to avoid permanent suspension.
+
+Visit https://portal.company.com/secure now or click here:
+http://securemail-sim.com/verify
+
+Failure to comply will result in account lockout.
+
+Best Regards,
+Company Security Team
+
+------=_Part_0_123456.abcdef
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your <strong>ACCOUNT</strong> has been flagged for <em>UNAUTHORIZED</em> access. To prevent a <span style="color:red">SECURE/IMMEDIATE</span> lockout, you must <strong>VERIFY</strong> your <em>password</em> <u>NOW</u>.</p>
+    <p>Please <a href="http://securemail-sim.com/verify">click here</a> to <span style="color:blue">verify your credentials</span>.</p>
+    <p>Alternatively, you may use our secure portal:</p>
+    <ul>
+      <li><a href="http://phish-portal.com/login">https://portal.company.com/login</a></li>
+      <li><a href="http://login.secure.company.com.portal.recovery/reset...com">Login Link</a></li>
+      <li><a href="http://fake-redirect.helpdesk-protect.com">help.psl.comp</a></li>
+    </ul>
+    <p>Hover over the links to confirm security.</p>
+    <p>
+      <a href="http://malicious-login.com">
+        <img src="http://images.security-alert.com/banner.png" alt="SECURE MAIL" />
+      </a>
+    </p>
+    <p>
+      <a href="http://malicious-login.com"></a>
+    </p>
+    <p>Failure to act within <strong>24 HOURS</strong> will result in <strong>ACCOUNT LOCKOUT</strong>.</p>
+    <p>Regards,<br/>Company Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.abcdef--

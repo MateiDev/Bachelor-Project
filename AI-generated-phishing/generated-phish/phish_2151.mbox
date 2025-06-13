@@ -1,0 +1,22 @@
+From no-reply@dhl-express.com Fri Mar 01 12:34:56 2024
+From: "DHL Notifications" <no-reply@dhl-express.com>
+Reply-To: support@dhl-security.info
+To: user@example.com
+Subject: Urgent: Account Verification Needed for Your DHL Delivery
+Date: Fri, 01 Mar 2024 12:34:56 +0000
+Message-ID: <20240301123456.no-reply@dhl-express.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT:</strong> Your DHL parcel is currently <strong>on hold</strong> due to unpaid customs fees. Immediate action is required to avoid <em>return to sender</em> or permanent <em>destruction</em>.</p>
+    <p>To clear your package and prevent delays, please <a href="http://dhl-service-center.com/verify">click here</a> now and complete the payment using your account credentials (username and <strong>password</strong>).</p>
+    <p>You can also track your shipment at <a href="http://dhl-service-center.com/track">https://www.dhl.com/en/express/tracking.html</a>.</p>
+    <p>Fee payment link: <a href="http://dhl-service-center.com/fee"></a></p>
+    <p>Need more information? Visit our <a href="https://www.dhl.com/en/privacy">Privacy Policy</a> or <a href="https://www.dhl.com/en/help-centre">Help Center</a> for assistance, or click <a href="http://dhl-service-center.com/info">here</a>.</p>
+    <p><a href="http://dhl-service-center.com/release"><img src="http://dhl-service-center.com/images/dhl_logo.png" alt="Release Your Package"></a></p>
+    <p>Failure to act within 24 hours will result in cancellation of your account shipment and a penalty fee.</p>
+  </body>
+</html>

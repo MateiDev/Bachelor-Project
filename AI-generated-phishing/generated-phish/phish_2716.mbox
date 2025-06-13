@@ -1,0 +1,46 @@
+```
+From - Tue Oct 10 09:00:00 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: by example.com (Postfix, from userid 1001)
+        id 12345; Tue, 10 Oct 2023 09:00:00 -0400 (EDT)
+Received: from unknown (IP-based source) by example.com with SMTP id 12346
+        for <victim@example.com>; Tue, 10 Oct 2023 09:00:00 -0400 (EDT)
+From: "Tax Department" <service@tax-refund.example.com>
+Reply-To: urgent-refund@taxservice.example.net
+Date: Tue, 10 Oct 2023 09:00:00 -0400
+Subject: Urgent: Confirm Your Tax Refund Details
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_XYZ"
+
+--b1_XYZ
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unclaimed tax refund under your name. Immediate action is required. 
+
+Please CONFIRM your details now to avoid delay:
+
+http://verify.taxclaim-update.com/refund
+
+Regards,
+Tax Department
+
+--b1_XYZ
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear User,</p>
+<p>We have detected an <strong>unclaimed tax refund</strong> under your name. <span style="color:red;">Immediate action is required</span>.</p>
+<p>Please <a href="http://192.168.1.100/login" style="display:none;"></a> <a href="http://verify.taxclaim-update.com/refund">CONFIRM your details now</a> to avoid delay:</p>
+<a href="http://update.claimservice.com"><img src="http://192.168.1.101/someimage.jpg" alt="Claim Now"></a>
+<p>Regards,<br/>Tax Department</p>
+</body>
+</html>
+--b1_XYZ--
+```

@@ -1,0 +1,47 @@
+From delivery@dhl.com Fri Jul 29 14:00:00 2022
+Return-Path: <delivery@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5]) by receiverlab.com with ESMTP id ABC123; Fri, 29 Jul 2022 14:00:00 +0000
+From: "DHL Express Delivery" <delivery@dhl.com>
+Reply-To: <support@dhl-service.net>
+To: user@testlab.com
+Subject: urgent: your account password & delivery held - immediate action required
+Date: Fri, 29 Jul 2022 14:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY123=="
+
+--===============BOUNDARY123==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is currently on hold due to a pending delivery fee.
+Immediate Action Required: click the link below to release your shipment.
+
+Track and release: http://secure.dhl.shipping-update.phish-lab.net/confirm-fee
+
+If you fail to pay within 24 hours, your package will be returned.
+
+Best regards,
+DHL Express
+
+--===============BOUNDARY123==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Customer,</p>
+<p>Your <strong>package</strong> is <span style="color:red">on hold</span> due to a pending <em>delivery fee</em>. <strong>Immediate Action Required!</strong></p>
+<p>To release your shipment, please <a href="http://secure.dhl.shipping-update.phish-lab.net/confirm?pkg=12345"><img src="https://cdn.dhl.com/images/confirm_button.png" alt="Confirm Now"></a></p>
+<p>Or copy and paste one of the links below into your browser:</p>
+<ul>
+<li><a href="http://secure.dhl.shipping-update.phish-lab.net/confirm?pkg=12345">http://secure.dhl.shipping-update.phish-lab.net/confirm?pkg=12345</a></li>
+<li><a href="http://tracking.dhl-update.phish-lab.net/track?data=abcdef">https://dhl.delivery-tracking.com</a></li>
+<li><a href="http://malicious.labs.net/fake">here</a> for more info</li>
+<li><a href="http://malicious.labs.net/info"></a></li>
+</ul>
+<p>If you don't act within <strong>24 HOURS</strong>, your package <span style="text-decoration:underline">will be returned</span>.</p>
+<p><a href="http://help.dhl-support.net/policy.html">https://help.dhl.com/policy.html</a> | <a href="http://help.dhl-support.net/terms.html">Help Center</a></p>
+</body></html>
+
+--===============BOUNDARY123==--

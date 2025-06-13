@@ -1,0 +1,33 @@
+```mbox
+From phishing-attack@example.com Mon Oct  2 14:48:34 2023
+Return-Path: <phishing-attack@example.com>
+Received: from [198.51.100.1] (helo=fake.mail.server)
+    by relay.example.com with esmtp (Exim 4.94)
+    (envelope-from <phishing-attack@example.com>)
+    id 1hHhCz-0002Tt-4c
+    for victim@example.com; Mon, 02 Oct 2023 14:48:34 +0000
+Reply-To: urgent-security-update@fakeportalalerts.com
+Subject: Urgent: Immediate Action Required for Account Security
+To: victim@example.com
+Date: Mon, 2 Oct 2023 14:48:34 +0000
+Message-ID: <001a113d44e001a113d44e000@fake.mail.server>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <h1>Security Alert: Immediate Update Required</h1>
+    <p>Dear User,</p>
+    <p>Your account has been flagged for suspicious activity. For your safety, please verify your account immediately to avoid temporary suspension.</p>
+    <p>To secure your account, please click on the link below:</p>
+    <p><a href="http://192.0.2.1/verify-account">http://example.com/secure-login</a></p>
+    <p>If this issue is not resolved urgently, your <strong>account</strong> access may be restricted.</p>
+    <p><img src="http://203.0.113.5/security-alert.png" alt="Security Alert"></p>
+    <p>For further assistance, please contact our support.</p>
+    <a href=""></a>
+    <p>Click the following links for more details:</p>
+    <p><a href="http://example.contact-us.com">www.example.com/contact-us</a></p>
+    <p><a href="http://192.0.2.2/login">Login</a></p>
+</body>
+</html>
+```

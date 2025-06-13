@@ -1,0 +1,58 @@
+From user@domain.com Wed Jul 12 10:22:33 2023
+Return-Path: <no-reply@securebank.com>
+Received: from mail.securebank.com (mail.securebank.com [192.0.2.1])
+	by mx.domain.com with ESMTP id ABC123DEF
+	for <user@domain.com>; Wed, 12 Jul 2023 10:22:33 -0400 (EDT)
+Date: Wed, 12 Jul 2023 10:22:33 -0400
+From: Secure Bank <no-reply@securebank.com>
+To: user@domain.com
+Subject: Urgent: Unusual Sign-In Detected – Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1234567"
+
+------=_Part_0_123456789.1234567
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. To secure your account, verify now and reset your password immediately. Failure to act will cause your account to be suspended. Your password expires today.
+
+Reset here: https://secure-login.bankverification.co/reset
+Update link: https://securebank.com/update
+
+Thank you,
+Secure Bank Security Team
+
+------=_Part_0_123456789.1234567
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <p><strong>Alert!</strong> We detected an <span style="color:red;">unusual sign-in</span> on your Secure Bank account.</p>
+    <p>Your <strong>password expires today</strong>. You must <em>reset immediately</em> to avoid suspension.</p>
+    <p style="margin:20px 0;">
+      <a href="https://secure-login.bankverification.co/reset">
+        <img src="https://images.secure-bank.com/logo.png" alt="Secure Bank Logo" style="border:0;width:200px;">
+      </a>
+    </p>
+    <p>
+      Click <a href="https://login-portal.secure.bankverify.io/verify">here</a> to verify your sign-in details.
+    </p>
+    <p>
+      For your convenience, visit our privacy policy at
+      <a href="https://legal.securebank.io/privacy">https://legal.securebank.io/privacy</a> and our help center at
+      <a href="https://help.securebank.io">help.securebank.io</a>.
+    </p>
+    <p>
+      Or reset directly via:
+      <a href="https://bank-info.verify-login.com/update">https://securebank.com/update</a>
+    </p>
+    <p style="color:red;">This is an urgent notice. Failure to act within 2 hours will cause account lockout.</p>
+    <hr>
+    <p style="font-size:12px;color:#888;">Secure Bank, 1234 Finance Ave, Suite 100, Cityville</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.1234567--

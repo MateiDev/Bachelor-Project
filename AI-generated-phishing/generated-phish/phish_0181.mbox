@@ -1,0 +1,36 @@
+```mbox
+From fake-security@yourbank.com Thu Oct 12 17:35:00 2023
+Return-Path: <fake-security@yourbank.com>
+Delivered-To: user@example.com
+Received: from 192.0.2.123 (192.0.2.123)
+        by mail.example.com with ESMTP id rpgDFkF37183
+        for <user@example.com>; Thu, 12 Oct 2023 17:35:00 +0000
+Subject: Urgent: Action Required to Secure Your Account
+To: user@example.com
+From: Security Department <fake-security@yourbank.com>
+Content-Type: multipart/alternative; boundary="boundary_example123"
+
+--boundary_example123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected unusual activities in your account that require immediate action. Please visit our secure portal to protect your account and avoid temporary suspension.
+
+Sincerely,
+Your Bank Security Team
+
+--boundary_example123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>unusual activities</strong> in your account that require immediate action. Please visit our secure portal to protect your account and avoid temporary suspension.</p>
+<p><a href="http://192.0.2.123/login/verify"><!-- hidden --></a></p>
+<p>Sincerely,<br>Your Bank Security Team</p>
+</body>
+</html>
+
+--boundary_example123--
+```

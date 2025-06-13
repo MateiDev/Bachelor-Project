@@ -1,0 +1,38 @@
+```
+From nobody@test.com Mon Oct  9 13:45:37 2023
+Return-Path: <noreply@secure-update.com>
+Date: Mon, 9 Oct 2023 13:45:37 +0000
+From: Amazon Account Security <noreply@amazon-security.com>
+Subject: Urgent: Action Required to Secure Your Amazon Account
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="boundary12345"
+
+--boundary12345
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Amazon Customer,
+
+We have detected suspicious activity on your account and need you to verify your identity to prevent any unauthorized access. Please log in to your account urgently using the secure link below:
+
+http://www.amazon-security-alert.com/login
+
+Failure to secure your account promptly could lead to a temporary suspension.
+
+Thank you,
+Amazon Security Team
+
+--boundary12345
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+    <p>Dear Amazon Customer,</p>
+    <p>We have detected suspicious activity on your account and need you to verify your identity to prevent any unauthorized access. Please log in to your account urgently using the secure link below:</p>
+    <p><a href="http://192.168.1.100/login" style="text-decoration:none; color:#FF9900;"><img src="http://fakeimages.com/login-button.png" alt="Log in to your account"></a></p>
+    <p>Failure to secure your account promptly could lead to a temporary suspension.</p>
+    <p>Thank you,<br>Amazon Security Team</p>
+    <p>For other inquiries, visit our <a href="https://www.amazon.com/help">Help Center</a> or read our <a href="https://www.amazon.com/privacy">Privacy Policy</a>.</p>
+</body>
+</html>
+--boundary12345--
+```

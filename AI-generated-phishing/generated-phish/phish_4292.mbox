@@ -1,0 +1,47 @@
+From no-reply@secure-update.example.com Fri Jul 26 08:30:00 2024
+Return-Path: <no-reply@secure-update.example.com>
+Received: from secure-update.example.com (unknown [203.0.113.1])
+	by mail.example.com with ESMTP id ABC123DEF456
+	for <user@example.com>; Fri, 26 Jul 2024 08:30:00 +0200
+From: "Bank Security Team" <no-reply@secure-update.example.com>
+Reply-To: support@legitbank.com
+To: user@example.com
+Subject: Immediate Action: Urgent Account Password & Tax Refund Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678910"
+
+------=_Part_12345_678910
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have encountered an error while processing your tax refund. A small refund of $23.50 is pending in your bank account. To receive your refund, you must confirm your account and password details immediately. Failure to do so within 24 hours will result in cancellation of your refund and locking of your account.
+
+Please verify your information now by visiting:
+https://secure.bank.example.com/verify-account
+
+Need help? Visit our help page: http://help.bank.example.com/support
+
+Thank you,
+Bank Tax Department
+
+------=_Part_12345_678910
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">Immediate Action Required!</p>
+    <p>Dear Customer,</p>
+    <p>We have encountered an <strong>error</strong> while processing your <em>tax refund</em>. A small refund of <strong>$23.50</strong> is pending in your bank account. To avoid <span style="color:red;">cancellation</span> of your refund and <strong>account lock</strong>, you must confirm your <strong>account</strong> and <strong>password</strong> details <u>immediately</u>. This link will <strong>expire in 24 hours</strong>.</p>
+    <p>Verify your refund now: 
+      <a href="http://123.45.67.89/confirm">https://bank.security.verify.tax-refund.com</a>
+    </p>
+    <p>For assistance, <a href="http://123.45.67.89/help">click here</a> or review our <a href="http://98.76.54.32/logo.png"><img src="http://98.76.54.32/logo.png" alt="Privacy Policy" style="border:none;"></a></p>
+    <p>Thank you,<br>Bank Tax Specialist</p>
+    <p><a href="http://malicious.example.com/track"></a></p>
+  </body>
+</html>
+
+------=_Part_12345_678910--

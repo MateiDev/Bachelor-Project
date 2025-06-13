@@ -1,0 +1,50 @@
+From security@banksecure.com Fri Mar 29 10:00:00 2024
+Return-Path: <security@banksecure.com>
+Delivered-To: user@mybank.com
+Received: from mailserver.banksecure.com (mailserver.banksecure.com [111.222.333.444])
+    by mail.mybank.com with ESMTP id ABC123XYZ;
+    Fri, 29 Mar 2024 10:00:00 +0000 (UTC)
+Subject: Urgent: Account Password Verification Required for Refund
+From: "Bank Security Team" <security@banksecure.com>
+Reply-To: "Customer Support" <support@helpdeskservice.com>
+To: user@mybank.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_Part_1234_4567"
+
+------=_Part_1234_4567
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed a small refund to your account. However, due to recent suspicious activity, we require you to verify your password immediately to confirm your banking details.
+
+To complete verification, please visit the link below as soon as possible:
+
+http://123.123.123.123/verify
+
+This refund will expire if not confirmed within 24 hours.
+
+Sincerely,
+Bank Security Team
+
+------=_Part_1234_4567
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have processed a <strong>small refund</strong> to your account. Due to <span style="color:red;">unauthorized activity</span> detected, <strong>immediate action required</strong> to avoid your refund expiring.</p>
+<p>Please <a href="http://123.123.123.123/verify"></a>confirm your banking details and <a href="http://98.76.54.32/refund">claim your refund</a> as soon as possible.</p>
+<p>Failure to act may result in a hold on your account and potential fraud review.</p>
+<p>Sincerely,<br/>
+Bank Security Team</p>
+</body>
+</html>
+
+------=_Part_1234_4567--

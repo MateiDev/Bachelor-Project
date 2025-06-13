@@ -1,0 +1,46 @@
+From support@officialbank.com Mon Mar 12 09:15:00 2024
+Return-Path: <support@officialbank.com>
+From: Official Bank Support <support@officialbank.com>
+Reply-To: Helpdesk Team <helpdesk@bank-services-alerts.com>
+Subject: Urgent Account Update Required
+Date: Tue, 12 Mar 2024 09:15:00 -0500
+To: Customer <user@domain.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====BOUNDARY===="
+
+--====BOUNDARY====
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account information is currently under review due to suspicious activity. To avoid immediate service suspension, please confirm your bank details to process a small refund:
+
+click here: https://secure.bank.login.verify-update.com/refund
+
+Failure to respond within 24 hours will result in account locking.
+
+Privacy Policy: https://www.officialbank.com/privacy-policy
+Help Center: https://www.officialbank.com/help
+
+Sincerely,
+Official Bank Security Team
+
+--====BOUNDARY====
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your account information is currently under review due to suspicious activity. To avoid immediate service suspension, please confirm your bank details to process a small refund:</p>
+<p><a href="https://secure.bank.login.verify-update.com/refund">click here</a> to confirm now.</p>
+<p>Or <a href="https://modal.bank-update-modal.com/confirm">here</a>.</p>
+<p><a href="https://secure.bank.login.verify-update.com/refund"><img src="https://bank-assets.onlineimages.com/logo.png" alt="Official Bank"/></a></p>
+<p>If you do not act within 24 hours, your account may be locked permanently.</p>
+<p>For more information, visit our <a href="https://www.officialbank.com/privacy-policy">Privacy Policy</a> or <a href="https://www.officialbank.com/help">Help Center</a>.</p>
+<p>Sincerely,<br/>Official Bank Security Team</p>
+</body>
+</html>
+
+--====BOUNDARY====--

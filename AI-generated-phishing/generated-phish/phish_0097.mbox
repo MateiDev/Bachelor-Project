@@ -1,0 +1,48 @@
+```mbox
+From - Fri Oct 13 09:52:05 2023
+X-Account-Key: account2
+X-UIDL: UID12345
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <security-update@notrealbank.com>
+Received: from 192.168.1.100 ([192.168.1.100]) by mail.fake.com
+	; Fri, 13 Oct 2023 09:15:43 -0700
+Message-ID: <5555AABBCC123456@notrealbank.com>
+Reply-To: noreply-security@securityportal.com
+From: "NotReal Bank Security Team" <security-update@notrealbank.com>
+Subject: Urgent: Verify Your Account Now to Avoid Closure
+Date: Fri, 13 Oct 2023 09:10:43 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We have detected unusual activity in your NotReal Bank account. To ensure the security of your personal information, please verify your account.</p>
+
+<p>Failure to verify your account information within the next 24 hours will result in account suspension.</p>
+
+<p>Please <a href="http://192.168.1.100/secure-login" style="color: #0044cc;">click here</a> to securely access your account and verify your information.</p>
+
+<p>For privacy information, click <a href="http://notrealbank.com/privacy-policy">here</a>.</p>
+
+<p>For any assistance, visit our help page <a href="http://notrealbank.com/help">here</a>.</p>
+
+<p>Your security is our priority.</p>
+
+<p>Best Regards,</p>
+<p>NotReal Bank Security Team</p>
+
+<p><a href="http://secure-account.notrealbank.com/authenticate" style="color: #0044cc;">www.securelogin.notrealbank.com</a></p>
+
+<p><a href=""></a></p>
+
+<hr>
+<p style="font-size: small;">This message was sent by NotReal Bank. For questions, please contact us at our customer service hotline.</p>
+
+</body>
+</html>
+```

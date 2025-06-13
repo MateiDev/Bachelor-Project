@@ -1,0 +1,48 @@
+From phisher@fake.com Mon Apr  1 12:34:56 2024
+Return-Path: <no-reply@secureportal.com>
+From: "Secure Portal Alerts" <no-reply@secureportal.com>
+Reply-To: helpdesk@verification-secure.com
+Subject: Urgent: Account Password Reverification Required
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1234567890123"
+
+----=_Part_123456_789012345.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. To ensure continued access, you must review and reconfirm your password immediately.
+
+Please click the link below to verify your account:
+https://secure.portal.login.verify.example.com/view?token=abc123
+
+If you do not verify within 24 hours, your account will be temporarily suspended.
+
+Thank you,
+Secure Portal Team
+
+----=_Part_123456_789012345.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Alert</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+<p>Dear User,</p>
+<p>We have detected <strong>suspicious activity</strong> on your <em>account</em>. To ensure continued access, you must review and reconfirm your <u>password</u> immediately.</p>
+<p>Please click <a href="https://secure.portal.login.verify.example.com/view?token=abc123" style="text-decoration:none;"></a> to verify your account.</p>
+<p>Alternatively, you can visit our secure portal directly:</p>
+<p><a href="https://secure-portal-info.update.example.co.uk/confirm" target="_blank" style="display:inline-block;">
+  <img src="https://cdn.verify-secure.example.net/images/secure_notice.png" alt="Secure Notice" border="0"/>
+</a></p>
+<p>If you do not verify within <strong>24 hours</strong>, your account will be <em>temporarily suspended</em>.</p>
+<p>Best regards,<br/>
+Secure Portal Team</p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1234567890123--

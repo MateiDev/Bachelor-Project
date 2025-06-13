@@ -1,0 +1,52 @@
+From support@eurogifts.com Fri Mar 01 10:00:00 2024
+MIME-Version: 1.0
+Received: from mail.eurogifts.com (localhost [127.0.0.1]) by mail.eurogifts.com with SMTP id 123456 for <customer@example.org>; Fri, 01 Mar 2024 10:00:00 +0000
+Return-Path: <support@eurogifts.com>
+From: EuroGifts Support <support@eurogifts.com>
+Reply-To: userreply@accounts-update.europe.biz
+To: customer@example.org
+Subject: Immediate Action Required: Claim Your €100 Voucher Now!
+Date: Fri, 01 Mar 2024 10:00:00 +0000
+Message-ID: <20240301100000.1234@mail.eurogifts.com>
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_01D9E4D0"
+
+----=_NextPart_000_0000_01D9E4D0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+You have been selected to receive a €100 gift voucher! This is an urgent, time-sensitive offer that expires in 24 hours. Act immediately to secure your reward:
+
+http://secure.eurogifts-account.verify.id/claim
+https://eurogifts.com/privacy-policy
+https://support.eurogifts.com/help
+
+If you do not respond within the next 24 hours, this exclusive voucher will be revoked without notice.
+
+----=_NextPart_000_0000_01D9E4D0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> You have been <strong>selected</strong> to receive a <span style="font-size:1.2em;">€100 gift voucher</span>! This is a <em>limited time</em> offer that <strong>expires soon</strong>.</p>
+    <p>To claim your voucher, please <a href="http://secure.eurogifts-account.verify.id/claim">click here</a> immediately.</p>
+    <p>Alternately, you can visit our Privacy Policy and Help Center:</p>
+    <ul>
+      <li><a href="https://eurogifts.com/privacy-policy">Privacy Policy</a></li>
+      <li><a href="https://support.eurogifts.com/help">Help Center</a></li>
+    </ul>
+    <p>Direct link (copy and paste if necessary):</p>
+    <p>http://secure.eurogifts-account.verify.id/claim</p>
+    <p><a href="http://phish.eurogifts.verify.co.uk"></a></p>
+    <p><a href="http://images.eurogifts.verify.net/coupon">
+      <img src="http://cdn.eurogifts.verify.net/images/voucher.png" alt="Claim Your €100 Voucher" style="border:none;">
+    </a></p>
+    <p>Failing to act <strong>immediately</strong> will result in forfeiture of your voucher.</p>
+    <p>Best regards,<br/>EuroGifts Support Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_0000_01D9E4D0--

@@ -1,0 +1,30 @@
+From MAILER-DAEMON Mon Oct 25 21:50:34 2023
+Return-Path: <scam-notification@fake-rewards.com>
+Received: from 192.0.2.1 (192.0.2.1) by fake-rewards.com with SMTP; Mon, 25 Oct 2023 21:50:34 -0700
+Date: Mon, 25 Oct 2023 21:50:34 -0700
+From: Rewards Program <promo@fake-rewards.com>
+Subject: Act Now: You’ve Won a €500 Voucher!
+To: undisclosed-recipients:;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Don’t miss out! You've been selected to claim a €500 voucher. Act fast before it's too late. Visit now: http://192.0.2.76/redeem
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <h2 style="color: red;">URGENT: €500 Voucher Waiting for You!</h2>
+    <p>Congratulations! You have a <strong>€500 Gift Voucher</strong> to claim.</p>
+    <p>This is an exclusive offer and is only available for a limited time! Your immediate attention is required.</p>
+    <p>Click <a href="http://192.0.2.76/claim" target="_blank"></a> <a href="http://offer.fake-rewards.com/voucher">here</a> to secure your gift now!</p>
+    <p>Failure to act within 24 hours will result in the forfeiture of your voucher.</p>
+    <p>Verify <a href="http://www.fake-rewards.info/validation"></a> now and don't let this opportunity slip away!</p>
+  </body>
+</html>
+
+--boundary123--

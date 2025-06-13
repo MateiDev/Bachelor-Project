@@ -1,0 +1,57 @@
+From service@paypal.com Mon Jun 03 10:20:30 2024
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [198.51.100.1])
+    by inbound.example.org with ESMTP id 12345
+    for <user@domain.com>; Mon, 03 Jun 2024 10:20:30 +0000
+Received: from unknown (HELO phishhost) (203.0.113.5)
+    by mail.paypal.com with SMTP id 67890; Mon, 03 Jun 2024 10:20:25 +0000
+From: "PayPal" <service@paypal.com>
+Reply-To: contact@secure-paypal.com
+To: user@domain.com
+Subject: Urgent: Your PayPal Account Is Locked - Verify Now
+Date: Mon, 03 Jun 2024 10:20:25 +0000
+Message-ID: <cafed00d@paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Boundary_1_1685790025"
+
+--Boundary_1_1685790025
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account, and for your safety, it has been temporarily locked.
+Urgent action required! Please verify your account immediately by clicking one of the links below:
+
+https://www.paypal.com/signin
+http://192.0.2.123/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Thank you,
+PayPal Security Team
+
+--Boundary_1_1685790025
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Urgent action required:</strong> Your PayPal account has been <span style="color:red;">locked</span> due to suspicious activity.</p>
+    <p>Please verify your account immediately to avoid permanent suspension.</p>
+    <!-- Image-based Link -->
+    <p><a href="http://198.51.100.45"><img src="http://198.51.100.45/logo.png" alt="PayPal" style="border:none;"></a></p>
+    <!-- Empty visible link -->
+    <p><a href="http://203.0.113.10/verify"></a></p>
+    <!-- Generic anchor text -->
+    <p>Please <a href="http://192.0.2.123/verify">click here</a> to complete your account verification.</p>
+    <!-- Non-matching URLs: visible URL vs href -->
+    <p>Go to <a href="http://192.0.2.123/login">https://www.paypal.com/signin</a> to sign in now.</p>
+    <!-- Link with multiple dots -->
+    <p>Alternative login: <a href="http://login.paypal.secure.verify.id.phishdomain.com">login.paypal.secure.verify.id.phishdomain.com</a></p>
+    <p>Failure to act within 24 hours will result in account restriction.</p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+--Boundary_1_1685790025--

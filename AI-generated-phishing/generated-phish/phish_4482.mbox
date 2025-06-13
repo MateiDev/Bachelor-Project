@@ -1,0 +1,48 @@
+From s-noreply@dhldelivery.com Fri Jul  7 12:34:56 2023
+Return-Path: <s-noreply@dhldelivery.com>
+Received: from mail.dhldelivery.com (mail.dhldelivery.com [203.0.113.5]) by mx.example.com with ESMTP id ABC123DEF for <user@example.com>; Fri, 7 Jul 2023 12:34:56 +0000
+Date: Fri, 07 Jul 2023 12:34:56 +0000
+From: DHL Delivery <s-noreply@dhldelivery.com>
+Reply-To: support@secure-dhl.com
+Subject: URGENT: Delivery Notification
+Message-ID: <20230707123456.abcdef@mail.dhldelivery.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.165720569600000+0000"
+
+------=_Part_0_123456789.165720569600000+0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Your package is currently held at customs due to an unpaid service fee. To avoid immediate return and additional charges, you must pay the fee now. If you do not act within 24 hours, your shipment will be canceled.
+
+Track and pay here: http://192.168.1.23/track?ID=7XG5HT
+
+------=_Part_0_123456789.165720569600000+0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Delivery Notification</title>
+</head>
+<body>
+  <p><strong>Attention!</strong> Your package is on hold due to unpaid fees. Immediate action is required to release your shipment.</p>
+  <p>
+    <a href="http://198.51.100.45/update">http://www.dhl.com/secure-delivery</a>
+  </p>
+  <p>
+    Or verify now: <a href="http://192.0.2.123/verify"></a>
+  </p>
+  <p>
+    Click <a href="http://203.0.113.77/payment.gateway.verify.details.phishing.attacker.bad.com">here</a> to pay the fee.
+  </p>
+  <p>
+    <a href="http://198.51.100.45/privacy.policy"><img src="http://phish-images.attacker.net/logo.png" alt="Privacy Policy"></a>
+  </p>
+  <p>
+    For customer support, visit our <a href="http://mail.dhl.com/help">http://mail.dhl.com/help</a>.
+  </p>
+</body>
+</html>
+
+------=_Part_0_123456789.165720569600000+0000--

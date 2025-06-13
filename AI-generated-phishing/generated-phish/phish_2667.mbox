@@ -1,0 +1,44 @@
+```mbox
+From nobody Wed Oct 25 14:12:00 2023
+Return-Path: <support@randomsite.com>
+Delivered-To: user@example.com
+Received: by 10.0.0.1 with SMTP id d1csp12345qwd;
+        Wed, 25 Oct 2023 14:10:47 -0700 (PDT)
+Date: Wed, 25 Oct 2023 14:10:47 -0700 (PDT)
+From: Verification <support@randomsite.com>
+Reply-To: urgent-update@anotherdomain.com
+Subject: Claim your urgent reward now!
+To: user@example.com
+Content-Type: multipart/alternative; boundary="000000000000b1234567890edf1"
+
+--000000000000b1234567890edf1
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+Congratulations! You are eligible for a €100 voucher. This is a limited time offer and expires soon. Claim your reward below:
+
+<a href="http://192.0.2.1/login.php">https://secure.randomsite.com/claim</a>
+
+Hurry up before it's too late!
+
+Best regards,
+Support Team
+
+--000000000000b1234567890edf1
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>Congratulations! You are eligible for a €100 voucher. This is a limited time offer and expires soon. Claim your reward below:</p>
+    <p><a href="http://192.0.2.1/login.php"></a> <img src="http://example.com/voucher.jpg" alt="Claim your voucher now"></p>
+    <p>Please click the link to login: <a href="http://192.0.2.1/login.php">https://secure.randomsite.com/claim</a></p>
+    <p>Hurry up before it's too late!</p>
+    <br>
+    <p>Best regards,<br>Support Team</p>
+  </body>
+</html>
+
+--000000000000b1234567890edf1--
+```

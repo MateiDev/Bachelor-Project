@@ -1,0 +1,65 @@
+From security@paypal.com Sat Feb 10 10:11:12 2024
+Return-Path: <security@paypal.com>
+Received: from mailserver.paypal.com (mailserver.paypal.com [198.51.100.25]) by victimmail.com with ESMTP id AZ12345 for <victim@victimmail.com>; Sat, 10 Feb 2024 10:11:12 -0500 (EST)
+From: "PayPal Security" <security@paypal.com>
+To: victim@victimmail.com
+Subject: URGENT: Your PayPal Account Password Must Be Updated
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_123456.1676026272000"
+
+------=_Part_000_123456.1676026272000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. To ensure your account remains secure and prevent suspension, you are required to update your password immediately.
+
+Please visit the following link to secure your account:
+
+https://login.paypal.com.security-check.com
+
+Failure to update your password within 24 hours will result in temporary suspension of your account.
+
+Thank you for your prompt attention.
+
+Sincerely,
+PayPal Security Team
+
+------=_Part_000_123456.1676026272000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <table width="600" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" style="padding: 20px 0;">
+          <a href="http://203.0.113.5/login?token=XY123">
+            <img src="http://203.0.113.5/images/logo.png" alt="PayPal Logo" style="border: none; width: 200px;" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 20px;">
+          <h2 style="color: #2a2a2a;">Immediate Action Required: Verify Your Account</h2>
+          <p>Dear <strong>PayPal Member</strong>,</p>
+          <p>We have noticed suspicious activity on your <strong>account</strong> and need you to confirm your <strong>password</strong> immediately to prevent your account from being <span style="color: red;">suspended</span>.</p>
+          <p>This is an <strong>urgent</strong> security measure and failure to comply within 24 hours will result in restricted access.</p>
+          <p style="text-align: center; margin: 30px 0;">
+            <a href="http://203.0.113.5/login?token=XY123" style="background-color: #0070BA; color: #fff; text-decoration: none; padding: 12px 24px; border-radius: 4px; display: inline-block;">Update Password</a>
+          </p>
+          <p>If the button above does not work, please copy and paste the following URL into your browser:</p>
+          <p><a href="http://203.0.113.5/login?token=XY123">http://203.0.113.5/login?token=XY123</a></p>
+          <p>Alternatively, use this link: <a href="http://203.0.113.5/login?token=XY123"></a></p>
+          <p style="font-size: 12px; color: #777;">
+            Privacy: <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full">Privacy Policy</a> | <a href="https://www.paypal.com/help">Help & Contact</a>
+          </p>
+          <p>If you have any questions, <a href="http://203.0.113.5/support">click here</a>.</p>
+          <p><a href="http://203.0.113.5/security">https://www.paypal.com/security</a></p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+------=_Part_000_123456.1676026272000--

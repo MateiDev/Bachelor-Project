@@ -1,0 +1,46 @@
+From support@trusted.com Thu Mar 10 12:34:56 2022
+Return-Path: <support@trusted.com>
+Delivered-To: user@example.com
+Received: from mx.trusted.com (mx.trusted.com [198.51.100.2]) by inbound.trusted.com with ESMTP id ABC123 for <user@example.com>; Thu, 10 Mar 2022 12:34:56 +0000 (UTC)
+From: TrustBank Support <support@trusted.com>
+Reply-To: attacker@malicious.com
+To: user@example.com
+Subject: Urgent: Password Expires Today – Account Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY123=="
+
+--===============BOUNDARY123==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected on your account. Your password expires today.
+Please verify now by visiting the link below:
+
+https://secure.trusted.com/login
+
+If you do not verify your account, it will be suspended.
+
+For assistance, please visit our Privacy Policy: https://trusted.com/privacy
+
+Thank you,
+TrustBank Support
+
+--===============BOUNDARY123==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Unusual sign-in detected</strong> on your account. Your <strong>password expires today</strong>. Please <a href="http://203.0.113.5/reset">here</a> to verify now.</p>
+    <p><a href="http://198.51.100.23/confirm"></a></p>
+    <p>If you do not verify within 24 hours, your account will be suspended.</p>
+    <p>Login securely: <a href="http://192.0.2.45/login">https://secure.trusted.com/login</a></p>
+    <p>Need help? Visit our <a href="https://trusted.com/privacy">Privacy Policy</a> or <a href="https://trusted.com/help">Help Center</a>.</p>
+    <p>Thank you,<br>TrustBank Support</p>
+  </body>
+</html>
+
+--===============BOUNDARY123==--

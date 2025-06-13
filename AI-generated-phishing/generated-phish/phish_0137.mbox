@@ -1,0 +1,54 @@
+```
+From - Fri Oct 27 14:28:43 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <offers@rewardsclaim.com>
+Received: from mx1.rewardsclaim.com (mx1.rewardsclaim.com [192.0.2.50])
+	by mail.example.com (Postfix) with ESMTP id 1234567890abcdef;
+	Fri, 27 Oct 2023 10:00:00 -0700 (PDT)
+Received: from rewardsclaim.com (localhost [127.0.0.1])
+	by mx1.rewardsclaim.com (Postfix) with ESMTP id 09876abcde543210;
+	Fri, 27 Oct 2023 10:00:00 -0700 (PDT)
+Date: Fri, 27 Oct 2023 10:00:00 -0700
+From: "Rewards Team" <offers@rewardsclaim.com>
+Reply-To: noreply@secure-portal.com
+To: user@domain.com
+Subject: Urgent: Claim Your €100 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_12345_67890.abcdefg123456"
+
+------=_Part_12345_67890.abcdefg123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear valued customer,
+
+Congratulations! You have been selected to receive an exclusive €100 voucher. This is a limited-time offer, and you must claim your reward now to avoid losing it. Act fast!
+
+Due to high demand, this offer will expire soon. Click here to claim: https://secure.rewards-portal.com.claim.now
+
+Thank you for being a loyal customer.
+
+Best regards,
+Rewards Team
+
+------=_Part_12345_67890.abcdefg123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>Congratulations! You have been selected to receive an exclusive €100 voucher. This is a limited-time offer, and you must claim your reward now to avoid losing it. Act fast!</p>
+    <p>Due to high demand, this offer will expire soon. <a href="https://secure.rewards-portal.com.claim.now"></a></p>
+    <p>Thank you for being a loyal customer.</p>
+    <p>Best regards,<br/>Rewards Team</p>
+    <img src="https://click.here-now.images.com/track.gif" alt=""/>
+  </body>
+</html>
+
+------=_Part_12345_67890.abcdefg123456--
+```

@@ -1,0 +1,44 @@
+From security-update@paypal-notify.com Thu Jul 20 14:22:03 2023
+Date: Thu, 20 Jul 2023 14:22:03 +0000
+From: PayPal Security <security-update@paypal-notify.com>
+Reply-To: support@helpdesk-secure.com
+Subject: Urgent Account Password Reset & Voucher Claim
+Message-ID: <20230720142203.1@paypal-notify.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="abc123"
+
+--abc123
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity on your account and your password may be compromised. To secure your account and claim your complimentary €50 voucher, you must act within 24 hours or risk account suspension and losing this limited-time offer.
+
+Claim now:
+http://192.0.2.123/claim?uid=ABCD1234
+
+Or visit our secure site for more info:
+https://www.paypal.com/security
+
+Best regards,
+PayPal Security Team
+
+--abc123
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Urgent Security Alert!</strong> We recently noticed suspicious activity on your account and your password may be at risk. You are eligible for a <strong>€50 voucher</strong> to compensate for the inconvenience.</p>
+    <p><a href="https://voucher.claims.modal-domain.com/redeem?uid=ABCD1234"></a></p>
+    <p>Claim your voucher <a href="https://voucher.claims.modal-domain.com/redeem?uid=ABCD1234">here</a> within the next 24 hours or your claim will expire and your account will be locked if you delay.</p>
+    <p>If the link doesn’t work, copy and paste this URL into your browser:</p>
+    <p><a href="http://93.184.216.34/redeem?uid=ABCD1234">https://www.paypal.com/voucher-redeem</a></p>
+    <p>Need help? Visit our <a href="https://www.paypal.com/privacypolicy">Privacy Policy</a> or <a href="https://www.paypal.com/help">Help Center</a>.</p>
+    <p>Best regards,<br/>PayPal Security Team</p>
+  </body>
+</html>
+
+--abc123--

@@ -1,0 +1,50 @@
+From no-reply@ups.com Fri Jul 30 10:21:30 2021
+Return-Path: <tracking@ups-shipping.com>
+Received: by mail.deliveryservices.org id ab123; Fri, 30 Jul 2021 10:21:30 -0400
+Subject: Urgent: Action Required to Release Your Package
+From: "UPS Delivery" <tracking@ups-shipping.com>
+Reply-To: support@onlinedelivery-status.com
+To: user@domain.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345"
+
+----=_Part_123456_789012345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package could not be delivered due to an unpaid customs fee.
+This is a critical notice and must be resolved immediately, or your shipment
+will be returned to the sender.
+
+Please visit:
+1) https://www.ups.com/track?tracknum=AA123456789US
+2) https://www.ups.com/verify
+3) http://198.51.100.23/pay
+
+If you fail to act within 24 hours, delivery will be cancelled.
+
+Regards,
+UPS Delivery Team
+
+----=_Part_123456_789012345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;font-weight:bold;">URGENT: Your package is being held for customs clearance!</p>
+<p>Your shipment could not be delivered due to an unpaid customs fee.</p>
+<p>Check status at <a href="http://203.0.113.10/track">https://www.ups.com/track?tracknum=AA123456789US</a></p>
+<p>To verify your address, please visit <a href="http://203.0.113.10/verify">https://www.ups.com/verify</a></p>
+<p>To release your package, <a href="http://198.51.100.23/secure"></a><a href="http://198.51.100.23/confirm">click here</a> to pay the fee immediately.</p>
+<p>You can also review our <a href="https://www.ups.com/legal/privacy-policy">Privacy Policy</a> or <a href="http://malicious.testdomain.net/help">here</a> for more info.</p>
+<p><a href="http://192.0.2.45/confirm"><img src="http://tracker.gatewaydelivery.com/images/ups-shield.png" alt="Release Package" width="200" height="80"/></a></p>
+<p>If we do not receive your payment within the next <strong>12 HOURS</strong>, your package will be <span style="text-decoration:underline;">returned</span> to sender.</p>
+<p>Regards,<br/>UPS Delivery Team</p>
+</body>
+</html>
+
+----=_Part_123456_789012345--

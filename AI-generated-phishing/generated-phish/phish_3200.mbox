@@ -1,0 +1,50 @@
+From delivery@dhl-express.com Fri Sep 15 12:34:56 2023
+Return-Path: <delivery@dhl-express.com>
+Delivered-To: victim@example.com
+Received: by mail.example.com id abc123; Fri, 15 Sep 2023 12:34:56 +0000
+From: "DHL Express Delivery" <delivery@dhl-express.com>
+Reply-To: "Customer Support" <support@secure-logistics.net>
+To: victim@example.com
+Subject: URGENT: Password Verification Required for Your DHL Account
+Date: Fri, 15 Sep 2023 12:34:56 +0000
+Message-ID: <ABC123456789@dhl-express.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456"
+
+------=_Part_0_123456.7890123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery is on hold due to a pending password verification. Immediate action is required to avoid return and additional fees. Please verify now:
+
+http://dhl-verification.com
+
+Thank you for your prompt attention.
+
+Best regards,
+DHL Express Delivery Team
+
+------=_Part_0_123456.7890123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red;font-weight:bold;">Immediate Action Required!</p>
+    <p>Your package <strong>cannot be delivered</strong> until we verify your password for your DHL account.</p>
+    <p>Please <a href="http://secure-update.dhl-login.verify.com/update" style="text-decoration:none;">http://dhl-update.com</a> to complete verification.</p>
+    <p>Or click the empty link below if the above URL is inaccessible:<br>
+      <a href="http://malicious-domain.com/verify"></a>
+    </p>
+    <p>You may also track your shipment here:<br>
+      <a href="http://tracking.dhl.com/track?ref=ABC123" target="_blank">
+        <img src="http://images.dhl.com/logo.png" alt="DHL Tracking">
+      </a>
+    </p>
+    <p style="color:darkred;">Failure to verify within 24 hours will result in return to sender and late fees.</p>
+  </body>
+</html>
+
+------=_Part_0_123456.7890123456--

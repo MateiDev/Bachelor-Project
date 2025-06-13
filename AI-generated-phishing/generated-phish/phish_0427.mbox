@@ -1,0 +1,52 @@
+```
+From MAILER-DAEMON Fri Oct 13 14:47:08 2023
+Return-Path: <noreply@securemail-alert.com>
+Received: from mx1.securemail-alert.com (mx1.securemail-alert.com [198.51.100.2])
+        by mail.example.com with ESMTP id A1BCC7E3BC
+        for <user@example.com>; Fri, 13 Oct 2023 14:47:08 -0500 (CDT)
+Reply-To: support@security-update.com
+Date: Fri, 13 Oct 2023 14:47:05 -0500
+From: Security Alert <noreply@securemail-alert.com>
+To: user@example.com
+Subject: Urgent: Account Security Notice
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_456_123456789.123456789"
+
+------=_Part_456_123456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+There is an urgent issue with your account security. Please review the latest 
+security alert by clicking on the link below and secure your password immediately.
+
+[Link to Secure Portal](http://192.0.2.1/login)
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+Security Team
+
+------=_Part_456_123456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued User,</p>
+    <p>There is an urgent issue with your account security. Please review the latest 
+    security alert by clicking on the link below and secure your password immediately.</p>
+    <a href="http://192.0.2.1/login">
+      <img src="http://192.0.2.1/images/secure-login.png" alt="Secure Portal" />
+    </a>
+    <br>
+    <p>In case of any issues, contact our <a href="http://support.security-update.com">support team</a>.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Best regards,<br>Security Team</p>
+  </body>
+</html>
+
+------=_Part_456_123456789.123456789--
+```

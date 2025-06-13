@@ -1,0 +1,67 @@
+From delivery@dhl.com Sun Jun 23 14:15:00 2024
+Return-Path: <delivery@dhl.com>
+From: DHL Express <delivery@dhl.com>
+Reply-To: support@secure-checkups.com
+To: client@mycompany.com
+Subject: Urgent: Package Delivery Notification - Action Required
+Date: Sun, 23 Jun 2024 14:15:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT NOTICE! Your package is currently held due to unpaid shipping fees.
+Failure to pay within 24 hours will result in your parcel being returned
+to the sender and additional charges. Act immediately to avoid delays:
+
+Track & Pay: http://203.0.113.45/release?id=XYZ123
+
+If you have questions, contact support at:
+http://198.51.100.23/contact
+
+Sincerely,
+DHL Express Delivery Team
+
+--===============123456789==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Delivery Password Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>IMMEDIATE ACTION REQUIRED!</strong> Your package is <span style="color:red;">ON HOLD</span> due to unpaid fees. 
+If you do not <strong>settle the payment within 24 hours</strong>, your shipment will be <u>returned to the sender</u> and extra charges will apply.</p>
+
+<p>To <strong>release your package</strong>, click the secure link below:</p>
+<p><a href="http://203.0.113.45/release?id=XYZ123">http://www.dhl.com/track</a></p>
+
+<p>Or click <a href="http://198.51.100.23/payment">here</a> to proceed.</p>
+
+<p>Verify details at:</p>
+<p><a href="https://sub.deliver.notification.dhl.com/update.password.reset?ref=abc.def.ghi">
+https://sub.deliver.notification.dhl.com/update.password.reset?ref=abc.def.ghi</a></p>
+
+<p>If the link fails, copy and paste:</p>
+<p>http://192.0.2.10/invoice.verify.php?order=XYZ123</p>
+
+<!-- Empty anchor for tracking -->
+<a href="http://malicious.evil-domain.com/void"></a>
+
+<!-- Image-based link -->
+<p><a href="http://192.0.2.10/invoice"><img src="http://assets.dhl-files.com/logo.png" alt="DHL Express Logo"></a></p>
+
+<p>If you believe this is an error, contact support immediately.</p>
+
+<p>Best regards,<br>
+DHL Express Delivery Team</p>
+</body>
+</html>
+
+--===============123456789==--

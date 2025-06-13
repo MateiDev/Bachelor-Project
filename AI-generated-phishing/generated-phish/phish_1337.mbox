@@ -1,0 +1,33 @@
+From support@bank.com Tue Apr  4 14:33:21 2023
+Return-Path: <bounce+12345@bank.com>
+Delivered-To: victim@example.org
+Received: from mail.bank.com (mail.bank.com [203.0.113.1])
+    by mx.example.org with ESMTP id ABC123DEF456
+    for <victim@example.org>; Tue, 04 Apr 2023 14:33:21 -0400
+Message-ID: <20230404143321.12345@mail.bank.com>
+Date: Tue, 04 Apr 2023 14:33:21 -0400
+From: "Bank Support" <support@bank.com>
+Reply-To: security@secure-alerts.com
+To: victim@example.org
+Subject: Urgent Security Alert: Unusual Sign-In Detected - Verify Now
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Urgent Action Required:</strong> We detected an <em>unusual sign-in attempt</em> from IP address 192.0.2.50 on your account. As a security measure, <span style="color:red">your password expires today – reset immediately</span> or your account will be locked.</p>
+<p>Please <a href="http://192.168.0.1/verify?user=12345"></a>verify now</p>
+<p>Click the secure link below to reset your password:</p>
+<ul>
+  <li><a href="http://secure.account.verify.bank.fraudsite.com/login">Reset Password</a></li>
+  <li><a href="http://45.67.89.123/reset?token=abcdef"></a></li>
+  <li><a href="http://safe.bank.security-check.fraudsite.co.uk/security">Security Center</a></li>
+</ul>
+<p>Or use the button below:</p>
+<p><a href="http://45.67.89.123/reset?token=abcdef"><img src="http://192.0.2.50/images/secure.png" alt="Reset"/></a></p>
+<p>If you did not initiate this action, contact our Support Team immediately to avoid service interruption.</p>
+<p>Thank you,<br>
+Bank Security Team</p>
+</body>
+</html>

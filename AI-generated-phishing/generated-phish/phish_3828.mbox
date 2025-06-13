@@ -1,0 +1,58 @@
+From phishing-alert@mailer.testcorp.com Mon Jan 25 11:30:00 2021
+Subject: URGENT: Your Account Password Expires Today – Verify Immediately
+From: "Security Alert" <no-reply@secure-banking.com>
+Reply-To: it-security@helpdesk.company.net
+To: user@personalmail.com
+Date: Mon, 25 Jan 2021 11:30:00 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_123456"
+
+----=_Boundary_123456
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account.
+Your password is set to expire today. Your account will be locked in 24 hours if you do not take action immediately.
+
+Please verify your identity and reset your password by visiting the link below:
+
+http://192.168.1.100/reset?uid=abc123
+
+Alternatively, you may click here:
+http://secure.login.proxy.bank.acme.testcorp.com/verify?uid=abc123
+
+For help, see http://help.company.net/support or our Privacy Policy at http://help.company.net/privacy.
+
+Thank you,
+Security Team
+
+----=_Boundary_123456
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Alert: Password Expiration URGENT Notice</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;font-weight:bold;">Unusual sign-in detected on your account.</p>
+<p>Your password expires <strong>today</strong>. <span style="color:red;">Reset immediately</span> to avoid account lockout within 24 hours.</p>
+<p>
+  <a href="http://192.168.1.100/reset?uid=abc123"></a>
+  <a href="http://secure.login.proxy.bank.acme.testcorp.com/verify?uid=abc123">click here</a> to verify now.
+</p>
+<p>
+  <a href="http://modal.popup.com/verify?token=xyz789">here</a> to access the secure portal.
+</p>
+<p>
+  <a href="http://modal.popup.com/verify?token=xyz789"><img src="http://192.168.1.101/images/banner.png" alt="Security Update"></a>
+</p>
+<p>For assistance, visit our <a href="http://help.company.net/support">Help Center</a> or review our <a href="http://help.company.net/privacy">Privacy Policy</a>.</p>
+<p>Thank you,<br/>Security Team</p>
+</body>
+</html>
+
+----=_Boundary_123456--

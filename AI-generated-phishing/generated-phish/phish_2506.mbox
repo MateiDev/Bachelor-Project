@@ -1,0 +1,49 @@
+```
+From phishing@exampletaxrefunds.com Fri Oct  6 09:15:00 2023
+Return-Path: <phishing@exampletaxrefunds.com>
+Received: from suspicious-ip ([192.168.1.100])
+	by mail.example.com with ESMTP id A1BCD2E3F4
+	for <victim@example.com>; Fri, 6 Oct 2023 09:15:00 -0500
+Date: Fri, 6 Oct 2023 09:15:00 -0500
+From: "Tax Refund Dept" <noreply@securetaxrefunds.com>
+Reply-To: urgent@financial-queries.com
+Subject: Urgent: Verify Your Tax Refund Details
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_001D_01D4C6F6.8B9E1A20"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_001D_01D4C6F6.8B9E1A20
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your tax refund and a small amount is pending on your account. To receive your refund, please confirm your bank details immediately to avoid any delay.
+
+Click here: http://192.168.1.101/secureverify
+
+For any questions, contact: <http://securetaxrefunds.com>
+
+Thank you,
+Tax Refund Department
+
+------=_NextPart_000_001D_01D4C6F6.8B9E1A20
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have processed your tax refund and a small amount is pending on your account. To receive your refund, please confirm your bank details <strong>immediately</strong> to avoid any delay.</p>
+<p><a href="http://192.168.1.101/secureverify">Click here</a> to confirm.</p>
+<p>For any questions, contact: <a href="">http://securetaxrefunds.com</a></p>
+<p>Thank you,<br />Tax Refund Department</p>
+</body>
+</html>
+
+------=_NextPart_000_001D_01D4C6F6.8B9E1A20--
+```

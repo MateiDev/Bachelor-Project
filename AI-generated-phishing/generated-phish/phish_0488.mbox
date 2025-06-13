@@ -1,0 +1,46 @@
+```
+From testemail@deliveryservice.com Mon Oct  2 14:23:45 2023
+Return-Path: <testemail@deliveryservice.com>
+Delivered-To: user@example.com
+Received: from mail.deliveryservice.com (mail.deliveryservice.com [192.0.2.1])
+	by mail.example.com with ESMTP id 1KHVfj-0006Gg-7j
+	for <user@example.com>; Mon, 02 Oct 2023 14:23:45 -0700
+Subject: Urgent: Action Required for Your Held Package
+To: user@example.com
+From: Delivery Service <testemail@deliveryservice.com>
+Date: Mon, 02 Oct 2023 17:23:45 -0400
+Content-Type: multipart/alternative; boundary="BoundaryString"
+
+--BoundaryString
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your package is on hold due to an incomplete delivery fee. Please act immediately to release your package. Visit the link below:
+
+http://delivery-service.com.trace.verification.success@8765.track.package-status
+
+Thank you,
+Delivery Service Team
+
+--BoundaryString
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is on hold due to an incomplete delivery fee. Please <strong>act immediately</strong> to release your package. Verify here:</p>
+    <p>
+      <a href="http://delivery-service.com.trace.verification.success@8765.track.package-status" style="color:#ffffff;">Check Package Status</a>
+    </p>
+    <p>
+      <a href="http://delivery-service.com.trace.verification.success@8765.track.package-status">
+        <img src="http://fakeimage.com/track.png" alt="Track Image" />
+      </a>
+    </p>
+    <p>Thank you,<br>Delivery Service Team</p>
+  </body>
+</html>
+
+--BoundaryString--
+```

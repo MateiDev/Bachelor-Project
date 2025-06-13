@@ -1,0 +1,45 @@
+From phishing@rewards-service.com Sat Jul 13 15:29:00 2024
+From: Rewards Notification <no-reply@rewards-service.com>
+Reply-To: support@secure-services.net
+Subject: URGENT: Your Account Password May Be Compromised – Claim Your €100 Reward Now!
+Date: Sat, 13 Jul 2024 15:29:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="---BOUNDARY---"
+
+---BOUNDARY---
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Congratulations! You are eligible for a 100 EUR gift voucher.
+Please verify your details immediately to avoid suspension of your account.
+
+Click here: https://service-secure.com/claim
+Or visit: http://192.0.2.123/confirm
+Privacy Policy: https://help.security.update.service.com/privacy-policy
+
+If you do not verify within 24 hours, your password will be permanently locked.
+
+Best regards,
+Rewards Team
+
+---BOUNDARY---
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Congratulations! You are <strong>eligible for a 100 EUR gift voucher</strong>. Please verify your details <span style="color:red;">immediately</span> to avoid suspension of your account.</p>
+    <ul>
+      <li><a href="http://192.0.2.123/confirm">click here</a> to confirm your reward.</li>
+      <li><a href="http://192.0.2.123/confirm">https://service-secure.com/claim</a></li>
+      <li><a href="https://help.security.update.service.com/privacy-policy">Privacy Policy</a></li>
+    </ul>
+    <p>If you do not verify within 24 hours, your password will be permanently locked.</p>
+    <p>Best regards,<br/>Rewards Team</p>
+  </body>
+</html>
+
+---BOUNDARY---

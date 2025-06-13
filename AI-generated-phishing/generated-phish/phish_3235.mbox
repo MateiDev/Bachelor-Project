@@ -1,0 +1,51 @@
+From security@yourbank.com Wed Jan 01 12:34:56 2024
+Subject: Urgent: Account Password Verification Required
+To: user@domain.com
+Reply-To: support@secure-mail-update.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.6789012345"
+
+------=_Part_123456_789012345.6789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account. For security reasons, we require you to verify your password immediately. Please visit the secure portal by clicking the link below:
+
+https://yourbank.com/account/verify
+
+Thank you,
+Your Bank Security Team
+
+------=_Part_123456_789012345.6789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Update</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Our system has flagged suspicious activity on your <b>account</b>. To avoid suspension, please verify your credentials using our secure portal below:</p>
+<p>
+  <a href="http://203.0.113.5/verify"><img src="http://192.168.100.50/logo.png" alt="Secure Portal"></a>
+</p>
+<p>
+  Alternatively, <a href="http://198.51.100.23/"> </a> to proceed to the verification page.
+</p>
+<p>
+  To reset your password directly, <a href="http://198.51.100.23/password-reset">https://yourbank.com/account/reset-password</a>
+</p>
+<p>
+  For assistance, <a href="http://203.0.113.5/help">click here</a>
+</p>
+<p>
+  Privacy Policy: <a href="http://yourbank.com/privacy">Privacy Policy</a> | <a href="http://203.0.113.5/legal">Terms of Service</a>
+</p>
+<p>Thank you,<br>Your Bank Security Team</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.6789012345--

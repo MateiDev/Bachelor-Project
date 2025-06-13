@@ -1,0 +1,28 @@
+From phishing@mailer.voucher Tue Jun 25 10:30:00 2024
+Return-Path: <phishing@mailer.voucher>
+Delivered-To: victim@domain.com
+Received: by mail.domain.com with SMTP id abc123; Tue, 25 Jun 2024 10:30:00 +0200
+From: "Support Team" <support@mailer.voucher>
+To: victim@domain.com
+Subject: URGENT: Verify Your Account Password to Claim €50 Voucher
+Date: Tue, 25 Jun 2024 10:30:00 +0200
+Message-ID: <20240625103000.abc123@mailing.voucher>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head><title>Password Verification Required</title></head>
+<body>
+<p>Dear User,</p>
+<p>We noticed an issue with your account password. Immediate action is required to secure your account.</p>
+<p>You have been selected as a valued customer and you’re eligible for a €50 voucher! This voucher will expire soon, so you must claim it immediately.</p>
+<p><a href="http://promo.safe-claim.net/redeem" title="Redeem Voucher">click here</a> to unlock your reward.</p>
+<p>Alternatively, you can use the voucher by clicking on the image below:</p>
+<p><a href="http://secure.voucher.claims.europe-vip.com"><img src="http://images.trustedserver.net/voucher.jpg" alt="Your Voucher"></a></p>
+<p>If the above link doesn't work, please <a href="http://malicious-domain.com/voucher.pdf"></a>.</p>
+<p>You can also paste the following URL into your browser:</p>
+<p><a href="http://promo.safe-claim.net/redeem">https://account.vou-chers.com</a></p>
+<p>Failure to verify may result in suspension of your account.</p>
+<p>Best regards,<br>Customer Support Team</p>
+</body>
+</html>

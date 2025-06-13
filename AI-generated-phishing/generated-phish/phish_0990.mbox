@@ -1,0 +1,24 @@
+From rewards@retailplus.com Mon Jul 08 09:15:00 2024
+Return-Path: <rewards@retailplus.com>
+Received: from mail.retailplus.com (mail.retailplus.com [192.0.2.50]) by mx.victimserver.com with ESMTP id XYZ123 for <user@victimmail.com>; Mon, 08 Jul 2024 09:15:00 +0200
+Message-ID: <20240708091500.1@mail.retailplus.com>
+Date: Mon, 08 Jul 2024 09:15:00 +0200
+From: "RetailPlus Rewards" <rewards@retailplus.com>
+To: user@victimmail.com
+Subject: urgent: Verify your account now to claim €50 voucher
+Reply-To: <support@secure-login.net>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear customer,</p>
+    <p>Congratulations! You’re eligible for a €50 reward voucher.</p>
+    <p>To activate your voucher, you must verify your account within 24 hours, otherwise this offer will expire.</p>
+    <p><a href="http://secure-login.company.secure.company.org/verify?token=abcd1234">click here</a> to verify now.</p>
+    <p>Or go to <a href="http://offers.phishingsite.info/activate">www.retailplus.com/claim</a> to claim your voucher.</p>
+    <p><a href="http://help.retailplus.com/privacy-policy">Privacy Policy</a> | <a href="http://help.retailplus.com/support">Help Center</a></p>
+    <p><a href="http://offers.phishingsite.info/activate"><img src="http://cdn-assets.retailplus.net/voucher-banner.jpg" alt="Claim your voucher" border="0" /></a></p>
+    <p>Thank you,<br/>RetailPlus Rewards Team</p>
+  </body>
+</html>

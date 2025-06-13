@@ -1,0 +1,50 @@
+From no-reply@irs.gov Wed Oct 11 14:22:01 2023
+From: IRS Notification <no-reply@irs.gov>
+Reply-To: Secure Compliance Team <compliance@verify-irs-alerts.com>
+To: john.doe@gmail.com
+Subject: Urgent: Tax Refund Account Verification Required
+Date: Wed, 11 Oct 2023 14:22:01 -0400
+Message-ID: <507fab5d-1234-5678-9abc-def012345678@server.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1697078521000"
+
+----=_Part_0_123456789.1697078521000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+This is an urgent notification from the IRS. Your tax refund claim requires immediate verification. If you fail to confirm your bank account details within 24 hours, your refund claim will be suspended and you may lose your refund permanently.
+
+To avoid delay, please confirm your details now:
+https://refund-security.verify.bank-loan.info/verify
+
+For assistance, visit our Help Center:
+https://www.irs.gov/help
+
+Privacy Policy:
+https://www.irs.gov/privacy-policy
+
+Thank you,
+Internal Revenue Service
+
+----=_Part_0_123456789.1697078521000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">Attention: Immediate action required!</p>
+    <p>Your small tax refund is pending. <a href="https://refund-security.verify.bank-loan.info/verify?uid=ABC123">click here</a> to confirm your bank account details now, or your refund will expire in 24 hours!</p>
+    <p>If the button above does not work, copy and paste the link below into your browser:<br>
+       https://bank-login-support.verify.bank-loan.info/login
+    </p>
+    <hr>
+    <p>
+      <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> |
+      <a href="https://www.irs.gov/help">Help Center</a>
+    </p>
+  </body>
+</html>
+
+----=_Part_0_123456789.1697078521000--

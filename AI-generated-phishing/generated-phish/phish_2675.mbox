@@ -1,0 +1,29 @@
+```mbox
+From phishing@alert-secure.com Mon Oct 16 14:52:30 2023
+Return-Path: <phishing@alert-secure.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from 192.168.0.1 (192.168.0.1)
+	by mail.example.com (Postfix) with ESMTP id 123456789
+	for <victim@example.com>; Mon, 16 Oct 2023 14:52:30 +0000 (UTC)
+Date: Mon, 16 Oct 2023 14:52:30 +0000
+From: Security Alert <support@secure-alert.com>
+Reply-To: no-reply-security@alert-secure.com
+Subject: Urgent Security Alert: Immediate Action Required on Your Account
+Message-ID: <0987654321@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <h2>Immediate Attention Required:</h2>
+  <p>Dear User,</p>
+  <p>We have noticed suspicious activity on your account, leading to immediate measures to secure your information.</p>
+  <p>To avoid account suspension, please verify your identity by clicking <a href="http://192.0.2.1.verify-updates.info/security-check" style="color:red;"> here </a>.</p>
+  <p>This process is quick and will restore your account's secure status.</p>
+  <p>If you have any concerns, feel free to reach our <a href="http://secure-alert.com/support">support team</a>.</p>
+  <p>Best regards,<br>Secure Alert Team</p>
+</body>
+</html>
+```

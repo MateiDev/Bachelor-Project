@@ -1,0 +1,54 @@
+From MAILER-DAEMON Fri Jul  5 10:00:00 2024
+Return-Path: <notifications@dhl-shipping.com>
+Received: from mail.dhl-shipping.com (203.0.113.25) by mail.dhl-shipping.com (8.14.7/8.14.7) with ESMTP id ABC123DEF for <customer@domain.com>; Fri, 5 Jul 2024 10:00:00 +0000
+From: "DHL Delivery Notifications" <notifications@dhl-shipping.com>
+Reply-To: billing@urgent-dhl-help.com
+To: customer@domain.com
+Subject: URGENT DELIVERY NOTICE: ACTION REQUIRED IMMEDIATELY
+Date: Fri, 05 Jul 2024 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_Boundary123456"
+
+--=_Boundary123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Your recent shipment is currently ON HOLD due to unpaid customs fees. Immediate action is required to avoid PERMANENT RETURN or additional LATE FEES.
+
+Please visit one of the following links within 24 hours:
+http://198.51.100.45/dhl/confirm?tracking=Z12345
+http://track.dhl-shipping-update.co.uk.payments.dhlsecure.net/resolve?ref=Z12345
+
+Failure to comply will result in the shipment being returned to sender without further notice.
+
+Thank you,
+DHL Customer Service
+
+--=_Boundary123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear <strong>Valued Customer</strong>,</p>
+    <p style="color:red; font-weight:bold;">YOUR SHIPMENT IS ON HOLD!</p>
+    <p>This notice serves as <span style="text-decoration:underline;">AN URGENT ALERT</span>. You must settle the customs fee within <strong>24 HOURS</strong> to prevent:</p>
+    <ul>
+      <li>Permanent Return of your package</li>
+      <li>Additional Late Fees</li>
+    </ul>
+    <p><a href="http://198.51.100.45/dhl/confirm?tracking=Z12345">Click here to confirm your shipment</a></p>
+    <p>Or view your package status here:<br/>
+       <a href="http://track.dhl-shipping-update.co.uk.payments.dhlsecure.net/resolve?ref=Z12345">
+         <img src="http://203.0.113.200/assets/resolve-button.png" alt="Resolve Now" border="0"/>
+       </a>
+    </p>
+    <p>Failure to act will result in <em>automatic return</em> of your parcel.</p>
+    <p>Regards,<br/>
+    DHL Customer Service</p>
+  </body>
+</html>
+
+--=_Boundary123456--

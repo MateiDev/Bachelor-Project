@@ -1,0 +1,29 @@
+```mbox
+From fakebank@example.com Tue Oct  3 10:10:10 2023
+Return-Path: <fakebank@example.com>
+Received: from [192.0.2.1] (unknown [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 1234567890
+    for <user@example.com>; Tue,  3 Oct 2023 10:10:10 +0000 (UTC)
+Date: Tue, 3 Oct 2023 10:10:10 +0000
+From: FakeBank Support <fakebank@example.com>
+Reply-To: rewards@phonyrewards.com
+Subject: Urgent: Claim Your €500 Gift Card Now!
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We are pleased to inform you that you are eligible to receive a special <b>€500 gift card</b> from our recent promotional draw. To claim your reward, please </p>
+<a href="http://192.0.2.1/rewards"><img src="http://192.0.2.1/image.png" alt="Claim Now"></a>
+<p>.</p>
+<p>For more information about how you can use your gift card, please visit our <a href="http://192.0.2.2/faq"></a> page.</p>
+<p>Don’t miss out on this limited-time offer! <a href="http://192.0.2.1/urgent"></a></p>
+<p>Best regards,</p>
+<p>FakeBank Customer Service</p>
+<img src="http://192.0.2.3/trustseal.png" alt="Trust Seal">
+<p>Note: This offer is only valid for the next 24 hours. Please act fast to secure your gift card.</p>
+</body>
+</html>
+```

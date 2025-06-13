@@ -1,0 +1,57 @@
+From MAILER-DAEMON Fri Jul 07 12:34:56 2023
+Return-Path: <no-reply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1])
+    by mail.example.com with ESMTP id ABC123DEF
+    for <user@example.com>; Fri, 07 Jul 2023 12:34:56 +0000
+From: DHL Delivery <no-reply@dhl.com>
+Reply-To: support@dhl-secure.service.net
+To: user@example.com
+Subject: Urgent Notice: Delivery Held - Verify Your Account Password Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000001a2b3c4d5e"
+
+--0000000000001a2b3c4d5e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery is currently on hold due to an issue with your account. Immediate action is required to avoid the return of your parcel.
+
+Please visit the links below to verify your shipment details:
+
+- https://secure.dhl.com.delivery-update.info/verify?id=12345
+- https://dhl-verify-service.net/update/account?ref=7890
+
+Failure to complete this process within 24 hours will result in the cancellation of your delivery.
+
+Sincerely,
+DHL Customer Support Team
+
+--0000000000001a2b3c4d5e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;">
+      <strong>Your package delivery is currently <span style="text-decoration:underline;">on hold</span> due to an issue with your <em>account</em>.
+      <strong>Immediate Action Required!</strong></strong>
+    </p>
+    <p>Please click the image below to verify your shipment details:</p>
+    <p>
+      <a href="https://secure.dhl.com.delivery-update.info/verify?id=12345">
+        <img src="https://dhl-updates.com/images/verify_package.png" alt="Verify Package" style="border:0;">
+      </a>
+    </p>
+    <p>Alternatively, you can use this link: 
+      <a href="https://dhl-verify-service.net/update/account?ref=7890">Verify Delivery Now</a>
+    </p>
+    <p><small>Failure to complete this process within 24 hours will result in the cancellation of your delivery.</small></p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>DHL Customer Support Team</p>
+  </body>
+</html>
+
+--0000000000001a2b3c4d5e--

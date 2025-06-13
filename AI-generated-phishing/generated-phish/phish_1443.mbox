@@ -1,0 +1,35 @@
+From no-reply@dhl-express.com Sat Jun 22 10:15:00 2024
+From: "DHL Express" <no-reply@dhl-express.com>
+Reply-To: support@help.dhlvoucherupdate.com
+To: user@example.org
+Subject: URGENT: Account Password Verification Required for Your DHL Delivery
+Message-ID: <20240622101500.12345@dhl-express.com>
+Date: Sat, 22 Jun 2024 10:15:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package but were unable to complete the delivery due to an <strong>urgent</strong> <em>account</em> <em>password</em> verification requirement.</p>
+    <p>Please verify your credentials immediately to release your parcel:</p>
+    <p>
+      <a href="http://update.service.dhl-express.secure-server.com/verify?user=12345"></a>
+    </p>
+    <p>If the link above does not work, copy and paste one of the URLs below into your browser:</p>
+    <ul>
+      <li>http://198.51.100.5/dhl-release</li>
+      <li>https://www.dhl.express.com/track?ref=ABCD1234</li>
+      <li>http://update.service.dhl-secure.net/auth/reset</li>
+    </ul>
+    <p>Alternatively, click the logo to proceed:</p>
+    <p>
+      <a href="http://203.0.113.1/label">
+        <img src="http://198.51.100.5/images/dhl_logo.png" alt="DHL Logo" style="border:0;" />
+      </a>
+    </p>
+    <p>Failure to verify within 24 hours may result in shipment return or additional fees.</p>
+    <p>Thank you for choosing DHL Express.</p>
+    <p>— The DHL Express Team</p>
+  </body>
+</html>

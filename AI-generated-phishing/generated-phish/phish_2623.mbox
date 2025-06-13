@@ -1,0 +1,57 @@
+```
+From - Thu Oct 19 16:53:19 2023
+X-GM-THRID: 12456378
+X-Gmail-Labels: Important
+Delivered-To: victim@example.com
+Received: by 10.202.165.202 with SMTP id a72-v6csp2409324iof;
+        Thu, 19 Oct 2023 09:53:18 -0700 (PDT)
+Return-Path: <fake@secure-support.com>
+Received: from maliciousserver.com (maliciousserver.com. [192.168.1.1])
+        by mx.google.com with ESMTPS id z123-v6si2349877ioe.670.2023.10.19.09.53.18
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Thu, 19 Oct 2023 09:53:18 -0700 (PDT)
+Message-ID: <1234567890@mail.maliciousserver.com>
+Date: Thu, 19 Oct 2023 16:53:18 +0000
+From: Support Team <support@important-updates.fake>
+Reply-To: security-account@response.com
+To: victim@example.com
+Subject: Urgent: Update Your Account Login Information
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000edcc8805e705400f"
+
+--000000000000edcc8805e705400f
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected unusual activity in your account that requires immediate verification to prevent any disruption to your service. Please log in to your account as soon as possible to confirm your identity.
+
+Access your account securely via the following link: http://192.0.2.1/.secure/login
+
+Thank you for your prompt attention to this important matter.
+
+Best regards,
+Support Team
+
+--000000000000edcc8805e705400f
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+  <p>Dear Customer,</p>
+  <p>We have detected unusual activity in your account that requires immediate verification to prevent any disruption to your service. Please log in to your account as soon as possible to confirm your identity.</p>
+  <p>
+    <img src="http://192.0.2.1/.secure/update.png" alt="Secure Update">
+    <a href="http://192.0.2.1/.secure/login">Click Here to Secure Your Account</a>
+  </p>
+  <a href="http://192.0.2.1/">               </a>
+  <p>Thank you for your prompt attention to this important matter.</p>
+  <a href="https://www.yourservice.com/privacy-policy">Privacy Policy</a> | 
+  <a href="https://www.yourservice.com/help">Help</a>
+  <p>Best regards,<br>Support Team</p>
+</body>
+</html>
+
+--000000000000edcc8805e705400f--
+```

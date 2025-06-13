@@ -1,0 +1,42 @@
+From - Thu Oct 26 14:06:30 2023
+Return-Path: <noreply@security-alert.com>
+Received: from suspicious.domain.com (192.0.2.1) by mx.fakeemailprovider.com with SMTP; Thu, 26 Oct 2023 14:00:00 +0000
+Subject: Urgent - Action Required: Your Account Needs Immediate Attention!
+From: "Support Team" <support@secure-mail.com>
+Reply-To: <support@192.0.2.2>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your account. For your security, please verify your information immediately by following the link below:
+
+http://secure-login.com/account-update
+
+Failure to take action will result in your account being temporarily suspended.
+
+Thank you for your prompt attention to this urgent matter.
+
+Regards,
+The Support Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <b>unusual activity</b> on your account. For your security, please verify your information immediately by following the link below:</p>
+    <p><a href="http://192.0.2.2/verify">http://secure-login.com/account-update</a></p>
+    <p>Failure to take action will result in your account being temporarily suspended.</p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Regards,<br>The Support Team</p>
+    <a href="http://another-fake-url.com/login"></a>
+    <p>Visit <a href="http://help.fake-support.com/contact">our support site</a> for more information.</p>
+  </body>
+</html>
+
+--boundary123--

@@ -1,0 +1,42 @@
+```
+From - Fri Oct 27 15:23:44 2023
+X-Account-Key: account2
+X-UIDL: UID123-15927
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+Return-path: <alert-security@securemail.com>
+Envelope-to: victim@example.com
+Delivery-date: Fri, 27 Oct 2023 15:23:44 +0000
+Received: from unknown (HELO securemail.com) (203.0.113.80)
+    by mail.example.com with SMTP; Fri, 27 Oct 2023 15:23:44 +0000
+Received: by securemail.com (Postfix, from userid 502)
+    id 4D45F620; Fri, 27 Oct 2023 15:23:43 +0000 (UTC)
+Date: Fri, 27 Oct 2023 15:23:43 +0000
+From: Account Security <alert-security@securemail.com>
+Subject: Urgent: Unusual Sign-In Detected
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Message-ID: <20231027152343.4D45F620@securemail.com>
+X-Spam-Status: No, score=-2.6
+X-Spam-Checker-Version: SpamAssassin 3.4.0
+X-Spam-Level: 
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>We have detected an <strong>unusual sign-in attempt</strong> on your account. To ensure the <strong>safety</strong> of your account, you must <strong>verify</strong> your information <strong>immediately</strong>. Failing to do so will result in your account being <strong>suspended</strong>.</p>
+
+<p>Please<a href="http://maliciouswebsite.com/verify?account=123456"> </a>to verify your account now.</p>
+
+<p>Otherwise, visit our website: <a href="http://accounts.example.com">accounts.example.com</a> to verify your details.</p>
+
+<p>For more information, please refer to our <a href="http://securemail.com/privacy-policy">privacy policy</a>.</p>
+
+<p>Regards,<br>
+Customer Support Team</p>
+
+</body>
+</html>
+```

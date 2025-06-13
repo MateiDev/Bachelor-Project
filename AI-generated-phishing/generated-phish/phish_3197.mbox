@@ -1,0 +1,55 @@
+From noreply@trustedreward.com Mon Jul  5 12:34:56 2021
+Return-Path: <noreply@trustedreward.com>
+Received: from mail.trustedreward.com (mail.trustedreward.com [198.51.100.25])
+    by mx.example.com with ESMTP id ABCDE12345;
+    Mon,  5 Jul 2021 12:34:56 +0200
+Message-ID: <20210705123456.abcdef@mail.trustedreward.com>
+Date: Mon,  5 Jul 2021 12:34:56 +0200
+From: "Trusted Rewards" <noreply@trustedreward.com>
+To: user@example.com
+Subject: URGENT: Your Account is Eligible for €50 Voucher!
+Reply-To: support@malicious-backend.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+------=_NextPart_000_0000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been selected for a €50 reward voucher. Act now, this offer expires soon!
+
+Claim your gift card by visiting the link below:
+http://123.45.67.89/claim?uid=abcd
+
+If you need assistance, see our help page:
+https://trustedreward.com/help
+
+Thank you,
+Trusted Rewards Team
+
+------=_NextPart_000_0000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Your Account is Eligible for €50 Voucher!</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Congratulations!</strong> You have been selected for a <span style="color:#d0454c;">€50</span> reward voucher. <span style="color:red;font-weight:bold;">Act now!</span> Your voucher <em>expires</em> soon!</p>
+<p><img src="http://123.45.67.89/images/voucher_offer.png" alt="Voucher Offer" /></p>
+<p>To claim your voucher, please <a href="http://123.45.67.89/claim?uid=abcd">click here</a>.</p>
+<p>If the above link doesn’t work, copy and paste this into your browser:<br/>
+http://offers.modal.domain.com/voucher/redeem?uid=abcd</p>
+<p>For assistance, visit our <a href="https://trustedreward.com/help">help page</a> or read our <a href="https://trustedreward.com/privacy-policy">Privacy Policy</a>.</p>
+<p>If you encounter issues, click <a href="http://198.51.100.100/promo.png">here</a> for troubleshooting.</p>
+<p>Don't miss out on this opportunity to claim your reward!</p>
+<p>Best regards,<br/>
+Trusted Rewards Team</p>
+</body>
+</html>
+
+------=_NextPart_000_0000--

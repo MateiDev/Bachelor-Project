@@ -1,0 +1,56 @@
+From noreply@tax-refundservice.gov Thu Jun 13 10:20:30 2024
+From: "Tax Department" <noreply@tax-refundservice.gov>
+Reply-To: "Support Team" <support@verify-tax.gov>
+To: victim@domain.com
+Subject: URGENT: Tax Refund Account Verification Required
+Date: Thu, 13 Jun 2024 10:20:30 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456"
+
+----=_Part_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate that you are eligible for a small tax refund. This is an URGENT notification—your account must be verified IMMEDIATELY to avoid delay or cancellation of your refund. Failure to confirm your bank details will result in forfeiture of your refund.
+
+Please confirm here:
+http://1.2.3.4/confirm?txid=ABC123
+or copy and paste the link below into your browser:
+http://198.51.100.23/login.secure.verify.refund
+
+For assistance, visit our help page:
+https://tax-refund.gov/help
+
+Thank you for your prompt attention.
+
+Tax Department
+----=_Part_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Tax Refund Account Verification Required</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p style="color:red; font-weight:bold;">This is an <strong>urgent</strong> security alert regarding your <em>account</em>.</p>
+<p>According to our records, you are eligible for a <strong>small refund</strong>. To receive your refund, you MUST confirm your bank details immediately. Failure to complete verification within 24 hours will result in forfeiture of your refund.</p>
+<p>Please verify your details using one of the options below:</p>
+<ul>
+<li>Verify via secure page: <a href="http://1.2.3.4/verify?ref=TX123">https://secure.tax-refund.gov/verify</a></li>
+<li>Direct confirmation: <a href="http://5.6.7.8/confirm-info">https://tax-refund-service.gov/confirm</a></li>
+<li><a href="http://malicious.verify-refund.net/action">click here</a> to verify now</li>
+<li><a href="http://198.51.100.23/login.secure.verify.refund"></a></li>
+<li><a href="http://203.0.113.5/update"></a></li>
+</ul>
+<p>If you have any issues, please refer to our <a href="https://www.taxgov.gov/privacy-policy.html">Privacy Policy</a> or <a href="https://www.taxgov.gov/help.html">Help Center</a>.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Tax Department<br>
+    <small>Do not reply to this automated message.</small>
+</p>
+</body>
+</html>
+----=_Part_123456--

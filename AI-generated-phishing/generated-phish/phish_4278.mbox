@@ -1,0 +1,51 @@
+From notifications@bankalert.com Thu Aug  3 12:34:56 2023
+Return-Path: <notifications@bankalert.com>
+Received: from mail.bankalert.com (mail.bankalert.com [203.0.113.10])
+    by inbound.mailserver.com with ESMTP id abc123def
+    for <user@domain.com>; Thu,  3 Aug 2023 12:34:56 -0400
+From: "Bank Alerts" <notifications@bankalert.com>
+Reply-To: support@secure-update.com
+To: user@domain.com
+Subject: Urgent: Account Password Expires Today – Action Required
+Date: Thu, 3 Aug 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1596240000000"
+
+------=_Part_123456_789012345.1596240000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We detected an unusual sign-in attempt on your account. Your account password expires today. You must reset your password immediately to avoid suspension.
+
+Visit https://secure.bankalert.com/reset to secure access.
+
+Thank you,
+Bank Support Team
+
+------=_Part_123456_789012345.1596240000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Expiration Notice</title>
+</head>
+<body>
+<p style="color:red; font-weight:bold;">Urgent Action Required</p>
+<p>Dear Valued Customer,</p>
+<p>We have detected an <strong>unusual sign-in</strong> attempt on your <em>account</em>. Your password expires <strong>today</strong>. You must reset your password immediately to avoid suspension.</p>
+<p><a href="http://192.0.2.45/reset">Reset Your Password Now</a></p>
+<p>You can also verify your account here:
+<a href="http://secure-update.com/verify">http://secure.verify.bankalert.com/login</a>
+</p>
+<p>Or click here to update:
+<a href="http://phishersite.com/update"></a>
+<a href="http://mail.login.bankalert.com/confirm"><img src="http://45.33.21.200/images/confirm.png" alt="Confirm" style="border:none;"></a>
+</p>
+<p>Thank you,<br>Bank Alert Team</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.1596240000000--

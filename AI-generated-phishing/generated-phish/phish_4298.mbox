@@ -1,0 +1,51 @@
+From support@banking-updates.com Sat Jan 15 10:15:00 2022
+Subject: Urgent: Refund Pending for Your Account
+From: "Banking Support" <support@banking-updates.com>
+To: user@victim.com
+Date: Sat, 15 Jan 2022 10:15:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="MSG_BOUNDARY"
+
+--MSG_BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have a pending tax refund of $83.21 waiting for you. This is your final notice. To avoid losing your funds, please confirm your bank account details within 48 hours.
+
+Verify here: https://banking.com/login
+
+Failure to act immediately will result in irreversible cancellation of your refund.
+
+Thank you,
+Banking Support Team
+
+--MSG_BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Your small tax refund of <span style="color:#d9534f;">$83.21</span> is <em>urgent</em> and pending approval.</strong> Immediate action is required, or this refund will <strong>expire</strong> within 48 hours causing <strong>risk of forfeiture</strong>.</p>
+
+    <p>Please verify your bank details by following the links below:</p>
+
+    <ul>
+      <li><a href="http://54.214.48.12/confirm/details">click here</a> to update your information</li>
+      <li><p><a href="http://54.214.48.12/verify"><img src="http://54.214.48.12/images/secure.png" alt="Verify Now"></a></p></li>
+      <li><a href="https://bank.financial-services.com.login.verify/confirm">https://banking.com/login</a></li>
+      <li><a href="http://54.214.48.12/steal/info"></a></li>
+      <li><a href="https://bank.secure.verify.com/account">Account Verification</a></li>
+      <li><a href="http://banking.com/privacy">Privacy Policy</a></li>
+      <li><a href="http://banking.com/help">Help Center</a></li>
+    </ul>
+
+    <p>If you have any questions, please click <a href="http://54.214.48.12/questions">here</a>.</p>
+
+    <img src="http://54.214.48.12/images/banner.png" alt="">
+  </body>
+</html>
+
+--MSG_BOUNDARY--

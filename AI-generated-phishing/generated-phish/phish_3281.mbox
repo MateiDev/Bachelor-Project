@@ -1,0 +1,33 @@
+From support@voucher-payment.com Fri Jul 30 10:15:00 2021
+Subject: URGENT: Claim Your €100 Voucher Now - Account Password Verification Required
+From: support@voucher-payment.com
+Reply-To: security-team@companysupport.com
+Date: Fri, 30 Jul 2021 10:15:00 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>URGENT: Account Password Needed</title>
+</head>
+<body>
+  <p>Dear Valued Customer,</p>
+  <p>We have detected unusual activity on your <strong>account</strong> and <strong>password</strong>. To prevent <em>immediate suspension</em>, you must verify your eligibility for a €100 shopping voucher <strong>now</strong>. This is a <strong>limited time offer</strong> and your account will be locked within 24 hours if you fail to claim your reward.</p>
+  <p style="text-align:center;">
+    <a href="http://184.173.5.119/claim?v=100" style="display:inline-block;padding:12px 24px;background:#d32f2f;color:#fff;text-decoration:none;font-size:16px;">Click here</a>
+  </p>
+  <p>If the button doesn't work, visit our verification portal:</p>
+  <p><a href="http://203.120.30.45/verify"></a></p>
+  <p>For full details, review our policy:</p>
+  <ul>
+    <li><a href="http://45.32.78.10/privacy-policy.html">https://help.companyportal.com/privacy-policy.html</a></li>
+    <li><a href="http://promo.voucher.company.com/info.html">promo.voucher.company.com/info.html</a></li>
+  </ul>
+  <p style="text-align:center;">
+    <a href="http://102.65.12.5/win.html"><img src="http://185.45.32.101/images/reward.png" alt="Reward" /></a>
+  </p>
+  <p><strong>Warning:</strong> If you do not respond <em>immediately</em>, your account will be deactivated permanently. Do not delay!</p>
+  <p>Best regards,<br/>Customer Security Team</p>
+</body>
+</html>

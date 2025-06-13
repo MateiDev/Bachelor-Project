@@ -1,0 +1,28 @@
+From phish@dhl-notify.com Fri Jul 12 14:22:05 2024
+Return-Path: <support@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [123.45.67.89])
+    by mx.usermail.net with ESMTP id abc123 for <victim@usermail.net>; Fri, 12 Jul 2024 14:22:05 +0000 (UTC)
+Subject: URGENT: Account Password Verification Required for Your DHL Delivery
+From: "DHL Express Notifications" <support@dhl.com>
+Reply-To: parcels@ups-security.com
+To: victim@usermail.net
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Account Password Update - Urgent</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your shipment is currently <strong>on hold</strong> due to a <strong>pending fee</strong>. Failure to verify your <strong>account</strong> and <strong>password</strong> within 24 hours may result in <span style="color:red">shipment cancellation</span> and <em>additional charges</em>.</p>
+<p>To release your package, please verify now:</p>
+<ul>
+<li><a href="http://192.168.1.100/dhl/confirm"><img src="http://images.dhl.com/parcel.png" alt="DHL Delivery Notification"></a></li>
+<li><a href="http://secure.dhl-payment-service.com/payment.process">click here</a> to pay the small fee.</li>
+<li><a href="http://203.0.113.45/urgent/verify">here</a> for immediate action.</li>
+</ul>
+<p>Need help? Visit our <a href="http://www.dhl.com/help-center">Help Center</a> or see our <a href="http://www.dhl.com/privacy-policy">Privacy Policy</a>.</p>
+<p><a href="http://account.verify.dhl.express.update.com/secure"></a></p>
+</body>
+</html>

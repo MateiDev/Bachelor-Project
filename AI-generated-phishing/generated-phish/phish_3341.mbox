@@ -1,0 +1,56 @@
+From rewards@promo-mail.com Wed Jun 26 12:34:56 2024
+Message-ID: <1234567890@phishing-lab.test.org>
+Date: Wed, 26 Jun 2024 12:34:56 +0200
+From: "Rewards Team" <rewards@promo-mail.com>
+Reply-To: support@secure-mail.com
+To: user@victim-mail.com
+Subject: URGENT: Account/Password Verification Required + €50 Voucher!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected unusual activity in your account and your password needs verification. Your account will be suspended if you do not respond immediately.
+To thank you for securing your account now, we are giving you a €50 voucher!
+
+Visit this link to verify and claim: http://192.0.2.123/verify-now
+
+If you prefer direct management, copy and paste into your browser:
+https://secure.payments-portal.com
+
+Legal info: https://www.trusted-domain.com/terms
+
+Best,
+Rewards Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Account Alert: Immediate Action Required</title></head>
+<body>
+<p>Dear <strong>User</strong>,</p>
+<p>We've noticed suspicious login attempts and require you to verify your <em>account password</em> immediately to avoid suspension.</p>
+<p>As a thank-you for prompt action, you're eligible for a <strong>€50 voucher</strong>!</p>
+<p>Click <a href="http://192.0.2.123/verify-now" target="_blank">here</a> to verify and claim your reward.</p>
+<p>Or press the button below:</p>
+<p><a href="http://192.0.2.123/verify-now" target="_blank">
+<img src="http://198.51.100.45/images/claim-button.png" alt="Verify & Claim Voucher" style="border:none;">
+</a></p>
+<p>If you prefer direct management, visit 
+<a href="http://192.0.2.123/manage-account">https://secure.payments-portal.com</a>
+</p>
+<p>Helpful Links: 
+<a href="https://www.trusted-domain.com/privacy">Privacy Policy</a> | 
+<a href="https://www.trusted-domain.com/help">Help Center</a>
+</p>
+<p>Thank you,<br>Rewards Team</p>
+</body>
+</html>
+
+--boundary123--

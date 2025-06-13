@@ -1,0 +1,51 @@
+From phish@dhl.com Sat Jul 08 06:45:12 2023
+Return-Path: <no-reply@dhl.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5])
+    by mx.example.com with ESMTP id ABC12345
+    for <victim@example.com>; Sat, 08 Jul 2023 06:45:12 +0000 (UTC)
+From: "DHL Delivery Account Team" <no-reply@dhl.com>
+Reply-To: security@dhl-support.net
+Subject: URGENT: Account Password Verification Failure
+Date: Sat, 08 Jul 2023 06:45:12 +0000
+Message-ID: <CAB1234XYZ@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--boundary_123456"
+
+----boundary_123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel delivery has encountered a critical issue. DHL attempted to deliver your shipment but failed due to an urgent payment verification problem with your account password. If you do not act immediately, your package will be returned to sender or destroyed.
+
+Please verify your information here:
+http://192.168.1.100/resolve-delivery
+
+Thank you for your prompt attention.
+
+DHL Delivery Team
+
+----boundary_123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your parcel delivery has encountered a <strong>critical issue</strong>. DHL attempted delivery but <span style="color:red;">failed due to an <em>urgent</em> payment verification problem</span> with your <strong>account password</strong>. If no action is taken <strong>immediately</strong>, your package may be <em>returned</em> or <em>destroyed</em>.</p>
+    <p>
+      <a href="http://192.168.1.100/resolve-delivery">http://dhl.com/track-your-parcel</a>
+    </p>
+    <p>
+      <a href="http://192.168.1.100/secure">
+        <img src="http://87.250.250.5/logo.png" alt="DHL Logo" border="0">
+      </a>
+    </p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Best regards,<br>DHL Delivery Team</p>
+  </body>
+</html>
+
+----boundary_123456--

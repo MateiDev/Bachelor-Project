@@ -1,0 +1,30 @@
+From support@securebank.com Sun Jun 23 12:34:56 2024
+Return-Path: <support@securebank.com>
+Delivered-To: user@testmail.com
+Received: from securebank.com (securebank.com [198.51.100.1]) by mail.testmail.com with ESMTP id ABC123 for <user@testmail.com>; Sun, 23 Jun 2024 12:34:56 -0400 (EDT)
+Message-ID: <20240623123456.ABCDEFG@securebank.com>
+Date: Sun, 23 Jun 2024 12:34:56 -0400
+From: "Secure Bank Support" <support@securebank.com>
+Reply-To: "Update Service" <no-reply@serviceupdate.com>
+To: user@testmail.com
+Subject: URGENT: Account Password Expires Today – Verify Now
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Action Required Immediately:</strong></p>
+    <p>Your <strong>account</strong> has experienced an <span style="color:red">unusual sign-in detected</span> event. To secure your account, your password <strong>expires today</strong>. Failure to update may result in restricted access.</p>
+    <p>Please verify your identity and reset now:</p>
+    <ul>
+      <li><a href="http://123.45.67.89/verify">https://securebank.com/verify</a></li>
+      <li><a href="http://secure..update.service.bank.test/">click here</a> to reset</li>
+      <li><a href="http://321.654.987.123/auth"><img src="https://securebank.com/assets/logo.png" alt="SecureBank"></a></li>
+      <li><a href="http://123.45.67.89/reset-password"></a></li>
+    </ul>
+    <p>For quick access, <a href="http://123.45.67.89/login-here">here</a>.</p>
+    <p>If you need assistance, visit our <a href="https://securebank.com/help">help</a> page or review our <a href="https://securebank.com/privacy-policy">privacy-policy</a>.</p>
+    <p><em>Urgent action required. Verify now to avoid interruption.</em></p>
+  </body>
+</html>

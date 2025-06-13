@@ -1,0 +1,50 @@
+```mbox
+From nobody Thu Oct 21 16:38:00 2023
+Return-Path: <security-update@accounts.unusualactivity.com>
+Received: from suspicious-ip-123.456.789.123 ([123.456.789.123])
+         by mail.example.com (Postfix) with ESMTP id 1234567890;
+         Thu, 21 Oct 2023 16:38:00 +0000 (UTC)
+Date: Thu, 21 Oct 2023 16:38:00 +0000
+From: "Account Security" <security-update@accounts.unusualactivity.com>
+Subject: Urgent: Unusual Activity Detected - Immediate Action Required
+To: <victim@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-1234567890"
+
+--boundary-1234567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your account that requires immediate attention to prevent unauthorized access. If you do not verify your identity now, your account may be at risk.
+
+Please click on the link below to confirm your details and secure your account:
+http://123.456.789.123/verify-now
+
+Alternatively, visit:
+http://456.789.123.456/security-check
+
+Failure to act may result in suspension of your account.
+
+Regards,
+Account Security Team
+
+--boundary-1234567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected unusual sign-in activity on your account that requires <strong>immediate attention</strong> to prevent unauthorized access. If you do not verify your identity now, your account may be at risk.</p>
+<p>Please click on the link below to confirm your details and secure your account:</p>
+<p><a href="http://123.456.789.123/verify-now"><img src="http://123.456.789.123/verify-button.png" alt="Verify Now"></a></p>
+<p>Alternatively, visit: <a href="http://456.789.123.456/security-check">Security Check</a></p>
+<p>Failure to act may result in suspension of your account.</p>
+<p>Regards,<br>Account Security Team</p>
+</body>
+</html>
+
+--boundary-1234567890--
+```

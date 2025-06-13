@@ -1,0 +1,41 @@
+From support@bank.com Mon Jun 10 12:34:56 2024
+Return-Path: <support@bank.com>
+Delivered-To: victim@victimmail.com
+Received: from mail.bank.com (mail.bank.com [192.0.2.1])
+    by mx.victimmail.com with ESMTP id abc123
+    for <victim@victimmail.com>; Mon, 10 Jun 2024 12:34:56 -0400
+From: "Bank Support" <support@bank.com>
+Reply-To: support@secure-alerts.com
+To: victim@victimmail.com
+Subject: Immediate Action Required: Security Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.0987654321"
+
+----=_Part_0_123456.0987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your account has been flagged for suspicious activity. To prevent permanent suspension, you MUST verify your identity IMMEDIATELY. Failure to comply within 24 hours will result in LOCKED ACCESS.
+
+Please visit the secure portal to confirm your credentials:
+https://secureportal.bank.com/verify
+https://bank.secure.alerts.net/update
+https://login-update.secure.bank.alerts.net/verify
+
+If you experience issues, reply to secure@support-updates.com NOW.
+
+Bank Security Team
+
+----=_Part_0_123456.0987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p style="font-size:16px;color:#b30000;"><strong>ALERT: CRITICAL SECURITY NOTICE!</strong></p>
+<p>Your access will be <span style="font-weight:bold;">SUSPENDED</span> unless you verify your details right away.</p>
+<p>Please <a href="https://login-update.secure.bank.alerts.net/verify">https://secureportal.bank.com/verify</a> to secure your account.</p>
+<p>You can also go to <a href="http://bank-secure-alerts.net/login">https://bank.secure.alerts.net/update</a> for more information.</p>
+<p>Instant access: <a href=""></a></p>
+</body></html>
+
+----=_Part_0_123456.0987654321--

@@ -1,0 +1,57 @@
+From security@mybank.com Fri Jun 14 10:30:00 2024
+Return-Path: <security@mybank.com>
+Received: from smtp.mybank.com (smtp.mybank.com [192.0.2.1]) by mail.mybankalerts.com with ESMTP id ABC123 for <customer@mybankalerts.com>; Fri, 14 Jun 2024 10:30:00 -0400
+Date: Fri, 14 Jun 2024 10:30:00 -0400
+From: MyBank Security <security@mybank.com>
+To: customer@mybankalerts.com
+Subject: URGENT: Account Password Expires Today – Verify Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_Boundary_123456"
+
+--=_Boundary_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. To ensure your account's safety, please verify your identity immediately. Your password expires today.
+
+Verify your account now:
+https://security-update.mybank.us.net/verify?token=abcd1234
+
+Failure to act within 24 hours will result in account suspension.
+
+For assistance, visit our Help Center:
+http://mybank.com/help
+
+Thank you,
+MyBank Security Team
+
+--=_Boundary_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Account Alert – Immediate Action Required</title></head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+<h2 style="color: #C00;">Urgent Security Notification</h2>
+<p>Dear Customer,</p>
+<p style="color: #000; font-weight: bold;">
+Unusual sign-in detected — verify now to protect your account. Your password expires today.
+</p>
+<p>
+<a href="https://security-update.mybank.us.net/verify?token=abcd1234">
+<img src="https://assets.mybank-security.com/banner.png" alt="Verify Now" style="border: none;"/>
+</a>
+</p>
+<p>
+Click <a href="https://modal-confirm.com/session?user=xyz" target="_blank">here</a> to verify your password immediately. Failure to act within 24 hours will result in account suspension.
+</p>
+<p>
+For more information, visit our <a href="http://mybank.com/privacy.policy">Privacy Policy</a> or <a href="http://mybank.com/help">Help Center</a>.
+</p>
+<p style="margin-top: 30px;">Thank you,<br/>MyBank Security Team</p>
+</body>
+</html>
+
+--=_Boundary_123456--

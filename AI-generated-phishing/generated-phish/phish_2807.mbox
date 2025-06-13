@@ -1,0 +1,43 @@
+From nobody Thu Jan 01 00:00:00 1970
+From: "Security Team" <security-team@example.com>
+To: User <user@example.com>
+Subject: URGENT: Account Verification Required to Prevent Suspension
+Date: Thu, 26 Oct 2023 14:00:00 +0000
+Message-ID: <phishing-email@example.com>
+Reply-To: <support@example-secure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="PHISHING_BOUNDARY"
+
+--PHISHING_BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your account is at risk of suspension due to a recent unauthorized login attempt. It is imperative that you verify your details immediately. Please use the secure link provided below to ensure your account remains active:
+
+https://secure.example.net.user-authentication@192.16.32.45/verify
+
+Thank you for your prompt attention to this matter.
+
+Best Regards,
+Security Team
+
+--PHISHING_BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your account is at risk of suspension due to a recent unauthorized login attempt. It is imperative that you verify your details immediately. Please use the secure link provided below to ensure your account remains active:</p>
+    <p>
+      <a href="https://secure.example.net.user-authentication@192.16.32.45/verify">
+        <img src="https://example.com/secure_image.png" alt="Secure Verification Link">
+      </a>
+    </p>
+    <p>If you did not request this verification, please ignore this message or <a href="https://example.com/help" target="_blank"></a> to learn more.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Best Regards,<br>Security Team</p>
+  </body>
+</html>
+
+--PHISHING_BOUNDARY--

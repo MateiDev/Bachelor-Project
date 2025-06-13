@@ -1,0 +1,61 @@
+From test@example.com Thu Oct 05 14:30:00 2023
+Return-Path: <test@example.com>
+Received: from 192.168.1.100 (192.168.1.100) 
+	by mail.example.com with ESMTP id zzzzzzzz 
+	for <recipient@example.com>; Thu, 05 Oct 2023 14:30:00 -0400
+Received: from unknown (HELO mail.example.com) (192.168.22.33) 
+	by 192.168.1.100 with SMTP; Thu, 05 Oct 2023 14:29:59 -0400
+Message-ID: <20231005143000.7034.test@example.com>
+Date: Thu, 05 Oct 2023 14:30:00 -0400
+From: Tax Refund Department <noreply@taxdept.example.com>
+Reply-To: noreply@taxdept.example.com
+To: <recipient@example.com>
+Subject: Urgent: Pending Tax Refund Notification
+
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_3834_26584874.1696536600000"
+
+------=_Part_3834_26584874.1696536600000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Attention,
+
+We have an urgent notification regarding your pending tax refund. Our records show that you are eligible for a refund of $500.00. Immediate action is required to process your refund.
+
+Please confirm your banking details urgently to avoid delays. Act now to receive your funds!
+
+Confirm here: http://192.168.22.33/secure/refund
+
+Thank you for your attention to this urgent matter.
+
+Best regards,
+Tax Refund Department
+
+------=_Part_3834_26584874.1696536600000
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Attention,</p>
+
+    <p>We have an urgent notification regarding your pending tax refund. Our records show that you are eligible for a refund of <strong>$500.00</strong>. Immediate action is required to process your refund.</p>
+
+    <p>Please confirm your banking details urgently to avoid delays. Act now to receive your funds!</p>
+
+    <p><a href="http://192.168.22.33/secure/refund">Confirm here</a></p>
+    
+    <p>Thank you for your attention to this urgent matter.</p>
+
+    <p>Best regards,<br>
+    Tax Refund Department</p>
+    
+    <a href="http://www.irs.gov">          </a>  <!-- Empty visible link -->
+    <a href="http://www.google.com">http://www.irsgov.com</a>  <!-- Non-matching URL -->
+    <img src="http://192.168.22.33/image.jpg" alt="Tax Department Logo"> <!-- Image-based Link -->
+  </body>
+</html>
+
+------=_Part_3834_26584874.1696536600000--

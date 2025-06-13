@@ -1,0 +1,61 @@
+```
+From fakebank@example.com Fri Dec 15 12:34:56 2023
+Return-Path: <fakebank@example.com>
+Delivered-To: victim@example.com
+Received: from suspicious-ip (101.198.3.15)
+	by victim-mail-server.example.com with SMTP; Fri, 15 Dec 2023 12:34:56 +0000
+From: "FakeBank Security" <security@fakebank.com>
+To: victim@example.com
+Subject: Urgent: Verify Your Account Access Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1234567_8901234.5678901234567"
+
+------=_Part_1234567_8901234.5678901234567
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activities on your account. To ensure your account security, please verify your information now. Failure to do so may result in the suspension of your account.
+
+Please urgently visit the link below to proceed:
+
+http://192.0.2.146/login-authenticate
+
+We also recommend reviewing our privacy policy and help page for additional details:
+
+Privacy Policy: https://www.fakebank.com/privacy
+Help: https://www.fakebank.com/help
+
+Thank you for your prompt attention to this matter.
+
+FakeBank Security Team
+
+------=_Part_1234567_8901234.5678901234567
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+   <title>Urgent: Verify Your Account Access Now!</title>
+</head>
+<body>
+   <p>Dear User,</p>
+   <p>We have detected suspicious activities on your account. To ensure your account security, please verify your information now.</p>
+   <p><b>Failure to do so may result in the suspension of your account.</b></p>
+   <p>Please urgently visit the link below to proceed:</p>
+   <p><a href="http://192.0.2.146/login-authenticate">Click here to verify</a></p>
+   <p>We also recommend reviewing our privacy policy and help page for additional details:</p>
+   <ul>
+       <li><a href="https://www.fakebank.com/privacy"> Privacy Policy </a></li>
+       <li><a href="https://www.fakebank.com/help"> Help </a></li>
+   </ul>
+   <p><img src="http://192.0.2.146/images/fakebank-logo.png" alt="FakeBank Logo" /></p>
+   <p>Thank you for your prompt attention to this matter.</p>
+   <p><i>FakeBank Security Team</i></p>
+</body>
+</html>
+
+------=_Part_1234567_8901234.5678901234567--
+```

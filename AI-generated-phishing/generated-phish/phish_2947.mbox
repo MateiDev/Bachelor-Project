@@ -1,0 +1,40 @@
+```mbox
+From nobody Sat Oct 14 10:00:00 2023
+From: "Support Team" <support@secure-account-management.com>
+Reply-To: urgent@security-alert.com
+To: victim@example.com
+Subject: Urgent: Immediate Attention Required for Your Account
+
+Content-Type: multipart/alternative; boundary="000000000000abcd12345"
+
+--000000000000abcd12345
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued User,
+
+We have detected unusual activity on your account, which requires immediate verification to prevent closure. Please act urgently to avoid suspension.
+
+To verify your account, please click the link below:
+
+http://192.168.0.1/secureaccount
+
+Regards,
+Support Team
+
+--000000000000abcd12345
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Valued User,</p>
+    <p>We have detected unusual activity on your account, which requires immediate verification to prevent closure. <strong>Please act urgently</strong> to avoid suspension.</p>
+    <p>To verify your account, please click the link below:</p>
+    <p><a href="http://192.168.0.1/secureaccount"></a></p>
+    <p><a href="http://secure-account-management.com.verify-identity.org">http://secure-account-management.com.verify-identity.org</a></p>
+    <p>Regards,<br>
+       Support Team</p>
+  </body>
+</html>
+
+--000000000000abcd12345--
+```

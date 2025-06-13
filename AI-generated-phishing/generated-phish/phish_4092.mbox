@@ -1,0 +1,56 @@
+From no-reply@security-service.com Sat Jun 22 12:34:56 2024
+Return-Path: <no-reply@security-service.com>
+Received: from mail.security-service.com (mail.security-service.com [203.0.113.10]) by mx.test.com with ESMTP id ABC123DEF for <user@test.com>; Sat, 22 Jun 2024 12:34:56 +0000
+From: Security Alert <no-reply@security-service.com>
+Reply-To: support@payment-update.net
+To: user@test.com
+Subject: URGENT: Unusual sign-in detected—Action required on your Account
+Date: Sat, 22 Jun 2024 12:34:56 +0000
+Message-ID: <20240622123456.mail@security-service.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_654321.1655907296000"
+
+----=_Part_123456_654321.1655907296000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in to your account. Your password expires today – reset immediately to avoid account lockout.
+
+Please verify your identity now to secure your account. Failure to do so may result in suspension of your account.
+
+Go to the following link to verify:
+
+http://192.0.2.1/verify-your-account
+
+Thank you,
+Security Team
+
+----=_Part_123456_654321.1655907296000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>URGENT: Password Expires Today – Reset Immediately</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We detected an <strong>unusual sign-in</strong> to your <em>account</em>. Your <strong>password expires today</strong> – <span style="color:red">reset immediately</span> to avoid account lockout.</p>
+  <p>Please <strong>verify now</strong> to secure your account and prevent suspension.</p>
+  <!-- Empty visible anchor -->
+  <a href="http://123.45.67.89/verify"></a>
+  <!-- Image-based link -->
+  <a href="http://123.45.67.89/reset">
+    <img src="http://malicious.test.com/images/reset.png" alt="Reset Password" />
+  </a>
+  <p>You can also verify <a href="http://modal-dispute.net/verify">here</a>.</p>
+  <p>If the link above does not work, copy and paste the URL below into your browser:</p>
+  <p><a href="http://987.65.43.21/login">https://security.login.test.com</a></p>
+  <p>--<br/>Security Service Team<br/><a href="http://security-service.com/privacy">Privacy Policy</a> | <a href="http://security-service.com/help">Help</a></p>
+</body>
+</html>
+
+----=_Part_123456_654321.1655907296000--

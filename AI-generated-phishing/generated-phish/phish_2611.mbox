@@ -1,0 +1,39 @@
+From - Tue Oct 31 09:30:00 2023
+X-Apparently-To: user@example.com via 192.0.2.0; Tue, 31 Oct 2023 09:30:00 +0000
+Return-Path: <fake-service@example.com>
+Received: from mail.fake-service.com (mail.fake-service.com [203.0.113.0])
+	by mx.example.com with ESMTP id ABC123XYZ;
+	Tue, 31 Oct 2023 09:30:00 +0000
+Date: Tue, 31 Oct 2023 09:30:00 +0000
+From: Security Alert <security@real-service.com>
+Reply-To: no_reply@fakeservice.com
+Subject: Urgent: Verify Your Account Information
+To: user@example.com
+Content-Type: multipart/alternative; boundary="000000000000fakeservice"
+
+--000000000000fakeservice
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+Your account's security is important to us. Please verify your account information to prevent suspension. Go to  
+https://real-service-secure.com now.
+
+Thank you,  
+Real Service Security Team
+
+--000000000000fakeservice
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>Your account's security is important to us. Please <a href="http://phishing-login.fake-service.com/login">click here</a> to verify your account information to prevent suspension.</p>
+    <p>Thank you,<br>Real Service Security Team</p>
+    <p><a href="https://real-service.com/privacy-policy">Privacy Policy</a> | <a href="https://real-service.com/help">Help Center</a></p>
+    <a href="https://real-service-secure.com"><img src="https://real-service-secure.com/logo.png" alt="Real Service"></a>
+    <a href="http://malicious-link.fake-service.net">..</a>
+  </body>
+</html>
+
+--000000000000fakeservice--

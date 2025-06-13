@@ -1,0 +1,50 @@
+From security@trustedbank.com Fri Jan 14 14:22:18 2022
+Return-Path: <security@trustedbank.com>
+Delivered-To: user@domain.com
+From: "TrustedBank Security" <security@trustedbank.com>
+Reply-To: <support@bank-services.net>
+To: <recipient@domain.com>
+Subject: Urgent: Account Password Verification Required
+Date: Fri, 14 Jan 2022 14:22:18 -0500
+Message-ID: <20220114142218.12345.security@trustedbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D7"
+
+------=_NextPart_000_001D_01D7
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your account. Your password must be verified immediately. Please visit the secure link below to confirm your credentials and restore full access.
+
+1) https://secure.trustedbank.com/password_reset
+2) https://portal.trustedbank.com/help
+3) http://5.6.7.8/reset-password
+4) http://123.123.123.123/login
+
+Thank you,
+TrustedBank Security Team
+
+------=_NextPart_000_001D_01D7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>suspicious activity</strong> on your <em>account</em>. To protect your information, your <strong>password</strong> must be verified immediately.</p>
+<p>Please <a href="http://5.6.7.8/reset-password">click here</a> to verify your credentials.</p>
+<p>Alternatively, you can <a href="http://123.123.123.123/login"><img src="http://status.portal.secure.com/icons/secure.png" alt="Secure Portal" /></a> to access the verification portal.</p>
+<p>You may also <a href="http://1.2.3.4/emptylink"></a> to view your secure messages.</p>
+<p>If the above links do not work, please visit <a href="http://9.9.9.9/verify">View</a> our <a href="https://legal.trustedbank.com/privacy-policy">privacy policy</a> or <a href="https://help.trustedbank.com/contact">help center</a>.</p>
+<p>Note: For added security, we masked the actual link behind the URL: <a href="http://123.123.123.123/login">https://secure.trustedbank.com/password_reset</a></p>
+<p>Best regards,<br/>
+TrustedBank Support Team</p>
+</body>
+</html>
+
+------=_NextPart_000_001D_01D7--

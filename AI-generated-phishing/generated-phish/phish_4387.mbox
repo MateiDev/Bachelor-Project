@@ -1,0 +1,48 @@
+From phishing-noreply@sample-domain.org Sat Jul 20 10:00:00 2024
+Return-Path: <phishing-noreply@sample-domain.org>
+Delivered-To: victim@domain.org
+Received: by mx1.sample-domain.org with SMTP id abc123; Sat, 20 Jul 2024 10:00:00 +0000
+MIME-Version: 1.0
+From: "Rewards Team" <phishing-noreply@sample-domain.org>
+To: victim@domain.org
+Subject: Urgent: Update Your Account Password Now & Claim €50 Reward
+Content-Type: multipart/alternative; boundary="X-BOUNDARY"
+
+--X-BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have noticed unusual activity on your account. To secure your account and claim your €50 voucher, please follow the links below:
+
+1. Update Password: https://secure-bank.com/update-password
+2. Claim Voucher: http://192.0.2.123/claim
+3. Redeem Now: http://promo.deals.testdomain.org/redeem
+
+Hurry! This offer expires soon.
+
+Best regards,
+Rewards Team
+
+--X-BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected <strong>urgent</strong> activity on your <em>account</em>. To secure it and claim your <span style="color:green;">€50 reward</span>, follow the steps below:</p>
+    <ol>
+      <li>Reset Password: <a href="http://203.0.113.42/password">https://secure-bank.com/login</a></li>
+      <li>Claim Your Voucher: <a href="http://modal.rewardcenter.net/claim">here</a></li>
+      <li>Redeem with Image: <a href="http://promo.deals.testdomain.org/redeem"><img src="http://45.76.23.1/img/voucher.png" alt="Redeem Voucher"></a></li>
+      <li>Tracking Link: <a href="http://malicious-links.net/track"></a></li>
+    </ol>
+    <p>Don’t miss out! <span style="color:red;">Hurry, offer ends soon!</span></p>
+    <p>Need help? See our <a href="https://modal-legal.com/privacy">Privacy Policy</a> or visit the <a href="https://modal-legal.com/help">Help Center</a>.</p>
+    <p>— The Rewards Team</p>
+  </body>
+</html>
+
+--X-BOUNDARY--

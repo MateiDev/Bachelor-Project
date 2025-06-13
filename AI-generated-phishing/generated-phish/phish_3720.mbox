@@ -1,0 +1,50 @@
+From support@alertclient.net Wed Oct 11 10:32:01 2023
+Return-Path: <no-reply@alertclient.net>
+Received: from mail.alertclient.net (mail.alertclient.net [198.51.100.25])
+    by maily.server.com
+    with ESMTP id ABC123
+    for <victim@target.com>; Wed, 11 Oct 2023 10:32:01 -0400 (EDT)
+From: "Alert Client Service" <no-reply@alertclient.net>
+To: victim@target.com
+Subject: Urgent: Account Password Expiry Notification
+Date: Wed, 11 Oct 2023 10:32:01 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890.123456"
+
+------=_Part_1234_567890.123456
+Content-Type: text/plain; charset=UTF-8
+
+Dear User,
+
+Unusual sign-in detected on your account. Your password expires today – reset immediately to avoid suspension.
+
+Action required: visit https://192.168.0.105/secure-reset
+
+If you did not request this, please contact support.
+
+Privacy policy: http://privacy-client.com/privacy-policy.html
+Help center: http://help-support.org/help
+
+Best regards,
+Client Service Team
+
+------=_Part_1234_567890.123456
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red; font-weight:bold;">
+      <a href="http://10.0.0.5/secure"><img src="http://cdn.images-server.net/alert-icon.png" alt="Alert" /></a>
+      Unusual sign-in detected on your account. Your password expires today – reset <strong>immediately</strong>.</p>
+    <p><a href="http://192.168.0.105/secure-reset">click here</a> to verify and secure your account now!</p>
+    <p><a href="http://secure.login.mail.clientservice.co.uk.maliciousdomain.info/update?uid=123&step=1">here</a> is a direct link.</p>
+    <p><a href="http://clientservice.co.uk">http://clientservice.co.uk</a></p>
+    <p><a href="http://10.0.0.5/reset"></a></p>
+    <p>Need help? <a href="http://help-support.org/help">Help Center</a> | 
+    <a href="http://privacy-client.com/privacy-policy.html">Privacy Policy</a></p>
+    <p>Best regards,<br/>Client Service Team</p>
+  </body>
+</html>
+
+------=_Part_1234_567890.123456--

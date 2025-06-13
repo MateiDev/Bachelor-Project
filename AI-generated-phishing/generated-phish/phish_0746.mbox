@@ -1,0 +1,39 @@
+From security@bankcorp.com Fri Jul 28 10:12:00 2023
+Return-Path: <no-reply@bankcorp.com>
+Message-ID: <20230728101200.45678@bankcorp.com>
+Date: Fri, 28 Jul 2023 10:12:00 +0000
+From: "Bank Corp Security Team" <security@bankcorp.com>
+To: user@example.org
+Subject: URGENT: Confirm Your Account Details to Claim Tax Refund
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Valued Account Holder,
+
+ALERT: Our system detected that your annual tax refund of $82.50 is pending. You must confirm your bank details immediately or your refund will be FORFEITED within 48 hours.
+
+To secure your refund, please visit the secure confirmation page:
+https://www.bank-secure.com/confirm
+
+If that link does not work, use this direct IP-based URL:
+http://198.51.100.45/confirm?ref=tax
+
+Alternatively, for urgent assistance, click here:
+here
+
+If prompted, enter your account number and password to verify details:
+Anchor text: https://login.bankcorp.com/verify
+Actual link: http://203.0.113.99/login.verify.bankcorp.co/confirm
+
+Warning: Failure to respond now may result in a canceled payout. 
+
+For more information, see our FAQ:
+https://help.bankcorp.com/faq
+
+Read our privacy policy here:
+privacy policy
+
+Thank you for your prompt attention to this urgent matter.
+
+Sincerely,
+Bank Corp Security Team

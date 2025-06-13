@@ -1,0 +1,51 @@
+```mbox
+From - Thu Oct 05 14:28:22 2023
+X-Account-Key: account2
+X-UIDL: 123456789
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-path: <alerts@taxrefunds.com>
+Envelope-to: victim@example.com
+Delivery-date: Thu, 05 Oct 2023 14:27:59 -0300
+Received: from unknown (HELO taxrefunds.com) ([192.168.1.12])
+	by server.example.com with SMTP; Thu, 05 Oct 2023 14:27:59 -0300
+From: "Tax Refunds Department" <alerts@taxrefunds.com>
+Subject: Important: Refund Confirmation Needed!
+Date: Thu, 05 Oct 2023 14:27:59 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789.20231005142759"
+
+------=_Part_123_456789.20231005142759
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have calculated your last year’s tax filings and determined that you are eligible for a refund of $523.78. To ensure accuracy, please confirm your bank details.
+
+Please follow the link to confirm your details: http://192.168.1.12/confirm
+
+Failure to confirm may result in delays in processing your refund.
+
+Regards,
+Tax Refunds Department
+
+
+------=_Part_123_456789.20231005142759
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have calculated your last year’s tax filings and determined that you are eligible for a refund of <b>$523.78</b>. To ensure accuracy, please confirm your bank details.</p>
+<p>Please follow the link to confirm your details: <a href="http://192.168.1.12/confirm"></a></p>
+<p><a href="http://refund.taxes.eu/update.info"></a></p>
+<p><a href="http://secure.accountfast.com/confirm.details"></a></p>
+<p>Failure to confirm may result in delays in processing your refund.</p>
+<p>Regards,<br/>Tax Refunds Department</p>
+</body>
+</html>
+
+------=_Part_123_456789.20231005142759--
+```

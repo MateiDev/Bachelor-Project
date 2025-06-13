@@ -1,0 +1,29 @@
+From security@secure-mail.company.com Fri Jan  6 12:34:56 2023
+From: "Secure Portal Alert" <security@secure-mail.company.com>
+Reply-To: <support@update-credentials.verify-login.ru>
+To: victim@victimcompany.com
+Subject: URGENT: Account Password Alert
+Date: Fri, 06 Jan 2023 12:34:56 -0500
+Message-ID: <20230106123456.12345@secure-mail.company.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+  <title>Account Security Alert</title>
+</head>
+<body>
+  <p>Dear User,</p>
+  <p><strong>URGENT SECURITY ALERT:</strong> We detected <em>multiple failed login attempts</em> on your <strong>account</strong>. To protect your sensitive information, immediate action is required.</p>
+  <p>Your password will be <span style="color:red;">temporarily suspended</span> if you do not verify your account within the next 24 hours.</p>
+  <p>Please review the secure portal link below:</p>
+  <p><a href="http://security-alert.verify-login.ru/auth" target="_blank">https://secure-portal.company.com/login</a></p>
+  <p>For more info, <a href="http://help.company-support.net/update">click here</a> to update your credentials.</p>
+  <p>Alternatively, access your profile at <a href="http://accounts.company.com.verify-login.ru/profile">http://accounts.company.com/secure</a>.</p>
+  <p>Failure to comply will result in account suspension.<br>
+     Thank you for your prompt attention.</p>
+  <p>Sincerely,<br>
+     Security Team<br>
+     Secure Mail Service</p>
+</body>
+</html>

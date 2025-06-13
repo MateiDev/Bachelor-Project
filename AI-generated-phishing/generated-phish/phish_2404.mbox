@@ -1,0 +1,27 @@
+From phishing-test@phishserver.io Thu Jun 20 12:34:56 2024
+Return-Path: <service@paypal.com>
+Delivered-To: user@testmail.com
+Received: from mail.phishserver.io (mail.phishserver.io [203.0.113.45])
+    by smtp.paypal.com with ESMTP id 123456789
+    for <user@testmail.com>; Thu, 20 Jun 2024 12:34:55 +0000 (UTC)
+Received: by mail.phishserver.io with SMTP id abc123def456
+    for <user@testmail.com>; Thu, 20 Jun 2024 12:34:55 +0000 (UTC)
+Date: Thu, 20 Jun 2024 12:34:56 +0000
+From: PayPal <service@paypal.com>
+To: user@testmail.com
+Subject: Urgent: Account Verification Required Immediately
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected multiple failed logins and urgent security alerts on your PayPal account. You must verify your identity immediately to prevent your account from being limited.</p>
+<p><strong>Immediate Action Required</strong>: <a href="http://secure.login.verify.paypal.com.phishserver.io/login" title="account">https://www.paypal.com/security/login</a></p>
+<p>Alternatively, <a href="http://verify.auth-login.net/paypal" title="urgent">click here</a> to complete the verification process ASAP.</p>
+<p>For your protection, we may restrict access if no action is taken.</p>
+<p><a href="http://paypal-secure-update.com/login" title="password"></a>Need help? Visit our <a href="https://www.paypal.com/us/smarthelp/contact-us" title="help">Help Center</a> for more information.</p>
+<p>Thank you for your prompt attention to this urgent security matter.</p>
+<p>Regards,<br/>PayPal Security Team</p>
+</body>
+</html>

@@ -1,0 +1,40 @@
+From attacker@securemail-alerts.com Fri Oct 06 14:22:30 2023
+Message-ID: <20231006142230.abcdefg@securemail-alerts.com>
+Date: Fri, 06 Oct 2023 14:22:30 -0400
+From: "SecureMail Alerts" <alerts@securemail-alerts.com>
+To: user@example.com
+Subject: ALERT: Unusual sign-in detected – Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+URGENT: We detected UNUSUAL sign-in activity on your account from a new device. Your PASSWORD EXPIRES TODAY – reset immediately at http://203.0.113.45/reset to avoid account suspension.
+
+Alternatively, verify now using the link below:
+https://login.secure-service.com/login
+
+Best regards,
+Security Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>URGENT:</strong> We detected <em>Unusual sign-in activity</em> on your account from a new device.</p>
+    <p>Your <strong>PASSWORD EXPIRES TODAY</strong> – <a href="http://203.0.113.45/reset">reset immediately</a> to avoid account suspension.</p>
+    <p>To verify your identity, <a href="http://198.51.100.23/verify">click here</a> now—failure to act may <span style="color:red">suspend</span> your account instantly.</p>
+    <p>Access your account: <a href="http://malicious.example.com">https://login.secure-service.com/login</a></p>
+    <p>Privacy Policy: <a href="http://203.0.113.99/policy"></a></p>
+    <p>Best Regards,<br/>Security Team</p>
+  </body>
+</html>
+
+--===============123456789==--

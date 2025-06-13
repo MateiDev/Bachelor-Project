@@ -1,0 +1,42 @@
+```
+From - Wed Oct 11 16:22:33 2023
+X-Account-Key: account2
+X-UIDL: AA39B9E4998AC89245DFFC66BC9F32AC
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <promotion@random-rewards.com>
+Received: from unknown (HELO server.random-rewards.com) (192.168.1.100)
+  by mail.random-rewards.com with SMTP; Wed, 11 Oct 2023 16:18:54 +0000
+Reply-To: <support@rewards-desk.com>
+Date: Wed, 11 Oct 2023 16:18:54 +0000
+From: "Gift Agency" <promotion@random-rewards.com>
+Subject: Congratulations! You're Eligible for a €500 Voucher!
+To: testuser@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Congratulations! Click the link below to claim your €500 voucher:
+http://192.0.2.1/claim-reward or http://rewards.claim-now.co.supersite.example.org/confirm
+
+--boundary-string
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Congratulations!</p>
+<p>Click the link below to claim your €500 voucher:</p>
+<a href="http://192.0.2.1/claim-reward"></a><br>
+<a href="http://rewards.claim-now.co.supersite.example.org/confirm"></a><br>
+<p>If you're having trouble with the links above, copy and paste into your browser.</p>
+</body>
+</html>
+
+--boundary-string--
+```

@@ -1,0 +1,65 @@
+From noreply@bankofnationalfinances.com Sat Jul 15 09:30:00 2023
+Delivered-To: user@examplemail.com
+Received: by mail.bankofnationalfinances.com (Postfix, from userid 1001)
+    id 4F7C9890A; Sat, 15 Jul 2023 09:30:00 -0400 (EDT)
+Received: from phisherserver.com (phisherserver.com [203.0.113.45])
+    by mail.bankofnationalfinances.com (Postfix) with ESMTP id 3B7CD123B
+    for <user@examplemail.com>; Sat, 15 Jul 2023 09:29:58 -0400 (EDT)
+Date: Sat, 15 Jul 2023 09:30:00 -0400
+From: "Bank of National Finances" <noreply@bankofnationalfinances.com>
+Reply-To: support@secure-verification.org
+To: user@examplemail.com
+Message-ID: <20230715093000.4F7C9890A@mail.bankofnationalfinances.com>
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="RELBOUNDARY123"
+
+--RELBOUNDARY123
+Content-Type: multipart/alternative; boundary="ALTBOUNDARY456"
+
+--ALTBOUNDARY456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected a small tax refund of USD 32.50 available for your account. Please confirm your bank details to ensure the funds are deposited without delay:
+http://192.168.0.50/confirm
+
+For more information, visit our Privacy Policy:
+https://bankofnationalfinances.com/privacy-policy
+or our Help Center:
+https://bankofnationalfinances.com/help
+
+Thank you for choosing Bank of National Finances.
+
+Sincerely,
+Bank of National Finances Support Team
+
+--ALTBOUNDARY456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected a small tax refund of <b>USD 32.50</b> available for your account.</p>
+    <p>Please <a href="https://secure-update.bank-update.com/verify">click here</a> to confirm your bank details and deposit the funds without delay.</p>
+    <p><a href="http://192.168.0.50/login"></a></p>
+    <p>View our <a href="https://bankofnationalfinances.com/privacy-policy">Privacy Policy</a> or visit our <a href="https://bankofnationalfinances.com/help">Help Center</a>.</p>
+    <p>Alternatively, click the logo below:</p>
+    <p><a href="http://secure-update.bank-update.com/bank"><img src="cid:banklogo" alt="Bank Logo" style="border:0" /></a></p>
+    <p>Thank you for choosing Bank of National Finances.</p>
+    <p>Sincerely,<br/>
+       Bank of National Finances Support Team</p>
+  </body>
+</html>
+
+--ALTBOUNDARY456--
+--RELBOUNDARY123
+Content-Type: image/png; name="logo.png"
+Content-Transfer-Encoding: base64
+Content-ID: <banklogo>
+
+iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAABhElEQVR4nO3UsW3CMBTF8Q9EvAhFKJEQF0o5DA1uIk3oQ3EAPbYf1HgA1pfRK+SHmZCcGpvSryaIViIgiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIKSB1n3c4XXLY/55BXpStPn7+vpzrLC2GHp66fNQ2pc/cQJkYvf+TaWRfRbT/fplanisbEfFu430YlY//8sNmj4ueCI88Yv//7MDztv/OkZ+uZ4fP4PgAQVvGSF8e+4Cvmu5WK/Pxf1n2XbV5jRl/+Mxm83kaHDp6PS3H/4+O1Uevj5+2tXqzVa+XV1r/ZvYR5x+uXrXchgT/x1zi1uPnFy/v25nZ+eVI2CmsUQeCTxlu0+NHPx+b3pz+329Ov6/Qf8A5eT/5uQWKMAAAAASUVORK5CYII=
+
+--RELBOUNDARY123--

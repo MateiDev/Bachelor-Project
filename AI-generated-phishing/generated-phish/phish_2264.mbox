@@ -1,0 +1,48 @@
+From securealert@securemail.com Mon Jun 17 10:15:20 2024
+Return-Path: <no-reply@securemail.com>
+From: "Secure Mail Platform" <no-reply@securemail.com>
+Reply-To: "Security Team" <security@support-update-portal.com>
+To: user@mycompany.com
+Subject: URGENT: Security Alert - Immediate Verification Required!
+Date: Mon, 17 Jun 2024 10:15:20 -0400
+Message-ID: <20240617101520.no-reply@securemail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_5678"
+
+------=_Part_1234_5678
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+URGENT: Our security systems detected unusual activity in your mail account. Your mailbox has been compromised! FAILURE TO VERIFY your credentials within 24 hours will result in immediate suspension of your access.
+
+Please click the following link to verify now:
+https://securemail.com/verify
+
+Thank you,
+Secure Mail Team
+
+------=_Part_1234_5678
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <p>
+      Dear User,<br><br>
+      <strong style="color:red;">URGENT SECURITY ALERT:</strong> Our portal has detected suspicious login attempts on your account. Your mailbox has been compromised! You must act immediately to prevent suspension of your secure mail access.<br><br>
+      Please <a href="http://192.0.2.123/securelogin">click here</a> to verify your credentials now.<br><br>
+      <a href="http://192.0.2.123/securelogin">
+        <img src="http://192.0.2.123/images/secure_logo.png" alt="View Secure Message" style="border:none;">
+      </a><br><br>
+      If the link above does not work, please visit: <a href="http://192.0.2.123/securelogin">https://securemail.com/login?ref=alert</a><br><br>
+      <hr style="border:none;border-top:1px solid #ccc;">
+      <p style="font-size:12px;color:#555;">
+        <a href="https://securemail.com/help">Help</a> | <a href="https://securemail.com/privacy">Privacy Policy</a>
+      </p>
+    </p>
+  </body>
+</html>
+
+------=_Part_1234_5678--

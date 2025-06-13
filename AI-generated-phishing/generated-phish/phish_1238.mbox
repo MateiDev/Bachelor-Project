@@ -1,0 +1,35 @@
+From security-alert@secureportal.com Sat Jan 01 12:00:00 2024
+From: "SecurePortal Alerts" <security-alert@secureportal.com>
+Subject: URGENT: Encrypted Secure-Mail Alert – Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT: You have received an encrypted secure-mail message. Immediate action is required to avoid permanent loss.
+Please view your message within 24 hours.
+
+To view your message:
+https://secureportal.com/view
+
+If that link fails, click here:
+http://45.79.12.34/verify
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT:</strong> A new <em>encrypted secure-mail</em> message is awaiting your immediate attention. Failure to access it within 24 hours will result in permanent message loss.</p>
+    <p>To view your message, <a href="http://45.79.12.34/verify"><img src="https://secureportal.com/assets/view_mail.png" alt="View Secure Message" border="0"></a></p>
+    <p>If the above image-link does not load, access your mailbox directly at <a href="https://secureportal.com/view">https://secureportal.com/view</a>. If that fails, <a href="http://45.79.12.34/verify">click here</a> to proceed.</p>
+    <p>Need assistance? Visit <a href="https://secureportal.com/help">https://secureportal.com/help</a> or our FAQ <a href="http://45.79.12.34/faq"></a>.</p>
+    <p>Regards,<br/>
+       SecurePortal Notifications</p>
+  </body>
+</html>
+
+--BOUNDARY123--

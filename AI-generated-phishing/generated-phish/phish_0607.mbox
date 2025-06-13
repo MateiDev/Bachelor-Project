@@ -1,0 +1,46 @@
+From phishing@marketing.com Sat Mar 18 11:45:00 2023
+Return-Path: <no-reply@updates.company.com>
+Delivered-To: user@example.com
+Received: from mail10.updates.company.com (mail10.updates.company.com [198.51.100.10])
+    by mx.example.com with ESMTP id tgnKJd-0007Le-0J
+    for <user@example.com>; Sat, 18 Mar 2023 11:45:00 +0000 (UTC)
+Date: Sat, 18 Mar 2023 11:45:00 +0000
+Subject: Urgent: Account Password Verification Required!
+To: user@example.com
+From: "Company Updates" <no-reply@updates.company.com>
+Message-ID: <20230318114500.abc123@mail10.updates.company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="---------------------------9051914041544843365972754266"
+
+-----------------------------9051914041544843365972754266
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT ACTION REQUIRED!
+Your account is at risk of suspension due to a security policy update. Verify your password immediately to secure your account and claim your €50 voucher reward!
+Visit http://secure-update.company.com/verify now. Failure to act will result in access revocation.
+For assistance, contact http://help.company.com/support.
+
+-----------------------------9051914041544843365972754266
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+<h2 style="color: #d9534f;">Urgent: Account Password Verification Required!</h2>
+<p>Dear Customer,</p>
+<p>Your account has been flagged for suspicious activity. You must <a href="http://secure-update.company.com/verify">update your password</a> <strong>immediately</strong> or your account will be <span style="color: #d9534f;"><strong>suspended</strong></span>.</p>
+<p>As a thank-you, <em>you are eligible for a €50 Gift Voucher</em>. To redeem your reward, <a href="http://gift-voucher-now.com/redeem">click here</a> before this offer expires.</p>
+<p>
+  <a href="http://gift-voucher-now.com/redeem">
+    <img src="http://images.company.com/voucher.png" alt="Redeem Voucher" width="200" style="display: block; border: none;" />
+  </a>
+</p>
+<p>Or copy and paste this link into your browser:</p>
+<p><a href="http://malicious-domain.com/redirect">http://secure.giftvoucherclaim.com/</a></p>
+<p>Need help? <a href="http://help.company.com/privacy">Privacy Policy</a> | <a href="http://help.company.com/faq">Help Center</a></p>
+<p>If you did not request this change, please ignore this email or contact support <a href="http://gift-voucher-now.com/support">here</a> immediately.</p>
+</body>
+</html>
+
+-----------------------------9051914041544843365972754266--

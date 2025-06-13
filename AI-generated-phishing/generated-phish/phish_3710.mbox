@@ -1,0 +1,43 @@
+From MAILER-DAEMON Mon Jan 02 12:34:56 2023
+Return-Path: <refunds@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.1]) by mx.example.com with ESMTP id ABC123 for <user@example.com>; Mon, 02 Jan 2023 12:34:56 -0500 (EST)
+From: "IRS Refund Team" <refunds@irs.gov>
+To: user@example.com
+Reply-To: "Support" <support@verify-irs.com>
+Subject: Urgent: Account Password Verification Required for Your IRS Refund
+Date: Mon, 02 Jan 2023 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate a small refund of $56.20 is pending. For security reasons, we require immediate account password verification. Failure to verify may delay your refund. Please confirm your bank details by visiting one of the links below:
+
+https://secure.irs.gov/confirm
+http://192.168.1.50/verify
+
+Best regards,
+IRS Refund Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Your IRS refund of <strong>$56.20</strong> is ready. <strong>Final Warning</strong>: you must confirm your account password <em>immediately</em> to avoid delay.</p>
+    <p><a href="http://192.168.1.50/confirm"></a></p>
+    <p>Please verify by clicking <a href="http://10.10.10.10/verify">here</a> or <a href="https://login.secure.irs.gov.someotherdomain.com/update">https://login.secure.irs.gov/update</a>.</p>
+    <p>Alternatively, use this secure link: <a href="http://192.168.1.100/login">https://secure.irs.gov/login</a></p>
+    <p>If you did not request this, contact <a href="http://login.verify-irs.com">here</a>.</p>
+    <p><a href="https://www.irs.gov/privacy">Privacy Policy</a> | <a href="https://www.irs.gov/help">Help Center</a></p>
+    <p>Regards,<br>IRS Refund Team</p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

@@ -1,0 +1,25 @@
+From support@irs-tax.gov Fri Jul 26 10:24:30 2024
+Return-Path: <support@irs-tax.gov>
+From: "IRS Tax Account Team" <support@irs-tax.gov>
+Reply-To: "Tax Support" <taxhelpdesk@secure-update.net>
+To: user@example.com
+Subject: Urgent: Tax Refund Notification – Confirm Your Account Details
+Date: Fri, 26 Jul 2024 10:24:30 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Dear Taxpayer,</strong></p>
+<p>Your 2023 Federal Tax Return has been processed, and our records indicate that a small refund of $24.75 is pending. This is an <strong>urgent</strong> notification. To prevent <em>delay</em> or forfeiture of your refund, you <span style="color:red; font-weight:bold;">must confirm your bank account details immediately</span>.</p>
+<p>Please verify now by <a href="http://irs.tax.gov.auth-service.refund.verify.bank.info/validate?uid=123456">click here</a>. Failure to respond within 48 hours will result in automatic cancellation of your refund.</p>
+<p>Alternatively, you may track your refund status at <a href="http://secure-update.net/validate">https://www.irs.gov/refund-status</a>.</p>
+<p>Quick links:
+<br><a href="http://secure-update.net/confirm"></a>
+<br><a href="https://www.irs.gov/privacy">Privacy Policy</a> | <a href="https://www.irs.gov/help">Help Center</a></p>
+<p>If you have any questions, reply to this email immediately.</p>
+<p>Sincerely,<br>
+IRS Tax Account Team</p>
+</body>
+</html>

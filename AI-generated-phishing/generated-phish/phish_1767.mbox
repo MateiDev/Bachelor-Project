@@ -1,0 +1,51 @@
+From no-reply@dhl-tracking.com Fri Jul 23 14:00:00 2021
+Return-Path: <no-reply@dhl-tracking.com>
+From: DHL Delivery <no-reply@dhl.com>
+Reply-To: security-team@dhl-urgent-support.com
+To: user@example.com
+Subject: URGENT: Delivery Failed – Action Required
+Date: Fri, 23 Jul 2021 14:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_8901234.1627053600000"
+
+----=_Part_1234567_8901234.1627053600000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Delivery Failed – Action Required
+
+Dear Customer,
+
+We attempted to deliver your package but were unable to leave it at your address. Your package is currently held at our facility. Please click the link below to confirm your details and schedule redelivery within 24 hours to avoid return to sender:
+
+https://track.dhl.com/confirm-delivery
+
+If we do not hear from you, your package will be returned.
+
+Thank you,
+DHL Delivery Team
+
+----=_Part_1234567_8901234.1627053600000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong style="color:red;">URGENT:</strong> We attempted to deliver your package but were <em>unable</em> to leave it at your address.</p>
+    <p>Your parcel is currently being held and <strong>you must act immediately</strong> to avoid return to sender. Please <a href="http://secure.dhl-update.delivery/track.exe">click here</a> to confirm your delivery details within 24 hours.</p>
+    <p>Alternatively, you can track your shipment by visiting 
+      <a href="http://dhltracking.com/info">http://www.dhltracking.com</a>.
+    </p>
+    <p>
+      <a href="https://dhl.com/privacy-policy">Privacy Policy</a> | 
+      <a href="https://dhl.com/help-center">Help Center</a>
+    </p>
+    <p>
+      <a href="http://secure.dhl-update.delivery/track-package">
+        <img src="https://images.dhl.com/logo.png" alt="DHL Logo" />
+      </a>
+    </p>
+  </body>
+</html>
+
+----=_Part_1234567_8901234.1627053600000--

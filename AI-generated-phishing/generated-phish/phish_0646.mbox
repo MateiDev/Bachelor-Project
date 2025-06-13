@@ -1,0 +1,34 @@
+From dhl-confirmation@dhl.com Mon Oct 30 12:34:56 2023
+Return-Path: <dhl-confirmation@dhl.com>
+Reply-To: support@secure-dhl-notify.com
+From: DHL Notification <dhl-confirmation@dhl.com>
+To: user@domain.com
+Subject: DHL Delivery Notification – Action Required
+Date: Mon, 30 Oct 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package could not be delivered due to an unpaid customs fee. Please 
+      <a href="http://secure-auth.dhlupdates.com/verify"><img src="http://images.dhl.com/logo.png" alt="DHL Logo"></a>
+      to view your <strong>tracking details</strong>.
+    </p>
+    <p>To proceed with payment and schedule redelivery, click your tracking link below:</p>
+    <p>
+      <a href="http://malicious-tracking.com/auth">http://www.dhl.com/track</a>
+    </p>
+    <p>Fee: $3.99</p>
+    <p>
+      <a href="http://confirm.dhl-payments.security-verification.com/secure">Pay now</a>
+    </p>
+    <p>For more information, click <a href="http://malicious-tracking.com/modal">here</a>.</p>
+    <p>If you have any questions, please visit our help center: <a href="http://malicious-tracking.com/support"></a> or refer to our 
+      <a href="http://www.dhl.com/privacy-policy">Privacy Policy</a> and 
+      <a href="http://www.dhl.com/terms">Terms of Service</a>.
+    </p>
+    <p>Thank you for choosing DHL.</p>
+    <p>Sincerely,<br>DHL Customer Service</p>
+  </body>
+</html>

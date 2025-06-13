@@ -1,0 +1,26 @@
+```
+From - Sat Oct 14 13:35:56 2023
+Return-Path: <noreply@taxdepartment.com>
+Received: from mail.taxupdates.com (mail.taxupdates.com [198.51.100.1])
+        by mail.example.org (Postfix) with ESMTP id 1234567890
+        for <user@example.org>; Sat, 14 Oct 2023 13:35:56 -0800 (PST)
+Message-ID: <9876543210@mail.taxupdates.com>
+Date: Sat, 14 Oct 2023 21:35:56 +0000
+From: Tax Refund Department <noreply@taxdepartment.com>
+Reply-To: noreply@taxdepartment.com
+Subject: Secure! Urgent Tax Refund Notification
+To: user@example.org
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have determined that you are eligible for a <strong>tax refund</strong> of exactly <b>$438.00</b>.</p>
+    <p>Due to incorrect account details, we couldn't transfer the amount to your account. To <b>confirm</b> your refund, <a href="http://secure.tax.gov.official.check.account.status.com/auth">please click here</a>.</p>
+    <p>This is an urgent and secure notification from the <span style="display:none;">empty</span><img src="http://secure.tax.gov.official.check.account.status.com/logo.png" alt="Department Logo" /></p>
+    <p>For more information, visit our official website: <a href="https://www.irs.gov/">https://www.irs.gov/</a></p>
+    <p>Sincerely,<br>The Tax Department</p>
+    <div style="display:none;"><a href="#">.</a></div>
+  </body>
+</html>
+```

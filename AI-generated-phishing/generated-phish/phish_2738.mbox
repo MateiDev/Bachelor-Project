@@ -1,0 +1,51 @@
+```mbox
+From test-phishing@example.com Thu Oct  5 14:28:23 2023
+Return-path: <test-phishing@example.com>
+Received: from [192.168.1.2] (unknown [192.168.1.2])
+        by mail.example.com (Postfix) with ESMTP id 1234567890
+        for <victim@example.com>; Thu,  5 Oct 2023 14:28:23 +0000 (UTC)
+Date: Thu, 5 Oct 2023 14:28:23 +0000
+From: Unusual Activity Alert <security@company.com>
+To: victim@example.com
+Subject: Urgent: Unusual Sign-In Detected - Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary"
+
+--boundary
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+We have detected an unusual sign-in attempt to your account. It is critical that you verify your account immediately to ensure your security. Failure to confirm your identity may result in temporary suspension. 
+
+Please verify your account activity by following the link below:
+
+http://192.166.0.1/verify
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Account Security Team
+
+
+--boundary
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head></head>
+<body>
+<p>Dear user,</p>
+<p>We have detected an unusual sign-in attempt to your account. It is critical that you <strong>verify your account immediately</strong> to ensure your security. Failure to confirm your identity may result in temporary suspension.</p>
+<p>Please verify your account activity by following the link below:</p>
+<p><a href="http://192.166.0.1/verify"><img src="https://secure.account-security.update.com/b/verify.png" alt="Verify Now"></a></p>
+<p>Should you encounter issues, you may also <a href="http://192.166.0.1/verify"><span style="display:none;"></span>click here</a> to proceed directly.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Sincerely,<br/>
+<strong>Account Security Team</strong></p>
+<p style="font-size: small; color: grey;">This is an automated message. Please do not reply.</p>
+<p><a href="https://genuine.website.com/help">Help</a> | <a href="https://genuine.website.com/privacy-policy">Privacy Policy</a></p>
+</body>
+</html>
+
+--boundary--
+```

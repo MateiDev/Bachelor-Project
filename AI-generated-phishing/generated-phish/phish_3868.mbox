@@ -1,0 +1,44 @@
+From MAILER-DAEMON Sat Jul 20 08:15:30 2024
+Return-Path: <noreply@secure.dhltracking.com>
+Delivered-To: victim@example.com
+From: "DHL Express" <notification@dhl-express.com>
+Reply-To: support@dhl-helpdesk.net
+To: victim@example.com
+Subject: Urgent: Your account password must be updated
+Date: Sat, 20 Jul 2024 08:15:30 +0000
+Message-ID: <20240720081530.12345@dhl-express.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset=UTF-8
+
+URGENT NOTICE: Your DHL shipment is on hold due to unpaid fees.
+You must act IMMEDIATELY to avoid PERMANENT RETURN of your package!
+Tracking Number: 1234567890
+
+Release your parcel now:
+https://secure.shipping.update.com/release
+
+Failure to pay within 24 hours will result in account suspension.
+
+For assistance, visit https://dhl.com/help/privacy-policy
+
+--===============123456789==
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p style="color:red; font-weight:bold;">URGENT: Your package is being held!</p>
+<p>Dear Customer,</p>
+<p>Our system indicates that an <strong>unpaid fee</strong> is pending for your recent shipment <em>(Tracking #1234567890)</em>. This must be resolved <span style="color:red;">within 24 HOURS</span> to prevent <strong>account suspension</strong> and <strong>package return</strong>.</p>
+<p>To release your parcel, please <a href="http://malicious.pay-now.info/checkout"> </a> immediately.</p>
+<p>You can also ensure your delivery information is correct by visiting:<br/>
+<a href="http://phishingsite.net/verify">https://secure.dhltracking.com.status.verify.info/release</a></p>
+<p><img src="http://img.dhl-express.com.trackers.shippingupdate.com/track.png" alt="DHL Express Logo"/></p>
+<p>Need help? <a href="https://dhl.com/help/privacy-policy">privacy policy</a> | <a href="https://dhl.com/help/terms-of-service">terms of service</a></p>
+<p>If you have questions, <a href="http://malicious.support.net/helpdesk">click here</a>.</p>
+</body>
+</html>
+--===============123456789==--
+

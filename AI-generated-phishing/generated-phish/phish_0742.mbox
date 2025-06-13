@@ -1,0 +1,27 @@
+From no-reply@dhl-service.com Mon Jul 01 10:15:00 2024
+Date: Mon, 1 Jul 2024 10:15:00 +0200
+From: DHL Delivery <no-reply@dhl-service.com>
+To: customer@domain.com
+Subject: URGENT: Account & Password Verification Required for Parcel Delivery
+Message-ID: <20240701101500.abcdef@dhl-service.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We regret to inform you of an <b>urgent</b> delivery exception for your parcel. Immediate action is required to prevent your package from being returned. Our courier attempted delivery but could not confirm your <b>account</b> information and <b>password</b> details. Please verify and update now to avoid further delays.</p>
+<p>Access your delivery details:</p>
+<ol>
+<li><a href="http://198.51.100.23/tracking?ref=PKG1234">https://tracking.dhl.com/verify</a></li>
+<li>Confirm holding status: <a href="http://tracking.delivery.confirmation.dhl-secure.com/validate"></a></li>
+<li>Update account info: <a href="http://secure-update.shipment.dhlservice.net/pay"></a></li>
+<li><a href="http://malicious-site.net/hold">https://dhl-confirm.com/hold</a></li>
+<li>Release your package: <a href="http://203.0.113.99/release?package=9898"></a></li>
+</ol>
+<p><span style="color:red;">URGENT:</span> respond within 24 hours to avoid loss of delivery. Failure to verify your details will result in your package being returned to the sender and additional fees.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>DHL Customer Support</p>
+</body>
+</html>

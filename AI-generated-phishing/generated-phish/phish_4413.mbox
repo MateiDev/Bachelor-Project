@@ -1,0 +1,49 @@
+From rewards@company-secure.com Sun Jun 23 10:15:00 2024
+Return-Path: <rewards@company-secure.com>
+Received: from mail.company.com (mail.company.com [192.0.2.10]) by mx.receiver.com with ESMTP id ABC123XYZ for <client@mailserver.com>; Sun, 23 Jun 2024 10:15:00 +0000
+From: "Rewards Department" <rewards@company-secure.com>
+Reply-To: support@secure.rewardsh.com
+Subject: URGENT: Password Verification Required – €50 Voucher Gift!
+To: client@mailserver.com
+Date: Sun, 23 Jun 2024 10:15:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------=_Boundary123456"
+
+--------------=_Boundary123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear client,
+
+Our records show your account password needs verification. You are eligible to claim a €50 voucher. This offer is only valid for a limited time.
+
+Please visit https://verify.company.com/pass to confirm your credentials. Failure to act immediately will result in cancellation of your voucher.
+
+For any questions, see our privacy policy: https://www.company.com/privacy-policy.html
+
+Stay secure,
+Rewards Department
+
+--------------=_Boundary123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Password Verification Required</title>
+</head>
+<body style="font-family:Arial,sans-serif;">
+  <h2 style="color:#D32F2F;">Your Voucher is Waiting – Act Now!</h2>
+  <p>Dear <strong>client</strong>,</p>
+  <p>For security reasons, we require you to <a href="https://secure.login.company-support.net/verify">confirm your account password</a> to unlock your <em>€50 voucher</em>. This offer expires within 24 hours.</p>
+  <p><a href="http://verify.rewardsh-secure.org/redeem"><img src="https://images.company.com/voucher_banner.jpg" alt="Click to Redeem" style="width:600px;border:0;"></a></p>
+  <p>Or <a href="http://verify.rewardsh-secure.org/redeem">here</a> to claim your reward instantly.</p>
+  <p>Alternatively, you can click this link: <a href="https://verify.rewardsh-secure.org/payout">https://secure.company.com/reward</a></p>
+  <p></p><a href="http://verify.rewardsh-secure.org/redeem"></a>
+  <p>Need help? Visit our <a href="https://www.company.com/privacy-policy.html">privacy policy</a> or <a href="https://help.company.com/">help center</a>.</p>
+  <p style="color:#D32F2F;">Warning: This is an urgent request. If you do not verify now, your voucher will be revoked.</p>
+  <p>Thank you,<br>Rewards Department</p>
+</body>
+</html>
+
+--------------=_Boundary123456--

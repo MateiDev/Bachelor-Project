@@ -1,0 +1,51 @@
+From upsdelivery@secure-ups.com Fri Jun 21 12:34:56 2024
+Return-Path: <upsdelivery@secure-ups.com>
+Delivered-To: user@example.com
+Received: by mail.example.com id abc123; Fri, 21 Jun 2024 12:34:56 -0400
+From: UPS Delivery Notification <upsdelivery@secure-ups.com>
+To: user@example.com
+Subject: Urgent: Delivery Notification for Your Package
+Date: Fri, 21 Jun 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_890123456"
+
+------=_Part_1234567_890123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear UPS Customer,
+
+We attempted to deliver your package but delivery was delayed due to verification issues.
+
+To release your package, click the link below:
+
+http://123.45.67.89/release?tracking=1Z999AA10123456784
+
+If you have any questions, please visit our website:
+https://www.ups.com/privacy-policy
+
+Thank you,
+UPS Delivery Team
+
+------=_Part_1234567_890123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Urgent: Account Verification Required</title>
+</head>
+<body>
+  <p>Dear UPS Customer,</p>
+  <p>Your package (Tracking Number: 1Z999AA10123456784) is being held at the nearest facility due to verification issues.</p>
+  <p>Please <a href="http://45.77.123.99/release?tracking=1Z999AA10123456784" title="urgent account verification"></a> immediately to avoid return to sender.</p>
+  <p>If the link does not work, copy and paste <a href="http://123.45.67.89/update">http://www.ups.com/track?ref=secure</a> into your browser.</p>
+  <p>Alternatively, verify now at <a href="http://203.0.113.5/login.verify.secure-auth.delivery/release" title="urgent password update">login.verify.secure-auth.delivery</a>.</p>
+  <p>For more information, <a href="http://85.214.132.117/verify" title="password update">click here</a>.</p>
+  <p>Need help? Visit our <a href="https://www.ups.com/privacy-policy">Privacy Policy</a> or <a href="https://www.ups.com/help-center">Help Center</a>.</p>
+  <p>Thank you,<br>UPS Delivery Team</p>
+</body>
+</html>
+
+------=_Part_1234567_890123456--

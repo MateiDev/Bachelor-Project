@@ -1,0 +1,38 @@
+```
+From fake-support@secure-mail.com Mon Oct 16 15:02:53 2023
+Return-Path: <fake-support@secure-mail.com>
+Date: Mon, 16 Oct 2023 15:02:53 +0000
+From: "Customer Support" <fake-support@secure-mail.com>
+Subject: Urgent: Your Account Password Needs Immediate Update!
+To: victim@targetdomain.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+<p>Dear User,</p>
+
+<p>We have detected suspicious activity on your account. As a result, we require you to verify your account information to prevent any unauthorized access. Please <a href="http://secureaccount.updatemeta.hq-login.com">click here</a> to proceed immediately.</p>
+
+<p>Failure to verify your account within the next 24 hours may result in temporary suspension of your account.</p>
+
+<p>For your convenience, we have provided some helpful links below:</p>
+<ul>
+    <li><a href="https://www.reputablebrand.com/help">Help Center</a></li>
+    <li><a href="https://www.reputablebrand.com/privacy">Privacy Policy</a></li>
+    <li><a href="">Terms of Service</a></li>
+</ul>
+
+<p>Please ignore this email if you have already updated your information.</p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best regards,<br>
+Customer Support Team</p>
+
+<hr>
+<p><a href="http://www.securemail.support/details.update.com">http://reputablebrand.com/login</a></p>
+</body>
+</html>
+```

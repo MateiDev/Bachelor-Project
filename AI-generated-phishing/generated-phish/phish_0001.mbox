@@ -1,0 +1,47 @@
+```
+From fake.security@support-notice.com Tue Oct 17 09:57:33 2023
+Return-Path: <fake.security@support-notice.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 1234567890
+    for <victim@example.com>; Tue, 17 Oct 2023 09:57:33 -0400 (EDT)
+Received: by mail.example.com (Postfix, from userid 1001)
+    id 0987654321; Tue, 17 Oct 2023 09:57:32 -0400 (EDT)
+From: "Security Team" <fake.security@support-notice.com>
+Subject: Urgent: Account Security Alert
+To: victim@example.com
+Date: Tue, 17 Oct 2023 09:57:32 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_0987654321.1697546252"
+
+------=_Part_123456_0987654321.1697546252
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+It is crucial to confirm your account details immediately to prevent unauthorized access. Follow the secure link provided to update your credentials:
+
+http://192.0.2.5/security-update
+
+Failure to act fast may result in permanent suspension of your account.
+
+Security Team
+
+------=_Part_123456_0987654321.1697546252
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>It is crucial to confirm your account details immediately to prevent unauthorized access. Click <a href="http://192.0.2.5/security-update"></a> to update your credentials:</p>
+<p>http://secure.update.security.portal-check.example.com</p>
+<p>Failure to act fast may result in permanent suspension of your account.</p>
+<p>Security Team</p>
+</body>
+</html>
+
+------=_Part_123456_0987654321.1697546252--
+```

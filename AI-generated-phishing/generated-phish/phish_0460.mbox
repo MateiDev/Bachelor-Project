@@ -1,0 +1,33 @@
+```mbox
+From phishing@test.com Sat Oct 21 15:23:45 2023
+Return-Path: <phishing@test.com>
+Delivered-To: victim@example.com
+Received: from suspicious-server.com (suspicious-server.com [192.0.2.1])
+        by mail.example.com with ESMTP id OCFM91BC34;
+        Sat, 21 Oct 2023 15:23:44 -0700 (PDT)
+Message-ID: <20231021152344.OCFM91BC34@mail.example.com>
+Date: Sat, 21 Oct 2023 15:23:44 -0700 (PDT)
+From: Alert Notice <security@updates.com>
+Reply-To: urgent@support-alerts.net
+Subject: Urgent: Unusual Sign-In Detected
+
+Dear User,
+
+We have detected an <b>unusual sign-in attempt.</b> For your safety, please <b>verify your account immediately</b> to prevent <b>unauthorized access.</b> Your account may be <b>compromised if no action is taken.</b>
+
+<img src="https://malicious-site.com/warning.png" alt="Warning Icon">
+
+To secure your account, please <a href="https://malicious-site.com/verify">click here</a>.
+
+Your password <b>expires today. Reset immediately</b> to ensure continuity of your services. Failure to do so might cause <b>permanent account lockout.</b> 
+
+Verify using your secure link: [https://safepage.com/login](https://malicious-site.com/redirect)
+
+Need help? Visit our <a href="https://updates.com/help">Help Center</a>. You may also read our <a href="https://updates.com/privacy">Privacy Policy</a>.
+
+Best regards,
+
+Account Security Team
+
+<a href=""></a>
+```

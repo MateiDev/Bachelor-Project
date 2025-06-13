@@ -1,0 +1,39 @@
+From MAILER-DAEMON@example.com Wed Oct 18 10:00:00 2023
+Return-Path: <fakeemail@notreal.com>
+Received: from unknown (HELO fakeemail.com) (123.456.78.9)
+Date: Wed, 18 Oct 2023 10:00:00 +0000
+From: "Customer Support" <fakeemail@notreal.com>
+Reply-To: reward-claim@differentdomain.com
+Subject: URGENT: Claim Your €1000 Voucher Now
+To: recipient@youremail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Congratulations! You are eligible for a €1000 voucher. This is a limited-time offer, and you must act fast to claim your reward.
+
+Click here to secure your voucher: http://192.0.2.1/reward
+
+Best Regards,
+Customer Support Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Congratulations! You are eligible for a €1000 voucher. This is a limited-time offer, and you must act fast to claim your reward.</p>
+<p>Click <a href="http://192.0.2.1/reward"></a> here to secure your voucher: <a href="http://notreal.com/reward">http://secure.website.com/claim</a></p>
+<p>Best Regards,<br>
+Customer Support Team</p>
+</body>
+</html>
+
+--boundary123--

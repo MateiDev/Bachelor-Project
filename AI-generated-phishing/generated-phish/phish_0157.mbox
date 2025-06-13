@@ -1,0 +1,27 @@
+```
+From nobody Mon Oct 30 21:47:30 2023
+Return-Path: <alert@secure-webmail.com>
+Delivered-To: victim@example.com
+Received: from 192.168.1.100 (192.168.1.100) by mail.example.com
+        with SMTP id m1234567890abc;
+        Mon, 30 Oct 2023 21:47:30 -0500 (EST)
+Date: Mon, 30 Oct 2023 21:47:15 -0500
+From: "Webmail Support" <alert@secure-webmail.com>
+Subject: Urgent: Verify Your Account Immediately
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected unusual activity in your account <strong>involving</strong> multiple login attempts from an unknown source. To protect your data, your account will be temporarily suspended.</p>
+<p>Please <a href="http://203.0.113.55/secure/login" target="_blank">click here</a> immediately to verify your account and secure your access. This is crucial to avoid permanent deactivation.</p>
+<p>For more information, please visit our <a href="https://support.webmail.com/help" target="_blank">Help Center</a> or our <a href="https://support.webmail.com/privacy-policy" target="_blank">Privacy Policy</a>.</p>
+<p>This is a sensitive matter and needs your immediate attention to avoid any inconvenience.</p>
+<p>Thank you for your prompt action.</p>
+<p>Best Regards,</p>
+<p>Webmail Security Team</p>
+</body>
+</html>
+```

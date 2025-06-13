@@ -1,0 +1,32 @@
+```mbox
+From nobody Tue Nov 14 16:30:22 2023
+Return-Path: <noreply@taxnotice.gov>
+Delivered-To: victim@example.com
+Received: by 10.0.0.1 with SMTP id abcdef1234; Tue, 14 Nov 2023 16:30:22 -0800 (PST)
+Date: Tue, 14 Nov 2023 16:30:22 -0800
+From: "Tax Refund Dept" <noreply@taxnotice.gov>
+Reply-To: noreply@refundclaim.org
+Subject: Important Notice: Immediate Action Required for your Account Refund
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+  <title>Tax Refund Notification</title>
+</head>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>We are pleased to inform you that a refund of <strong>$152.34</strong> is pending on your account. To process this refund, please verify your account information by clicking the link below:</p>
+  <p><a href="http://192.0.2.1/refund" style="color: blue;">Click here to confirm your bank details</a></p>
+  <p>Please note that if we do not receive confirmation, the refund will be delayed.</p>
+  <p>You can review our <a href="https://www.taxnotice.gov/privacy">privacy policy</a> and <a href="https://www.taxnotice.gov/help">help</a> center for more information about this notification.</p>
+  <br>
+  <p><a href="http://192.0.2.1/secure"></a></p>
+  <p>Thank you for your prompt attention to this matter.</p>
+  <br>
+  <p>Sincerely,</p>
+  <p>Tax Refund Department</p>
+</body>
+</html>
+```

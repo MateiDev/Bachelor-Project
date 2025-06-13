@@ -1,0 +1,42 @@
+From phishing@phishmail.test Fri Jul 21 10:15:00 2023
+Return-Path: <noreply@trusted-service.com>
+Received: from mail.phishers.net (mail.phishers.net [198.51.100.23]) by mail.phishmail.test with SMTP; Fri, 21 Jul 2023 10:15:00 +0000
+Message-ID: <ABCD1234@phishmail.test>
+Date: Fri, 21 Jul 2023 10:15:00 +0000
+From: "Trusted Service Support" <support@trusted-service.com>
+To: user@mydomain.org
+Subject: Urgent: Password Account Verification Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000abcdef"
+
+--000000000000abcdef
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+We have detected suspicious activity on your account. To secure your password and ensure uninterrupted access, please verify your credentials immediately by visiting the URL below:
+
+http://192.168.1.10/verify
+
+Failure to complete this verification within 24 hours will result in temporary suspension of your account.
+
+Thank you,
+Trusted Service Support
+
+--000000000000abcdef
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected suspicious activity on your account. To secure your password and ensure uninterrupted access, please <a href="http://192.168.1.10/verify"></a> verify your credentials immediately:</p>
+    <p><a href="http://203.0.113.5/login">here</a></p>
+    <p>You can also click on the logo below to sign in:</p>
+    <p><a href="http://203.0.113.5/login"><img src="http://phishing-assets.test/logo.png" alt="Trusted Service Logo"></a></p>
+    <p>For more information, <a href="http://trusted-service.support/privacy.html">Privacy Policy</a> | <a href="http://trusted-service.support/help.html">Help Center</a></p>
+    <p>Failure to complete this verification within 24 hours will result in temporary suspension of your account.</p>
+    <p>Thank you,<br>Trusted Service Support</p>
+  </body>
+</html>
+
+--000000000000abcdef--

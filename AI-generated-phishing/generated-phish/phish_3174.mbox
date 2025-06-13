@@ -1,0 +1,34 @@
+From noreply@tax-office.gov Mon Jun 24 12:34:56 2024
+Return-Path: <noreply@tax-office.gov>
+Delivered-To: victim@domain.com
+Received: from mail.tax-office.gov (mail.tax-office.gov [192.0.2.1])
+    by mx.google.com with ESMTPS id v7si123456pgh.13.2024.06.24.12.34.56
+    for <victim@domain.com>
+    (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+    Mon, 24 Jun 2024 12:34:56 -0700 (PDT)
+Message-ID: <E1WDpj-0004rZ-4C@tax-office.gov>
+Date: Mon, 24 Jun 2024 12:34:56 -0700
+Subject: Urgent: Confirm Account Password for Tax Refund
+From: "Tax Authority Online Services" <noreply@tax-office.gov>
+Reply-To: "Claims Department" <claims@secure-tax-update.com>
+To: victim@domain.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Taxpayer,</p>
+<p>We have completed processing your 2023 tax return and approved a refund of <strong>$27.45</strong>. To receive this payment, it is <em>urgent</em> that you confirm your account password and bank information within <strong>48 hours</strong>, or your refund will be reversed.</p>
+<p>To proceed, please <a href="http://secure.bank.verify.payments.tax-refund.com/password?uid=AB12345">confirm your account password</a> now.</p>
+<p>Next, <a href="http://secure.bank.verify.payments.tax-refund.com/confirm?user=AB12345">verify your bank details</a> to complete the process.</p>
+<p>If the links above fail, <a href="">click here</a> or <a href="http://click.here.taxes-update.com/modal">here</a> to update your information.</p>
+<p>Alternatively, you can use our image portal:</p>
+<a href="http://images.tax-refund-update.com/verify"><img src="http://images.tax-refund-update.com/button.png" alt="Verify Now" style="border:none;"></a>
+<p>For more information, view our policy at <a href="http://policy.tax-update-center.com/privacy">https://www.taxoffice.gov/privacy-policy</a> or visit our <a href="http://help.tax-office-alerts.com">help center</a>.</p>
+<a href="http://tracker.tax-report.com/?id=XYZ"></a>
+<p>Failure to comply may result in delay or loss of funds.<br>
+Thank you for your prompt attention.</p>
+<p>Sincerely,<br>Tax Authority Online Services</p>
+</body>
+</html>

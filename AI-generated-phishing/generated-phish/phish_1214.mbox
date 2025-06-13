@@ -1,0 +1,20 @@
+From no-reply@secureportal.acme.com Mon Jun 24 12:34:56 2024
+From: "Secure Portal" <no-reply@secureportal.acme.com>
+Return-Path: <no-reply@secureportal.acme.com>
+To: user@acme.com
+Subject: Urgent Security Alert: Encrypted Mail Access Suspended
+Date: Mon, 24 Jun 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p><strong>URGENT SECURITY ALERT:</strong> Suspicious activity has been detected in your encrypted mail portal. To prevent immediate suspension of your account, you must verify your credentials <strong>IMMEDIATELY</strong>.</p>
+    <p>Please <a href="http://203.0.113.42/auth">https://secure.mail-portal.com/login</a> now to restore full access.</p>
+    <p>If the link above fails, <a href="http://evil-secure.com/session">click here</a> to proceed.</p>
+    <p>Or access via <a href="http://192.0.2.123/verify"></a> or visit <a href="http://secure.portal.company.login.update.success/login">https://secure.portal.company.login.update.success/login</a>.</p>
+    <p><em>Failure to comply within 24 hours will result in permanent suspension due to a detected security breach.</em></p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely,<br/>Secure Mail Team</p>
+  </body>
+</html>

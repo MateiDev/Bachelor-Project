@@ -1,0 +1,23 @@
+From security@bank.com Mon Jan  1 12:00:00 2024
+Return-Path: <security@bank.com>
+Received: from mail.bank.com (mail.bank.com [203.0.113.5])
+	by mx.mydomain.com with ESMTP id abc123
+Date: Mon, 1 Jan 2024 12:00:00 +0000
+From: "Bank Security Alert" <security@bank.com>
+To: user@domain.com
+Subject: URGENT: Portal Security Alert – Action Required
+Message-ID: <abc123@bank.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p><strong>Security Alert!</strong> We detected suspicious activity on your account. Failure to verify within 24 hours will result in immediate account suspension.</p>
+<p>Please <a href="http://192.168.100.25/verify?id=9Fd3G2">click here</a> to confirm your identity.</p>
+<p>Access your secure notification at <a href="http://login.security.account.verify.com">https://secure.bank.com/alert</a></p>
+<p>For manual verification, click <a href="http://203.0.113.99/login">here</a>.</p>
+<p><a href="http://192.168.100.25/details"></a></p>
+<p><a href="http://192.168.100.25/login"><img src="http://login.bank.alert.images/icon.png" alt="Secure Login" /></a></p>
+<p>This encrypted secure-mail notice is part of our proactive security measures.</p>
+</body>
+</html>

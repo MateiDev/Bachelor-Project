@@ -1,0 +1,49 @@
+From no-reply@irs.gov.secure-update.com Fri Jan  1 12:34:56 2021
+Subject: Urgent: Confirm Your IRS Account Password to Receive Tax Refund
+From: "IRS e-Services" <no-reply@irs.gov.secure-update.com>
+Reply-To: support@irs.gov-help.com
+To: user123@my-email.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY123456=="
+
+--===============BOUNDARY123456==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate you have a small refund waiting.
+Please confirm your bank account and password details to receive it.
+
+Visit http://192.168.0.50/confirm?ref=TR1234
+or directly go to https://update.irs.gov/account
+
+Thank you,
+IRS e-Services Team
+
+--===============BOUNDARY123456==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Confirm Your IRS Account Password</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Our records indicate you have a small <strong>tax refund</strong> waiting. To receive your refund promptly, please <strong>confirm your bank account</strong> and password details.</p>
+<p>
+<a href="http://192.168.0.50/confirm?ref=TR1234">http://update.irs.gov.secure-update.com/account.verify?session=ABCD1234</a>
+</p>
+<p>Alternatively, <a href="http://45.77.171.24/secure-refund">click here</a> to secure your funds.</p>
+<p>
+<a href="http://103.24.12.34/confirm?user=TR1234"> </a>
+</p>
+<p>
+<a href="http://103.24.12.34/secure"><img src="http://103.24.12.34/logo.png" alt="IRS Logo"></a>
+</p>
+<p>For more information, see our <a href="https://www.irs.gov/privacy-policy">privacy policy</a> or <a href="https://www.irs.gov/help">help</a>.</p>
+<p>Thank you,<br>IRS e-Services Team</p>
+</body>
+</html>
+--===============BOUNDARY123456==--

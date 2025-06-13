@@ -1,0 +1,20 @@
+From service@paypal.com Sun Aug  1 10:30:00 2021
+Subject: Urgent: Account Password Verification Required
+Date: Sun, 1 Aug 2021 10:30:00 -0400
+From: "PayPal Service" <service@paypal.com>
+To: user@example.com
+Reply-To: support@secure-paypal-check.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear PayPal Customer,</p>
+    <p>We detected suspicious activity in your account. Your account will be <strong>suspended</strong> if you do not confirm your password <strong>immediately</strong>.</p>
+    <p>Please complete the verification at the following secure link:</p>
+    <p><a href="http://192.0.2.123/verify">https://www.paypal.com/signin</a></p>
+    <p>For additional info, <a href="http://203.0.113.45/help">click here</a> to review our policy.</p>
+    <p><a href="http://203.0.113.45/confirmation"></a></p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>

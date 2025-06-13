@@ -1,0 +1,27 @@
+From phishing-test@local Sat Jul 24 12:34:56 2021
+Return-Path: <support@legit-company.com>
+Received: from mail.legit-company.com (mail.legit-company.com [198.51.100.1])
+        by mx.testmail.com with ESMTP id ABCDE12345
+        for <user@domain.com>; Sat, 24 Jul 2021 12:34:56 +0000 (UTC)
+From: "Customer Support" <support@legit-company.com>
+Reply-To: phishing@evilcorp.com
+To: user@domain.com
+Subject: URGENT: Your account voucher is waiting
+Date: Sat, 24 Jul 2021 12:34:56 +0000
+Message-ID: <20210724123456.abcdef@mail.legit-company.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear user,</p>
+<p>Congratulations! You're eligible for a <b>€100 voucher</b> as a token of our appreciation.</p>
+<p>To claim your reward, <a href="http://192.168.1.100/voucher?id=ABC123"></a> please <a href="https://promo.company-modal.com/popup/claim">here</a>.</p>
+<p>If the link above doesn't work, click <a href="http://secure.google-login.com/redeem?v=100">click here</a> or visit <a href="http://malicious.com">https://secure.company.com/redeem</a>.</p>
+<p>You can also <a href="http://verify-modal.com/popup">here</a> to open the voucher modal.</p>
+<p><a href="http://promo.verify.com"><img src="http://images.company.com/promo.jpg" alt="Voucher Image"></a></p>
+<p>For your privacy and security, read our <a href="https://www.legit-company.com/privacy.html">privacy policy</a> or reach out to our <a href="https://www.legit-company.com/help.html">help center</a>.</p>
+<p>Best regards,<br>Customer Support Team</p>
+</body>
+</html>

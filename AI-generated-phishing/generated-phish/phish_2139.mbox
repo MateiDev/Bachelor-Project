@@ -1,0 +1,49 @@
+From no-reply@dhl.com Fri Jan  5 12:34:56 2024
+Return-Path: <no-reply@dhl.com>
+Received: from mailsecurity.dhl.com (mailsecurity.dhl.com [192.0.2.1])
+    by mx.example.org (Postfix) with ESMTP id 1234ABCD
+    for <user@example.org>; Fri,  5 Jan 2024 12:34:56 +0000 (UTC)
+From: DHL Delivery <no-reply@dhl.com>
+Reply-To: DHL Support <support@dhl-delivery-updates.net>
+To: user@example.org
+Subject: URGENT: Delivery Account PASSWORD Verification Required
+Date: Fri, 5 Jan 2024 12:34:56 +0000
+Message-ID: <20240105123456.1234@mailsecurity.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary1234"
+
+--boundary1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel has been put on hold due to suspicious activity related to your account. Immediate action is required to release your shipment before it is cancelled.
+
+Please verify your password by accessing the secure tracking link below:
+
+https://www.dhl.com/track?parcel=ABC123
+
+Failure to comply within 24 hours will result in permanent shipment cancellation.
+
+Thank you for your prompt attention.
+
+DHL Customer Service Team
+
+--boundary1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your parcel has been put on <strong>hold</strong> due to <span style="color:red;">suspicious activity</span> related to your <em>account</em>. This is <strong>urgent</strong>!</p>
+    <p>To avoid <strong>permanent cancellation</strong> of your shipment, please verify your <strong>password</strong> immediately by clicking the link below:</p>
+    <p>Tracking Link: <a href="http://secure-updates.dhl-notify.verify-security.com/track?ref=ABC123"></a></p>
+    <p>Alternatively, copy and paste the URL below into your browser:</p>
+    <p><a href="http://secure-updates.dhl-notify.verify-security.com/track?ref=ABC123">https://www.dhl.com/track?parcel=ABC123</a></p>
+    <p>Thank you,<br>DHL Customer Service Team</p>
+  </body>
+</html>
+
+--boundary1234--

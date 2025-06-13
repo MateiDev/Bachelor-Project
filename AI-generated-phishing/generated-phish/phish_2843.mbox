@@ -1,0 +1,44 @@
+```
+From nobody@example.com Fri Oct 20 10:30:00 2023
+Return-Path: <no-reply@securemail-update-alert.com>
+Received: from unknown (HELO mail.example.com) (192.0.2.1)
+  by mail.example.com with SMTP; Fri, 20 Oct 2023 10:30:00 +0000
+Received: from securemail-update-alert.com (203.0.113.45)
+  by mail.example.com with SMTP; Fri, 20 Oct 2023 10:29:50 +0000
+Message-ID: <1234567890.09876@securemail-update-alert.com>
+Date: Fri, 20 Oct 2023 10:29:50 +0000
+From: Secure Mail Service <no-reply@securemail-update-alert.com>
+Subject: Urgent: Immediate Action Required for Account Security
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_string"
+
+--boundary_string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has experienced suspicious activity. Immediate action is required to secure your account. Please follow the provided link and verify your details to prevent suspension. 
+
+Secure your account now: http://192.0.2.5/verify
+
+Thank you,
+Secure Mail Team
+
+--boundary_string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your account has experienced <b>suspicious activity</b>. <span style="color: red;">Immediate action</span> is required to secure your account. Please follow the provided link and verify your details to prevent suspension.</p>
+    <p><a href="http://192.0.2.5/verify"><img src="http://example.com/security-image.jpg" alt="Verify Now"></a></p>
+    <p>Secure your account now: <a href="http://192.0.2.5/verify">http://securemail.example.com/verify</a></p>
+    <p><a href="http://192.0.2.5/privacy-policy">Privacy Policy</a> | <a href="http://192.0.2.5/help">Help</a> | <a href="http://192.0.2.5/contact-us"></a></p>
+    <p>Thank you,<br>Secure Mail Team</p>
+  </body>
+</html>
+--boundary_string--
+```

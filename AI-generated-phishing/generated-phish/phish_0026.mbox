@@ -1,0 +1,28 @@
+```
+From fraud-notification@deliveryalerts.com Thu Oct 12 14:28:27 2023
+Return-Path: <fraud-notification@deliveryalerts.com>
+Delivered-To: victim@example.com
+Received: from mail.deliveryalerts.com (unknown [192.168.1.100])
+    by mail.example.com (Postfix) with ESMTP id A1B2C3D4E5
+    for <victim@example.com>; Thu, 12 Oct 2023 14:28:27 -0500 (CDT)
+Date: Thu, 12 Oct 2023 14:28:27 -0500
+From: DHL Support <fraud-notification@deliveryalerts.com>
+Reply-To: DHL Customer Service <noreply@phishingsite.com>
+Subject: URGENT: Account Notice - Delivery Attempt Failed
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We are writing to inform you that your package is on hold due to IMPROPER DELIVERY ADDRESS. Immediate action is required to avoid return.<br><strong>Your action is required within 24 hours to prevent cancellation.</strong></p>
+    <p>Please <a href="http://192.168.1.101/UrgentPackageService" target="_blank">click here urgently</a> to confirm your address and release your package. You can also visit our support page:</p>
+    <p><a href="http://192.168.1.102/VerifyAccountDetails" target="_blank">http://192.168.1.102/VerifyAccountDetails</a></p>
+    <p>Failure to act promptly may result in additional charges. Please act fast to avoid disruptions to your delivery service.</p>
+    <p><a href="http://192.168.1.103/ContactSupport">
+       <img src="cid:signature.jpg" alt="Contact Our Support Team" style="width:150px;height:40px;">
+    </a></p>
+    <p>Thank you,<br>DHL Customer Support Team</p>
+  </body>
+</html>
+```

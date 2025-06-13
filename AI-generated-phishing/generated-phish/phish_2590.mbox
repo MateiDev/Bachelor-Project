@@ -1,0 +1,50 @@
+```mbox
+From somebody@example.com Tue Oct 24 12:34:56 2023
+From: "Internal Revenue Service" <noreply@irs-gov.example>
+To: victim@example.com
+Subject: Urgent: Claim Your Tax Refund Now
+Date: Tue, 24 Oct 2023 11:34:56 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000abcdef123456"
+
+--000000000000abcdef123456
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have been trying to reach you with an urgent update. You are eligible
+for a refund of $483.25 USD due to an amendment error in the last tax
+filing. Please confirm your bank details immediately to process your
+refund.
+
+Failure to act within 48 hours may result in additional fees and delays.
+
+Visit the link below:
+
+http://203.0.113.45/secureupdate
+
+Regards,
+Internal Revenue Service
+
+--000000000000abcdef123456
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have been trying to reach you with an <strong>urgent</strong> update.
+    You are eligible for a refund of <strong>$483.25 USD</strong> due to an
+    amendment error in the last tax filing. Please confirm your bank details
+    immediately to process your refund.</p>
+    <p>Failure to act within 48 hours may result in additional fees and delays.</p>
+    <p>Visit the link below:</p>
+    <a href="http://203.0.113.45/secureupdate">
+      <img src="http://secureupdate.example/claim_now.png" alt="Claim Now">
+    </a>
+    <p>For more information, <a href="https://www.irs.gov/help">click here</a> to visit our help page.</p>
+    <p>Privacy policy available at <a href="https://www.irs.gov/privacy">https://www.irs.gov/privacy</a>.</p>
+  </body>
+</html>
+
+--000000000000abcdef123456--
+```

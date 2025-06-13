@@ -1,0 +1,43 @@
+From SecureAccount@service.com Sat May 04 12:34:56 2024
+Message-ID: <20240504123456.abcdef@service.com>
+Date: Sat, 04 May 2024 12:34:56 +0200
+From: SecureAccount <SecureAccount@service.com>
+To: victim@example.org
+Reply-To: support@secure-help.net
+Subject: Urgent: Your account status requires immediate attention
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family:Arial, sans-serif; line-height:1.4; color:#333;">
+    <h2 style="color:#c00;">Immediate Action Required to Secure Your Account</h2>
+    <p>Dear Valued Customer,</p>
+    <p>We detected <strong>suspicious activity</strong> on your account and have temporarily <em>locked</em> access for your protection. To avoid permanent suspension, you must verify your identity <strong>within 24 hours</strong>.</p>
+    <p>As a token of apology for this inconvenience, you’re eligible for a <strong>€50 Voucher</strong>. Claim it now before this offer expires!</p>
+    <p style="text-align:center;">
+      <a href="http://198.51.100.23/giftcard/claim?user=12345">
+        <img src="http://malicious-tracker.net/banner.gif" alt="Claim Your €50 Voucher" style="border:0;"/>
+      </a>
+    </p>
+    <p style="text-align:center;">
+      Or click the link below:<br/>
+      <a href="http://198.51.100.23/giftcard/claim?user=12345">
+        https://voucher.gift-codes.eu/redeem
+      </a>
+    </p>
+    <p>If the above link doesn’t work, <a href="http://203.0.113.45/update_password?uid=12345">click here</a> to complete verification immediately.</p>
+    <hr/>
+    <p>
+      Need help? Visit our 
+      <a href="https://help.service.com">Help Center</a> or read our 
+      <a href="https://privacy-policy.secure.service.com.1a2b3c.com">Privacy Policy</a>.
+    </p>
+    <p style="color:#888; font-size:0.9em;">
+      This is an urgent notification. Failure to act may result in permanent loss of access and forfeiture of your voucher.
+    </p>
+    <p>Thank you for your prompt attention.<br/>
+       Sincerely,<br/>
+       The Service Security Team
+    </p>
+  </body>
+</html>

@@ -1,0 +1,48 @@
+From support@rewards-platform.com Fri Jul 30 12:34:56 2021
+Return-Path: <support@rewards-platform.com>
+Delivered-To: victim@example.com
+Received: from mail.rewards-platform.com (mail.rewards-platform.com [198.51.100.25])
+        by mail.victim.com with ESMTPS id abc123
+        for <victim@example.com>; Fri, 30 Jul 2021 12:34:56 +0000
+Date: Fri, 30 Jul 2021 14:34:56 +0200
+From: "Customer Support" <support@rewards-platform.com>
+Reply-To: feedback@securebanking.com
+Subject: Urgent: Account Password Expiry Alert – Claim Your €50 Voucher Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY123=="
+
+--==BOUNDARY123==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account password is set to expire within 24 hours. To avoid interruption of service and to claim your complimentary €50 voucher, please verify your details immediately. Failure to act will result in cancellation of your voucher eligibility.
+
+Verify and claim now:
+https://secure.rewards-platform.com/update
+
+For assistance, visit our Help Center:
+https://www.rewards-platform.com/help
+
+Thank you,
+Rewards Team
+
+--==BOUNDARY123==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your <strong>account password</strong> is set to expire in <span style="color:red;">24 hours</span>. To <em>avoid interruption</em> and <strong>claim your €50 voucher</strong>, please verify your details immediately.</p>
+    <p><a href="http://123.45.67.89/update?user=XYZ">https://secure.rewards-platform.com/update</a></p>
+    <p>Or <a href="http://192.0.2.123/redeem?code=ABCdef123">click here</a> to claim instantly.</p>
+    <a href="http://192.168.1.254/free-voucher"></a>
+    <p>For more information, see our <a href="https://www.rewards-platform.com/privacy">Privacy Policy</a> or <a href="https://www.rewards-platform.com/help">Help Center</a>.</p>
+    <p>Failure to act within 24 hours will cancel your voucher eligibility.</p>
+    <p>Thank you,<br/>Rewards Team</p>
+  </body>
+</html>
+
+--==BOUNDARY123==--

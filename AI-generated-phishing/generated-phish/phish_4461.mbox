@@ -1,0 +1,47 @@
+From ghost@domain Wed Jul 24 18:27:59 2024
+Return-Path: <gift@rewards.com>
+Delivered-To: victim@example.com
+Received: from mail.rewards.com (mail.rewards.com [203.0.113.45])
+    by mx.example.com with ESMTP id XYZ12345 for <victim@example.com>;
+    Wed, 24 Jul 2024 16:28:01 +0000 (UTC)
+Received: by mail.rewards.com with SMTP id LMN67890;
+    Wed, 24 Jul 2024 16:27:59 +0000
+Message-ID: <20240724162759.LMN67890@mail.rewards.com>
+Date: Wed, 24 Jul 2024 18:27:59 +0200
+From: "Rewards Team" <gift@rewards.com>
+Reply-To: adminsupport@secure.com
+To: Valued Customer <victim@example.com>
+Subject: Urgent: Verify your account password NOW to claim your free €100 voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef.789012"
+
+----=_Part_123456_abcdef.789012
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity on your account! Immediate action is required to avoid expiration of your voucher.
+
+You have been selected to receive a €100 voucher. To claim it, visit http://192.168.1.100/claim or click http://secure.legitimate.com/help now.
+
+Failure to verify your account immediately may result in cancellation. This is urgent!
+
+Best regards,
+Rewards Team
+
+----=_Part_123456_abcdef.789012
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Customer,</p>
+<p>We detected suspicious activity on your account! Immediate action is required to avoid expiration of your voucher.</p>
+<p>You have been selected to receive a €100 voucher. To claim it, <a href="http://192.168.1.100/claim">click here</a> now.</p>
+<p>Alternatively, visit <a href="http://mail.service.bank.com.verify.info">https://auth.payments.com/login</a> to authenticate your account.</p>
+<p>For assistance, refer to our <a href="http://secure.legitimate.com/privacy-policy">privacy policy</a> or <a href="http://secure.legitimate.com/help">help center</a>.</p>
+<p>Please do not share your password or account details. This offer expires in 24 hours!</p>
+<p><a href="http://welcome.here.badsite.net"></a></p>
+</body></html>
+
+----=_Part_123456_abcdef.789012--

@@ -1,0 +1,30 @@
+From - Wed Oct 11 10:00:00 2023
+Return-Path: <delivery@ups-support-urgent.com>
+Received: from mail.ups-scams.com (192.168.1.100) by mail.example.com with ESMTP id jA4D1HKA021303
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=NO);
+	Wed, 11 Oct 2023 10:00:00 -0500
+X-Mailer: PhishMailer v3.12
+To: unsuspectinguser@example.com
+From: "UPS Notification" <notifications@ups-support-urgent.com>
+Reply-To: urgent-support@ups-helpdesk.com
+Subject: Urgent: Action Required for Parcel Delivery
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Message-ID: <000001a2f3a9$e8f93e90$bbebbb0@ups-notification.server>
+Date: Wed, 11 Oct 2023 10:00:00 -0500
+
+<html>
+<body>
+<img src="http://192.168.1.101/logo.png" alt="UPS Logo">
+<p>Dear Customer,</p>
+<p>We are unable to deliver your parcel due to an incorrect address. To resolve this issue, a small fee is required.</p>
+<p>Please <a href="http://unexpected-domain.com/payment" style="color: #0000EE;">click here</a> to complete your payment and verify your information.</p>
+<p>For more information, <a href="http://www.ups.com/helpcenter" style="color: #0000EE;">visit our support center</a>.</p>
+<p>To track your parcel, proceed to <a href="http://192.168.1.101/tracking">  </a>.</p>
+<p>Ensure your account is safe by checking our <a href="http://accounts.verified-ups.co/profile">  </a>.<p>
+<p>Thank you for your attention to this urgent matter.</p>
+<p>Regards,<br>UPS Delivery Team</p>
+<hr>
+<p><a href="http://ups.com.privacy-policy.info">Privacy Policy</a> | <a href="http://ups.com.help-center.info">Help</a> | <a href="http://ups.com.contact-us.info">Contact Us</a></p>
+</body>
+</html>

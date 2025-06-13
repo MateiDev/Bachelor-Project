@@ -1,0 +1,54 @@
+From no-reply@dhl-express.com Fri Jul 19 16:02:16 2024
+Return-Path: <no-reply@dhl-express.com>
+Received: from mail.dhl-express.com (mail.dhl-express.com [203.0.113.45])
+    by mx.provider.net with ESMTPS id c12345
+    for <user@victimdomain.com>; Fri, 19 Jul 2024 16:02:16 +0200 (CEST)
+Date: Fri, 19 Jul 2024 16:02:16 +0200
+From: DHL Express Notification <no-reply@dhl-express.com>
+Reply-To: support@billing.dhl-payments.verify-secure.net
+To: user@victimdomain.com
+Subject: Urgent: Account Password confirmation required for DHL shipment
+Message-ID: <CAF3fGhLk@mail.dhl-express.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_ABC123.456DEF"
+
+------=_Part_ABC123.456DEF
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your DHL package is in jeopardy!
+We attempted delivery but failed due to unpaid fees.
+Immediate action required to confirm your account password and release your shipment.
+
+- Pay release fee: http://192.0.2.45/fee
+- Validate credentials: https://secure.login.update-server.dhl-payments.com/validate
+- Confirm details: http://help.modal-update4.net/confirm
+- Track parcel: http://203.0.113.77/track
+
+Failure to respond within 24 hours will result in permanent return to sender and possible account suspension.
+Thank you for your prompt compliance,
+DHL Express Billing Team
+
+------=_Part_ABC123.456DEF
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p style="color:red; font-weight:bold;">URGENT: Your DHL package is in jeopardy!</p>
+<p>We attempted delivery but failed due to unpaid fees.<br>
+<strong>Immediate action required</strong> to confirm your account password and release your shipment.</p>
+<ul>
+  <li>Pay release fee: <a href="http://192.0.2.45/fee"></a></li>
+  <li>Validate credentials: <a href="https://secure.login.update-server.dhl-payments.com/validate">here</a></li>
+  <li>Confirm details: <a href="http://help.modal-update4.net/confirm">here</a></li>
+</ul>
+<p>Track your parcel:</p>
+<p><a href="http://203.0.113.77/track"><img src="http://198.51.100.23/banner.png" alt="Track Your Parcel"></a></p>
+<p>For more information, see our <a href="http://secure.support.dhl.com/privacy.html">Privacy Policy</a> or <a href="http://secure.support.dhl.com/help.html">Help Center</a>.</p>
+<p>Failure to respond within <strong>24 HOURS</strong> will result in permanent return and account suspension.</p>
+<p>Thank you for your prompt <strong>compliance</strong>.</p>
+</body>
+</html>
+
+------=_Part_ABC123.456DEF--

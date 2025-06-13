@@ -1,0 +1,52 @@
+From notification@dhlupdates.com Mon Jan  1 10:00:00 2024
+Return-Path: <notification@dhlupdates.com>
+Received: from mail.dhlupdates.com ([192.0.2.1]) by mx.google.com with ESMTP id abc123xyz; Mon, 1 Jan 2024 10:00:00 +0000
+From: "DHL Express Delivery" <notification@dhlupdates.com>
+Reply-To: support@secure-dhl.com
+To: user@domain.com
+Subject: URGENT: Delivery Attempt Failed - Immediate Action Required
+Date: Mon,  1 Jan 2024 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+----=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery attempt has failed due to an unpaid release fee.
+This is an URGENT notification. To avoid return to sender and extra charges,
+you must pay immediately.
+
+Please visit the link below to confirm your payment:
+http://203.0.113.45/release-fee
+
+Thank you for your prompt attention.
+
+Best regards,
+DHL Express Delivery Team
+
+----=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif; color:#333333;">
+    <h2 style="color:#D21404;">URGENT: Delivery Attempt Failed</h2>
+    <p>Dear Customer,</p>
+    <p>Your recent delivery attempt <strong>failed</strong> due to an unpaid release fee. Immediate action is required to avoid return to sender.</p>
+    <p><a href="http://203.0.113.45/release-fee" style="text-decoration:none;">click here</a> to release your package immediately.</p>
+    <p>
+      <a href="http://203.0.113.45/track">
+        <img src="http://203.0.113.45/images/dhl-package.jpg" alt="DHL Package" style="border:none;" />
+      </a>
+    </p>
+    <p>Or check status at <a href="http://203.0.113.45/track" style="color:#1a73e8;">https://www.dhl.com/track</a></p>
+    <p>If you do not complete payment within 24 hours, your package will be returned.</p>
+    <hr style="border:none; border-top:1px solid #eeeeee;" />
+    <p style="font-size:12px; color:#888888;">DHL Express | Privacy Policy | Terms of Service</p>
+  </body>
+</html>
+
+----=_Part_0_123456789.987654321--

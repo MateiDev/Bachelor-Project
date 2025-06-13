@@ -1,0 +1,32 @@
+From - Fri Oct 27 14:59:52 2023
+X-Account-Key: account2
+X-UIDL: UID12345
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <alerts@secure-service-notification.com>
+Received: from 198.51.100.1 (unknown [198.51.100.1])
+    by mail.example.com (Postfix) with ESMTP id 1029384756
+    for <victim@example.com>; Fri, 27 Oct 2023 14:59:52 +0000 (UTC)
+Reply-To: support@secure-update-alert.com
+From: "Service Security Alert" <alerts@secure-service-notification.com>
+Subject: Immediate Action Required: Secure Your Account!
+Date: Fri, 27 Oct 2023 14:59:52 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Message-ID: <201505051453.1234.56789@email.example.com>
+To: undisclosed-recipients:;
+
+<html>
+<body>
+    <p>Dear User,</p>
+    <p>We have detected suspicious activity on your account. As a precautionary measure, your account access has been <strong>temporarily frozen</strong>.</p>
+    <p>To <strong>restore full access</strong> to your account, you must <a href="http://192.0.2.1/login.html">click here</a> immediately to verify your details.</p>
+    <p>Failure to verify your details within <strong>24 hours</strong> will result in permanent lockout.</p>
+    <p><a href="http://192.0.2.1/login.html"><img src="http://198.51.100.2/logo.png" alt="Login Logo"></a></p>
+    <p>For more information, visit our <a href="https://www.trustedservice.com/help">help center</a> or <a href="https://www.trustedservice.com/privacy">privacy policy</a>.</p>
+    <p>Click <a href="http://example.com/deceptive-link">here</a> to see more details regarding this alert.</p>
+    <p>Thank you for your immediate attention to this matter.</p>
+    <p>Best regards,<br/>Security Team</p>
+</body>
+</html>

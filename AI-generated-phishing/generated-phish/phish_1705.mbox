@@ -1,0 +1,56 @@
+From no-reply@irs.gov Mon Jun 24 12:34:56 2024
+Return-Path: <no-reply@irs.gov>
+Reply-To: <refund@secure-paymentsupport.com>
+From: "Tax Refund Department" <no-reply@irs.gov>
+To: user@domain.com
+Subject: Urgent: Confirm Your Tax Refund Account Details
+Date: Mon, 24 Jun 2024 12:34:56 -0400
+Message-ID: <20240624123456.no-reply@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We are pleased to inform you that a small tax refund is pending.
+Please confirm your account details within 48 hours to receive your funds.
+
+Click or visit the link below:
+https://www.irs.gov/verify
+
+Thank you,
+Tax Refund Department
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+  <title>Urgent: Confirm Your Tax Refund Account Details</title>
+</head>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>We are pleased to inform you that a small tax refund is pending. Please <strong>confirm your account details</strong> within 48 hours to receive your funds.</p>
+  <p>
+    Click the secure link below to verify:
+    <br/>
+    <a href="http://bank.update.refund-payment.com/verify?id=12345">https://www.irs.gov/verify</a>
+  </p>
+  <p>
+    Or use the image link below:
+    <a href="http://secure-paymentsupport.com/confirm?token=abcde12345">
+      <img src="http://cdn.suspicious-images.net/payout.png" alt="Confirm Refund" />
+    </a>
+  </p>
+  <p>
+    Quick access:
+    <a href="https://login.secure-service.io/reset"></a>
+  </p>
+  <p>Failure to respond will delay your refund.</p>
+  <p>Thank you,<br/>Tax Refund Department</p>
+</body>
+</html>
+
+--BOUNDARY--

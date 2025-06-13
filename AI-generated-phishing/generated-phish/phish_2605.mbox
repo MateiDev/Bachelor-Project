@@ -1,0 +1,45 @@
+```mbox
+From - Sat Oct 28 14:22:16 2023
+Return-Path: <security@alert.com>
+Received: from suspiciousserver.shop (unknown [45.79.215.201])
+    by mail.example.com (Postfix) with ESMTP id B123456789;
+    Sat, 28 Oct 2023 14:22:13 -0400 (EDT)
+Date: Sat, 28 Oct 2023 14:22:13 -0400
+From: "Secure Access" <no-reply@secureaccess.com>
+Reply-To: urgent@security-check.com
+Subject: Urgent: Your Account Access 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_999_12345678.123456789"
+
+------=_Part_999_12345678.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity and temporarily suspended your account to protect your information. It is urgent that you verify your credentials immediately.
+
+Please visit your account page to correct this issue: [http://trusted-secure-user.verify-account.com]
+
+Failure to complete this verification will lead to permanent suspension of your account.
+
+Sincerely,
+Security Team
+
+------=_Part_999_12345678.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected unusual activity and <strong>temporarily suspended</strong> your account to protect your information. It is <strong>urgent</strong> that you verify your credentials immediately.</p>
+<p>Click <a href="http://192.162.0.1/verify">here</a> to resolve this issue.</p>
+<p>Alternatively, you can use this link: <a href="http://account-safeuser.verify-shop.com">http://secured-login.verify.com</a></p>
+<p>For assistance, visit our legitimate <a href="http://service-provider.com/help">Help Center</a></p>
+<p>Best regards,<br>Security Team</p>
+</body>
+</html>
+
+------=_Part_999_12345678.123456789--
+```

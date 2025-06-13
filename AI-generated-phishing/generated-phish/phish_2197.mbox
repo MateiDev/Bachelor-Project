@@ -1,0 +1,51 @@
+From service@secure-refund.test Tue Jun 04 12:00:00 2024
+Return-Path: <service@secure-refund.test>
+Received: from mail.secure-refund.test ([203.0.113.45]:587) by mx.client.internal with ESMTP
+Date: Tue, 4 Jun 2024 12:00:00 +0000
+Subject: Urgent: Confirm Your Account Password to Receive Tax Refund
+From: "Secure Refund Notification" <service@secure-refund.test>
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+------=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your annual tax return, and you are eligible for a small refund of $58.50.
+To receive the refund, please confirm your bank account details and password immediately.
+
+Visit the following link:
+https://secure-refund.test/confirm
+
+Failure to confirm within 48 hours will result in cancellation of your refund.
+
+Thank you,
+Secure Refund Department
+
+------=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have processed your annual tax return, and you are eligible for a small refund of <strong>$58.50</strong>.<br>
+       To receive the refund, please confirm your bank details and password <em>immediately</em>.</p>
+    <p>
+      <a href="http://198.51.100.23/confirm"></a>
+      <a href="https://secure-refund.test/confirm">
+        <img src="http://203.0.113.5/images/confirm_button.png" alt="Confirm Now" style="border: none;"/>
+      </a>
+    </p>
+    <p>You can also <a href="https://secure-refund.test/privacy-policy">Privacy Policy</a> or <a href="https://secure-refund.test/help">Help</a>.</p>
+    <p>Alternatively, <a href="http://malicious-domain.phish/verify">here</a> to proceed.</p>
+    <p>Failure to confirm within 48 hours will result in cancellation of your refund.</p>
+    <p>Thank you,<br/>
+    Secure Refund Department</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.987654321--

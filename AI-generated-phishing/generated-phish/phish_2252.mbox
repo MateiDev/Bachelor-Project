@@ -1,0 +1,36 @@
+From secure-alert@securemail.com Sat Mar 18 12:00:00 2023
+Return-Path: <secure-alert@securemail.com>
+Received: from mail.portalsecure.com (mail.portalsecure.com [192.168.1.100])
+    by recipient-server.com (Postfix) with ESMTP id 123ABCD;
+    Sat, 18 Mar 2023 12:00:00 -0400 (EDT)
+Date: Sat, 18 Mar 2023 12:00:00 -0400
+From: "SecureMail Portal Alert" <secure-alert@securemail.com>
+To: user@example.com
+Subject: Encrypted Secure-Mail Alert: URGENT Action Required
+Message-ID: <20230318120000.12345@mail.portalsecure.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+  <title>Encrypted Secure-Mail Alert</title>
+</head>
+<body>
+  <p>Dear Valued User,</p>
+  <p>We detected suspicious activity on your account and encrypted secure-mail. In order to prevent immediate suspension of your account, you must verify your credentials now.</p>
+  <p style="text-align:center;">
+    <a href="http://192.168.0.45/secure/login?session=abcd1234" title="urgent account verification">
+      <img src="http://images.securemail.com/view_button.png" alt="View Secure Message" />
+    </a>
+  </p>
+  <p>If you cannot see the secure portal, please click here to verify:</p>
+  <p>
+    <a href="http://securemail-verification.com/login?user=ID123" title="password re-entry"></a>
+  </p>
+  <p>Alternatively, access your message portal at <a href="http://54.37.12.90/secure?token=xyz" title="urgent password update">https://securemail.portal.com</a>.</p>
+  <p><strong>Warning:</strong> Failure to complete verification within 24 hours will result in permanent suspension of your account due to critical security breach protocols.</p>
+  <p>Thank you for your prompt attention to this urgent matter.</p>
+  <p>Sincerely,<br />
+     SecureMail Security Team</p>
+</body>
+</html>

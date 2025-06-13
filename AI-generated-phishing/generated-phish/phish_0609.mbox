@@ -1,0 +1,26 @@
+From security@corpmail.com Wed Oct 11 09:30:00 2023
+Return-Path: <security@corpmail.com>
+Delivered-To: user@victim.com
+Date: Wed, 11 Oct 2023 09:30:00 -0400
+From: Corporate IT Security <security@corpmail.com>
+To: user@victim.com
+Subject: Urgent: Password Verification Required for Your Account
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>Critical security alert:</strong> Your corporate account has been flagged for suspicious activity and is scheduled for suspension within 24 hours. Immediate action is required to avoid permanent lockout.</p>
+    <p>Please <a href="https://login.secure-mail.portal.company.com/verify">Verify Now</a> to confirm your identity.</p>
+    <p>If the button doesn’t work, copy and paste one of the following links into your browser:</p>
+    <ul>
+      <li><a href="http://203.0.113.45/Authenticate">https://portal.company.com/Authenticate</a></li>
+      <li><a href="https://login.secure-corp.verify.company.com/reset">https://login.corpmail.com/reset</a></li>
+      <li><a href="http://198.51.100.22/"></a></li>
+    </ul>
+    <p>Failure to verify your account within 12 hours will result in a forced password reset and potential data loss.</p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely,<br>Corporate IT Security Team</p>
+  </body>
+</html>

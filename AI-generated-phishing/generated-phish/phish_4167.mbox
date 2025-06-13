@@ -1,0 +1,56 @@
+From secure@secure-bank.com Tue Jul 02 10:31:00 2024
+Message-ID: <20240702103100.12345@secure-bank.com>
+Date: Tue, 02 Jul 2024 10:31:00 -0400
+From: "Secure Mail Portal" <secure@secure-bank.com>
+Reply-To: support@bank-support.org
+To: user@example.com
+Subject: URGENT: Security Alert – Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_7654321"
+
+------=_Part_1234567_7654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT SECURITY ALERT
+
+Dear Customer,
+
+We detected suspicious activity on your Secure Mail Portal account.
+You must verify your identity to avoid immediate suspension.
+
+Please visit the link below within 24 hours:
+http://123.45.67.89/secure-login
+
+If you cannot click the link, copy and paste it into your browser.
+
+Thank you,
+Secure Mail Portal Support
+
+------=_Part_1234567_7654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT SECURITY ALERT</strong></p>
+    <p>Dear Customer,</p>
+    <p>Your account has experienced <span style="color:#ff0000;">suspicious activity</span>. You must verify your identity to avoid <strong>immediate suspension</strong> of your SecureMail portal access.</p>
+    <p>
+      <a href="http://123.45.67.89/secure-login">
+        <img src="http://98.76.54.32/images/securemail.png" alt="SecureMail Portal" />
+      </a>
+    </p>
+    <p>Please <a href="http://123.45.67.89/verify">click here</a> to verify your login details within 24 hours.</p>
+    <p>If the button above does not work, copy and paste this link into your browser:</p>
+    <p>
+      <a href="http://123.45.67.89/token?ABCD1234">https://portal.security.alert.securebank.com/verification?token=ABCD1234</a>
+    </p>
+    <p>Need help? <a href="https://www.securebank.com/privacy-policy">privacy-policy</a></p>
+    <p>Support: <a href="http://malicious.hak.ex.am.ple.com/login">login</a></p>
+    <p><a href="http://123.45.67.89/help"></a></p>
+    <p>Thank you,<br/>Secure Mail Portal Team</p>
+  </body>
+</html>
+
+------=_Part_1234567_7654321--

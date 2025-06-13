@@ -1,0 +1,47 @@
+From MAILER-DAEMON Fri Jul  5 10:00:00 2024
+Return-Path: <no-reply@dhlglobal.com>
+Received: from mail.dhlglobal.com ([192.0.2.1] helo=dhlglobal.com)
+    by mx.gmail.com with ESMTP id abc123
+    for <user@domain.com>; Fri, 5 Jul 2024 10:00:00 +0000 (UTC)
+Date: Fri, 5 Jul 2024 10:00:00 +0000
+From: "DHL Express Delivery" <no-reply@dhlglobal.com>
+To: user@domain.com
+Subject: URGENT: Delivery Failure Notification
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000001234"
+
+--0000000000001234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but failed due to an unpaid customs fee.
+Please visit the link below immediately to schedule redelivery, or your parcel will be returned to sender.
+
+http://198.51.100.23/release?pkg=ABC123
+
+Failure to act now may result in package loss.
+
+Sincerely,
+DHL Express Delivery
+
+--0000000000001234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> We attempted to deliver your package but the delivery has failed due to an unpaid <em>customs fee</em>.</p>
+    <p>Please click <a href="http://198.51.100.23/release?pkg=ABC123" style="color:blue;"></a>here to pay the fee and <span style="text-decoration:underline;">reschedule delivery</span> immediately. Failure to act by 11:59 PM UTC tonight will result in your parcel being returned to sender and <strong>permanent loss</strong> of your shipment.</p>
+    <p>Track your package status directly:</p>
+    <ul>
+      <li><a href="http://203.0.113.45/track">https://www.dhl.com/track?item=ABC123</a></li>
+      <li><a href="http://192.0.2.99/verify">https://dhl.tracking-update.com/confirm</a></li>
+    </ul>
+    <p>Regards,<br>DHL Express Support Team</p>
+  </body>
+</html>
+
+--0000000000001234--

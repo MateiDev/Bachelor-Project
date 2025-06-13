@@ -1,0 +1,54 @@
+```
+From - Wed Oct 18 14:17:02 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                  
+Return-Path: <taxrefunds@example-fake.com>
+Received: from 192.0.2.0 ([192.0.2.0])
+        by mail.example.com (8.14.4/8.14.4) with SMTP id a9IEG140007187
+        for <user@example.com>; Wed, 18 Oct 2023 14:16:01 -0400
+Date: Wed, 18 Oct 2023 14:16:01 -0400
+From: Tax Department <taxrefunds@example-company.com>
+Reply-To: taxsupport@refund-update.com
+Message-ID: <20231018141702123456@example-fake.com>
+Subject: URGENT: Action Required – Refund Notification
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_789000987654321"
+
+------=_Part_123456_789000987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We are contacting you regarding a $425.00 tax refund waiting to be processed. To ensure you receive your refund promptly, please confirm your banking details by visiting our secure page.
+
+Please click the link below to access your refund confirmation page:
+
+http://192.0.2.1.tax-update.monitor.account.verify.confirm.refund.example.com
+
+If you require further assistance, please visit our help section at https://www.example-company.com/help
+
+Thank you,
+The Tax Refund Department
+
+------=_Part_123456_789000987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear User,</p>
+    <p>We are contacting you regarding a <strong>$425.00 tax refund</strong> waiting to be processed. To ensure you receive your refund promptly, please confirm your banking details by visiting our secure page.</p>
+    <p>Please <a href="http://192.0.2.1.tax-update.monitor.account.verify.confirm.refund.example.com">click here</a> to access your refund confirmation page.</p>
+    <p>If you require further assistance, please visit our help section at <a href="https://www.example-company.com/help">https://www.example-company.com/help</a></p>
+    <p>Thank you,<br>The Tax Refund Department</p>
+  </body>
+</html>
+
+------=_Part_123456_789000987654321--
+```

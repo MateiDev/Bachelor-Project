@@ -1,0 +1,45 @@
+```
+From nobody Mon Oct 16 01:59:10 2023
+Return-Path: <phish@example.com>
+Received: from suspiciousdomain.com (suspiciousdomain.com [192.168.1.1])
+        by receiver.mx.example.com (8.14.4/8.14.4) with ESMTP id t9G0x7Vs010923
+        for <user@example.com>; Mon, 16 Oct 2023 01:59:10 GMT
+Date: Mon, 16 Oct 2023 01:59:10 GMT
+From: "Security Alert" <securityalert@account-protection.com>
+Subject: Urgent: Unusual Sign-In Detected on Your Account
+To: <user@example.com>
+Content-Type: multipart/alternative; boundary="000000000000c9f"
+
+--000000000000c9f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual sign-in activity on your account. Please verify your account to ensure the security of your information. Failure to do so may result in a temporary suspension.
+
+Verify your account now by clicking the link below:
+
+Verify now: [secure.example.com/verify](http://maliciouslink.com/verify-now)
+
+Thank you,
+Account Security Team
+
+--000000000000c9f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear user,</p>
+<p>We have detected unusual sign-in activity on your account. Please <b>verify your account</b> to ensure the security of your information. Failure to do so may result in a temporary suspension.</p>
+<p><a href="http://maliciouslink.com/reset-password"><img src="http://imagesecuritylink.com/icon.png" alt="Reset Password"></a></p>
+<p>Verify your account now by clicking the link below:</p>
+<p><a href="http://maliciouslink.com/verify-now">Verify now: secure.example.com/verify</a></p>
+<p><a href="http://safepage.com" target="_blank"></a><br></p>
+<p>Thank you,<br>Account Security Team</p>
+</body>
+</html>
+
+--000000000000c9f--
+```

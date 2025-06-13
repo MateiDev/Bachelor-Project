@@ -1,0 +1,28 @@
+From security@bankexample.com Fri Jul 21 14:22:01 2023
+Return-Path: <security@bankexample.com>
+Received: from mail.bankexample.com (mail.bankexample.com [198.51.100.5]) by mail.receiver.com with SMTP id LKO123456; Fri, 21 Jul 2023 14:22:01 -0400 (EDT)
+Date: Fri, 21 Jul 2023 14:22:01 -0400
+From: "Bank Security Team" <security@bankexample.com>
+To: user@example.net
+Subject: Urgent: Verify Your Account Information
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Urgent Account Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected unusual activity on your account and require immediate verification to avoid suspension. Please verify your password and account details within 24 hours.</p>
+<p>To verify, please login securely using one of the links below:</p>
+<ul>
+<li>https://secure.bankexample.com/login -> <a href="http://192.0.2.55/login.php?id=ABC123"></a></li>
+<li><a href="http://203.0.113.20/login.bank.verification.example.com/auth">Click here to Verify</a></li>
+<li><a href="http://54.23.12.34/verify/account">https://bank.example.com.security.verify/login</a></li>
+</ul>
+<p><a href="http://198.51.100.23/secure.php"><img src="http://203.0.113.10/images/logo.png" alt="Bank Logo"></a></p>
+<p>Failure to comply will result in account suspension.</p>
+<p>Regards,<br>Bank Security Team</p>
+</body>
+</html>

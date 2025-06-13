@@ -1,0 +1,52 @@
+From phishing-bot@bankalerts.net Wed Jul 28 14:02:33 2021
+Return-Path: <no-reply@secure-login.banksecure.com>
+From: "Bank Notification" <security@alerts.banksecure.com>
+Reply-To: support@verification-center.net
+To: user@mailservice.com
+Subject: URGENT: Account Security Alert – Verify Immediately
+Date: Wed, 28 Jul 2021 14:02:33 -0400
+Message-ID: <20210728140233.phonebank@alerts.banksecure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0001_123456.1627490553000"
+
+----=_Part_0001_123456.1627490553000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual sign-in activity on your account. Your password expires today – reset immediately to avoid suspension.
+
+Please verify your identity now:
+
+http://192.0.2.123/reset-password?user=123456
+
+Failure to do so MAY result in permanent account lock.
+
+Sincerely,
+Bank Security Team
+
+----=_Part_0001_123456.1627490553000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <body>
+  <h2 style="color:red;">URGENT: Unusual sign-in detected—verify your account</h2>
+  <p>Your <strong>password expires today</strong>. You MUST reset immediately to secure your account.</p>
+  <p>Please <a href="http://203.0.113.45/authenticate">here</a> to verify and reset your credentials now.</p>
+  <p>Quick access: <a href="http://203.0.113.45/login">https://securebank-login.com</a></p>
+  <a href="http://198.51.100.25/verify"></a>
+  <p>
+    <a href="http://203.0.113.45/secure">
+      <img src="http://123.123.123.123/images/verify.gif" alt="Verify Now">
+    </a>
+  </p>
+  <p>Helpful links:
+     <a href="https://www.securebanklogin.com/privacy.policy">privacy-policy</a> |
+     <a href="https://www.securebanklogin.com/help.support">help</a>
+  </p>
+ </body>
+</html>
+
+----=_Part_0001_123456.1627490553000--

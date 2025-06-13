@@ -1,0 +1,38 @@
+From support@microsoft.com Fri Mar 10 14:32:00 2023
+Return-Path: <support@microsoft.com>
+Received: from mail.microsoft.com (mail.microsoft.com [192.0.2.1])
+    by mx.example.com with ESMTP id abc123;
+    Fri, 10 Mar 2023 14:32:00 +0000 (UTC)
+From: "Microsoft Support" <support@microsoft.com>
+Reply-To: service@secure-login.com
+To: user@example.com
+Subject: Urgent: Your Microsoft Account Password Verification Required
+Date: Fri, 10 Mar 2023 14:32:00 -0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We detected multiple unsuccessful <strong>login</strong> attempts on your Microsoft account due to suspicious activity. To prevent your account from being <strong>Suspended</strong>, please verify your credentials immediately.</p>
+    <p>This is an <strong>urgent</strong> security alert. Failure to act within 24 hours will result in permanent suspension of access.</p>
+    <p>
+      <a href="https://secure-login-login.microsoft.com.phishingsite.com/login">
+        <img src="https://assets.microsoft.com/logo.png" alt="Microsoft Logo" />
+      </a>
+    </p>
+    <p>Please <a href="https://secure-login-login.microsoft.com.phishingsite.com/login">click here</a> to secure your account now.</p>
+    <p>Or copy and paste the following link into your browser:</p>
+    <p><a href="https://secure-login-login.microsoft.com.phishingsite.com/login">https://login.microsoftonline.com</a></p>
+    <p>Additional resources:</p>
+    <ul>
+      <li><a href="https://www.microsoft.com/en-us/privacy">Privacy Policy</a></li>
+      <li><a href="https://support.microsoft.com">Help Center</a></li>
+      <li><a href="https://account.microsoft.com/security">Account security</a></li>
+    </ul>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely,<br/>Microsoft Account Team</p>
+    <p><a href="https://secure.access.microsoft.com.phishingsite.com"></a></p>
+  </body>
+</html>

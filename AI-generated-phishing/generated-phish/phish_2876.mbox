@@ -1,0 +1,29 @@
+```mbox
+From phishing@alert-security.com Tue Oct 24 14:33:12 2023
+Return-Path: <phishing@alert-security.com>
+Received: by 2002:a05:6214:22f:: with SMTP id gf15csp0283923lkb;
+        Tue, 24 Oct 2023 14:33:12 -0700 (PDT)
+Date: Tue, 24 Oct 2023 21:33:12 +0000
+From: "Account Security" <alert@security-updates.com>
+Reply-To: support@fake-helpdesk.com
+To: victim@example.com
+Subject: Urgent: Immediate Action Required for Account Security
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear Valued Customer,</p>
+    <p>We have detected <b>unusual sign-in activity</b> on your account and need you to verify your identity <u>immediately</u>. Failure to do so may result in account suspension.</p>
+    <p>Please <a href="http://192.0.2.0/login">click here</a> to verify your account or visit:</p>
+    <p><a href="http://192.0.2.0/login"></a></p>
+    <p>Your <b>password expires today</b>. For your security, please reset it now using the link below:</p>
+    <p><a href="http://accounts-secure.update.co.uk/reset-password">Reset Password</a></p>
+    <p>If you have any questions, feel free to visit our <a href="https://www.legitimate-help.com/support">support page</a> or our <a href="https://privacy-policy.legitimate.com">privacy policy</a>.</p>
+    <p><a href="http://secure-alert.here-link.co.uk/">click here</a> to resolve this issue.</p>
+    <p>Thank you,</p>
+    <p>Security Team</p>
+</body>
+</html>
+```

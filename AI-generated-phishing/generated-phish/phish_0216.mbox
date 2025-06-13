@@ -1,0 +1,47 @@
+```
+From - Mon Oct 30 14:27:37 2023
+Return-Path: <fake@taxrefunds.com>
+Received: from suspicious.server.com (suspicious.server.com [192.168.1.100])
+    by yourdomain.com (YourDomain ESMTP) with ESMTP id v10NPS8S027661
+    for <recipient@domain.com>; Mon, 30 Oct 2023 14:27:37 -0500
+Date: Mon, 30 Oct 2023 14:27:36 -0500
+From: "Tax Refund Department" <noreply@taxrefunds.com>
+Subject: Urgent: Confirm Your Tax Refund Details
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000002d6c0e05ea6a50c6"
+
+--0000000000002d6c0e05ea6a50c6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have been trying to reach you regarding an urgent matter concerning your recent tax filing. Good news! You are eligible for a refund. Action is required to process your claim: please confirm your bank details to avoid delays.
+
+Kindly update your information using the link below:
+
+http://secure-update-service.com/confirm
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+Tax Refund Department
+
+--0000000000002d6c0e05ea6a50c6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have been <b>trying to reach you</b> regarding an <b>urgent</b> matter concerning your recent tax filing. Good news! You are <b>eligible for a refund</b>. Action is <b>required</b> to process your claim: please <b>confirm your bank details</b> to avoid delays.</p>
+    <p>Kindly update your information using the link below:</p>
+    <p><a href="http://malicious-update-service.com/confirm">http://secure-update-service.com/confirm</a></p>
+    <p><a href="">  </a><br/></p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Best regards,<br/>Tax Refund Department</p>
+  </body>
+</html>
+
+--0000000000002d6c0e05ea6a50c6--
+```

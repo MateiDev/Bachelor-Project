@@ -1,0 +1,52 @@
+From support@rewardcenter.com Thu Jul 25 09:14:07 2024
+Return-Path: <support@rewardcenter.com>
+Received: from mail.rewardcenter.com (mail.rewardcenter.com [192.0.2.5])
+    by mx.userdomain.com with ESMTP id ABC123XYZ
+    for <user@domain.com>; Thu, 25 Jul 2024 09:14:07 +0200
+Date: Thu, 25 Jul 2024 09:14:07 +0200
+From: "Reward Center Support" <support@rewardcenter.com>
+Reply-To: admin@secure-giftcards.com
+To: user@domain.com
+Subject: Urgent: Your account password is required to claim your €100 voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_002E_01D8C4A1.5B934B71"
+
+------=_NextPart_001_002E_01D8C4A1.5B934B71
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Congratulations! You have been selected to receive a €100 gift voucher. To secure your reward, please update your account password and verify it immediately by visiting one of the links below:
+
+1) https://secure.rewards.com/verify
+2) http://198.51.100.45/claim?ref=ABC123
+
+If you have any questions, you can review our privacy policy or help center:
+Privacy Policy: https://rewardcenter.com/privacy-policy
+Help Center: https://rewardcenter.com/help
+
+Act now—this offer expires soon!
+
+Best regards,
+Reward Center Support
+
+------=_NextPart_001_002E_01D8C4A1.5B934B71
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear valued user,</p>
+    <p>Congratulations! You are eligible for a <strong>€100 gift voucher</strong>. To claim your reward, please update your <em>account password</em> and verify it by clicking on one of the links below:</p>
+    <ul>
+      <li><a href="http://198.51.100.45/claim?ref=ABC123">click here</a> to claim now!</li>
+      <li><a href="http://203.0.113.10/update?token=XYZ456">https://secure.rewards.com</a></li>
+    </ul>
+    <p>For more information, please visit our <a href="https://rewardcenter.com/privacy-policy">Privacy Policy</a> or <a href="https://rewardcenter.com/help">Help Center</a>.</p>
+    <p>Act quickly—this voucher offer is <strong>urgent</strong> and will expire soon.</p>
+    <p>Best regards,<br/>Reward Center Support</p>
+  </body>
+</html>
+
+------=_NextPart_001_002E_01D8C4A1.5B934B71--

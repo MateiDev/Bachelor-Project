@@ -1,0 +1,24 @@
+From voucher-alert@amazon.com Sat Jul 20 12:34:56 2024
+Return-Path: <voucher-alert@amazon.com>
+Received: from mail.amazon.com (mail.amazon.com [54.239.28.85])
+    by mail.personalmail.com with ESMTP id abc123
+    for <customer@personalmail.com>; Sat, 20 Jul 2024 12:34:56 +0000
+From: "Amazon Rewards" <voucher-alert@amazon.com>
+To: <customer@personalmail.com>
+Subject: urgent: account password verification required to claim €50 reward
+Date: Sat, 20 Jul 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Amazon Customer,</p>
+    <p>We're thrilled to inform you that you are eligible for a €50 voucher as part of our Exclusive Rewards Program! To claim this special reward, please complete your account password verification by clicking <a href="http://modal-gifts.com/verify">here</a>.</p>
+    <p>You can also redeem your voucher directly by visiting <a href="http://203.0.113.45/voucher">http://203.0.113.45/voucher</a>.</p>
+    <p>If that link doesn’t work, copy and paste this into your browser: <a href="http://192.0.2.23/redeem">http://www.amazon.com/claim</a></p>
+    <p>Hidden verification token: <a href="http://198.51.100.99/hidden"></a></p>
+    <p><a href="http://modal-gifts.com/redeem"><img src="http://modal-gifts.com/assets/voucher_banner.png" alt="Claim €50 Voucher"></a></p>
+    <p>Need help? Visit our <a href="https://www.amazon.com/help">Help Center</a> or review our <a href="https://www.amazon.com/privacy">Privacy Policy</a> for more details.</p>
+    <p>Thank you for being a valued Amazon Customer!</p>
+  </body>
+</html>

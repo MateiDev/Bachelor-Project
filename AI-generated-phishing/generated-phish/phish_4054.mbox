@@ -1,0 +1,82 @@
+From phishing-sim@dhl.com Fri Jun 28 09:23:45 2024
+Return-Path: <no-reply@dhl.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl-logistics.com (mail.dhl-logistics.com [203.0.113.5])
+    by mail.receiver.com (Postfix) with ESMTP id A1B2C3D4
+    for <victim@example.com>; Fri, 28 Jun 2024 09:23:45 +0000 (UTC)
+Date: Fri, 28 Jun 2024 09:23:45 +0000
+From: "DHL Delivery Team" <no-reply@dhl.com>
+Reply-To: secure-update@dhl-verification.com
+To: victim@example.com
+Subject: Urgent: Account Delivery Notification – Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7890abcdef"
+
+----=_Part_123456_7890abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Attention DHL Customer,
+
+Your package (ID: ABCD1234) is being held due to incomplete verification of your account password information. To avoid shipment delay or return to sender, please complete the delivery verification process immediately.
+
+Review your delivery status here:
+https://www.dhl.com/track?parcel=ABCD1234
+
+Alternatively, click here to complete your verification:
+http://198.51.100.23/release?package=ABCD1234
+
+If we do not receive verification within 24 hours, your package will be returned.
+
+Thank you for your prompt attention,
+DHL Delivery Team
+
+----=_Part_123456_7890abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;">
+    <p style="color:#333333; font-size:14px;">
+      <strong>Attention DHL Customer,</strong><br>
+      <span style="color:#d9534f;">Your account delivery is on hold for urgent verification!</span>
+    </p>
+    <p style="font-size:14px;">
+      We detected an issue with your <em>account password</em> details, and your parcel <strong>ID: ABCD1234</strong> cannot be delivered until you verify your information.
+    </p>
+    <p style="font-size:14px;">
+      Track your shipment at:<br>
+      <a href="http://198.51.100.23/track?parcel=ABCD1234" style="color:#0073e6;">
+        https://www.dhl.com/track?parcel=ABCD1234
+      </a>
+    </p>
+    <p style="font-size:14px;">
+      Or <a href="http://198.51.100.23/release?package=ABCD1234" style="color:#0073e6; text-decoration:none;">here</a> to complete verification now.
+    </p>
+    <p style="font-size:14px;">
+      Reset your <em>delivery password</em> at 
+      <a href="http://malicious.update.dhlverify.net/reset?token=XYZ" style="color:#0073e6;">
+        https://secure.dhl.com.login.portal.com/reset
+      </a>
+    </p>
+    <p style="font-size:14px;">
+      <a href="http://198.51.100.23/images/logo.png">
+        <img src="http://198.51.100.23/images/logo.png" alt="DHL Logo" style="width:120px; height:auto; border:0;" />
+      </a>
+    </p>
+    <p style="font-size:12px; color:#555555;">
+      For your reference, you can also visit our 
+      <a href="https://www.dhl.com/privacy" style="color:#0073e6;">Privacy Policy</a> or 
+      <a href="https://www.dhl.com/help-center" style="color:#0073e6;">Help Center</a>.
+    </p>
+    <p style="font-size:12px; color:#555555;">
+      Failure to verify within <strong>24 hours</strong> may result in package return.
+    </p>
+    <p style="font-size:12px; color:#555555;">
+      Thank you,<br>
+      DHL Delivery Team
+    </p>
+  </body>
+</html>
+
+----=_Part_123456_7890abcdef--

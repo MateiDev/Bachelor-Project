@@ -1,0 +1,29 @@
+From notifications@dhl.com Wed Jun 26 09:15:00 2024
+Return-Path: <notifications@dhl.com>
+Delivered-To: victim@example.com
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.5])
+	by mx.example.com with ESMTP id G7HY12345
+	for <victim@example.com>; Wed, 26 Jun 2024 09:15:00 +0000 (UTC)
+Date: Wed, 26 Jun 2024 09:15:00 +0000
+From: "DHL Delivery" <notifications@dhl.com>
+Reply-To: "DHL Support" <security@dhl-tracker-service.net>
+To: victim@example.com
+Subject: Urgent: DELIVERY ON HOLD – Immediate Action Required!!!
+Message-ID: <20240626091500.67890@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body style="font-family:Arial,sans-serif; color:#333;">
+<h2 style="color:#C00;">Final Warning: Your DHL shipment is on HOLD!</h2>
+<p>Dear Customer,</p>
+<p>We were <strong>unable to deliver</strong> your package due to unpaid customs duties. URGENT ACTION required within 24 hours to avoid <span style="color:#C00;">RETURN TO SENDER</span> or <span style="color:#C00;">PERMANENT CANCELLATION</span>.</p>
+<p>Please <a href="http://secure.dhl-updates-tracker.com/verify?ref=ABCD1234">click here</a> to review your shipment details and pay the necessary fees immediately.</p>
+<p>Alternatively, visit your tracking portal <a href="http://203.0.113.10/parcel?id=XYZ789">here</a> for more info.</p>
+<p><a href="http://203.0.113.10/tracking"><img src="http://203.0.113.10/tracking-image.png" alt="View Tracking Details" style="border:0;"></a></p>
+<hr>
+<p>Need help? Visit our <a href="https://help.dhl.com/en/express/troubleshooting.html">Help Center</a> or review our <a href="https://www.dhl.com/en/privacypolicy.html">Privacy Policy</a>.</p>
+<p>Thank you for choosing DHL. We apologize for any inconvenience and appreciate your prompt response.</p>
+<p style="font-size:0.9em; color:#999;">DHL Customer Service<br>Street Address, City, Country<br>©2024 DHL Group</p>
+</body>
+</html>

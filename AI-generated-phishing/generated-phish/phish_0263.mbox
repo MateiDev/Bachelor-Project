@@ -1,0 +1,49 @@
+```mbox
+From phishing@fake-email.com Fri Oct 6 14:12:30 2023
+Return-Path: <phishing@fake-email.com>
+Delivered-To: victim@example.com
+Received: from unknown (HELO fake-email.com) (192.168.1.100)
+        by mail.example.com with SMTP; Fri, 6 Oct 2023 14:12:30 -0400
+Subject: Urgent: Claim Your €1000 Gift Card Now!
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000b1234506054321"
+MIME-Version: 1.0
+
+--000000000000b1234506054321
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer,
+
+This is a limited-time offer! Due to your loyalty, you're eligible to receive a €1000 gift card. Hurry! You must claim your reward immediately before it expires. Proceed to our secure portal now!
+
+Claim Here: http://192.168.1.200/claim-gift
+
+Please verify your claim by visiting this secure link: http://secure.voucher-claims.com/verify
+
+Thank you for being a valued member. Act fast to avoid missing out on this opportunity!
+
+Sincerely,
+Reward Department
+
+--000000000000b1234506054321
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>This is a limited-time offer! Due to your loyalty, you're eligible to receive a <strong>€1000 gift card!</strong> Hurry! You must claim your reward immediately before it expires. Proceed to our secure portal now!</p>
+<a href="http://dangerous.voucher-claim.com/alert">
+  <img src="https://images.fake-domain.eu/hurry.svg" alt="Click here to claim your gift card">
+</a>
+<p>Claim Here: <a href="http://192.168.1.200/claim-gift">http://192.168.1.200/claim-gift</a></p>
+<p>Please verify your claim by visiting this secure link:</p>
+<a href="http://secure.voucher-claims.com/verify">http://secure.voucher-claims.com/verify</a>
+<p>Thank you for being a valued member. Act fast to avoid missing out on this opportunity!</p>
+<p>Sincerely,<br>Reward Department</p>
+</body>
+</html>
+
+--000000000000b1234506054321--
+```

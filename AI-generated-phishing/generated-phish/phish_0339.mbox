@@ -1,0 +1,44 @@
+From MAILER-DAEMON@mailservice.com  Mon Oct  2 14:29:14 2023
+Return-Path: <MAILER-DAEMON@mailservice.com>
+Received: from mailservice.com (mailservice.com [192.168.1.101])
+        by yourdomain.com (Postfix) with ESMTP id 123ABCD456
+        for <user@yourdomain.com>; Mon,  2 Oct 2023 14:29:14 -0500 (CDT)
+Message-ID: <87654321.123456789@mailservice.com>
+Date: Mon, 2 Oct 2023 14:29:14 -0500
+From: "Mail Support" <support@mailservice.com>
+Reply-To: "Mail Support" <support@mailservice.com>
+To: user@yourdomain.com
+Subject: Urgent: Update Your Account Information Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_Part_123456_7887654321.87654321"
+
+--=_Part_123456_7887654321.87654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity in your account and it has been temporarily suspended. To restore access, please verify your account by clicking the link below:
+
+http://192.168.1.102/login.html
+
+Thank you,
+Mail Support Team
+
+--=_Part_123456_7887654321.87654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <img src="http://192.168.1.102/images/security.png" alt="Security Update" />
+    <p>Dear User,</p>
+    <p>We have detected unusual activity in your account and it has been <strong>temporarily suspended</strong>. To restore access, please verify your account by clicking <a href="http://192.168.1.102/login.html">here</a>.</p>
+    <p>For more information, you can visit our <a href="https://www.mailservice.com/privacy-policy">Privacy Policy</a> or <a href="https://www.mailservice.com/help">Help Center</a>.</p>
+    <p>Thank you,<br/>
+    Mail Support Team</p>
+</body>
+</html>
+
+--=_Part_123456_7887654321.87654321--

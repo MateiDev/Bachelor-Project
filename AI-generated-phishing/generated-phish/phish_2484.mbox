@@ -1,0 +1,44 @@
+From support@legitcompany.com Sat Jan 07 12:34:56 2023
+Return-Path: <support@legitcompany.com>
+Received: from mail.legitcompany.com (mail.legitcompany.com [192.0.2.10])
+    by mx.legitcompany.com with ESMTP id ABC12345
+    for <customer@testdomain.com>; Sat, 07 Jan 2023 12:34:56 +0000 (UTC)
+From: "Legit Company Support" <support@legitcompany.com>
+Reply-To: helpdesk@security-update.eu
+To: customer@testdomain.com
+Subject: [Urgent] Voucher Available - Account Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_ABC_01D3"
+
+------=_NextPart_000_ABC_01D3
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You are eligible for a €50 reward voucher. To claim your voucher, please visit one of the links below:
+
+Plain link: http://phish.evil-payout-mall.co/redeem?gift=EU50
+Secure URL: https://secure.legitcompany.com/claim-voucher
+
+For more information, visit our Privacy Policy at https://legitcompany.com/privacy or Help Center at https://legitcompany.com/help.
+
+Best regards,
+Legit Company Support Team
+
+------=_NextPart_000_ABC_01D3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You are <strong>eligible</strong> for a <strong>€50 reward voucher</strong>. To claim your voucher, please <a href="http://phish.evil-payout-mall.co/redeem?gift=EU50">click here</a>.</p>
+    <p>If the link above doesn’t work, copy and paste this URL into your browser:</p>
+    <p><a href="http://malicious.pay-out-center.eu/validate?user=ABC">https://secure.legitcompany.com/claim-voucher</a></p>
+    <p>For more information, view our <a href="https://legitcompany.com/privacy">Privacy Policy</a> or visit the <a href="https://legitcompany.com/help">Help Center</a>.</p>
+    <p>Best regards,<br>Legit Company Support Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_ABC_01D3--

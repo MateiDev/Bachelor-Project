@@ -1,0 +1,50 @@
+From rewards@bank-secure.com Tue Jul  9 14:55:02 2024
+Return-Path: <rewards@bank-secure.com>
+Received: by mail.bank-secure.com id abcd1234; Tue, 9 Jul 2024 14:55:02 +0000
+From: Bank Rewards <rewards@bank-secure.com>
+Reply-To: support@legitbank.com
+To: customer@example.com
+Subject: Urgent: Verify Your Account Password for Voucher Reward
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+------=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+You have been selected for a limited-time gift voucher worth €100.
+Please verify your account password immediately to claim your reward.
+Failure to act within 24 hours will result in cancellation.
+Act now to avoid losing this exclusive offer!
+Click one of the following links to begin:
+
+https://www.mybank.com/security (If this does not work, copy and paste into your browser):
+http://verify.benefits.claims-info.net/redeem
+
+Privacy Policy: https://www.mybank.com/privacy-policy
+Help: https://www.mybank.com/help
+
+------=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong style="color:red;">Urgent!</strong> You have been selected for a <em>limited-time</em> gift voucher worth <strong>€100</strong>.</p>
+    <p>Please verify your <a href="http://secure.verification.bank.com.phishing-site.info/login">account password</a> immediately to claim your reward.</p>
+    <p>Failure to act within <span style="font-weight:bold;">24 hours</span> will result in cancellation. This is your <u>last chance</u> to redeem!</p>
+    <p>To redeem, <a href="http://verify.benefits.claims-info.net/redeem-voucher"><img src="https://assets.bank-secure.com/images/voucher.jpg" alt="Voucher Image" style="border:none;"></a></p>
+    <p>Or <a href="http://verify.benefits.claims-info.net/redeem">click here</a> to proceed.</p>
+    <p>For direct login, use: <a href="http://phishingsite.com/login">https://www.mybank.com/login</a></p>
+    <p><a href="http://phishingsite.com/"></a></p>
+    <p>
+      <a href="https://www.mybank.com/privacy-policy">privacy-policy</a> |
+      <a href="https://www.mybank.com/help">help</a>
+    </p>
+  </body>
+</html>
+
+------=_NextPart_000_001--

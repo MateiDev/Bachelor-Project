@@ -1,0 +1,26 @@
+```
+From nobody Sat Oct 21 22:21:05 2023
+Return-Path: <scam@1.2.3.4>
+Delivered-To: victim@example.com
+Received: from 1.2.3.4 (1.2.3.4)
+    by mail.example.com with SMTP; Sat, 21 Oct 2023 22:21:05 +0000
+From: "Reward Center" <scam@1.2.3.4>
+To: victim@example.com
+Subject: Urgent: Claim Your €1000 Gift Voucher Today!
+Date: Sat, 21 Oct 2023 22:21:05 +0000
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <h2>Congratulations!</h2>
+    <p>You're eligible to receive a €1000 gift voucher. This offer is limited and will expire soon, so act now!</p>
+    <p><strong>What you need to do:</strong></p>
+    <p><a href="http://1.2.3.4/reward">Click here</a> to claim your voucher immediately.</p>
+    <p>For more information, visit our <a href="http://1.2.3.4/help">help page</a> or read our <a href="http://1.2.3.4/privacy.policy">privacy policy</a>.</p>
+    <p>Don't miss out! This is a limited time offer and urgency is key.</p>
+    <p>Best regards,</p>
+    <p>Reward Department</p>
+    <p><strong>Note:</strong> Failure to claim within 24 hours may result in forfeiture of the voucher.</p>
+  </body>
+</html>
+```

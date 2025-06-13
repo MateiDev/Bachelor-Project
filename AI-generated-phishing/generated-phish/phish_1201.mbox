@@ -1,0 +1,28 @@
+From no-reply@irs.gov Sat Jun 15 10:21:34 2024
+Return-Path: <no-reply@irs.gov>
+Delivered-To: victim@example.com
+Received: from mail.irs.gov (mail.irs.gov [198.51.100.100]) by mx.example.com with ESMTP id abc123 for <victim@example.com>; Sat, 15 Jun 2024 10:21:34 -0400 (EDT)
+From: "IRS Refund Department" <no-reply@irs.gov>
+To: victim@example.com
+Subject: URGENT: Tax Refund Confirmation Needed
+Date: Sat, 15 Jun 2024 10:21:34 -0400
+Message-ID: <20240615102134.no-reply@mail.irs.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+  <title>Confirm Your Refund</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We are pleased to inform you that a small tax refund of <b>$134.50</b> is now <span style="color:red;">available</span> in your <strong>account</strong>. However, to prevent any delay, you must <span style="font-weight:bold;">confirm your bank details immediately</span>. Failure to do so within 48 hours will result in automatic reversal of this refund.</p>
+<p>To verify your information, please <a href="http://192.0.2.123/confirm?ref=7432XYZ">click here</a> to complete the secure form. For your security, do not forward this message.</p>
+<p>If you prefer, you can also visit our official site at <a href="http://203.0.113.45/renew">www.irs.gov/account/verify</a> and enter your <em>account</em> number and <em>password</em> to proceed.</p>
+<p><a href="http://203.0.113.45/verify"><img src="http://203.0.113.45/banner.jpg" alt="IRS Verification" width="600" border="0"></a></p>
+<p>For questions about this process, see our <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> or <a href="https://www.irs.gov/help">Help</a>.</p>
+<p>This is an urgent notification. Act now to avoid losing your refund.</p>
+<p>Sincerely,<br>
+IRS Electronic Tax Refund Services</p>
+</body>
+</html>

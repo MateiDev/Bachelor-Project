@@ -1,0 +1,44 @@
+From spoofed@securityportal.com Fri Jul 21 09:15:00 2023
+From: "Security Team" <alert@securityportal.com>
+To: user@example.com
+Subject: Important – Portal Security Alert
+Date: Fri, 21 Jul 2023 09:15:00 -0400
+Message-ID: <ABC12345@securityportal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7890"
+
+------=_Part_123456_7890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity on your portal account. To ensure your account security, please click the link below to view the security alert and verify your credentials:
+
+View your security alert: http://192.0.2.123/login.security.portal.example.com/login?user
+
+If you fail to verify within 24 hours, your account may be suspended.
+
+Regards,
+Portal Security Team
+
+------=_Part_123456_7890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; line-height:1.4;">
+    <p>Dear user,</p>
+    <p>We have detected unusual activity on your portal account. To ensure your account security, please click the button below to view the security alert and verify your credentials:</p>
+    <!-- Image-based link -->
+    <a href="http://192.0.2.123/login.security.portal.example.com/login?user">
+      <img src="http://malicious.example.net/images/alert_banner.png" alt="Security Alert" style="border:none; width:300px; height:auto;">
+    </a>
+    <p>If the button above does not display correctly, you can <a href="http://203.0.113.5/validate?session=abc"></a> to view the alert.</p>
+    <p>For more information, visit our <a href="http://help.security.portal.example.com/privacy-policy">Privacy Policy</a> or <a href="http://contact.security.portal.example.com/support">Support</a>.</p>
+    <p>To proceed, click <a href="http://secure.portal-modal.net/check">here</a>.</p>
+    <p>Regards,<br>Portal Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_7890--

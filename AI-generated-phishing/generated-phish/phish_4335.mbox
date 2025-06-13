@@ -1,0 +1,55 @@
+From secure-update@yourbank.com Mon Jan 01 01:23:45 2024
+Return-Path: <secure-update@yourbank.com>
+Delivered-To: victim@domain.com
+Received: from mail.yourbank.com (mail.yourbank.com [198.51.100.25])
+    by victim.domain.com with ESMTP id ABCDE12345
+    for <victim@domain.com>; Mon,  1 Jan 2024 01:23:45 +0000
+Reply-To: support@secure-updates.net
+From: "Secure Mail Alert" <secure-update@yourbank.com>
+Subject: URGENT: Account Password Verification Required
+To: victim@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456"
+
+------=_Part_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Due to a security update, your account password must be verified within 24 hours to avoid deactivation. Please visit the following link to secure your account immediately:
+
+1) https://192.0.2.123/verify
+2) www.yourbank-secure.com/login
+3) https://help.yourbank.com.secure-portal.info
+
+If you do not act within the time frame, your account will be locked.
+
+Thank you,
+Secure Mail Alert Team
+
+------=_Part_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Urgent Security Notice</title>
+</head>
+<body>
+<p style="color:red;font-weight:bold;">URGENT SECURITY ALERT</p>
+<p>Dear Valued Customer,</p>
+<p>We have detected suspicious activity on your account. To prevent <strong>immediate deactivation</strong>, you must verify your credentials. Failure to comply within <em>24 hours</em> will result in <span style="text-decoration:underline;">account suspension</span>.</p>
+<p>Please <a href="http://192.0.2.45/verify_now" style="font-weight:bold;">Click Here</a> to secure your account.</p>
+<p>Alternatively, you can verify by visiting the secure portal directly:</p>
+<ul>
+  <li><a href="http://malicious-portal.net/secure" target="_blank">https://www.banksecure-login.com/portal</a></li>
+  <li><a href="http://203.0.113.9/login.php">http://203.0.113.9/login.php</a></li>
+  <li><a href="http://192.0.2.123/verify"></a></li>
+</ul>
+<p>If you have any questions, review our <a href="http://support.security-updates.net/policy.html">privacy-policy</a> or <a href="http://help.yourbank.com.secure-portal.info/contact">help</a> page.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Sincerely,<br/>Secure Mail Alert Team</p>
+</body>
+</html>
+------=_Part_123456--

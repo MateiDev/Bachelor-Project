@@ -1,0 +1,48 @@
+```mbox
+From - Thu Oct 26 14:12:15 2023
+X-Account-Key: account2
+X-UIDL: UID1234567
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <offers@legit-rewards.com>
+Received: from [196.12.14.5] by mxdomain.com with ESMTP; Thu, 26 Oct 2023 14:12:15 -0400
+Reply-To: claim@giftcardrewards.ru
+Date: Thu, 26 Oct 2023 18:12:15 +0000
+From: "Exclusive Offers" <offers@legit-rewards.com>
+To: victim@example.com
+Message-ID: <1234567890.0987.456@mailserver.example.com>
+Subject: URGENT: Your €500 Reward Voucher Awaits!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000001234567890"
+
+--0000000000001234567890
+Content-Type: text/plain; charset="UTF-8"
+
+Congratulations! You are eligible for a €500 gift voucher!
+
+Act now to claim your reward. This offer is limited and your immediate response is required.
+
+To claim your voucher, click on the link below:
+
+http://192.168.1.1/reward/claim
+
+For any questions, visit our help center: http://legit-rewards.com/help
+
+--0000000000001234567890
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <h2 style="color:blue;">Congratulations!</h2>
+    <p>You are eligible for a <strong>€500 gift voucher</strong>!</p>
+    <p>Act now to claim your reward. This offer is limited and your immediate response is required.</p>
+    <a href="http://192.168.1.1/reward/claim" style="font-size:18px; color:green;">Click here to claim your gift!</a>
+    <br>
+    <a href="http://legit-rewards.com/help" style="font-size:14px;">Help Center</a>
+    <br>
+    <img src="http://192.168.1.1/reward/image.jpg" alt="Gift Card" />
+  </body>
+</html>
+
+--0000000000001234567890--
+```

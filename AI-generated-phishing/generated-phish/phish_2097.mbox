@@ -1,0 +1,50 @@
+From no-reply@dhl.com Wed Jul 05 14:22:19 2023
+Return-Path: <no-reply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5])
+    by mx.example.org with ESMTP id ABC123DEF for <user@example.com>; Wed, 05 Jul 2023 14:22:19 +0000
+From: DHL Express <no-reply@dhl.com>
+Reply-To: Support Team <support@security-update.com>
+To: user@example.com
+Subject: URGENT: Immediate Action Required for Your Pending Delivery
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1657033339000"
+
+------=_Part_123456_789012345.1657033339000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We regret to inform you that your parcel with tracking number 1Z999AA10123456784 is being HELD at customs due to unpaid fees. Immediate action is REQUIRED to avoid the package being returned to sender or additional penalties.
+
+Please follow one of the links below to pay the small handling fee and release your delivery:
+- https://www.dhl.com/tracking/1Z999AA10123456784
+- https://dhl-customer-service.com/fee-payment
+
+Failure to complete this step within 24 hours may result in shipment cancellation. This is an urgent notice.
+
+For more information, visit our Privacy Policy: https://www.dhl.com/privacy-policy.html or our Help Center: https://www.dhl.com/help-center.html
+
+Best regards,
+DHL Express Delivery Team
+
+------=_Part_123456_789012345.1657033339000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Urgent:</strong> Your parcel with tracking number <em>1Z999AA10123456784</em> is being <span style="text-decoration:underline;">held at customs</span> due to unpaid fees. Immediate action is <strong>required</strong> to avoid <em>penalties</em>!</p>
+    <p>Please <a href="http://malicious-payment.com/fee?id=1Z999AA10123456784">click here</a> to pay the small handling fee and release your delivery.</p>
+    <p>Alternatively, verify your shipment on our official tracking system:<br/>
+      <a href="http://tracking.dhl-verify.com/1Z999AA10123456784"></a>
+      <a href="http://malicious-verify.com/track?ref=1Z999AA10123456784">https://www.dhl.com/tracking/1Z999AA10123456784</a>
+    </p>
+    <p>For more information, visit our <a href="https://www.dhl.com/privacy-policy.html">Privacy Policy</a> or our <a href="https://www.dhl.com/help-center.html">Help Center</a>.</p>
+    <p>Best regards,<br/>
+       DHL Express Delivery Team</p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1657033339000--

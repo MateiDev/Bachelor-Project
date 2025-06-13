@@ -1,0 +1,45 @@
+```
+From someone@example.com Sat Oct 14 14:28:15 2023
+Received: from mail.example.com (mail.example.com [192.168.1.1])
+    by host.example.com (Postfix) with ESMTP id ABC12345
+    for <recipient@example.com>; Sat, 14 Oct 2023 14:28:15 +0000 (UTC)
+Return-Path: <someone@example.com>
+Date: Sat, 14 Oct 2023 14:28:15 +0000
+From: "Rewards Team" <rewards@examplefake.com>
+To: recipient@example.com
+Subject: Urgent: Claim Your Limited-Time €500 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_example"
+
+--boundary_example
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer,
+
+Hurry! You are eligible to receive an exclusive €500 voucher from our recent promotional event! This is a limited-time offer and must be redeemed immediately to ensure you don't miss out.
+
+Click this link right now to secure your voucher: http://example.io/redeem-voucher
+
+Act fast before your voucher expires!
+
+Best regards,
+The Rewards Team
+
+--boundary_example
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>Hurry! You are eligible to receive an exclusive <b>€500 voucher</b> from our recent promotional event! This is a limited-time offer and must be redeemed immediately to ensure you don't miss out.</p>
+<p><a href="http://example.io/redeem-voucher"><img src="http://example.com/voucher-image.jpg" alt="Claim Now"></a></p>
+<p>Click this link right now to secure your voucher: <a href="http://differenthost.com/collect-reward">http://example.io/redeem-voucher</a></p>
+<p><a href="http://anotherhost.com"> </a></p>
+<p>Act fast before your voucher expires!</p>
+<p>Best regards,</p>
+<p>The Rewards Team</p>
+</body>
+</html>
+
+--boundary_example--
+```

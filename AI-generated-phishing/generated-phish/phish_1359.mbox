@@ -1,0 +1,44 @@
+From support@dhl.com Sat Jan  1 12:34:56 2022
+Message-ID: <20220101123456.12345@dhl.com>
+Date: Sat, 1 Jan 2022 12:34:56 +0000
+From: DHL Delivery <support@dhl.com>
+Reply-To: support@secure-payments.com
+To: user@victim.com
+Subject: URGENT: Action Required to Release Your Package!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted delivery of your parcel but it is currently held due to unpaid fees.
+Please confirm your information immediately to avoid further delays.
+
+Click the link below to release your shipment:
+
+http://192.0.2.123/confirm?ref=XYZ123
+
+Failure to act within 24 hours will result in your package being returned to the sender.
+
+Thank you,
+DHL Delivery Support
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package delivery is <strong>on hold</strong> due to an <span style="color:red;">unpaid fee</span>. This issue is <strong>URGENT</strong> and requires immediate attention to avoid <em>critical delays</em>.</p>
+    <p>Please <a href="http://192.0.2.123/confirm?ref=XYZ123"></a>verify your account and payment details to release your shipment.</p>
+    <p>Visit your tracking page: <a href="http://192.0.2.123/confirm?ref=XYZ123">http://tracking.dhl-updates.delivery.verify-info.com</a></p>
+    <p>If you do not resolve this <em>within 24 hours</em>, your package will be <strong>returned</strong> to the sender.</p>
+    <p>Thank you,<br/>DHL Delivery Support Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

@@ -1,0 +1,64 @@
+From service@amazon.com Fri Jun 14 09:00:00 2024
+Return-Path: <service@amazon.com>
+From: "Amazon Service" <service@amazon.com>
+Reply-To: "Security Team" <security@amaz0n-secure.net>
+To: user@example.com
+Subject: Urgent Account Password Verification – Claim €50 Voucher Now!
+Date: Fri, 14 Jun 2024 09:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY123456789=="
+
+--===============BOUNDARY123456789==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your Amazon account. Your ability to access certain features, including purchases, gift cards, and browsing, is temporarily limited as a security measure.
+
+To restore full access and claim your complimentary €50 voucher,
+please verify your account details IMMEDIATELY. Failure to act within 24 hours will result in permanent restrictions.
+
+Text Alternative Links:
+Redeem Voucher: http://123.45.67.89/redeem
+Verify Now: https://account.verify.login.amazon.com.fraud.net/verify
+
+Privacy Policy: https://www.amazon.com/privacy
+Help Center: https://www.amazon.com/help
+
+Thank you for your prompt attention to this URGENT matter.
+
+Best regards,
+Amazon Security Team
+
+--===============BOUNDARY123456789==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <b>urgent</b> and <span style="color:red">suspicious activity</span> on your Amazon <i>account</i>. Your ability to access certain features is temporarily <b>limited</b> as a security measure.</p>
+<p>To restore full access and <b>claim your complimentary <span style="color:green">€50 voucher</span></b>, please verify your account details <strong>IMMEDIATELY</strong>. Failure to act within <u>24 hours</u> will result in <span style="color:red">permanent restrictions</span>.</p>
+<p><a href="http://123.45.67.89/redeem">click here</a> to redeem your voucher.</p>
+<p>
+  <a href="http://secure.verify-amaz0n.com"><img src="http://123.45.67.89/banner.png" alt="Claim your voucher" /></a>
+</p>
+<p>
+  <a href="http://123.45.67.89/sneaky"></a>
+</p>
+<p>Alternatively, verify through our secure portal:<br/>
+<a href="http://192.0.2.123/fake">https://account.amazon.com</a>
+</p>
+<p>For your convenience, our legitimate links remain accessible:<br/>
+<a href="https://www.amazon.com/privacy">privacy policy</a> |
+<a href="https://www.amazon.com/help">help center</a>
+</p>
+<p>We appreciate your prompt attention to this <strong>urgent</strong> security notice.</p>
+<p>Regards,<br/>
+Amazon Security Team
+</p>
+</body>
+</html>
+
+--===============BOUNDARY123456789==--

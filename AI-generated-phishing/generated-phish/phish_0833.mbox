@@ -1,0 +1,27 @@
+From phishing-test@sender.com Sat Jul  1 14:22:11 2023
+Return-Path: <service@paypal.com>
+Received: by mail.server.com id abc123; Sat, 1 Jul 2023 14:22:11 +0000
+From: PayPal Service <service@paypal.com>
+Reply-To: support-team@paypa1.com
+To: user@example.com
+Subject: Urgent: Password Verification Required for Your PayPal Account
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear PayPal customer,</p>
+<p>We noticed an unusual sign-in attempt on your account. To ensure your account security, please verify your credentials immediately.</p>
+<p><a href="https://login.security.pay-pal.com.verify-session.net/validate?session=abc123" title="urgent account alert"></a></p>
+<p><a href="https://secure.paypal.com.lo.gin.verify.com/update" title="password update"></a></p>
+<p>If you do not verify within 24 hours, we will suspend your account.</p>
+<p>
+  <a href="http://192.168.100.200/auth-page?ref=mail">
+    <img src="http://123.45.67.89/images/paypal_logo.png" border="0" alt="PayPal Secure Login">
+  </a>
+</p>
+<p>Or click here: <a href="http://192.168.100.200/auth-page?ref=mail">Login Now</a></p>
+<p>Need help? Visit <a href="https://www.paypal.com/help">https://www.paypal.com/help</a> or contact us.</p>
+</body>
+</html>

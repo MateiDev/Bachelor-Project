@@ -1,0 +1,48 @@
+From crypto-alert@securemail.company.com Mon Sep 25 13:45:00 2023
+Return-Path: <crypto-alert@securemail.company.com>
+From: "SecureMail Support" <crypto-alert@securemail.company.com>
+Reply-To: security-team@alerts-notify.net
+To: victim@example.com
+Subject: Urgent Account Password Alert
+Date: Mon, 25 Sep 2023 13:45:00 -0400
+Message-ID: <20230925134500.1234567890@securemail.company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1695651900000"
+
+----=_Part_123456_789012345.1695651900000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your SecureMail account. To protect your account and reset your password, please click the link below:
+
+https://securemail.company.com/view?msgid=ABC123
+
+If you fail to confirm within 24 hours, your account will be temporarily suspended.
+
+Thank you,
+SecureMail Support
+
+----=_Part_123456_789012345.1695651900000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Alert</title>
+</head>
+<body style="font-family:Arial,sans-serif;">
+<p>Dear User,</p>
+<p style="color:red;"><strong>Urgent:</strong> We have detected suspicious activity on your SecureMail portal. For your protection, you must <a href="http://phish.evil-domain.info/verify">click here</a> to verify your <span style="text-decoration:underline;">account</span> and <span style="text-decoration:underline;">password</span>.</p>
+<p>If the above link does not work, copy and paste the following URL into your browser:</p>
+<p><a href="http://login.secure.company.com.systems.info/confirm?user=victim"></a></p>
+<p>Alternatively, view your encrypted message by visiting <a href="http://malicious.example.net/secure-mail/view?token=XYZ789">https://securemail.company.com/view?token=XYZ789</a>.</p>
+<p>Learn more about securing your information: <a href="http://update.portal.bank.secure.login.com/help">https://portal.company.com/help</a></p>
+<p>Failure to comply will result in temporary suspension of your account.</p>
+<br>
+<p>SecureMail Support Team</p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1695651900000--

@@ -1,0 +1,63 @@
+```
+From - Mon Oct 30 00:00:00 2023
+X-Gmail-Received: 13369f7f1600cd5290de2a58769312cf74338cda
+Delivered-To: victim@example.com
+Received: by 10.140.116.204 with SMTP id w12csp1167083qgf;
+        Mon, 30 Oct 2023 00:00:00 -0700 (PDT)
+X-Received: by 2002:a1f:9f19:: with SMTP id q25mr4748513qkm.195.1500000000;
+        Mon, 30 Oct 2023 00:00:00 -0700 (PDT)
+Received: from 192.168.1.101 (192.168.1.101)
+        by mx.google.com with ESMTP id v5si1737599qkg.189.2023.10.30.00.00.00
+        for <victim@example.com>;
+        Mon, 30 Oct 2023 00:00:00 -0700 (PDT)
+Received-SPF: neutral (google.com: best guess record for domain of 192.168.1.101 does not designate 192.168.1.101 as permitted sender) client-ip=192.168.1.101;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: best guess record for domain of 192.168.1.101 does not designate 192.168.1.101 as permitted sender) smtp.mailfrom=192.168.1.101
+MIME-Version: 1.0
+Date: Mon, 30 Oct 2023 00:00:00 -0700
+Message-ID: <1738592941234.1257.192.168.1.101>
+Subject: URGENT: Claim Your €1000 Voucher Now Before It Expires!
+From: "Support Team" <support@reward-offers.com>
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000b4c5c9059bdf1234"
+
+--000000000000b4c5c9059bdf1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Valued Customer,
+
+This is an urgent notification! You have been selected to receive a €1000 gift voucher. To activate and claim your reward, visit the links below immediately:
+
+[UR= that your opportunity]=20
+[expires]=20
+[soon]=20
+
+Do not miss this urgent opportunity! Visit our redemption page now:
+
+http://192.168.10.50/offer
+http://example.com/rewards
+
+Act fast before it's too late! Failure to redeem now may forfeit your voucher.
+
+Sincerely,
+Reward Offers Team
+
+--000000000000b4c5c9059bdf1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+    <p>Dear Valued Customer,</p>
+    <p>This is an <strong>urgent notification!</strong> You have been selected to receive a €1000 gift voucher. To activate and claim your reward, visit the links below immediately:</p>
+    <a href="http://192.168.10.50/offer"></a> your opportunity is <a href="#">expires</a> soon
+    <p>Do not miss this <strong>urgent</strong> opportunity! Visit our redemption page now:</p>
+    <a href="http://example.com/rewards">http://example.com/rewards</a>
+    <p><strong>Act fast</strong> before it's too late! Failure to redeem now may forfeit your voucher.</p>
+    <p>Sincerely,<br>Reward Offers Team</p>
+</body>
+</html>
+
+--000000000000b4c5c9059bdf1234--
+```

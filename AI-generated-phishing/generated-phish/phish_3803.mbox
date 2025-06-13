@@ -1,0 +1,47 @@
+From support@trustedservices.com Tue Feb 22 07:15:30 2022
+Return-Path: <support@trustedservices.com>
+Delivered-To: victim@example.com
+Received: by mail.trustedservices.com with SMTP id abc123; Tue, 22 Feb 2022 07:15:30 -0500
+Date: Tue, 22 Feb 2022 07:15:30 -0500
+From: "Trusted Services" <support@trustedservices.com>
+Reply-To: "Security Team" <security@trusted-security.com>
+To: victim@example.com
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+
+Dear user,
+
+We have noticed suspicious activity on your Trusted Services account. To ensure your security, please verify your password immediately by visiting the link below:
+
+https://secure.login.trusted-services.com.verify.accounts.example.com
+http://192.0.2.123/secure-login
+
+Thank you,
+Trusted Services Security Team
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We have noticed suspicious activity on your Trusted Services <a href="http://192.0.2.123/secure-login">account</a>. To ensure your security, please verify your password immediately:</p>
+<p>Login via your browser:<br/>
+<a href="http://192.0.2.123/secure-login">https://secure.login.trusted-services.com.verify.accounts.example.com</a>
+</p>
+<p>Or simply click the button below:</p>
+<p><a href="http://192.0.2.123/secure-login"><img src="https://trustedservices.com/images/verify_button.png" alt="Verify Now" border="0"/></a></p>
+<p>If the button above does not work, please <a href="http://192.0.2.123/secure-login">here</a> to verify your account.</p>
+<p>For more information, please review our privacy policy <a href="https://trustedservices.com/privacy-policy.html">here</a>.</p>
+<p><a href="http://192.0.2.123/track"></a></p>
+<p>Thank you,<br/>Trusted Services Security Team</p>
+</body>
+</html>
+--BOUNDARY--

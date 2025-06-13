@@ -1,0 +1,25 @@
+From tax-notification@irs.gov Mon Jun 24 10:12:34 2024
+Return-Path: <tax-notification@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.1])
+    by mx.yourdomain.com (Postfix) with ESMTP id 1234ABCD;
+    Mon, 24 Jun 2024 10:12:34 -0400 (EDT)
+Message-ID: <20240624101234.1234ABCD@mail.irs.gov>
+Date: Mon, 24 Jun 2024 10:12:34 -0400
+From: "IRS Tax Bureau" <tax-notification@irs.gov>
+To: user@domain.com
+Subject: Urgent: Tax Refund Account Verification Required
+Reply-To: reply@service-update.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have detected an issue with your <strong>IRS account</strong> that requires <span style="color:red;">urgent</span> attention. Our system indicates that you are eligible for a small tax refund. However, we need to verify your bank details before we can process your payment.</p>
+<p>Please <a href="http://123.45.67.89/verify.php?session=abc123">click here</a> to confirm your account information and bank details immediately. Failure to act within 48 hours may result in the forfeiture of your refund.</p>
+<p>For more information, review our <a href="https://privacy-policy.irs.gov/legal">privacy policy</a> or visit our official support page at <a href="https://secure.login.irs-tax.org/customer/help">https://secure.login.irs-tax.org/customer/help</a>.</p>
+<p>If you did not request this service or have any questions, please do not reply to this email; instead, contact us at +1-800-000-0000.</p>
+<p>Sincerely,<br>
+IRS Tax Bureau Support Team</p>
+</body>
+</html>

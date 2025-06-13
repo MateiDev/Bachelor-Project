@@ -1,0 +1,44 @@
+```
+From - Mon Oct 30 14:00:00 2023
+Return-Path: <no-reply@security-alert.com>
+Received: from unknown (HELO user-PC) (192.0.2.50)
+  by mail.example.com with SMTP; Mon, 30 Oct 2023 14:00:00 +0000
+Date: Mon, 30 Oct 2023 14:00:00 +0000
+From: Security Alert <no-reply@security-alert.com>
+Reply-To: noreply@security-check.com
+Subject: Urgent: Action Required to Secure Your Account
+To: unsuspecting.user@example.com
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual sign-in activity on your account from an unknown IP address. 
+To protect your account, please verify your identity immediately: http://192.0.2.128/verify
+
+Your password is set to expire today. Reset it now to avoid being locked out:
+http://192.0.2.128/reset-password
+
+If you do not take action, your account may be at risk. 
+
+Visit our Privacy Policy at http://www.trusted-site.com/privacy-policy
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head></head>
+<body>
+<p>Dear User,</p>
+<p>We have detected <strong>unusual sign-in activity</strong> on your account from an unknown IP address. To protect your account, please verify your identity <span style="color:red;">immediately</span>: <a href="http://192.0.2.128/verify"><img src="http://www.example.com/image.png" alt="Secure" /></a></p>
+<p>Your password is set to expire <strong>today</strong>. <a href="http://192.0.2.128/reset-password"></a> to avoid being locked out.</p>
+<p>If you do not take action, your account may be at risk.</p>
+
+<p>Visit our <a href="http://www.trusted-site.com/privacy-policy">Privacy Policy</a> for more information.</p>
+<p>Need help? Click <a href="http://www.trusted-site.com/support">here</a>.</p>
+</body>
+</html>
+--BOUNDARY--
+```

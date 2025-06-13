@@ -1,0 +1,29 @@
+From rewards@yourbank.com Tue Jul 23 10:15:00 2024
+Return-Path: <rewards@yourbank.com>
+Received: from mail.yourbank.com (mail.yourbank.com [203.0.113.10])
+    by mail.receiver.com with ESMTP id ABC123
+    for <user@receiver.com>; Tue, 23 Jul 2024 10:15:00 +0200
+Date: Tue, 23 Jul 2024 10:15:00 +0200
+From: YourBank Rewards <rewards@yourbank.com>
+Reply-To: Support Team <support@yourbank-security.com>
+To: user@receiver.com
+Message-ID: <20240723101500.abc123@mail.yourbank.com>
+Subject: Urgent: Account Password Verification Needed for €100 Voucher
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We are excited to inform you that you qualify for a €100 gift voucher as a token of appreciation.</p>
+    <p>To claim your reward, please <a href="http://192.0.2.123/claim"></a></p>
+    <p>Please <a href="http://malicious-phish.com/claim">click here</a> to verify your account password and prevent suspension.</p>
+    <p>Alternatively, visit <a href="http://phishy.site/verif">https://www.yourbank.com/secure</a> to complete urgent verification.</p>
+    <p><a href="http://54.32.10.11/rewards"><img src="https://www.yourbank.com/images/voucher.png" alt="Your Voucher" /></a></p>
+    <p>
+      <a href="https://www.yourbank.com/help">Help</a> |
+      <a href="https://www.yourbank.com/privacy">Privacy Policy</a>
+    </p>
+  </body>
+</html>

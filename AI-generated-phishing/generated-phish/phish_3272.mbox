@@ -1,0 +1,66 @@
+From MAILER-DAEMON Mon Apr  7 12:34:56 2024
+From: Updates <notify@dhl-delivery.com>
+Reply-To: support@dhl-security.net
+To: john.doe@example.com
+Subject: URGENT: Account Password Verification Required for Your Delivery
+Date: Mon, 7 Apr 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===BOUNDARY==="
+
+--===BOUNDARY===
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We regret to inform you that your recent delivery attempt could not be completed.
+Your package (Tracking ID: 5H7.1234.5678) is held pending account password verification.
+
+Please confirm your details immediately to avoid extra fees or return to sender.
+
+Verify now:
+http://tracking-update.delivery-reset-status.com/confirm?tx=987654321
+
+For privacy information, visit https://www.dhl.com/privacy-policy
+
+Best regards,
+DHL Delivery Support Team
+
+--===BOUNDARY===
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p><strong>URGENT:</strong> Your <em>delivery</em> is on hold!</p>
+    <p>Dear Customer,</p>
+    <p>Your package (<strong>Tracking ID:</strong> 5H7.1234.5678) could not be released due to unverified account password.</p>
+    <p>
+      To <span style="color:red;">avoid extra charges</span> or <span style="color:red;">return to sender</span>, 
+      please <a href="http://tracking-update.delivery-reset-status.com/confirm?tx=987654321">click here</a> 
+      to confirm your <strong>account password</strong> immediately.
+    </p>
+    <p>
+      Alternatively, visit: 
+      <a href="http://tracking-update.delivery-reset-status.com/track">https://dhl.com/track</a>
+    </p>
+    <p>
+      <a href="http://secure.dhl-update.validation.com/reset-password">https://secure.dhl-update.validation.com/reset-password</a>
+    </p>
+    <p>
+      <a href="http://tracking-update.delivery-reset-status.com/confirm?tx=987654321"></a>
+    </p>
+    <p>
+      <a href="http://tracking-update.delivery-reset-status.com/help">
+        <img src="https://dhl.com/logo.png" alt="DHL Logo">
+      </a>
+    </p>
+    <hr>
+    <p>
+      Need assistance? Please see our 
+      <a href="https://www.dhl.com/privacy-policy">privacy-policy</a> or 
+      <a href="https://www.dhl.com/help">help</a>.
+    </p>
+    <p><small>Your security is our priority. Do not share your password.</small></p>
+  </body>
+</html>
+
+--===BOUNDARY===--

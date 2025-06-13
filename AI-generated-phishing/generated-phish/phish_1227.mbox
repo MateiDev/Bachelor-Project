@@ -1,0 +1,26 @@
+From phish@dhl-notification.com Fri Jul 07 08:12:45 2023
+Return-Path: <phish@dhl-notification.com>
+Received: from mail.dhl-notification.com (mail.dhl-notification.com [203.0.113.45])
+    by mx.yourmail.com with ESMTP id ABC123XYZ
+    for <user@domain.com>; Fri, 07 Jul 2023 08:12:45 +0000 (UTC)
+From: DHL Express <notifications@dhl.com>
+To: user@domain.com
+Subject: Urgent Delivery Notification - Verify Your Account Password Now
+Date: Fri, 07 Jul 2023 08:12:44 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p><strong>Attention!</strong> Your package is currently <em>held</em> by customs due to <span style="color:red;">missing verification</span>. Failure to <strong>immediately</strong> verify your <strong>account</strong> and <strong>password</strong> details will result in <span style="color:red;">permanent cancellation</span> of your delivery.</p>
+<p>To release your parcel, please confirm your information using one of the secure links below:</p>
+<ul>
+<li><a href="http://updates.dhl.com.login.verify.net/confirm?ref=82374"></a></li>
+<li><a href="http://malicious-attacker.net/release?token=xyz123">click here</a> to proceed with the verification.</li>
+<li>If you prefer, go to <a href="http://evil.attacker.io/login">https://secure.dhl.express.com/verify</a> for instant confirmation.</li>
+</ul>
+<p>For more assistance, view our <a href="https://www.dhl.com/privacy">Privacy Policy</a> or visit our <a href="http://malicious-attacker.net/help">here</a>.</p>
+<p>Thank you for your prompt attention to this <strong>urgent</strong> matter.<br/>
+DHL Express Security Team</p>
+</body>
+</html>

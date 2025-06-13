@@ -1,0 +1,56 @@
+From MAILER-DAEMON@example.org Fri Oct 6 16:32:40 2023
+Return-Path: <MAILER-DAEMON@example.org>
+Received: from smtp.example.com (smtp.example.com [192.0.2.1])
+	by mail.example.org (Cyrus v2.3.15) with LMTPA;
+	Fri, 6 Oct 2023 16:32:40 -0400
+Received: from unknown (HELO server.example.com) (198.51.100.42)
+	by smtp.example.com with SMTP; Fri, 6 Oct 2023 16:32:40 -0400
+Date: Fri, 6 Oct 2023 16:32:40 -0400
+From: Secure Portal <no-reply@securityportal.com>
+To: victim@example.com
+Message-ID: <randomhash1234567.example.com>
+Subject: Critical: Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-example-12345678"
+
+--boundary-example-12345678
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Urgent action is required on your account. Please verify your details immediately to prevent suspension.
+
+Visit the link to secure your account. Failure to do so may result in permanent loss of access.
+
+Thank you,
+Security Team
+
+--boundary-example-12345678
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <style>
+    .email-body { font-family: Arial, sans-serif; }
+    .warning { color: red; }
+  </style>
+</head>
+<body class="email-body">
+  <h2 class="warning">Immediate Attention Required!</h2>
+  <p>Dear User,</p>
+  <p>We have detected unusual activity in your account and <b>urgent verification</b> is required to prevent suspension. Fail to do so and you may face permanent account loss!</p>
+  <p><a href="http://secure.portal-login.com/verify" style="background: #0056b3; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Verify Now</a></p>
+  <p><img src="http://image.trusted-secure.com/banner.jpg" alt="Secure Banner" /></p>
+  <p><a href="http://privacy.example.com">Privacy Policy</a> | <a href="http://help.example.com">Help Center</a></p>
+  
+  <p>If you do not verify within <strong>24 hours</strong>, your account will be <strong>suspended</strong>. <a href="http://phishy.login-process.com">Click here</a> to verify now.</p>
+  <p>Thank you,</p>
+  <p>Security Team <br>
+  <img src="http://images.trusted-secure.com/logo.png" alt="Security Logo" /></p>
+</body>
+</html>
+
+--boundary-example-12345678--
+

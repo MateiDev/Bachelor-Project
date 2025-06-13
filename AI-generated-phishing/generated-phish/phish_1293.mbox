@@ -1,0 +1,22 @@
+From dhl@notification.dhl.com Fri Jul 14 12:34:56 2023
+Subject: Urgent: Account Delivery Notification
+From: "DHL Customer Service" <dhl@notification.dhl.com>
+Reply-To: <support@updates.dhl-secure.com>
+To: victim@domain.com
+Date: Fri, 14 Jul 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your package is currently held due to a pending verification on your account. Failure to act immediately may result in shipment cancellation and additional fees.</p>
+<p>During verification, you will be prompted to enter your account password.</p>
+<p>Please complete the verification to release your parcel:</p>
+<p><a href="http://192.0.2.123.delivery.shipping.dhl-update.com/verify?ref=987654321"></a></p>
+<p>Or track your shipment here:</p>
+<p><a href="http://192.0.2.123/tracking"><img src="http://192.0.2.123/alert.png" alt="DHL Alert"></a></p>
+<p><em>This link will expire in 24 hours. Your account may be locked if no action is taken.</em></p>
+<p>Thank you,<br>DHL Support Team</p>
+</body>
+</html>

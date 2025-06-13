@@ -1,0 +1,43 @@
+From no-reply@secure.company.com Wed Jul 14 10:00:00 2024
+Return-Path: <no-reply@secure.company.com>
+Received: from secure.company.com (secure.company.com [203.0.113.10]) by mail.company.com with ESMTP id ABC123
+Date: Wed, 14 Jul 2024 10:00:00 -0400
+From: "Secure Portal" <no-reply@secure.company.com>
+To: user@victim.com
+Subject: Urgent Account Password Alert
+Message-ID: <20240714100000.no-reply@secure.company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. Please verify your credentials immediately to avoid suspension. Visit the secure portal at https://secure.company.com/login or go to http://203.0.113.45/secure-login now.
+
+Failure to comply will result in permanent account lock.
+
+Thank you,
+Secure Portal Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>CRITICAL SECURITY ALERT:</strong> We detected unauthorized login attempts on your account. Immediate verification is <span style="color:red;">URGENT</span> to prevent suspension!</p>
+    <p>Access your encrypted secure-mail portal:</p>
+    <p><a href="http://203.0.113.45/secure-login"><img src="https://cdn.company.com/images/secure-mail.png" alt="Secure Mail Portal"></a></p>
+    <p>If the image link fails, use this link: <a href="http://203.0.113.45/secure-login"></a></p>
+    <p>You can also go to <a href="http://198.51.100.100/auth">https://portal.mail.company.com/secure</a> for verification.</p>
+    <p>Alternatively, <a href="http://malicious-domain.com/login?session=abc123">click here</a> or <a href="http://malicious-domain.com/update">here</a> to update your password now.</p>
+    <p>In case of issues, refer to our <a href="https://company.com/privacy-policy">privacy-policy</a> and <a href="https://company.com/help">help</a> pages for more info.</p>
+    <p>Use this IP-based address if needed: <a href="http://192.0.2.123/verify?id=456">http://203.0.113.45/verify</a></p>
+    <p>Your immediate action is <strong>REQUIRED</strong>! Do not ignore this URGENT notification.</p>
+  </body>
+</html>
+
+--BOUNDARY123--

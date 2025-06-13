@@ -1,0 +1,53 @@
+```
+From - Tue Oct 10 14:28:53 2023
+X-Account-Key: account2
+X-UIDL: 1195
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <notification@dhl-parcel.com>
+Received: from 192.168.1.1 (EHLO smtp.fake-domain.com) by mail.example.com with SMTP; Tue, 10 Oct 2023 14:28:50 -0400
+Message-ID: <202310101428.123456smtp.fake-domain.com>
+Date: Tue, 10 Oct 2023 14:28:50 -0400
+From: "DHL Parcel Notification" <notification@dhl-parcel.com>
+Reply-To: no-reply@dhl-parcel.com
+Subject: Urgent: Action Required for Your Held Package
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="DHLNotificationBoundary"
+
+--DHLNotificationBoundary
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today, but we could not complete the delivery. To release your package, please visit: http://192.0.2.0/package and provide the necessary information.
+
+If you have any questions, you can refer to our privacy policy or contact support.
+
+Thank you,
+DHL Parcel
+
+--DHLNotificationBoundary
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package today, but we could not complete the delivery. To release your package, please <a href="http://192.0.2.0/package">click here</a> and provide the necessary information.</p>
+
+<p><a href="http://198.51.100.1/images/dhl-logo.png"><img src="http://198.51.100.1/images/dhl-logo.png" alt="DHL Logo" /></a></p>
+
+<p>If you have any questions, you can refer to our <a href="https://www.dhl-parcel.com/safe-site">privacy policy</a> or <a href="http://203.0.113.5/support.contact">contact support</a>.</p>
+
+<p>Thank you,<br />
+DHL Parcel</p>
+<br />
+<p>For more details, visit <a href="http://real-dhl.com-fake.com">http://real-dhl.com</a></p>
+</body>
+</html>
+
+--DHLNotificationBoundary--
+```

@@ -1,0 +1,60 @@
+From no-reply@dhl.com Tue Aug 10 12:34:56 2021
+Return-Path: <no-reply@dhl.com>
+Received: from relay.dhl.com (relay.dhl.com [203.0.113.1]) by mail.example.com with ESMTPS id abc123; Tue, 10 Aug 2021 12:34:56 +0000
+From: "DHL Delivery Notification" <no-reply@dhl.com>
+Reply-To: support@dhl-security.com
+To: user@example.com
+Subject: URGENT: Delivery Notification - Action Required
+Date: Tue, 10 Aug 2021 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f2be05b9e29e8a"
+
+--000000000000b3f2be05b9e29e8a
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery is pending due to an unpaid fee. Immediate action is required to avoid shipment delay or package return.
+To release your parcel, please visit the secure link below and confirm your details:
+
+http://secure-dhl-release.com
+
+Thank you for choosing DHL.
+
+Best regards,
+DHL Delivery Team
+
+--000000000000b3f2be05b9e29e8a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p>Dear Customer,</p>
+    <p style="color: red; font-weight: bold;">
+      URGENT: Your <a href="http://malicious.domain/login" title="account">account</a> 
+      is on hold due to a <a href="https://dhl-release.info" title="urgent">here</a> 
+      security issue. Please <a href="http://secure-dhl-release.com">click here</a> 
+      immediately to avoid <span style="font-style: italic;">package suspension</span>.
+    </p>
+    <p>
+      <a href="http://malicious.domain/release-package"><img src="http://malicious.domain/dhl-logo.png" alt="DHL Logo"/></a>
+    </p>
+    <p>
+      You can also track your shipment by visiting 
+      <a href="http://malicious.domain/tracking"></a> 
+      or view the official 
+      <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> &amp; 
+      <a href="https://www.dhl.com/help">Help Center</a>.
+    </p>
+    <p>
+      For security updates, see 
+      <a href="http://dhl-secure-update.com">https://www.dhl.com/security-update</a>.
+    </p>
+    <p>Failure to respond <strong>immediately</strong> will result in return to sender.</p>
+    <p>Best regards,<br/>DHL Delivery Team</p>
+  </body>
+</html>
+
+--000000000000b3f2be05b9e29e8a--

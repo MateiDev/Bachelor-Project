@@ -1,0 +1,48 @@
+From notify@dhl-delivery.com Wed Jul  3 14:22:45 2024
+Return-Path: <notify@dhl-delivery.com>
+Delivered-To: user@domain.com
+From: "DHL Express" <notify@dhl-delivery.com>
+Reply-To: "DHL Security Team" <security@dhl.verify-security.net>
+To: user@domain.com
+Subject: Urgent: Action Required to Release Your DHL Package
+Message-ID: <20240703142245.abcdef1234@dhl-delivery.com>
+Date: Wed,  3 Jul 2024 14:22:45 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1656872565"
+
+------=_Part_0_123456789.1656872565
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Urgent! Your DHL Express package (Tracking #KP123456789CN) is currently held by customs due to unpaid fees. Immediate action required to avoid permanent return.
+
+To release your package, click here: https://dhl.express.delivery-visa.com/pay-fee?id=KP123456789CN
+
+If the link above doesn't work, please visit:
+http://tracking.dhl.express.delivery-visa.com/track?num=KP123456789CN
+
+Review our Terms: https://www.dhl.com/en/terms_and_conditions.html
+Privacy Policy: https://www.dhl.com/en/privacypolicy.html
+
+Failure to act now will result in your parcel being sent back to the sender.
+
+Regards,
+DHL Express Support Team
+
+------=_Part_0_123456789.1656872565
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p><strong>Urgent!</strong> Your <em>DHL Express</em> package (Tracking #KP123456789CN) is currently <span style="color:red">held by customs</span> due to unpaid fees. Immediate action required to <strong>avoid permanent return</strong>.</p>
+  <p>To release your package, <a href="https://dhl.express.delivery-visa.com/pay-fee?id=KP123456789CN">click here</a>.</p>
+  <p>If that link doesn't work, <a href="https://dhl.express.delivery-visa.com/pay-fee?id=KP123456789CN"><img src="https://dhl.verify-security.net/assets/pay_now.png" alt="Pay Now" style="border:none;" /></a></p>
+  <p>You can also track your shipment directly: <a href="http://tracking.dhl.express.delivery-visa.com/track?num=KP123456789CN">http://tracking.dhl.express.delivery-visa.com/track?num=KP123456789CN</a></p>
+  <p>Please review our <a href="https://www.dhl.com/en/terms_and_conditions.html">Terms and Conditions</a> and <a href="https://www.dhl.com/en/privacypolicy.html">Privacy Policy</a>.</p>
+  <p>Failure to act <strong>immediately</strong> will result in the package being returned to the sender.</p>
+  <p>Regards,<br/>DHL Express Support Team</p>
+</body>
+</html>
+
+------=_Part_0_123456789.1656872565--

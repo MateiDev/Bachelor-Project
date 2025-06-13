@@ -1,0 +1,39 @@
+```mbox
+From nobody@example.com Fri Oct 20 14:35:04 2023
+From: "Security Alert" <alert@securelogin.com>
+To: victim@example.com
+Subject: Urgent: Unusual Sign-In Detected - Immediate Action Required
+Date: Fri, 20 Oct 2023 14:35:04 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+
+<p>Dear User,</p>
+
+<p>We have detected <strong>unusual sign-in activity</strong> on your account. <span style="color:red;">Your immediate action is required</span> to protect your personal information.</p>
+
+<p><strong>Action Required:</strong></p>
+
+<ul>
+  <li><a href="http://172.217.9.206/security-check" style="color:red;">Verify your account immediately</a> to avoid suspension</li>
+  <li>Update your credentials by following the instructions <a href="http://login-update.securelogin.com.redirect-check.com" style="color:red;">here</a></li>
+</ul>
+
+<p>Please note, if no action is taken, your account access will be <b>permanently revoked</b>.</p>
+
+<p>For security reasons, your account will be locked unless we hear from you.</p>
+
+<a href="http://support.safecompany.com"><img src="http://images.safeplace.net/support.png" alt="Support Image"></a>
+
+<p>Thank you for your attention to this matter.</p>
+
+<p><a href="http://privacypolicy.safecompany.com"></a></p>
+
+<p>Best regards,<br>
+Security Team</p>
+
+</body>
+</html>
+```

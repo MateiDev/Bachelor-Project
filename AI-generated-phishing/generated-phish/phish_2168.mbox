@@ -1,0 +1,48 @@
+From secure@mail.safebank.com Sat Jul 24 18:26:15 2021
+Return-Path: <secure@mail.safebank.com>
+Received: from mail.safebank.com (mail.safebank.com [203.0.113.10])
+    by victimdomain.com with ESMTP id a1b2c3d4 for <user@victimdomain.com>; Sat, 24 Jul 2021 18:26:15 +0000 (UTC)
+From: "SecureMail Security Alert" <secure@mail.safebank.com>
+Reply-To: support-team@secure-safe.com
+Subject: Urgent Account Password Alert
+To: user@victimdomain.com
+Date: Sat, 24 Jul 2021 18:26:15 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7890123456789"
+
+----=_Part_123456_7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT SECURITY ALERT!
+
+Dear User,
+
+We have detected suspicious activity on your account password. To prevent immediate suspension, you must verify your credentials now. Click the link below within 24 hours:
+
+https://secure.bank.com/login
+
+Failure to comply will result in permanent account lockout.
+
+Regards,
+SecureMail Support
+
+----=_Part_123456_7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT SECURITY ALERT!</strong></p>
+    <p>Dear User,</p>
+    <p>We have detected <span style="color:red;">suspicious activity</span> on your <strong>account</strong> <em>password</em>. To prevent immediate <strong>suspension</strong>, you must verify your credentials now. Click the link below within 24 hours:</p>
+    <p><a href="http://203.0.113.45/login">https://portal.secure.bank.com/login</a></p>
+    <p>Alternatively, use the direct secure link:</p>
+    <p><a href="http://login.secure.bank.com.auth-portal.verifylogin.net/?id=XYZ123&amp;user=ABC">http://login.secure.bank.com/auth/login</a></p>
+    <p>Failure to comply will result in permanent account lockout.</p>
+    <p>Regards,<br>
+       SecureMail Support Team</p>
+  </body>
+</html>
+
+----=_Part_123456_7890123456789--

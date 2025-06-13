@@ -1,0 +1,61 @@
+From - Wed Oct 25 12:34:56 2023
+X-Account-Key: account2
+X-UIDL: AA12345
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:
+Return-Path: <no-reply@secure-alert.com>
+Delivered-To: victim@example.com
+Received: by 192.0.2.1 with SMTP id d2csp12345678qtb;
+        Wed, 25 Oct 2023 12:34:55 -0700 (PDT)
+Received: from unknown-origin (unknown [198.51.100.10])
+        by mx.example.com (Postfix) with ESMTP id ABC123DEF456
+        for <victim@example.com>; Wed, 25 Oct 2023 12:34:54 -0700 (PDT)
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+    boundary="-----=_Part_123456_789012345.6789012345678"
+Date: Wed, 25 Oct 2023 19:34:53 +0000
+From: Security Alert <no-reply@secure-alert.com>
+Reply-To: alert@accounts.com
+Subject: Action Required: Immediate Account Verification Needed
+
+-------=_Part_123456_789012345.6789012345678
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. As a result, we need you to verify your account immediately to avoid any suspension. If your password is not updated today, it will expire, and you may lose access to your account.
+
+Please take action now by following the link below:
+http://192.0.2.2/reset
+http://192.0.2.2/verify
+
+For your safety, if you did not attempt to log in, please change your password immediately.
+
+- Security Team
+
+-------=_Part_123456_789012345.6789012345678
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security Alert</title>
+</head>
+<body>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unusual sign-in activity</strong> on your account. As a result, we need you to verify your account <strong>immediately</strong> to avoid any suspension. If your password is not updated today, it will expire, and you may lose access to your account.</p>
+    <p>To secure your account, <a href="http://192.0.2.2/reset">click here</a> or <a href="http://192.0.2.2/verify">click here</a> to verify now.</p>
+    <p>This is an urgent matter! Please take action to avoid losing access to your sensitive information.</p>
+    <p><img src="http://198.51.100.20/security-alert.png" alt="Security Alert"></p>
+    <p>To learn more about our privacy policy, visit <a href="https://www.legit-privacy-policy.com">https://www.legit-privacy-policy.com</a></p>
+    <p>For assistance, visit our <a href="https://www.legit-help.com">Help Center</a>.</p>
+    <p>- Security Team</p>
+</body>
+</html>
+
+-------=_Part_123456_789012345.6789012345678--

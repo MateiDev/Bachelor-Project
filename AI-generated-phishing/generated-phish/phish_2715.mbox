@@ -1,0 +1,49 @@
+```
+From MAILER-DAEMON Thu Oct 12 20:48:10 2023
+Return-Path: <mailer-daemon@example.com>
+X-Original-To: user@example.com
+Delivered-To: user@example.com
+Received: by example.com (Postfix, from userid 1001)
+    id 76E6E24FCC; Thu, 12 Oct 2023 20:48:10 +0000 (UTC)
+From: "Rewards Center" <offers@rewards-program.com>
+Reply-To: claim-department@malicious-site.com
+Subject: Urgent: Your €100 Voucher - Claim Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="000000000000a8c7a305ec1b56c4"
+
+--000000000000a8c7a305ec1b56c4
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is an URGENT notice! You have been selected to receive a special €100 Voucher for your consistent loyalty. You only have 24 hours to claim this reward.
+
+Click the link to secure your voucher: http://example.com/claim-voucher
+
+Secure your voucher immediately!
+
+Best regards,
+Rewards Center Team
+
+--000000000000a8c7a305ec1b56c4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Claim Your €100 Voucher Now!</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>This is an <strong>URGENT</strong> notice! You have been selected to receive a special €100 Voucher for your consistent loyalty. You only have <strong>24 hours</strong> to claim this reward.</p>
+    <p><a href="http://192.0.2.1/secure-claim"><img src="http://example.com/voucher-image.jpg" alt="Your €100 Voucher"></a></p>
+    <p>Click <a href="http://malicious-site.com/claim-here">here</a> to secure your voucher immediately!</p>
+    <p><a href="http://trusted-site.com/privacy-policy">Privacy Policy</a> | <a href="http://trusted-site.com/help">Help</a></p>
+    <p>Best regards,<br/>Rewards Center Team</p>
+  </body>
+</html>
+
+--000000000000a8c7a305ec1b56c4--
+```

@@ -1,0 +1,40 @@
+From service@paypal.com Wed Jul 24 14:45:00 2024
+Return-Path: <service@paypal.com>
+From: "PayPal Service" <service@paypal.com>
+Reply-To: support@paypal-security.com
+Subject: Urgent: Update Your PayPal Account Password
+Date: Wed, 24 Jul 2024 14:45:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890.159741"
+
+------=_Part_12345_67890.159741
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal Customer,
+
+Your account's security is at risk. We require you to update your password immediately to avoid suspension.
+
+Please visit the following link:
+http://203.0.113.45/login
+
+If you have any questions, see our Privacy Policy:
+https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+
+Thank you,
+PayPal Security Team
+
+------=_Part_12345_67890.159741
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear PayPal Customer,</p>
+<p>Your account's security is at risk. We require you to update your <strong>password</strong> immediately to avoid suspension.</p>
+<p><a href="http://203.0.113.45/login">click here</a> to verify your credentials.</p>
+<p>For more information, visit our <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full">Privacy Policy</a> or <a href="https://www.paypal.com/us/smarthelp/home">Help Center</a>.</p>
+<a href="http://203.0.113.45/secure"></a>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body></html>
+
+------=_Part_12345_67890.159741--

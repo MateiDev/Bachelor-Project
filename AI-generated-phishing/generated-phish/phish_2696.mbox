@@ -1,0 +1,67 @@
+```mbox
+From - Sun Oct 15 14:32:37 2023
+X-Account-Key: account2
+X-UIDL: 1234567890
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <phish-attempt@fakeaccountsecurity.com>
+Received: from suspicious-source.com (192.168.1.100) by mailserver.com with SMTP; Sun, 15 Oct 2023 14:32:37 +0000
+Date: Sun, 15 Oct 2023 14:32:37 +0000
+From: Account Security <alert@security-alerts.com>
+Reply-To: support-team@account-helper.com
+To: victim@targetdomain.com
+Subject: URGENT: Unusual Sign-In Detected - Immediate Verification Required!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b74a740606a12cbf"
+
+--000000000000b74a740606a12cbf
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual sign-in activity on your account. To protect your data, immediate action is required. Follow the verification process now:
+
+http://192.168.1.100/verify
+
+Failure to do so will lead to account suspension. Act now to secure your information.
+
+Best Regards,
+Account Security Team
+
+
+--000000000000b74a740606a12cbf
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Dear user,</p>
+
+<p>We have detected <strong><em>unusual sign-in activity</em></strong> on you=
+r account. To protect your data, <span style=3D"color: red;">immediate actio=
+n is required</span>. Click the link below to verify your account details:</=
+p>
+
+<p><a href=3D"http://10.0.0.1/security-check"><img src=3D"http://maliciousli=
+nk.com/images/security.png" alt=3D"" width=3D"200" height=3D"50"></a></p>
+
+<p>If you do not verify your account within 24 hours, <span style=3D"color: =
+red;">your account will be suspended</span>.</p>
+
+<p>Click this link to manage your account: <a href=3D"http://security-alert.=
+com/manage">http://security-alert.com/manage</a></p>
+
+<p>Another verification link for your convenience: <a href=3D"http://174.143=
+.240.240/login">http://login-securityupdate.com</a></p>
+
+<p>Best Regards,<br>
+Account Security Team</p>
+
+</body>
+</html>
+
+--000000000000b74a740606a12cbf--
+```

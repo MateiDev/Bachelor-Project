@@ -1,0 +1,59 @@
+From alerts@secure-portal.com Mon Mar 14 12:34:56 2022
+Return-Path: <alerts@secure-portal.com>
+Received: from mail.secure-portal.com (mail.secure-portal.com [198.51.100.25]) by mail.recipient.com with ESMTP id ABC12345 for <victim@example.com>; Mon, 14 Mar 2022 12:34:56 +0000
+From: "Encrypted Secure-Mail Alerts" <alerts@secure-portal.com>
+Reply-To: "Secure Support" <support@help-centre.com>
+To: victim@example.com
+Subject: URGENT: Account Password Security Alert
+Date: Mon, 14 Mar 2022 12:34:56 +0000
+Message-ID: <20220314123456.ABC123@mail.secure-portal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC-BOUNDARY"
+
+--ABC-BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We've detected suspicious activity in your encrypted secure-mail account.
+To avoid interruption, please verify your credentials immediately by clicking the link below:
+
+http://secure.portal.com.verify.you.login.site/confirm?user=Victim
+
+If the button fails, copy and paste the following URL into your browser:
+http://203.0.113.5/verify?user=Victim
+
+Alternatively, go to your secure portal:
+https://secureportal.com/login
+
+Thank you,
+Secure-Mail Team
+
+--ABC-BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <img src="http://203.0.113.5/logo.png" alt="SecureMail Logo" />
+    <h2>URGENT: Account Password Security Alert</h2>
+    <p>Dear Customer,</p>
+    <p>We've detected suspicious activity in your encrypted secure-mail account.
+    To avoid interruption, please verify your credentials immediately by
+    <a href="http://secure.portal.com.verify.you.login.site/confirm?user=Victim">click here</a>.</p>
+    <p>If the button doesn't work, copy and paste the following URL into your browser:</p>
+    <p><a href="http://203.0.113.5/verify?user=Victim">http://203.0.113.5/verify?user=Victim</a></p>
+    <p>Alternatively, you can go to
+      <a href="http://malicious.com/login">https://secureportal.com/login</a>
+    </p>
+    <p>Or visit our legitimate portal: <a href="https://secureportal.com/login">https://secureportal.com/login</a></p>
+    <p>Please also review our <a href="https://secure-portal.com/privacy-policy">Privacy Policy</a> or contact <a href="https://help.secure-portal.com/contact">help</a>.</p>
+    <p>Please verify <a href="http://malicious-portal.com/secure">here</a>.</p>
+    <a href="http://malicious-empty.com"></a>
+    <p>For quick access, click the image below:</p>
+    <p><a href="http://192.168.0.10/update"><img src="http://203.0.113.5/banner.png" alt="Update Now" /></a></p>
+  </body>
+</html>
+
+--ABC-BOUNDARY--

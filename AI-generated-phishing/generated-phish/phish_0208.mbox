@@ -1,0 +1,51 @@
+```
+From - Tue Oct 10 02:35:18 2023
+X-Original-To: recipient@example.com
+Delivered-To: recipient@example.com
+Received: by 2002:a25:104e:0:0:0:0:0 with SMTP id e14csp29387462ybm;
+        Tue, 10 Oct 2023 02:35:18 -0700 (PDT)
+X-Received: by 2002:a05:620a:221b:b0:36c:0:0 with SMTP id x27mr25000339vsv.273.1696926917043;
+        Tue, 10 Oct 2023 02:35:17 -0700 (PDT)
+Date: Tue, 10 Oct 2023 09:35:17 +0000
+From: "Security Alert" <no-reply@accountssecurity.example.com>
+To: recipient@example.com
+Subject: Urgent: Unusual Sign-In Detected on Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000ccd6b205f3a12346"
+
+--000000000000ccd6b205f3a12346
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've detected an unusual sign-in on your account from a new IP location. 
+To ensure your account safety, we require immediate verification.
+
+Please verify your account activity by clicking the link below:
+http://192.12.45.67/verifysession
+
+If you do not verify your account within 24 hours, it may be temporarily 
+locked.
+
+Thank you for your prompt attention.
+
+Sincerely,
+Account Security Team
+
+--000000000000ccd6b205f3a12346
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We've detected an <strong>unusual sign-in</strong> on your account from a new IP location. To ensure your account safety, we require immediate verification.</p>
+    <p>Please verify your account activity by clicking <a href="http://192.12.45.67/verifysession">here</a>.</p>
+    <p>If you do not verify your account within 24 hours, it may be temporarily locked.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>Account Security Team</p>
+    <p><a href="http://results.example.com">Privacy Policy</a> | <a href="http://security.example.com/help">Help</a></p>
+  </body>
+</html>
+
+--000000000000ccd6b205f3a12346--
+```

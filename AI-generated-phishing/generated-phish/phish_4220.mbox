@@ -1,0 +1,55 @@
+From no-reply@irs.gov Tue Jun 04 12:00:00 2024
+Return-Path: <no-reply@irs.gov>
+Delivered-To: user@domain.com
+Received: by mail.domain.com id ab123456789; Tue, 04 Jun 2024 12:00:00 -0400 (EDT)
+Date: Tue, 04 Jun 2024 12:00:00 -0400
+From: "IRS Refund Confirmation" <no-reply@irs.gov>
+Reply-To: support@banksupport-secure.com
+To: user@domain.com
+Subject: URGENT: Action Required to Claim Your Tax Refund for 2023
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have detected a discrepancy in your 2023 federal tax filing. A small refund is waiting for you but must be confirmed within 24 hours.
+
+Please visit the link below to confirm your bank details:
+http://irs.gov/confirm
+
+Failure to confirm may result in forfeiture of your refund. This is an urgent action required.
+
+Thank you,
+IRS Refund Department
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>urgent account alert</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p style="color:red; font-weight:bold;">Immediate action required!</p>
+<p>Our records indicate a pending refund for your 2023 taxes. Please confirm your bank details within <strong>24 hours</strong> to avoid losing your refund.</p>
+<table>
+<tr>
+<td>
+<a href="http://198.51.100.23/secure/confirm"><img src="http://security.irs.images/confirm_button.png" alt="Confirm Now"></a>
+</td>
+</tr>
+</table>
+<p>Or <a href="http://198.51.100.23/secure/confirm"></a> to proceed.</p>
+<p>For assistance, visit our <a href="http://help.security.irs.gov/policy.html">privacy-policy</a>.</p>
+<p>If you have any questions, <a href="http://modal-taxconfirm.com/support">click here</a>.</p>
+<p>Anchor mismatch: <a href="http://198.51.100.23">http://irs.gov/confirm</a></p>
+</body>
+</html>
+
+--boundary123--

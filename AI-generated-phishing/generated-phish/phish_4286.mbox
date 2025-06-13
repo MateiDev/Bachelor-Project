@@ -1,0 +1,58 @@
+From phisher@spamdomain.com Tue Feb 28 10:15:00 2023
+Return-Path: <noreply@securebank.verify-services.org>
+Delivered-To: user@domain.com
+Received: from mail.securebank.com (mail.securebank.com [198.51.100.25])
+	by mx.domain.com with ESMTP id abc123 for <user@domain.com>;
+	Tue, 28 Feb 2023 10:15:00 -0500 (EST)
+From: "Secure Bank Tax Department" <tax@securebank.com>
+Reply-To: <helpdesk@bankhelpdesk.net>
+To: user@domain.com
+Subject: Urgent: Immediate Tax Refund Confirmation Needed
+Message-ID: <20230228101500@mail.securebank.com>
+Date: Tue, 28 Feb 2023 10:15:00 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_111222333"
+
+------=_Part_000_111222333
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your 2022 tax refund of $125.00 is pending.
+Immediate action required to confirm your bank details.
+Visit the secure portal:
+http://verification.secure-portal.bank-claims.info/process
+Or click:
+http://192.168.1.100/confirm
+
+Failure to act within 48 hours will result in cancellation.
+
+------=_Part_000_111222333
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>URGENT ACTION REQUIRED!</strong></p>
+    <p>Your <em>tax refund</em> of <strong>$125.00</strong> is pending. Confirm your bank details <span style="color:red;">NOW</span> to avoid cancellation.</p>
+    <p>
+      <a href="http://update.tax.verify.online.bank.login-update.info">https://update.tax.verify.online.bank.login-update.info</a>
+    </p>
+    <p>
+      <a href="http://192.168.1.100/confirm">https://securebank.com/confirm</a>
+    </p>
+    <p>
+      <a href="http://verification.secure-portal.bank-claims.info/process">
+        <img src="http://images.bank-logos.org/logo.png" alt="SecureBank Logo" width="150" height="50"/>
+      </a>
+    </p>
+    <p>
+      For assistance, review our <a href="http://help.securebank.com/privacy">privacy-policy</a> or click <a href="http://203.0.113.10/hidden">here</a>.
+    </p>
+    <p>
+      To finalize, click <a href="http://verification.secure-portal.bank-claims.info/process"></a> immediately!
+    </p>
+    <p><strong>Failure to act within 48 hours</strong> will cancel your refund.</p>
+  </body>
+</html>
+
+------=_Part_000_111222333--

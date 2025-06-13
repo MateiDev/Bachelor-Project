@@ -1,0 +1,43 @@
+```mbox
+From youroffers@amazonsupport.com  Fri Oct 20 09:10:14 2023
+Received: from mail.youroffers.com ([192.0.2.1])
+    by mx.example.com with ESMTP id 1234567890
+    for <target@example.com>; Fri, 20 Oct 2023 09:10:14 +0000
+Reply-To: helpdesk@accounts-support.com
+Subject: Urgent: Action Required to Secure Your Account
+To: target@example.com
+Content-Type: multipart/alternative; boundary="boundary123456"
+MIME-Version: 1.0
+Message-ID: <random123456@amazonsupport.com>
+Date: Fri, 20 Oct 2023 09:10:14 +0000
+
+--boundary123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+There has been unusual activity in your account. Please verify your login immediately by clicking on the link below to secure your account:
+
+http://secure-login-amazon.com
+
+Thank you,
+Amazon Support Team
+
+--boundary123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>There has been <b>unusual activity</b> in your account. Please verify your login immediately by clicking on the link below to secure your account:</p>
+<p><a href="http://secure-login.com"><img src="http://amazonsupport.com/images/verify.png" alt="Verify Your Account"></a></p>
+<p>Or visit the Amazon site directly: <a href="http://secure-login-amazon.com">www.amazon.com</a></p>
+<p>Thank you,<br>
+Amazon Support Team</p>
+</body>
+</html>
+
+--boundary123456--
+```

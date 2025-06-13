@@ -1,0 +1,38 @@
+Here is a phishing email in mbox format:
+
+```
+From email@secure-portal.fake.com Thu Oct 12 14:28:07 2023
+Return-Path: <email@secure-portal.fake.com>
+Delivered-To: user@example.com
+Received: from secure-portal.fake.com (unknown [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 1234567890AB
+    for <user@example.com>; Thu, 12 Oct 2023 14:28:07 +0000 (UTC)
+Date: Thu, 12 Oct 2023 14:28:07 +0000
+From: Secure Portal <email@secure-portal.fake.com>
+Reply-To: alert@security-notice.fake.com
+Subject: Urgent Action Required: Account Security Alert
+
+Dear Valued User,
+
+We have detected unusual activity in your account that requires immediate attention. Please act promptly to secure your account and prevent any unauthorized access.
+
+Click the link to view details on the secure portal: 
+<a href="http://192.0.2.2/security-alert" style="color: blue; text-decoration: underline;"></a>
+
+Your security is our top priority. Failure to confirm your account activity immediately will result in temporary suspension of your account for your protection.
+
+To verify and secure your account, please follow the link below:
+<a><img src="http://malicious-site.fake.com/image.png" alt="Secure your account"></a>
+
+Visit the secured link: http://secure-portal.fake.com/update-account
+
+We urge you not to ignore this notice to safeguard your personal information.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+Security Team
+
+Please do not reply to this message. For assistance, contact: help@security-support.fake.com
+```

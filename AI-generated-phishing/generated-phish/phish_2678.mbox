@@ -1,0 +1,55 @@
+From mbox@example.com Thu Nov 02 18:52:29 2023
+Return-Path: <mbox@example.com>
+Received: from suspiciousmail.org (unknown [192.0.2.1])
+	by mailserver.example.com (Postfix) with ESMTP id ABCD1234EFG
+	for <user@example.com>; Thu,  2 Nov 2023 18:52:29 +0000 (UTC)
+Date: Thu, 2 Nov 2023 18:52:29 +0000
+From: Secure Account Team <secureteam@trustedservice.com>
+Reply-To: alerts-update@securelogon.com
+Subject: Urgent: Immediate Action Required for Your Account Security
+Message-ID: <00000182c933$4d7ba0c0$e281e790$@suspiciousmail.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--_Part_123456_7890123456.234567890"
+
+This is a multi-part message in MIME format.
+
+----_Part_123456_7890123456.234567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+We have detected an unusual sign-in activity with your account. As a result, access to your account has been temporarily restricted to protect your private information.
+
+To avoid permanent suspension, please verify your account details by clicking the link below:
+
+[https://update-secure-server.com/login](http://192.0.2.2/malicious-link)
+
+Failure to update your account within 24 hours will result in account suspension.
+
+Thank you for your immediate attention.
+
+Best regards,  
+Secure Account Team
+
+----_Part_123456_7890123456.234567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued User,</p>
+<p>We have detected an unusual sign-in activity with your account. As a result, access to your account has been temporarily restricted to protect your private information.</p>
+<p>To avoid permanent suspension, please verify your account details by clicking <a href="http://192.0.2.2/malicious-link">here</a>.</p>
+<p>Failure to update your account within 24 hours will result in account suspension.</p>
+<p>Thank you for your immediate attention.</p>
+<p>Best regards, <br>Secure Account Team</p>
+<a href="http://example.com/"> </a>
+<a href="https://support.trustedservice.com">Customer Support</a>
+<a href="http://trustedservice.com/privacypolicy.html">Privacy Policy</a>
+<a href="http://example-login.com/">https://update-secure-server.com/login</a>
+</body>
+</html>
+
+----_Part_123456_7890123456.234567890--

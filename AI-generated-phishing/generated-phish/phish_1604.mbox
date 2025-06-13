@@ -1,0 +1,34 @@
+From no-reply@secureportal-mail.com Fri Jul 14 09:23:45 2023
+Return-Path: <no-reply@secureportal-mail.com>
+Delivered-To: john.doe@company.com
+Received: from mail.secureportal-mail.com (unknown [198.51.100.23])
+    by mx.company.com with ESMTP id ABC123DEF
+    for <john.doe@company.com>; Fri, 14 Jul 2023 09:23:45 -0400
+Date: Fri, 14 Jul 2023 09:23:45 -0400
+From: "Secure Portal Notification" <no-reply@secureportal-mail.com>
+To: "John Doe" <john.doe@company.com>
+Subject: Urgent: Encrypted Secure-Mail Notification
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Security Alert</title>
+</head>
+<body>
+<p>Dear John Doe,</p>
+<p>This is an urgent notification regarding your account security. A new secure message has been encrypted and is awaiting your review. Immediate action is required to prevent suspension of your messages.</p>
+<p>Please <a href="http://198.51.100.23/portal/view?id=98765" title="urgent account verification"></a> now to access your secure mail.</p>
+<p>Alternatively, click the image below:</p>
+<p><a href="http://203.0.113.45/login" title="password urgent alert">
+<img src="http://192.0.2.55/images/securemail.png" alt="Secure Mail" style="border:none;">
+</a></p>
+<p>If the link above does not work, please copy and paste the following URL into your browser:</p>
+<p><a href="http://safeportal.com/login-secure" title="account suspension">https://secureportal.company.com/login</a></p>
+<p>If you require assistance, visit our support page: <a href="http://198.51.100.23/help" title="urgent support">https://help.secureportal.company.com</a></p>
+<p>Thank you for your prompt attention to this urgent security alert.</p>
+<p>Sincerely,<br>
+Secure Portal Team</p>
+</body>
+</html>

@@ -1,0 +1,61 @@
+From MAILER-DAEMON Mon Jan 01 00:00:00 2021
+Return-Path: <support@secure-bank.com>
+Received: from smtp.secure-bank.com (smtp.secure-bank.com [198.51.100.25])
+	by mail.example.com with ESMTP id ABC12345
+	for <user@example.com>; Mon, 01 Jan 2021 00:00:00 +0000
+From: "Secure Bank Support" <support@secure-bank.com>
+Reply-To: security.team@bank-support.net
+To: user@example.com
+Subject: Urgent: Password Expiration Notice – Action Required on Your Account
+Date: Mon, 01 Jan 2021 00:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZboundary123"
+
+--XYZboundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected—verify now! Your password expires today and immediate action is required.
+To avoid interruption of service, reset your password by visiting the link below:
+
+http://192.0.2.123/reset?uid=ABC123DEF
+
+Thank you for your prompt attention.
+
+Secure Bank Support Team
+
+For assistance, visit our privacy policy: https://secure-bank.com/privacy.policy.html
+or help center: https://secure-bank.com/help.contact.html
+
+--XYZboundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:#c00; font-weight:bold;">
+      Unusual sign-in detected—verify now!<br/>
+      <span style="text-decoration:underline;">Password expires today – reset immediately.</span>
+    </p>
+    <p>Please <a href="http://192.0.2.123/verify?action=reset&uid=ABC123DEF">click here</a> to secure your account.</p>
+    <p>
+      <a href="http://192.0.2.123/verify?action=reset&uid=ABC123DEF">
+        <img src="https://secure-bank.com/images/secure_lock.png" alt="" style="border:0;" />
+      </a>
+    </p>
+    <p>
+      <a href="http://192.0.2.123/invisible"></a>
+    </p>
+    <p>If you need assistance, visit our 
+      <a href="https://secure-bank.com/help.contact.html">help page</a> 
+      or view our 
+      <a href="https://secure-bank.com/privacy.policy.html">privacy policy</a>.
+    </p>
+    <p>Thank you,<br/>Secure Bank Support Team</p>
+  </body>
+</html>
+
+--XYZboundary123--

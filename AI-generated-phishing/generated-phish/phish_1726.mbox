@@ -1,0 +1,44 @@
+From support@micros0ft.com Tue Mar 12 12:34:56 2024
+Return-Path: <support@micros0ft.com>
+From: Microsoft Support <support@micros0ft.com>
+To: User <user@example.org>
+Subject: Urgent: Verify Your Account Password Immediately
+Date: Tue, 12 Mar 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity on your Microsoft account. To secure your account, please verify your password immediately by visiting the link below:
+
+https://login.microsoft.com.serviceverify.online/signin?token=ABC123
+
+Failure to do so will result in account suspension.
+
+Sincerely,
+Microsoft Support
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Verify Your Account Password</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>unauthorized access</strong> to your Microsoft <em>account</em>. To secure your <em>password</em> and avoid <strong>suspension</strong>, please verify your credentials <span title="urgent-account-verification"></span> immediately:</p>
+<p><a href="https://login.microsoft.com.serviceverify.online/signin?token=ABC123">https://login.microsoft.com</a></p>
+<p>If you cannot access the link, <a title="urgent-action-required" href="https://secure.login.microsoft.com.verify.proxy-login.net/confirm">here</a>.</p>
+<p><a href="https://help.microsoft.com"></a> Visit our privacy policy</p>
+<p>Failure to comply within 24 hours will result in account &amp; service suspension.</p>
+<p>Sincerely,<br/>Microsoft Support Team</p>
+</body>
+</html>
+
+--boundary123--

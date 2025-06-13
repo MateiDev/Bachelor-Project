@@ -1,0 +1,53 @@
+```
+From - Sun Oct 22 10:25:53 2023
+X-Account-Key: account2
+X-UIDL: 00001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00800000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <info@rewards.com>
+Received: from rewards.com ([192.168.1.100]) by mail.example.com with ESMTP id ABC123
+        for <user@example.com>; Sun, 22 Oct 2023 10:25:50 +0000
+Message-ID: <20231022102550.12345.rewards@rewards.com>
+Date: Sun, 22 Oct 2023 10:25:50 +0000
+From: Rewards Dept. <info@rewards.com>
+Reply-To: info@rewards.com
+To: user@example.com
+Subject: Urgent: Claim Your €500 Voucher Now Before It Expires!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="=_Boundary_123456_ABC"
+
+--=_Boundary_123456_ABC
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We are excited to inform you that you are eligible for a €500 voucher! To avoid losing this opportunity, please claim your reward immediately. This is a limited-time offer and will expire soon!
+
+To claim your voucher, follow this link: 
+<http://rewards-claim.online-account.com>
+
+For any assistance, you can contact us. Please do not miss out on this exclusive offer.
+
+Regards,
+Rewards Department
+
+--=_Boundary_123456_ABC
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We are excited to inform you that you are eligible for a €500 voucher! To avoid losing this opportunity, <span style="font-weight:bold;color:red;">please claim your reward immediately</span>. This is a limited-time offer and will expire soon!</p>
+<p>To claim your voucher, follow this link: </p>
+<a href="http://rewards.claim-now.secure.com"></a>
+<p>For any assistance, you can contact us. Please do not miss out on this exclusive offer.</p>
+<p>Regards,<br>Rewards Department</p>
+</body>
+</html>
+
+--=_Boundary_123456_ABC--
+```

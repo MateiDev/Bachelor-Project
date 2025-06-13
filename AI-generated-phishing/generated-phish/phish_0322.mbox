@@ -1,0 +1,47 @@
+```mbox
+From nobody Fri Oct 13 05:15:34 2023
+Return-Path: <alert@security.com>
+Received: from suspicious.net (192.168.1.1) by mail.fake.com with SMTP;
+ Fri, 13 Oct 2023 05:15:29 -0000
+X-Spam-Flag: YES
+X-Phishing-attempt: YES
+Subject: URGENT: Unusual sign-in detected on your account
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000f4f4de06082a4783"
+
+--000000000000f4f4de06082a4783
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We detected an unusual sign-in attempt to your account from a new location. If this was not you, please verify your identity immediately to protect your account.
+
+Failure to comply could lead to account suspension.
+
+Visit the link below to secure your account:
+http://192.168.1.2/login
+
+Thank you,
+Security Team
+
+--000000000000f4f4de06082a4783
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected an <b>unusual sign-in attempt</b> to your account from a new location. If this was not you, please <b>verify your identity immediately</b> to protect your account.</p>
+    <p>Failure to comply could lead to <b>account suspension</b>.</p>
+    <p>Visit the link below to secure your account:<br>
+       <a href="http://192.168.1.2/login"></a>
+    </p>
+    <p>If you cannot access the login, try this alternative link: <br>
+       <a href="http://192.168.1.3/verify"></a>
+    </p>
+    <p>Thank you,<br>
+       Security Team</p>
+  </body>
+</html>
+
+--000000000000f4f4de06082a4783--
+```

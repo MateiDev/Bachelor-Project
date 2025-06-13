@@ -1,0 +1,48 @@
+From support@rewardcenter.com Tue Jan  2 08:30:00 2024
+Return-Path: <support@rewardcenter.com>
+Received: from mail.rewardcenter.com (mail.rewardcenter.com [203.0.113.10])
+    by mx.yourdomain.com with ESMTP id 12345;
+    Tue, 2 Jan 2024 08:30:00 +0000
+Date: Tue, 2 Jan 2024 08:30:00 +0000
+From: "Reward Center Support" <support@rewardcenter.com>
+Reply-To: helpdesk@security-update.net
+To: victim@domain.com
+Subject: Urgent: Verify Account Password to Claim Your €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are excited to inform you that you are eligible for a €50 voucher. To claim your reward, please verify your account password immediately by visiting the following link:
+
+http://178.32.202.56/reward?token=ABC123
+
+For more details, please visit:
+https://promo.offer.rewardcenter.com/info
+
+For any questions, see our privacy policy:
+https://www.rewardcenter.com/privacy
+
+Sincerely,
+Reward Center Support
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We are excited to inform you that you are eligible for a <strong>€50 voucher</strong>. To claim your reward, please verify your <em>account password</em> immediately by <a href="http://178.32.202.56/reward?token=ABC123">click here</a>.</p>
+    <p>Alternatively, access your claim directly: <a href="http://178.32.202.56/reward?token=ABC123">https://secure.rewardcenter.com/claim</a></p>
+    <p>Need more details? Visit our <a href="https://promo.offer.rewardcenter.com/info">information page</a>.</p>
+    <p>For any questions, see our <a href="https://www.rewardcenter.com/privacy">Privacy Policy</a> or get <a href="https://www.rewardcenter.com/help">here</a>.</p>
+    <p>Sincerely,<br/>Reward Center Support</p>
+  </body>
+</html>
+
+--boundary123--

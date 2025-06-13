@@ -1,0 +1,26 @@
+```
+From fake-support@example.com Thu Jan 13 16:45:00 2022
+Return-Path: <fake-support@example.com>
+Delivered-To: victim@example.com
+Received: from fake-server.com (fake-server.com [123.45.67.89])
+        by mail.example.com with ESMTP id rABCDE1234
+        for <victim@example.com>; Thu, 13 Jan 2022 16:45:00 +0000 (UTC)
+Date: Thu, 13 Jan 2022 16:45:00 +0000 (UTC)
+From: "Customer Support" <fake-support@example.com>
+Subject: Urgent: Claim Your €100 Gift Card
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We are pleased to inform you that your account has been selected to receive an exclusive <strong>€100 gift card</strong>. However, you must act <strong>immediately</strong> to claim this reward!</p>
+    <p>Please <a href="http://secure.rewards-claim.fake/activation?user=victim@example.com" target="_blank">click here</a> to activate your gift card now.</p>
+    <p>Alternatively, visit our <a href="http://secure.rewards-claim.fake/confirm">secure confirmation page</a> to verify your account and ensure your reward is not forfeited.</p>
+    <p>Failure to claim within the next 24 hours will result in the permanent forfeiture of this reward. Don't miss out!</p>
+    <p>Regards,<br>Customer Support Team</p>
+    <p><a href="http://example.com" target="_blank"></a></p>
+  </body>
+</html>
+```

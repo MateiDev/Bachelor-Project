@@ -1,0 +1,27 @@
+From phish@testlab.net Tue Jul 30 10:15:00 2024
+Subject: URGENT: Account Password Expires Today – Verify Immediately!
+From: "Security Alerts" <support@security-alerts.net>
+To: user@testdomain.com
+Reply-To: security@secure-update.net
+Date: Tue, 30 Jul 2024 10:15:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head><title>URGENT: Account Password Expiration</title></head>
+<body>
+<p>Dear user,</p>
+<p>We detected an <strong>unusual sign-in</strong> to your account. Your <strong>password expires today</strong>. <span style="color:red;">Action required immediately</span> to avoid permanent lockout.</p>
+<p>
+  <a href="http://malicious-verify.net/verify" title="Verify your account now">
+    <img src="http://malicious-verify.net/images/verify-button.png" alt="Verify Now"/>
+  </a>
+</p>
+<p>Or <a href="http://malicious-verify.net/verify">click here</a> to update your credentials.</p>
+<p>Need assistance? Visit our <a href="https://www.sampledomain.com/help">Help Center</a> or review our <a href="https://www.sampledomain.com/privacy-policy">Privacy Policy</a>.</p>
+<p>If links fail, copy and paste this URL into your browser:</p>
+<p><a href="http://malicious-verify.net/login">https://secure.sampledomain.com/account/reset</a></p>
+<p>This is an automated message. Do not reply to this email; instead send inquiries to <strong>security@secure-update.net</strong>.</p>
+<p>Sincerely,<br/>Security Team</p>
+</body>
+</html>

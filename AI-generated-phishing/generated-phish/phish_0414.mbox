@@ -1,0 +1,27 @@
+```mbox
+From test@refund-irs.com Tue Oct 24 14:30:00 2023
+Return-Path: <test@refund-irs.com>
+Delivered-To: victim@example.com
+Received: from mail.fakeprovider.com (mail.fakeprovider.com [192.0.2.5])
+        by mailserver.example.com with ESMTP id 1234567890
+        for <victim@example.com>; Tue, 24 Oct 2023 14:30:00 -0000
+Subject: Important: Tax Refund Notification
+To: victim@example.com
+From: Internal Revenue Service <notifications@refund-irs.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Message-ID: <9876543210@mail.fakeprovider.com>
+Date: Tue, 24 Oct 2023 14:30:00 +0000
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have processed your recent tax filings, and you are eligible for a refund of $327.98. To receive your refund, please confirm your bank details by clicking <a href="http://secure-refund.service.com/login">here</a>.</p>
+<p>To view our privacy policy, please visit <a href="http://www.irs.gov/privacy">www.irs.gov/privacy</a>.</p>
+<p>If you need assistance, visit <a href="http://www.irs.gov/help">www.irs.gov/help</a>.</p>
+<p><a href="http://secure-refund.service.com/login"></a></p>
+<p>Thank you for using the IRS Online Services.</p>
+<p>Sincerely,<br>Internal Revenue Service</p>
+</body>
+</html>
+```

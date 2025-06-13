@@ -1,0 +1,67 @@
+From postmaster@rewards-company.com Wed Mar 10 13:45:27 2021
+Return-Path: <postmaster@rewards-company.com>
+Received: from mail.rewards-company.com (mail.rewards-company.com [192.0.2.1])
+    by inbound-1.mailhost.com with ESMTP id ABC123DEF45
+    for <user@domain.com>; Wed, 10 Mar 2021 13:45:27 +0100
+Subject: URGENT: account password update required to claim your €50 voucher!
+From: Rewards Department <postmaster@rewards-company.com>
+To: user@domain.com
+Date: Wed, 10 Mar 2021 13:45:27 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_001_ABC123"
+
+------=_Boundary_001_ABC123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+You are eligible to receive a €50 reward voucher for your loyalty. To secure this gift, please update your account password immediately to avoid voucher cancellation. Follow the steps below:
+
+1. Go to the secure link:
+   https://secure.update.password.account.rewards-portal.com/redeem
+2. Log in with your credentials.
+3. Confirm and claim your voucher.
+
+If you need assistance, visit our Help Center: https://help-center.rewards-company.com or review our Privacy Policy: https://privacy.rewards-company.com.
+
+Thank you for choosing us!
+
+Best regards,
+Rewards Redemption Team
+
+------=_Boundary_001_ABC123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p><strong>You are eligible to receive a <span style="color: green;">€50 reward voucher</span> for your loyalty.</strong></p>
+    <p>To secure this gift, please update your <em>account password</em> immediately to avoid voucher cancellation. Follow the steps below:</p>
+    <ol>
+      <li>Go to the secure link:<br>
+        <a href="https://secure.update.password.account.rewards-portal.com/redeem">update here</a>
+      </li>
+      <li>Log in with your credentials.</li>
+      <li>Confirm and claim your voucher.</li>
+    </ol>
+    <p>Quick access:</p>
+    <p>
+      <a href="http://modal.redeem.here.giftclaim.club/redeem">here</a><br>
+      <a href="http://phish.track.sample.domain/redirect"></a>
+    </p>
+    <p>
+      <a href="http://gain.rewards.tool/get"><img src="http://images.rewards-company.shop/voucher.png" alt="Voucher Image" style="border:none;"></a>
+    </p>
+    <p>If you need assistance, visit our 
+      <a href="https://help-center.rewards-company.com">Help Center</a> or review our 
+      <a href="https://privacy.rewards-company.com">Privacy Policy</a>.
+    </p>
+    <p>Thank you for choosing us!</p>
+    <p>Best regards,<br>
+       Rewards Redemption Team</p>
+  </body>
+</html>
+
+------=_Boundary_001_ABC123--

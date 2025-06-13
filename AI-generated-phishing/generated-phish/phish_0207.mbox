@@ -1,0 +1,31 @@
+```mbox
+From phishingtest@fakecorp.com Thu Oct 12 14:28:27 2023
+Return-Path: <phishingtest@fakecorp.com>
+Received: from mail.fakecorp.com (mail.fakecorp.com [192.0.2.1])
+	by victimsmtp.com (Postfix) with ESMTP id 1234567890
+	for <target@victimd.com>; Thu, 12 Oct 2023 14:28:27 -0500 (CDT)
+Message-ID: <123456.7890@fakecorp.com>
+Date: Thu, 12 Oct 2023 14:28:27 -0500
+From: Support Team <support@notgenuine.com>
+Reply-To: no-reply@fakecorp.com
+To: target@victimd.com
+Subject: Important: Verify Your Account Activity
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear User,</p>
+    <p>We've noticed some unusual activity in your <b>FakeCorp</b> account. Please verify your recent transactions to ensure your account is secure.</p>
+    <p><a href="http://192.0.2.2/login">Login to your account</a> to review the activity.</p>
+    <p>If you did not authorize these transactions, it is imperative to <a href="http://192.0.2.2/security-alert">secure your account</a> immediately.</p>
+    <p>Alternatively, you can click the link below to log in automatically:</p>
+    <p><a href="http://login.fakesite.com">http://secure.fakecorp.com</a></p>
+    <p><a href="http://192.0.2.2/login"></a></p>
+    <img src="http://192.0.2.2/track.png" alt="security check" />
+    <br />
+    <p>Thank you,<br>The FakeCorp Security Team</p>
+</body>
+</html>
+```

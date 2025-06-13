@@ -1,0 +1,56 @@
+From secure-portal@portal-secure.com Mon Aug 14 12:00:00 2023
+Return-Path: <security@portal-secure.com>
+Received: from mail.portal-secure.com (mail.portal-secure.com [203.0.113.5])
+    by mx.victimdomain.com with ESMTP id ABC123DEF
+    for <victim@victimdomain.com>; Mon, 14 Aug 2023 12:00:00 +0000
+From: "Secure Portal Team" <security@portal-secure.com>
+Reply-To: support@account-update.com
+To: victim@victimdomain.com
+Subject: Urgent: Your Account Password Has Been Locked
+Date: Mon, 14 Aug 2023 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01D4A2.5E14B3C0"
+
+----=_NextPart_000_01D4A2.5E14B3C0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected suspicious activity on your account. Your password has been locked for security reasons. Please view the secure message and reset your password immediately:
+
+View Secure Message: http://192.0.2.123/secure/portal/
+
+If you fail to act within 24 hours, your account will be permanently suspended.
+
+Thank you,
+Secure Portal Team
+
+----=_NextPart_000_01D4A2.5E14B3C0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Urgent Account Password Alert</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We have detected <strong>unauthorized login attempts</strong> on your account. To protect your data, we have temporarily <span style="color:red">locked</span> your <b>password</b>. You <em>MUST act immediately</em> to restore access.</p>
+<p>View the secure message now:</p>
+<ul>
+<li><a href="http://192.0.2.123/secure/portal/">click here</a> to view</li>
+<li><a href="http://portal-secure.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="http://portal-secure.com/help">Help</a></li>
+<li><a href="http://192.0.2.123/secure/validate"></a></li>
+</ul>
+<p>Alternatively, copy and paste the following link into your browser:</p>
+<p><a href="http://192.0.2.123/secure.portal.login.authentication/reset?ref=account.alert">http://portal-security.com/login</a></p>
+<p>If you do not respond within <strong>24 hours</strong>, your account will be permanently suspended.</p>
+<p>Thank you,<br>
+Secure Portal Team</p>
+</body>
+</html>
+
+----=_NextPart_000_01D4A2.5E14B3C0--

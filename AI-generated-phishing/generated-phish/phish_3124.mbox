@@ -1,0 +1,64 @@
+From support@securebank.com Sat Jul 20 12:34:56 2024
+Return-Path: <support@securebank.com>
+Received: from mail.securebank.com (mail.securebank.com [203.0.113.10])
+    by inbound.example.com with SMTP id abc123; Sat, 20 Jul 2024 12:34:56 +0000
+Date: Sat, 20 Jul 2024 12:34:56 +0000
+From: "Secure Bank" <support@securebank.com>
+Reply-To: service@account-help.com
+To: user@example.com
+Subject: Urgent Account Alert: Password Expires Today – Reset Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have noticed an unusual sign-in attempt on your account. Your password expires today – reset immediately to prevent suspension.
+
+To verify your identity and update your password please copy and paste the following URL into your browser:
+https://secure.bank.com/login
+
+Or use this direct link:
+http://192.0.2.50/login
+
+If you did not request this, click here:
+http://198.51.100.77/reset
+
+For more information, see our privacy-policy:
+https://securebank.com/privacy-policy
+
+For help, visit:
+http://203.0.113.25/help
+
+Thank you for your prompt attention.
+
+Sincerely,
+Secure Bank Support Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Notice</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;font-weight:bold;">Unusual sign-in detected—verify now!</p>
+<p>Your <strong>password expires today</strong>. You must <span style="text-decoration:underline;">reset immediately</span> to avoid <em>account suspension</em>.</p>
+<p>Please <a href="http://192.0.2.50/login">https://secure.bank.com/login</a> to verify your identity and update your password.</p>
+<p>If you did not request this, <a href="http://198.51.100.77/reset">click here</a>.</p>
+<p>Please <a href="http://203.0.113.25/support"></a> or visit our direct <a href="http://203.0.113.25/help">help</a> page.</p>
+<p>Read our <a href="https://securebank.com/privacy-policy">privacy-policy</a>.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Sincerely,<br/>
+Secure Bank Support Team</p>
+</body>
+</html>
+
+----=_Part_12345_67890--

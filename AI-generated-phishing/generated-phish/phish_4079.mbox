@@ -1,0 +1,62 @@
+From notifications@paypal.com Fri Apr  1 12:34:56 2022
+X-Original-To: user@domain.com
+Delivered-To: user@domain.com
+Return-Path: <notifications@paypal.com>
+Received: by mail.domain.com with SMTP id ABCDEF12345; Fri, 1 Apr 2022 12:34:56 +0000
+From: "PayPal" <notifications@paypal.com>
+Reply-To: support@paypal-secure.com
+To: user@domain.com
+Subject: Urgent: Account Password Verification Required
+Date: Fri, 1 Apr 2022 12:34:56 +0000
+Message-ID: <ABC12345DEF@paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="======PartBoundary1234567890======"
+
+--======PartBoundary1234567890======
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal user,
+
+We detected suspicious activity in your account. To secure your account and avoid a suspension, please verify your password immediately.
+
+Go to:
+https://www.paypal.com/security
+http://203.0.113.5/auth
+http://login.pay-pal.update.verify.com/
+
+Thank you,
+PayPal Security Team
+
+--======PartBoundary1234567890======
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear PayPal user,</p>
+<p>We detected <strong>unauthorized</strong> activity in your account. To <span style="color:red;">secure</span> your account and avoid a <em>suspension</em>, please verify your password <strong>immediately</strong> by clicking the links below:</p>
+<p>
+<a href="http://203.0.113.5/auth">
+<img src="http://login.pay-pal.update.verify.com/images/secure.png" alt="Secure Your Account" style="border:0;"/></a>
+</p>
+<p>
+<a href="http://203.0.113.5/auth"></a>
+</p>
+<p>
+Click here: <a href="http://203.0.113.5/auth">https://www.paypal.com/security</a>
+</p>
+<p>
+Or copy and paste this link into your browser:<br/>
+<span>http://login.pay-pal.update.verify.com/</span>
+</p>
+<p>If you do not verify your account within 24 hours, we will be forced to suspend your account.</p>
+<p>Regards,<br/>
+PayPal Security Team</p>
+</body>
+</html>
+
+--======PartBoundary1234567890======--

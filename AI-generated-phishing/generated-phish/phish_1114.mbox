@@ -1,0 +1,54 @@
+From phishing@fraud.com Sat Feb 26 12:00:00 2023
+Return-Path: <no-reply@paypal.com>
+Received: from mailserver.example.net (mailserver.example.net [203.0.113.55])
+	by victim-mail.example.org with ESMTP id ABC12345
+	for <victim@example.com>; Sat, 26 Feb 2023 12:00:00 +0000 (UTC)
+Subject: Urgent: Your PayPal Account Is Suspended – Verify Now
+From: "PayPal" <no-reply@paypal.com>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity in your PayPal account and have temporarily suspended it for your protection. Immediate action required! Failure to verify within 24 HOURS will result in permanent account suspension.
+
+Please log in to your account at the following secure link:
+http://paypal.com.login-update.security-verify.info/verify
+
+Thank you for your prompt attention.
+
+Sincerely,
+PayPal Security Team
+
+--ABC123
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">
+      We detected <strong>suspicious activity</strong> in your PayPal account and have temporarily <strong>suspended</strong> it for your protection.
+      <span style="text-decoration:underline;">Immediate action required!</span>
+    </p>
+    <p>To restore full access, please 
+      <a href="http://secure.login.paypal.verify-now.security-check.example.net/account">
+        <img src="cid:logo" alt="PayPal Verification" style="border:none;">
+      </a> 
+      or click the link below:
+    </p>
+    <p>
+      <a href="http://paypal.com.verify.account-security-review.mysecure-paypal-login.org">https://www.paypal.com</a><br>
+      <a href="http://fraud.phishingsite.com/verify"></a>
+    </p>
+    <p>Failure to verify within <strong>24 HOURS</strong> will result in permanent suspension.</p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+--ABC123--

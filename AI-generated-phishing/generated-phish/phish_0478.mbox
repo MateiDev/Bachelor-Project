@@ -1,0 +1,47 @@
+```mbox
+From phishing-scam@example.com Sat Oct 28 17:42:08 2023
+Return-Path: <phishing-scam@example.com>
+Received: from unknown (HELO example.com) (192.0.2.1) by mail.example.com with SMTP; Sat, 28 Oct 2023 17:42:08 +0000
+Date: Sat, 28 Oct 2023 17:42:08 +0000
+From: "Security Alert" <security-update@example.com>
+Subject: Immediate Action Required: Unusual Sign-In Attempt Detected
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123456"
+
+--boundary123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account. To ensure your account's security, please verify your identity within the next 24 hours by clicking the link below:
+
+http://192.0.2.1/login?session=abc123
+
+If you do not verify your account, it will be temporarily suspended. To restore full access, please confirm your identity here.
+
+Thank you,
+Your Account Security Team
+
+For privacy policy details, visit: https://www.example.com/privacy-policy
+Need help? Contact us at https://support.example.com
+
+--boundary123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected an unusual sign-in attempt on your account. To ensure your account's security, please verify your identity within the next 24 hours by clicking the link below:</p>
+    <p><a href="http://192.0.2.1/login?session=abc123"><img src="http://example.com/images/verify.png" alt="Verify Now"></a></p>
+    <p>If you do not verify your account, it will be temporarily suspended. To restore full access, please confirm your identity <a href="http://phishing.com/here-verification">here</a>.</p>
+    <p>Thank you,<br>Your Account Security Team</p>
+    <p>For privacy policy details, visit: <a href="https://www.example.com/privacy-policy">Privacy Policy</a></p>
+    <p>Need help? Contact us at <a href="https://support.example.com">Customer Support</a></p>
+  </body>
+</html>
+
+--boundary123456--
+```

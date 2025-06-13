@@ -1,0 +1,53 @@
+From security-alerts@securemail.com Sun Mar 10 12:34:56 2024
+Return-Path: <security-alerts@securemail.com>
+Delivered-To: user@domain.com
+Received: from securemail.com (securemail.com [203.0.113.5])
+	by mx.domain.com with ESMTP id abc123
+	for <user@domain.com>; Sun, 10 Mar 2024 12:34:56 +0000 (UTC)
+Message-ID: <20240310123456.abc123@securemail.com>
+Date: Sun, 10 Mar 2024 12:34:56 +0000
+From: "SecureMail Support" <security-alerts@securemail.com>
+Reply-To: admin@unknownserver.net
+To: user@domain.com
+Subject: URGENT: Account Password Alert - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity on your account. To avoid suspension and unauthorized access, please verify your credentials immediately.
+
+Visit: https://secure.portal.com/login
+Or copy & paste: http://192.168.1.100/verify.php?user_id=abc
+
+Failure to act within 24 hours will result in permanent account lock.
+
+Thank you,
+SecureMail Security Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>URGENT Account Alert!</title>
+  </head>
+  <body>
+    <p style="color:red; font-weight:bold;">Immediate security verification is required to prevent unauthorized access.</p>
+    <p>Click below to review your account status:</p>
+    <p><a href="http://192.168.1.100/verify.php?user_id=abc">https://secure.portal.com/login.verification.secure</a></p>
+    <p>Or use the direct link: <a href="http://phishy.service.co.in/update">http://secure.portal.com/account/update</a></p>
+    <p><a href="http://malicious.site/bad"></a></p>
+    <p>Verify via image: 
+      <a href="http://10.0.0.5/validate"><img src="http://image-tracker.net/verify.png" width="200" height="50" alt="Secure Verification"/></a>
+    </p>
+    <p style="color:#555;">Failure to complete verification may lead to immediate suspension.</p>
+  </body>
+</html>
+
+--BOUNDARY123--

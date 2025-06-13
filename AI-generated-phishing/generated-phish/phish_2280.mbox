@@ -1,0 +1,22 @@
+From rewards@official-rewards.com Sat Dec 10 12:34:56 2022
+From: Rewards Team <rewards@official-rewards.com>
+Reply-To: support@198.51.100.25
+To: user@company.com
+Subject: Urgent: Verify your account to claim €50 voucher
+Date: Sat, 10 Dec 2022 12:34:56 +0100
+Message-ID: <20221210123456.rewards@official-rewards.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We noticed unusual activity on your account. You are eligible for a €50 voucher as a token of appreciation. To claim your reward, please <a href="http://198.51.100.25/claim">here</a>.</p>
+    <p>If you need assistance, visit our <a href="https://www.official-rewards.com/help">Help Center</a> or review our <a href="https://www.official-rewards.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Click <a href="http://malicious-site.com/redeem"></a> to proceed now.</p>
+    <p>Alternatively, log in securely: <a href="http://198.51.100.25/login">https://secure.official-rewards.com/login</a></p>
+    <p>Thank you for your prompt attention to this urgent matter.</p>
+    <p>Sincerely,<br>Rewards Team</p>
+  </body>
+</html>

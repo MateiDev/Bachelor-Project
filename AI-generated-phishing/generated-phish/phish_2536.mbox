@@ -1,0 +1,50 @@
+```mbox
+From someone@example.com Tue Mar 22 13:47:18 2023
+Return-Path: <someone@example.com>
+Delivered-To: user@example.com
+Received: from 192.0.2.15 (unknown [192.0.2.15])
+    by mail.example.com (Postfix) with ESMTPSA id 1234567890
+    for <user@example.com>; Tue, 22 Mar 2023 13:47:18 -0400 (EDT)
+Date: Tue, 22 Mar 2023 17:47:18 +0000
+From: Tax Department <security-alert@taxreturn.example>
+Reply-To: <urgent-update@different-reply.example>
+Subject: Immediate Action Required: IRS Refund Status
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000abcd"
+
+--000000000000abcd
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We noticed an error on your recent tax filing, resulting in a refund sum of $543.75. Please click the secure link below to confirm your bank details and avoid complications:
+
+http://192.0.2.25/refund/claim
+
+This refund is only available for the next 48 hours. Failure to act now may result in further action and potential fines.
+
+Thank you,
+Your Tax Department
+
+--000000000000abcd
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We noticed an error on your recent tax filing, resulting in a refund sum of <strong>$543.75</strong>. Please click the secure link below to confirm your bank details and avoid complications:</p>
+<p><a href="http://192.0.2.25/refund/claim"><img src="http://192.0.2.25/images/claim_refund.png" alt="Claim Your Refund"></a></p>
+<p>The refund is only available for the next 48 hours. Failure to act now may result in further action and potential <a href="http://www.example.com/privacy-policy">fines</a>.</p>
+<p><b><a href="http://192.0.2.25/refund/claim">here</a>-link off modal domain</b></p>
+<p>To verify information, please visit:</p>
+<ul>
+<li><a href="http://www.example.com/help">www.example.com/help</a></li>
+<li><a href="http://www.realwebsite.com/contact">http://www.fakewebsite.com/contact</a> - Non-matching URL</li>
+</ul>
+<p>Thank you,<br>Your Tax Department</p>
+</body>
+</html>
+
+--000000000000abcd--
+```

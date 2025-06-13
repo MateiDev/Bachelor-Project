@@ -1,0 +1,49 @@
+From no-reply@dhl-notify.com Wed Oct 11 14:12:00 2023
+Return-Path: <no-reply@dhl-notify.com>
+From: "DHL Delivery Team" <no-reply@dhl-notify.com>
+To: recipient@example.com
+Subject: Urgent: Account Password Update Required for DHL Delivery
+Date: Wed, 11 Oct 2023 14:12:00 +0000
+Message-ID: <20231011141200.12345@dhl-notify.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL delivery is pending due to a problem with your account. Please verify your password immediately to avoid shipment cancellation.
+
+Visit the following links to update your details:
+1. http://192.0.2.123/dhl/verify
+2. https://dhl-helpdesk.com/privacy-policy
+
+This is an urgent notice. Failure to comply will result in parcel return.
+
+DHL Delivery Team
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your DHL delivery is <strong>pending</strong> due to a problem with your <span style="color:red">account</span>. Please verify your <em>password</em> <u>immediately</u> to avoid shipment cancellation.</p>
+    <p>
+      <a href="http://192.0.2.123/dhl/verify">
+        <img src="http://198.51.100.45/tracking.png" alt="Track Package" style="border:0;"/>
+      </a>
+    </p>
+    <p>Or <a href="http://tracking.dhl-auth.com/confirm">click here</a> to confirm your delivery details.</p>
+    <p>Alternatively, visit <a href="http://tracking.dhl-auth.com/confirm">https://www.dhl.com/track</a> for real-time status.</p>
+    <p>For more info, see our <a href="https://dhl-helpdesk.com/privacy-policy">Privacy Policy</a> or visit <a href="https://dhl-helpdesk.com/help">https://dhl-helpdesk.com/help</a>.</p>
+    <p>If you do not update by <strong>today</strong>, your parcel will be returned.</p>
+    <p>--<br/>DHL Delivery Team</p>
+    <a href="http://malicious.example.com/release"></a>
+  </body>
+</html>
+
+--BOUNDARY123--

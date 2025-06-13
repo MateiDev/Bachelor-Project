@@ -1,0 +1,45 @@
+```mbox
+From nobody Sun Oct 29 12:12:12 2023
+Return-Path: <support@dhl-delivery.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by example.com (Postfix) with ESMTP id 1234567890
+    for <victim@example.com>; Sun, 29 Oct 2023 12:12:12 +0000 (UTC)
+Message-ID: <1234567890.1234567890@mail.example.com>
+Date: Sun, 29 Oct 2023 12:12:12 +0000
+From: DHL Support <support@dhl-delivery.com>
+To: victim@example.com
+Subject: Urgent: Action Required to Release Your Held Package
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------1234567890ABCDEF123456"
+
+--------------1234567890ABCDEF123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are contacting you regarding your package that has been held due to unpaid shipping fees. Immediate action is required to avoid return of the package. Please visit the following link to resolve the issue: http://www.dhl-security.com.verify.details.com
+
+Thank you,
+DHL Support
+
+--------------1234567890ABCDEF123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We are contacting you regarding your package that has been held due to unpaid shipping fees. Immediate action is required to avoid return of the package. Please visit the following link to resolve the issue:</p>
+    <a href="http://www.dhl-security.com.verify.details.com" style="display:block; width:150px; height:50px;">
+      <img src="http://www.dhl-images.com/logo.png" alt="Click here" />
+    </a>
+    <p>For more information, visit <a href="https://www.dhl.com/en/importantthesection/index.html">DHL Help Center</a> or read our 
+    <a href="https://www.dhl.com/en/legal/privacy-policy.html">Privacy Policy</a>.</p>
+    <p>Thank you,<br> DHL Support</p>
+  </body>
+</html>
+
+--------------1234567890ABCDEF123456--
+```

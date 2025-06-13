@@ -1,0 +1,36 @@
+```
+From - Wed Oct 11 10:46:36 2023
+X-GM-THRID: 1658586328947648253
+X-Gmail-Labels: Spam
+Received: from unknown (192.168.1.15)
+        by mail.example.com with SMTP;
+        Wed, 11 Oct 2023 10:46:36 +0000
+Received: by 192.168.1.50 with SMTP id m9csp111111uac;
+        Wed, 11 Oct 2023 10:46:36 +0000
+X-Received: by 192.168.1.12 with SMTP id o9mr1111115itn.11.1665497196000;
+        Wed, 11 Oct 2023 10:46:36 +0000 (UTC)
+Received: from suspicious.mail (fake.mail.provider [213.108.108.123])
+        by mx.google.com with ESMTP id j123456sm82371074oab.2.2023.10.11.10.46.35
+        for <victim@example.com>;
+        Wed, 11 Oct 2023 10:46:35 +0000 (UTC)
+Date: Wed, 11 Oct 2023 10:46:35 +0000
+From: "Security Alert" <noreply@securemail-domain.com>
+Reply-To: "Security Warning" <helpdesk@alert.com>
+Message-ID: <CAJmbk+hh+1y2sFvOx@mail notifier.com>
+Subject: Immediate Action Required: Unusual Sign-In Detected
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;"><strong>URGENT:</strong> We detected an <strong>unusual sign-in</strong> attempt from IP address <strong>192.0.2.123</strong>. Your account is at <strong>RISK</strong>!</p>
+    <p>To prevent unauthorized access, please <a href="http://198.51.100.1/security-check" target="_blank"><img src="http://198.51.100.1/images/verify.png" alt="Verify Now"></a> immediately.</p>
+    <p>If you do not verify your account within 24 hours, <strong>it will be locked permanently</strong>.</p>
+    <p>Thank you.</p>
+    <p>Your Security Team</p>
+    <a href="http://malicious.link.verify.account.security.com"></a>
+  </body>
+</html>
+```

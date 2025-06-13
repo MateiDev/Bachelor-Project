@@ -1,0 +1,49 @@
+From secure-alerts@secure-mail.com Fri Jul  9 10:15:00 2021
+Return-Path: <secure-alerts@secure-mail.com>
+Received: from smtp.secure-mail.com (smtp.secure-mail.com [192.0.2.1]) by inbound-relay.company.com with ESMTP id ABC123
+    for <user@mycompany.com>; Fri, 9 Jul 2021 10:15:00 -0700 (PDT)
+Date: Fri, 9 Jul 2021 10:15:00 -0700
+From: "SecureMail Alerts" <alerts@secure-mail.com>
+To: user@mycompany.com
+Subject: Urgent: Account Password Security Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Help Center: https://help.mycompany.com/articles/portal-security
+
+Dear Customer,
+
+We detected unusual activity on your account. Please review the security details and update your password immediately.
+Click the link below to secure your account:
+
+View Secure Message: https://secure.email.portal.company.support.net/login
+
+If you do not update within 24 hours, your account will be suspended.
+
+Privacy Policy: https://mycompany.com/privacy
+
+Regards,
+SecureMail Alerts
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected <strong>unusual activity</strong> on your <em>account</em>. Please review the security details and update your <strong>password</strong> immediately.</p>
+    <p>Click the link below to secure your account:</p>
+    <p><a href="https://secure.email.portal.company.support.net/login" title="Account Security Alert" style="padding:10px 20px;background-color:#1a73e8;color:white;text-decoration:none;border-radius:4px;">View Secure Message</a></p>
+    <p>Alternatively, <a href="http://malicious-phish.com/empty"></a><a href="http://bad.login.com/update">click here</a> to update your credentials.</p>
+    <p>To verify, visit <a href="http://123.456.7.8/login">https://portal.mycompany.com</a> or access <a href="https://mycompany.com/privacy">Privacy Policy</a>.</p>
+    <p>If you have questions, visit <a href="https://help.mycompany.com/faq">Help Center</a>.</p>
+    <p style="color:gray;font-size:small;">This is a system-generated message. For assistance, contact security@mycompany.com.</p>
+  </body>
+</html>
+
+--boundary123--

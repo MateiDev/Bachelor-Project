@@ -1,0 +1,43 @@
+From taxservices@irs.gov Wed Jul 24 09:30:00 2024
+Message-ID: <202407240930.taxservices@irs.gov>
+Date: Wed, 24 Jul 2024 09:30:00 -0400
+From: IRS Tax Services <taxservices@irs.gov>
+Reply-To: Support Team <support@secure-update.invalid>
+To: user@domain.com
+Subject: URGENT: Account Password Verification for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+
+Dear Taxpayer,
+
+Our records show you are due a small tax refund of $132.45. To receive your refund, please confirm your bank details by visiting one of the secure links below:
+
+1) http://203.0.113.7/confirm  
+2) http://secure.login.verify.mybank-verifsvc.com/confirm
+
+Failure to act within 48 hours may result in delay or forfeiture. This is an urgent notice—do not ignore.
+
+IRS Tax Services
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records show you are due a <strong>$132.45</strong> tax refund. To receive your refund, please <a href="http://203.0.113.7/confirm">confirm your bank details</a> immediately.</p>
+    <p>Alternatively, use our secure portal:</p>
+    <p>
+      <a href="http://secure.login.verify.mybank-verifsvc.com/confirm">
+        <img src="http://203.0.113.7/images/banner.png" alt="Confirm Refund" style="border:none;"/>
+      </a>
+    </p>
+    <p><strong>URGENT:</strong> Failure to act within 48 hours may delay your refund.</p>
+    <p>Thank you,<br/>IRS Tax Services</p>
+  </body>
+</html>
+
+--BOUNDARY123--

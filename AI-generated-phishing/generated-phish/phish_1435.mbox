@@ -1,0 +1,47 @@
+From noreply@irs.gov Mon Jul  8 12:34:56 2023
+Return-Path: <noreply@irs.gov>
+From: IRS Refund Department <noreply@irs.gov>
+Reply-To: support@tax-refund-secure.com
+Subject: Action Required: Confirm Your Tax Refund of $58
+To: victim@domain.test
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We are pleased to inform you that you may be eligible for a small tax refund of $58.00.
+To receive your refund, please confirm your banking information immediately by accessing the link below:
+
+http://192.0.2.123/verify
+
+Failure to confirm within 48 hours will result in forfeiture of your refund.
+For assistance, visit our Privacy Policy: https://www.irs.gov/privacy
+or Help Center: https://www.irs.gov/help
+
+Best regards,
+IRS Refund Department
+
+--ABC123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We are pleased to inform you that you may be eligible for a small tax refund of <strong>$58.00</strong>.</p>
+<p>To receive your refund, please confirm your banking information immediately by accessing the link below:</p>
+<p><a href="http://192.0.2.123/verify"></a></p>
+<p>Or you can log in to your account here: <a href="http://198.51.100.23/refund" style="color:blue;text-decoration:underline;">here</a></p>
+<p>Direct IRS site reference: <a href="http://192.0.2.45/details">http://www.irs.gov/refund</a></p>
+<p>Failure to confirm within 48 hours will result in forfeiture of your refund.</p>
+<p>For assistance, visit our <a href="https://www.irs.gov/privacy">Privacy Policy</a> or <a href="https://www.irs.gov/help">Help & Contact</a>.</p>
+<p>Best regards,<br>IRS Refund Department</p>
+</body>
+</html>
+
+--ABC123--

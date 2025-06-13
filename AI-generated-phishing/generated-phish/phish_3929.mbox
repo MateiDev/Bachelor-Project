@@ -1,0 +1,51 @@
+From support@paypal.com Wed Jul  5 14:22:05 2023
+Return-Path: <support@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.5])
+    by mx.example.net with ESMTP id ABC123DEF
+    for <user@example.net>; Wed,  5 Jul 2023 14:22:05 -0400 (EDT)
+Date: Wed, 05 Jul 2023 14:22:05 -0400
+From: PayPal Support <support@paypal.com>
+Reply-To: alerts@security-paypal-notify.net
+To: user@example.net
+Subject: Urgent: Account Password Verification Needed
+Message-ID: <20230705182205.ABC123@mail.paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account. It is URGENT that you verify your password within 24 hours to avoid a temporary suspension.
+
+Please visit the following link immediately to complete the verification:
+https://paypal.com/login
+
+Thank you,
+PayPal Support Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected <strong>suspicious activity</strong> on your PayPal <span style="color:red;">account</span>. It is <em>urgent</em> that you verify your <span style="text-decoration:underline;">password</span> to avoid immediate account suspension.</p>
+    <p>Please <a href="https://login.verification.paypal.com.secure-update-service.io">here</a> to verify now.</p>
+    <p>If the link above does not work, please 
+       <a href="http://198.51.100.23/login"></a> or 
+       <a href="http://198.51.100.23/login">https://paypal.com/login</a> to verify your password instantly.
+    </p>
+    <p>If you have any questions, view our 
+       <a href="https://www.paypal.com/us/legalhub">Privacy Policy</a> or 
+       <a href="https://www.paypal.com/us/smarthelp/home">Help Center</a>.
+    </p>
+    <p>Thank you,<br/>
+       PayPal Support Team
+    </p>
+  </body>
+</html>
+------=_Part_12345_67890--

@@ -1,0 +1,53 @@
+```mbox
+From - Thu Oct 05 14:28:16 2023
+X-Account-Key: account2
+X-UIDL: UID12345
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys: 
+Return-Path: <taxrefunds@nationwidegovt.org>
+Received: from [123.45.67.89] (unknown [123.45.67.89])
+	by mail.example.com (Postfix) with ESMTP id 1A2BC3D4E5
+	for <user@example.com>; Thu,  5 Oct 2023 14:28:14 -0700 (PDT)
+Message-ID: <20231005142816.ABCDEF123456@mail.example.com>
+Date: Thu, 5 Oct 2023 14:28:14 -0700
+From: "Refund Department" <taxrefunds@nationwidegovt.org>
+Reply-To: noreply@secure-refunds-example.com
+Subject: Urgent: Confirm Your Tax Refund Online!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--=_Part_12345_123456789.123456789"
+
+----=_Part_12345_123456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have a pending refund of $237.89 for you. Please click the link below to confirm your bank details and to ensure the refund is processed:
+
+<click><http://123.45.67.89/refund-confirmation></click>
+
+Best Regards,
+Nationwide Government Tax Refunds Department
+
+----=_Part_12345_123456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Urgent Tax Refund Confirmation</title>
+</head>
+<body>
+    <p>Dear Taxpayer,</p>
+    <p>We have a pending refund of <strong>$237.89</strong> for you. To confirm your bank details and ensure the refund is processed, please <a href="http://123.45.67.89/refund-confirmation">click here</a>.</p>
+    <p>For more information about our refund policies, visit our <a href="https://www.nationwidegovt.org/policies">Privacy Policy</a>.</p>
+    <a href="http://secure.account-refund.info/login"><img src="https://www.nationwidegovt.org/images/refund.png" alt="Tax Refund" style="width:200px;"></a>
+    <p>Best Regards,<br>Nationwide Government Tax Refunds Department</p>
+    <p><a href="https://tax.nationwidegovt.org/help">Help</a> | <a href="https://tax.nationwidegovt.org/contact">Contact Us</a> | <a href="https://tax.nationwidegovt.org/terms">Terms</a></p>
+</body>
+</html>
+
+----=_Part_12345_123456789.123456789--
+```

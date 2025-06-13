@@ -1,0 +1,52 @@
+From no-reply@dhl.com Wed Oct 25 10:34:56 2023
+Return-Path: <no-reply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.1])
+    by inbound.example.org with ESMTP id ABC123
+    for <user@example.org>; Wed, 25 Oct 2023 10:34:56 +0000 (UTC)
+Message-ID: <20231025103456.mail@dhl.com>
+Date: Wed, 25 Oct 2023 10:34:56 +0000
+From: "DHL Express" <no-reply@dhl.com>
+Reply-To: "DHL Support" <support@parcel-release.com>
+Subject: Urgent Account Notification: Password Verification
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+------=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but were unable to confirm your address. Your account requires immediate attention to avoid return. Please confirm your details:
+
+Track your shipment: http://dhl.com/track  
+Privacy Policy: https://dhl.com/privacy  
+Help Center: https://dhl.com/help  
+Update here: http://192.168.1.100/confirm  
+Or visit https://dhl.com/secure to verify your information.
+
+Failure to do so within 24 hours will result in shipment return.
+
+Regards,
+DHL Delivery Team
+
+------=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package but were unable to confirm your address. <strong>Your account is at risk</strong> and <span style="color:red;">urgent action required</span> to avoid return.</p>
+    <p>Please confirm your details immediately. Update now <a href="http://192.168.1.100/confirm">here</a>.</p>
+    <p>Alternatively, visit <a href="http://malicious.com/secure-update">https://dhl.com/secure</a> to confirm now.</p>
+    <p>Track your shipment at <a href="http://dhl.com/track" title="DHL Tracking">http://dhl.com/track</a></p>
+    <p>For assistance, see our <a href="https://dhl.com/help">Help Center</a> or <a href="https://dhl.com/privacy">Privacy Policy</a>.</p>
+    <p><a href="http://malicious.com/mal.html"></a></p>
+    <p><a href="http://203.0.113.5/login"><img src="http://dhl.com/logo.png" alt="DHL Logo" /></a></p>
+    <p>Failure to comply within 24 hours will lead to shipment return and possible fees charged to your account.</p>
+    <p>Regards,<br />DHL Delivery Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001--

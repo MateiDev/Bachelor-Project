@@ -1,0 +1,48 @@
+From track@dhl-de.com Fri Jul 07 12:34:56 2023
+Return-Path: <track@dhl-de.com>
+From: "DHL Delivery" <track@dhl-de.com>
+Reply-To: support@dhl.com
+To: user@example.com
+Subject: URGENT Account Password Notification: Package Held
+Date: Fri, 7 Jul 2023 12:34:56 +0200
+Message-ID: <CAf23asd23f@dhl-de.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_DHL_123456"
+
+------=_DHL_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We were unable to deliver your parcel due to unpaid customs fees. To avoid account suspension, please update your payment information immediately.
+
+Track your package:
+https://dhl.com/track/1234567890
+or
+http://198.51.100.23/release?awb=1234567890
+
+If you fail to act now, your package will be returned to the sender.
+
+Best regards,
+DHL Delivery Team
+
+------=_DHL_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Urgent Account Password Notification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your parcel is <strong>currently being held</strong> due to unpaid customs fees. To release it, you must <strong>immediately</strong> update your payment details or the package will be <em>returned to the sender</em>.</p>
+<p>Pay the fee and schedule redelivery: <a href="http://198.51.100.23/release?awb=1234567890">here</a></p>
+<p>Track your shipment: <a href="http://203.0.113.48/steal">https://dhl.com/track/1234567890</a></p>
+<p>Alternative link: <a href="http://198.51.100.23/hidden"></a></p>
+<p><a href="http://203.0.113.46/install"><img src="http://203.0.113.47/logo.png" alt="Track now"></a></p>
+<p>Privacy Policy: <a href="http://attaquee-dhl.com/privacy">click here</a></p>
+</body>
+</html>
+------=_DHL_123456--

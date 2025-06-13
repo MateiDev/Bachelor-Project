@@ -1,0 +1,55 @@
+From support@banksecurity.com Mon Jun 24 10:00:00 2024
+Return-Path: <support@banksecurity.com>
+Delivered-To: customer@mydomain.com
+Received: by mail.banksecurity.com with SMTP id x7c82; Mon, 24 Jun 2024 10:00:00 -0400
+Message-ID: <0123456789@mail.banksecurity.com>
+Date: Mon, 24 Jun 2024 10:00:00 -0400
+From: "Bank Security Team" <support@banksecurity.com>
+To: customer@mydomain.com
+Subject: Urgent: Account Password Expires Today – Reset Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f4b405c4d5a1d2"
+
+--000000000000b3f4b405c4d5a1d2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. Your password expires today. If you do not reset immediately, your account will be locked.
+
+Please visit the following secure links to verify your identity and update your settings:
+
+http://verify.banksecure-login.com/action
+http://login.bank.com/reset
+http://account-update.bank.com/secure
+
+Failure to act immediately may result in suspension of your account.
+
+Thank you,
+Support Team
+
+--000000000000b3f4b405c4d5a1d2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Update</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Unusual sign-in detected—verify now!</strong> Your <em>password expires today</em>. To avoid <span style="color:red">immediate account suspension</span>, reset your credentials now.</p>
+<p>Click the secure link(s) below:</p>
+<ul>
+<li><a href="http://malicious.update-server.com/">https://secure.bank.com/verify</a></li>
+<li><a href="http://verify.banksecure-login.com/action"></a></li>
+<li><a href="http://login.secure.bank.com/reset">Reset Account Password</a></li>
+<li><a href="http://phish.bank.response-confirm.info/">http://phish.bank.response-confirm.info/</a></li>
+</ul>
+<p>If we do not receive your update, we will suspend your account immediately.</p>
+<p>Best regards,<br>Security Team</p>
+</body>
+</html>
+
+--000000000000b3f4b405c4d5a1d2--

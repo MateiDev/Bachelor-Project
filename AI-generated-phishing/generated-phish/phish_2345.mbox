@@ -1,0 +1,46 @@
+From support@securemail.com Mon Jan  1 00:00:00 2024
+Return-Path: <support@securemail.com>
+Received: from mail.securemail.com (mail.securemail.com [198.51.100.23])
+    by victim.com with ESMTP id ABC123
+    for <user@victim.com>; Mon, 1 Jan 2024 00:00:00 +0000 (UTC)
+Date: Mon, 1 Jan 2024 00:00:00 +0000
+From: "Secure Mail Support" <support@securemail.com>
+To: user@victim.com
+Subject: URGENT: Your Password Expires Today - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ123"
+
+--XYZ123
+Content-Type: text/plain; charset=UTF-8
+
+Dear User,
+
+Urgent: Unusual sign-in detected on your account. Your password expires today – reset immediately.
+
+Please verify your account now:
+https://securemail.com/account
+
+Failure to act will result in account suspension.
+
+Thank you,
+Secure Mail Support
+
+--XYZ123
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p><strong>URGENT:</strong> Unusual sign-in detected on your account. Your <em>password expires today</em> – <span style="color:red;">reset immediately</span>.</p>
+    <p>To secure your account, click one of the links below:</p>
+    <ul>
+      <li><a href="http://123.45.67.89/verify?token=ABCD1234">https://securemail.com/account</a></li>
+      <li><a href="http://123.45.67.89/login">https://login.securemail.com</a></li>
+    </ul>
+    <p><a href="http://123.45.67.89/reset"></a></p>
+    <p>Alternatively, click the image below:</p>
+    <p><a href="http://123.45.67.89/verify"><img src="http://123.45.67.89/images/secure_button.png" alt="Verify Now" /></a></p>
+    <p><strong>Action Required:</strong> failure to verify will result in immediate suspension of your account.</p>
+  </body>
+</html>
+
+--XYZ123--

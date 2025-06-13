@@ -1,0 +1,54 @@
+From notifications@dhl.com Mon Jul 01 14:22:33 2024
+Return-Path: <notifications@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1])
+    by mx.clientmail.org with ESMTP id 123ABC45DE
+    for <john.doe@clientmail.org>; Mon, 1 Jul 2024 14:22:33 +0000 (UTC)
+From: "DHL Express" <notifications@dhl.com>
+Reply-To: support@dhl.service.team@gmail.com
+To: john.doe@clientmail.org
+Subject: URGENT: Delivery Notification – Update Account Password
+Date: Mon, 1 Jul 2024 14:22:33 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f6c405cc3c962d"
+
+--000000000000b3f6c405cc3c962d
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your package delivery is currently on HOLD due to incorrect address details. To avoid an immediate penalty fee and return to sender, please confirm your shipping information and reset your account password.
+
+Visit the links below urgently:
+https://www.dhl.com/track
+http://secure-update-info.net/auth
+
+Failure to act within 24 hours will result in additional charges.
+
+Thank you,
+DHL Customer Service
+
+--000000000000b3f6c405cc3c962d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:#d9534f; font-weight:bold;">Your <em>package</em> is on <strong>HOLD</strong> due to incorrect details. Immediate action required to avoid <u>penalty</u> or return to sender.</p>
+    <p>Please verify your shipping info and <strong>update your account & password</strong> now:</p>
+    <p>
+      <a href="http://login-dhl.verify-package.com">
+        <img src="https://dhl.com/images/dhl_logo.png" alt="DHL Express" style="border:0;width:150px;">
+      </a>
+    </p>
+    <p>Track your package using one of the links below:</p>
+    <ul>
+      <li><a href="http://login-dhl.verify-package.com">https://www.dhl.com/track</a></li>
+      <li><a href="http://secure-update-info.net/auth">https://secure.dhl.com/authenticate</a></li>
+    </ul>
+    <p>If you have already completed this verification, please disregard this message.</p>
+    <p>Regards,<br/>DHL Express Support Team</p>
+  </body>
+</html>
+
+--000000000000b3f6c405cc3c962d--

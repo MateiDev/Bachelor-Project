@@ -1,0 +1,62 @@
+From service@paypal.com Fri Jul 07 09:15:30 2023
+Return-Path: <service@paypal.com>
+Received: from smtp.paypal.com (smtp.paypal.com [192.0.2.10])
+	by mail.domain.com (Postfix) with ESMTPS id 1234ABCD
+	for <user@domain.com>; Fri,  7 Jul 2023 09:15:30 -0400 (EDT)
+From: "PayPal Service" <service@paypal.com>
+Reply-To: "PayPal Security" <support@paypal-security.net>
+To: user@domain.com
+Subject: Urgent: Confirm Your PayPal Account Password
+Date: Fri, 07 Jul 2023 09:15:30 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------=_Part_0_123456.789012345"
+
+--------------=_Part_0_123456.789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Member,
+
+We have detected unusual activity on your PayPal account and require you to confirm your password to avoid suspension.
+
+Please visit the following secure link to verify your credentials immediately:
+
+https://secure-payment-check.verify-login.paypal-security.net/login
+
+Alternatively, access your account via the official site:
+
+https://www.paypal.com/login
+
+If you do not confirm your account password within 24 hours, your account will be limited.
+
+Thank you for your prompt attention.
+
+Sincerely,
+PayPal Security Team
+
+Privacy Policy: https://www.paypal.com/privacy
+
+--------------=_Part_0_123456.789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Member,</p>
+    <p>We have detected unusual activity on your PayPal <strong>account</strong> and require you to confirm your <strong>password</strong> to avoid suspension.</p>
+    <p>Please <a href="https://secure-payment-check.verify-login.paypal-security.net/login">click here</a> to verify your credentials immediately.</p>
+    <p>You can also visit <a href="https://login.paypal.account.verify.safety-update.net/account">https://www.paypal.com/account</a> to sign in.</p>
+    <p>For further details, click <a href="https://secure-payment-check.verify-login.paypal-security.net/details">here</a>.</p>
+    <p>If you do not confirm your account password within 24 hours, your account will be limited.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br/>
+       PayPal Security Team</p>
+    <hr/>
+    <p>
+      <a href="https://www.paypal.com/privacy">Privacy Policy</a> |
+      <a href="https://www.paypal.com/help">Help Center</a>
+    </p>
+  </body>
+</html>
+
+--------------=_Part_0_123456.789012345--

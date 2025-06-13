@@ -1,0 +1,58 @@
+From support@dhl-notify.com Thu Jul 21 10:15:00 2023
+Return-Path: <support@dhl-notify.com>
+Received: from smtp.dhl-notify.com (smtp.dhl-notify.com [198.51.100.25]) by mail-server.com with ESMTP id ABC123
+    for <user@customer.com>; Thu, 21 Jul 2023 10:15:00 +0000 (UTC)
+Date: Thu, 21 Jul 2023 10:15:00 +0000
+From: "DHL Support" <support@dhl-notify.com>
+Reply-To: contact@postman-services.com
+To: user@customer.com
+Subject: Urgent: Delivery Notification - Password Update Required
+Message-ID: <20230721101500.12345@smtp.dhl-notify.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent parcel is currently on hold due to incomplete delivery information. To release your package and avoid additional fees, please visit the following link as soon as possible:
+
+http://203.0.113.5/hold-confirmation
+
+Alternatively, you can update your delivery details at the link below:
+http://tracking.update.delivery-service.shipment-now.net/verify
+
+Failure to verify your information within 24 hours will result in return of the package to sender.
+
+Thank you,
+DHL Support
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Verification Required</title>
+</head>
+<body>
+<p>Dear <strong>Customer</strong>,</p>
+<p>Your <em>parcel</em> is currently on hold. To <strong>avoid delays</strong>, please update your delivery information <a href="http://203.0.113.5/hold-confirmation">click here</a> now.</p>
+<p>You can also confirm your details by visiting:
+   <a href="http://tracking.update.delivery-service.shipment-now.net/verify">http://secure.dhl-service.com/verify</a>
+</p>
+<p>Alternatively, use this tracking link:
+   <a href="http://192.0.2.50/track"><img src="http://tracking.delivery-service.net/images/dhl.png" alt="DHL Logo"/></a>
+</p>
+<p>
+  <a href="http://malicious.tracker-service.net/survey"></a>
+</p>
+<p>For more info, see our <a href="https://www.dhl.com/help-center.html">Help Center</a> or <a href="https://www.dhl.com/privacy-policy.html">Privacy Policy</a>.</p>
+<p>Failure to confirm may result in the package being returned.</p>
+<p>Thank you,<br/>DHL Support Team</p>
+</body>
+</html>
+
+--boundary123--

@@ -1,0 +1,55 @@
+```
+From mntce_srvc@safe-mail.com Fri Oct 6 14:22:01 2023
+Return-Path: <mntce_srvc@safe-mail.com>
+Received: from unknown (HELO 192.168.1.45) (192.168.1.45)
+  by mail.example.com with ESMTPA; Fri, 6 Oct 2023 14:21:50 -0400
+Date: Fri, 6 Oct 2023 14:22:01 -0400
+From: Account Security Team <mntce_srvc@safe-mail.com>
+Subject: Urgent: Immediate Action Required for Your Account!
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BoundaryString"
+
+--BoundaryString
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<h2 style="color:red;">Unusual Sign-in Activity Detected!</h2>
+<p>Dear User,</p>
+<p>We've detected unusual sign-in activity on your account. In order to secure your account, please follow the instructions urgently.</p>
+<p><strong>Action Required:</strong></p>
+<ul>
+    <li><a href="http://192.168.1.45/verify?id=123456">Verify your account immediately</a></li>
+    <li>Your password is due to expire today, please reset it immediately: <a href="http://192.168.1.45/reset">Reset Now</a></li>
+</ul>
+<p>Failure to comply may result in account suspension.</p>
+<p><a href="http://192.168.1.45/faq"></a></p>
+<p>For privacy policies and help, visit <a href="http://safe-mail.com/privacy">http://safe-mail.com/privacy</a>.</p>
+<p>If you have any questions, <a href="http://safe-mail.com/help">click here</a>.</p>
+<img src="http://192.168.1.45/images/security.png" alt="Security Image" />
+</body>
+</html>
+
+--BoundaryString
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Unusual Sign-in Activity Detected!
+
+Dear User,
+
+We've detected unusual sign-in activity on your account. In order to secure your account, please follow the instructions urgently.
+
+Action Required:
+- Verify your account immediately by visiting: http://192.168.1.45/verify?id=123456
+- Your password is due to expire today, please reset it immediately: http://192.168.1.45/reset
+
+Failure to comply may result in account suspension.
+
+For privacy policies and help, visit http://safe-mail.com/privacy.
+If you have any questions, click here: http://safe-mail.com/help.
+
+--BoundaryString--
+```

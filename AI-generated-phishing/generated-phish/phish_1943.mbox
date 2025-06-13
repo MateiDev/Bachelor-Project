@@ -1,0 +1,57 @@
+From support@mybank.com Fri Jun 14 16:02:10 2024
+Return-Path: <mailer-daemon@mybank.com>
+Delivered-To: victim@example.com
+From: "MyBank Security" <support@mybank.com>
+Reply-To: <security-update@account-alerts.com>
+Subject: Urgent Action Required: Unusual Sign-in Detected – Verify Immediately
+Date: Fri, 14 Jun 2024 16:02:10 -0400
+Message-ID: <8392901938123.1246872@mybank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1561234567890"
+
+----=_Part_12345_678901234.1561234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your MyBank account from a new device. For your protection, your password will expire today. You must verify your identity immediately or your account will be locked.
+
+VERIFY NOW: https://secure.mybank.com/login
+RESET PASSWORD: http://123.45.67.89/reset
+
+Please verify within the next 30 minutes to avoid interruption.
+
+Privacy Policy: https://mybank.com/privacy-policy
+Help Center: https://mybank.com/help
+
+Sincerely,
+MyBank Security Team
+
+----=_Part_12345_678901234.1561234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;"><strong>Urgent:</strong> Unusual sign-in detected on your MyBank account from an unrecognized device.</p>
+<p>Your <strong>password <span style="text-decoration:underline;">expires today – reset immediately</span></strong> or your account will be <span style="color:red;">locked</span>.</p>
+<p>
+   <a href="http://123.45.67.89/verify" style="background-color:#0070c9;color:#fff;padding:10px 20px;text-decoration:none;">Click here to verify</a>
+</p>
+<p>
+   <a href="http://malicious.example.com/reset?id=abc">Reset My Password</a>
+</p>
+<p>Or use the following link if the above fails:<br/>
+   <a href="http://77.88.99.11/secure">here</a>
+</p>
+<p>You can also go to <a href="http://198.51.100.23/verify">https://secure.mybank.com/verify</a> if you prefer.</p>
+<p style="font-size:small;">
+  <a href="https://mybank.com/privacy-policy">Privacy Policy</a> | 
+  <a href="https://mybank.com/help">Help Center</a>
+</p>
+<p>Sincerely,<br/>MyBank Security Team</p>
+</body>
+</html>
+----=_Part_12345_678901234.1561234567890--

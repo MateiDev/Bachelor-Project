@@ -1,0 +1,48 @@
+From security@yourbank.com Fri Jun 21 10:00:00 2024
+Return-Path: <security@yourbank.com>
+Received: from smtp.yourbank.com (smtp.yourbank.com [192.168.1.100]) by mail.yourbank.com with ESMTPS id ABC123DEF456 for <victim@domain.com>; Fri, 21 Jun 2024 10:00:00 -0700 (PDT)
+Message-ID: <20240621100000.ABC123DEF456@smtp.yourbank.com>
+Date: Fri, 21 Jun 2024 10:00:00 -0700
+From: "Your Bank Security Team" <security@yourbank.com>
+Reply-To: "Help Desk" <helpdesk@support-secure.com>
+To: victim@domain.com
+Subject: [URGENT] Portal Security Alert - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.158732"
+
+----=_Part_123456_789012345.158732
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your online banking portal. URGENT: Unauthorized access attempt was blocked.
+Please verify your identity to restore full access:
+http://maliciousdomain.com/login
+
+If we do not receive verification within 24 hours, your account may be suspended.
+
+Thank you,
+Your Bank Security Team
+
+----=_Part_123456_789012345.158732
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #c00;">URGENT SECURITY ALERT</h2>
+    <p>Dear Customer,</p>
+    <p>We have detected an <strong>unauthorized access attempt</strong> to your <em>online banking portal</em>. <strong>IMMEDIATE ACTION REQUIRED</strong> to prevent suspension of your account.</p>
+    <p>Please <a href="http://maliciousdomain.com/login">https://portal.yourbank.com/security-check</a> now to verify your credentials.</p>
+    <p style="text-align: center;">
+      <a href="http://maliciousdomain.com/verify"><img src="http://maliciousdomain.com/secure-button.png" alt="Verify Now" style="border: none;"></a>
+    </p>
+    <p>If the button above does not work, copy and paste this link into your browser:</p>
+    <p><a href="http://maliciousdomain.com/login"></a>http://maliciousdomain.com/login</p>
+    <p>For assistance, visit <a href="http://supportview.maliciousdomain.com">http://secure.yourbank.com/help</a> or contact our support team.</p>
+    <p>Thank you,<br>Your Bank Security Team</p>
+  </body>
+</html>
+
+----=_Part_123456_789012345.158732--

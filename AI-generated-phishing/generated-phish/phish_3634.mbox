@@ -1,0 +1,42 @@
+From phishing@dhl.com Fri Jan 01 00:00:00 2021
+MIME-Version: 1.0
+Date: Fri, 01 Jan 2021 00:00:00 +0000
+From: "DHL Delivery Team" <notification@dhl.com>
+Reply-To: support@dhl-secure-update.net
+To: user@example.com
+Subject: Urgent: Account & Password Verification Required for Your Delivery
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D7F4FD.C5B6A3E0"
+
+----=_NextPart_000_001D_01D7F4FD.C5B6A3E0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held due to an incomplete delivery verification. You must verify your account password immediately to avoid cancellation. Please visit the link below to verify your information:
+
+http://123.45.67.89/verify
+
+If you fail to act within 24 hours, your shipment will be returned to sender.
+
+Thank you,
+DHL Delivery Team
+
+----=_NextPart_000_001D_01D7F4FD.C5B6A3E0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><img src="http://123.45.67.89/banner.png" alt="DHL Logo" /></p>
+    <p style="color:red; font-weight:bold;">Important Notice: Your package is temporarily held!</p>
+    <p>We attempted to deliver your parcel, but failed because your <strong>account</strong> information is incomplete. To prevent <span style="color:red;">immediate cancellation</span> of your shipment, you must verify your details now.</p>
+    <p><a href="http://secure.dhl-tracking-update.net/scan.delivery?ref=AB123">here</a> to verify your shipment.</p>
+    <p>Please <a href="http://modal.dhl-secure-update.com/check">click here</a> for password confirmation.</p>
+    <p><a href="http://123.45.67.89/malware"></a></p>
+    <p>You can also visit our <a href="https://www.dhl.com/en/privacy.html">Privacy Policy</a> or <a href="https://www.dhl.com/en/contact.html">Help Center</a>.</p>
+    <p>Failure to act within 12 hours will result in your package being <em>returned to sender</em>.</p>
+  </body>
+</html>
+
+----=_NextPart_000_001D_01D7F4FD.C5B6A3E0--

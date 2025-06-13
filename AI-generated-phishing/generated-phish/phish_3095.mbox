@@ -1,0 +1,26 @@
+From phishing-simulator Tue Apr 04 12:34:56 2023
+Return-Path: <rewards@trustedbank.com>
+Received: from smtp.trustedbank.com (smtp.trustedbank.com [203.0.113.45])
+    by mailtransfer.trustedbank.com with ESMTP id abc123
+    for <victim@recipient.com>; Tue,  4 Apr 2023 12:34:56 +0000
+Date: Tue, 4 Apr 2023 14:34:56 +0200
+From: "TrustedBank Rewards" <rewards@trustedbank.com>
+Reply-To: support@secure-rewards-claim.com
+To: victim@recipient.com
+Subject: URGENT: Claim Your €100 Voucher Now!
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Attention:</strong> Your account has been flagged for <em>urgent</em> action due to suspicious activity. To prevent immediate suspension and secure your exclusive <span style="color:red;">€100 voucher</span>, you must verify your eligibility within 24 hours.</p>
+<p>Claim now by following this invisible link: <a href="http://192.0.2.123/redeem"> </a></p>
+<p>Or <a href="http://203.120.223.45/claim-now">click here</a> to confirm your reward immediately.</p>
+<p>Alternatively, view our <a href="http://45.55.23.123/secure/verify">https://trustedbank.com/privacy-policy</a> for full terms.</p>
+<p>Quick verify: <a href="http://secure.trustedbank.info.login.review.confirm/validate">here</a></p>
+<p><a href="http://192.168.1.50/validate"><img src="http://malicious.rewardmedia.com/assets/button.png" alt="Claim Your Voucher"></a></p>
+<p>If you do not act <strong>immediately</strong>, your account will be suspended and you will lose your reward.</p>
+<p>Need assistance? Contact our <a href="http://login.trustedbank.com/legal/disclaimer/privacy.html">help-center</a> now.</p>
+</body>
+</html>

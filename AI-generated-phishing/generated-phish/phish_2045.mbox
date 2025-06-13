@@ -1,0 +1,29 @@
+From support@secure-company.com Sat Jul 15 10:00:00 2023
+Return-Path: <support@secure-company.com>
+Received: from mail.secure-company.com (mail.secure-company.com [203.0.113.5])
+    by mx.example.com with ESMTP id ABC12345
+    for <user@example.com>; Sat, 15 Jul 2023 10:00:00 -0400 (EDT)
+Date: Sat, 15 Jul 2023 10:00:00 -0400
+From: "Secure Support" <support@secure-company.com>
+Reply-To: support@secure-cn0.com
+To: user@example.com
+Subject: [URGENT] Your account password expires today - verify now!
+Message-ID: <20230715100000.abcdef@mail.secure-company.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected an unusual sign-in attempt to your account from IP address 104.244.42.1.</p>
+    <p>Your password expires today – reset immediately to avoid suspension:</p>
+    <p><a href="http://198.51.100.42/reset-password">Reset your password</a></p>
+    <p>Verify this activity now: <a href="http://192.0.2.123/verify"></a></p>
+    <p>Or <a href="https://modal.verify-account.com/session" title="Account Verification">click here</a> to secure your account.</p>
+    <p>You may also use the direct link below:</p>
+    <p><a href="https://update.account.verify.login.security.acme-company.com/action">Reset Now</a></p>
+    <p>If you did not initiate this request, please visit our Help Center: <a href="https://help.company.com/faqs">Help Center</a> or review our <a href="https://www.company.com/privacy-policy">Privacy Policy</a>.</p>
+    <p><strong>Paper insight</strong> — Fette et al. (2007) observed that phishers often keep benign-looking links (privacy-policy, help, etc.) intact while hiding their malicious URL behind a generic anchor such as <strong>“click here”</strong> or <strong>“here”</strong>.</p>
+    <p>Thank you,<br/>Secure Support Team</p>
+  </body>
+</html>

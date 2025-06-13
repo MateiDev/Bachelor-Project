@@ -1,0 +1,39 @@
+```mbox
+From fakebankingalerts@security-update.com Tue Oct 10 18:24:04 2023
+Date: Tue, 10 Oct 2023 18:24:04 +0000
+From: "Banking Alerts"<fakebankingalerts@security-update.com>
+Reply-To: secure-updates@example.com
+Subject: Urgent: Update Required for Your Safety
+To: recipient@example.com
+Content-Type: multipart/alternative; boundary="XYZ123"
+
+--XYZ123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Our records indicate that your account needs updated security information. Please log in immediately to verify your account details.
+
+Login here: http://192.168.1.1/secure-login
+
+Thank you,
+Your Security Team
+
+--XYZ123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Our records indicate that your account needs updated security information. Please log in immediately by following the link below:</p>
+<p><a href="http://192.168.1.1/secure-login">http://www.yourbank-secure.com/login</a></p>
+<p>To review our privacy policy, <a href="https://www.yourbank.com/privacy-policy">click here</a>.</p>
+<p>If you need assistance, visit our <a href="http://www.yourbank.com/help">Help Center</a>.</p>
+<p><a href="">    </a></p>
+<p>Thank you,<br>Your Security Team</p>
+<img src="https://www.yourbank.com/logo.png" alt="Bank Logo">
+</body>
+</html>
+
+--XYZ123--
+```

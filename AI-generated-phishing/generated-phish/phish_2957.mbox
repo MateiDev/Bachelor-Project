@@ -1,0 +1,39 @@
+```mbox
+From phishing-attack@secure-mail.com Sat Oct 28 14:00:00 2023
+Return-Path: <phishing-attack@secure-mail.com>
+Delivered-To: user@example.com
+Received: by 10.0.0.1 with SMTP id a1csp457890lfg;
+        Sat, 28 Oct 2023 14:00:00 -0700 (PDT)
+X-Received: by 10.0.0.2 with SMTP id a2mr23145698lkb.5.5.5.5;
+        Sat, 28 Oct 2023 14:00:00 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1617900000; cv=none;
+        d=google.com; s=arcmtok;
+        b=htQCWQFENdkl5R18OQQQZdTmUdd2gjG2aJW3l1QjhZngOKdwiTn3QBfYkX0rDDNNsh
+Received: from unknown (10.0.0.3)
+        by mail.example.com with SMTP id a3smtpl10ejc.5.5.5.5;
+        Sat, 28 Oct 2023 14:00:00 -0700 (PDT)
+Subject: Urgent: Action Required to Avoid Account Suspension
+From: "Security Team" <alert@security-update.com>
+Reply-To: support@phished-inbox.com
+To: user@example.com
+Content-Type: text/html; charset="UTF-8"
+Message-ID: <001a1141236b4dd87205b8de14c3@example.com>
+MIME-Version: 1.0
+Date: Sat, 28 Oct 2023 14:00:00 -0700
+Priority: Urgent
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected suspicious activity from your account and it is <strong>URGENT</strong> that you verify your identity. Failure to do so will result in <strong>IMMEDIATE SUSPENSION</strong> of your account.</p>
+<p>Please take action by clicking the link below:</p>
+<p><a href="http://192.0.2.1/secure-update" style="color: blue; text-decoration: underline;">http://example.com/secure-update</a></p>
+<p>If you do not respond within 24 hours, your account will be suspended.</p>
+<p>Click <a href="http://malicious-site.com/credentials-update">here</a> to secure your account now.</p>
+<img src="http://192.0.2.2/banner.png" alt=""/>
+<p>Best Regards,</p>
+<p>Security Team</p>
+<p>Privacy Policy | Help Centre</p>
+</body>
+</html>
+```

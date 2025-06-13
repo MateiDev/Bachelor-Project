@@ -1,0 +1,47 @@
+From no-reply@dhl.com Tue Sep 12 10:15:00 2023
+Return-Path: <no-reply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [149.3.25.10]) by mail.delivery.net with ESMTP id abc123; Tue, 12 Sep 2023 10:15:00 +0000
+From: "DHL Notification" <no-reply@dhl.com>
+Reply-To: "Customer Support" <support@secure-dhl-notify.com>
+To: user@clientdomain.com
+Subject: Urgent Delivery Notification - Update Your Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is currently on hold due to an incorrect shipping address. Please confirm your delivery details by visiting the link below:
+
+http://185.12.45.67/validate?uid=12345
+
+After validation, you will be encouraged to reset your password for security purposes.
+
+Kind regards,
+DHL Delivery Team
+(If you cannot click the link, copy and paste it into your browser.)
+
+----=_NextPart_000_001
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Delivery Notification</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>Your package is currently <strong>on hold</strong> due to an incorrect shipping address. Please confirm your delivery details by clicking 
+<a href="http://185.12.45.67/validate?uid=12345">https://www.dhl.com/track</a>.</p>
+<p>Alternatively, you can <a href="http://login.dhl-auth.com/reset">here</a> to reset your password.</p>
+<p>To view more details, click <a href="http://portal.co.uk.dhlsecure.net/parcel"></a>.</p>
+<p><a href="http://portal.co.uk.dhlsecure.net/parcel"><img src="http://192.168.0.50/images/dhl-logo.png" alt="DHL Logo" border="0"></a></p>
+<p>For our privacy policy, please visit <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a>.</p>
+<p>Need help? Contact our support at <a href="http://209.85.231.104/help">support center</a>.</p>
+<p>Kind regards,<br>
+DHL Delivery Team</p>
+</body>
+</html>
+
+----=_NextPart_000_001--

@@ -1,0 +1,60 @@
+```mbox
+From nobody Mon Oct 30 11:45:33 2023
+Return-Path: <notifications@shippingsolutionx.com>
+Delivered-To: victim@example.com
+Received: by 2002:a17:906:980:0:0:0:0 with SMTP id x16csp1200718ejk;
+        Mon, 30 Oct 2023 03:45:31 -0700 (PDT)
+X-Received: by 10.129.47.174 with SMTP id n44mr2906207ywb.282.1698666330718;
+        Mon, 30 Oct 2023 03:45:30 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1698666330; cv=none;
+        d=google.com; s=arc-20160816;
+        b=ZjMeSh7FWq2p1UvGEH+9R02/suZtBPeq+lfhZ+OoPKm9C3P65tu/QSpYCkHzR4Gm2g
+         9qoyrFX3/37keXqe/21Ci6tBc5sKApoHtEhgQetJ5Q2pfjcjIR8Pt7/FqxeYsw==;
+ARC-Message-Signature: i=1; a=rsa-sha256; t=1698666330; cv=none;
+        d=google.com; s=arc-20160816;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=2xectNH3/Z4e7U2+cvL4aK4mBTvshbyczVyI1u+xZlQ=;
+        b=kP1sKgYVHg3J9mSfyGwdYVuROw==;
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of notifications@shippingsolutionx.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=notifications@shippingsolutionx.com
+Return-Path: <notifications@shippingsolutionx.com>
+Received: from mail-shipping-in-f41.google.com (mail-shipping-in-f41.google.com. [209.85.220.41])
+        by mx.google.com with ESMTPS id g9si13102988ywe.215.2023.10.30.03.45.29
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 30 Oct 2023 03:45:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notifications@shippingsolutionx.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notifications@shippingsolutionx.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=notifications@shippingsolutionx.com
+Received: by mail-shipping-in-f41.google.com with SMTP id j23so14235015wmb.8
+        for <victim@example.com>; Mon, 30 Oct 2023 03:45:29 -0700 (PDT)
+MIME-Version: 1.0
+From: "UPS Notification" <notifications@shippingsolutionx.com>
+Date: Mon, 30 Oct 2023 03:45:29 -0700
+Message-ID: <CANw6OnH9xEUhAjO2V1kMophiBkjS4z5b0WeomevZpMpHw+0icw@mail-shipping-in-f41.google.com>
+Subject: Urgent: Action Required for Your Package Delivery 
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000ad78z205f3ab1c8d"
+Reply-To: reply@packageassist.com
+
+--000000000000ad78z205f3ab1c8d
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We regret to inform you that your package scheduled for delivery today encountered an issue and is currently on hold. Immediate action is required to prevent it from being returned to the sender.
+
+You can resolve this by confirming your information [here](https://secure-verify.update-info.com). Once your information is validated, we will proceed with the delivery.
+
+If no action is taken within 24 hours, your package may be subject to returns or additional holding fees.
+
+For any questions, please visit our [support page](https://www.ups.com/help.html).
+
+Thank you for your attention to this urgent matter.
+
+Best,
+UPS Notification Team
+Reply-To: reply@packageassist.com
+
+--000000000000ad78z205f3ab1c8d
+```

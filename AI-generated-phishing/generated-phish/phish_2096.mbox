@@ -1,0 +1,36 @@
+From support@secureportal.com Sat Jan  1 12:34:56 2022
+Return-Path: <support@secureportal.com>
+Received: from 192.168.1.100 (unknown [192.168.1.100])
+    by mail.secureportal.com with ESMTP id AB12345
+    for <user@target.com>; Sat, 01 Jan 2022 12:34:56 +0000
+From: "Secure Portal Support" <support@secureportal.com>
+To: user@target.com
+Subject: Urgent Password Alert: Account Suspended
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY123=="
+
+--==BOUNDARY123==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your account has been temporarily suspended due to suspicious login attempts.
+To restore access IMMEDIATELY, click the link below:
+http://123.45.67.89/login.verify.secure.portal.php?token=abcd1234
+
+Failure to respond within 24 hours will result in permanent suspension.
+
+--==BOUNDARY123==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Password Security Alert</title></head>
+<body>
+<p>Dear User,</p>
+<p>We detected <strong>suspicious activity</strong> on your <strong>account</strong> and <strong>password</strong>. Your access will be <strong>permanently suspended</strong> if not confirmed <em>immediately</em>.</p>
+<p>To restore access, <a href="http://123.45.67.89/login.verify.secure.portal.php?token=abcd1234"></a><a href="http://123.45.67.89/login.verify.secure.portal.php?token=abcd1234">click here</a> now.</p>
+<p>If you need assistance, visit our <a href="https://secureportal.com/help">Help Center</a> or <a href="https://secureportal.com/privacy">Privacy Policy</a>.</p>
+</body>
+</html>
+
+--==BOUNDARY123==--

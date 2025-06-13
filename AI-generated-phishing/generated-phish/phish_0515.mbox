@@ -1,0 +1,53 @@
+From noreply@paypal-service.com Thu Jul 11 10:00:00 2024
+Return-Path: <bounces@paypal-service.com>
+From: "PayPal Service" <service@paypal.com>
+Reply-To: support@paypal.security-alerts.net
+To: user123@victimdomain.com
+Subject: Urgent: Your PayPal Account Password Verification Required
+Date: Thu, 11 Jul 2024 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456789"
+
+------=_Part_0_123456.7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+We detected unusual activity on your PayPal account and temporarily restricted access.
+To restore full functionality, please verify your password immediately.
+
+Go to:
+https://www.paypal.com/login (then click "Log In")
+
+Or copy and paste the following link into your browser:
+http://login.secure.pay-pal.com/verification?session=ABC123XYZ
+
+For more information, visit our Privacy Policy at:
+https://www.paypal.com/webapps/mpp/ua/privacy-full
+
+Need help? Check our Help Center:
+https://www.paypal.com/us/smarthelp/home
+
+Thank you,
+PayPal Security Team
+
+------=_Part_0_123456.7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear customer,</p>
+    <p>We detected unusual activity on your PayPal <strong>account</strong> and temporarily restricted access.
+    To restore full functionality, please verify your <strong>password</strong> <span style="color:red;">URGENT</span>.</p>
+    <p>Click <a href="http://paypal-secure-login.com/authenticate?session=ABC123XYZ">here</a> to sign in now.</p>
+    <p>If the link above does not work, please <a href="http://login.secure.pay-pal.com/verification?session=ABC123XYZ">https://www.paypal.com/login</a> to access your account.</p>
+    <hr>
+    <p>Privacy Policy: <a href="https://www.paypal.com/webapps/mpp/ua/privacy-full">https://www.paypal.com/webapps/mpp/ua/privacy-full</a></p>
+    <p>Help Center: <a href="https://www.paypal.com/us/smarthelp/home">https://www.paypal.com/us/smarthelp/home</a></p>
+    <p>Thank you,<br>PayPal Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.7890123456789--

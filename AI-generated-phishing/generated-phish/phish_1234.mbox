@@ -1,0 +1,54 @@
+From phishing-simulator@example.org Wed Jul 14 11:14:00 2021
+From: "PayPal Service" <service@paypal.com>
+To: user@example.org
+Subject: [Urgent] PayPal Account Verification Required
+Date: Wed, 14 Jul 2021 11:14:00 -0400
+Message-ID: <1234567890@mail.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity on your PayPal account. To ensure continued access, please verify your identity immediately.
+
+Click the link below to secure your account:
+https://www.paypal.com/signin  ->  http://192.0.2.123/verify
+
+Or copy and paste into your browser:
+http://192.0.2.123/verify
+
+Thank you,
+PayPal Security Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: PayPal Account Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected <strong>suspicious activity</strong> on your PayPal account. To ensure continued access, <em>please verify your identity immediately</em>.</p>
+<p>
+<a href="http://secure-login-paypal.com/verify" title="PayPal Login">
+<img src="http://203.0.113.45/images/paypal_logo.png" alt="PayPal Logo" style="border:none;">
+</a>
+</p>
+<p>If the image above does not display, <a href="http://login.paypal.verify.com/login" target="_blank">click here</a> to sign in.</p>
+<p>Or go directly by copying the link below:</p>
+<p><a href="http://secure-login-paypal.com/login">https://www.paypal.com/login</a></p>
+<p>Alternatively:<br>
+<a href="http://192.0.2.123/verify"></a>
+</p>
+<p>Thank you,<br/>
+PayPal Security Team</p>
+</body>
+</html>
+
+--==BOUNDARY==--

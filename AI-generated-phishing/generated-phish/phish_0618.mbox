@@ -1,0 +1,58 @@
+From noreply@mybank.com Fri Jun 14 15:02:33 2024
+Return-Path: <noreply@mybank.com>
+Received: from mail.mybank.com (mail.mybank.com [198.51.100.1])
+    by mx.mailtest.org with ESMTP id 1234567890
+    for <user@domain.org>; Fri, 14 Jun 2024 15:02:33 +0000 (UTC)
+Date: Fri, 14 Jun 2024 15:02:33 +0000
+From: "MyBank Security Team" <noreply@mybank.com>
+To: <user@domain.org>
+Subject: URGENT: Unusual Sign-In Detected – Verify Your Account Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your MyBank account.
+As a security measure, we require you to verify your identity immediately.
+Failure to do so will result in your account being locked.
+
+Please click the link below to verify your account:
+https://secure.mybank.com/verify
+
+If you do not verify within 24 hours, you will be required to reset your password.
+
+Thank you,
+MyBank Security Team
+
+--ABC123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="font-weight:bold;color:red;">Immediate Action Required: Unusual Sign-In Detected</p>
+    <p>Dear Customer,</p>
+    <p>We have detected an <strong>unusual sign-in</strong> attempt on your <em>MyBank</em> account.
+       As a security measure, you must verify your identity <u>now</u> to avoid account suspension.</p>
+    <p>
+      <a href="http://login.mybank-secure.com/verify">
+        <img src="http://203.0.113.45/assets/secure_logo.png" alt="Verify Now" />
+      </a>
+    </p>
+    <p>Click <a href="http://192.0.2.10/security-confirm">https://www.mybank.com/security</a>
+       to confirm your account details.</p>
+    <p><a href="http://198.51.100.23/reset"></a>
+       Please <a href="http://192.168.1.50/reset-password">reset your password immediately</a>.
+       Your password expires today.</p>
+    <p>Or administer your account management here:
+       <a href="http://login.bank-verify.com/dashboard">https://mybank.manage-account.com/dashboard</a>
+    </p>
+    <p>Thank you,<br />MyBank Security Team</p>
+  </body>
+</html>
+
+--ABC123--

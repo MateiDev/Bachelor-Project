@@ -1,0 +1,53 @@
+From phishing@globalmail.com Fri Mar 10 09:15:00 2023
+Return-Path: <noreply@secure-login.globalmail.com>
+Received: from mail.globalmail.com (203.0.113.45) by mx.testmail.com with SMTP; Fri, 10 Mar 2023 09:15:00 -0500
+From: "GlobalMail Security Team" <security@globalmail.com>
+Reply-To: admin@secure-alerts.globalmail.com
+Subject: Urgent: Your Account Password Reset Required!
+To: user@testmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f3b005a5e3ef9b"
+
+--000000000000b3f3b005a5e3ef9b
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected unauthorized access attempts to your GlobalMail account.
+Your password will expire in 24 hours. You must reset your credentials immediately
+to avoid suspension.
+
+Please visit the link below to secure your account:
+http://203.0.113.45/pw/reset
+
+If you did not attempt this, contact support immediately.
+
+Regards,
+GlobalMail Security Team
+
+--000000000000b3f3b005a5e3ef9b
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">Important Notice: Unauthorized Access Detected</p>
+    <p>Dear Customer,</p>
+    <p>We detected an unauthorized login attempt to your GlobalMail account.
+    Your <span style="text-decoration:underline;">password</span> will expire in <strong>24 hours</strong>. To avoid <em>account suspension</em>,
+    please reset your password immediately.</p>
+    <p>
+      <a href="http://203.0.113.45/pw/reset">Reset Your Password Now</a>
+    </p>
+    <p>
+      Or <a href="http://login.globalmail.com.verify.login-service.biz/authenticate">click here</a> to update credentials.
+    </p>
+    <p>
+      <a href="http://192.0.2.123/r"></a>
+    </p>
+    <p>For more info, read our <a href="https://www.globalmail.com/privacy">Privacy Policy</a> or visit <a href="https://www.globalmail.com/help">Help Center</a>.</p>
+    <p>Thank you,<br>
+    GlobalMail Security Team</p>
+  </body>
+</html>
+
+--000000000000b3f3b005a5e3ef9b--

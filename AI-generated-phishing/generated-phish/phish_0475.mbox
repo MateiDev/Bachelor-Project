@@ -1,0 +1,30 @@
+```mbox
+From security-alerts@securemail.com Wed Sep 27 14:05:01 2023
+Return-Path: <security-alerts@securemail.com>
+Delivered-To: victim@yourdomain.com
+Received: from unknown (HELO mail.securealerts.com) (192.168.10.20)
+    by mail.yourdomain.com with SMTP; Wed, 27 Sep 2023 14:04:59 -0600
+From: security-alerts@securemail.com
+Reply-To: security-notifications@securemail.com
+Subject: Urgent: Immediate Action Required - Account Security Alert
+To: victim@yourdomain.com
+Date: Wed, 27 Sep 2023 14:04:59 -0600
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <h2>Important: Immediate Verification Needed</h2>
+    <p>Dear User,</p>
+    <p>We detected unusual activity on your <b>account</b> and access has been temporarily <b>suspended</b>. To restore your account, please verify your identity immediately by clicking the link below:</p>
+    <p><a href="http://192.0.2.1/verify"> </a></p>
+    <p>Failure to <b>act promptly</b> may result in permanent suspension of your account. To prevent this, <a href="http://192.0.2.2/security-check"> <span style="color:red;">click here</span></a> to verify now.</p>
+    <p>Other resources:<br>
+       <a href="http://192.0.2.3/help"> </a> | 
+       <a href="http://192.0.2.4/recovery"> <b>Account Recovery</b></a></p>
+    <p>Thank you for your immediate attention to this matter.</p>
+    <p>Sincerely,<br>
+    SecureMail Support Team</p>
+  </body>
+</html>
+```

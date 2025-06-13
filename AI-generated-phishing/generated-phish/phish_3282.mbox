@@ -1,0 +1,52 @@
+From phishingtest@mbox Tue Jul 09 10:00:00 2024
+Return-Path: <refund@securebank.com>
+Received: from unknown (HELO mail.securebank.com) (123.123.123.123)
+    by mail.securebank.com with SMTP; Tue, 9 Jul 2024 10:00:00 -0400
+From: "Secure Bank" <service@securebank.com>
+To: user@domain.com
+Subject: Urgent: Account Refund Confirmation Required
+Date: Tue, 9 Jul 2024 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890"
+
+----=_Part_0_123456.7890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our system has detected a problem processing your tax refund of $126.75. You must confirm your bank account details immediately to receive your funds. Failure to respond within 24 hours WILL CANCEL your refund.
+
+To confirm now, visit: http://123.45.67.89/confirm
+
+This is an URGENT and FINAL NOTICE.
+
+Secure Bank Security Team
+
+----=_Part_0_123456.7890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Refund Confirmation</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>Our system has flagged your <strong>pending tax refund</strong> of <strong>$126.75</strong> as requiring immediate verification. You must confirm your bank details <span style="color:red;">within 24 hours</span> or your refund WILL BE CANCELLED.</p>
+<p>Please <a href="http://123.45.67.89/confirm">here</a> to proceed.</p>
+<p>Or click the button below:</p>
+<p>
+<a href="http://123.45.67.89/confirm"><img src="http://123.45.67.89/assets/confirm_button.png" alt="Confirm Refund" /></a>
+</p>
+<p>Quick Links:</p>
+<ul>
+<li><a href="http://123.45.67.89/privacy.policy">Privacy Policy</a></li>
+<li><a href="http://123.45.67.89/help">Help Center</a></li>
+<li><a href="http://123.45.67.89/update">https://www.secure-bank.com/secure</a></li>
+</ul>
+<p><a href="http://98.76.54.32/update"></a></p>
+<p>This is your final NOTICE to avoid PERMANENT cancellation.</p>
+<p>Sincerely,<br/>Secure Bank Security Team</p>
+</body>
+</html>
+
+----=_Part_0_123456.7890--

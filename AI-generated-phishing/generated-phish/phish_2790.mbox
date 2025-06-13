@@ -1,0 +1,41 @@
+```mbox
+From nobody Fri Oct 13 14:35:40 2023
+From: "DHL Support" <support@dhl-secure.com>
+Reply-To: package-support@global-mail.com
+To: victim@example.com
+Subject: Urgent: Action Needed to Release Your Package
+Date: Fri, 13 Oct 2023 14:35:40 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="DHL-boundary"
+
+--DHL-boundary
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but were unable to because you have an outstanding fee. Please resolve this issue immediately to avoid further delays.
+
+Access your delivery details here: <http://192.0.2.0/reschedule>
+
+Thank you,
+DHL Support Team
+
+--DHL-boundary
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package but were unable to because you have an outstanding fee. Please resolve this issue immediately to avoid further delays.</p>
+    <p><a href="http://192.0.2.0/reschedule"><img src="http://192.0.2.1/dhl-logo.png" alt="DHL Logo"/></a></p>
+    <p>Access your delivery details <a href="http://badlink.com/malicious"></a> now!</p>
+    <p>Please proceed by visiting our secure payment page <a href="http://anotherbadlink.com/pay"></a></p>
+    <p>For more information, check our <a href="https://www.dhl.com/global-en/home/footer/privacy-notice.html">Privacy Policy</a>.</p>
+    <p>Thank you,<br>DHL Support Team</p>
+  </body>
+</html>
+
+--DHL-boundary--
+```

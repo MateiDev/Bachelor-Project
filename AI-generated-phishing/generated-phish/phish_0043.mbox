@@ -1,0 +1,62 @@
+From test-sender@example.com Thu Oct 26 10:00:00 2023  
+Return-Path: <test-sender@example.com>  
+Delivered-To: victim@example.com  
+Received: from unknown (HELO phishing.com) (192.0.2.1)  
+Date: Thu, 26 Oct 2023 09:00:00 +0000  
+From: Portal Security <support@secure-portal.com>  
+Reply-To: urgent-security@alerts-security.com  
+Subject: Urgent: Action Required for Your Account Access  
+
+MIME-Version: 1.0  
+Content-Type: multipart/alternative; boundary="0000000000000bca1605f4a4b4d7"  
+
+--0000000000000bca1605f4a4b4d7  
+Content-Type: text/plain; charset="UTF-8"  
+Content-Transfer-Encoding: quoted-printable  
+
+Dear User,
+
+We have detected unusual login attempts to your account. To secure your account, it is urgent that you verify your identity.
+
+Please follow the steps by clicking the link below:
+http://192.0.2.5/login/verification
+
+Alternatively, you can click here: [Verify Here](http://192.0.2.5.login.portal.verify/secure/login)
+
+Thank you for your immediate attention to this matter.
+
+Sincerely,  
+Portal Security Team
+
+For our privacy policy, visit: http://www.trusted-website.com/privacy  
+For help, go to: http://www.trusted-website.com/help
+
+--0000000000000bca1605f4a4b4d7  
+Content-Type: text/html; charset="UTF-8"  
+Content-Transfer-Encoding: quoted-printable  
+
+<html>
+<body>
+<p>Dear User,</p>
+
+<p>We have detected unusual login attempts to your account. To secure your account, it is urgent that you verify your identity.</p>
+
+<p>Please follow the steps by clicking the link below:<br> 
+<a href=3D"http://192.0.2.5/login/verification">http://192.0.2.5/login/verification</a></p>
+
+<p>Alternatively, you can <a href=3D"http://192.0.2.5.login.portal.verify/secure/login">click here</a>.</p>
+
+<p>Thank you for your immediate attention to this matter.</p>
+
+<p>Sincerely,<br>
+Portal Security Team</p>
+
+<p>For our privacy policy, visit: <a href=3D"http://www.trusted-website.com/privacy">Privacy Policy</a><br>
+For help, go to: <a href=3D"http://www.trusted-website.com/help">Help</a></p>
+
+<p><a href=3D"http://192.0.2.5/login/verification"><img src=3D"http://www.trusted-website.com/logo.png" alt=3D"Secure Login" style=3D"width:150px;height:50px;"></a></p>
+
+</body>
+</html>
+
+--0000000000000bca1605f4a4b4d7--  

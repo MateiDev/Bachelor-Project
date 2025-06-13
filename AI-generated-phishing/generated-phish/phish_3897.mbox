@@ -1,0 +1,50 @@
+From security@yourbank.com Tue Jun 20 10:15:30 2023
+Return-Path: <security@yourbank.com>
+Delivered-To: user@example.com
+Received: from mail.yourbank.com (mail.yourbank.com [198.51.100.24])
+    by mx.example.com with ESMTP id abc123
+    for <user@example.com>; Tue, 20 Jun 2023 10:15:30 -0400 (EDT)
+Date: Tue, 20 Jun 2023 10:15:30 -0400
+From: "Bank Security Alert" <security@yourbank.com>
+Reply-To: support-team@security-centre.com
+To: user@example.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_001_1687266930"
+
+------=_Boundary_001_1687266930
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT SECURITY ALERT:
+We have detected suspicious activity on your account. To avoid immediate suspension, please click the link below to verify your password now:
+
+View Secure Message: http://192.0.2.55/verify
+
+For more details, visit our privacy policy: https://www.yourbank.com/privacy-policy
+
+Failure to verify within 24 hours will result in account suspension.
+
+Bank Security Team
+
+------=_Boundary_001_1687266930
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Alert</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p><b>URGENT SECURITY ALERT:</b> We have detected <span style="color:red;">suspicious activity</span> on your account. To avoid immediate suspension, please <a href="http://192.0.2.55/verify">click here</a> to verify your password now.</p>
+<p>You can also <a href="http://192.0.2.55/login" style="color:blue;text-decoration:underline;">https://secure.yourbank.com/login</a> or simply <a href="http://192.0.2.55/login"></a> to access your account.</p>
+<p>Visit our privacy policy: <a href="https://www.yourbank.com/privacy-policy">Privacy Policy</a> | Help Center: <a href="https://www.yourbank.com/help">Help</a></p>
+<p>If you do not verify within 24 hours, your account will be suspended.</p>
+<p><a href="http://192.0.2.55/"><img src="http://malicious.com/logo.png" alt="Secure Portal" /></a></p>
+</body>
+</html>
+
+------=_Boundary_001_1687266930--

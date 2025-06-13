@@ -1,0 +1,46 @@
+From phishing@loyalty-noreply.com Mon Jan 01 12:34:56 2024
+Return-Path: <support@loyalty-promos.com>
+From: Loyalty Rewards <support@loyalty-promos.com>
+To: user@example.com
+Reply-To: Admin Security <security@official-bank.com>
+Subject: URGENT: Account Password Issue & €50 Voucher – Claim Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Your account has been flagged for a password issue and you are eligible for a €50 voucher. You must act now to avoid losing this reward. Visit the link below immediately:
+
+http://85.17.32.84/claim
+
+Failure to claim within 24 hours will result in account suspension.
+
+Thank you,
+Loyalty Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+  <p>Dear Valued Customer,</p>
+  <p style="color:red;"><strong>Your account is at risk!</strong> You must act <strong>immediately</strong> to secure your voucher.</p>
+  <p>You've been pre-approved for a <strong>€50 reward</strong> due to recent password activity. Claim it now:</p>
+  <p><a href="http://85.17.32.84/claim"></a></p>
+  <p>Or click the image below:</p>
+  <p>
+    <a href="http://85.17.32.84/claim">
+      <img src="http://85.17.32.84/banner.jpg" alt="Claim Your Voucher" style="border:none;" />
+    </a>
+  </p>
+  <p><em>Failure to claim within 24 hours will result in account suspension.</em></p>
+  <p>Thank you,<br/>Loyalty Rewards Team</p>
+</body>
+</html>
+
+--BOUNDARY123--

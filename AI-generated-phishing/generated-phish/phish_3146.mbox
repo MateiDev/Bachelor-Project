@@ -1,0 +1,63 @@
+From no-reply@dhl.com Tue Aug 15 13:45:30 2023
+Return-Path: <no-reply@dhl.com>
+Delivered-To: victim@example.net
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.10])
+    by mx.example.net (Postfix) with ESMTP id 3E4A7123
+    for <victim@example.net>; Tue, 15 Aug 2023 13:45:30 +0000 (UTC)
+Date: Tue, 15 Aug 2023 13:45:30 +0000
+From: DHL Service <no-reply@dhl.com>
+Reply-To: support@dhl-security.org
+To: victim@example.net
+Message-ID: <20230815134530.GA12345@mail.dhl.com>
+Subject: Urgent: Account Password Update Required for Your Delivery
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1234567890123"
+
+------=_Part_0_123456.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your shipment (Tracking # AB123456789) is currently on hold due to pending account password verification.
+Immediate action is required to avoid cancellation or additional storage fees.
+
+Please update your details here:
+https://www.dhl.com/track?AB123456789
+
+For assistance, visit:
+https://www.dhl.com/support
+
+Thank you,
+DHL Delivery Team
+
+------=_Part_0_123456.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;line-height:1.5;">
+    <p><img src="http://cdn.dhl.com/images/dhl_logo.png" alt="DHL Logo" style="width:150px;"></p>
+    <h2 style="color:#cc0000;">Urgent Notice: Immediate Action Required!</h2>
+    <p>Dear Customer,</p>
+    <p>Your shipment <strong>#AB123456789</strong> is <span style="color:#cc0000;">on hold</span> pending a critical <strong>account password</strong> verification. Failure to update within <strong>12 hours</strong> will result in shipment cancellation or extra fees.</p>
+    <p>To release your package, click the button below:</p>
+    <p>
+      <a href="http://bundle.dhl-secure-delivery.info/release?tracking=AB123456789">
+        <img src="http://cdn.dhl.com/images/track_now.png" alt="Track Now" style="border:none;">
+      </a>
+    </p>
+    <p>Or <a href="https://delivery.modalupdate.track-service.info/unlock">click here</a> to unlock immediately.</p>
+    <p>Alternatively, copy and paste this link into your browser:<br>
+      <a href="http://bundle.dhl-secure-delivery.info/release?tracking=AB123456789">
+        https://www.dhl.com/track?AB123456789
+      </a>
+    </p>
+    <hr>
+    <p>Need help? Visit our <a href="https://www.dhl.com/support">Help Center</a> or view our <a href="https://www.dhl.com/en/legal.html">Privacy Policy</a>.</p>
+    <p style="font-size:10px;color:#888888;">DHL Express, Inc. 2023<br>
+    This is an automated message, please do not reply to this email.</p>
+  </body>
+</html>
+
+------=_Part_0_123456.1234567890123--

@@ -1,0 +1,48 @@
+From no-reply@security-portal.com Sat Jun 29 16:00:00 2024
+Return-Path: <no-reply@security-portal.com>
+Received: from mail.security-portal.com (mail.security-portal.com [203.0.113.5])
+    by victim-mail.com with ESMTP id ABC123 for <user@victim.com>; Sat, 29 Jun 2024 16:00:00 +0000 (UTC)
+Subject: [Urgent] Account Security Alert: Password Reset Required
+From: "Security Team" <no-reply@security-portal.com>
+To: user@victim.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789012345"
+
+------=_Part_0_123456.789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. Please verify your password immediately to avoid temporary suspension.
+
+Click the link below to secure your account:
+
+https://portal.security.com/login
+
+If you do not verify within 24 hours your access will be suspended.
+
+For assistance, visit our privacy policy: https://portal.security.com/privacy-policy
+
+Regards,
+Security Team
+
+------=_Part_0_123456.789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We have detected <strong>suspicious activity</strong> on your <span style="color:red;">account</span>. Please verify your <strong>password</strong> immediately to avoid temporary suspension.</p>
+<p>Please <a href="http://malicious-site.net/steal">https://portal.security.com/login</a> to secure your account now.</p>
+<p>Alternatively, you can <a href="http://203.0.113.10/secure-mail">click here</a> or visit <a href="http://198.51.100.25/activate">here</a> for instant verification.</p>
+<p>For assistance, view our <a href="https://portal.security.com/privacy-policy">privacy-policy</a>.</p>
+<a href="http://malicious.attacker.net/tracker"></a>
+</body>
+</html>
+
+------=_Part_0_123456.789012345--

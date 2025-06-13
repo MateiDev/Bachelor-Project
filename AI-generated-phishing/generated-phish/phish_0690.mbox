@@ -1,0 +1,31 @@
+From spammer@security-alert.com Thu Jul 04 09:15:00 2024
+Return-Path: <no-reply@security-update.com>
+Delivered-To: user@domain.com
+Received: from mx1.security-update.com (mx1.security-update.com [203.0.113.1])
+        by mail.domain.com with ESMTP id ABC123DEF
+        for <user@domain.com>; Thu, 04 Jul 2024 09:15:00 +0000
+Date: Thu, 04 Jul 2024 09:15:00 +0000
+From: Security Team <no-reply@security-update.com>
+Reply-To: Support Desk <support@helpdesk.security-alert.com>
+Subject: URGENT: Account Password Expires Today – Verify Immediately
+Message-ID: <20240704091500.GHIKLMNOP@security-update.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Immediate Action Required!</strong></p>
+<p>Dear User,</p>
+<p>We have detected an <strong>unusual sign-in</strong> attempt on your account yesterday. <span style="color:red">Your password expires today</span>. If you do not verify your details within 24 hours, your account will be <u>permanently locked</u>.</p>
+<ul>
+<li>Review Login Activity: <a href="http://192.0.2.45/login">https://secure-update.domain.com/login</a></li>
+<li>Reset Password Now: <a href="http://login.secure.info.account.verification.com/reset">Reset Password</a></li>
+<li>Verify Account Security: <a href="http://198.51.100.23/security-check">https://account.verify.domain.co.uk</a></li>
+<li>Detailed Report: <a href="http://203.0.113.77/security">http://banking.youraccount.com/update</a></li>
+</ul>
+<p>This is an <strong>urgent</strong> notification. Failure to comply may result in <strong>access suspension</strong>.</p>
+<p>Sincerely,<br>
+Security Team</p>
+</body>
+</html>

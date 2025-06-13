@@ -1,0 +1,28 @@
+From support@trustedgifts.com Tue Jan 24 08:38:12 2023
+Return-Path: <support@trustedgifts.com>
+Received: from mail.trustedgifts.com (mail.trustedgifts.com [203.0.113.50])
+    by securemail-server.com (Postfix) with ESMTPS id 0123456789
+    for <user@example.com>; Tue, 24 Jan 2023 08:38:11 +0000 (UTC)
+Received: from unknown (HELO smtp.trustedgifts.com) (192.0.2.10)
+    by mail.trustedgifts.com with SMTP; Tue, 24 Jan 2023 08:38:09 +0000
+From: "Gift Center" <support@trustedgifts.com>
+To: user@example.com
+Subject: URGENT: Claim Your €50 Voucher Before It's Too Late!
+Date: Tue, 24 Jan 2023 08:38:11 +0000
+Message-ID: <20230124083811.0123456789@mail.trustedgifts.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Reply-To: "Security Team" <security@trustedgifts-security.net>
+
+<html>
+<body>
+<p><strong>CRITICAL ALERT:</strong> You're one of our selected users eligible for a <strong>€50 voucher</strong>! This offer expires in 24 hours—ACT NOW to avoid losing your reward.</p>
+<p>To redeem your voucher, <a href="http://192.0.2.123/claim?uid=ABCD1234"></a><a href="http://192.0.2.123/claim?uid=ABCD1234">click here</a> or use the button below:</p>
+<p><a href="http://192.0.2.123/claim?uid=ABCD1234"><img src="http://203.0.113.45/images/voucher_button.png" alt="Redeem Now"></a></p>
+<p>If you encounter any issues, visit our <a href="https://trustedgifts.com/help">Help Center</a> or review our <a href="https://trustedgifts.com/privacy">Privacy Policy</a>.</p>
+<p>Thank you for being a valued member.</p>
+<p>Best regards,<br>Gift Center Team</p>
+<hr>
+<p style="font-size:small;color:#888888;">If you believe you received this email by mistake, <a href="http://203.0.113.45/unsubscribe?uid=ABCD1234" style="text-decoration:none;"></a>unsubscribe here.</p>
+</body>
+</html>

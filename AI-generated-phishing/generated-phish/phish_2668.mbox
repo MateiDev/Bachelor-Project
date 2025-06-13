@@ -1,0 +1,57 @@
+```mbox
+From - Sat Oct 21 10:38:00 2023
+X-Account-Key: account2
+X-UIDL: UID12345
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from [192.168.1.100] ([192.168.1.100]) by mx.example.com with ESMTP;
+        Sat, 21 Oct 2023 10:38:00 -0700
+Message-ID: <20231021103800.123456789@example.com>
+Date: Sat, 21 Oct 2023 10:38:00 -0700
+From: "Internal Revenue Service" <noreply@tax-refund.com>
+Reply-To: support@refunds-us.com
+Subject: URGENT: Immediate Action Required to Confirm Your Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_78901234.1234567890123"
+
+------=_Part_123456_78901234.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have been trying to reach you regarding your unclaimed tax refund. Immediate confirmation is required to process your refund of $500.00. Please confirm your bank details by visiting the following link within 24 hours to avoid any delay.
+
+http://192.168.1.101/get-your-refund-now
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Internal Revenue Service
+
+Click here to contact support: http://www.contact-us-fake-site.com
+Privacy Policy: http://www.irs.gov/privacy
+
+------=_Part_123456_78901234.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+  <title>URGENT: Immediate Action Required to Confirm Your Tax Refund</title>
+</head>
+<body>
+  <p>Dear Taxpayer,</p>
+  <p>We have been trying to reach you regarding your unclaimed tax refund. Immediate confirmation is required to process your refund of $500.00. Please confirm your bank details by visiting the link below within <strong>24 hours</strong> to avoid any delay.</p>
+  <p><a href="http://192.168.1.101/get-your-refund-now">http://www.irs.gov/refunds</a></p>
+  <p>Thank you for your prompt attention to this matter.</p>
+  <p>Sincerely,<br>Internal Revenue Service</p>
+  <img src="http://192.168.1.102/image-banner.jpg" alt="IRS Banner">
+  <p><a href="http://www.contact-us-fake-site.com">Click here</a> to contact support.</p>
+  <p><a href="http://www.irs.gov/privacy">Privacy Policy</a></p>
+</body>
+</html>
+------=_Part_123456_78901234.1234567890123--
+```

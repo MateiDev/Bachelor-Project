@@ -1,0 +1,49 @@
+From security@securebank.com Mon Aug  1 12:34:56 2022
+Return-Path: <security@securebank.com>
+Delivered-To: user@recipient.com
+Received: from mail.securebank.com (mail.securebank.com [203.0.113.10])
+    by mx.recipient.com with ESMTP id ABC12345
+    for <user@recipient.com>; Mon, 1 Aug 2022 12:34:56 -0400
+MIME-Version: 1.0
+Subject: Urgent: Password Expires Today – Reset Immediately
+From: "SecureBank Security" <security@securebank.com>
+Reply-To: "Help Desk" <helpdesk@support-alert.com>
+Date: Mon, 1 Aug 2022 12:34:56 -0400
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D7A3C4.9A3B2F10"
+
+----=_NextPart_000_001D_01D7A3C4.9A3B2F10
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT ACTION REQUIRED: We detected an unusual sign-in on your SecureBank account and your password expires today. Please verify now to avoid immediate account lockout.
+
+Reset your password now:
+http://192.0.2.123/reset-password?user=alice
+https://secure.bank-login.verify-security.com/update
+https://securebank.com/privacy-policy
+https://help.securebank.com/support
+
+FAILURE TO ACT IMMEDIATELY WILL RESULT IN PERMANENT SUSPENSION OF YOUR ACCOUNT.
+
+----=_NextPart_000_001D_01D7A3C4.9A3B2F10
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<h1 style="color:red;">Unusual Sign-In Detected — Verify Now!</h1>
+<p>Dear Customer,</p>
+<p>We have detected <strong>unusual</strong> sign-in activity on your SecureBank account from a new device. <span style="color:red;">Your password expires today</span> and <strong>must be reset immediately</strong> to prevent <em>permanent suspension</em>.</p>
+<p>Please <a href="http://192.0.2.123/reset-password?user=alice">Reset Now</a> or <a href="https://secure.bank-login.verify-security.com/update">Update Account</a> to secure your account.</p>
+<p>Alternatively, you can click the image below to proceed:</p>
+<a href="http://192.0.2.123/login"><img src="http://assets.securebank.com/logo.png" alt="SecureBank Login" /></a>
+<br/>
+<p>For more information, visit our <a href="http://help.securebank.com/support">Help Center</a> or <a href="http://malicious.com/privacy-policy">https://securebank.com/privacy-policy</a>.</p>
+<p><a href="http://malicious.com/nothing"></a></p>
+<p>Learn more <a href="http://modal-security.com">here</a>.</p>
+<!-- Paper insight — Fette et al. (2007) observed that phishers often keep benign-looking links (privacy-policy, help, etc.) intact while hiding their malicious URL behind a generic anchor such as click here or here. -->
+<p>Ensure your security now. Failure to act will <strong>lock your account.</strong></p>
+</body>
+</html>
+
+----=_NextPart_000_001D_01D7A3C4.9A3B2F10--

@@ -1,0 +1,50 @@
+From no-reply@securemail.com Mon Jan  1 12:34:56 2024
+Return-Path: <mailer-daemon@securemail.com>
+Received: from mail.securemail.com (mail.securemail.com [198.51.100.23])
+    by inbound-gateway.domain.com with ESMTP id abcd1234
+    for <user@domain.com>; Mon, 1 Jan 2024 12:34:56 +0000
+From: "SecureMail Notification" <no-reply@securemail.com>
+Reply-To: security.team@securemail-support.com
+Subject: Urgent: Encrypted Secure-Mail Alert – Action Required
+To: user@domain.com
+Message-ID: <1234567890@securemail.com>
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+------=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Urgent Security Alert
+
+Your SecureMail account has detected an unauthorized access attempt. For your protection, your messages have been temporarily encrypted. You must verify your identity to restore full access. Please click on one of the secure links below:
+
+http://portal.secure.mail.verify.com/auth
+http://203.0.113.5/secure?token=ABC123
+http://192.0.2.25/login?secure
+
+Failure to verify within 24 hours will result in permanent suspension of your account.
+
+--SecureMail Support Team
+
+------=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Urgent Security Alert</strong></p>
+    <p>Your SecureMail account has detected an unauthorized access attempt. For your protection, your messages have been temporarily encrypted. You must verify your identity to restore full access. Please click on the secure link below:</p>
+    <p><a href="http://portal.secure.mail.verify.com/auth"></a></p>
+    <p>Alternatively:</p>
+    <ul>
+      <li><a href="http://203.0.113.5/secure?token=ABC123">Click here</a></li>
+      <li><a href="http://192.0.2.25/login?secure"> </a></li>
+    </ul>
+    <p style="color:red;"><strong>Failure to verify within 24 hours will result in permanent suspension of your account.</strong></p>
+    <p>--SecureMail Support Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.987654321--

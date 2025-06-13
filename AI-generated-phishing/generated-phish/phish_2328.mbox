@@ -1,0 +1,43 @@
+From mailer@notify.retailer-ltd.net Sat Jan 01 12:34:56 2022
+Subject: Urgent: Claim Your €100 Voucher Now!
+From: Rewards Team <rewards@supermarket.com>
+Reply-To: support@promotions.biz
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are pleased to inform you that your account is eligible for a complimentary €100 voucher. This is an urgent promotional reward! To claim your voucher, please verify your details immediately:
+
+https://verify.voucher.claims.retailer.co/redeem
+
+Alternatively, click the gift card link below:
+http://short.url/GC123
+
+If you do not verify your details within 24 hours, your voucher will expire.
+
+Best regards,
+Rewards Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We are pleased to inform you that your account is eligible for a complimentary €100 voucher. This is an <b>urgent</b> promotional <span title="account">reward</span>! To claim your voucher, please verify your details immediately:</p>
+    <p><a href="http://bit.ly/claimNow123" title="urgent account verification">https://verify.voucher.claims.retailer.co/redeem</a></p>
+    <p>Alternatively, click the gift card image below:</p>
+    <p><a href="http://short.url/GC123"><img src="http://cdn.rewards-images.net/gift-card.png" alt="Click to Claim" title="password secure" /></a></p>
+    <p>If you do not verify your details within 24 hours, your voucher will expire.</p>
+    <p>Best regards,<br/>Rewards Team<br/>support@supermarket.com</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

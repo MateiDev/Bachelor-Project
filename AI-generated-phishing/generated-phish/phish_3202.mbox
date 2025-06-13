@@ -1,0 +1,45 @@
+From secure-support@secure-company.com Mon Nov  8 12:34:56 2021
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Message-ID: <1234567890@secure-company.com>
+Date: Mon, 08 Nov 2021 12:34:56 +0000
+From: "Secure Support" <support@secure-company.com>
+Reply-To: helpdesk@accounts-update.com
+To: victim@example.com
+Subject: Urgent: Account Password Expires Today – Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+----=_Part_0_123456789.987654321
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Unusual sign-in detected on your account. Your password expires today – reset immediately to avoid being locked out.
+
+Please verify your account now by visiting:
+http://192.0.2.123/verify
+
+Thank you,
+Account Security Team
+
+----=_Part_0_123456789.987654321
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Notification</title></head>
+<body>
+  <p><strong style="color:red;">Unusual sign-in detected—verify now!</strong></p>
+  <p>Your <a href="http://secure.company.com/privacy-policy">Account Privacy Policy</a> indicates that your <b>password expires today</b>. You must verify your account <span style="color:red;">immediately</span> to avoid suspension.</p>
+  <p>To proceed, <a href="http://192.0.2.123/verify">here</a>.</p>
+  <p><a href="http://192.0.2.123/verify"></a></p>
+  <p>Alternatively, use this link: <a href="http://192.0.2.123/login">https://secure.company.com/login</a></p>
+  <p><a href="http://192.0.2.123/verify"><img src="http://192.0.2.123/images/account_alert.png" alt="Verify Now"/></a></p>
+  <p>If you need assistance, visit our <a href="http://secure.company.com/help">Help Center</a>.</p>
+  <p><em>This is an <strong>urgent</strong> notification regarding your <strong>account</strong>. Action required.</em></p>
+</body>
+</html>
+
+----=_Part_0_123456789.987654321--

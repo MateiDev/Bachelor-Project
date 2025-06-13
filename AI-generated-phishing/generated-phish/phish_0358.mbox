@@ -1,0 +1,58 @@
+```mbox
+From nobody Thu Oct 12 23:42:00 2023
+Return-Path: <no-reply@secureupdate.com>
+Delivered-To: victim@example.com
+Received: from mail.secureupdate.com (mail.secureupdate.com [192.0.2.123])
+	by mail.example.com (Postfix) with ESMTP id 1234567890
+	for <victim@example.com>; Thu, 12 Oct 2023 23:41:58 +0000 (UTC)
+Message-ID: <20231012234158.1234567890@mail.secureupdate.com>
+Date: Thu, 12 Oct 2023 23:41:58 +0000 (UTC)
+From: Security Alert <no-reply@secureupdate.com>
+Reply-To: security-update@classifiedservice.com
+To: victim@example.com
+Subject: Urgent Account Verification Required: Unusual Activity Detected
+
+--boundary123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. Please verify your identity immediately to prevent any temporary suspension of your account.
+
+To secure your account, please visit the link below:
+
+http://secureupdate.com.verify-now.updates-system.com/login
+
+Failure to act promptly can result in restricted access to your account. We advise you to reset your password as it is set to expire today. Use the link below to change your password:
+
+http://securepasswordupdate.com.reset.immediately.security-steps.com/reset-password
+
+Thank you for your attention to this matter.
+
+Sincerely,
+Security Team
+
+--boundary123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected <b>unusual sign-in activity</b> on your account. Please verify your identity immediately to prevent any temporary suspension of your account.</p>
+<p>To secure your account, please visit the link below:</p>
+<a href="http://secureupdate.com.verify-now.updates-system.com/login">
+<img src="http://secureupdate.com/verify_button.png" alt="Verify Now"/>
+</a>
+<p>Failure to act promptly can result in restricted access to your account. We advise you to reset your password as it is set to expire today. Use the link below to change your password:</p>
+<a href="http://securepasswordupdate.com.reset.immediately.security-steps.com/reset-password">
+<img src="http://secureupdate.com/reset_button.png" alt="Reset Password"/>
+</a>
+<p>Thank you for your attention to this matter.</p>
+<p>Sincerely,<br/>Security Team</p>
+</body>
+</html>
+
+--boundary123456--
+```

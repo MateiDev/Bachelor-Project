@@ -1,0 +1,26 @@
+From secure-portal@corp.com Fri Jul 05 12:34:56 2024
+X-From: "Secure Portal"
+Return-Path: support@secure-portal.com
+Reply-To: helpdesk@portal-security-alerts.com
+From: "Secure Portal" <support@secure-portal.com>
+To: user@victim.com
+Subject: Urgent: Account Password Verification Required
+Date: Fri, 05 Jul 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We've detected unusual activity on your account. For your security, please verify your password immediately.</p>
+<p>Click <a href="http://secure-update.verifypass.com/verify">here</a> to verify your credentials.</p>
+<p>If the link doesn't work, please visit: <a href="http://bit.ly/securecheck">click here</a></p>
+<p>Or access your secure portal directly: <a href="http://update.secure-portal.mailservice.com/auth"></a></p>
+<p>You can also follow this link for advanced security checks: <a href="http://secure.portal-portal.mailserver-update.com/verify">https://portal.secure-portal.com/security</a></p>
+<p><a href="https://secure-portal.com/privacy">Privacy Policy</a> | <a href="https://secure-portal.com/help">Help Center</a></p>
+<p>Thank you,<br>Secure Portal Team</p>
+</body>
+</html>

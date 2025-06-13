@@ -1,0 +1,58 @@
+From alerts@secure-alerts.net Fri Jul 12 10:24:00 2024
+Return-Path: <alerts@secureportal.com>
+Delivered-To: user@company.com
+Received: from 192.0.2.50 (unknown [192.0.2.50]) by mail.company.com with ESMTP id ABC12345
+Received: from smtp.secure-alerts.net ([198.51.100.23]) by inbound.company.com with ESMTP id DEF67890
+From: "Secure Portal Alerts" <alerts@secureportal.com>
+Reply-To: "IT Support" <support@companyhelp.net>
+To: user.name@company.com
+Subject: URGENT: Account Password Reset Required
+Message-ID: <20240712092400.12345@smtp.secure-alerts.net>
+Date: Fri, 12 Jul 2024 09:24:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ALT1234"
+
+--ALT1234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT SECURITY NOTICE
+
+Dear Valued User,
+
+Your account has been flagged for suspicious activity. To ensure your access is not suspended, you must verify your credentials immediately by visiting the secure portal below:
+
+https://secure.portal.companysecure.com/login
+http://203.0.113.5/verify?id=abc123
+
+Failure to respond within 24 hours will result in a forced password reset.
+
+Thank you,
+Security Team
+Secure Portal Alerts
+
+--ALT1234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p style="color:red; font-weight:bold;">URGENT SECURITY ALERT</p>
+<p>Dear Valued User,</p>
+<p>Your <strong>account</strong> has been flagged for <strong>suspicious activity</strong>. To ensure your access is not suspended, please verify your credentials immediately by clicking on the secure portal below.</p>
+<p>
+<a href="http://203.0.113.5/verify?id=abc123">
+<img src="http://cdn.secureportal.com/images/alert_banner.png" alt="Verify Now" border="0">
+</a>
+</p>
+<p>If the image does not load, <a href="http://203.0.113.5/verify?id=abc123">click here</a> to verify.</p>
+<p>Please validate your <a href="http://203.0.113.5/reset?token=xyz">password Here</a> to avoid lockout.</p>
+<p>For your reference, view our privacy policy at <a href="https://help.companysecure.com.privacy.portal.com/policy.html">https://help.companysecure.com.privacy.portal.com/policy.html</a> or our documentation at <a href="http://198.51.100.23/docs">http://198.51.100.23/docs</a>.</p>
+<p>If you cannot access the link above, please copy and paste this URL into your browser:<br>
+<a href="http://203.0.113.5/verify?id=abc123">https://secure.portal.companysecure.com/login?ref=urgent</a></p>
+<p>Best Regards,<br>
+Secure Portal Alerts Team</p>
+</body>
+</html>
+
+--ALT1234--

@@ -1,0 +1,60 @@
+From secure-alert@secure-mail.com Mon Jul 19 08:12:45 2021
+Return-Path: <secure-alert@secure-mail.com>
+Delivered-To: victim@example.com
+Received: from secure-mail.com (unknown [192.0.2.1])
+    by mail.example.com with ESMTP id ABC12345
+    for <victim@example.com>; Mon, 19 Jul 2021 08:12:45 +0000
+From: "Secure Mail Alert" <alert@secure-mail.com>
+Reply-To: support@secure-portal-help.com
+Subject: Urgent: Password Reset Required for Your Account
+To: victim@example.com
+Date: Mon, 19 Jul 2021 08:12:45 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345"
+
+----=_Part_12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account has been flagged for suspicious activity. We urgently require you to verify your identity and reset your password to avoid immediate suspension of services.
+
+Please visit one of the following links to secure your account:
+
+- https://secure.mail.portal.example.com/login
+- https://help.secure.mail.portal.example.com
+- http://192.0.2.45/login
+- https://hr.portal.security-update.example.co.uk
+
+Failure to act within 24 hours will result in permanent deactivation.
+
+To proceed, click here:
+http://203.0.113.5/verify?uid=abcdef
+
+Thank you,
+Secure Mail Support Team
+
+----=_Part_12345
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial, sans-serif; color:#333;">
+    <p>Dear user,</p>
+    <p style="color:red; font-weight:bold;">Your account has been flagged for <span style="text-decoration:underline;">suspicious activity</span>. We <strong>urgently</strong> require you to verify your identity and <strong>reset your password</strong> to avoid <em>immediate suspension</em> of services.</p>
+    <p>Please <a href="http://192.0.2.45/login">https://secure.mail.portal.example.com/login</a> to secure your account.</p>
+    <p>Alternate links (for privacy-policy and help):<br>
+      <a href="http://195.51.100.30/secure-login">https://secure.bank.com</a> | 
+      <a href="https://privacy-policy.secure-mail.com">Privacy Policy</a> | 
+      <a href="https://help.secure.mail.portal.example.com">Help Center</a>
+    </p>
+    <p>Or click <a href="http://203.0.113.5/verify">here</a> to verify now.</p>
+    <p><a href="http://192.0.2.45/login"><img src="http://203.0.113.10/images/sec_logo.png" alt="Secure Mail"></a></p>
+    <p style="color:orange;">Failure to act within <strong>24 hours</strong> will result in <strong>permanent deactivation</strong>.</p>
+    <p>Thank you,<br>
+    Secure Mail Support Team</p>
+  </body>
+</html>
+
+----=_Part_12345--

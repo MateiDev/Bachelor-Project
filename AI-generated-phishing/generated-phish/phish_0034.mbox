@@ -1,0 +1,27 @@
+From jdoe@example.com Sat Oct 21 14:31:42 2023
+X-Original-To: user@example.com
+Delivered-To: user@example.com
+Received: by 10.0.0.1 with SMTP id b123csp123456qwb;
+        Sat, 21 Oct 2023 14:31:42 -0700 (PDT)
+X-Received: by 10.0.0.2 with SMTP id a123mr6798847qwe.0.1697914302604;
+        Sat, 21 Oct 2023 14:31:42 -0700 (PDT)
+Return-Path: <jdoe@example.com>
+From: "Support Team" <support@secure-notice.com>
+To: user@example.com
+Subject: Urgent: Unusual Sign-In Detected - Verify Now
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected an unusual sign-in attempt on your account. To ensure the security of your account, please verify your credentials immediately by clicking on the link below:</p>
+<p><a href="http://192.0.2.1/security-check" target="_blank">http://secure-accountverify.com</a></p>
+<p>Failure to verify may result in your account being temporarily suspended.</p>
+<p>If you did not attempt to sign in, please click here to secure your account: <a href="http://192.0.2.2/recovery" target="_blank">click here</a></p>
+<p>For any assistance, visit our help page at <a href="https://www.legit-support.com/help">www.legit-support.com/help</a></p>
+<p>Best Regards,<br>Security Team</p>
+<p><a href="http://www.trustedpolicy.com/privacy">Privacy Policy</a></p>
+<p><a href="http://www.trustedpolicy.com/terms">Terms of Service</a></p>
+</body>
+</html>

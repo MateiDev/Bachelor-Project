@@ -1,0 +1,31 @@
+From service@paypal.com Mon Jun 17 13:45:30 2024
+Return-Path: <service@paypal.com>
+Delivered-To: victim@example.com
+Received: from mail.example.org (mail.example.org [192.0.2.1])
+    by mx.example.com with ESMTP id ABC12345
+    for <victim@example.com>; Mon, 17 Jun 2024 13:45:30 -0400 (EDT)
+From: "PayPal Account Security" <service@paypal.com>
+To: victim@example.com
+Subject: Urgent: Verify Your PayPal Account Password
+Date: Mon, 17 Jun 2024 13:45:30 -0400
+Message-ID: <20240617174530.abcde@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected unusual activity on your PayPal account and, for your protection, access has been temporarily limited. To prevent permanent restriction, you must verify your account password immediately.</p>
+    <p style="text-align:center;">
+      <a href="http://195.123.45.67/verify">
+        <img src="http://secure.paypal.com/media/logo.png" alt="PayPal Logo" border="0">
+      </a>
+    </p>
+    <p>To restore full access, please visit <a href="http://secure-login.paypal-auth.com/account/verify">https://www.paypal.com/signin</a> or <a href="http://195.123.45.67/verify">click here</a> now. Failure to act within 24 hours will result in permanent account suspension.</p>
+    <p>If you need assistance, please visit our <a href="https://www.paypal.com/us/smarthelp/home">Help Center</a> or review our <a href="https://www.paypal.com/us/legalhub/privacy-full">Privacy Policy</a>.</p>
+    <p>Thank you for your immediate attention to this urgent matter.</p>
+    <p>Sincerely,<br>
+    PayPal Account Security Team</p>
+  </body>
+</html>

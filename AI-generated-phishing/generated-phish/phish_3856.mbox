@@ -1,0 +1,55 @@
+From no-reply@dhl.com Mon Jun 12 12:34:56 2023
+Message-ID: <1234567890@domain.com>
+Date: Mon, 12 Jun 2023 12:34:56 +0000
+From: "DHL Shipping" <no-reply@dhl.com>
+Reply-To: <support@dhl-account.verify.com>
+To: user@domain.com
+Subject: Urgent: Delivery Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+------=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but could not confirm your account details.
+Please complete an urgent account password verification to prevent delivery failure.
+Click the link below to release your shipment:
+
+http://203.0.113.5/key?ref=99887766
+
+Alternatively, visit:
+http://verify.dhl.com.delivery-alerts.net/track?order=99887766
+
+Failure to verify within 24 hours will result in package return and potential fees.
+Thank you,
+DHL Delivery Support
+
+------=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <p><strong>Action Required Immediately:</strong><br>
+    We were unable to confirm your delivery <em>account</em> and your <em>password</em> seems to have <span style="color:red;">failed</span> our security checks.<br>
+    To release your package and avoid return, please verify now:</p>
+    <!-- Image-based Link -->
+    <p>
+      <a href="http://203.0.113.5/release?ref=99887766">
+        <img src="http://tracking.dhlimg.com/images/dhl_logo.png" alt="DHL Logo">
+      </a>
+    </p>
+    <p>
+      Click here: <a href=""></a><br>
+      Or visit: <a href="http://verify.dhl.com/track?order=99887766">http://dhl.com/track?order=99887766</a><br>
+      Check status: <a href="http://verify.dhl.com.delivery-update.alerts.com/confirm.link?ref=99887766">Confirm Now</a><br>
+      Direct URL: <a href="http://198.51.100.23/secure?order=99887766">198.51.100.23/secure?order=99887766</a>
+    </p>
+    <p style="color:#900;">Your package is on hold. Immediate action required to avoid fees and return!</p>
+  </body>
+</html>
+
+------=_NextPart_000_001--

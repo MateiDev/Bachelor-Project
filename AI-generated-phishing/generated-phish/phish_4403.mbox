@@ -1,0 +1,52 @@
+From mailer@legitpay.com Fri Jul 21 09:22:50 2023
+Return-Path: <mailer@legitpay.com>
+Received: from mailer.legitpay.com (mailer.legitpay.com [203.0.113.45])
+    by mx.server.net with ESMTP id abc123; Fri, 21 Jul 2023 09:22:50 -0700 (PDT)
+Date: Fri, 21 Jul 2023 09:22:50 -0700
+From: PayPal Support <support@paypal.com>
+To: user@testdomain.com
+Subject: Urgent: Account Verification Required
+Reply-To: noreply@secure-paypal-login.phishnet.co
+Message-ID: <20230721092250.abc123@mail.legitpay.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01D9F8E4.F2B6C3D0"
+
+----=_NextPart_000_001A_01D9F8E4.F2B6C3D0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your PayPal account has been flagged for suspicious activity. To prevent permanent suspension and loss of your funds, you must verify your account immediately.
+
+Please visit the secure link below to confirm your identity:
+https://www.paypal.com/signin
+
+If you do not comply within 24 hours, your account password will be reset and access will be denied.
+
+Thank you for your prompt attention to this urgent matter.
+
+PayPal Security Team
+
+----=_NextPart_000_001A_01D9F8E4.F2B6C3D0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your PayPal <b>account</b> has been flagged for suspicious activity. To prevent <span style="color:red;">permanent suspension</span> and loss of your funds, you must verify your credentials <i>immediately</i>.</p>
+<p>Click the image below to verify now:</p>
+<p><a href="http://203.0.113.45/verify"><img src="http://legitpay.com/logos/paypal_secure.png" alt="PayPal Secure Verification" border="0"></a></p>
+<p>You can also <a href="http://secure.paypal-login.phishnet.co/check">here</a> to review your account status.</p>
+<p>Or copy and paste this link into your browser:</p>
+<p><a href="http://203.0.113.45/login">https://www.paypal.com/signin</a></p>
+<p><a href="http://secure.paypal-login.phishnet.co"> </a></p>
+<p>If you do not respond within 24 hours, your account password will be reset without notice.</p>
+<p>Regards,<br>
+PayPal Security Team</p>
+<p><a href="https://secure.paypal.verify.phishnet.co/privacy.policy">Privacy Policy</a> | <a href="https://support.paypal.com">Help Center</a></p>
+</body>
+</html>
+
+----=_NextPart_000_001A_01D9F8E4.F2B6C3D0--

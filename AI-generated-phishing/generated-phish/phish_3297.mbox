@@ -1,0 +1,49 @@
+From support@globalmail.com Wed Jul 24 10:15:00 2024
+Return-Path: <support@globalmail.com>
+Received: from mail.globalmail.com (mail.globalmail.com [203.0.113.5])
+    by victim-mail.com with ESMTP id ABC123DEF
+    for <user@victim.com>; Wed, 24 Jul 2024 10:15:00 +0000
+Date: Wed, 24 Jul 2024 10:15:00 +0000
+From: GlobalMail Security <support@globalmail.com>
+To: user@victim.com
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear GlobalMail User,
+
+We have detected unusual activity on your GlobalMail account. Your account will be suspended if you do not verify your password within 24 hours.
+
+Please visit the link below to complete the verification process:
+
+http://203.0.113.50/login
+
+If you do not verify your credentials, we will be forced to suspend your account.
+
+GlobalMail Security Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear GlobalMail User,</p>
+<p style="color:red; font-weight:bold;">We have detected unusual activity on your <a href="">GlobalMail</a> account. Your account will be suspended if you do not <strong>verify your password</strong> within <em>24 hours</em>.</p>
+<p>To secure your account immediately, <a href="http://203.0.113.50/login">click here</a> to proceed to the secure verification page.</p>
+<p><a href="http://198.51.100.23/auth"></a></p>
+<p><a href="http://198.51.100.23/secure"><img src="http://198.51.100.23/images/secure_login.png" alt="Secure Login"></a></p>
+<p>If you need assistance, please visit our <a href="https://globalmail.com/help">Help Center</a> or review our <a href="https://globalmail.com/privacy">Privacy Policy</a>.</p>
+<p>Alternatively, you may use the following link:</p>
+<p><a href="http://203.0.113.50.login.secure.globalmail.verify.com/verify">Verify Now</a></p>
+</body>
+</html>
+
+------=_Part_12345_67890--

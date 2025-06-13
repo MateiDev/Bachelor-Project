@@ -1,0 +1,42 @@
+```
+From - Sun Oct 15 14:22:00 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Return-Path: <suspicious_sender@dellveries-alerts.com>
+Reply-To: urgent@quickdeliver-notice.com
+Subject: URGENT: Immediate Action Required - Your Package is on Hold!
+From: "DHL Express" <noreply@dellveries-alerts.com>
+Date: Sun, 15 Oct 2023 14:21:00 -0400
+Message-ID: <20231015142100.12345.dellver@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+To: victim@example.com
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is on hold due to an unpaid fee. Act now to avoid cancellation: http://url.ru.onetimerelease19757.net
+
+Thank you for your swift action.
+
+DHL Support Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is on hold due to an unpaid fee. <strong>Act now to avoid cancellation:</strong></p>
+    <p><a href="http://url.ru.onetimerelease19757.net"></a><a href="http://secure.quickprompt19757.info">Click here</a></p>
+    <p>Thank you for your swift action.</p>
+    <p>DHL Support Team</p>
+  </body>
+</html>
+
+--===============123456789==--
+```

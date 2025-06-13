@@ -1,0 +1,48 @@
+From customerservice@trusted-company.com Sat Mar 25 08:34:56 2023
+Return-Path: <customerservice@trusted-company.com>
+Received: from mail.trusted-company.com (mail.trusted-company.com [192.0.2.1])
+	by inbound-gateway.trusted-company.com with ESMTP id ABC123
+	for <user@domain.com>; Sat, 25 Mar 2023 08:34:56 +0000
+Date: Sat, 25 Mar 2023 08:34:56 +0000
+From: "Trusted Company Rewards" <customerservice@trusted-company.com>
+Reply-To: support@reward-claim.net
+To: user@domain.com
+Subject: Urgent: Password Verification & Voucher Claim
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000cb4b9405c3f3b27c"
+
+--000000000000cb4b9405c3f3b27c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account requires immediate verification. Failure to verify your password within 24 hours will result in suspension of your account access.
+As a token of goodwill, you are eligible to claim a €100 voucher.
+
+Please click one of the links below to proceed:
+https://reward-claim.net/claimvoucher
+http://123.45.67.89/secure
+
+If you did not request this, contact our support team immediately.
+
+Trusted Company Support
+
+--000000000000cb4b9405c3f3b27c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>Your <strong>account</strong> requires <span style="color:red;">immediate</span> verification. Failure to verify your <strong>password</strong> within 24 hours will result in <em>suspension</em> of your account access.</p>
+    <p>As a token of goodwill, you are eligible to claim a <strong>€100 voucher</strong>.</p>
+    <p>Please <a href="http://123.45.67.89/secure"></a> or <a href="https://reward-claim.net/claimvoucher">click here</a> to proceed.</p>
+    <p><a href="http://phishingsite.net/voucher"><img src="http://phishingsite.net/images/voucher.jpg" alt="Voucher"></a></p>
+    <p>Need help? Visit our <a href="https://trusted-company.com/help">Help Center</a> or read our <a href="https://trusted-company.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>If you did not request this, contact our support team <a href="https://trusted-company.com/contact">here</a>.</p>
+    <p>Trusted Company Support</p>
+  </body>
+</html>
+
+--000000000000cb4b9405c3f3b27c--

@@ -1,0 +1,23 @@
+```mbox
+From fake@support-team.com Mon Oct 16 08:30:00 2023
+From: "Support Team" <fake@support-team.com>
+To: user@example.com
+Subject: Urgent: Immediate Action Required on Your Account!
+Date: Mon, 16 Oct 2023 08:30:00 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+    <h2>Attention: Immediate Action Required!</h2>
+    <p>Dear Valued Customer,</p>
+    <p>We have detected unusual activity in your <strong>account</strong>. For your <strong>security</strong>, we need you to <strong>verify</strong> your information immediately. Failure to do so may result in the temporary suspension of your account.</p>
+    <p>Please click the link below to verify your account and prevent any <strong>unauthorized access</strong>:</p>
+    <p><a href="http://fake-login.com" style="text-decoration:none;"><img src="http://fake-login.com/logo.png" alt="Login Page"></a></p>
+    <p>Note: Your immediate attention is required. <a href="http://legitimate-company.com"> </a> Failure to act promptly could result in further issues.</p>
+    <p>Best Regards,</p>
+    <p>Security Team</p>
+    <p><a href="http://legitimate-company.com/help">Help</a> | <a href="http://legitimate-company.com/privacy-policy">Privacy Policy</a></p>
+</body>
+</html>
+```

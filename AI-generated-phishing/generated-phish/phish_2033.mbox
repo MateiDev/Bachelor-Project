@@ -1,0 +1,55 @@
+From support@secure-bank.com Wed Jun 26 12:34:56 2024
+Date: Wed, 26 Jun 2024 12:34:56 -0400
+From: "Bank Support" <support@secure-bank.com>
+Reply-To: security@verification.com
+To: user@example.com
+Subject: Immediate Action Required: Unusual Sign-in Detected—Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===BOUNDARY==="
+
+--===BOUNDARY===
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We detected an unusual sign-in to your account. As a precaution, your account has been temporarily locked. Your password expires today – reset immediately to restore access.
+
+Please click one of the links below to verify your account:
+
+https://secure-bank.com/verify
+https://account.bank.com/reset
+
+Failure to verify by today will result in permanent account suspension.
+
+Thank you,
+Bank Support Team
+
+--===BOUNDARY===
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">
+      <strong>URGENT:</strong> Unusual sign-in detected—<em>verify now</em>!
+    </p>
+    <p>
+      Your account has been locked and your password expires today – 
+      <a href="http://198.51.100.25/verify" style="text-decoration:none;">
+        https://secure-bank.com/verify
+      </a>
+    </p>
+    <p>Or click the image below to reset immediately:</p>
+    <p>
+      <a href="http://203.0.113.5/login">
+        <img src="http://198.51.100.25/images/verify.png" alt="Reset Password" style="border:none;">
+      </a>
+    </p>
+    <p>
+      If you do not act <strong>now</strong>, your account will be permanently suspended.
+    </p>
+    <p>Thank you,<br>Bank Support Team</p>
+  </body>
+</html>
+
+--===BOUNDARY===--

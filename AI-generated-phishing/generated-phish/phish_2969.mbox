@@ -1,0 +1,41 @@
+```mbox
+From phishing@security-alerts.com Tue Oct 31 11:23:45 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from suspicious-server ([192.0.2.123])
+        by victim-mail-server.com (Postfix) with ESMTP id 123456789AB
+        for <victim@example.com>; Tue, 31 Oct 2023 10:23:45 -0700 (PDT)
+Subject: Urgent: Immediate Action Required on Your Account
+To: victim@example.com
+From: Account Security <alerts@trusted-bank.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Attention: Please verify your account immediately to avoid suspension.
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Security Alert</title>
+  </head>
+  <body>
+    <h2>Immediate Verification Required!</h2>
+    <p>Your account has been flagged for suspicious activity. To ensure your account is secure, please verify your information.</p>
+    <p>Failure to act now may result in account suspension.</p>
+    <a href="http://192.0.2.123/security/verify"><img src="http://192.0.2.123/images/secure_button.png" alt="Verify Now"></a>
+    <p>If clicking the image doesn't work, please <a href="http://malicious-site.com/verify">click here</a>.</p>
+    <p>You can review our <a href="https://trusted-bank.com/privacy-policy">privacy policy</a> or visit our <a href="https://trusted-bank.com/support">support page</a>.</p>
+    <p><a href="">   </a></p>
+    <p>Thank you,<br>Account Security Team</p>
+  </body>
+</html>
+--boundary123--
+
+```

@@ -1,0 +1,47 @@
+```mbox
+From fakebankalerts@banking.com Sun Oct 22 14:02:55 2023
+Return-Path: <fakebankalerts@banking.com>
+Received: from mx1.spamserver.com (mx1.spamserver.com [192.168.1.1])
+    by mail.example.com (Postfix) with ESMTP id 123456789
+    for <user@example.com>; Sun, 22 Oct 2023 14:02:55 -0700 (PDT)
+Received: from localhost (unknown [192.168.1.2])
+    by mx1.spamserver.com (Postfix) with ESMTP id 987654321
+    for <user@example.com>; Sun, 22 Oct 2023 14:02:54 -0700 (PDT)
+Reply-To: <support@secure-bank.com>
+Date: Sun, 22 Oct 2023 14:02:54 -0700
+Message-ID: <1111.2222.3333.4444@example.com>
+Subject: Urgent: Unusual sign-in detected - Verify Now
+From: "Bank Alerts" <fakebankalerts@banking.com>
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="-=PART_BOUNDARY=-"
+
+---=PART_BOUNDARY=-
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We've detected an unusual sign-in attempt on your account from a new device. Please verify your identity to ensure your account's security. You must verify immediately by following this link: [Verify Now](http://192.0.2.1/authenticate) or your password will expire today.
+
+Thank you,
+Your Secure Bank Team
+
+---=PART_BOUNDARY=-
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+    <body>
+        <p>Dear Customer,</p>
+        <p>We've detected an unusual sign-in attempt on your account from a new device. Please verify your identity to ensure your account's security.</p>
+        <p><a href="http://192.0.2.1/authenticate"><img src="http://192.0.2.1/images/verify.png" alt="Verify Now" /></a></p>
+        <p><a href="http://192.0.2.1/reset"> </a></p>
+        <p>Thank you,<br>Your Secure Bank Team</p>
+        <img src="http://192.0.2.1/track/open.png" alt="" style="display:none" />
+    </body>
+</html>
+
+---=PART_BOUNDARY=---
+```

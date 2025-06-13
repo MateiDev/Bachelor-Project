@@ -1,0 +1,65 @@
+From security-alerts@secureportal.com Sat Jan  1 12:00:00 2022
+Return-Path: <security-alerts@secureportal.com>
+Received: from mail.secureportal.com (mail.secureportal.com [203.0.113.5])
+	by victim.mail.com with ESMTP id ABC123
+	for <victim@example.com>; Sat, 1 Jan 2022 12:00:00 +0000
+Date: Sat, 1 Jan 2022 12:00:00 +0000
+From: "Secure Mail Alerts" <security-alerts@secureportal.com>
+Reply-To: support@secureportal-alert.com
+To: victim@example.com
+Subject: Urgent Password Expiration Notice
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Urgent: Your account password will expire in 24 hours. You must update it immediately to avoid interruption of service.
+
+Please click the link below to reset your password:
+http://192.0.2.1/reset-password
+
+If you don’t act now, your account may be locked.
+
+Thank you,
+Secure Mail Team
+
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Expiration Notice</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p><strong>Urgent Security Alert:</strong> Your <span style="color:red;">account</span> <span style="color:red;">password</span> will expire in <strong>24 hours</strong>. To avoid <em>immediate</em> service interruption, update your credentials <strong>now</strong>.</p>
+<p>
+<a href="http://192.0.2.1/reset-password">https://secure.portal.example.com/login</a>
+</p>
+<p>
+Click <a href="http://192.0.2.1/verify">here</a> to verify your account.
+</p>
+<p>
+<a href="http://192.0.2.1/track"></a>
+</p>
+<p>
+<a href="http://192.0.2.1/evil"><img src="https://secure.portal.example.com/images/logo.png" alt="Secure Mail Logo"></a>
+</p>
+<hr>
+<p>
+For more information, please visit our 
+<a href="https://secure.portal.example.com/privacy-policy">Privacy Policy</a> or 
+<a href="https://secure.portal.example.com/help">Help Center</a>.
+</p>
+<p>Thank you,<br>Secure Mail Team</p>
+</body>
+</html>
+
+--BOUNDARY--

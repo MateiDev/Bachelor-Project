@@ -1,0 +1,21 @@
+From mailer@paypal.com Tue Aug 15 14:22:10 2023
+From: PayPal Service <no-reply@paypal.com>
+Reply-To: support@paypal.security-repair.net
+Subject: Urgent: Password Verification Required for Your PayPal Account
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected <strong>unauthorized</strong> attempts to access your account. Your PayPal account will be <strong>restricted within 24 hours</strong> unless you <em>immediately</em> verify your identity.</p>
+    <p>Please click the logo below to sign in and confirm your details:</p>
+    <p><a href="http://192.168.10.25/login.php"><img src="http://192.168.10.123/paypal_logo.png" alt="PayPal Logo"></a></p>
+    <p>If the link above doesn't work, you can also <a href="http://verify.paypal.security-login.net/auth">https://www.paypal.com/security</a> to verify your account.</p>
+    <p>For additional options, <a href="http://login.verify.paypal.secure-session.com/">click here</a> or simply <a href="http://secure.paypal-login-modal.com/session">here</a>.</p>
+    <p>Alternatively, please visit our verification page: <a href="http://192.168.10.25/verify.php"></a></p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>PayPal Security Team</p>
+  </body>
+</html>

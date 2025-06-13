@@ -1,0 +1,48 @@
+From bounce@marketing-rewards.com Fri Oct 20 14:22:18 2023
+Return-Path: <bounce@marketing-rewards.com>
+Received: from unknown (HELO mail.marketing-rewards.com) (192.0.2.1)
+  by mail.example.com with SMTP; Fri, 20 Oct 2023 14:22:18 +0000
+Message-ID: <20231020142218.123456789@mail.marketing-rewards.com>
+Date: Fri, 20 Oct 2023 14:22:18 +0000
+From: Rewards Center <offers@claimyourvoucher.com>
+Reply-To: promotions@discreetdomain.com
+To: user@example.com
+Subject: Congratulations! Claim Your €500 Gift Card!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="boundary_123456"
+
+--boundary_123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We are thrilled to announce that you are eligible for a €500 gift card. To claim your reward, please click the link below:
+
+Claim your gift card: http://www.secure-marketing-rewards.com/redeem
+
+Thank you for your continued support.
+
+Best regards,
+The Rewards Team
+
+If you wish to unsubscribe, please click here: http://www.marketing-rewards.com/unsubscribe
+
+--boundary_123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We are thrilled to announce that you are eligible for a €500 gift card. To claim your reward, please click the link below:</p>
+    <p><a href="http://www.secure-marketing-rewards.com/redeem">Claim your gift card</a></p>
+    <p>Thank you for your continued support.</p>
+    <p>Best regards,<br>The Rewards Team</p>
+    <p>If you wish to unsubscribe, please click here: <a href="http://www.marketing-rewards.com/unsubscribe">Unsubscribe</a></p>
+    <p><a href="http://www.marketing-rewards.com/privacy"><img src="http://www.example.com/images/privacy.png" alt="Privacy Policy" /></a></p>
+  </body>
+</html>
+
+--boundary_123456--

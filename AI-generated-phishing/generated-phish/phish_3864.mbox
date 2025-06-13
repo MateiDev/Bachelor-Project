@@ -1,0 +1,64 @@
+From simulation@trustcorp.com Fri Jan  5 14:23:17 2024
+Return-Path: <support@trustcorp.com>
+Delivered-To: user@domain.com
+Received: by mail.trustcorp.com with SMTP id abc123; Fri, 5 Jan 2024 14:23:17 +0000
+From: "TrustCorp Security Team" <support@trustcorp.com>
+Reply-To: security@trustcorp-update.com
+Subject: Account Alert: Urgent Password Reset Required
+Date: Fri, 5 Jan 2024 14:23:17 +0000
+Message-ID: <202401051423.Mail123@trustcorp.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123"
+
+----=_Part_0_123456.7890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT SECURITY ALERT: We detected an UNUSUAL SIGN-IN on your account from a new device.
+Your password EXPIRES TODAY, and you must RESET IMMEDIATELY to avoid SUSPENSION.
+
+Verify now: https://secure-update.payment.reset.com (http://198.51.100.23/reset?user=userid)
+Or go to https://security.trustcorp.com/verify (http://203.0.113.5/verify?uid=userid)
+Or click here to reset: http://203.0.113.5/login?user=userid
+
+If you do not act within 24 hours, your account will be deactivated.
+
+For more information, read our Privacy Policy: https://www.trustcorp.com/privacy  
+Need help? Visit our Help Center: https://www.trustcorp.com/help
+
+Thank you,
+TrustCorp Security Team
+
+----=_Part_0_123456.7890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #d9534f;">URGENT: Unusual Sign-In Detected</h2>
+    <p>Dear Customer,</p>
+    <p>We detected an <strong>UNUSUAL SIGN-IN</strong> on your account from a new device.
+       Your <strong>password EXPIRES TODAY</strong>. Please <strong>reset immediately</strong> to avoid <em>suspension</em>.</p>
+    <p style="margin: 20px 0;">
+      <a href="http://203.0.113.5/login?user=userid">
+        <img src="http://cdn.trustcorp.com/assets/logo.png" alt="TrustCorp Logo" width="200" style="border: none;">
+      </a>
+    </p>
+    <p>To verify and reset, 
+      <a href="http://198.51.100.23/reset?user=userid">https://secure-update.payment.reset.com</a> or 
+      <a href="http://203.0.113.5/verify?uid=userid">https://security.trustcorp.com/verify</a> or 
+      <a href="http://203.0.113.5/login?user=userid">click here</a>.
+    </p>
+    <p style="color: #d9534f;">If you do not act within 24 hours, your account will be deactivated.</p>
+    <hr>
+    <p>
+      <a href="https://www.trustcorp.com/privacy">Privacy Policy</a> |
+      <a href="https://www.trustcorp.com/help">Help Center</a>
+    </p>
+    <p>Thank you,<br>TrustCorp Security Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.7890123--

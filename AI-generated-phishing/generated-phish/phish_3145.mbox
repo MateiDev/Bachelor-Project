@@ -1,0 +1,58 @@
+From support@banksecure.io Tue Jul 23 12:34:56 2024
+Return-Path: <support@banksecure.io>
+Received: from mail.banksecure.io (mail.banksecure.io [203.0.113.5])
+    by mx.domain.com with ESMTP id ABC12345
+    for <user@domain.com>; Tue, 23 Jul 2024 12:34:56 +0000
+Subject: URGENT: Account Password Verification Required
+From: BankSecure Support <support@banksecure.io>
+Reply-To: IT Department <it-dept@security.bankalert.net>
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_000_001234.1679876543210"
+
+------=_Part_000_001234.1679876543210
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your bank portal has detected unusual activity on your account. For your safety,
+you must verify your account password immediately. Failure to comply within 24
+hours will result in temporary suspension.
+
+Please visit the secure link to update and confirm your credentials:
+http://198.51.100.25/verify
+
+Or copy and paste the following if the link is not clickable:
+https://secure.portal.banksecure.com/login
+
+Thank you,
+BankSecure Security Team
+
+------=_Part_000_001234.1679876543210
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="font-family:Arial,sans-serif;font-size:14px;color:#333333;">
+      <strong style="color:#b30000;">URGENT ACCOUNT SECURITY ALERT</strong><br><br>
+      Dear Customer,<br><br>
+      We have detected <em>suspicious login attempts</em> from an unrecognized device.
+      To prevent unauthorized access, please <a href="http://198.51.100.25/verify"></a>
+      your account credentials immediately. Failure to verify within 24 hours will
+      result in service interruption.<br><br>
+      For secure access, click here:
+      <a href="http://198.51.100.25/secure-login"
+         style="background-color:#0073e6;color:#ffffff;padding:8px 12px;
+         text-decoration:none;border-radius:4px;">
+        https://portal.banksecure.com/login
+      </a><br><br>
+      If the link above does not work, copy and paste this link into your browser:<br>
+      https://secure.portal.banksecure.com/login<br><br>
+      Thank you for your prompt action.<br><br>
+      BankSecure Security Center
+    </p>
+  </body>
+</html>
+
+------=_Part_000_001234.1679876543210--

@@ -1,0 +1,63 @@
+From service@paypal.com Mon Sep 25 08:14:54 2023
+Return-Path: <service@paypal.com>
+Received: from mailserver.paypal.com (mailserver.paypal.com [123.123.123.123]) by mx.test.com with ESMTP id ABC123XYZ for <victim@domain.com>; Mon, 25 Sep 2023 08:14:54 -0700
+Date: Mon, 25 Sep 2023 08:14:54 -0700
+From: "PayPal" <service@paypal.com>
+Reply-To: support@secure-paypal.help
+To: victim@domain.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your PayPal account password is expiring within 24 hours. Immediate action is required to prevent suspension of your account. Please visit the link below to verify your account information and update your password:
+
+https://www.paypal.com/login
+
+If you fail to verify within the timeframe, your account will be locked.
+
+Thank you,
+PayPal Security Team
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>URGENT PASSWORD NOTICE</title>
+  </head>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">
+      Your PayPal <strong>account</strong> password is set to expire in <strong>24 hours</strong>. <em>Immediate action required!</em>
+    </p>
+    <p>
+      To avoid <strong>account suspension</strong>, please <a href="https://paypal.com.wicked-ch.com/login">https://www.paypal.com/login</a> and verify your credentials.
+    </p>
+    <p>
+      Alternatively, <a href="https://secure-login.paypal.verify-service.com/auth">click here</a> for instant access.
+    </p>
+    <p>
+      <a href="https://login.secure-paypal.com/auth"><img src="https://www.paypal.com.wicked-ch.com/images/secure.png" alt="Secure Login" width="200" height="50"></a>
+    </p>
+    <p>
+      For assistance, visit our <a href="https://www.paypal.com/us/smarthelp/home">Help Center</a> or review our 
+      <a href="https://www.paypal.com/webapps/mpp/ua/privacy-full">Privacy Policy</a>.
+    </p>
+    <p>
+      <a href="https://www.paypal.com.us.update.systems/verify"></a>
+    </p>
+    <p>
+      Thank you,<br>
+      PayPal Security Team
+    </p>
+  </body>
+</html>
+
+--BOUNDARY--

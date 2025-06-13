@@ -1,0 +1,58 @@
+From phisher@maliciousdomain.com Sat Jul 15 14:30:00 2023
+Return-Path: <no-reply@secure-bank.com>
+Received: from secure-bank.com (secure-bank.com [198.51.100.45])
+    by mail.recipient.com with ESMTP id A1B2C3D4E5
+    for <user@recipient.com>; Sat, 15 Jul 2023 14:30:00 +0000
+Message-ID: <20230715143000-securebank@secure-bank.com>
+From: "Secure Bank Support" <no-reply@secure-bank.com>
+To: user@recipient.com
+Subject: Urgent Account Password Verification Required
+Date: Sat, 15 Jul 2023 14:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in to your account. Action required immediately:
+- Unusual sign-in detected—verify now
+- Password expires today – reset immediately
+
+Please verify your identity and reset your password to prevent suspension.
+
+Verify here: https://login.security.bank-company.co/account/auth
+Or visit: http://198.51.100.45/verify
+
+Failure to act immediately will result in account suspension.
+
+Regards,
+Secure Bank Support
+https://login.security.bank-company.co
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification Required</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  .button { background-color: #0073e6; color: white; padding: 10px 20px; text-decoration: none; }
+</style>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p style="color:red; font-weight:bold;">Unusual sign-in detected — <a href="http://198.51.100.45/verify">verify now</a></p>
+  <p>Your <strong>password expires today</strong> – <a href="https://login.security.bank-company.co/account/auth">reset immediately</a> to avoid account suspension.</p>
+  <p><a href="http://198.51.100.45/security-update">https://secure.bank.com/login</a></p>
+  <p><a href="http://198.51.100.45/reset"></a></p>
+  <p style="margin-top:30px;"><a href="http://192.0.2.123/help">Help Center</a> | <a href="https://www.bank-company.co/privacy-policy">Privacy Policy</a></p>
+  <p style="color:gray; font-size:0.9em;">If you did not request this, please <a href="http://198.51.100.45/report">click here</a> to report.</p>
+</body>
+</html>
+
+--==BOUNDARY==--

@@ -1,0 +1,47 @@
+From security@secureportal.com Wed Jun 26 14:22:01 2024
+Return-Path: <security@secureportal.com>
+From: "Secure Portal Alerts" <security@secureportal.com>
+Reply-To: "Verification Team" <support@banking-verification.secure.urgent-login.com>
+To: victim@example.com
+Subject: Urgent: Account Password Security Alert
+Date: Wed, 26 Jun 2024 14:22:01 +0000
+Message-ID: <20240626142201.security@secureportal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============5907845788344238978=="
+
+--===============5907845788344238978==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your account has been COMPROMISED due to unauthorized access.
+Please verify your credentials immediately to avoid account suspension.
+
+Visit the link below:
+http://123.45.67.89/verify
+
+For assistance, click here:
+https://secureportal.com/help
+
+--===============5907845788344238978==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Alert</title>
+</head>
+<body>
+<p style="color:red; font-weight:bold;">URGENT: YOUR ACCOUNT WAS COMPROMISED!</p>
+<p>We have detected an <b>unauthorized login attempt</b> on your account.</p>
+<p>To prevent <span style="color:red;">immediate suspension</span>, you MUST verify your password <i>now</i>.</p>
+<p>
+<a href="http://123.45.67.89/verify"><img src="https://secureportal.com/logo.png" alt="Secure Portal"></a>
+</p>
+<p>Please click <a href="http://198.51.100.42/reset">here</a> to <b>update</b> your credentials.</p>
+<p>Or you may <a href="https://secureportal.com/privacy-policy">review our Privacy Policy</a> for more info.</p>
+<p>Failure to comply will result in account deactivation.</p>
+<p><a href="http://secure.portal.login.account-verification.com/update"></a></p>
+</body>
+</html>
+
+--===============5907845788344238978==--

@@ -1,0 +1,53 @@
+From security@company-secure.com Wed Jul 05 14:22:01 2023
+Subject: Urgent: Account Password Security Alert
+From: "Security Team" <security@company-secure.com>
+To: user@victim.org
+Date: Wed, 05 Jul 2023 14:22:01 -0400
+Message-ID: <20230705142201.12345abcdef@company-secure.com>
+Reply-To: support@secure-portal-update.net
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary12345"
+
+----=_Boundary12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. Due to an immediate security breach, your password must be reset urgently to avoid suspension. Please click the link below to verify your account:
+
+https://security.company.com/portal
+
+Or copy and paste the following IP-based URL into your browser:
+
+http://192.168.0.45/secure
+
+Failure to complete this within 24 hours will result in temporary account lock.
+
+Thank you,
+Security Team
+
+Privacy Policy: https://help.security.company.com/privacy
+Help Center: https://help.security.company.com/support
+
+----=_Boundary12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>Urgent Security Alert:</strong> We've detected <span style="color:red;">unauthorized access</span> attempts on your account. To prevent <em>immediate suspension</em>, please verify your password <strong>now</strong>.</p>
+    <p><a href="http://192.168.0.45/secure">Click here</a> to reset your password securely.</p>
+    <p>Alternatively, visit <a href="http://203.0.113.5/verify">https://security.company.com/portal</a> to secure your account.</p>
+    <p>For more details, click <a href="https://secure-portal-update.net/details">here</a>.</p>
+    <p>
+      <a href="https://help.security.company.com/privacy">Privacy Policy</a> |
+      <a href="https://help.security.company.com/support">Help Center</a>
+    </p>
+    <p><img src="http://203.0.113.5/logo.png" alt="Company Logo" /></p>
+    <p>Best Regards,<br />Security Team</p>
+  </body>
+</html>
+
+----=_Boundary12345--

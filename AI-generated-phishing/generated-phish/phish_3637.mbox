@@ -1,0 +1,47 @@
+From phishing@trustedbank.com Mon Feb 14 09:30:00 2022
+Return-Path: <alerts@trustedbank.com>
+Received: from mail.trustedbank.com (mail.trustedbank.com [123.45.67.89])
+    by mail.gateway.net (Postfix) with ESMTP id ABC123DEF
+    for <user@domain.com>; Mon, 14 Feb 2022 09:30:00 +0000 (UTC)
+From: "TrustedBank Security" <security@trustedbank.com>
+Reply-To: "Security Verification" <verify@security-checks.org>
+Subject: URGENT: Account Password Verification Required
+To: user@domain.com
+Date: Mon, 14 Feb 2022 09:30:00 +0000
+Message-ID: <20220214093000.abc123@mail.trustedbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789"
+
+----=_Part_123_456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+Your online banking account is at RISK! We detected unusual activity. To protect your funds, you MUST verify your password within the next 24 hours. Failure to comply will RESULT in SUSPENSION.
+
+Please visit:
+https://www.trustedbank.notice.security/login
+
+For support, visit:
+https://trustedbank.com/privacy-policy
+
+Regards,
+TrustedBank Security Team
+
+----=_Part_123_456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear customer,</p>
+<p style="color:red;"><strong>ALERT:</strong> Your online banking <strong>account</strong> is at <em>urgent</em> risk! Suspicious login attempts were detected. You <u>must</u> <strong>verify</strong> your <strong>password</strong> <span style="color:red;">IMMEDIATELY</span> or access to your funds WILL BE SUSPENDED within 24 hours.</p>
+<p>Please <a href="http://192.168.0.101/secure-check">click here</a> to verify your account credentials.</p>
+<p>Or go to <a href="http://login.securebank.com.verify-service.net/verify">www.securebank.com/login</a> to complete the process.</p>
+<p>For more information, view our <a href="https://www.securebank.com/privacy.policy">privacy policy</a> or <a href="https://help.securebank.com">help center</a>.</p>
+<p><a href="http://203.0.113.5/track"><img src="http://198.51.100.20/images/secure_lock.png" alt="Secure Lock" border="0"></a></p>
+</body>
+</html>
+
+----=_Part_123_456789--

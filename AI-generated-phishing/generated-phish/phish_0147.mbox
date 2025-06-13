@@ -1,0 +1,54 @@
+```
+From - Thu Oct 26 10:23:54 2023
+X-Account-Key: account2
+X-UIDL: UID12345
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <no-reply@alert-service.com>
+Received: from unknown (123.456.789.101) by mail.example.com; Wed, 25 Oct 2023 16:42:54 +0000
+Subject: Action Required: Your Account has Unusual Sign-In Activity
+From: Support Team <no-reply@alert-service.com>
+To: user123@example.com
+Content-Type: multipart/alternative; boundary="0000000000000829f3050785234a"
+MIME-Version: 1.0
+Message-ID: <20231025164254.12345@mail.example.com>
+Date: Wed, 25 Oct 2023 16:42:54 +0000
+
+--0000000000000829f3050785234a
+Content-Type: text/plain; charset="UTF-8"
+
+Dear user,
+
+We have detected unusual sign-in activity on your account. For your safety, please verify your account activity by visiting the following link:
+
+http://203.0.113.47/login
+
+If this is not handled within 48 hours, access to your account may be restricted. 
+
+Best,
+Support Team
+
+--0000000000000829f3050785234a
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected unusual sign-in activity on your account. For your safety, please verify your account activity by clicking the button below:</p>
+    <table>
+      <tr>
+        <td align="center" style="border-radius: 5px;" bgcolor="#ff4500">
+          <a href="http://203.0.113.47/login" target="_blank" style="padding: 10px 20px; font-family: Arial, sans-serif; font-size: 16px; color: #ffffff; text-decoration: none; display: inline-block;">Verify Now</a>
+        </td>
+      </tr>
+    </table>
+    <p>If this is not handled within 48 hours, access to your account may be restricted.</p>
+  
+    <p>For more information, please visit our <a href="http://www.example.com/help">Help Center</a> or read our <a href="http://www.example.com/privacy">Privacy Policy</a>.</p>
+
+    <p>Best,<br>Support Team</p>
+  </body>
+</html>
+
+--0000000000000829f3050785234a--
+```

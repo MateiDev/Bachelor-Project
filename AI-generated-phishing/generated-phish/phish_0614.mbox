@@ -1,0 +1,50 @@
+From refund@irs.gov Thu Mar 25 10:15:30 2021
+From: "IRS Notifications" <refund@irs.gov>
+Reply-To: service@secure-confirmation.com
+To: user@domain.com
+Subject: Urgent: Confirm Your Account Details to Receive Tax Refund
+Date: Thu, 25 Mar 2021 10:15:30 -0400
+Message-ID: <20210325101530.12345@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your 2020 tax return and determined you are eligible for a small refund of $128.00.
+To receive your refund, please confirm your bank account and routing details:
+
+http://www.irs.refund.gov.secure.verify.service
+
+Failure to confirm within 48 hours will delay your refund.
+
+Regards,
+IRS Refund Dept
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Confirm Your Account Details to Receive Tax Refund</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have processed your 2020 tax return and determined you are eligible for a small refund of <strong>$128.00</strong>.</p>
+<p>To receive your refund, please <a href="http://203.0.113.45/confirm">confirm your account</a> by verifying your bank details below:</p>
+<p>
+<a href="http://192.0.2.123/confirm/refund"><img src="http://192.0.2.123/images/irs_logo.png" alt="IRS Logo"></a>
+</p>
+<p>If the link above does not work, copy and paste this URL into your browser:</p>
+<p><a href="http://secure-confirmation.com/secure">http://www.irs.gov.secure.taxrefund.update</a></p>
+<p><em>IMPORTANT:</em> Failure to confirm within 48 hours will delay your password-protected transaction.</p>
+<p>Regards,<br>
+IRS Refund Dept</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

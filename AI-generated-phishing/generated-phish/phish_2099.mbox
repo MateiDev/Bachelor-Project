@@ -1,0 +1,50 @@
+From alerts@trustbank.com Wed Nov  8 10:25:30 2023
+Return-Path: <alerts@trustbank.com>
+From: "TrustBank Alerts" <alerts@trustbank.com>
+Reply-To: security@trustbank-support.net
+To: user@testmail.com
+Subject: URGENT: Action Required - Verify Unusual Sign-in & Reset Password Immediately
+Date: Wed, 08 Nov 2023 10:25:30 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your TrustBank account. Your password expires today – you MUST reset immediately to avoid critical account suspension.
+
+Follow one of the links below to verify now:
+
+https://secure.verify.trustbank.com/login
+http://updates.trustbank-login.com/reset
+https://secure.trustbank.com/reset
+
+Failure to act within 24 hours will result in temporary lockout.
+
+Sincerely,
+TrustBank Security Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>An <b>unusual sign-in detected</b> on your account. Your <b>password expires today</b> – <span style="color:red;">reset immediately</span> to prevent <span style="font-weight:bold;">account suspension</span>.</p>
+    <p>Please verify now:</p>
+    <ul>
+      <li><a href="http://updates.trustbank-login.com/reset">https://secure.trustbank.com/reset</a></li>
+      <li><a href="https://secure.verify.trustbank.com/login"></a></li>
+      <li><a href="http://secure.verify.login.trustbank.com/security-check"></a></li>
+    </ul>
+    <p><span style="color:red;">URGENT:</span> Failure to act within <b>24 hours</b> will lock your account.</p>
+    <p>Sincerely,<br>
+       TrustBank Security</p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

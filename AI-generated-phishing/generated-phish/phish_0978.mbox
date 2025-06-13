@@ -1,0 +1,29 @@
+From phishing@trustedmail.com Sat Jun 29 12:34:56 2024
+Return-Path: <mailer@rewards-alerts.com>
+Received: from mail.rewards-alerts.com (203.0.113.45) by trustedmail.com with ESMTP id ABC123DEF; Sat, 29 Jun 2024 12:34:56 +0000
+From: "Rewards Department" <rewards@rewards-alerts.com>
+Reply-To: <support@secure-update.net>
+To: user@victimcorp.com
+Subject: URGENT: Your €100 Voucher Expires IMMEDIATELY!
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p><strong>ALERT:</strong> Your exclusive €100 reward is vanishing SOON!</p>
+    <p>We detected unusual activity on your account. To avoid permanent loss, <em>ACT NOW</em> and secure your voucher:</p>
+    <p>
+      <a href="http://192.0.2.123/claim?user=XYZ789">
+        https://secure.rewards.europe.com/claim-voucher
+      </a>
+    </p>
+    <p>Alternatively, click the image below to redeem instantly:</p>
+    <p>
+      <a href="http://192.0.2.123/redeem">
+        <img src="http://images.trust.badge/redeem_button.png" alt="Redeem Your Voucher" border="0"/>
+      </a>
+    </p>
+    <p>Need help? Visit <a href="http://198.51.100.77/support">http://helpdesk.rewards.support.com</a> or reply to this email.</p>
+    <p><strong>WARNING:</strong> This link expires in 24 hours!</p>
+  </body>
+</html>

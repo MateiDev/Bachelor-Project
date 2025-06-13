@@ -1,0 +1,48 @@
+From no-reply@irs.gov Sat Jun 01 12:34:56 2024
+Return-Path: <no-reply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.27.74.79]) by victimhost.example.com with ESMTP id ABC123DEF for <victim@example.com>; Sat, 01 Jun 2024 12:34:56 -0500 (CDT)
+Received: by mail.irs.gov id qwerty12345; Sat, 01 Jun 2024 12:34:50 -0500 (CDT)
+Message-ID: <20240601123450.qwerty12345@mail.irs.gov>
+Date: Sat, 01 Jun 2024 12:34:50 -0500
+From: "IRS Tax Department" <no-reply@irs.gov>
+Reply-To: support@secure-tax-update.com
+To: victim@example.com
+Subject: URGENT: Tax Refund Account Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===BOUNDARY==="
+
+--===BOUNDARY===
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We noticed a small refund is waiting in your account. Due to recent security updates, you MUST confirm your bank details immediately to avoid payment delay.
+
+Please visit the following link to confirm:
+https://www.irs.gov/confirmation
+
+Failure to act now may result in your refund being cancelled.
+
+Thank you.
+
+--===BOUNDARY===
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p style="color:red;"><strong>URGENT:</strong> We noticed a small refund is waiting in your <em>account</em>. For your security, you must confirm your <strong>bank details</strong> immediately to avoid payment <span style="color:red;">delay</span>.</p>
+<p>
+<a href="https://secure-update.taxconfirm.com/verify"><img src="https://www.irs.gov/images/confirm_button.png" alt="Confirm Now" /></a>
+</p>
+<p>You can also <a href="https://secure-update.taxconfirm.com/verify">click here</a> to confirm, or go directly to <a href="https://www.irs.gov/confirmation" onclick="location.href='https://secure-update.taxconfirm.com/verify'; return false;">https://www.irs.gov/confirmation</a>.</p>
+<p>Failure to act <em>NOW</em> may result in your refund being <strong>cancelled</strong>.<br/>
+If you have any questions, reply to this email.</p>
+<p>Thank you,<br/>
+IRS Tax Department</p>
+</body>
+</html>
+
+--===BOUNDARY===--

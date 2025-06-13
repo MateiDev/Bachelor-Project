@@ -1,0 +1,33 @@
+```mbox
+From - Mon Oct 9 09:32:14 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <notification@secure-alerts.com>
+Received: from unknown (HELO 203.0.113.45) (203.0.113.45)
+  by mail.example.com with SMTP; Mon, 9 Oct 2023 09:31:00 -0700
+Date: Mon, 9 Oct 2023 09:30:00 -0700
+From: Alert Team <alert@secure-notify.com>
+Reply-To: support@phishy-placeholder.com
+Subject: Urgent: Unusual Sign-In Detected. Verify Your Account Now!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+
+    <p style="color:red;">Immediate Action Required: We detected an <b>unusual sign-in attempt</b> on your account. To secure your information, you must verify your identity now! Please <a href="http://192.0.2.0/verify">click here</a> to confirm your account details, or your access may be restricted.</p>
+    
+    <p>Your <b>password expires today</b>. Reset it immediately to maintain uninterrupted access. Follow this <a href="http://192.0.2.0/reset">link</a> to secure your account.</p>
+
+    <p>If you have any issues, feel free to review our <a href="https://secure-notify.com/help">Help</a> or visit our <a href="https://secure-notify.com/privacy-policy">Privacy Policy</a>.</p>
+
+    <p>Best wishes, <br> Security Team</p>
+
+    <center><a href="http://192.0.2.0/verify"><img src="http://192.0.2.0/images/verify-button.png" alt="Verify Now"></a></center>
+  </body>
+</html>
+```

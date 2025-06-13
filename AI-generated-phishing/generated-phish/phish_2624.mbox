@@ -1,0 +1,55 @@
+```mbox
+From fake-security@securealerts.com Thu Oct 26 11:00:00 2023
+Return-Path: <fake-security@securealerts.com>
+Received: from suspicious.mailserver.com (suspicious.mailserver.com. [192.0.2.1]) 
+    by mailreceiver.example.com with ESMTP id 1234567890 for <victim@example.com>;
+    Thu, 26 Oct 2023 11:00:00 -0700 (PDT)
+Date: Thu, 26 Oct 2023 11:00:00 -0700
+From: "Account Security" <security@alerts.com>
+Reply-To: urgent.security.alerts@mail.com
+Subject: Urgent: Unusual Sign-in Detected on Your Account!
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000b9ea7b060c4d517f"
+    
+--000000000000b9ea7b060c4d517f
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We noticed an unusual sign-in attempt on your account from a new device. Please verify your identity to ensure your account security. 
+
+To keep your account safe, please verify your information immediately:
+http://192.0.2.2/login
+
+Failure to do so will result in temporary suspension of your account.
+
+Additionally, your password is set to expire today. Please reset it immediately to continue using all account features:
+http://192.0.2.2/reset
+
+Thank you for your prompt attention.
+
+Best regards,
+Account Security Team
+
+If you have any questions, please visit our help center or privacy policy directly.
+
+--000000000000b9ea7b060c4d517f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We noticed an unusual sign-in attempt on your account from a new device. Please verify your identity to ensure your account security.</p>
+<p><strong>Click <a href="http://192.0.2.2/login">here</a> to verify your information immediately.</strong></p>
+<p>Failure to do so will result in temporary suspension of your account.</p>
+<p>Additionally, your password is set to expire today. Please reset it immediately to continue using all account features:</p>
+<p><a href="http://192.0.2.2/reset" style="color: blue;"><img src="http://192.0.2.2/images/resetbutton.png" alt="Reset Password"></a></p>
+<p>Thank you for your prompt attention.</p>
+<p>Best regards,<br>Account Security Team</p>
+<p>If you have any questions, please visit our <a href="http://legit-site.com/help">help center</a> or <a href="http://legit-site.com/privacy-policy">privacy policy</a> directly.</p>
+</body>
+</html>
+
+--000000000000b9ea7b060c4d517f--
+```

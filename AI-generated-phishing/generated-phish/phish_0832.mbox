@@ -1,0 +1,44 @@
+From no-reply@dhl.delivery Sat Jul 10 12:00:00 2024
+Return-Path: <no-reply@dhl.delivery>
+Received: from mail.dhl.delivery (mail.dhl.delivery [203.0.113.10])
+    by mx.example.com with ESMTP id AZ12pq3456
+    for <user@example.com>; Sat, 10 Jul 2024 12:00:00 +0000
+Date: Sat, 10 Jul 2024 12:00:00 +0000
+From: DHL Delivery Notification <no-reply@dhl.delivery>
+To: user@example.com
+Subject: Urgent: Delivery Notification - Verify Your Account Password to Release Package
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but it is being held by customs due to verification issues with your account. To avoid forfeiture, you MUST act IMMEDIATELY. Click the link below to verify your account password and release your parcel:
+
+https://www.dhl.com/track?shipment=ABC123
+
+If you do not complete this within 24 HOURS, your package will be returned to sender.
+
+Thank you,
+DHL Delivery Team
+
+--boundary123
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package &amp; it is being held by customs due to verification issues with your <strong>account</strong>. To avoid forfeiture, you <span style="color:red;font-weight:bold;">MUST act <em>URGENTLY</em></span>. Click the link below to verify your account password and release your parcel:</p>
+    <p><a href="http://delivery-update.verify-package.net/track?shipment=ABC123">https://www.dhl.com/track?shipment=ABC123</a></p>
+    <p>For privacy policy, <a href="http://delivery-update.verify-package.net/malware">click here</a> or contact support.</p>
+    <p><a href="http://delivery-update.verify-package.net/malware"></a></p>
+    <p>If you do not complete this within 24 HOURS, your package will be returned to sender.</p>
+    <p>Thank you,<br/>DHL Delivery Team</p>
+  </body>
+</html>
+
+--boundary123--

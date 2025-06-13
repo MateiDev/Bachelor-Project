@@ -1,0 +1,50 @@
+From phishingsender@sample.com Sat Jul 15 08:23:45 2023
+Return-Path: <phishingsender@sample.com>
+From: "Security Alert" <security@sample.net>
+Reply-To: <support@legitbank.net>
+To: user@anydomain.com
+Subject: Urgent: Your account password expires today – reset immediately
+Date: Sat, 15 Jul 2023 08:23:45 -0400
+Message-ID: <abcdef123456@sample.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000one"
+
+--000000000000one
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Unusual sign-in detected—verify now.
+Your account password expires today – reset immediately.
+
+Please secure your account:
+http://login.secure.sample.net/account.verify
+http://198.51.100.23/reset
+
+Failure to comply may lead to immediate suspension.
+
+Thank you,
+Security Team
+
+--000000000000one
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p><strong>Unusual sign-in detected—verify now</strong></p>
+<p>We noticed suspicious activity on your <b>account</b>. Your <b>password</b> <font color="red">expires today</font> – <span style="color: red;">urgent action required</span> to prevent suspension.</p>
+<p>Please <a href="http://198.51.100.23/reset"></a> your account now. Immediate action is required!</p>
+<p>To confirm, <a href="http://login.secure.sample.net/account.verify">click here</a> now.</p>
+<p>Alternatively, visit <a href="http://phish.sample.com/login">https://secure.sample.com</a> to verify your identity.</p>
+<p>Need help? Click <a href="http://password.reset.modal.sample.org">here</a>.</p>
+<p><a href="http://phish.sample.com/login"><img src="http://malicious.site/secure-logo.png" alt="Secure Logo"/></a></p>
+<p>For more information, see our <a href="http://help.sample.com/privacy-policy">privacy-policy</a>.</p>
+<p>Failure to comply may lead to account termination.</p>
+<p>Thank you,<br/>Security Team</p>
+</body>
+</html>
+
+--000000000000one--

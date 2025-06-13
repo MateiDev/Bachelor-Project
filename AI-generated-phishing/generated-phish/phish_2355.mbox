@@ -1,0 +1,25 @@
+From no-reply@dhl.com Sat Jan  1 12:00:00 2024
+Return-Path: <no-reply@dhl.com>
+Received: from mx1.dhl.com (mx1.dhl.com [203.0.113.10]) by mail.dhl.com with ESMTP id 1234567890; Sat, 1 Jan 2024 12:00:00 +0000
+From: "DHL Service" <no-reply@dhl.com>
+Reply-To: "DHL Support" <helpdesk@parceltracker.com>
+To: alice@example.com
+Subject: Urgent Delivery Notification - Action Required
+Date: Sat, 1 Jan 2024 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Urgent Account Notification</title>
+</head>
+<body>
+    <p>Dear Customer,</p>
+    <p>Your package is currently on hold pending clearance of customs fees. To verify your account and arrange immediate release, please <a href="http://192.0.2.123/dhl_alert">here</a>. You can also view tracking details at <a href="http://malicious.example.com/track">https://www.dhl.com/track</a>.</p>
+    <p><a href="http://203.0.113.45/confirm"></a></p>
+    <p>For further assistance, review our <a href="https://www.dhl.com/privacy">privacy policy</a> or <a href="https://www.dhl.com/terms">terms of service</a>.</p>
+    <p>If you have any questions, click <a href="http://phishing-entry.com/support">here</a> to contact support.</p>
+    <p>Thank you for choosing DHL.</p>
+</body>
+</html>

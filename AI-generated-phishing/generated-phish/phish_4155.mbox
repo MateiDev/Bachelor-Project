@@ -1,0 +1,58 @@
+From security@securemail-inc.com Fri Jun 14 12:00:00 2024
+Return-Path: <security@securemail-inc.com>
+Received: from mail.securemail-inc.com (mail.securemail-inc.com [198.51.100.25])
+    by mx.victim.com with ESMTP id ABCDEF123
+    for <user@victim.com>; Fri, 14 Jun 2024 12:00:00 +0000
+Delivered-To: user@victim.com
+From: "Secure Mail Alerts" <security@securemail-inc.com>
+Reply-To: support@secure-portal.com
+Subject: URGENT: Your Secure Mail Access is SUSPENDED
+Date: Fri, 14 Jun 2024 12:00:00 +0000
+Message-ID: <20240614120000.ABCDEF@mail.securemail-inc.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=Part_12345"
+
+--=Part_12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your secure mailbox has been temporarily suspended due to suspicious activity. 
+Urgent action is required to restore access. Failure to verify your identity 
+within 24 hours will result in permanent loss of your messages.
+
+Please verify your account now:
+http://123.45.67.89/verify
+
+Thank you,
+Secure Mail Security Team
+
+--=Part_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <body style="font-family: Arial, sans-serif; color: #333;">
+  <h2 style="color: #d9534f;">SECURITY ALERT</h2>
+  <p>Your secure mailbox has been <strong>suspended</strong> due to <em>suspicious</em> activity.
+     <span style="color: #d9534f;">Immediate action</span> is required to avoid 
+     <strong>permanent loss</strong> of access.</p>
+  <!-- Image-based link -->
+  <p><a href="http://123.45.67.89/verify"><img src="http://198.51.100.25/logo.png" alt="SecureMail Logo" style="border: none;"></a></p>
+  <!-- Non-matching URL anchor -->
+  <p>Click here to login:</p>
+  <p><a href="http://123.45.67.89/login">https://portal.securemail-inc.co.uk/login</a></p>
+  <!-- Generic anchor off modal domain -->
+  <p>Review our privacy policy <a href="http://123.45.67.89/privacy">here</a>.</p>
+  <!-- Empty visible link -->
+  <p><a href="http://123.45.67.89/empty"></a></p>
+  <!-- Multiple dots in URL -->
+  <p>If you need to reset your password, use this link: 
+     <a href="http://123.45.67.89/reset.pw.login.system">Reset Password</a></p>
+  <!-- Help center link (benign-looking) -->
+  <p>For assistance, visit our <a href="http://123.45.67.89/help">help center</a>.</p>
+  <!-- IP-based link in plain URL -->
+  <p><em>Direct link:</em> <a href="http://123.45.67.89">http://123.45.67.89</a></p>
+ </body>
+</html>
+
+--=Part_12345--

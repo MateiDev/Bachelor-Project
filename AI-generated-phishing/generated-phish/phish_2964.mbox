@@ -1,0 +1,55 @@
+```
+From - Thu Oct 26 17:03:22 2023
+Return-Path: <support@dhl-shipping.com>
+Received: from unknown (HELO secure-mail.com) (192.168.1.30)
+        by mail.example.com with SMTP; Thu, 26 Oct 2023 16:03:22 +0000
+Date: Thu, 26 Oct 2023 16:03:22 +0000
+From: DHL Support <support@dhl-shipping.com>
+Subject: Urgent: Action Required for Your Package Delivery
+To: customer123@example.com
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are unable to deliver your package due to an outstanding shipping fee.
+
+Please proceed to verify the address and pay the fee to release your package:
+http://123.45.67.89/trackshipment.
+
+Thank you for your immediate attention.
+
+Best regards,
+DHL Shipping
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We are unable to deliver your package due to an outstanding shipping fee.=
+</p>
+<p>Please proceed to verify the address and pay the fee to release your pack=
+age: <a href=3D"http://123.45.67.89/trackshipment">http://dhl.com/track</a>.
+</p>
+<p>Thank you for your immediate attention.</p>
+
+<p>Best regards,<br>
+DHL Shipping</p>
+
+<p>For more details, visit our help center: <a href=3D"http://www.dhl.com/=
+help">here</a>, <a href=3D"http://www.dhl.com/privacy">privacy policy</a>.
+</p>
+
+<a href="http://123.45.67.89/trackshipment"><img src=3D"cid:image001.jpg" a=
+lt=3D"Track your package"></a>
+
+</body>
+</html>
+--boundary123--
+```

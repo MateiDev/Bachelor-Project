@@ -1,0 +1,60 @@
+From rewards@legit-domain.com Tue Jan 10 12:34:56 2023
+Return-Path: <rewards@legit-domain.com>
+Received: from mail.legit-domain.com (mail.legit-domain.com [198.51.100.23])
+        by recipient.example.com with ESMTP id ABC12345
+        for <victim@example.com>; Tue, 10 Jan 2023 12:34:56 +0100
+Message-ID: <20230110123456.rewards@legit-domain.com>
+Date: Tue, 10 Jan 2023 12:34:56 +0100
+From: "Rewards Team" <rewards@legit-domain.com>
+Reply-To: support@123.45.67.89
+To: victim@example.com
+Subject: Urgent: Claim your €100 Gift Card Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+
+Dear user,
+
+URGENT: Your account has been selected for a €100 reward voucher.
+Claim your gift card now by visiting the link below:
+http://123.123.123.123/redeemVoucher?id=ABC123
+
+If you experience issues, please see our privacy policy:
+https://www.company.com/privacy
+
+Best regards,
+Rewards Team
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head><title>URGENT Password Reset Required</title></head>
+<body>
+<p>Dear valued user,</p>
+<p style="color:red;font-weight:bold;">
+Your account is <u>eligible</u> for a <strong>€100 Gift Voucher</strong>!
+</p>
+<p>
+<a href="http://123.123.123.123/redeemVoucher?id=ABC123">
+  <img src="http://malicious.com/images/voucher_banner.jpg" alt="Claim Voucher" border="0">
+</a>
+</p>
+<p>
+To claim your voucher, <a href="https://modal-domain.com/claim?code=ABC123">click here</a> before it expires!
+</p>
+<p>
+Review our <a href="https://www.company.com/privacy">Privacy Policy</a> |
+<a href="https://www.company.com/help">Help Center</a>
+</p>
+<p>
+Secure your details: <a href="http://phish.com/verify?u=ABC123">https://www.company.com/verify</a>
+</p>
+<p><a href="http://malicious.com/hidden"></a></p>
+<p style="color:red;">Immediate action is required to avoid voucher expiration!</p>
+</body>
+</html>
+
+--BOUNDARY123--

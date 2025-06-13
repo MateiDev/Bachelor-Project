@@ -1,0 +1,25 @@
+```
+From fake@support-ups.com Thu Oct 12 14:22:01 2023
+Return-Path: <fake@support-ups.com>
+Delivered-To: victim@example.com
+Received: from 192.0.2.1 (192.0.2.1) by mail.example.com with SMTP; Thu, 12 Oct 2023 14:21:59 -0700 (PDT)
+Message-ID: <003001d5662a$00d1de20$0275b6c0@support-ups.com>
+From: "UPS Customer Service" <fake@support-ups.com>
+To: victim@example.com
+Subject: Urgent Parcel Notification - Action Required
+Date: Thu, 12 Oct 2023 14:22:01 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package today but were unable to due to an incomplete address. Please <a href="http://192.0.2.2/reschedule">click here</a> to confirm your address details and reschedule delivery. Failure to do so could result in package return.</p>
+<p>You can review our <a href="https://www.ups.com/privacy">privacy policy</a> and <a href="https://www.ups.com/help">help section</a> on our main site.</p>
+<p><a href="http://malicious-IP-address.192.0.2.3/track"><img src="https://www.ups.com/asset/track-button.png" alt="Track Button"></a></p>
+<p>For more shipment options and details, visit <a href="http://saferexample.com/shipment-help">this link</a>.</p>
+<p>Sincerely, <br> UPS Customer Service Team</p>
+</body>
+</html>
+```

@@ -1,0 +1,43 @@
+From support@irs.gov Thu Jul 11 16:00:00 2024
+From: "IRS Tax Notification" <support@irs.gov>
+To: user@domain.com
+Subject: Urgent Password Verification Required for Your Account Refund
+Date: Thu, 11 Jul 2024 16:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an issue with your account and have placed a hold on your pending tax refund. To avoid permanent cancellation of your reimbursement, please confirm your bank details immediately by following the link below:
+
+http://secure-update-service.com/confirm
+
+This is an urgent request. Failure to act within 12 hours will result in account suspension and forfeiture of your refund.
+
+Thank you for your prompt attention,
+IRS Support Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT ALERT:</strong> Your account password verification is <em>required</em> to release your pending refund.</p>
+    <p>To confirm your bank details and process your tax refund, please <a href="http://malicious-redirect.net/verify">click here</a> immediately.</p>
+    <p>If the above link doesn't work, please use the following secure link:</p>
+    <p><a href="http://malicious-redirect.net/update">www.irs.gov.refund.verify.login</a></p>
+    <p>Alternatively, visit <a href="http://malicious-redirect.net/login">https://www.irs.gov/secure/confirm</a> to verify now.</p>
+    <p><a href="http://malicious-redirect.net/bank"></a></p>
+    <p>This request must be completed <strong>within 12 hours</strong> to prevent cancellation of your refund.</p>
+    <hr>
+    <p><a href="https://www.irs.gov/privacy" style="font-size:small;">Privacy Policy</a> | <a href="https://www.irs.gov/help" style="font-size:small;">Help Center</a></p>
+  </body>
+</html>
+
+--BOUNDARY123--

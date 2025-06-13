@@ -1,0 +1,52 @@
+```mbox
+From fake-tax-service@example.org Wed Oct 25 14:23:42 2023
+Return-Path: <fake-tax-service@example.org>
+Received: from [192.168.1.100] (example.org. [192.168.1.100])
+        by mx.google.com with ESMTP id x12si12345678qka.23.2023.10.25.14.23.42
+        for <user@example.com>;
+        Wed, 25 Oct 2023 14:23:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of fake-tax-service@example.org designates 192.168.1.100 as permitted sender) client-ip=192.168.1.100;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@example.org header.s=default header.b=abc123;
+       spf=pass (google.com: domain of fake-tax-service@example.org designates 192.168.1.100 as permitted sender) smtp.mailfrom=fake-tax-service@example.org
+Received: by example.org (Postfix, from userid 123)
+	id ABC123XYZ; Wed, 25 Oct 2023 14:23:42 -0700 (PDT)
+To: user@example.com
+From: "Tax Service" <tax-refunds@example.com>
+Reply-To: urgent@tax-rebates.example.org
+Subject: Urgent: Tax Refund Awaiting Confirmation!
+Date: Wed, 25 Oct 2023 14:23:42 -0700
+Message-ID: <1234567890@example.org>
+Content-Type: multipart/alternative; boundary="001a114f6b3c371a1e0564c0c7b3"
+
+--001a114f6b3c371a1e0564c0c7b3
+Content-Type: text/plain; charset=UTF-8
+
+Attention,
+
+Our system has detected that you're eligible for a tax refund of $250.23! Due to an error processing your bank details, this transaction is on hold. Confirm your details instantly to avoid delays: [Confirm Now](http://192.168.1.200/secure-refund).
+
+Your tax refund will expire if not confirmed within 24 hours. We urge you not to miss this opportunity!
+
+For more information on how your data is handled, read our [Privacy Policy](https://example.com/privacy).
+
+--001a114f6b3c371a1e0564c0c7b3
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Attention,</p>
+<p>Our system has detected that you're eligible for a tax refund of <strong>$250.23</strong>! Due to an error processing your bank details, this transaction is on hold. Confirm your details instantly to avoid delays: <a href="http://192.168.1.200/secure-refund">Confirm Now</a>.</p>
+<p>Your tax refund will expire if not confirmed within <strong>24 hours</strong>. We urge you not to miss this opportunity!</p>
+<p>For more information on how your data is handled, read our <a href="https://example.com/privacy">Privacy Policy</a>.</p>
+<p><a href="http://www.example.org/image-link"><img src="http://www.example.org/image.jpg" alt="Tax Refund Image" /></a></p>
+<p><a href=""></a></p>
+<p><a href="http://mismatched-url.com/help">Help</a> <a href="http://different-url.com/contact">Contact Us</a></p>
+</body>
+</html>
+
+--001a114f6b3c371a1e0564c0c7b3--
+```

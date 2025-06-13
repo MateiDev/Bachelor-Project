@@ -1,0 +1,55 @@
+From support@helpfulbank.com Fri Jul  1 12:00:00 2024
+Return-Path: <support@helpfulbank.com>
+Received: from mail.helpfulbank.com (mail.helpfulbank.com [203.0.113.5])
+    by mx.gmail.com with ESMTP id x7si1234567qkf.23.2024.07.01.12.00.00
+    for <user@example.com>; Fri, 01 Jul 2024 12:00:00 -0700 (PDT)
+Date: Fri, 1 Jul 2024 15:00:00 -0400
+From: "Helpful Bank Security" <support@helpfulbank.com>
+Reply-To: "Security Team" <security@alerts-helpfulbank.net>
+To: user@example.com
+Subject: Urgent Action Required: Unusual Sign-in Detected – Verify Now
+Message-ID: <20240701150000.abc123@mail.helpfulbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_abcdef"
+
+------=_Part_12345_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account from a new device. 
+Your password is set to expire today – reset immediately to avoid being locked out.
+
+Please verify your account within 24 hours to prevent any access failure. 
+Use one of the secure links below:
+
+1. https://secure.login.verify.bank.com/account/verify
+2. http://192.168.1.100/reset?token=ZXCVBNM123
+
+Failure to act now will result in your account being temporarily suspended.
+
+Thank you for your prompt attention.
+
+Helpful Bank Security Team
+
+------=_Part_12345_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Urgent Action Required:</strong> Unusual sign-in detected on your account.</p>
+    <p>Your password expires today – <em>reset immediately</em> to avoid being <strong>locked</strong> out.</p>
+    <p>Please verify now using one of the secure links below:</p>
+    <ul>
+      <li><a href="https://secure.login.verify.bank.com/account/verify"></a></li>
+      <li><a href="https://update.security.alert.bank.com/verify">Click here to verify</a></li>
+      <li><a href="http://192.168.1.100/reset?token=ZXCVBNM123"></a></li>
+    </ul>
+    <p style="font-weight:bold;">If you fail to act within 24 hours, your account will be suspended.</p>
+    <p>Helpful Bank Security Team</p>
+  </body>
+</html>
+------=_Part_12345_abcdef--

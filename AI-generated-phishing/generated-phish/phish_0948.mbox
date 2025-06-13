@@ -1,0 +1,50 @@
+From voucher@prize-rewards.com Wed Feb 21 10:12:45 2024
+Return-Path: <voucher@prize-rewards.com>
+Received: from mail.prize-rewards.com (mail.prize-rewards.com [198.51.100.25])
+    by mx1.domain.com with ESMTP id ABC123;
+    Wed, 21 Feb 2024 10:12:45 +0000 (UTC)
+Reply-To: support@helpdesk-secure.net
+From: "Euro Rewards Team" <voucher@prize-rewards.com>
+To: user@domain.com
+Subject: Claim Your Exclusive €100 Gift Voucher Today!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_0_123456.167696(69)"
+
+----=_Part_0_123456.167696(69)
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been selected to receive an exclusive €100 gift voucher.
+Please visit the following link to claim your reward:
+
+http://192.0.2.123/claim-voucher/?id=ABC123
+
+Best regards,
+Euro Rewards Team
+
+----=_Part_0_123456.167696(69)
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You have been selected to receive an exclusive <strong>€100 gift voucher</strong>.<br/>
+    Please click the button below to claim your reward:</p>
+    <p>
+      <a href="http://203.0.113.5/verify">
+        <img src="http://203.0.113.5/images/voucher_banner.jpg" alt="Click here to claim your voucher" style="border: none;" />
+      </a>
+    </p>
+    <p>Or use this link if the image does not load:<br/>
+       <a href="http://192.0.2.123/secure.claim.giftvoucher/?id=ABC123">https://rewards.prize-services.com/claim</a>
+    </p>
+    <p>Offer valid for a limited time only.</p>
+    <p>Best regards,<br/>Euro Rewards Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.167696(69)--

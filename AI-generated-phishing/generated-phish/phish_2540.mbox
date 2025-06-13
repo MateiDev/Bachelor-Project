@@ -1,0 +1,62 @@
+```
+From - Thu Oct 19 14:58:55 2023
+X-Account-Key: account2
+X-UIDL: UID12345
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <noreply-security@securecheck.fake>
+Received: from mail.fakecompany.com (mail.fakecompany.com. [192.0.2.10])
+        by mx.google.com with ESMTP id r123-v6si123456qkb.171.2023.10.19.14.58.55
+        for <user@example.com>;
+        Thu, 19 Oct 2023 14:58:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply-security@securecheck.fake designates 192.0.2.10 as permitted sender) client-ip=192.0.2.10;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply-security@securecheck.fake designates 192.0.2.10 as permitted sender) smtp.mailfrom=noreply-security@securecheck.fake
+Received: by mail.fakecompany.com with SMTP id 1234abcd4321
+        Thu, 19 Oct 2023 14:58:00 -0700 (PDT)
+Date: Thu, 19 Oct 2023 14:58:00 -0700
+From: "Security Alert" <noreply-security@securecheck.fake>
+Reply-To: urgent-support@fakesecurity.com
+Subject: Urgent: Unusual Sign-In Detected! Verify Now!
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--=_Part_12456_123456789.1601234567890"
+
+----=_Part_12456_123456789.1601234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We've noticed unusual sign-in activity on your account.
+
+Immediate action is required to secure your account.
+
+Verify and update your password today here: http://secure.example-check.com.account-update.security-phish.com/login
+
+Best Regards,
+Account Security Team
+
+----=_Part_12456_123456789.1601234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We've noticed <strong>unusual sign-in activity</strong> on your account.</p>
+<p>Immediate action is required to secure your account.</p>
+<p><a href=3D"http://secure.example-check.com.account-update.security-phish.=
+com/login">
+<img src=3D"http://images.security-phish.com/secure_login.jpg" alt=3D"Secu=
+re Login"></a></p>
+<p><a href=3D"http://secure.contact.security.com">Click here</a> to verify=
+ and update your password today.</p>
+<p>Best Regards,<br>
+Account Security Team</p>
+</body>
+</html>
+----=_Part_12456_123456789.1601234567890--
+```

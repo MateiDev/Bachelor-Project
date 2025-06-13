@@ -1,0 +1,24 @@
+From portal-security@company.com Sat Jul 27 10:15:00 2024
+From: "Portal Security Team" <portal-security@company.com>
+To: user@victim.com
+Subject: URGENT: Encrypted Secure-Mail Delivery Failed
+Date: Sat, 27 Jul 2024 10:15:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear user,</p>
+<p><strong>URGENT:</strong> Your <em>Encrypted Secure-Mail</em> delivery has <strong>FAILED</strong> due to suspicious activity.</p>
+<p>Your account has been locked after multiple unauthorized login attempts. You MUST verify your credentials within 24 hours to avoid permanent suspension.</p>
+<p>Please click the link below to secure your mailbox:</p>
+<p><a href="http://192.168.0.50/secure/login.php">https://secure.portal-login.company.com/</a></p>
+<p>Or use the image-based access link below:</p>
+<p><a href="http://203.0.113.45/verify"><img src="https://company-assets.com/secure_mail.png" alt="Secure Mail Portal"></a></p>
+<p>If the above links fail, copy and paste the URL below into your browser:</p>
+<p><a href="http://phishing-update.net/update?session=xyz"></a>https://portal.company.com/update?session=xyz</p>
+<p>Failure to act within the next 24 HOURS will result in immediate LOCKOUT of your account.</p>
+<p>Thank you,<br>
+Portal Security Team</p>
+</body>
+</html>

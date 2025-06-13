@@ -1,0 +1,44 @@
+From tracking@dhl.com Fri Jul 30 14:00:00 2021
+From: "DHL Express" <tracking@dhl.com>
+To: victim.user@example.org
+Subject: Urgent: Account Verification & Delivery Alert
+Date: Fri, 30 Jul 2021 14:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZboundary"
+
+--XYZboundary
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+URGENT NOTICE: Your package delivery is on HOLD due to an ACCOUNT issue.
+Please verify your information immediately to avoid shipment cancellation.
+
+Visit the link below to resolve the problem:
+http://ups-parcel.delivery-status.com/confirm
+
+Failure to act within 24 hours will result in package return.
+
+Best regards,
+DHL Express Delivery Team
+
+--XYZboundary
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;"><strong>FINAL NOTICE:</strong> Your shipment is <em>on hold</em> due to an <strong>account</strong> verification failure.</p>
+<p>Please <a href="http://198.51.100.23/confirm">http://ups-parcel.delivery-status.com/confirm</a> to update your details immediately.</p>
+<p>If you do not comply within <strong>24 hours</strong>, DHL will <u>cancel</u> the delivery and charge a <strong>fee</strong>.</p>
+<p>Alternatively, click here to release your package:<br/>
+<a href="http://192.0.2.50/release-package" style="display:block; width:0; height:0;"></a>
+</p>
+<p>Thank you for your prompt attention.</p>
+<p><em>DHL Express</em></p>
+</body>
+</html>
+
+--XYZboundary--

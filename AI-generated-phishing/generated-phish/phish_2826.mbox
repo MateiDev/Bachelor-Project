@@ -1,0 +1,57 @@
+```mbox
+From phishingexample@delivery-urgent.com Thu Oct  5 14:28:05 2023
+Return-Path: <phishingexample@delivery-urgent.com>
+Received: from mail.delivery-urgent.com (mail.delivery-urgent.com. [192.168.1.100])
+        by mx.google.com with ESMTP id a125si789qwe.23.2023.10.05
+        for <user@example.com>;
+        Thu, 05 Oct 2023 14:28:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of phishingexample@delivery-urgent.com designates 192.168.1.100 as permitted sender) client-ip=192.168.1.100;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@delivery-urgent.com header.s=2023a header.b=T5iD/Kia;
+       spf=pass (google.com: domain of phishingexample@delivery-urgent.com designates 192.168.1.100 as permitted sender) smtp.mailfrom=phishingexample@delivery-urgent.com;
+       dmarc=pass (p=REJECT sp=NONE dis=NONE) header.from=delivery-urgent.com
+Reply-To: support@parceldeliveries.com
+From: "DHL Support" <phishingexample@delivery-urgent.com>
+Date: Thu, 5 Oct 2023 14:28:05 -0700
+Message-ID: <00123abcd890$12345670$d8fd1456$@delivery-urgent.com>
+Subject: URGENT Parcel Delivery Notice - Action Required Immediately
+To: user@example.com
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_0001_01D8ECFF.12C075E0"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_001_0001_01D8ECFF.12C075E0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is on hold due to an incomplete delivery address. Please update your address or your parcel will be returned to sender. Act now to avoid suspension.
+
+Update here: [URGENT ACTION REQUIRED]
+
+Thank you,
+DHL Customer Service
+
+------=_NextPart_001_0001_01D8ECFF.12C075E0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head></head>
+<body>
+<p>Dear Customer,</p>
+<p>Your package is <b>on hold</b> due to an incomplete delivery address. Please update your address <u>immediately</u> or your parcel will be returned to sender. <b>Act now</b> to avoid suspension.</p>
+
+<p><a href="http://track.update-package.com.cust-support.com/redirect.php"><img src="http://delivery-urgent.com/images/update.png" alt="Update Now"/></a></p>
+
+<p>Update here: <a href="http://track.update-package.com.cust-support.com/redirect.php"></a></p>
+
+<p>Thank you,<br>DHL Customer Service</p>
+
+<p><a href="https://www.dhl.com/en/privacy-policy.html">Privacy Policy</a> | <a href="https://www.dhl.com/en/help-center.html">Help Center</a></p>
+</body>
+</html>
+
+------=_NextPart_001_0001_01D8ECFF.12C075E0--
+```

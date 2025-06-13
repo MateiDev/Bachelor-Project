@@ -1,0 +1,46 @@
+From security-alerts@portal-secure.com Fri Mar 10 07:22:05 2023
+Return-Path: <security-alerts@portal-secure.com>
+Received: from mail.portal-secure.com (mail.portal-secure.com [198.51.100.10]) by mx.victim.com with ESMTP id ABC123 for <user@victim.com>; Fri, 10 Mar 2023 07:22:05 -0800 (PST)
+Subject: URGENT: Account Password Reset Required
+From: Portal Security <security-alerts@portal-secure.com>
+Reply-To: support@secure-portal-update.com
+To: user@victim.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0001_ABCDEF"
+
+------=_Part_0001_ABCDEF
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+Your account has been temporarily locked due to unusual login activity.
+To restore access, please visit the link below immediately:
+http://192.0.2.123/verify-session?id=8f3c
+Failure to act within 24 hours will result in permanent suspension.
+Thank you,
+Portal Security Team
+
+------=_Part_0001_ABCDEF
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: Account Password Reset Required</title></head>
+<body style="font-family: Arial, sans-serif;">
+<img src="http://192.0.2.123/alert.png" alt="Security Alert" width="600" /><br>
+<h2 style="color: #c00;">Immediate Action Required</h2>
+<p>Dear Customer,</p>
+<p>Your <strong>account</strong> has been <span style="color:red;">SECURELY LOCKED</span> due to suspicious activity detected on your secure-mail portal.</p>
+<p>Please <a href="http://192.0.2.123/securemail/login.portal-secure.com?session=8f3c" style="color: #0366d6; font-weight: bold;">click here</a> to verify your credentials and reset your password immediately. Failure to do so within <strong>24 hours</strong> will result in permanent suspension of your account.</p>
+<p>For more information, click <a href="http://secureportal-modal.com/info">here</a>.</p>
+<p>
+<a href="http://help.portal-secure.com/support/faq.html">Help Center</a> |
+<a href="http://privacy.portal.com/privacy.policy">Privacy Policy</a>
+</p>
+<p><a href="http://203.0.113.45/track"><img src="http://192.0.2.123/track.png" alt="" /></a></p>
+<p><a href="http://45.33.32.156/reset"></a></p>
+<p>Regards,<br>Portal Security Team</p>
+</body>
+</html>
+
+------=_Part_0001_ABCDEF--

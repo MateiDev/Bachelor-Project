@@ -1,0 +1,45 @@
+```
+From - Tue Aug 29 19:34:00 2023
+Return-Path: <noreply@tax-services.com>
+Received: from 203.0.113.1 (localhost [127.0.0.1])
+	by mx.example.com (Postfix) with ESMTP id A1B2C3D4E5
+	for <user@example.com>; Tue, 29 Aug 2023 19:34:00 +0000 (UTC)
+Message-ID: <1234567890@example.com>
+Date: Tue, 29 Aug 2023 19:33:50 +0000
+From: Internal Revenue Service <noreply@tax-services.com>
+Subject: URGENT: Confirm your REFUND account details now!
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-example-123456"
+
+--boundary-example-123456
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer,
+
+We have processed your recent tax return and have determined that you are eligible for a REFUND. Our records indicate a REFUND amount of $485.63 is pending. To ensure this refund is directed to the correct account, please CONFIRM your bank details immediately by following the link below:
+
+http://192.0.2.1/cgi-bin/bank-confirm
+http://192.0.2.1/secure/refund-check
+
+Failure to confirm your account details within 48 hours will result in a delay of processing your REFUND. Please act NOW to avoid any issues.
+
+Sincerely,
+Internal Revenue Service
+
+--boundary-example-123456
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We have processed your recent tax return and have determined that you are eligible for a REFUND. Our records indicate a REFUND amount of $485.63 is pending. To ensure this refund is directed to the correct account, please <strong>CONFIRM your bank details immediately</strong> by following the link below:</p>
+    <p><a href="http://192.0.2.1/cgi-bin/bank-confirm"></a></p>
+    <p><a href="http://192.0.2.1/secure/refund-check"></a></p>
+    <p>Failure to confirm your account details within <strong>48 hours</strong> will result in a delay of processing your REFUND. Please act <strong>NOW</strong> to avoid any issues.</p>
+    <p>Sincerely,<br>Internal Revenue Service</p>
+  </body>
+</html>
+
+--boundary-example-123456--
+```

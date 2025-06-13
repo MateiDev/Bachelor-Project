@@ -1,0 +1,54 @@
+```mbox
+From user1@example.com Thu Oct 12 18:53:19 2023
+X-Attached: false
+X-Originally-To: victim@example.com
+Delivered-To: victim@example.com
+Received: by 2002:a05:6820:13b6:b0:18a5:2d05:cda4 with SMTP id t67csp2350847oig;
+        Thu, 12 Oct 2023 18:53:19 -0700 (PDT)
+X-Google-Smtp-Source: APB
+X-Received: by 2002:a17:14b:995f with SMTP id z92mr21452982ybc.16.1697155999012;
+        Thu, 12 Oct 2023 18:53:19 -0700 (PDT)
+Return-Path: <user1@example.com>
+Received: from mail.example.com (example.com. [192.168.1.101])
+        by mx.google.com with ESMTPS id u6si876381qki.138.2023.10.12.18.53.18
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Thu, 12 Oct 2023 18:53:19 -0700 (PDT)
+Message-ID: <002101378d0c$01c60c20$60524070$@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_21_21236194.1697155999256"
+Subject: Urgent: Package Delivery Notification
+Date: Fri, 13 Oct 2023 01:53:19 +0000
+To: victim@example.com
+Reply-To: replies@example.com
+From: "DHL Express" <delivery@dhl-support.com>
+
+------=_Part_21_21236194.1697155999256
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today, but were unable. It is urgent that you provide the necessary information to reschedule delivery.
+
+Please click here: http://123.45.67.89/delivery-form for more details.
+
+Thank you,
+DHL Express
+
+------=_Part_21_21236194.1697155999256
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package today, but were unable. It is urgent that you provide the necessary information to reschedule delivery.</p>
+    <p>Please click <a href="http://123.45.67.89/delivery-form">here</a> for more details.</p>
+    <img src="http://192.168.1.101/logo.png" alt="DHL Logo"/>
+  </body>
+</html>
+
+------=_Part_21_21236194.1697155999256--
+```

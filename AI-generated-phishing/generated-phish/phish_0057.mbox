@@ -1,0 +1,38 @@
+```
+From nobody Wed Oct 25 16:37:20 2023
+Return-Path: <spoofedservice@security-alert.com>
+Received: from mail.security-alert.com (192.0.2.15)
+Date: Wed, 25 Oct 2023 16:37:20 +0000
+From: "Support Team" <support@bank.com>
+To: user@domain.com
+Subject: Urgent: Verify Your Account Immediately!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_78901234.1617759352130"
+
+------=_Part_123456_78901234.1617759352130
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity in your account. To avoid suspension, please verify your information now: http://192.0.2.25/login. 
+
+Thank you,
+Bank Security Team
+
+------=_Part_123456_78901234.1617759352130
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected suspicious activity in your account. To avoid suspension, please <strong>verify your information now</strong> by clicking the secure link below:</p>
+<p><a href="http://192.0.2.25/login"><img src="http://192.0.2.25/images/secure-login.png" alt="Secure Login" /></a></p>
+<p>For more information, please refer to our <a href="http://www.bank.com/privacy">Privacy Policy</a> and <a href="http://www.bank.com/help">Help Center</a>.</p>
+<p>Thank you,<br/>Bank Security Team</p>
+</body>
+</html>
+------=_Part_123456_78901234.1617759352130--
+```

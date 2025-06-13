@@ -1,0 +1,48 @@
+From - Wed Oct 25 14:28:10 2023
+Return-Path: <delivery-notification@package-tracker.com>
+Received: from mail.package-tracker.com (mail.package-tracker.com. [192.0.2.123])
+        by mx.google.com with ESMTPS id y12si3514576qkb.511.2023.10.25.14.28.09
+        for <victim@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 25 Oct 2023 14:28:09 -0700 (PDT)
+Message-ID: <1298998546.4512@mail.package-tracker.com>
+Date: Wed, 25 Oct 2023 14:28:09 -0700 (PDT)
+From: "DHL Support" <delivery-notification@package-tracker.com>
+Reply-To: "DHL Support" <help@package-tracker.com>
+To: victim@example.com
+Subject: Urgent: Immediate Action Required to Release Your Package
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="b1_7023d1b504f0261ae623f21f359c"
+
+--b1_7023d1b504f0261ae623f21f359c
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is on hold. Please follow the instructions in this email to release it immediately. 
+
+Best Regards,
+DHL Support Team
+
+--b1_7023d1b504f0261ae623f21f359c
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Shipping Notice - Urgent Action Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your parcel has been held due to incomplete shipping fees. To avoid return, confirm your delivery address and pay the outstanding fee.</p>
+<p><a href="http://package-tracker.com.yourdeliveryinfo.update-account-support.com" style="color:#FF0000;"><img src="http://example.com/image.png" alt="Release Package" style="width:200px;height:50px;"></a></p>
+<p>To review your shipment status, follow this link: <a href="http://review.yourparcel-updates.com">http://dhl.com/track</a>.</p>
+<p><a href="http://points.verify.yourdeliveryinfo.current-account.info"></a></p>
+<p>Best Regards,<br>
+DHL Support Team</p>
+</body>
+</html>
+
+--b1_7023d1b504f0261ae623f21f359c--

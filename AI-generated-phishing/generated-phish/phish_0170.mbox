@@ -1,0 +1,50 @@
+```mbox
+From phishing@example.com Mon Oct 16 22:14:05 2023
+Date: Mon, 16 Oct 2023 22:14:05 +0000
+From: DHL Notification <delivery@dhl-notification.com>
+To: user@example.com
+Subject: Urgent: Action Required on Your Pending DHL Package Delivery
+
+Content-Type: multipart/alternative; boundary="0000000000009a7aa405690d3e10"
+
+--0000000000009a7aa405690d3e10
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your DHL package is on hold due to an incomplete shipping fee. Act now to release your package and prevent delays.
+
+Follow this link immediately: http://dhl-shipping-updates.com/release
+
+Thank you,
+DHL Customer Service
+
+--0000000000009a7aa405690d3e10
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+  <style>
+    .button {
+      display: inline-block;
+      background-color: #1c87c9;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>Your <strong>DHL</strong> package is on hold due to an <span style="color:red;">incomplete shipping fee</span>. <strong>Act now</strong> to release your package and prevent delays.</p>
+  <p style="color:red;">This delivery needs immediate attention to avoid <strong>penalties</strong>.</p>
+  <p>Follow this link <a href="http://dhl-shipping-updates.com/release" class="button">Release Package</a> immediately.</p>
+  <p>Alternatively, visit our official site <a href="http://dhl-official-communication.com"></a>.</p>
+  <a href="http://maliciouslink.com"><img src="http://dhl-fake-image.com/dhl.png" alt="DHL logo"></a>
+  <p>Thank you,<br>
+  DHL Customer Service</p>
+</body>
+</html>
+
+--0000000000009a7aa405690d3e10--
+```

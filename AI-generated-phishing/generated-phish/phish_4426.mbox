@@ -1,0 +1,51 @@
+From no-reply@secure.tax.gov Fri Jul 19 13:45:29 2024
+Return-Path: <no-reply@secure.tax.gov>
+From: "Tax Department" <no-reply@secure.tax.gov>
+Reply-To: support@taxgov-update.net
+To: customer@domain.net
+Subject: Urgent: Tax Refund Account Confirmation Needed
+Date: Fri, 19 Jul 2024 13:45:29 +0000
+Message-ID: <20240719134529.no-reply@secure.tax.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_01D8"
+
+------=_Part_000_01D8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Your tax refund payment of $121.34 is currently pending due to unverified bank account details. To avoid immediate forfeiture of your refund, you must confirm your information within 24 hours.
+
+Confirm your bank details now:
+- https://secure.tax.gov.refund.org/verification
+- http://54.213.42.187/verify
+
+If you do not act immediately, your account may be suspended and legal action could be taken.
+
+Need help? Visit https://help.tax.gov.refund.org or contact us.
+
+Thank you,
+Tax Department
+support@secure.tax.gov
+
+------=_Part_000_01D8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Your tax refund of <strong>$121.34</strong> is <span style="color:red;">pending</span> in your account. To avoid <span style="font-weight:bold;color:red;">immediate cancellation</span>, you must confirm your bank details <em>within 24 hours</em>:</p>
+    <ol>
+      <li><a href="http://203.0.113.5/confirm">click here</a> to confirm your bank information.</li>
+      <li><a href="http://192.0.2.123/verification">https://secure.tax.gov.refund.org/verification</a></li>
+      <li>Alternative link: <a href="http://54.213.42.187/verify">https://help.tax.gov.refund.org</a></li>
+    </ol>
+    <p><a href="http://54.213.42.187/confirm"><img src="http://203.0.113.5/logo.png" alt="Tax Department Logo" border="0"></a></p>
+    <p>Need assistance? Visit our <a href="http://203.0.113.5/privacy-policy">privacy-policy</a> or <a href="http://203.0.113.5/support">help</a> pages.</p>
+    <p><strong>Failure to act will result in account suspension and possible legal action.</strong></p>
+  </body>
+</html>
+
+------=_Part_000_01D8--

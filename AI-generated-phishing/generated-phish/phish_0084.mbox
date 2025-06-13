@@ -1,0 +1,78 @@
+```
+From - Mon Oct 16 09:00:00 2023
+X-GM-THRID: 1600000000xxxxxxx
+X-Gmail-Labels: Important
+X-Gmail-Message-ID: 1600000000000000000
+X-Gmail-Thread-Id: 1600000000xxxxxxx
+Delivered-To: victim@example.com
+Received: by 2002:a05:652d:0:0:0:0:0 with SMTP id a13csp339993yll;
+        Mon, 16 Oct 2023 09:00:00 -0700 (PDT)
+X-Received: by 2002:a05:7001:15b5:b0:4f:721d:5b20 with SMTP id s21-20020a056f001b5b00b004f721d5b20mr5747381ywm.17.1697481600000;
+        Mon, 16 Oct 2023 09:00:00 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1697481600; cv=none;
+        d=mx.gmail.com; s=arc-20160816;
+        b=da5Fk6EF7ahptKbhgh5Q+u/buyYYJk/ZDENGEoSFtwdUe+lOj5Vyz5g==
+ARC-Message-Signature: i=1; a=rsa-sha256; t=1697481600;
+        cv=none; d=mx.gmail.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:arc-authentication-results;
+        bh=mARZmhgCr6pZhIAzRQb+NmQmAKw=;
+        b=lqW4QkT9Sz3/A0wGzVfNyu85OEZqW3ZCpNc8PHHT4f3AFCXBNbpl==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@domain.com header.s=selector1 header.b=PZpzQf07;
+       spf=pass (google.com: domain of sender@example.com designates 123.45.67.89 as permitted sender) smtp.mailfrom=sender@example.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=domain.com
+Return-Path: <sender@example.com>
+Received: from mail.example.com (123.45.67.89)
+        by mx.google.com with ESMTPS id v13si1234560ywe.292.2023.10.16.09.00.00
+        for <victim@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256);
+        Mon, 16 Oct 2023 09:00:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of sender@example.com designates 123.45.67.89 as permitted sender) client-ip=123.45.67.89;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@domain.com header.s=selector1 header.b=PZpzQf07;
+       spf=pass (google.com: domain of sender@example.com designates 123.45.67.89 as permitted sender) smtp.mailfrom=sender@example.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=domain.com
+Received: from localhost (localhost [127.0.0.1])
+        by mail.example.com (Postfix) with ESMTP id A5F1D200000;
+        Mon, 16 Oct 2023 12:00:00 -0400 (EDT)
+MIME-Version: 1.0
+From: Tax Department <sender@example.com>
+Date: Mon, 16 Oct 2023 12:00:00 -0400
+Message-ID: <0000a073f296$7b1a2000$345de000$@domain.com>
+Subject: URGENT: Tax Refund Notification 
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="0000000000009fab7c05f1d20e0b"
+
+--0000000000009fab7c05f1d20e0b
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+Our records indicate that you are eligible for a tax refund. To initiate the refund process, please verify your banking details by following the secure link below. Failure to do so may result in the loss of your refund.
+
+Do not ignore this message, urgent action is required to ensure your refund.
+
+Please <a href="http://192.168.1.1/refund">click here</a> to confirm your details.
+
+Thank you.
+
+Tax Department
+
+--0000000000009fab7c05f1d20e0b
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records indicate that you are eligible for a tax refund. To initiate the refund process, please verify your banking details by following the secure link below.</p>
+    <p>Failure to do so may result in the loss of your refund.</p>
+    <p>Do not ignore this message, urgent action is required to ensure your refund.</p>
+    <p>Please <a href="http://192.168.1.1/refund">click here</a> to confirm your details.</p>
+    <p>Thank you.</p>
+    <p>Tax Department</p>
+  </body>
+</html>
+
+--0000000000009fab7c05f1d20e0b--
+```

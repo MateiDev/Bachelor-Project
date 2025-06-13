@@ -1,0 +1,35 @@
+From security@portal-company.com Sat Jan  1 12:00:00 2023
+From: "Security Notification" <security@portal-company.com>
+Reply-To: helpdesk@company-supports.com
+To: user@victimcorp.com
+Subject: URGENT: Password Verification Required for Your Corporate Account
+Date: Wed, 27 Sep 2023 14:05:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <b>unauthorized attempts</b> to access your corporate <i>account</i>. Immediate action is required to prevent account suspension.</p>
+    <p>Please verify your credentials now by clicking the secure link below:</p>
+    <p>
+      <a href="https://secure.portal-login.company-update.com/verify" title="Account Verification">
+        <img src="https://cdn.phish-images.net/lock-icon.png" alt="Secure Lock" style="border:0;">
+      </a>
+    </p>
+    <p>If the image does not load, click here: 
+       <a href="https://secure.portal-login.company-update.com/verify">https://secure.portal-login.company-update.com/verify</a>
+    </p>
+    <p>Alternatively, use the emergency reset portal:</p>
+    <p>
+      <a href="https://account-verification.corp-secure-login.io/reset" title="Password Reset"></a>
+    </p>
+    <p>Or copy and paste this URL into your browser:</p>
+    <p>http://login.company-dashboard.www-secure.com/view</p>
+    <p>This is a <b>critical</b> security measure. Failure to verify within 24 hours will result in automatic lockout.</p>
+    <p>Regards,<br>
+       Security Team<br>
+       Corporate Portal Services
+    </p>
+  </body>
+</html>

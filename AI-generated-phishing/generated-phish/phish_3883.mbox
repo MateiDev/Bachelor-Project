@@ -1,0 +1,46 @@
+From MAILER-DAEMON Wed Sep  1 12:34:56 2021
+Return-Path: <mailer-daemon@testbank.com>
+Received: by mail.testbank.com id abcd123; Wed, 1 Sep 2021 12:34:56 +0000
+From: Test Bank Support <support@testbank.com>
+To: user@domain.com
+Reply-To: support@helpdesk.global
+Subject: URGENT: Account Password Alert – Voucher Inside!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1000000"
+
+----=_Part_123456_789012345.1000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your account. As a valued client, you are eligible for a €50 voucher. Please visit the following link to claim your reward immediately:
+
+www.voucher-claim.com
+
+If you do not claim your voucher within 24 hours, this offer will expire.
+
+For more information, visit our help page: https://privacy-policy.testbank.com/help
+
+Best regards,
+Test Bank Support Team
+
+----=_Part_123456_789012345.1000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected <strong>unauthorized access</strong> attempts on your account! This is an <span style="color:red;">URGENT</span> security alert.</p>
+<p>You are now <strong>eligible</strong> for a <em>€50 Voucher</em>—<a href="http://malicious.voucher.claim.us/secure/claim">claim here</a> <a href="http://malicious.voucher.claim.us/secure/claim"><img src="http://cdn.testbank.com/images/voucher.png" alt="voucher" width="100" height="50"></a></p>
+<p>Or copy paste this link into your browser: <a href="http://secure.voucher-test.bank/claim">www.voucher-claim.com</a></p>
+<p><a href="http://privacy.policy.testbank.com">Privacy Policy</a> | <a href="https://help.testbank.com">Help Center</a></p>
+<p><a href="http://malicious.voucher.claim.us/secure/claim"></a></p>
+<p>Please <strong>act now</strong>! Your voucher will expire in less than 24 hours.</p>
+<p>Best regards,<br>
+Test Bank Security Team</p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1000000--

@@ -1,0 +1,49 @@
+```mbox
+From phisherscam@secure-mail.net Fri Oct 13 09:43:14 2023
+Date: Fri, 13 Oct 2023 09:43:14 +0000
+From: "Service Support" <no-reply@secure-mail.net>
+Subject: Urgent: Action Required - Verify Your Account Now!
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been temporarily suspended due to suspicious activities. Please verify your account immediately to avoid permanent suspension.
+
+Click here to verify: http://secure-login.examplesinc.com/verify
+
+Thank you,
+Support Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity on your account, leading to a temporary suspension. Please <strong>verify your account</strong> within the next 24 hours to prevent permanent closure.</p>
+    <p>
+      <a href="http://secure-login.examplesinc.com/verify" style="text-decoration:none;">
+        <img src="http://secure-login.examplesinc.com/images/verify.png" alt="Verify Now" border="0"/>
+      </a>
+    </p>
+    <p>Failure to act immediately may result in data loss.</p>
+    <table>
+      <tr>
+        <td><a href="https://www.exampleservice.com/legal/privacy-policy">Privacy Policy</a></td>
+        <td><a href="https://www.exampleservice.com/help">Help Center</a></td>
+        <td><a href="http://update.exampleservice.com/"> </a></td>
+      </tr>
+    </table>
+    <p>Thank you,</p>
+    <p>Support Team</p>
+  </body>
+</html>
+
+--boundary123--
+```

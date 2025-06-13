@@ -1,0 +1,42 @@
+From security-alert@outlook.com Sat Jan 07 09:14:16 2023
+From: Microsoft Security Alert <security-alert@outlook.com>
+Reply-To: support@secure-alerts.com
+To: user@company.com
+Subject: URGENT: Immediate Account Verification Required
+Date: Sat, 07 Jan 2023 09:14:16 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890.1673096056000"
+
+------=_Part_1234_567890.1673096056000
+Content-Type: text/plain; charset=UTF-8
+
+Your Microsoft account has been locked due to suspicious login attempts.
+Immediate action is required to restore access.
+Verify now: http://secure-update.microsoft-portal.com/verify
+Failing to verify within 24 hours will lead to permanent suspension.
+
+------=_Part_1234_567890.1673096056000
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family:Arial, sans-serif;">
+    <div style="text-align:center;">
+      <img src="https://portal.microsoft.com/images/logo.png" alt="Microsoft Secure" width="180"/>
+    </div>
+    <h1 style="color:#d83b01;">URGENT SECURITY ALERT</h1>
+    <p>Dear Valued Customer,<br/>
+       We detected unusual activity in your account. To protect your information, we have temporarily locked your account. You must verify your identity <strong>immediately</strong> to avoid <span style="color:red;">permanent suspension</span>.</p>
+    <p style="text-align:center;">
+      <a href="http://secure-update.microsoft-portal.com/verify">
+        <img src="https://portal.microsoft.com/images/btn-verify.png" alt="Verify Now" style="border:none;"/>
+      </a>
+    </p>
+    <p>If the button fails, <a href="http://malicious.company-login.net/reset">click here</a> or copy and paste the link below into your browser:</p>
+    <p><a href="http://malicious.company-login.net/reset">http://malicious.company-login.net/reset</a></p>
+    <p>An empty tag for tracking: <a href="http://tracking.microsoft-support.net/track"></a></p>
+    <p>Need assistance? Read our <a href="http://portal.microsoft.com/help/privacy">Privacy Policy</a> or <a href="http://portal.microsoft.com/help/terms">Terms of Service</a>.</p>
+    <p><strong>Note:</strong> You must complete verification within <strong>24 HOURS</strong> to prevent loss of access.</p>
+  </body>
+</html>
+
+------=_Part_1234_567890.1673096056000--

@@ -1,0 +1,47 @@
+From test-email@example.com Tue Oct 10 14:32:42 2023
+Return-Path: <test-email@example.com>
+Delivered-To: victim@example.com
+Received: from spoofedserver.com (spoofedserver.com [192.0.2.1])
+        by victim-mail-server.com (victim-mail-server.com ESMTP) with ESMTP id ABC1234
+        for <victim@example.com>; Tue, 10 Oct 2023 14:32:42 -0700 (PDT)
+Reply-To: security-alert@secureportal.com
+From: "Account Security Alert" <no-reply@trustedbank.com>
+Date: Tue, 10 Oct 2023 14:32:00 -0700
+Subject: Urgent: Immediate Action Required Regarding Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_string"
+
+--boundary_string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected unusual activity on your account. Immediate action is required to secure your information. Failure to verify your details could result in account suspension. Please view your account status by clicking on the following link:
+
+[Secure Account Verification](http://secureportal.maliciousdomain.com/login)
+
+Thank you for your attention to this urgent matter.
+
+Sincerely,
+Trusted Bank Security Team
+
+--boundary_string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity on your account. <strong>Immediate action is required</strong> to secure your information. Failure to verify your details could result in <strong>account suspension</strong>. Please view your account status by clicking on the following link:</p>
+    <p>
+      <a href="http://secureportal.maliciousdomain.com/login">
+        <img src="http://secureportal.maliciousdomain.com/image.png" alt="Secure Verification" />
+      </a>
+    </p>
+    <p>If you didn't make these changes, please click <a href="http://secureportal.maliciousdomain.com/contact">here</a> to contact support immediately.</p>
+    <p>For more details, visit our <a href="http://trustedbank.com/privacy-policy">Privacy Policy</a> or <a href="http://trustedbank.com/help">Help Center</a>.</p>
+    <p>Thank you for your attention to this urgent matter.</p>
+    <p>Sincerely,<br/>Trusted Bank Security Team</p>
+  </body>
+</html>
+
+--boundary_string--

@@ -1,0 +1,50 @@
+From security@secure.mybank.com Mon Jul  1 12:34:56 2024
+Return-Path: <security@secure.mybank.com>
+Received: from mail.secure.mybank.com (mail.secure.mybank.com [198.51.100.25])
+    by mx.mybank.com with ESMTP id ABCDEF12345; Mon, 1 Jul 2024 12:34:56 +0000
+Message-ID: <20240701123456.abcdef@mail.secure.mybank.com>
+Date: Mon, 1 Jul 2024 12:34:56 +0000
+From: "MyBank Security Team" <security@secure.mybank.com>
+Reply-To: <support@evilcorp.win>
+To: <customer@example.net>
+Subject: URGENT: Your Account Password Expires Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====boundary12345"
+
+--====boundary12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account password will expire today. Immediate action is required to avoid being locked out of your account.
+
+Please verify your details here: https://secure.mybank.com/verify.login.auth
+Alternatively, go directly to http://45.33.32.156/verify
+
+Failure to act may result in suspension of your online banking access. This is a critical security alert.
+
+Best regards,
+MyBank Security Team
+
+--====boundary12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Password Expiration Notice</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;font-weight:bold;">Your account password will expire <strong>today</strong>. Immediate action is required to avoid being locked out of your account.</p>
+<p>Please <a href="http://45.33.32.156/verify">https://secure.mybank.com/verify.login.auth</a> now.</p>
+<p>If the link above does not work, <a href="http://192.0.2.123/reset">click here</a> to update your credentials.</p>
+<p>Alternatively, review our <a href="http://54.85.132.50/legal">privacy-policy.mybank.com</a> for more info.</p>
+<p><a href="http://203.0.113.45/login"></a></p>
+<p>Failure to act may result in <a href="http://151.101.1.69/suspend.account">account suspension</a>. This is an urgent security alert.</p>
+<p>Best regards,<br>MyBank Security Team</p>
+</body>
+</html>
+
+--====boundary12345--

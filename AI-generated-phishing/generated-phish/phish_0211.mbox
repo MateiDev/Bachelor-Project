@@ -1,0 +1,55 @@
+```mbox
+From phishingalert@securemail.com Wed Oct 18 14:36:46 2023
+Return-Path: <phishingalert@securemail.com>
+Delivered-To: victim@example.com
+Received: from 192.168.1.1 (unknown [192.168.1.1])
+	by mail.example.com (Postfix) with ESMTP id 123AB456C7
+	for <victim@example.com>; Wed, 18 Oct 2023 14:36:40 +0000 (UTC)
+Date: Wed, 18 Oct 2023 14:36:40 +0000 (UTC)
+From: SecureMail Alerts <phishingalert@securemail.com>
+To: victim@example.com
+Message-ID: <1234567890.abcdefghijkl@mail.example.com>
+Subject: Urgent: Action Required to Verify Your SecureMail Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1234567_890abcdef.1234567890123"
+
+------=_Part_1234567_890abcdef.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+A recent sign-in attempt was flagged on your SecureMail account. To ensure your account's safety, please verify your login details immediately. Failure to confirm will result in account suspension.
+
+Verify Now: http://203.0.113.55/secure-validate
+
+SecureMail Team
+
+------=_Part_1234567_890abcdef.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+
+<p>Dear User,</p>
+
+<p>We have detected a suspicious login attempt on your SecureMail account. Your immediate verification is required to prevent any unauthorized access.</p>
+
+<p>Please click <a href="http://203.0.113.55/secure-validate"><img src="http://203.0.113.55/images/verifybutton.png" alt="Verify Now"></a> to verify your account details and regain account access.</p>
+
+<p>If you encounter any issues, please do not hesitate to <a href="">contact our support team</a> or visit our <a href="http://203.0.113.55/help">help center</a>. Your security is our top priority.</p>
+
+<p>Visit our <a href="http://203.0.113.55/privacy">Privacy Policy</a> for more information on how we protect your data.</p>
+
+<p>Thank you,</p>
+<p>The SecureMail Team</p>
+
+<p><a href="http://203.0.113.55/unsubscribe">Unsubscribe</a></p>
+
+</body>
+</html>
+
+------=_Part_1234567_890abcdef.1234567890123--
+```

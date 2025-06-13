@@ -1,0 +1,24 @@
+From phishing-bounce@mailer.securebanking.com Wed Jun 26 15:45:30 2024
+Return-Path: <phishing-bounce@mailer.securebanking.com>
+Received: from mail.securebanking.com (mail.securebanking.com [203.0.113.45])
+    by mx.example.com with ESMTP id ABC123DEF; Wed, 26 Jun 2024 15:45:30 +0000 (UTC)
+From: "SecureBank Security Team" <notifications@securebanking.com>
+Reply-To: support@securebanking.online
+To: user@example.com
+Subject: URGENT: Your SecureBank account will be suspended in 24 hours
+Date: Wed, 26 Jun 2024 15:45:30 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear SecureBank Customer,</p>
+<p>Your account has experienced multiple failed login attempts and is scheduled for suspension within 24 hours due to suspicious activity. To avoid interruption, verify your identity immediately.</p>
+<p>Verify now:</p>
+<p><a href="http://192.0.2.123/login"><img src="http://192.0.2.123/login.png" alt="Verify Your Account" border="0" /></a></p>
+<p>If the image does not load, <a href="http://192.0.2.123/login"></a> or <a href="http://192.0.2.123/verify">click here</a> to sign in and confirm your account.</p>
+<p>For more information, please review our <a href="http://securebank.com/privacy">Privacy Policy</a> or <a href="http://192.0.2.123/help">here</a>.</p>
+<p>Note: Fette et al. (2007) observed that phishers often keep benign-looking links (privacy-policy, help) intact while hiding their malicious URL behind generic anchors such as “click here” or “here”. Our official links remain genuine.</p>
+<p>Failure to verify will result in permanent suspension of your account.</p>
+<p>Sincerely,<br/>SecureBank Security Team</p>
+</body></html>

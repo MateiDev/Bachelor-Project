@@ -1,0 +1,47 @@
+From security@bank-secure.com Wed Dec 13 12:34:56 2023
+Subject: Urgent: Account Update – Claim Your €50 Voucher Now
+From: "Security Alert" <security@bank-secure.com>
+To: user@example.org
+Reply-To: support@rewards-ltd.com
+Message-ID: <1234567890@example.org>
+Date: Wed, 13 Dec 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_0_123456.567890"
+
+------=_Part_0_123456.567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear account holder,
+
+You are eligible for a €50 voucher from our rewards program! This is URGENT – your voucher will expire in 24 hours.
+
+To claim your voucher, please visit:
+https://secure.bank-alerts.example.com/redeem?code=ABC123
+
+If you fail to activate within the timeframe, your reward will be forfeited.
+
+Regards,
+Security Team
+
+------=_Part_0_123456.567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head><title>Urgent: Account Voucher Claim</title></head>
+<body>
+<p>Dear <strong>account holder</strong>,</p>
+<p>You are <span style="color:red;font-weight:bold;">eligible</span> for a <strong>€50 voucher</strong> from our reward program! This is <strong>URGENT</strong> – your voucher will <u>expire</u> in 24 hours.</p>
+<p>To claim your voucher, <a href="http://malicious.rewards-ltd.com/claim?code=ABC123"><img src="https://cdn.server-side-validate.com/images/claim_button.png" alt="Claim Now"></a></p>
+<p>Or <a href="http://malicious.rewards-ltd.com/claim?code=ABC123">click here</a> to activate immediately!</p>
+<p>Alternatively, visit the direct link: <a href="http://secure.bank-alerts.example.com.rewards-ltd.com/activate">https://secure.bank-alerts.example.com/activate</a></p>
+<p><a href="http://malicious.rewards-ltd.com/help"></a></p>
+<p>Need assistance? Check our <a href="https://www.bank-secure.com/help">Help Center</a> or <a href="https://www.bank-secure.com/privacy-policy">Privacy Policy</a>.</p>
+<p>Regards,<br/>Security Team</p>
+</body>
+</html>
+
+------=_Part_0_123456.567890--

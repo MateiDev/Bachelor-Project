@@ -1,0 +1,29 @@
+```mbox
+From nobody@example.mail Thu Oct 12 15:42:22 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from 192.0.2.47 (unknown [192.0.2.47])
+    by example.com (Postfix) with ESMTP id 123456789
+    for <victim@example.com>; Thu, 12 Oct 2023 15:42:22 +0000 (UTC)
+Reply-To: refunds@taxinfo.phishsite.com
+From: "Tax Refund Notification" <noreply@revenue-sys.com>
+Subject: Urgent: Action Required for Your Tax Refund
+Date: Thu, 12 Oct 2023 15:42:22 +0000
+Message-ID: <1234.56789@example.com>
+Content-Type: text/html
+
+<html>
+  <body>
+    <h2>Attention Required: Confirm Your Tax Refund!</h2>
+    <p>Dear Tax Payer,</p>
+    <p>Our records indicate that you are eligible for a tax refund of $512.76. However, for <strong>security reasons</strong>, we require you to <em>confirm your banking details</em> immediately.</p>
+    <p>Failure to confirm may result in <u>delays or cancellation</u> of your refund. Please <a href="http://192.0.2.87/bankconfirmation">click here</a> to confirm your details.</p>
+    <p><a href="http://secure.banking.refund.com/verify">Confirm Now</a></p>
+    <p>For more information, visit our <a href="http://tax-info.example.com/help" target="_blank">help center</a>.</p>
+    <p><a href="http://secure.banking.refund.com/privacy">Privacy Policy</a></p>
+    <a href="http://update-acc.info" style="display:block;"><img src="http://192.0.2.47/secureimage/refund.png" alt="Update here"></a>
+    <p></p>
+    <p>Thank you,<br>Your Tax Department</p>
+  </body>
+</html>
+```

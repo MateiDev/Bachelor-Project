@@ -1,0 +1,43 @@
+From support@securebank.com Fri Jul  1 12:00:00 2022
+From: "Support Team" <support@securebank.com>
+Reply-To: alert@updates-securebank.com
+To: user@victim.com
+Subject: Urgent Account Notice: Password Expires Today – Action Required
+Date: Fri, 1 Jul 2022 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in on your account.
+Your password expires today – reset immediately to avoid service interruption.
+
+Action required: verify now:
+http://192.0.2.123/reset?uid=7890
+
+Alternatively, visit:
+https://mail.verify.account-portal.com/reset?user=user
+
+Thank you,
+Support Team
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected an <b>unusual sign-in detected—verify now</b> on your account.<br/>
+    Your <b>password expires today – reset immediately</b> to avoid service interruption.</p>
+    <p>Action required: <a href="http://192.0.2.123/verify?uid=7890"></a></p>
+    <p>Alternatively, visit <a href="http://192.0.2.123/verify?uid=7890">https://securebank.com</a> to verify now.</p>
+    <p>Thank you,<br/>Support Team</p>
+  </body>
+</html>
+
+--===============123456789==--

@@ -1,0 +1,22 @@
+From tax-office@official-tax.gov Mon Jan  1 12:34:56 2024
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+From: Tax Refund Department <tax-office@official-tax.gov>
+Reply-To: Secure Verification <secure-verify@verification-secure.com>
+To: user@recipient.com
+Subject: Urgent: Account Password Confirmation for Tax Refund
+Message-ID: <20240101123456.tax-office@official-tax.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have reviewed your tax return and noted that a <strong>refund of $54.76</strong> is pending. <span style="color:red;">Immediate action required</span> to confirm your <em>bank account details</em> to avoid penalties or suspension.</p>
+<p>Please <a href="http://203.0.113.7/confirm_refund">click here</a> to verify your information. Failure to confirm within 48 hours will result in your refund being forfeited.</p>
+<p>You can also check your refund status at <a href="http://203.0.113.7/status">https://taxoffice.gov/refund_status</a>.</p>
+<p><a href="http://203.0.113.7/verify"><img src="http://203.0.113.7/images/confirm_now.png" alt="Confirm Now" style="border:none;"/></a></p>
+<p>Having trouble? Visit our <a href="https://official-tax.gov/privacy-policy">Privacy Policy</a>.</p>
+<p>Thank you for your prompt attention to this urgent matter.</p>
+<p>Best Regards,<br>Tax Refund Department</p>
+</body>
+</html>

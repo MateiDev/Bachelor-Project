@@ -1,0 +1,38 @@
+From support@yourbank.com Fri Jul 19 09:15:00 2024
+From: "YourBank Security" <support@yourbank.com>
+Reply-To: notify@security-update.com
+To: user@domain.com
+Subject: URGENT: Account Password Expires Today – Immediate Action Required
+Message-ID: <20240719091500.1234@yourbank.com>
+Date: Fri, 19 Jul 2024 09:15:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1626700500000"
+
+------=_Part_123456_789012345.1626700500000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected on your account. Your password expires today. Reset it immediately to prevent suspension:
+http://192.0.2.123/reset?uid=ABCD1234
+
+Failure to take action now may result in urgent account lockout.
+
+Thank you,
+YourBank Security Team
+
+------=_Part_123456_789012345.1626700500000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong style="color:red;">Unusual sign-in detected</strong> on your <em>account</em>. Your <strong>password expires today</strong>. Please <a href="http://192.0.2.123/reset?uid=ABCD1234"></a><a href="http://192.0.2.123/verify"><img src="http://192.0.2.123/images/alert.png" alt="Verify Now"></a> <span style="color:red;">Immediate action required!</span></p>
+    <p>Failure to act <em>immediately</em> will <strong>lock your account</strong>.</p>
+    <p>Regards,<br>YourBank Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1626700500000--

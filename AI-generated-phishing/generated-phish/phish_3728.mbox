@@ -1,0 +1,52 @@
+From MAILER-DAEMON Fri Jun 25 14:02:33 2021
+From: "Federal Tax Service" <no-reply@irs.gov>
+To: testuser@testmail.com
+Subject: Urgent Tax Refund Notice – Confirm Password
+Message-ID: <20210625140233.1A2B3C4D5E@irs.gov>
+Date: Fri, 25 Jun 2021 14:02:33 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Your federal tax return for the last fiscal year shows an unclaimed refund of $47.25.
+This is a final notice and requires your immediate action to confirm your banking details.
+Visit the link below to verify and receive your refund:
+
+https://secure.payment.taxservice.gov/confirm
+Or copy and paste:
+http://192.0.2.123/verify?ref=ABC123
+
+Failure to respond within 48 hours will result in forfeiture of this refund.
+
+Thank you,
+Federal Tax Service
+
+--BOUNDARY
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <p>Dear Taxpayer,</p>
+    <p>Your federal tax return for the last fiscal year shows an unclaimed refund of <strong>$47.25</strong>.</p>
+    <p style="color:red;font-weight:bold;">This is a <em>final notice</em> and requires your <span style="color:red;">immediate</span> action to <span style="font-style:italic;">confirm</span> your banking details.</p>
+    <p>Please verify using one of the links below:</p>
+    <ul>
+      <li><a href="http://192.0.2.123/verify?ref=ABC123">http://192.0.2.123/verify?ref=ABC123</a> (secure IP link)</li>
+      <li><a href="https://secure.payment.taxservice.gov/confirm">https://secure.payment.taxservice.gov/confirm</a> (multi-domain link)</li>
+      <li><a href="http://203.0.113.5/assess?uid=XYZ789">https://www.irs.gov/refund</a> (non-matching URL)</li>
+      <li><a href="http://malicious.com/refund?id=123"></a> (empty anchor)</li>
+    </ul>
+    <p>Alternatively, <a href="http://malicious.com/confirm">click here</a> to confirm now.</p>
+    <p><a href="http://malicious-secure.taxverify.info/policy"><img src="http://198.51.100.7/images/logo.png" alt="Privacy Policy" /></a></p>
+    <p>Failure to respond within 48 hours will result in forfeiture of this refund.</p>
+    <p>Federal Tax Service</p>
+  </body>
+</html>
+
+--BOUNDARY--

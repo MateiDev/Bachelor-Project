@@ -1,0 +1,57 @@
+```mbox
+From fake@deliveryupdates.com Mon Oct 16 11:24:30 2023
+Return-Path: <fake@deliveryupdates.com>
+Delivered-To: victim@example.com
+Received: by 192.0.2.1 with SMTP id 12345; Mon, 16 Oct 2023 11:24:30 -0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; d=deliveryupdates.com; s=2023;
+    h=from:to:subject:date;
+    bh=rO0ABXNyABFqYXZhLnRpbWUuVmljdG9y2ZoRDz0y;
+    b=ZAHELlYm5tbbD/+Go4rtQ+xh6Mb8eD9rFnkh==;
+Received: from unknown (HELO 192.0.2.50) by victim.com with SMTP; Mon, 16 Oct 2023 11:24:30 -0000 (UTC)
+From: "Delivery Support" <support@deliveryupdates.com>
+To: victim@example.com
+Subject: URGENT: Your Parcel is On Hold, Action Required NOW!
+Date: Mon, 16 Oct 2023 11:24:30 +0000
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+Your attention is urgently required! Your parcel is on hold due to an outstanding delivery fee. Please resolve this issue immediately to avoid return.
+
+Click the link below to update your delivery preferences:
+
+http://example.fake-tracking123.com
+
+Thank you for your prompt attention!
+
+Delivery Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delivery Notification</title>
+</head>
+<body>
+    <p>Dear customer,</p>
+    <p>Your <b>parcel is on hold</b> due to an <b>outstanding delivery fee</b>. Please resolve this issue immediately to avoid return.</p>
+    <p><a href="http://192.0.2.50/payparcel">Click here</a> to update your delivery preferences and pay the necessary fee immediately.</p>
+    <img src="http://192.0.2.50/image1.jpg" alt="Delivery Service Logo" />
+    <br>
+    <a href="http://safe.deliveryservice.com">Privacy Policy</a> | <a href="http://safe.deliveryservice.com/contact">Contact Us</a>
+    <p>Thank you for your prompt attention!</p>
+    <p>Delivery Team</p>
+</body>
+</html>
+
+--boundary-string--
+```

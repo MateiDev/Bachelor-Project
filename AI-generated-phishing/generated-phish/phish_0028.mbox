@@ -1,0 +1,27 @@
+```
+From fakebank@example.com  Mon Oct 2 14:32:09 2023
+Return-Path: <fakebank@example.com>
+Received: from suspicious-host.com (unknown [192.0.2.1])
+	by yourdomain.com (Postfix) with ESMTP id A1B2C3D4E5
+	for <user@yourdomain.com>; Mon,  2 Oct 2023 14:32:09 -0500 (CDT)
+Message-ID: <00.000.00F0ABCDE@unknown>
+Date: Mon, 2 Oct 2023 14:32:08 -0500
+From: "Fake Bank Security" <no-reply@fakebanksecurity.com>
+To: user@yourdomain.com
+Subject: Urgent: Unusual Sign-In Attempt Detected on Your Account
+
+Dear Valued Customer,
+
+We have detected an unusual sign-in attempt to your account from a new location. For your protection, we require you to verify your identity immediately. Failure to do so will result in temporary suspension of your account.
+
+Verify your account here: http://secure-login-verify.com.accountupdate.securitycheck.id1234567890
+
+Please take action within the next 24 hours to avoid any disruption to your account access. If you did not attempt to sign in, it is urgent that you update your password using the link above.
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+Fake Bank Security Team
+
+For further assistance, visit our Help Center at http://www.fakebank.com/help or read our Privacy Policy at http://www.fakebank.com/privacy.
+```

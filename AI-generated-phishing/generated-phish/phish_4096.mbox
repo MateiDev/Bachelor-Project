@@ -1,0 +1,52 @@
+From notifications@dhl.com Mon Feb  1 10:00:00 2021
+Return-Path: <notifications@dhl.com>
+Date: Mon, 1 Feb 2021 10:00:00 +0000
+From: DHL Tracking <notifications@dhl.com>
+Reply-To: DHL Service Support <support@dhl-service-update.com>
+To: customer123@domain.net
+Subject: URGENT: Your Shipment Is On Hold – Immediate Action Required
+Message-ID: <C0FFEE12345@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_DHL_12345"
+
+------=_DHL_12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL package #9573312456 is currently on hold due to unpaid duties. Immediate payment is required to prevent return or disposal.
+
+Please visit the link below to complete payment:
+http://192.0.2.123/payment/release?pkg=9573312456
+
+If you fail to pay within 24 hours, your package will be returned without notice.
+
+Thank you,
+DHL Customer Support
+
+------=_DHL_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p><strong>Dear Customer,</strong></p>
+<p><span style="color:red;">Your DHL package #9573312456 is currently on hold due to unpaid duties. Immediate payment is required to prevent return or disposal.</span></p>
+<p>Please verify and complete the payment <a href="http://192.0.2.123/payment/release?pkg=9573312456">here</a> now.</p>
+<p>Alternatively, track your parcel on our official site:
+<a href="https://www.dhl.com/tracking?AWB=9573312456">https://www.dhl.com/tracking?AWB=9573312456</a></p>
+<p>Privacy Policy: <a href="http://malicious-site.com/privacy">https://www.dhl.com/privacy-policy</a></p>
+<p><a href="http://us.dhl.service.tracking.pay-update.info/process.cgi?pkg=9573312456"></a></p>
+<p align="center">
+<a href="http://123.45.67.89/release">
+<img src="http://images.dhl.com/logo.png" alt="DHL Logo" />
+</a>
+</p>
+<p><em>If you fail to pay within 24 hours, your package will be returned to sender without notice.</em></p>
+<p>Thank you,<br/>
+DHL Customer Support</p>
+</body>
+</html>
+
+------=_DHL_12345--

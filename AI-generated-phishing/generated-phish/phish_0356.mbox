@@ -1,0 +1,33 @@
+```mbox
+From nobody Sat Oct 14 12:00:00 2023
+Return-Path: <support@fakeshipping.com>
+Delivered-To: victim@example.com
+Received: by 192.0.2.1 with SMTP id m1234567890abc; Sat, 14 Oct 2023 12:00:00 -0500 (CDT)
+Date: Sat, 14 Oct 2023 12:00:00 -0500
+From: "DHL Notification" <support@fakeshipping.com>
+Subject: Urgent: Your Account Verification Needed for Pending Package
+To: <victim@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We attempted to deliver your package, but there is a delivery fee pending. Your immediate attention is required to avoid delays.
+
+To proceed, kindly verify your account and complete the payment by clicking on the link below:
+
+http://192.0.2.254/secureverification
+
+Please note, failure to resolve this may lead to your package being returned.
+
+For further assistance, visit our help page [here](http://www.fakeurl.com/help.html).
+
+For privacy policies, see http://www.privacypolicy.com.
+
+Thank you for choosing DHL.
+
+Best Regards,
+DHL Support Team
+
+Please do not reply to this email. For further information, contact us at http://www.dhl-realurl.com/contact.
+```

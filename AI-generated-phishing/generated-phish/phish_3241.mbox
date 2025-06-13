@@ -1,0 +1,54 @@
+From spoofed@secure-mail.com Fri Jun 14 16:20:00 2024
+Return-Path: <spoofed@secure-mail.com>
+From: SecureMail Portal <spoofed@secure-mail.com>
+Reply-To: helpdesk@legitservice.com
+To: victim@example.com
+Subject: Urgent: Account Password Verification Required
+Date: Fri, 14 Jun 2024 16:20:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+X-Mailer: SecureMail 2.0
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been flagged for suspicious activity. Immediate password verification is required to prevent permanent account suspension.
+
+Please visit the secure portal below to confirm your credentials:
+
+http://123.45.67.89/secure/view
+
+Failure to act within 24 hours will result in access being locked down for your protection.
+
+Thank you,
+SecureMail Security Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+<p style="color:red; font-weight:bold;">URGENT SECURITY ALERT</p>
+<p>Your <strong>account</strong> has suspicious login attempts from multiple locations. You must verify your <strong>password</strong> immediately to avoid account suspension.</p>
+<p>
+  <a href="http://123.45.67.89/secure/view">
+    <img src="http://123.45.67.89/images/secure.png" alt="Secure Portal">
+  </a>
+</p>
+<p>
+  <a href="http://123.45.67.89/login"></a>
+</p>
+<p>Or you may also use: <a href="http://123.45.67.89/secure/view">http://securemail.example.com/view</a></p>
+<p>If you have any questions, please <a href="http://help.legitservice.com/privacy-policy">privacy policy</a> or <a href="http://help.legitservice.com/terms">terms of service</a>.</p>
+<p><em>Please act now to secure your account.</em></p>
+</body>
+</html>
+
+------=_Part_12345_67890--

@@ -1,0 +1,58 @@
+From MAILER-DAEMON Mon Oct  2 14:35:26 2023
+Return-Path: <phishing@example.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from fake-mailer.com (fake-mailer.com [123.45.67.89])
+	by victim.com (Postfix) with ESMTP id 123ABCD456
+	for <victim@example.com>; Mon,  2 Oct 2023 14:35:25 +0000 (UTC)
+Message-ID: <1234567890.fake@example.com>
+Date: Mon, 2 Oct 2023 14:35:25 +0000
+From: "Support Team" <support@example.com>
+To: victim@example.com
+Subject: URGENT: Claim your €500 Reward Voucher Now!
+
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+This is an urgent notification. You have been randomly selected to receive a €500 reward voucher. 
+
+Please claim it immediately to ensure your account remains active: 
+http://www.click-to-verify-security-update.com
+
+To unsubscribe or for more information, please visit our Help Center: 
+http://example.com/help-center
+
+Thank you,
+Support Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+
+    <p>This is an <strong>urgent notification</strong>. You have been randomly selected to receive a <strong>€500 reward voucher</strong>.</p>
+    
+    <!-- Image-based Links -->
+    <a href="http://www.free-giftcards.com/claim-now"><img src="https://example.com/images/claim-voucher.png" alt="Claim Voucher"></a>
+
+    <p>Please <a href="http://www.malicious-site.example.com/login">click here</a> immediately to ensure your account remains active.</p>
+
+    <!-- Non-Matching URLS -->
+    <a href="http://www.fake-domain-update.com" style="display:none;">http://security-update.com</a>
+
+    <!-- Empty visible <a> text -->
+    <a href="http://www.dangerous-link.com"></a>
+    
+    <p>To unsubscribe or for more information, please visit our <a href="http://example.com/help-center">Help Center</a>.</p>
+
+    <p>Thank you,<br>Support Team</p>
+  </body>
+</html>
+
+--boundary-string--

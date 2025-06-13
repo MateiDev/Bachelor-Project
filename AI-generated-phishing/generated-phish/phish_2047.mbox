@@ -1,0 +1,31 @@
+From no-reply@irs.gov Tue Jul 30 08:15:12 2024
+Return-Path: <no-reply@irs.gov>
+Received: by mail.irs.gov id 12345; Tue, 30 Jul 2024 08:15:12 -0400 (EDT)
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: fraud.alerts@secure-update.com
+To: victim@domain.com
+Subject: Urgent: Account Tax Refund Confirmation Needed
+Date: Tue, 30 Jul 2024 08:15:12 -0400
+Message-ID: <20240730081512.12345@mail.irs.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have processed a small tax refund of <strong>$21.45</strong> to your bank account. For security reasons, we need to verify your account information and password details. This is an <strong>urgent</strong> request to confirm your bank details before releasing the funds.</p>
+    <p>Please click the secure link below to proceed:</p>
+    <p>
+      <a href="http://198.51.100.23/confirm">https://secure.irs.gov/verify.account</a>
+    </p>
+    <p>Or click the button:</p>
+    <p>
+      <a href="http://203.0.113.45/confirm.refund">
+        <img src="http://192.0.2.100/images/btn_verify.png" border="0" alt="Verify">
+      </a>
+    </p>
+    <p>Your prompt response will prevent any delays in processing your refund.</p>
+    <p>Thank you,<br>IRS Customer Support</p>
+    <a href="http://192.0.2.200/"></a>
+  </body>
+</html>

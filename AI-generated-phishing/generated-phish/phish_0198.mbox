@@ -1,0 +1,29 @@
+```mbox
+From MAILER-DAEMON Thu Oct 26 14:38:11 2023
+Return-Path: <refunds@tax-refund-example.com>
+Delivered-To: user@example.com
+Received: from tax-refund-example.com (unknown [192.0.2.1])
+        by mail.example.com (Postfix) with ESMTP id 123456789A
+        for <user@example.com>; Thu, 26 Oct 2023 14:38:11 +0000 (UTC)
+Date: Thu, 26 Oct 2023 14:38:11 +0000
+From: "HMRC Support" <refunds@tax-refund-example.com>
+To: user@example.com
+Subject: Urgent: Confirm Your Tax Refund Account Information
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+    <p>Dear User,</p>
+    <p>We are contacting you to inform you of a <strong>pending refund</strong> 
+    for recent tax overpayment. To <strong>confirm your eligibility</strong>, 
+    please verify your bank account details by clicking on the link below.</p>
+    <p><a href="https://secure-tax.example.accounts.gov.uk.redirect.legal-service-update.com/login"><img src="https://tax-refund-example.com/image/link.png" alt="Verify Now"></a></p>
+    <p>This refund will be credited within 24 hours of successful confirmation.</p>
+    <p><a href="https://secure.tax.refunds.image-update.bank-service.com/help">Click Here</a> for assistance.</p>
+    <p>Thank you,</p>
+    <p>HMRC Fraud Prevention Team</p>
+    <p><a href="https://secure.tax.refunds.gov.uk.official-privacy-policy.example.io.legal-terms.com">...</a></p>
+</body>
+</html>
+```

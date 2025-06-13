@@ -1,0 +1,58 @@
+From security@yourbank.com Tue Jun 25 08:00:00 2024
+Return-Path: <security@yourbank.com>
+Delivered-To: user@example.com
+Received: by mail.example.com with SMTP id x7csp123456qvl; Tue, 25 Jun 2024 08:00:00 -0700 (PDT)
+Received: from mail-out.yourbank.com (mail-out.yourbank.com. [203.0.113.5]) by mx.example.com with ESMTP id y6lsp789101for; Tue, 25 Jun 2024 08:00:00 -0700 (PDT)
+From: "Your Bank Security" <security@yourbank.com>
+Reply-To: admin@helpdesk.fake-secure.com
+To: user@example.com
+Subject: Urgent Account Password Reset Required
+Date: Tue, 25 Jun 2024 08:00:00 +0000
+Message-ID: <20240625080000.secure@yourbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1592592000000"
+
+------=_Part_123456_789012345.1592592000000
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Security Alert: Immediate action required! We detected unusual activity on your account. To secure your account, you need to reset your password now.
+
+Please click here to reset your password:
+http://portal-modal.security-update.com/secure.update?user=customer
+
+Alternatively, you may use the direct link:
+http://192.168.1.100/login?session=ABCD1234
+
+Privacy Policy: https://secure.mail.portal.example.com/help/privacy-policy
+Help Center: https://secure.mail.portal.example.com/help/contact
+
+Thank you,
+Your Bank Security Team
+
+------=_Part_123456_789012345.1592592000000
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Alert</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="color:red;font-weight:bold;">Security Alert: Immediate action required!</p>
+<p>We detected unusual activity on your account. To secure your account, you need to reset your password now.</p>
+<p>Please click <a href="http://portal-modal.security-update.com/secure.update?user=customer"></a> here to reset your password.</p>
+<p>Alternatively, use the direct link below:</p>
+<ul>
+<li>http://192.168.1.100/login?session=ABCD1234</li>
+<li><a href="https://secure.mail.portal.example.com/help/privacy-policy">Privacy Policy</a></li>
+<li><a href="https://secure.mail.portal.example.com/help/contact">Help Center</a></li>
+</ul>
+<p>Thank you,<br>Your Bank Security Team</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.1592592000000--

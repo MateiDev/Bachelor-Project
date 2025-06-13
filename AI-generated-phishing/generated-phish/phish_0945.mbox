@@ -1,0 +1,68 @@
+From MAILER-DAEMON@dhl-delivery.com Sat Jan 15 10:15:30 2022
+Date: Sat, 15 Jan 2022 10:15:30 +0000
+From: DHL Express <no-reply@dhl-delivery.com>
+To: recipient@domain.com
+Subject: Urgent: Delivery Notification - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held at our facility due to unpaid delivery fees.
+To release your package, please visit the link below within 48 hours:
+
+Release Package: http://203.0.113.45/release.html
+
+Track your package: www.dhl.com/track?ID=123456789
+
+Pay fee: https://tracking.dhl.secure-update-login.com/pay.fees?order=123456789
+
+Visit our Help Center: https://help.dhl.com/support
+
+Thank you,
+DHL Customer Service
+
+--ABC123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is being held at our facility due to unpaid delivery fees.
+    To release your package, please <a href="http://203.0.113.45/release.html">click here</a> within 48 hours.</p>
+    <p>
+      Track your package: 
+      <a href="https://www.dhl-secure-status.verification-service.com/track?ID=123456789">
+        www.dhl.com/track?ID=123456789
+      </a>
+    </p>
+    <p>
+      Pay small fee: 
+      <a href="https://tracking.dhl.secure-update-login.com/pay.fees?order=123456789">
+        Payment Portal
+      </a>
+    </p>
+    <p>
+      <a href="https://203.0.113.45/dhllogo">
+        <img src="https://cdn.dhl.com/logos/dhl_logo.png" alt="DHL Logo" style="width:100px;border:0;" />
+      </a>
+      <a href="https://verify.dhl-securedelivery.xyz/login">
+        <img src="https://cdn.dhl.com/logos/secure_button.png" alt="Secure Delivery" border="0" />
+      </a>
+    </p>
+    <p>
+      For more info, please review our 
+      <a href="https://dhl.com/privacy-policy">Privacy Policy</a> or click 
+      <a href="https://modal.dhlrelease.net">here</a>.<br/>
+      Visit our <a href="https://help.dhl.com/support">Help Center</a>.
+    </p>
+    <p>Thank you,<br/>DHL Customer Service</p>
+  </body>
+</html>
+
+--ABC123--

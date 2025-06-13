@@ -1,0 +1,49 @@
+From security@paypal.com Thu Jul 27 12:34:56 2023
+Return-Path: <attacker@fakebank.com>
+Delivered-To: user@target.com
+Received: by mailserver.example.com id abc123; Thu, 27 Jul 2023 12:34:56 -0400 (EDT)
+From: "PayPal Security Team" <security@paypal.com>
+Reply-To: <support@fakebank-phish.com>
+To: user@target.com
+Subject: Urgent: Account Password Verification Required
+Date: Thu, 27 Jul 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_5678"
+
+------=_Part_1234_5678
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your PayPal account. To ensure your account security, please immediately verify your password by visiting the link below:
+
+click here to verify your account: http://secure.paypal-login.verify-security.com/authenticate
+
+Failure to complete this verification within 24 hours will result in account suspension.
+
+If you have questions, refer to our help page: https://www.paypal.com/us/smarthelp/home
+
+Thank you,
+PayPal Security Team
+
+------=_Part_1234_5678
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected unusual activity on your PayPal account. To ensure your account security, please immediately verify your password by visiting the link below:</p>
+<p><a href="http://secure.paypal-login.verify-security.com/authenticate">click here</a></p>
+<p>Note: Our <a href="https://www.paypal.com/us/smarthelp/home">privacy policy</a> and <a href="https://www.paypal.com/legalhub">help center</a> are always available.</p>
+<p>For further assistance, visit <a href="http://support.paypal.account.verify.login.com">here</a>.</p>
+<p><a href="http://malicious.attacker.server.com"></a></p>
+<p>Thank you,<br>PayPal Security Team</p>
+</body>
+</html>
+
+------=_Part_1234_5678--

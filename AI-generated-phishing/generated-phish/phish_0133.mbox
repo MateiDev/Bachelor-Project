@@ -1,0 +1,54 @@
+```mbox
+From phishing@support-secure.com Tue Oct 31 02:32:31 2023
+Return-Path: <phishing@support-secure.com>
+Delivered-To: victim@domain.com
+Received: from [192.168.1.10] (unknown [45.67.89.101])
+	by mail.domain.com (Dovecot) with ESMTP id 12345ABCD;
+	Tue, 31 Oct 2023 02:32:31 +0000
+Subject: Urgent: Immediate Action Required for Your Account
+To: victim@domain.com
+Date: Tue, 31 Oct 2023 02:32:31 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_78901234.9876543210"
+Message-ID: <1234567890.09876@support-secure.com>
+
+------=_Part_123456_78901234.9876543210
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been flagged for suspicious activity and requires immediate verification to prevent deactivation.
+
+Please click on the following link to secure your account:
+[Urgent Verification Required](http://192.168.1.10/secure-verification)
+
+Failure to verify your account within 24 hours will result in permanent account suspension.
+
+Thank you,
+Support Team
+
+------=_Part_123456_78901234.9876543210
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>Your account has been flagged for suspicious activity and requires <b>im=
+mediate verification</b> to prevent deactivation.</p>
+<p>Please click on the following link to secure your account:</p>
+<p><a href=3D"http://192.168.1.10/secure-verification">Urgent Verification =
+Required</a></p>
+<p>Failure to verify your account within 24 hours will result in permanent =
+account suspension.</p>
+<p>Thank you,</p>
+<p>Support Team</p>
+<a href=3D"https://www.domain.com/privacy-policy">Privacy Policy</a> | <a h=
+ref=3D"https://www.domain.com/help">Help</a>
+<img src=3D"http://192.168.1.10/logo.png" alt=3D"Secure Logo">
+</body>
+</html>
+------=_Part_123456_78901234.9876543210--
+```

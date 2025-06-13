@@ -1,0 +1,47 @@
+From mailer@rewards-zone.com Mon Jul  1 12:34:56 2024
+From: Rewards Team <support@rewards-zone.com>
+Reply-To: security.alerts@131.107.58.15
+To: john.doe@domain.com
+Subject: Urgent: Account Password Verification and Gift Voucher Offer
+Date: Mon, 1 Jul 2024 12:34:56 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====BOUNDARY===="
+
+--====BOUNDARY====
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Member,
+
+Your account requires immediate password verification to secure your pending €50 gift voucher.
+
+Fear not: click the link below to confirm and claim your reward before it expires in 24 hours:
+http://192.168.100.10/claim?ref=abc123
+
+For assistance, visit:
+https://www.rewards-zone.com/help
+https://www.rewards-zone.com/privacy-policy
+
+Regards,
+Rewards Team
+
+--====BOUNDARY====
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Valued Member,</p>
+    <p>Your <strong>account</strong> requires immediate password verification to secure your pending <strong>€50 gift voucher</strong>.</p>
+    <p>Please <a href="http://promo.rewards.verify.update.system.services.com/secure?token=xyz456">click here</a> to confirm and claim your reward before it <span style="color:red;">expires</span> in 24 hours.</p>
+    <p>Alternatively, you can <a href="http://192.168.100.10/claim?ref=abc123">claim it here</a>.</p>
+    <p>For assistance, visit our:
+      <ul>
+        <li><a href="https://www.rewards-zone.com/privacy-policy">Privacy Policy</a></li>
+        <li><a href="https://www.rewards-zone.com/help">Help Center</a></li>
+      </ul>
+    </p>
+    <p style="font-size:small;">If you do not verify within the timeframe, your voucher will be void.</p>
+    <p>Best regards,<br/>Rewards Team</p>
+  </body>
+</html>
+
+--====BOUNDARY====--

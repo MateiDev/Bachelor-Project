@@ -1,0 +1,49 @@
+From support@rewards-portal.eu Sat Feb 24 10:30:00 2024
+Return-Path: <support@rewards-portal.eu>
+Delivered-To: user@targetmail.com
+Received: by mail.rewards-portal.eu with SMTP id AB12345; Sat, 24 Feb 2024 10:30:00 +0100
+Received: from [203.0.113.10] (unknown [203.0.113.10]) by mail.rewards-portal.eu (Postfix) with ESMTP id 9C41D5F22 for <user@targetmail.com>; Sat, 24 Feb 2024 10:30:00 +0100 (CET)
+From: Customer Support <support@rewards-portal.eu>
+Reply-To: alert@secure-rewards.com
+To: user@targetmail.com
+Subject: URGENT: Your account password needs update – Claim €50 Voucher Now!
+Date: Sat, 24 Feb 2024 10:30:00 +0100
+Message-ID: <CAJk3S2rens=23@mail.rewards-portal.eu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity, and your account password will be suspended immediately. To avoid losing your €50 voucher, claim your reward now by visiting:
+http://198.51.100.23/claim
+
+If you have any questions, please visit our Privacy Policy at:
+https://rewards-portal.eu/privacy-policy
+
+Failure to act within 24 hours will result in cancellation of your voucher.
+
+Best regards,
+Customer Support
+Rewards Portal Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">Action Required Immediately! Your account is at risk of suspension.</p>
+    <p>You’re eligible for a <strong>€50 voucher</strong>—claim it now: <a href="http://198.51.100.23/claim"></a></p>
+    <p>Or click <a href="https://rewards-portal.eu/claim">https://rewards-portal.eu/claim</a> to secure your voucher.</p>
+    <p>Verify details here: <a href="http://203.0.113.45/verify">https://rewards-portal.eu/verify</a></p>
+    <p>Learn more <a href="http://198.51.100.23/learn-more">click here</a></p>
+    <p>For privacy details, visit <a href="https://rewards-portal.eu/privacy-policy">Privacy Policy</a> or our <a href="https://rewards-portal.eu/help">Help Center</a>.</p>
+    <p><a href="http://198.51.100.23/banner"><img src="http://198.51.100.23/images/voucher.jpg" alt="Voucher"></a></p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

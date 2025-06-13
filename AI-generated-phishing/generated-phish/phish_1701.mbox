@@ -1,0 +1,47 @@
+From dhl-notify@dhl.com Tue Jun 04 10:15:30 2024
+Return-Path: <dhl-notify@dhl.com>
+Delivered-To: john.doe@example.com
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.10]) by mail.example.com with ESMTP id 9ABCD1EF; Tue, 04 Jun 2024 10:15:30 +0200
+Date: Tue, 04 Jun 2024 10:15:30 +0200
+From: DHL Notifications <dhl-notify@dhl.com>
+Reply-To: support@dhl-support.com
+To: John Doe <john.doe@example.com>
+Message-ID: <20240604101530.mail.dhl@dhl.com>
+Subject: Urgent: Delivery Payment Required - Final Notice
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_abcdef.123456"
+
+----=_Part_123456_abcdef.123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear John Doe,
+
+Your shipment #123456789 is currently held by customs due to unpaid duties. This is your final notice. Please visit the link below to make the payment immediately within 24 hours to avoid return of your package or additional fees.
+
+Payment Link:
+http://dhl-portal-modal.com/secure_drop
+
+If you have any questions, visit our privacy page:
+https://www.dhl.com/en/privacy-notice.html
+
+Thank you,
+DHL Customer Service
+
+----=_Part_123456_abcdef.123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear John Doe,</p>
+    <p><strong>URGENT:</strong> Your package <em>#123456789</em> is <span style="color:red;">held by customs</span> for unpaid duties. Immediate action is required! Failure to pay within 24 hours will result in return of the parcel and extra fees.</p>
+    <p>Click <a href="http://malicious-dhl-release.com/pay"> </a> to resolve now.</p>
+    <p>Alternatively, you can <a href="http://dhl-portal-modal.com/secure_drop">here</a> to pay customs duties.</p>
+    <p><a href="http://malicious-tracker.com/update"><img src="http://malicious-tracker.com/dhl_banner.png" alt="DHL Notification" border="0" /></a></p>
+    <p>For more information, see our <a href="https://www.dhl.com/en/privacy-notice.html">Privacy Policy</a>.</p>
+    <p>Thank you,<br/>DHL Customer Service</p>
+  </body>
+</html>
+
+----=_Part_123456_abcdef.123456--

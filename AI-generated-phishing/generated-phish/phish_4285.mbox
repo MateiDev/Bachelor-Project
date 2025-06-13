@@ -1,0 +1,47 @@
+From notify@secure-alerts.com Tue May 17 14:27:13 2024
+Subject: Urgent: Account Password Verification Required
+From: Secure Alerts <notify@secure-alerts.com>
+To: user@client.com
+Reply-To: helpdesk@restore-access.com
+Date: Fri, 17 May 2024 14:27:13 +0000
+Message-ID: <20240517142713.phishtest@secure-alerts.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01"
+
+------=_NextPart_000_01
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected suspicious activity on your account and urgently need to verify your password. You are also eligible for a €50 voucher reward! But you must claim it within 24 hours or it will expire.
+
+Please verify here: http://192.0.2.123/verify?uid=12345
+
+To claim your voucher, visit http://203.0.113.45/redeem or http://modal-domain.net/voucher
+
+Thank you,
+Secure Alerts Team
+
+Privacy Policy: https://secure-alerts.com/privacy-policy
+Support: https://secure-alerts.com/help
+
+------=_NextPart_000_01
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;font-weight:bold;">We have detected suspicious activity on your <strong>account</strong>.</p>
+    <p>You are now eligible for a <strong>€50 voucher</strong> as a goodwill gesture—but you must claim it immediately to avoid expiration.</p>
+    <p>To verify your password and claim the reward, please <a href="http://192.0.2.123/secure/verify?uid=12345">click here</a>.</p>
+    <p>You can also redeem directly: <a href="http://203.0.113.45/redeem">http://secure-alerts.com/voucher</a></p>
+    <p>Alternatively, please <a href="http://modal-domain.net/voucher"></a> before it expires!</p>
+    <p><a href="http://198.51.100.22/track?ref=img"><img src="http://198.51.100.22/banner.jpg" alt="Secure Alert"/></a></p>
+    <p>If you did not request this, please contact support immediately.</p>
+    <p><a href="https://secure-alerts.com/privacy-policy">Privacy Policy</a> | <a href="https://secure-alerts.com/help">Help</a></p>
+  </body>
+</html>
+
+------=_NextPart_000_01--

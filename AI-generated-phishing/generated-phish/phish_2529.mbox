@@ -1,0 +1,27 @@
+From testphisher@example.com  Fri Oct 20 14:28:19 2023
+Return-Path: <testphisher@example.com>
+Date: Fri, 20 Oct 2023 14:28:19 +0000
+From: "Rewards Center" <rewards@example.com>
+Subject: Urgent: Claim Your €1000 Voucher NOW!
+To: unsuspectinguser@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <h2>Hello Valued Customer,</h2>
+    <p>We are excited to inform you that you are eligible for an urgent €1000 voucher! Don't miss out:</p>
+    <p><a href="http://192.0.2.0/voucher-claim">Click <img src="https://www.example.com/images/giftcard.png" alt="gift" /></a> to claim your reward now.</p>
+    <p>This offer is only valid for a LIMITED TIME! Act fast to avoid losing your voucher.</p>
+    <p>For any queries, visit our legitimate site <a href="https://www.example.com/support">here</a>.</p>
+    <p>Best regards,<br>Rewards Team</p>
+    <p><a href="">.</a></p>
+    <p>To ensure your account security, please do not share your password with anyone.</p>
+    <p>If you did not make this request, contact support immediately to secure your account.</p>
+    <ul>
+        <li><a href="http://192.0.2.0/faq">faq.example.com</a></li>
+        <li><a href="http://192.0.2.0/policy">policy.example.com</a></li>
+    </ul>
+    <p>Urgency is critical! <a href="http://maliciousdomain.com/verify">here</a></p>
+</body>
+</html>

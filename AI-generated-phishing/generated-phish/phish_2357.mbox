@@ -1,0 +1,52 @@
+From phishing@domain.com Mon Sep 12 10:00:00 2023
+Return-Path: <support@bank.com>
+Delivered-To: user@domain.com
+Received: from mail-relay.bank.com (mail-relay.bank.com [192.0.2.1])
+    by mail.domain.com with ESMTP id ABC123
+    for <user@domain.com>; Mon, 12 Sep 2023 10:00:00 +0000
+Received: from bank-oper01.bank.com (bank-oper01.bank.com [198.51.100.2])
+    by mail-relay.bank.com with ESMTP id DEF456; Mon, 12 Sep 2023 09:59:30 +0000
+Message-ID: <20230912095930.mail@bank.com>
+Date: Mon, 12 Sep 2023 10:00:00 +0000
+From: "Bank Support" <support@bank.com>
+Reply-To: support@secure.bank.recovery.net
+To: user@domain.com
+Subject: Urgent: Your Account Password Expires Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1234567890"
+
+------=_Part_0_123456.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected an unusual sign-in attempt on your account. To maintain your account security, please verify your identity by resetting your password immediately. Failure to do so will result in temporary suspension of your account.
+
+Reset your password now: https://www.bank.com/verify
+
+If you need assistance, visit our Help Center at https://bank.com/help or review our Privacy Policy at https://bank.com/privacy-policy.
+
+Thank you,
+Bank Support Team
+
+------=_Part_0_123456.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notification</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We have detected an <strong>unusual sign-in</strong> attempt on your <strong>account</strong>. To maintain your account security, please verify your identity by resetting your <strong>password</strong> immediately. Failure to do so will result in temporary suspension of your <strong>account</strong>.</p>
+<p>Please <a href="https://login.verify.bank-account.info.recovery.net/reset?uid=12345">here</a> to proceed.</p>
+<p>Or access your account directly at <a href="https://login.verify.bank-account.info.recovery.net/login">https://www.bank.com/login</a></p>
+<p><a href=""></a></p>
+<p>If you need assistance, visit our <a href="https://bank.com/help">Help Center</a> or review our <a href="https://bank.com/privacy-policy">Privacy Policy</a>.</p>
+<p>Thank you,<br/>Bank Support Team</p>
+</body>
+</html>
+
+------=_Part_0_123456.1234567890--

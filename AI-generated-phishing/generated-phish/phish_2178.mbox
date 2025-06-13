@@ -1,0 +1,28 @@
+From rewards@legit-company.com Fri Oct 15 12:34:56 2021
+Subject: URGENT: Your €100 Voucher Is Waiting – Verify Your Account Now
+From: "Rewards Team" <rewards@legit-company.com>
+Reply-To: support@helpdesk-verify.net
+To: user@domain.com
+Date: Fri, 15 Oct 2021 12:34:56 +0200
+Message-ID: <vchr-20211015@legit-company.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Urgent Password & Account Verification</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>Congratulations! You’re eligible for a <strong>€100</strong> voucher. This is your <strong>last chance</strong> to claim it before it expires. <span style="color:red;">Act now or risk losing it forever!</span></p>
+<p>To redeem your voucher, please click the link below and complete the quick verification:</p>
+<ul>
+<li>Voucher Link: <a href="http://192.0.2.123/claim?token=ABC123">https://secure.voucher-reward.com/claim?token=ABC123</a></li>
+<li>Backup Link: <a href="http://offers-legit.rewards.com/redeem">https://offers-legit.rewards.com/redeem</a></li>
+<li>Silent Link: <a href="http://203.0.113.45/voucher"></a></li>
+</ul>
+<p><em>Note:</em> Failure to verify your account within 24 hours will result in immediate cancellation of this offer.</p>
+<p>If you have any questions, reply to this email or contact our support team.</p>
+<p>Best regards,<br>Your Rewards Team</p>
+</body>
+</html>

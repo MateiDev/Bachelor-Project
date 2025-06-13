@@ -1,0 +1,41 @@
+```mbox
+From someonenotreal@taxrefundservice.com Sat Oct 28 13:31:17 2023
+Return-Path: <someonenotreal@taxrefundservice.com>
+Received: from suspicious-ip1234.com (suspicious-ip1234.com [192.0.2.0])
+	by yourmailserver.com (YourMailServer) with ESMTP id xyz123;
+	Sat, 28 Oct 2023 13:31:17 -0700 (PDT)
+From: "Tax Refund Department" <noreply@refundnotice.com>
+Reply-To: urgentrefund@scamaddress.com
+Subject: Urgent Tax Refund Notification - Immediate Action Required!
+Date: Sat, 28 Oct 2023 20:31:17 +0000
+Message-ID: <1234567890.refund@taxrefundservice.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Refund Notification</title>
+</head>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We have been trying to reach you regarding an urgent matter. Our records indicate that you are eligible for a tax refund of <b>$389.45</b>. Due to incorrect account details, the refund has not been processed.</p>
+
+<p>To confirm your <b>account information</b> and receive your refund, please click the link below:</p>
+
+<p><a href="http://192.0.2.0/refund"><img src="http://example.com/image.jpg" alt="Confirm Now"></a></p>
+
+<p><b>Act immediately</b> to avoid cancellation. This is your last chance!</p>
+
+<p>If the image link does not work, use this URL: <a href="http://198.51.100.1/confirm" style="text-decoration: none;"><span></span></a></p>
+
+<p>Visit our website for more information: <a href="http://unrelatedwebsite.example">http://knownwebsite.com</a></p>
+
+<p>Direct any questions to our support team by replying to <a href="mailto:urgentrefund@scamaddress.com">urgentrefund@scamaddress.com</a>.</p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best regards,<br>
+Tax Refund Department</p>
+</body>
+</html>
+```

@@ -1,0 +1,49 @@
+```mbox
+From nobody@nowhere Fri Oct 20 12:34:56 2023
+Return-Path: <security-alert@secure-email.com>
+Received: from mx.secure-email.com (mx.secure-email.com [192.168.1.100])
+        by nowhere.nowhere (Postfix) with SMTP id 123456789ABC
+        for <recipient@example.com>; Fri, 20 Oct 2023 12:34:56 -0700 (PDT)
+Date: Fri, 20 Oct 2023 12:34:56 -0700
+From: Account Security <noreply@secure-email.com>
+Reply-To: alert@phishing-secure.com
+Subject: Urgent: Immediate Action Required for Your Account Security
+To: <recipient@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary1234"
+
+--boundary1234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity on your account. Please review immediately to prevent unauthorized access.
+
+Log in to your secure portal here: [Link Unavailable]
+
+Thank you,
+Account Security Team
+
+--boundary1234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <strong>suspicious activity</strong> on your account. Please review immediately to prevent unauthorized access.</p>
+    
+    <p><a href=""><img src="https://secure-email.com/login-button.png" alt="Log In Now"></a></p>
+    
+    <p>Log in to your <a href="https://secure-authentication.portal-view.com/login">secure portal</a> <a href="https://malicious-site.phish/verify">here</a>.</p>
+    
+    <p>Visit our <a href="https://secure-email.com/privacy-policy">privacy policy</a> or <a href="https://secure-email.com/help">help center</a> for assistance.</p>
+    
+    <p>Thank you,<br>
+    Account Security Team</p>
+
+  </body>
+</html>
+--boundary1234--
+```

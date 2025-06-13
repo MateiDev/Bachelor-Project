@@ -1,0 +1,44 @@
+From phishing@tracking.dhl.com Sat Jan 01 12:00:00 2023
+Return-Path: <phishing@tracking.dhl.com>
+Received: from tracking.dhl.com (unknown [192.0.2.1]) by mail.dhl.com with ESMTP id ABC123; Sat, 01 Jan 2023 12:00:00 +0000
+From: DHL Delivery <phishing@tracking.dhl.com>
+To: victim@domain.com
+Subject: URGENT: Delivery Notification - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345"
+
+------=_Part_123456_789012345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+URGENT: Your DHL shipment (AWB: 1234567890) has been held due to unpaid customs fees.
+Please visit the following link within 24 hours to prevent return to sender:
+https://www.dhl.com/track?ref=1234567890
+
+If you do not pay the fee, your package will be returned.
+
+For assistance, visit our Help Center:
+https://www.dhl.com/en/help-center.html
+
+------=_Part_123456_789012345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Delivery Notification</title></head>
+<body>
+<p><strong style="color:red;">URGENT:</strong> Your DHL shipment <strong>1234567890</strong> is on hold for <span style="text-decoration:underline;">unpaid customs fees</span>. Immediate action is required to avoid <em>return to sender</em>!</p>
+<p>Please confirm payment here:
+  <a href="http://secure.dhl-payments.com/fee?ref=1234567890">https://www.dhl.com/track?ref=1234567890</a>
+</p>
+<p><a href="http://malicious.attention-update.com/confirm-payment"></a></p>
+<p>You can also <a href="http://malicious2.domain.com/release">click here</a> to release your package now.</p>
+<p><a href="http://malicious3.domain.com/"><img src="http://assets.dhl.com/logo.png" alt="DHL Logo"></a></p>
+<p>If you have questions, visit our legitimate privacy policy:
+  <a href="https://www.dhl.com/en/legal/privacy-policy.html">Privacy Policy</a> or Help Center:
+  <a href="https://www.dhl.com/en/help-center.html">https://www.dhl.com/en/help-center.html</a>
+</p>
+</body>
+</html>
+
+------=_Part_123456_789012345--

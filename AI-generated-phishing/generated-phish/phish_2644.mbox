@@ -1,0 +1,40 @@
+```mbox
+From some-revenue-office@example.com
+Date: Tue, 10 Oct 2023 14:32:16 -0400
+Subject: Urgent! Your Tax Refund is Waiting
+To: victim@example.com
+Reply-To: verification@example-support.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset=UTF-8
+
+Dear Valued Customer,
+
+We have been trying to contact you about an urgent issue concerning your recent tax filing. A small refund of $500 is pending, and immediate action is required to process this for your account. 
+
+Please confirm your bank details to receive your refund. Click here to resolve now: http://10.0.0.1/secure-refund
+
+If we do not receive a response by the end of today, your refund may be delayed indefinitely.
+
+Best regards,
+Your Revenue Office
+
+--boundary-string
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We have been trying to contact you about an <b>urgent</b> issue concerning your recent tax filing. A small refund of <b>$500</b> is pending, and <i>immediate action is required</i> to process this for your account.</p>
+    <p>Please confirm your bank details to receive your refund. <a href="http://10.0.0.1/secure-refund">Click here</a> to resolve now.</p>
+    <p>If we do not receive a response by the end of today, your refund may be delayed indefinitely.</p>
+    <p>For more information, visit our <a href="http://example.com/privacy-policy">Privacy Policy</a> or <a href="http://example.com/help">Help Centre</a>.</p>
+    <p>Visit our secure site here: <a href="http://completely-secure.com/login">http://completely-secure.com/login</a></p>
+    <img src="http://10.0.0.1/secure-image" alt="Secure Image">
+    <p>Best regards,<br>Your Revenue Office</p>
+  </body>
+</html>
+--boundary-string--
+```

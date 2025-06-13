@@ -1,0 +1,51 @@
+From notify@dhl.com Sat Jun 29 12:00:00 2024
+Return-Path: <notify@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.10])
+    by userhost.example.com with ESMTP id 12345ABC;
+    Sat, 29 Jun 2024 12:00:00 +0000
+From: DHL Delivery Notifications <notify@dhl.com>
+Reply-To: support-team@parcelsecure-updates.com
+To: user@example.com
+Subject: Urgent: Delivery Update - Action Required for Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today but could not complete the delivery.
+To avoid return of your parcel, you must confirm your shipping details and pay a small handling fee.
+
+Please update your delivery information immediately: http://203.0.113.5/confirm?ref=ABC123
+Or verify via our secure portal: http://secure.dhl.delivery.verify01.com/releases?package=ABC123
+
+This is an urgent notification. Failure to act will result in your package being returned to the sender.
+Thank you for your prompt attention.
+
+Sincerely,
+DHL Delivery Support
+
+----=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package today but could not complete the delivery.<br>
+    To avoid return of your parcel, you must confirm your shipping details and pay a small handling fee.</p>
+    <p>Please <a href="http://203.0.113.5/confirm?ref=ABC123">click here</a> to update your delivery information.</p>
+    <p>Alternatively, visit our secure site: 
+      <a href="http://secure.dhl.delivery.verify01.com/releases?package=ABC123">https://dhl.com/track</a>
+    </p>
+    <p><a href="http://45.33.32.156/malware"><img src="http://tracking.dhl.verify01.deliveryservice.com/images/dhl_logo.png" alt="DHL Logo" /></a></p>
+    <p>This is an <strong>urgent</strong> notification. Failure to act will result in your package being <em>returned to the sender</em>.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>DHL Delivery Support</p>
+  </body>
+</html>
+
+----=_NextPart_000_001--

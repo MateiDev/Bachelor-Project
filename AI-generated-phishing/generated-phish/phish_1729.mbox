@@ -1,0 +1,52 @@
+From security-alerts@bank.com Fri Jun  7 09:15:00 2024
+Return-Path: <security-alerts@bank.com>
+Received: by mail.test.com (Postfix, from userid 1001)
+    id 1A2B3C4D5; Fri,  7 Jun 2024 09:15:00 -0400 (EDT)
+From: Security Alerts <security-alerts@bank.com>
+To: victim@example.com
+Subject: Urgent Notice: Pending Refund Requires Immediate Action
+Date: Fri, 07 Jun 2024 09:15:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY1234"
+
+--BOUNDARY1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is an URGENT notice regarding a small tax refund for your account. Failure to
+confirm your bank details IMMEDIATELY will result in cancellation of this refund.
+Please verify now:
+
+1. http://104.237.162.34/confirm
+2. http://secure.verification.bank-refunds.net/login
+
+This is your final notice. Act now.
+
+Regards,
+Security Team
+
+--BOUNDARY1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>URGENT:</strong> Your <em>small tax refund</em> is pending. You must confirm
+    your bank details <span style="color:red">IMMEDIATELY</span> to avoid losing this refund.</p>
+    <p>Please follow one of the secure links below:</p>
+    <ul>
+      <li><a href="http://104.237.162.34/confirm">click here</a> to verify.</li>
+      <li><a href="http://malicious.example.com/verify">https://www.bankofamerica.com/refund</a></li>
+      <li><a href="http://secure.verification.bank-refunds.net/login">
+            www.secure.bank.alerts.refund-service.com/access</a></li>
+      <li><a href="http://192.0.2.123/validate">here</a></li>
+    </ul>
+    <p><i>This is your final reminder. Failure to act now will void your refund.</i></p>
+    <p>Regards,<br/>Security Team</p>
+  </body>
+</html>
+
+--BOUNDARY1234--

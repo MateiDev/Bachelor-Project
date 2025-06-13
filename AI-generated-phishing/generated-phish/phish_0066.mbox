@@ -1,0 +1,31 @@
+```mbox
+From bounces+office@taxrefunds.com Fri Oct 27 2023 15:23:45 +0000
+Date: Fri, 27 Oct 2023 15:23:45 +0000
+From: "HMRC Refund Department" <refund-notifications@taxrefunds.com>
+Subject: Important: Tax Refund Notification
+To: <recipient@example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <h2 style="color:blue;">Your Tax Refund is Available</h2>
+    <p>Dear Valued Taxpayer,</p>
+    <p>We have processed your recent tax returns and a refund of <strong>£276.89</strong> is ready to be claimed. Please confirm your bank details to process your refund.</p>
+    <a href="https://imgur.com/a/valid-image">
+        <img src="https://example.com/valid-image.jpg" alt="View Refund Details">
+    </a>
+    <p>Click <a href="https://secure.hm-taxrefunds.com/account/verify">here</a> to confirm your bank details.</p>
+    <p>Need help? Visit our <a href="https://www.gov.uk/contact">support page</a> or read our <a href="https://www.gov.uk/privacy-policy">privacy policy</a>.</p>
+    <p><a href=""></a></p>
+    <p>Additional links:
+      <ul>
+        <li><a href="https://secure.hm-taxrefunds.com.verify.update.refund.com">https://gov.uk.taxrefunds</a></li>
+        <li><a href="https://secure.hm-taxrefunds.com/account.login.update.to.fix.com">https://update.gov.uk</a></li>
+      </ul>
+    </p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>Your HMRC Refund Department</p>
+</body>
+</html>
+```

@@ -1,0 +1,51 @@
+From MAILER-DAEMON Fri Oct 13 13:48:11 2023
+Return-Path: <no-reply@parcelsservice.com>
+Delivered-To: victim@example.com
+Received: by mail.example.com (Postfix, from userid 1001)
+	id 1234567890; Fri, 13 Oct 2023 13:48:11 +0000 (UTC)
+From: "Customer Support" <support@parcelsservice.com>
+Reply-To: contact@parcelshipped.ru
+Subject: Urgent: Action Required to Release Your Parcel
+To: victim@example.com
+Date: Fri, 13 Oct 2023 13:48:11 +0000
+Message-ID: <001a1134abcd.123defg0678cdef@getemails.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------1D2D3F45678C"
+
+This is a multi-part message in MIME format.
+--------------1D2D3F45678C
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Parcel Notification</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>Your parcel is on hold due to outstanding payment. Please <a href="http://192.168.1.100/paynow" style="color:red;"><img src="cid:red-button.png" alt="Pay Now" /></a> to release it.</p>
+  <p>Track your parcel <a href="http://x1y2z3.trackyou.com/">here</a>.</p>
+  <p>For further assistance, visit our <a href="https://help.parcelsservice.com">help center</a>.</p>
+</body>
+</html>
+
+--------------1D2D3F45678C
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel is on hold due to outstanding payment. Please visit our secure payment page to resolve this issue and schedule a delivery.
+
+Visit: http://192.168.1.100/paynow
+
+Track your parcel using this service: http://x1y2z3.trackyou.com
+
+For further assistance, visit our help center here: https://help.parcelsservice.com
+
+Sincerely,
+
+Customer Support
+
+--------------1D2D3F45678C--

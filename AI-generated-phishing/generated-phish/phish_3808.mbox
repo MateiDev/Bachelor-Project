@@ -1,0 +1,49 @@
+From shipment@dhl.com Thu Jul 25 16:18:00 2024
+Return-Path: <shipment@dhl.com>
+From: "DHL Shipment" <shipment@dhl.com>
+Reply-To: support@dhl-security.net
+To: customer@mailservice.net
+Subject: Urgent Delivery Notification - Confirm Your Account Password
+Date: Thu, 25 Jul 2024 16:18:00 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D8AD6E.5B3D2F00"
+
+------=_NextPart_000_001D_01D8AD6E.5B3D2F00
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent shipment is being held at our facility due to a failed address verification. To avoid your package being returned and extra fees, please verify your account password immediately.
+
+Visit the following links:
+https://www.dhl.com/track?ID=123456789
+http://198.51.100.23/parcel/release
+
+Failure to respond within 24 hours will result in return of your parcel.
+
+Thank you,
+DHL Delivery Team
+
+------=_NextPart_000_001D_01D8AD6E.5B3D2F00
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your recent shipment is <strong>being held</strong> at our facility due to a <span style="color:red;">failed address verification</span>. 
+    To avoid your package being <strong><em>returned</em></strong> and extra fees, please verify your <strong>account</strong> <strong>password</strong> <span style="color:red;">immediately</span>.</p>
+    <p>
+      <a href="http://198.51.100.23/parcel/release">Click here to release your delivery</a><br/>
+      <a href="http://secure.dhl-track.com/confirm"><img src="http://13.58.112.254/images/dhl_banner.png" alt="DHL Delivery Notice" /></a>
+    </p>
+    <p>If links do not work, please copy and paste the following URL into your browser:</p>
+    <p><a href="http://verify-dhl.net/login"></a>https://secure.dhl.com/sign-in</p>
+    <p>Please respond within <strong>24 hours</strong> to avoid <strong>URGENT</strong> <em>suspension</em> of delivery or return of your package.</p>
+    <p>Thank you,<br/>
+    DHL Delivery Team</p>
+  </body>
+</html>
+
+------=_NextPart_000_001D_01D8AD6E.5B3D2F00--

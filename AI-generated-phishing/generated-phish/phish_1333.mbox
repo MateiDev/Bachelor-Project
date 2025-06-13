@@ -1,0 +1,28 @@
+From MAILER-DAEMON Fri Jun 14 10:15:42 2024
+Return-Path: <no-reply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [203.0.113.55])
+    by mail.receiver.com with ESMTP id abc123
+    for <user@testingmail.com>; Fri, 14 Jun 2024 10:15:42 -0400 (EDT)
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: support@taxassist-services.com
+To: user@testingmail.com
+Subject: URGENT: Immediate Action Required to Claim Your Tax Refund
+Date: Fri, 14 Jun 2024 10:15:42 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We have detected an unclaimed tax refund of $152.90 in your name. To avoid penalties and ensure timely delivery, immediate confirmation of your bank details is required.</p>
+<p>Click the IRS logo below to begin the secure verification process:</p>
+<p><a href="http://192.0.2.123/confirm"><img src="http://203.0.113.45/assets/irs-logo.png" alt="IRS"></a></p>
+<p>Please <a href="http://modal-tax-check.com/verify">here</a> to verify your information now.</p>
+<p>Alternatively, use this blank link if the above does not work: <a href="http://192.0.2.123/details"></a></p>
+<p>For more info, review our <a href="http://modal-tax-check.com/privacy-policy">privacy-policy</a> or <a href="http://modal-tax-check.com/help">help</a> pages.</p>
+<p>This is an urgent message. Failure to verify within 48 hours may result in permanent forfeiture of your refund and potential penalties.</p>
+<p>Sincerely,<br>
+Taxpayer Assistance Center<br>
+Internal Revenue Service</p>
+</body>
+</html>

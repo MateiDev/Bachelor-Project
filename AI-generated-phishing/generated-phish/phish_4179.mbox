@@ -1,0 +1,59 @@
+From support@secure-mail.fakecorp.com Tue Mar 14 09:23:00 2023
+Return-Path: <support@secure-mail.fakecorp.com>
+Delivered-To: victim@client.com
+Received: by mail.fakeisp.com with SMTP id x7csp345;
+    Tue, 14 Mar 2023 09:22:50 -0700 (PDT)
+From: "Secure Mail Service" <support@secure-mail.fakecorp.com>
+Reply-To: security@portal-security.biz
+To: victim@client.com
+Subject: [SECURITY ALERT] Urgent Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your account. To ensure the safety of your encrypted messages, please verify your password immediately.
+
+Please click the link below to view the secure message:
+http://123.45.67.89/securemail/verify
+
+For the privacy policy, visit:
+https://secure.mail.portal.fakecorp.com/privacy.html
+
+If you do not verify your account within 24 hours, your account will be suspended.
+
+Best regards,
+Secure Mail Service Support Team
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<div style="font-family:Arial,sans-serif; font-size:14px; color:#333;">
+  <p>Dear User,</p>
+  <p>We have detected <strong>unusual activity</strong> on your account. To ensure the safety of your encrypted messages, please verify your <strong>password</strong> immediately.</p>
+  <p>
+    <a href="http://123.45.67.89/securemail/verify">
+      <img src="http://123.45.67.89/images/secure_icon.png" alt="Secure Mail" />
+    </a>
+  </p>
+  <p>Please <a href="http://123.45.67.89/securemail/verify">click here</a> to <strong>view</strong> the secure message.</p>
+  <p>Alternatively, visit our help page at <a href="https://support.portal-security.biz/help">https://support.portal-security.biz/help</a>.</p>
+  <p>To review our <a href="https://secure.mail.portal.fakecorp.com/privacy.html">privacy policy</a>, click <a href="https://secure.mail.portal.fakecorp.com/privacy.html"> </a>.</p>
+  <p>Or access via direct link: <a href="http://123.45.67.89/login">https://secure.portal.fakecorp.com/login</a></p>
+  <p>If the link above does not work, copy and paste the following URL into your browser:<br/>
+    <a href="http://123.45.67.89/securemail/verify">http://123.45.67.89/securemail/verify</a>
+  </p>
+  <p>If you do not verify within 24 hours, your account will be suspended and you may lose access to your secure mail.</p>
+  <p>Regards,<br/>Secure Mail Service Support Team</p>
+</div>
+</body>
+</html>
+
+--BOUNDARY123--

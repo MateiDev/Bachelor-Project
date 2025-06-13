@@ -1,0 +1,67 @@
+From phishings@dhl-pro.com Mon Jun 12 14:22:33 2023
+Subject: Urgent: Account Delivery Alert - Immediate Action Required
+From: DHL Support <support@dhl.com>
+Reply-To: reply@dhl-service.com
+To: user@example.org
+Message-ID: <202306121422.ph4JMP70phishings@dhl-pro.com>
+Date: Mon, 12 Jun 2023 14:22:33 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01A2B3C4"
+
+------=_NextPart_000_01A2B3C4
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your DHL package #XJH-298374 is being held at customs due to unpaid fees.
+This is your final notice. Failure to pay within 24 hours will result in
+return of your shipment and account suspension.
+
+To release your parcel, please verify your information immediately:
+http://198.51.100.23/verify-info
+
+Alternatively, access your account:
+http://203.0.113.45/login
+
+Thank you,
+DHL Support Team
+
+------=_NextPart_000_01A2B3C4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #D40000;">Urgent Delivery Notification</h2>
+    <p>Dear Customer,</p>
+    <p>Your <strong>DHL</strong> package <em>#XJH-298374</em> has been flagged by customs. 
+       An outstanding fee of <strong>$12.50 USD</strong> is required to release your parcel.</p>
+    <p style="color: #D40000; font-weight: bold;">
+      This is a <u>final notice</u>. Action must be taken within <em>24 hours</em> or your shipment 
+      will be returned and your account suspended.
+    </p>
+
+    <p style="margin: 20px 0;">
+      <a href="http://192.0.2.45/tracking" target="_blank">
+        <img src="http://192.0.2.45/images/track_button.png" alt="Track & Release Package" 
+             style="border: none;"/>
+      </a>
+    </p>
+
+    <p>If the button above does not work, please <a href="http://203.0.113.89/release" target="_blank">click here</a>.</p>
+
+    <p>Or use this direct link: 
+      <a href="http://198.51.100.45/login" target="_blank">www.dhl-notify.com</a>
+    </p>
+
+    <hr style="border:none;border-top:1px solid #ccc;"/>
+
+    <p style="font-size: 0.9em; color: #666;">
+      For assistance, visit our <a href="https://modal.dhl.com/help/privacy-policy" target="_blank">Privacy Policy</a> or 
+      <a href="https://modal.dhl.com/help/contact" target="_blank">Contact Support</a>.
+    </p>
+  </body>
+</html>
+
+------=_NextPart_000_01A2B3C4--

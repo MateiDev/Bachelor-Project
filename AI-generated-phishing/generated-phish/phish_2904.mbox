@@ -1,0 +1,37 @@
+```
+From fake_sender@parcelservice.com Fri Oct 13 12:34:56 2023
+Return-Path: <fake_sender@parcelservice.com>
+Received: from unknown (HELO mailserver1.fakeisp.com) (193.123.45.67) by mail.fakeisp.com with SMTP; Fri, 13 Oct 2023 12:34:55 +0000
+Reply-To: urgent@deliverysupport.com
+Date: Fri, 13 Oct 2023 12:34:56 +0000
+Subject: Urgent: Your Package is Being Held – Immediate Action Required
+From: "Parcel Delivery Service" <fake_sender@parcelservice.com>
+To: victim@targetdomain.com
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is currently on hold due to an outstanding issue. To avoid return, complete verification at once. Access your account here: http://safe.delivery-url.com?id=12345
+
+Parcel Delivery Service Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is currently on hold due to an outstanding issue. To avoid return, complete verification <b>immediately</b>.</p>
+    <p><a href="http://203.0.113.10/verify?id=12345"><img src="http://safetrust.com/logo.png" alt="Delivery Service Logo" /></a></p>
+    <p>Alternatively, you can click <a href="http://203.0.113.10/verify?id=12345">here</a> to log in securely.</p>
+    <p>For privacy policy, visit <a href="http://safedelivery.com/privacy">safedelivery.com/privacy</a>.</p>
+    <p>Parcel Delivery Service Team</p>
+  </body>
+</html>
+--boundary123--
+```

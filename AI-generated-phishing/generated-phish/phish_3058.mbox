@@ -1,0 +1,51 @@
+From support@bank-secure.com Fri Jul 21 10:00:00 2023
+From: "Security Team" <support@bank-secure.com>
+Reply-To: security@mail-alerts.net
+To: victim@target.com
+Subject: Urgent: Unusual sign-in detected—verify now | Password expires today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual sign-in activity on your account. Immediate action required to secure your password and prevent unauthorized access. Your password expires today – reset immediately to avoid suspension.
+
+Verify your information now:
+https://www.bank-secure.com/verify
+
+Or use the emergency link:
+http://192.0.2.123/reset?uid=ABC123
+
+Failure to comply within 24 hours may lead to account suspension.
+
+Thank you,
+Security Team
+Bank Support
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong style="color:red;">Urgent:</strong> We detected an <em>unusual sign-in detected—verify now</em> on your <span style="text-decoration:underline;">account</span>. Your <strong>password expires today – reset immediately</strong> to avoid critical <span style="color:red;">danger</span>.</p>
+<p>Click the button below to secure your account:</p>
+<p>
+  <a href="http://192.0.2.123/verify?uid=ABC123" title="Password Reset">
+    <img src="http://cdn.bank-secure.com/images/warning.png" alt="Security Alert" width="200" height="50" />
+  </a>
+</p>
+<p>Or verify at <a href="http://secure.update.account.validation.com.verification.fake-domain.net/login?uid=ABC123">https://www.bank-secure.com/login</a></p>
+<p>Need direct link? <a href="http://203.0.113.45/reset">https://www.bank.com/reset-password</a></p>
+<p>For assistance, see our <a href="https://www.bank.com/privacy.policy/docs/index.html">Privacy Policy</a> or <a href="http://malicious.com/phish">click here</a>.</p>
+<p>Thank you,<br/>
+Security Team at Bank</p>
+</body>
+</html>
+
+----=_NextPart_000_0000--

@@ -1,0 +1,37 @@
+From service-update@dhl.com Thu Apr  1 15:45:00 2024
+Return-Path: <service-update@dhl.com>
+From: DHL Express <service-update@dhl.com>
+Reply-To: Customer Support <support@notification.dhl-team.com>
+To: victim@example.com
+Subject: Delivery Held – Action Required
+Date: Thu, 1 Apr 2024 15:45:00 +0000
+Message-ID: <20240401154500.12345@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D98FAF.5F8B5840"
+
+----=_NextPart_000_001D_01D98FAF.5F8B5840
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Your package delivery is on hold due to missing fees. Please visit the tracking link below to complete payment and release your parcel.
+
+Tracking Link: https://www.dhl.com/track?parcel=123456789
+
+If you have questions, contact us here: https://help.dhl.com/contact
+
+----=_NextPart_000_001D_01D98FAF.5F8B5840
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your shipment <b>#123456789</b> is currently <span style="color:red;">on hold</span> due to an <i>outstanding service fee</i>. To avoid further delays, please clarify the delivery by verifying your details and paying the small fee.</p>
+    <p>Track your package at: <a href="http://85.214.132.117/verify?ref=123456789">https://www.dhl.com/track?ref=123456789</a></p>
+    <p>Alternatively, you can <a href="http://malicious-site.net/payment">click here</a> to complete the payment.</p>
+    <p>For more info, see our <a href="http://help.dhl.com/privacy-policy">Privacy Policy</a> or <a href="http://help.dhl.com/terms-of-service">Terms of Service</a>.</p>
+    <p>Best regards,<br/>DHL Customer Service Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_001D_01D98FAF.5F8B5840--

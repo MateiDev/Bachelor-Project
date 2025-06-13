@@ -1,0 +1,56 @@
+From phishing@secure-notice.com Fri Sep 10 12:34:56 2021
+Return-Path: <no-reply@secure-notice.com>
+Received: from secure-notice.com (secure-notice.com [192.0.2.1])
+	by mx.target.com with ESMTP id ABC12345
+	for <victim@target.com>; Fri, 10 Sep 2021 12:34:56 -0500
+Date: Fri, 10 Sep 2021 12:34:56 -0500
+From: Secure Portal <no-reply@secure-notice.com>
+To: victim@target.com
+Subject: Urgent: Account Password Verification Required
+Message-ID: <20210910123456.abcdef@secure-notice.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7890123.1640000000000"
+
+------=_Part_123456_7890123.1640000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account. For your protection, your account
+password must be verified immediately to prevent suspension.
+
+Please click the link below to verify your credentials:
+http://secure.bank.login-portal.verify.example.com/login
+
+Or copy and paste into your browser:
+http://secure.bank.login-portal.verify.example.com/login
+
+Failure to verify within 24 hours will result in account suspension.
+
+Regards,
+Secure Portal Team
+
+------=_Part_123456_7890123.1640000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Password Verification Required</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p style="color:red"><strong>ALERT:</strong> We have detected <em>unusual activity</em> on your <u>account</u>. Immediate action is required to secure your <strong>password</strong>.</p>
+  <p>Please verify your credentials by clicking the secure link below:</p>
+  <p><a href="http://secure.bank.login-portal.verify.example.com/login"></a></p>
+  <p>If the link above does not work, please use the URL below:</p>
+  <p><a href="http://verify.bank-security-alert.com/confirm">http://portal.secure.example-login.bank.com/verify</a></p>
+  <p>Failure to verify your credentials within <strong>24 hours</strong> will result in suspension of your account.</p>
+  <p>Thank you for your prompt attention to this <strong>urgent</strong> matter.</p>
+  <br>
+  <p>Secure Portal Team</p>
+</body>
+</html>
+
+------=_Part_123456_7890123.1640000000000--

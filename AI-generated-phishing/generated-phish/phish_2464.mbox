@@ -1,0 +1,26 @@
+From service@paypal.com Fri Mar 24 12:34:56 2023
+Return-Path: <service@paypal.com>
+From: "PayPal Support" <service@paypal.com>
+Reply-To: "Help Desk" <support@verify-acc.com>
+To: user@domain.com
+Subject: Urgent: Your account has been suspended
+Date: Fri, 24 Mar 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We regret to inform you that your PayPal account has been suspended due to unusual activity. To avoid permanent limitation, please verify your identity immediately.</p>
+<p><a href="http://198.51.100.23/secure-signin.php">https://www.paypal.com/login/</a></p>
+<p>Or click the secure image link below:</p>
+<p><a href="http://secure.paypal.login.urgent-verification.com/"><img src="http://203.0.113.45/verify.png" alt="Verify Now" border="0"/></a></p>
+<p>For additional support, visit the links below:</p>
+<ul>
+<li><a href="http://fake.verify-acc.com/update-account">http://fake.verify-acc.com/update-account</a></li>
+<li><a href="http://login.paypal.com.security-check.site/confirm">http://login.paypal.com.security-check.site/confirm</a></li>
+</ul>
+<p>This is an urgent security notification. Failure to act within 24 hours will result in permanent account suspension.</p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>

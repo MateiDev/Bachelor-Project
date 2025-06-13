@@ -1,0 +1,46 @@
+From no-reply@irs.gov Sat Oct 07 12:34:56 2023
+From: "Account Services" <no-reply@irs.gov>
+Reply-To: support@security-update.com
+To: user@testmail.com
+Subject: Urgent: Account Password Verification Required for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+Our records indicate your requested tax refund of $85.00 is pending verification. Immediate action is required to avoid delays or penalties.
+
+Please confirm your bank information by visiting:
+https://secure.irs.gov/refund
+
+If you do not respond within 24 hours, your refund will be automatically canceled.
+
+Thank you,
+IRS Account Services
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records indicate your requested <strong>tax refund of $85.00</strong> is pending verification. <span style="color:red;">Immediate action is required</span> to avoid <em>delays</em> or <strong>penalties</strong>.</p>
+    <p>Please confirm your bank information by following the secure link below:</p>
+    <ul>
+      <li><a href="http://malicious.co/verify">https://secure.irs.gov/refund</a></li>
+      <li><a href="http://189.12.13.14/verify">Verify Now</a></li>
+      <li><a href="http://malicious-co.net/auth">click here</a></li>
+      <li><a href="http://malicious.co/confirm">here</a></li>
+      <li><a href="http://malicious-phish.com/track"></a></li>
+      <li><a href="http://189.12.13.14/auth"><img src="http://189.12.13.14/logo.png" alt="IRS Logo"/></a></li>
+    </ul>
+    <p>If you encounter any issues, visit our <a href="https://www.irs.gov/help">Help Center</a> or review our <a href="https://www.irs.gov/privacy">Privacy Policy</a>.</p>
+    <p>Failure to verify within 24 hours will result in cancellation of your refund.</p>
+    <p>Thank you,<br/>IRS Account Services</p>
+  </body>
+</html>
+
+--BOUNDARY123--

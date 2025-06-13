@@ -1,0 +1,27 @@
+From dhl_service@dhl.com Tue Jul 16 14:12:02 2024
+Return-Path: <dhl_notification@dhl.com>
+Delivered-To: user@inbox.com
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.23])
+	by mx.inbox.com (Postfix) with ESMTPS id 9F3B21C8
+	for <user@inbox.com>; Tue, 16 Jul 2024 14:12:02 +0000 (UTC)
+Date: Tue, 16 Jul 2024 14:12:00 +0000
+From: "DHL Delivery Updates" <dhl_service@dhl.com>
+Reply-To: <urgent.notice@203.0.113.5>
+Subject: Urgent: Delivery Notification - Final Notice
+Message-ID: <20240716141200.9F3B21C8@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Your shipment is currently held by our courier due to a pending release fee. This is a time-sensitive alert and immediate action required to avoid return to sender.</p>
+    <p>Please verify your delivery details and pay the small fee using the link below:</p>
+    <p><a href="http://198.51.100.23/track.update.release" title="urgent account password verification"></a></p>
+    <p>If you have already completed payment, confirm it here:</p>
+    <p><a href="http://203.0.113.5/payment.check.verify" title="account urgent password reset"></a></p>
+    <p><strong>Final Notice:</strong> Failure to respond within 24 hours will result in cancellation and additional charges.</p>
+    <p>Sincerely,<br/>
+    DHL Delivery Services Support Team</p>
+  </body>
+</html>

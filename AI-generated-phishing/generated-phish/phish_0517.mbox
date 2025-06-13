@@ -1,0 +1,47 @@
+From rewards@secure-eu.com Thu Jul 04 12:34:56 2024
+Return-Path: <rewards@secure-eu.com>
+Envelope-To: victim@testmail.com
+Delivery-date: Thu, 04 Jul 2024 12:34:56 +0000
+Subject: URGENT: Claim your €100 Voucher within 24 HOURS!
+From: "Secure Rewards" <rewards@secure-eu.com>
+Reply-To: "Customer Support" <support@verify-login.net>
+To: victim@testmail.com
+Date: Thu, 4 Jul 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_7890"
+
+------=_Part_123456_7890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+Your exclusive €100 voucher is expiring soon! You must claim it immediately.
+Click here: http://192.0.2.123/claim-voucher
+Or visit: http://malicious-sb-secure.com/redeem
+
+Best regards,
+Secure Rewards Team
+
+------=_Part_123456_7890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>ALERT! Your exclusive €100 gift card is about to EXPIRE!</strong><br>
+You have <span style="color:red;">24 HOURS</span> to claim your reward or it will be revoked.</p>
+<p>
+<!-- Image-based link -->
+<a href="http://192.0.2.123/claim-voucher"><img src="http://maliciousdomain.com/images/voucher_banner.jpg" alt="Claim Voucher" border="0"></a>
+</p>
+<p>Alternatively, you may <a href="http://malicious-sb-secure.com/redeem">here</a> to redeem now.</p>
+<p>For assistance, visit our <a href="https://www.securebank.com/help">Help Center</a> or see our 
+<a href="https://www.securebank.com/privacy">Privacy Policy</a>.<a href="http://maliciousdomain.com/steal"> </a></p>
+<p>Best regards,<br>
+Secure Rewards Team</p>
+</body>
+</html>
+
+------=_Part_123456_7890--

@@ -1,0 +1,60 @@
+From service@paypal.com Fri Jul 19 11:22:33 2024
+Return-Path: <service@paypal.com>
+Delivered-To: user@domain.com
+Received: from mail.paypal.com (mail.paypal.com [64.4.250.200]) by mx.domain.com with ESMTP id XYZ123 for <user@domain.com>; Fri, 19 Jul 2024 11:22:33 -0400 (EDT)
+From: "PayPal Support" <service@paypal.com>
+Reply-To: support@paypal-security.com
+Message-ID: <20240719112233.XYZ123@mail.domain.com>
+Subject: Urgent: Password Verification Required for Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001"
+
+----=_Part_000_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity in your account. To prevent suspension, please verify your password immediately by visiting the link below:
+
+https://www.paypal.com/login/security/verify
+http://secure-login-paypal.com/verify
+
+For support, visit https://customer.service.paypal.com/support or http://paypal-support.helpdocs.com
+
+Thank you,
+PayPal Security Team
+
+----=_Part_000_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity in your account. To prevent suspension, please verify your password immediately:</p>
+    <p>
+      <a href="http://secure-login-paypal.com/verify">
+        <img src="http://phishingsite.com/images/paypal_logo.png" alt="PayPal Login">
+      </a>
+    </p>
+    <p>Or go directly to 
+      <a href="http://secure-login-paypal.com/verify">
+        https://www.paypal.com/login/security/verify
+      </a>
+    </p>
+    <p>Need help? Visit 
+      <a href="http://paypal-support.helpdocs.com">
+        https://customer.service.paypal.com/support
+      </a>
+    </p>
+    <p>For our policies, see 
+      <a href="http://secure-login-paypal.com/privacy">Privacy Policy</a> or 
+      <a href="http://paypal-legal.org/terms"></a>
+    </p>
+    <p>Please <a href="http://mail.secure.login.paypal.com.phishingsite.ru/verify">click here</a> to continue.</p>
+    <p>Alternatively, <a href="http://here.modal.phish.org">here</a> for assistance.</p>
+  </body>
+</html>
+
+----=_Part_000_001--

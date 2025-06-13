@@ -1,0 +1,39 @@
+```mbox
+From phishing-scam@fake-delivery.com Fri Nov  3 09:15:42 2023
+Return-Path: <phishing-scam@fake-delivery.com>
+Received: from malicious-server.fake-delivery.com (malicious-server.fake-delivery.com. [192.0.2.1])
+        by mx.google.com with ESMTP id 12345;
+        Fri, 03 Nov 2023 09:15:42 -0700 (PDT)
+Date: Fri, 03 Nov 2023 16:15:42 +0000
+From: "Delivery Support" <support@fake-delivery.com>
+Subject: Urgent: Immediate Action Required to Release Your Parcel
+Content-Type: multipart/alternative; boundary="boundary1"
+
+--boundary1
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have been trying to contact you. Your parcel is on hold due to an unpaid delivery fee. Please proceed with the payment to ensure prompt delivery.
+
+Visit our website directly to proceed: http://192.0.2.2/payment
+
+Thank you,
+Customer Service Team
+
+--boundary1
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have been trying to contact you. Your parcel is on hold due to an unpaid delivery fee. It is urgent to proceed with the payment to ensure prompt delivery.</p>
+    <a href="http://192.0.2.2/payment"><img src="http://192.0.2.3/images/payment_button.jpg" alt="Pay Now"></a>
+    <p>Visit our <a href="">website</a> directly to proceed: <a href="http://192.0.2.2/payment">click here</a>.</p>
+    <p>Thank you,<br>Customer Service Team</p>
+    <p><a href="http://fake-delivery.com/privacy">Privacy Policy</a> | <a href="http://fake-delivery.com/support">Help</a></p>
+  </body>
+</html>
+
+--boundary1--
+```

@@ -1,0 +1,50 @@
+From service@paypal.com Mon Sep 20 10:22:31 2021
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.1])
+    by mx.google.com with ESMTP id e34si4794673qkf.30.1632132151000
+    for <victim@client.com>; Mon, 20 Sep 2021 10:22:31 -0700 (PDT)
+Date: Mon, 20 Sep 2021 10:22:31 -0700
+From: PayPal <service@paypal.com>
+Reply-To: support@update-paypal.com
+To: victim@client.com
+Subject: Urgent: Verify Your PayPal Account Password
+Message-ID: <E1jZ812-0005QX-LQ@paypal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="8754c8ccf4bddf5cb4050b903f33472e"
+
+--8754c8ccf4bddf5cb4050b903f33472e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unauthorized access to your PayPal account. Immediate action required to avoid suspension of your account and password reset.
+
+Please follow this link to verify your information:
+https://secure.paypal.com/login -> http://192.0.2.123/login
+
+Thank you for your prompt attention.
+
+PayPal Security Team
+
+--8754c8ccf4bddf5cb4050b903f33472e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Verify Your PayPal Account Password</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected <strong>unauthorized access</strong> to your <em>PayPal</em> <strong>account</strong>. <span style="color:#D8000C;">Immediate action required</span> to avoid suspension.</p>
+<p>Please <a href="http://192.0.2.123/login.php?session=abc123">click here</a> to verify your credentials now:</p>
+<p><a href="http://192.0.2.123/login.php?session=abc123">https://secure.paypal.com/login</a></p>
+<p>Or use our secure image portal:</p>
+<p><a href="http://192.0.2.123/secure"><img src="http://images.evilserver.net/paypal_logo.png" alt="PayPal Secure Login" border="0"/></a></p>
+<p>For support and privacy information, view our <a href="https://www.paypal.com/us/smarthelp/home">Help Center</a> or our <a href="https://www.paypal.com/us/legalhub/privacy-full">Privacy Policy</a>.</p>
+<p>For technical help, visit: <a href="http://198.51.100.45/help.support.paypal.com/contact">help.support.paypal.com/contact</a> or <a href="http://198.51.100.45/help.support.paypal.com/privacy-policy">help.support.paypal.com/privacy-policy</a>.</p>
+<p>Regards,<br/>
+PayPal Security Team</p>
+</body>
+</html>
+
+--8754c8ccf4bddf5cb4050b903f33472e--

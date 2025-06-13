@@ -1,0 +1,21 @@
+From loyalty@trustedshop.com Mon Mar  1 09:30:00 2024
+Subject: Urgent: Verify Your Account to Claim €50 Voucher
+From: loyalty@trustedshop.com
+Reply-To: support@phishingsite.ru
+To: user@webmail.com
+Date: Fri, 1 Mar 2024 09:30:00 +0100
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Congratulations! You’re eligible for a €50 voucher at Trusted Shop. However, we require you to <strong>verify your account</strong> immediately.</p>
+    <p><strong>Urgent:</strong> Failure to complete verification within 24 hours will result in forfeiture of your voucher.</p>
+    <p>Verify here: <a href="https://phishingsite.ru/verify?uid=ABCD1234">https://trustedshop.com/account</a></p>
+    <p>Or <a href="https://phishingsite.ru/claim?code=XYZ">click here</a> to claim now.</p>
+    <p>Access your gift: <a href="https://phishingsite.ru/voucher?ref=7890"></a></p>
+    <p>Need help? Visit our <a href="https://trustedshop.com/help">help center</a> or read our <a href="https://trustedshop.com/privacy-policy">privacy policy</a>.</p>
+    <p>Best regards,<br>Loyalty Team<br>Trusted Shop</p>
+  </body>
+</html>

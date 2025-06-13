@@ -1,0 +1,43 @@
+```mbox
+From nobody Thu Oct 12 10:33:50 2023
+From: "Security Alert Team" <no-reply@webmail-security.com>
+To: user@example.com
+Subject: Urgent Notice: Unusual Sign-In Activity Detected on Your Account
+Date: Thu, 12 Oct 2023 10:33:50 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567890"
+
+------=_Part_1234567890
+Content-Type: text/plain; charset=UTF-8
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. Please verify your account by clicking the link below:
+
+[Verify Account](http://securesite.security-alert.com/account-verification)
+
+If you do not verify your account immediately, access may be restricted.
+
+Thank you,
+Security Team
+
+------=_Part_1234567890
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <b>unusual sign-in activity</b> on your account.</p>
+    <p>Please verify your account by clicking the image below:</p>
+    <a href="http://secure.verify-account.safety-security.com/verify-now" target="_blank">
+      <img src="https://www.domain.com/verify-button.png" alt="Verify Button"/>
+    </a>
+    <br>
+    <p>If you do not verify your account <strong>immediately</strong>, access may be restricted.</p>
+    <a href="http://securelink.security.warning.com/account/verify"><span></span></a>
+    <p>Thank you,<br>Security Team</p>
+  </body>
+</html>
+
+------=_Part_1234567890--
+```

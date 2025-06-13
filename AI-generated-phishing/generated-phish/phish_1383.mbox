@@ -1,0 +1,52 @@
+From MAILER-DAEMON Fri Jun 14 08:00:00 2024
+Return-Path: <noreply@dhl-delivery.update-portal.com>
+Delivered-To: user@domain.com
+Received: from dhl-delivery.update-portal.com (unknown [203.0.113.1])
+    by mail.domain.com with ESMTP id ABC12345
+    for <user@domain.com>; Fri, 14 Jun 2024 08:00:00 -0700 (PDT)
+Message-ID: <20240614080000.noreply@dhl-delivery.update-portal.com>
+Date: Fri, 14 Jun 2024 08:00:00 -0700
+From: "DHL Delivery Update" <noreply@dhl-delivery.update-portal.com>
+Reply-To: support@secure-dhl.com
+To: user@domain.com
+Subject: Urgent: Delivery Notification for Your Package - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1234567890123"
+
+------=_Part_0_123456.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your shipment is currently on hold due to an incomplete payment of $2.99. Please verify your account information and pay the small fee to avoid return or disposal of your package.
+
+Visit the following link to review your delivery status and release your parcel:
+www.dhl.com/track
+
+If you fail to complete the payment within 24 hours, your package will be returned to the sender. We apologize for any inconvenience.
+
+Thank you,
+DHL Delivery Team
+
+------=_Part_0_123456.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Delivery Notification for Your Package - Action Required</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>Your shipment is currently <strong>on hold</strong> due to an incomplete payment of <strong>$2.99</strong>. Immediate action is <span style="color:red;">required</span> to avoid return or disposal of your parcel.</p>
+  <p>Please verify your <a href="http://auth.dhl-update.verify-payments.com" style="color:blue;">account</a> information and pay the small fee.</p>
+  <p>You can also track your package directly here: <a href="http://dhl-delivery.update-portal.com" target="_blank">www.dhl.com/track</a></p>
+  <p>Alternatively, <a href="http://malicious.domain.org/login" target="_blank">click here</a> to release your package.</p>
+  <p>For more information, please read our <a href="https://www.dhl.com/privacy-policy.html">privacy policy</a>.</p>
+  <p>If payment is not received within <strong>24 hours</strong>, the package will be returned.</p>
+  <p>Thank you,<br/>DHL Delivery Team</p>
+</body>
+</html>
+
+------=_Part_0_123456.1234567890123--

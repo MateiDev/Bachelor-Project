@@ -1,0 +1,48 @@
+```mbox
+From nobody Sun Oct  3 17:32:00 2023
+Return-Path: <security@notification-center.com>
+Received: from 192.168.1.100 (192.168.1.100)
+        by mail.fakeprovider.com (Postfix) with ESMTP id 73DF1234567
+        for <user@demotest.com>; Sun,  3 Oct 2023 17:32:00 +0000 (UTC)
+Date: Sun, 3 Oct 2023 17:32:00 +0000
+From: "Notification Center" <security@notification-center.com>
+To: <user@demotest.com>
+Subject: Security Alert: Unusual Sign-In Activity
+Content-Type: multipart/alternative; boundary="--boundary_1"
+
+----boundary_1
+Content-Type: text/plain; charset=UTF-8
+
+Dear User,
+
+We detected unusual sign-in activity on your account. Please verify your account by clicking the secure link below:
+
+http://secure-update-account.com.verify-signin.lsecremail.failover-check.com
+
+If this was not you, please follow the link to secure your account:
+
+[ http://update.securitycenter.com/ip_logins ]
+
+Thank you for your prompt attention to this matter.
+
+Notification Center Team
+
+----boundary_1
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected unusual sign-in activity on your account. Please verify your account by clicking the secure link below:</p>
+    <p><a href="http://192.0.2.0/updateaccount">http://secure-update-account.com.verify-signin.lsecremail.failover-check.com</a></p>
+    <p>If this was not you, please follow the link to secure your account:</p>
+    <p><a href="http://192.0.2.0/updateaccount">http://update.securitycenter.com/ip_logins</a></p>
+    <p><img src="http://192.0.2.0/secure_image_update" alt="Secure Image Update" /></p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Notification Center Team</p>
+    <p><a href="http://help.securitycenter.com">Help</a> | <a href="http://privacy.securitycenter.com">Privacy Policy</a></p>
+  </body>
+</html>
+
+----boundary_1--
+```

@@ -1,0 +1,40 @@
+From support@trustedbank.com Fri Jul  9 12:34:56 2021
+Return-Path: <support@trustedbank.com>
+Delivered-To: user@example.org
+Received: from [198.51.100.23] (unknown [198.51.100.23])
+    by mail.example.org with ESMTP id ABC12345
+From: "TrustedBank Support" <support@trustedbank.com>
+To: user@example.org
+Subject: urgent – account password evaluation required
+Date: Fri, 9 Jul 2021 12:34:56 +0000
+Message-ID: <20210709123456.123456@trustedbank.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family:Arial,sans-serif;background-color:#f5f5f5;padding:20px;">
+    <table width="600" align="center" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #ddd;">
+      <tr>
+        <td style="padding:20px;text-align:center;background:#004080;color:#ffffff;">
+          <h1 style="margin:0;font-size:24px;">TrustedBank Alert</h1>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:20px;color:#333333;">
+          <p>Dear Customer,</p>
+          <p><strong>Immediate action required:</strong> Your account password evaluation is <span style="color:#cc0000;">urgent</span>. To secure your profile and claim a €50 voucher, please verify your details below.</p>
+          <p>You're eligible for a €50 voucher—claim <a href="http://claimvoucher.malicious.co.xyz/verify" style="color:#0066cc;text-decoration:none;">here</a> before this offer expires!</p>
+          <p style="text-align:center;margin:30px 0;">
+            <a href="http://update.malicious.co.xyz/redeem">
+              <img src="http://cdn.trustedbank.com/images/voucher_button.png" alt="Claim Voucher" style="border:none;" />
+            </a>
+          </p>
+          <p>For your reference, visit our secure site at <a href="http://malicious.co.xyz/login" style="color:#0066cc;text-decoration:none;">https://www.trustedbank.com/login</a> to confirm.</p>
+          <p style="font-size:12px;color:#777777;">If you need assistance, visit our <a href="https://trustedbank.com/help">Help Center</a> or review our <a href="https://trustedbank.com/privacy-policy">Privacy Policy</a>.</p>
+          <p style="font-size:12px;color:#777777;">Thank you for banking with us.</p>
+          <p style="font-size:12px;color:#777777;">TrustedBank Security Team</p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

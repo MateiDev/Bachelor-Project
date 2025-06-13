@@ -1,0 +1,53 @@
+```mbox
+From owner-update@secure-accounts.com Sat Oct 14 12:34:56 2023
+Return-Path: <owner-update@secure-accounts.com>
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from mail.secure-accounts.com (mail.secure-accounts.com [192.168.1.100])
+	by mail.example.com (Postfix) with ESMTP id 1234567890
+	for <victim@example.com>; Sat, 14 Oct 2023 12:34:56 +0000 (UTC)
+Received: by mail.secure-accounts.com (Postfix)
+	id 9876543210; Sat, 14 Oct 2023 12:34:55 +0000 (UTC)
+Date: Sat, 14 Oct 2023 12:34:55 +0000 (UTC)
+From: "Account Security" <owner-update@secure-accounts.com>
+Reply-To: "no-reply@mail.com" <no-reply@mail.com>
+Subject: Urgent: Update Your Account Information
+To: victim@example.com
+Message-ID: <1234567890@mail.secure-accounts.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_987654321.1234567890123"
+
+------=_Part_123456_987654321.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected unusual activity on your account. Please verify your information immediately to avoid suspension. Click here: https://secure-accounts.com/verify
+
+Thanks,
+Account Security Team
+
+------=_Part_123456_987654321.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Verification Required</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We detected unusual activity on your account. Please verify your information immediately to avoid suspension.</p>
+<p><a href="https://secure-accounts.com/verify" style="display:inline-block;"><img src="https://secure-accounts.com/images/verify.png" width="150" height="50" alt="Verify Now"></a></p>
+<p>Click <a href="http://fake-update-secure.com/login">here</a> to verify.</p>
+<p style="color: transparent;"><a href="http://fake-update-secure.com/login">                 </a></p>
+<p>If you have questions, please visit our <a href="https://secure-accounts.com/help">help page</a> or our <a href="https://secure-accounts.com/privacy-policy">privacy policy</a>.</p>
+<p>Thanks,<br>
+Account Security Team<br>
+<small><a href="mailto:no-reply@mail.com">no-reply@mail.com</a></small></p>
+</body>
+</html>
+------=_Part_123456_987654321.1234567890123--
+```

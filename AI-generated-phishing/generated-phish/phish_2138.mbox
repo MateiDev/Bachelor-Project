@@ -1,0 +1,52 @@
+From phish@secure-mail.com Fri Jan  1 12:00:00 2021
+Return-Path: <no-reply@secure-mail.com>
+Delivered-To: user@victim.com
+Received: from mail.secure-mail.com (mail.secure-mail.com [123.45.67.89])
+    by victim.com with ESMTP id ABC123DEF; Fri, 1 Jan 2021 12:00:00 -0500
+Date: Fri, 1 Jan 2021 12:00:00 -0500
+From: Secure Mail <no-reply@secure-mail.com>
+Reply-To: security-alerts@secure-mail-support.com
+To: user@victim.com
+Subject: Urgent: Account Password Security Notice
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Our system detected suspicious activity on your account and temporarily encrypted your messages.
+To ensure continued access, please verify your identity and reset your password immediately.
+
+Visit the secure portal:
+https://secure-mail.service.login.verify-update.com/view?token=abc123
+
+If you have any questions, see our Privacy Policy at:
+https://www.secure-mail.com/privacy-policy
+
+Thank you,
+Secure Mail Support
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p>Dear User,</p>
+    <p style="color: #c00;"><strong>Urgent:</strong> Our system detected suspicious activity on your account and has encrypted your messages for security.</p>
+    <p>Please <a href="https://secure-mail.service.login.verify-update.com/view?token=abc123">click here</a> to view your secure messages and <a href="https://secure-mail.service.login.verify-update.com/authenticate">reset your password</a>.</p>
+    <p style="text-align: center;">
+      <a href="https://secure-mail.service.login.verify-update.com/view">
+        <img src="https://cdn.secure-mail.com/images/secure.png" alt="View Secure Message" style="border: none;">
+      </a>
+    </p>
+    <p>For assistance, visit our <a href="https://help.secure-mail.com/contact">help center</a> or read the <a href="https://www.secure-mail.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Thank you,<br>
+       Secure Mail Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

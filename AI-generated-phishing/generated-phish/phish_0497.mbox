@@ -1,0 +1,45 @@
+```mbox
+From user315@gmail.com Fri Oct 13 12:34:56 2023
+Return-Path: <user315@gmail.com>
+Received: from unknown (HELO mailserver.example.com) (192.0.2.45)
+  by yourmailserver.com with SMTP; Fri, 13 Oct 2023 12:34:56 +0000
+X-Spam-Flag: NO
+Received: from [192.0.2.100] (unknown [192.0.2.100])
+	by mailserver.example.com (Postfix) with ESMTP id 1A2BC3EDF4
+	for <you@yourmailserver.com>; Fri, 13 Oct 2023 12:34:56 +0000 (UTC)
+Date: Fri, 13 Oct 2023 12:34:56 +0000
+From: "Customer Support" <support@customercare-online.eu>
+To: you@yourmailserver.com
+Subject: URGENT: Confirm your €500 voucher now!
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <C0A80264.180251345@mailserver.example.com>
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We're thrilled to inform you that your account has been selected to rec=
+eive an exclusive <strong>&euro;500 voucher</strong>! This voucher is awa=
+iting your immediate claim. Act now to avoid losing this opportunity!</p=
+
+<p>To secure your voucher, please confirm your details by clicking the li=
+nk below:</p>
+
+<p><a href=3D"http://192.0.2.200/voucher/claim">http://example.com/voucher/cla=
+im</a></p>
+
+<p>Be advised that failure to confirm within <strong>24 hours</strong> wi=
+ll result in your voucher being forfeited.</p>
+
+<p>For terms and conditions, please visit <a href=3D"http://192.0.2.200/ter=
+ms">http://example.com/terms</a>.</p>
+
+<p>Thank you for your prompt attention to this urgent matter.</p>
+
+<p>Sincerely,<br>
+Customer Support Team</p>
+</body>
+</html>
+```

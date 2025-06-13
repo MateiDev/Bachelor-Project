@@ -1,0 +1,50 @@
+From phishing@example.com Sat Jan  1 12:00:00 2022
+Return-Path: <spoof@paypal.com>
+Delivered-To: victim@example.com
+Received: from mail.paypal.com (mail.paypal.com [127.0.0.1]) by mx.example.com with SMTP id abc123 for <victim@example.com>; Sat, 1 Jan 2022 12:00:00 -0000
+Date: Sat, 1 Jan 2022 12:00:00 -0000
+From: "PayPal Account Team" <service@paypal.com>
+Subject: urgent: account password verification required
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789"
+
+------=_Part_0_123456.789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal user,
+
+Warning: Your account has been suspended due to unusual activity.
+You must verify your password immediately to avoid permanent suspension.
+
+Please visit the link below to verify your account credentials:
+https://www.paypal.com/login
+http://secure.paypal-login.update-account.info/login
+
+Failure to verify within 24 hours will result in account closure.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_0_123456.789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear PayPal user,</p>
+<p style="color:red;"><strong>WARNING:</strong> Your account has been <strong>suspended</strong> due to <em>unusual activity</em>. You must verify your password <strong>immediately</strong> to avoid permanent suspension.</p>
+<p>Please click the button below to <u>verify your credentials</u>:</p>
+<p>
+<a href="http://secure.paypal-login.update-account.info/login">
+<img src="http://images.paypal.com/logo.png" alt="Verify Account" style="border: none;" />
+</a>
+</p>
+<p>Or click here: <a href="http://login.verify-paypal.com">https://www.paypal.com/login</a></p>
+<p>Failure to verify within <strong>24 hours</strong> will result in account closure.</p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+
+------=_Part_0_123456.789--

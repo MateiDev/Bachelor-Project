@@ -1,0 +1,63 @@
+From support@legitshop.com Sat Jun 29 12:34:56 2024
+Return-Path: <support@legitshop.com>
+Delivered-To: user@userdomain.com
+Received: from mx1.legitshop.com (mx1.legitshop.com [203.0.113.5])
+    by mail.userdomain.com with ESMTP id ABC123
+    for <user@userdomain.com>; Sat, 29 Jun 2024 12:34:56 +0000
+Subject: Urgent: Account Password Verification Required for €50 Voucher
+From: "LegitShop Rewards" <support@legitshop.com>
+To: <user@userdomain.com>
+Date: Sat, 29 Jun 2024 12:30:00 +0000
+Message-ID: <202406291230.support@legitshop.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account requires immediate password verification to claim your €50 voucher.
+Failure to act now will result in expiration of your reward.
+
+Verification Link: http://win.rewards.legit.shop.com/verify
+
+Or click here: http://bit.ly/claim50
+
+If you did not request this, please contact support.
+
+Regards,
+LegitShop Rewards Team
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p style="color:red;font-weight:bold;">Your account requires <strong>urgent</strong> password verification to claim your <strong>€50 voucher</strong>. Your reward will expire in <em>24 hours</em>. Act immediately!</p>
+    <p>
+      Verify now by visiting 
+      <a href="http://malicious.bad-actor.com/secure-claim">
+        http://www.safe-site.com/login.verify.account
+      </a>
+    </p>
+    <p>
+      Or <a href="http://bit.ly/fakevoucher">click here</a> to secure your voucher.
+    </p>
+    <p>
+      <a href="http://malicious.bad-actor.com/image-claim">
+        <img src="http://legitshop.com/images/voucher.png" alt="€50 Voucher" style="border:0;" />
+      </a>
+    </p>
+    <hr>
+    <p>
+      <a href="http://legitshop.com/privacy-policy.html">Privacy Policy</a> | 
+      <a href="http://legitshop.com/help.html">Help Center</a>
+    </p>
+  </body>
+</html>
+
+--BOUNDARY123--

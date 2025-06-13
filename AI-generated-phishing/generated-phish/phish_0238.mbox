@@ -1,0 +1,28 @@
+```mbox
+From phishing@example.com Fri Oct 13 15:32:09 2023
+Date: Fri, 13 Oct 2023 15:32:09 +0000
+From: "Support Team" <support@example.com>
+To: victim@example.com
+Subject: Urgent: Unusual sign-in detected on your account
+
+Dear Customer,
+
+We have detected an unusual sign-in attempt on your account from an unknown IP address. To ensure the security of your account, it is urgent that you verify your identity immediately.
+
+Please verify your account information by clicking the link below:
+http://192.168.0.1/verify-now
+
+Failure to verify your account within the next 24 hours will result in temporary suspension of your account.
+
+To protect your account, we also recommend you read our Privacy Policy here: <a href="https://example.com/privacy-policy"></a>.
+
+If you did not attempt to sign in, please reset your password immediately using the link provided to secure your account:
+http://192.168.0.1/reset-password
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+The Support Team
+
+For additional help, visit our Help Center: <a href="https://example.com/help">Help</a>
+```

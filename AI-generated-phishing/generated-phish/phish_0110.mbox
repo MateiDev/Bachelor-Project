@@ -1,0 +1,49 @@
+```mbox
+From - Fri Oct 06 09:14:00 2023
+X-Apparently-To: user@example.com via 203.0.113.1; Fri, 06 Oct 2023 09:14:00 +0000
+Return-Path: <tracking-updates@delivery-center.com>
+Received: from unknown (HELO mail.delivery-center.com) (192.0.2.1)
+  by mail.example.com with SMTP; Fri, 06 Oct 2023 09:14:00 +0000
+Date: Fri, 06 Oct 2023 09:14:00 +0000
+From: "Delivery Notifications" <tracking-updates@delivery-center.com>
+Reply-To: support@delivery-center.com
+To: user@example.com
+Subject: Important: Pending parcel delivery notification
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_3487_419437832.1696580040000"
+
+------=_Part_3487_419437832.1696580040000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We tried to deliver your parcel today, but it appears that no one was available to receive it. Please verify your address and arrange for re-delivery using the link below:
+
+Visit here to resolve the issue. If we don't hear from you within 48 hours, your package may be returned.
+
+Thank you for choosing our service.
+Delivery Team
+
+------=_Part_3487_419437832.1696580040000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parcel Delivery Notification</title>
+</head>
+<body>
+    <p>Dear Customer,</p>
+    <p>We tried to deliver your parcel today, but it appears that no one was available to receive it. Please verify your address and arrange for re-delivery using the link below:</p>
+    <p><a href="http://198.51.100.19/track?order=12345">Click here</a> to resolve the issue. If we don't hear from you within 48 hours, your package may be returned.</p>
+    <p>Thank you for choosing our service.<br>Delivery Team</p>
+    <p><a href="http://203.0.113.45/terms-of-use"><img src="http://203.0.113.45/images/terms.png" alt="Terms of Use"></a></p>
+    <p><a href="http://service.delivery-center.com/privacy-policy">Privacy Policy</a> | <a href="http://service.delivery-center.com/help">Help</a></p>
+</body>
+</html>
+
+------=_Part_3487_419437832.1696580040000--
+```

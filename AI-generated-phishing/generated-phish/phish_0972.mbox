@@ -1,0 +1,47 @@
+From no-reply@your-voucher-service.com Fri Jun 07 13:21:58 2024
+Return-Path: <no-reply@your-voucher-service.com>
+Received: from mail.your-voucher-service.com (mail.your-voucher-service.com [203.0.113.5])
+    by mx.internal.local with ESMTP; Fri, 07 Jun 2024 13:21:58 +0000
+From: "Voucher Service" <no-reply@your-voucher-service.com>
+To: user@domain.com
+Subject: Urgent: Your account voucher is expiring
+Message-ID: <20240607132158.abcdef@mail.your-voucher-service.com>
+Date: Fri, 07 Jun 2024 13:21:58 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789.159"
+
+------=_Part_123_456789.159
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+Your account has been flagged for inactivity and is at risk.
+You are eligible for a €50 voucher to reactivate your privileges.
+This offer is urgent and will expire in 24 hours.
+
+To claim your voucher, please visit:
+http://198.51.100.23/redeem
+
+Thank you,
+Voucher Service Team
+
+------=_Part_123_456789.159
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Notice</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>Your <strong>account</strong> has been flagged and is at risk. Immediate action is required to prevent loss of access.</p>
+<p>You’re eligible for a <strong>€50 voucher</strong>—claim <a href="http://198.51.100.23/redeem">here</a>.</p>
+<p>View your account security details at <a href="http://198.51.100.23/login">http://accounts.secure-login.com</a>.</p>
+<p>For more info, click <a href="http://198.51.100.23/track"></a>.</p>
+<p><a href="https://privacy.voucher-service.com">Privacy Policy</a> | <a href="https://help.voucher-service.com">Help Center</a></p>
+</body>
+</html>
+
+------=_Part_123_456789.159--

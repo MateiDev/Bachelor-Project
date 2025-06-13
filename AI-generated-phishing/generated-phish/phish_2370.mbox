@@ -1,0 +1,55 @@
+From rewards@voucher-bank.com Fri Jul  5 14:22:01 2024
+Message-ID: <20240705142201.rewards@voucher-bank.com>
+Date: Fri, 5 Jul 2024 14:22:01 +0000
+From: "Voucher Rewards" <rewards@voucher-bank.com>
+Reply-To: support@secure-payments-info.net
+To: user@clientmail.com
+Subject: Urgent Account Password Alert – Claim Your €100 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We regret to inform you that your account is at risk and you need to act immediately to secure your rewards. You’re eligible for a €100 voucher, but it will expire in 24 hours if unclaimed.
+
+Please visit: https://voucher.bank.com/redeem
+
+Alternatively, click here to claim now: http://192.0.2.123/claim
+
+Failure to claim may result in permanent loss of your reward.
+
+Thank you,
+Voucher Rewards Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+  <title>Urgent Account Password Alert</title>
+</head>
+<body>
+  <h1>Urgent Account Notice</h1>
+  <p>Dear Customer,</p>
+  <p>Your account security is our <strong>top priority</strong>. Immediate action is <strong>required</strong> to claim your €100 voucher before it expires!</p>
+  <p>
+    Redeem your voucher at:
+    <a href="http://malicious-hoster.net/redeem">https://voucher.bank.com/redeem</a>
+  </p>
+  <p>
+    Or <a href="http://203.0.113.5/claim">click here</a> to claim now.
+  </p>
+  <p>
+    <a href="http://192.0.2.123/claim">
+      <img src="http://203.0.113.5/images/voucher.png" alt="Your €100 Voucher" style="border: none;" />
+    </a>
+  </p>
+  <p><em>Warning: This is your last chance!</em></p>
+  <p>Sincerely,<br/>Voucher Rewards Team</p>
+</body>
+</html>
+
+--boundary123--

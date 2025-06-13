@@ -1,0 +1,32 @@
+```mbox
+From fake-rewards@legitstore.com Fri Oct  6 14:28:43 2023
+Return-Path: <fake-rewards@legitstore.com>
+Delivered-To: user@test.com
+Received: from suspiciousdomain.com (suspiciousdomain.com [123.456.78.9])
+        by mail.test.com (Postfix) with ESMTP id C4F8D123C8
+        for <user@test.com>; Fri,  6 Oct 2023 14:28:43 +0000 (UTC)
+Date: Fri, 06 Oct 2023 14:28:43 +0000
+From: Legit Store <fake-rewards@legitstore.com>
+Reply-To: no-reply@rewards-confirm.com
+Subject: URGENT: Claim Your €1000 Gift Card - Limited Time Offer!
+To: user@test.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <p>Dear Valued Customer,</p>
+    <p>Congratulations! You are eligible for an exclusive <strong>€1000 Gift Card</strong> from Legit Store!</p>
+    <p>To claim your reward, please act urgently and <a href="http://209.85.227.104/reward-claim" target="_blank">click here</a> or copy-paste the following into your browser: <a href="http://209.85.227.104/reward-claim">http://209.85.227.104/reward-claim</a></p>
+    <p>Don't miss out! This is a limited-time offer exclusive to select recipients.</p>
+    
+    <p style="margin-top:15px;"><a href="http://www.legitstore.com/track/offer"><img src="http://suspiciousdomain.com/images/giftcard.png" alt="Claim Your Gift Card Now!"></a></p>
+
+    <p>If you have any questions, visit our <a href="http://www.legitstore.com/privacy-policy">Privacy Policy</a> or <a href="http://www.legitstore.com/help">Help Center</a>.</p>
+
+    <p>Best Regards,<br>The Legit Store Team</p>
+
+    <p><a href="">    </a></p>
+</body>
+</html>
+```

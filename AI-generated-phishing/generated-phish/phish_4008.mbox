@@ -1,0 +1,41 @@
+From support@bank.com Tue Sep 14 08:12:31 2021
+Return-Path: <support@bank.com>
+Received: from mail.bank.com (mail.bank.com [203.0.113.10]) by mail.example.com with ESMTPS id abc123
+    for <user@example.com>; Tue, 14 Sep 2021 08:12:31 -0400 (EDT)
+Date: Tue, 14 Sep 2021 08:12:31 -0400
+From: "Support Team" <support@bank.com>
+To: user@example.com
+Subject: URGENT: Account Password Expires Today – Reset Immediately
+Message-ID: <20210914081231.abc123@mail.bank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123_456789.1631627551000"
+Reply-To: hacker@evil.com
+
+----=_Part_123_456789.1631627551000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected on your account. Your password expires today. To avoid suspension, please verify your identity now by visiting the link below:
+
+http://192.168.0.1/verify?user=123
+
+Thank you,
+Support Team
+
+----=_Part_123_456789.1631627551000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<h2 style="color:red">URGENT: Unusual sign-in detected—verify now</h2>
+<p>Your <strong>account</strong> <strong>password</strong> <em>expires today</em> – <a href="http://192.168.0.1/reset?uid=123"><img src="http://198.51.100.23/btn_reset.png" alt="Reset Password"></a></p>
+<p>Alternatively, go to <a href="http://login.bank.site.secure-update.com">http://bank-update.com</a></p>
+<p><a href="http://192.0.2.5/secure-login"></a></p>
+<img src="http://tracker.evil-log.com/track.png" width="1" height="1" alt="">
+</body>
+</html>
+
+----=_Part_123_456789.1631627551000--

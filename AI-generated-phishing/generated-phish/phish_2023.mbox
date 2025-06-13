@@ -1,0 +1,27 @@
+From no-reply@irs.gov Sat Jul  8 12:34:56 2023
+Return-Path: <no-reply@irs.gov>
+Delivered-To: victim@domain.com
+Received: from mail.irs.gov (mail.irs.gov [192.0.2.1]) by mx.domain.com with ESMTP id ABC123XYZ for <victim@domain.com>; Sat,  8 Jul 2023 12:34:56 -0400
+From: "IRS Refund Dept" <no-reply@irs.gov>
+To: victim@domain.com
+Subject: IMPORTANT: Immediate Tax Refund Confirmation Required
+Date: Sat, 08 Jul 2023 12:34:50 -0400
+Reply-To: support@secure-refund-update.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>URGENT:</strong> Your <strong>2022 tax refund</strong> of <strong>$85.17</strong> is <span style="color:red;">READY</span> but <strong>WILL BE CANCELED</strong> if not claimed within 48 hours!</p>
+    <p>Please <a href="http://secure.irs.tax-update.verify-login.com/collect-info">click here to confirm your bank details</a> immediately to avoid delay.</p>
+    <p>If the link above fails, copy &amp; paste this into your browser:</p>
+    <p><code>http://www.irs.gov.update.refund-service.online/confirm</code></p>
+    <p>Alternatively, check your status here: <a href="http://malicious.phish-server.net/status">https://secure.irs.gov/portal-refund/status</a></p>
+    <p><a href="http://phish-domain.com/login"><img src="http://cdn.irs-secure-verify.net/button.jpg" alt="Verify Now" width="200" height="50"/></a></p>
+    <p>For general info (no change): <a href="https://www.irs.gov/refund-status">https://www.irs.gov/refund-status</a></p>
+    <p>Review our <a href="https://www.irs.gov/privacy-policy">Privacy Policy</a> and <a href="https://www.irs.gov/help">Help Center</a> for assistance.</p>
+    <p><em>Failure to ACT NOW will cause your refund to be forfeited.</em></p>
+    <p>Sincerely,<br/>IRS Payment Processing Team</p>
+  </body>
+</html>

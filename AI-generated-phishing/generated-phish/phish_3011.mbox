@@ -1,0 +1,48 @@
+From mailer-daemon@fakeserver.com Sat Jul 24 14:12:00 2021
+Subject: Urgent: Account Password Reward Notification
+From: "Amazon Rewards" <no-reply@amazon.com>
+Reply-To: support@secure-update.net
+Message-ID: <1234abcd@mail.fake>
+Date: Sat, 24 Jul 2021 14:12:00 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+------=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+You are eligible for a €50 voucher. Please view in HTML format to claim your reward.
+
+------=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>urgent: account password</title></head>
+<body>
+  <p>Dear Customer,</p>
+  <p>Congratulations! You have been selected for a special reward.</p>
+  <p>To claim your €50 voucher, please click the link below:</p>
+  <p>
+    <a href="http://123.45.67.89/claim">
+      <img src="http://images.trust-amazon.com/banner.jpg" alt="Claim Your Reward">
+    </a>
+  </p>
+  <p>Or use one of the direct links below:</p>
+  <ul>
+    <li>
+      <a href="http://123.45.67.89/voucher">http://secure.amazon.com/reward/voucher</a>
+    </li>
+    <li>
+      <a href="https://secure.update.amazon.co.uk/login"></a>
+    </li>
+    <li>
+      <a href="http://45.33.32.156/reset">https://amazon-security.update.com/password-reset</a>
+    </li>
+  </ul>
+  <p><strong>Note:</strong> You must claim within 24 hours or your voucher will expire.</p>
+  <p>Best regards,<br>Amazon Rewards Team</p>
+</body>
+</html>
+
+------=_NextPart_000_0000--

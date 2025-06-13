@@ -1,0 +1,59 @@
+From it-support@company.com Wed Jan 27 12:34:56 2021
+Return-Path: <it-support@company.com>
+Delivered-To: user@company.com
+Received: from securemail.company.com (securemail.company.com [203.0.113.5])
+    by mail.company.com with ESMTP id abc123 for <user@company.com>; Wed, 27 Jan 2021 12:34:56 +0000
+Date: Wed, 27 Jan 2021 12:34:56 +0000
+From: "IT Support Team" <it-support@company.com>
+Reply-To: attacker@malicious.com
+Subject: Urgent: Account Password Verification Required Immediately
+To: user@company.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+As part of our new security protocol, we require you to verify your account password immediately to avoid service interruption. Please visit the link below to confirm your credentials:
+
+https://secure.company.com/portal/login
+
+Thank you,
+IT Support Team
+Company Inc.
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Password Verification Required Immediately</title>
+</head>
+<body>
+  <p>Dear User,</p>
+  <p>
+    Our security systems have detected unusual activity on your account. To prevent suspension, please verify your password immediately by clicking on the link below:
+  </p>
+  <p>
+    <a href="http://secure.login.portal.company.com.phish.malicious.net/verify">click here</a>
+  </p>
+  <p>
+    If the button above does not work, please <a href="http://malicious.com/verify?user=user123">here</a>.
+  </p>
+  <p>
+    <a href="https://company.com/privacy">Privacy Policy</a> | <a href="https://company.com/help">Help Center</a>
+  </p>
+  <p>
+    <a href="http://malicious.com/portal">
+      <img src="http://malicious.com/images/securemail_logo.png" alt="SecureMail Portal" border="0">
+    </a>
+  </p>
+  <p>Thank you,<br>IT Support Team<br>Company Inc.</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

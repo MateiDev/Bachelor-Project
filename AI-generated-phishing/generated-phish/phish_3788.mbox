@@ -1,0 +1,53 @@
+From fiscal@taxauthority.gov Fri Jun 14 10:30:00 2024
+Subject: Urgent: Account Tax Refund Verification Needed
+From: "Tax Department" <no-reply@taxauthority.gov>
+Reply-To: support-team@service-refunds.com
+To: user@victim.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+Date: Fri, 14 Jun 2024 10:30:00 -0400
+
+------=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Our records indicate you have a pending tax refund. To process your payment, please confirm your bank details immediately to avoid delays.
+
+Visit the verification pages:
+http://192.0.2.123/verify
+http://secure.refund.payments.org/confirm-details
+
+You may also check the status:
+http://taxauthority.gov/status
+
+Failure to confirm may result in refund cancellation.
+
+Sincerely,
+Tax Department
+
+------=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Tax Refund Verification</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>Our records indicate you have a pending tax refund. To process your payment, please confirm your bank details <a href="http://192.0.2.123/verify">click here</a> or <a href="http://192.0.2.123/verify">here</a> or access your account via <a href="http://refund-secure.payments.org/confirm-details"></a>.</p>
+<p>You can also review our <a href="http://www.taxauthority.gov/privacy-policy">privacy-policy</a> or <a href="http://support.taxauthority.gov/help">help</a> for more information.</p>
+<p>Direct link: <a href="http://192.0.2.123/phish">http://tax.gov/refund</a></p>
+<p><a href="http://refund-secure.payments.org/bank"><img src="http://192.0.2.123/logo.png" alt="Verify Refund" /></a></p>
+<p>Multiple links for your convenience:</p>
+<ul>
+<li><a href="http://secure.refund.payments.org/status">check status</a></li>
+<li><a href="http://192.0.2.123/update">update info</a></li>
+</ul>
+<p>Failure to confirm may result in refund cancellation.</p>
+<p>Sincerely,<br/>Tax Department</p>
+</body>
+</html>
+------=_NextPart_000_001--

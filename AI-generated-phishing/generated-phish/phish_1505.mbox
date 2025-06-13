@@ -1,0 +1,37 @@
+From support@bankonline.com Mon Jan  8 12:34:56 2024
+Return-Path: <noreply@bankonline.com>
+Delivered-To: user@legitmail.com
+Received: from smtp.bankonline.com (smtp.bankonline.com [198.51.100.25])
+    by mail.legitmail.com with ESMTP id ZYx12345
+    for <user@legitmail.com>; Mon, 8 Jan 2024 12:34:56 +0000
+From: "BankOnline Support" <support@bankonline.com>
+Reply-To: "Urgent Security Team" <security@notify-secure.com>
+To: user@legitmail.com
+Subject: urgent: account password expires today – verify now
+Date: Mon, 8 Jan 2024 12:34:56 +0000
+Message-ID: <NZf8YkOaC7@mail.bankonline.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p>Dear Customer,</p>
+    <p>We detected an <strong>unusual sign-in</strong> attempt on your account. Your <strong>password expires today</strong>. To avoid interruption, please verify your identity immediately.</p>
+    <p>
+      <a href="http://203.0.113.10/login">
+        <img src="https://bankonline.com/assets/verify-now.png" alt="Verify Now" width="200" height="50" style="border: none;" />
+      </a>
+    </p>
+    <p>If you cannot view the button, <a href="http://203.0.113.10/login">click here</a> to verify now.</p>
+    <p>Additional resources:</p>
+    <ul>
+      <li><a href="https://bankonline.com/privacy">Privacy Policy</a></li>
+      <li><a href="https://bankonline.com/help">Help Center</a></li>
+    </ul>
+    <p>Alternatively, click <a href="http://modalnotifications-secure.com/modal?uid=839201">here</a> to proceed with the security check.</p>
+    <p><a href="http://192.0.2.45/security-check"></a></p>
+    <p>Thank you for your prompt attention to this <strong>urgent</strong> matter.</p>
+    <p>Best regards,<br/>BankOnline Security Team</p>
+  </body>
+</html>

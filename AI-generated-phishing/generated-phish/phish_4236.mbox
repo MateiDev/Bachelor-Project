@@ -1,0 +1,55 @@
+From support@secure-login.com Tue Mar 14 10:12:00 2023
+Return-Path: <support@secure-login.com>
+Received: from mail.secure-login.com (mail.secure-login.com [198.51.100.10])
+    by inbound.targetdomain.com with ESMTP id ABC123
+    for <user@targetdomain.com>; Tue, 14 Mar 2023 10:12:00 -0400
+From: "Secure Login Support" <support@secure-login.com>
+To: user@targetdomain.com
+Reply-To: "Account Security" <security@accounts-verify.com>
+Subject: Urgent: Account Password Expiry Notification
+Date: Tue, 14 Mar 2023 10:12:00 -0400
+Message-ID: <20230314101200.12345@mail.secure-login.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in detected from a new device. For your immediate security, please verify now by visiting the link below:
+
+https://security.targetdomain.com/verify
+
+Also, your password expires today. Reset immediately:
+
+https://security.targetdomain.com/reset
+
+Failure to act may lead to suspension of your account.
+
+Regards,
+Secure Login Support Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Urgent: Account Password Update Required</title>
+</head>
+<body>
+  <p>Dear User,</p>
+  <p><strong>Unusual sign-in detected—verify <span style="color:red;">now</span>!</strong></p>
+  <p>We have detected an unusual sign-in attempt on your <strong>account</strong>. To secure your account, please <a href="http://203.0.113.45/verify?user=12345">here</a> to verify immediately.</p>
+  <p><strong>Password expires today – reset <em>immediately</em> or risk <span style="color:red;">suspension</span>.</strong></p>
+  <p>Reset your password by visiting <a href="http://198.51.100.23/reset-password">https://security.targetdomain.com/reset-password</a>.</p>
+  <p>Need help? Visit our <a href="http://203.0.113.45/help">Help Center</a> or <a href="http://203.0.113.45/privacy.policy">Privacy Policy</a>.</p>
+  <p>Thank you,<br>Secure Login Support Team</p>
+  <a href="http://198.51.100.23/login"></a>
+</body>
+</html>
+
+----=_Part_12345_67890--

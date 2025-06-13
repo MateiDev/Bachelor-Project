@@ -1,0 +1,46 @@
+From nobody Sun Oct 10 10:10:10 2023
+Return-Path: <fake.email@phishyplace.com>
+Received: from phishyplace.com (phishyplace.com [123.45.67.89])
+	by yourmailserver.com (Postfix) with ESMTP id 1234567890
+	for <victim@targetdomain.com>; Sun, 10 Oct 2023 10:10:10 -0000 (GMT)
+Date: Sun, 10 Oct 2023 10:10:10 -0000
+From: "Tax Refund Service" <noreply@taxservice.com>
+Reply-To: urgent@contactform-information.com
+Subject: Urgent! Confirm Your Refund Details
+To: <victim@targetdomain.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1234567890"
+
+--1234567890
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have determined that you are eligible for a tax refund of $350.00. To confirm your payment details, please follow the link below:
+
+http://tax.confirm-details.com
+
+Please act urgently to ensure your refund is processed.
+
+Best,
+Tax Refund Team
+
+--1234567890
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <img src="http://secure.tax.imageservice.com/logo.png" alt="Tax Logo" />
+    <p>Dear Taxpayer,</p>
+    <p>We have <b>determined</b> that you are <b>eligible</b> for a <b>tax refund</b> of <b>$350.00</b>. To confirm your payment details, please follow the link below:</p>
+    <p><a href="http://tax.confirm-details.com">click here</a></p>
+    <p>Please act <b>urgently</b> to ensure your refund is processed.</p>
+    <p>For questions, visit our <a href="http://taxservice.com/help">help</a> page or check our <a href="http://taxservice.com/privacy-policy">privacy policy</a>.</p>
+    <p>Best,</p>
+    <p>Tax Refund Team</p>
+</body>
+</html>
+
+--1234567890--

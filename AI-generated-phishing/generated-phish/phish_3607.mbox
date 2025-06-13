@@ -1,0 +1,64 @@
+From support@banksecure.com Sat Jun 10 08:33:10 2023
+Return-Path: <support@banksecure.com>
+Message-ID: <20230610083310.12345@banksecure.com>
+Date: Sat, 10 Jun 2023 08:33:10 +0200
+From: Bank Security Team <support@banksecure.com>
+Reply-To: account-update-team@secure-service.net
+To: user@dummy.org
+Subject: urgent: password verification needed for your account
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_7890123456.1686384790000"
+
+------=_Part_123456_7890123456.1686384790000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity on your account. To avoid suspension,
+you must verify your password immediately.
+
+You’re eligible for a €50 voucher — claim here:
+http://203.0.113.45/claimvoucher
+
+Or verify your account at:
+http://login.security.bank-update.claims.com/verify
+
+Failure to respond within 24 hours will result in account suspension.
+
+Sincerely,
+Bank Security Team
+
+------=_Part_123456_7890123456.1686384790000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>urgent account password verification</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p style="color:red; font-weight:bold;">We have detected <strong>unusual activity</strong> on your <em>account</em>.
+To avoid <strong>suspension</strong>, you must verify your <u>password</u> immediately.</p>
+<p>You’re eligible for a €50 voucher — claim 
+<a href="http://203.0.113.45/claimvoucher">here</a> 
+or click the image below:</p>
+<p>
+<a href="http://198.51.100.23/claim"><img src="http://198.51.100.23/gift.png" alt="Gift Voucher" title="urgent reward"/></a>
+</p>
+<p>Alternatively, visit 
+<a href="http://192.0.2.55/silent?token=abc"></a>
+<a href="http://login.security.bank-update.claims.com/verify">http://login.security.bank-update.claims.com/verify</a></p>
+<p>If that link does not work, please 
+<a href="http://phishersite.net/steal">http://account.security-monitoring.com</a></p>
+<p>Quick access: click <a href="http://modal-offer-service.net/redeem">here</a> to redeem your gift.</p>
+<p><a href="https://banksecure.com/privacy.html">Privacy Policy</a> | 
+<a href="https://banksecure.com/help.html">Help Center</a></p>
+<p>Failure to respond within <strong>24 hours</strong> will result in <em>immediate suspension</em>.</p>
+<p>Sincerely,<br/>Bank Security Team</p>
+</body>
+</html>
+
+------=_Part_123456_7890123456.1686384790000--

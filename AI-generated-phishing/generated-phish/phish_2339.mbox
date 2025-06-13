@@ -1,0 +1,44 @@
+From service@paypal.com Sat Sep 12 08:15:30 2023
+Return-Path: <no-reply@paypal.com>
+Received: from unknown (HELO mail.paypal.com) (192.0.2.1) by mailgateway.local with SMTP; Sat, 12 Sep 2023 08:15:30 -0400
+From: PayPal <service@paypal.com>
+To: user@domain.com
+Subject: IMPORTANT: Unusual sign-in detected – Verify Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890"
+
+----=_Part_1234_567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Urgent: Unusual sign-in detected on your account.
+We detected a high-risk login attempt. To prevent suspension, verify your identity now:
+http://192.168.0.100/verify
+
+Your password expires today. Reset immediately to avoid losing access:
+http://198.51.100.25/reset
+
+For assistance, click here:
+http://help.payments.update.bank.com/support
+
+----=_Part_1234_567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Urgent:</strong> Unusual sign-in detected on your account.</p>
+    <p>We detected a high-risk login attempt. To prevent account suspension, verify your identity now:
+      <a href="http://192.168.0.100/verify"></a>
+    </p>
+    <p>Your password <em>expires today</em>. Reset immediately to avoid losing access:
+      <a href="http://198.51.100.25/reset">
+        <img src="http://198.51.100.25/images/alert.png" alt="Reset Now" />
+      </a>
+    </p>
+    <p>For assistance, <a href="http://help.payments.update.bank.com/support">click here</a>.</p>
+    <p><a href="http://secure.bank.com.policy.update/account">Here</a> is our privacy policy.</p>
+  </body>
+</html>
+
+----=_Part_1234_567890--

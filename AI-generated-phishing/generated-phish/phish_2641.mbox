@@ -1,0 +1,29 @@
+From - Tue Oct 17 13:40:10 2023
+X-Account-Key: account2
+X-UIDL: 3
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <no-reply@secure-update.org>
+Received: from unknown (HELO 192.168.1.102) (192.168.1.102)
+  by mail.example.com with SMTP; Tue, 17 Oct 2023 13:35:20 +0000
+Message-ID: <005601d8e9ec$0d5945e0$281930a0$@secure-update.org>
+Reply-To: support-updates@secure-help.org
+From: "Service Support" <no-reply@important-notice.com>
+To: victim@example.com
+Subject: Urgent Account Update Required
+Date: Tue, 17 Oct 2023 08:35:00 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected suspicious activity in your <strong>account</strong> that requires immediate attention. Failure to verify your account may result in temporary suspension.</p>
+    <p>Please <a href="http://192.168.1.103/login.php">click here</a> to verify your information.</p>
+    <p>You can also access your account verification page by following this link: <a href="http://secure-update-alert.com/verify">www.secure-update.com/login</a></p>
+    <p>Visit our <a href="https://legitimate-service.com/privacy-policy">privacy policy</a> and <a href="https://legitimate-service.com/help">help page</a> for more information.</p>
+    <p>If you didn't request this, please ignore this email and contact support <a href="http://"> </a></p>
+    <p>Thank you,<br/>Service Support Team</p>
+  </body>
+</html>

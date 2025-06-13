@@ -1,0 +1,42 @@
+```
+From - Sun Oct 29 13:37:00 2023
+X-GM-THRID: 1555555555555555555
+X-Gmail-Labels: Important, Inbox
+Received: by 2002:a0c:7005:0:0:0:0:0 with SMTP id ab10cdefghij12;
+        Sun, 29 Oct 2023 13:37:00 -0700 (PDT)
+X-Received: by 2002:a0c:8002:: with SMTP id j4mr1233333qvr.11.1698603420000;
+        Sun, 29 Oct 2023 13:37:00 -0700 (PDT)
+Return-Path: <service@secure-update.com>
+Received: from unknown-host.com (unknown-host.com. [192.0.2.123])
+        by smtp.gmail.com with SMTP id bb8si5677789qvb.23.2023.10.29.13.37.00;
+        Sun, 29 Oct 2023 13:37:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of service@secure-update.com designates 192.0.2.123 as permitted sender) client-ip=192.0.2.123;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@secure-update.com header.s=2023 header.b=abcdefg;
+       spf=pass (google.com: domain of service@secure-update.com designates 192.0.2.123 as permitted sender) smtp.mailfrom=service@secure-update.com;
+       dmarc=pass (p=REJECT sp=QUARANTINE dis=NONE) header.from=secure-update.com
+Message-ID: <abcdefg1234567890@secure-update.com>
+Date: Sun, 29 Oct 2023 20:37:00 +0000
+From: Service Team <service@secure-update.com>
+Subject: Urgent: Action Required - Update Your Account Information Immediately
+To: user@example.com
+Content-Type: text/html; charset=UTF-8
+MIME-Version: 1.0
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We have detected <strong>unusual activity</strong> in your account. It is essential to <strong>update your information</strong> immediately to avoid potential account suspension.</p>
+  <p>This procedure offers enhanced security and prevents unauthorized access to your account.</p>
+  <p>Please <a href="http://192.168.0.1/secure-login"><img src="http://secure-update.com/link.jpg" alt="Update Now" /></a> or follow the link below:</p>
+  <p><a href="http://192.168.0.1/secure-login"></a>https://secure-update.com/login</p>
+  <p>Failure to comply could result in <strong>permanent suspension</strong> of your account.</p>
+  <p>Thank you for your prompt attention to this matter.</p>
+  <p>Best regards,</p>
+  <p>The Security Team</p>
+</body>
+</html>
+```

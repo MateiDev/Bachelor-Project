@@ -1,0 +1,50 @@
+From no-reply@tax.gov Wed Jul 31 12:34:56 2024
+Return-Path: <no-reply@tax.gov>
+Delivered-To: user@inbox.mail
+Received: from mail.tax.gov (mail.tax.gov [203.0.113.5])
+        by mx.securemail.net with ESMTPS id abc123
+        for <user@inbox.mail>; Wed, 31 Jul 2024 12:34:56 +0000 (UTC)
+From: "HM Revenue & Customs" <no-reply@tax.gov>
+Reply-To: support@taxupdate-account.cn
+To: user@inbox.mail
+Subject: URGENT: Confirm Your £17.25 Tax Refund Now
+Date: Wed, 31 Jul 2024 12:34:56 +0000
+Message-ID: <20240731123456.1@mail.tax.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+        boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your request and found that you are owed a small refund of £17.25.
+To receive this amount, please confirm your bank details at your earliest convenience.
+
+Go to: http://192.0.2.123/confirm
+or visit: http://tax.gov/refund
+
+HM Revenue & Customs Fraud Prevention Service
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records indicate you are entitled to a refund of <strong>£17.25</strong>.</p>
+    <p>To expedite your payment, please <a href="http://192.0.2.123/confirm">confirm your bank details</a> immediately.</p>
+    <p>You may also access your refund status via our secure portal here: 
+      <a href="http://verify.tax.gov.refund.confirmation.com/secure">http://tax.gov/refund</a>
+      <a href="http://malicious.site/confirm"></a>
+    </p>
+    <p>Thank you for your prompt attention.</p>
+    <p>HM Revenue & Customs<br/>
+       Automated Refund Department</p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

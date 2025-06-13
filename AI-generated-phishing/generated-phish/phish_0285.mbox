@@ -1,0 +1,44 @@
+```mbox
+From example@example.com Tue Oct  3 14:32:10 2023
+Return-Path: <example@example.com>
+Received: from unknown (HELO example.com) (192.168.1.100)
+  by smtp.example.com with SMTP; Tue, 3 Oct 2023 14:32:10 -0400
+Date: Tue, 3 Oct 2023 14:32:10 -0400
+From: "Customer Support" <support@service-alerts.com>
+Reply-To: secure-login@customerservice-review.com
+Subject: Urgent: Update Your Account Password Immediately
+To: recipient@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Notification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected unusual activity on your account and for your protectio=
+n, we strongly advise you to update your credentials immediately.</p>
+<p>Kindly <a href=3D"http://203.0.113.10/login">click here</a> to verify y=
+our account information. Failure to do so may result in account suspension=
+.</p>
+<p>For your convenience, here are some helpful links:</p>
+<ul>
+  <li><a href=3D"http://www.secure-login.com/accounts">www.secure-login.co=
+m/accounts</a></li>
+  <li><a href=3D"http://203.0.113.10/login">Secure Login Page</a></li>
+  <li><a href=3D"http://support.serivce-alerts.com">Contact Support</a></l=
+i>
+</ul>
+<p>If you have any questions, don’t hesitate to reply to this e-mail.</p>
+<p>Thank you for your immediate attention to this urgent matter.</p>
+<p>Best regards,</p>
+<p>Customer Support</p>
+<ul>
+  <li><a href=3D"http://malicious-ip.example.com"> </a></li> <!-- Empty -->
+</ul>
+</body>
+</html>
+```

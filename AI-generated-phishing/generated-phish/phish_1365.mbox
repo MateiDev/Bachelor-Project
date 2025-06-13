@@ -1,0 +1,48 @@
+From MAILER-DAEMON Mon Jul 24 15:55:00 2023
+From: "DHL Express Notifications" <no-reply@dhl-express.com>
+To: customer@domain.com
+Subject: Delivery Failed – Action Required
+Date: Mon, 24 Jul 2023 15:55:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1cc0d1a52"
+
+--1cc0d1a52
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We attempted to deliver your parcel (Tracking ID: 1Z999AA10123456784) but could not complete the delivery.
+
+Please verify your delivery details and pay the small handling fee to avoid additional storage charges:
+
+Visit: https://www.dhl.com/verify  
+OR  
+Pay fee: http://203.0.113.5/hold
+
+Thank you,  
+DHL Express
+
+--1cc0d1a52
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>Urgent: Account Notification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your parcel (<strong>Tracking ID: 1Z999AA10123456784</strong>) but were unable to complete the delivery. To avoid additional storage fees, please <strong>verify your delivery details</strong> and pay the <em>handling fee</em> within 24 hours:</p>
+<ul>
+<li>Verify details: <a href="http://203.0.113.5/verify">https://www.dhl.com/verify</a></li>
+<li>Reschedule delivery: <a href="https://track.dhl.com/reschedule">http://198.51.100.23/reschedule</a></li>
+</ul>
+<p>If you need assistance, <a href="http://203.0.113.5/help">click here</a> to contact our support team.</p>
+<p align="center">
+<a href="http://192.0.2.123/login"><img src="cid:dhl-logo" alt="DHL Express"></a>
+</p>
+<p>For more information, please review our <a href="http://203.0.113.5/privacy">Privacy Policy</a> or <a href="http://203.0.113.5/terms">Terms of Service</a>.</p>
+<p>Thank you for choosing DHL Express!</p>
+</body>
+</html>
+
+--1cc0d1a52--

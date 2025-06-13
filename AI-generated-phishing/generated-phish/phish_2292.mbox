@@ -1,0 +1,55 @@
+From phishing-bank@mailer.trustedbank.com Thu Feb 22 08:15:00 2024
+Return-Path: <notifications@trustedbank.com>
+Received: by mail.trustedbank.com id 1a2b3c4d5e6; Thu, 22 Feb 2024 08:15:00 +0000 (UTC)
+From: "TrustedBank Rewards" <rewards@trustedbank.com>
+To: user@domain.test
+Subject: URGENT: €100 Voucher Claim Expiring in 24h!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_004"
+
+----=_NextPart_000_004
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You're eligible to receive a special €100 gift voucher from TrustedBank.
+To secure your reward, please access your claim page immediately: https://www.trustedbank.com/claims
+
+This offer expires in 24 hours. Failure to claim your voucher will result in forfeiture of the reward.
+
+Privacy Policy: https://www.trustedbank.com/privacy
+Help Center: https://www.trustedbank.com/help
+
+Best regards,
+TrustedBank Customer Care
+
+----=_NextPart_000_004
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Congratulations!</strong> You are <em>eligible</em> to receive a special <span style="color:green;">€100 gift voucher</span> from <strong>TrustedBank</strong>.</p>
+    <p style="color:red;"><strong>ACT NOW:</strong> Claim your reward within 24 hours to avoid forfeiture!</p>
+    <p>Click on the voucher below to claim:</p>
+    <p>
+      <a href="http://malicious.claim-vouchers.net/secure-claim">
+        <img src="http://assets.trustedbank.com/images/voucher.png" alt="Your €100 Voucher" width="300" height="150" border="0">
+      </a>
+    </p>
+    <p>Or <a href="http://malicious.claim-vouchers.net/redirect">click here</a> if the image doesn't load.</p>
+    <p>To verify your account status, visit: <a href="http://malicious.verify-account.biz">https://www.trustedbank.com/myaccount</a></p>
+    <p><a href="http://malicious.claim-vouchers.net/offer"></a></p>
+    <hr>
+    <p>
+      <a href="https://www.trustedbank.com/privacy">Privacy Policy</a> |
+      <a href="https://www.trustedbank.com/help">Help Center</a> |
+      <a href="http://malicious.claim-vouchers.net/unsubscribe">Unsubscribe</a>
+    </p>
+    <p>© 2024 TrustedBank. All rights reserved.</p>
+  </body>
+</html>
+
+----=_NextPart_000_004--

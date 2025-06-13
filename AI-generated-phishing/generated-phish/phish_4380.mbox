@@ -1,0 +1,61 @@
+From phishing@banksecure.com Sat Jul  1 12:34:56 2023
+Return-Path: <noreply@banksecure.com>
+From: "Bank Secure Alert" <noreply@banksecure.com>
+Reply-To: support@maliciousx.com
+To: user@domain.com
+Subject: Urgent: Your Account Password Expires Today – Verify Now
+Date: Sat, 1 Jul 2023 12:34:56 +0000
+Message-ID: <ABC123456789@banksecure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890"
+
+------=_Part_0_123456.7890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. Your password expires today. You must verify your identity immediately to avoid suspension.
+
+Please visit the following links:
+
+1. https://banksecure-support.net/login
+2. http://45.76.12.3/verification
+3. https://banksecure.com/security/privacy
+
+Click here to reset now:
+http://45.76.12.3/reset
+
+If you do not verify, your account will be suspended within 24 hours.
+
+For assistance, visit our Help page: https://banksecure.com/help or Privacy Policy: https://banksecure.com/privacy.
+
+Thank you,
+Bank Secure Team
+
+------=_Part_0_123456.7890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Account Password Expiration Urgent Notice</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p><strong>Urgent Alert!</strong> We detected an <em>unusual sign-in</em> on your account. Your <strong>password</strong> expires <u>today</u>. You must verify your identity <span style="color:red;">immediately</span> to avoid <span style="font-weight:bold;">suspension</span>.</p>
+  <p>To verify and reset your password, please <a href="http://45.76.12.3/reset">click here</a>.</p>
+  <p>Quick Access:</p>
+  <ul>
+    <li><a href="http://maliciousx.com/login">https://banksecure-support.net/login</a></li>
+    <li><a href="http://192.0.2.99/verify"></a></li>
+    <li><a href="http://verify.bank.secure-login.com/auth?ref=urgent">https://banksecure.com/security/privacy</a></li>
+  </ul>
+  <p>Our <a href="https://banksecure.com/help">Help Center</a> and <a href="https://banksecure.com/privacy">Privacy Policy</a> remain available.</p>
+  <p>Failing to verify will result in account suspension within 24 hours.</p>
+  <p>Regards,<br>Bank Secure Team</p>
+</body>
+</html>
+
+------=_Part_0_123456.7890--

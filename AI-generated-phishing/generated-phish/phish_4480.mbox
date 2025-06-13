@@ -1,0 +1,59 @@
+From noreply@irs.gov Fri Jul 12 08:30:00 2024
+Return-Path: <noreply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.51.100.25]) by mx.example.com with ESMTP id ABC123 for <user@example.com>; Fri, 12 Jul 2024 08:30:00 -0400 (EDT)
+Message-ID: <202407120830.nABC123@mail.irs.gov>
+Date: Fri, 12 Jul 2024 08:30:00 -0400
+From: "IRS Tax Department" <noreply@irs.gov>
+Reply-To: <service@billing-update.com>
+To: user@example.com
+Subject: Urgent: Account Verification Required for Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your federal tax return and determined that you are eligible for a small refund.
+
+To avoid delays, please confirm your account details immediately using one of the links below:
+
+https://www.irs.gov/refund
+http://203.0.113.10/confirm
+
+Failure to confirm your details within 24 hours may result in forfeiture of your refund.
+
+Thank you,
+IRS Tax Department
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Verification Required for Tax Refund</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We have processed your federal tax return and determined that you are eligible for a <strong>$78.35 refund</strong>.</p>
+  <p style="color:red;">
+     Your account requires <strong>instant verification</strong> to avoid <em>forfeiture</em>.
+     Confirm your <strong>password</strong> and <strong>bank information</strong> <u>immediately</u>.
+  </p>
+  <p>
+    <a href="http://203.0.113.10/confirm">click here</a> to verify your details.<br>
+    <a href="http://203.0.113.10/confirm"></a>
+  </p>
+  <p>If you have any questions, see our <a href="https://www.irs.gov/privacy">Privacy Policy</a> or <a href="https://www.irs.gov/help">Help Center</a>.</p>
+  <p>Secure login: <a href="http://203.0.113.10/secure-login">https://www.irs.gov/login</a></p>
+  <p>
+    <a href="http://203.0.113.10/login"><img src="http://203.0.113.10/logo.png" alt="IRS Logo" width="200" height="50"></a>
+  </p>
+  <p>Best regards,<br>IRS Tax Department</p>
+</body>
+</html>
+
+--boundary123--

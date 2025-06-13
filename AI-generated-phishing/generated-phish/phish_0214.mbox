@@ -1,0 +1,49 @@
+```mbox
+From - Thu Sep 28 14:38:34 2023
+Return-Path: <support@secure-account.net>
+Received: from mail.secure-account.net (mail.secure-account.net. [198.51.100.42])
+        by mx.google.com with ESMTP id z123sm567890qka.178.2023.09.28.14.38.33
+        for <user@gmail.com>;
+        Thu, 28 Sep 2023 14:38:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of support@secure-account.net designates 198.51.100.42 as permitted sender) client-ip=198.51.100.42;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of support@secure-account.net designates 198.51.100.42 as permitted sender) smtp.mailfrom=support@secure-account.net
+Received: by mail.secure-account.net id d57jkf739e; Thu, 28 Sep 2023 14:38:33 -0700 (PDT)
+Date: Thu, 28 Sep 2023 14:38:33 -0700
+From: Secure Team <noreply@account-security.com>
+Reply-To: urgent-response@secure-account.net
+Subject: Urgent: Unusual Activity Detected - Verify Your Account Now
+To: user@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_12345"
+
+--b1_12345
+Content-Type: text/plain; charset="us-ascii"
+
+Dear User,
+
+We detected unusual sign-in activity on your account. Please verify your account immediately to prevent unauthorized access.
+
+Verify Now: http://secure-update-account.com/verify/security
+
+For your protection, your account will be locked if not verified within the next 24 hours.
+
+Secure Team
+Account Security
+
+--b1_12345
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected unusual sign-in activity on your account. Please verify your account immediately to prevent unauthorized access.</p>
+    <p><a href="http://secure-update-account.com.verify/security">Verify Now</a></p>
+    <p>For your protection, your account will be locked if not verified within the next 24 hours.</p>
+    <p>Secure Team<br>
+    Account Security</p>
+  </body>
+</html>
+
+--b1_12345--
+```

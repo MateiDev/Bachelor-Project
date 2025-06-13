@@ -1,0 +1,55 @@
+From shipping@dhl.com Fri Sep 1 12:34:56 2023
+Return-Path: <shipping@dhl.com>
+Delivered-To: user@example.com
+Received: by mailserver for <user@example.com>; Fri, 1 Sep 2023 12:34:57 +0000
+Received: from mx.dhl.com (mx.dhl.com [198.51.100.45]) by mailserver with ESMTP id ABC123; Fri, 1 Sep 2023 12:34:56 +0000
+From: "DHL Express" <shipping@dhl.com>
+To: user@example.com
+Subject: Urgent: Delivery Notification - Action Required
+Date: Fri, 1 Sep 2023 12:34:56 +0000
+Message-ID: <20230901123456.12345@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_1234_01D95F67.5A9E3B80"
+
+------=_NextPart_000_1234_01D95F67.5A9E3B80
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held by customs due to incomplete account information.
+Click the link below to confirm your details and pay the release fee:
+
+https://www.dhl.com/en/express/tracking.html  (http://123.45.67.89/confirm-delivery)
+
+Thank you,
+DHL Custom Clearance Team
+
+------=_NextPart_000_1234_01D95F67.5A9E3B80
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your <strong>package</strong> is being held at customs due to incomplete <span title="account">account</span> information. To avoid delays, please confirm your details and pay the release fee immediately.</p>
+    <p>
+      <a href="http://123.45.67.89/confirm-delivery" title="urgent">
+        <img src="http://987.65.43.21/logo.png" alt="DHL Express" style="border:0;" />
+      </a>
+    </p>
+    <p>
+      Track your shipment here:
+      <a href="http://malicious.com/login" title="password">
+        https://www.dhl.com/en/express/tracking.html
+      </a>
+    </p>
+    <p>
+      For more details, click <a href="http://109.74.192.12/free-shipping" title="urgent">here</a>.
+      <a href="http://123.45.67.89/free-shipping" title="urgent"></a>
+    </p>
+    <p>Thank you,<br/>DHL Express</p>
+  </body>
+</html>
+
+------=_NextPart_000_1234_01D95F67.5A9E3B80--

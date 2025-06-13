@@ -1,0 +1,39 @@
+```
+From fake.notifications@secure-mail.com Thu Nov  9 16:00:00 2023
+Return-Path: <fake.notifications@secure-mail.com>
+Date: Thu, 09 Nov 2023 16:00:00 +0000
+From: "Alert Service" <fake.notifications@secure-mail.com>
+To: victim@example.com
+Subject: Urgent: Action Required on Your Account to Prevent Closure
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1234567890"
+
+--1234567890
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your account. To ensure your data remains safe, please verify your account immediately. Failure to do so will result in account suspension.
+
+Click on the link below to verify your account:
+http://192.168.1.1.login.secureverification.net
+
+Thank you,
+Security Team
+
+--1234567890
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected <strong>unusual activity</strong> on your account. To ensure your data remains safe, please verify your account immediately. <strong>Failure</strong> to do so will result in account <strong>suspension</strong>.</p>
+<p>Click on the <a href="http://192.168.1.1.login.secureverification.net">link</a> below to verify your account:</p>
+<p><a href="http://192.168.1.1.login.secureverification.net">http://192.168.1.1.login.secureverification.net</a></p>
+<p>For further assistance visit our <a href="https://www.trustedsupport.contact-secure.com">support page</a>.</p>
+<p>Thank you,<br>Security Team</p>
+</body>
+</html>
+
+--1234567890--
+```

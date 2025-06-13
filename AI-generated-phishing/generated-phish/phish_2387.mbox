@@ -1,0 +1,58 @@
+From no-reply@mybank.com Sat Jul 13 10:15:00 2024
+Return-Path: <no-reply@mybank.com>
+Received: from mail.mybank.com (unknown [192.0.2.50]) by mx.mybank.com with ESMTP id abcdef12345; Sat, 13 Jul 2024 10:15:00 -0400
+Date: Sat, 13 Jul 2024 10:15:00 -0400
+Message-ID: <20240713101500.abc123@mail.mybank.com>
+From: "MyBank Security" <no-reply@mybank.com>
+Reply-To: "Customer Support" <support@bank.help>
+To: "Valued Customer" <victim@mybank.com>
+Subject: Unusual Sign-in Detected — Verify Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_BOUNDARY_12345"
+
+--=_BOUNDARY_12345
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We noticed an unusual sign-in attempt on your MyBank account. Your password will expire today, and immediate action is required to secure your account.
+
+Please visit the link below to verify your identity and reset your password:
+
+https://www.mybank.com/security
+
+Failure to verify within 24 hours will result in a temporary lock on your account.
+
+Thank you for your prompt attention.
+
+MyBank Security Team
+
+--=_BOUNDARY_12345
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family:Arial,sans-serif;color:#333;">
+  <div style="max-width:600px;margin:0 auto;">
+    <a href="http://192.0.2.123/verify" style="display:block;text-align:center;margin-bottom:20px;">
+      <img src="http://198.51.100.45/banner.png" alt="Verify Your Account" style="max-width:100%;height:auto;border:0;">
+    </a>
+    <h2 style="color:#D8000C;">Unusual Sign-in Detected — Verify Immediately</h2>
+    <p>Dear Customer,</p>
+    <p>We detected an <strong>unusual sign-in attempt</strong> on your account from a new device. <span style="color:#D8000C;">Immediate action required!</span></p>
+    <p>Your <strong>password expires today</strong>. If you do not verify your identity within 24 hours, your account will be locked to protect your security.</p>
+    <p style="text-align:center;">
+      <a href="http://203.0.113.77/reset" style="background-color:#0046AD;color:#FFF;padding:12px 20px;text-decoration:none;border-radius:4px;display:inline-block;">
+        Reset Now
+      </a>
+    </p>
+    <p>Alternatively, you can <a href="http://192.0.2.123/login" style="color:#0046AD;text-decoration:underline;">https://www.mybank.com/login</a>, then click <a href="http://malicious-verify.com/secure">here</a> to complete verification.</p>
+    <p>For assistance, review our <a href="https://www.mybank.com/privacy">Privacy Policy</a> or contact <a href="http://help.bank.support">help</a>.</p>
+    <p>If you did not attempt to sign in, please <a href="http://192.0.2.123/report">report this activity</a> immediately.</p>
+    <p>Thank you,<br>MyBank Security Team</p>
+  </div>
+</body>
+</html>
+
+--=_BOUNDARY_12345--

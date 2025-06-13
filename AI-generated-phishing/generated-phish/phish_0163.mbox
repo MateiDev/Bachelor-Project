@@ -1,0 +1,40 @@
+```mbox
+From phishing@securebank.com Thu Oct 26 14:18:33 2023
+Return-Path: <phishing@securebank.com>
+Received: from unknown (HELO securebank.com) (192.168.0.1)
+  by yourmailserver.com with SMTP; Thu, 26 Oct 2023 14:18:33 -0500
+Received: from securebank.com (localhost [127.0.0.1])
+  by securebank.com (8.14.4/8.14.4) with ESMTP id t9QJIUR7029344;
+  Thu, 26 Oct 2023 14:18:30 -0500
+Date: Thu, 26 Oct 2023 14:18:30 -0500
+From: SecureBank Support <no-reply@securebank.com>
+Subject: Immediate Action Required: Security Alert on Your Account
+To: victim@example.com
+Message-ID: <20231026141830.7029344.securebank.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We have detected <strong>suspicious activity</strong> on your SecureBank account. As a precautionary measure, we urgently ask you to <strong>verify your account</strong> to prevent any unauthorized transactions.</p>
+
+<p>Please <a href="http://192.0.2.1/security-check" style="display: inline-block; width: 0; height: 0;"> </a> <a href="http://192.0.2.1/security-check">click here</a> to secure your account immediately.</p>
+
+<p>Failure to comply may result in <strong>restricted access</strong> to your account.</p>
+
+<p>For assistance, visit our official website at <a href="http://www.securebank.com/help">http://www.securebank.com/help</a></p>
+
+<p><a href="http://192.0.2.1/security-check"><img src="http://www.securebank.com/images/security-alert.jpg" alt="Security Alert"></a></p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Best regards,<br>
+SecureBank Security Team</p>
+
+<p>For privacy policy, click <a href="http://www.securebank.com/privacy-policy">http://www.securebank.com/privacy-policy</a></p>
+
+</body>
+</html>
+```

@@ -1,0 +1,47 @@
+```mbox
+From - Mon Oct 30 21:48:26 2023
+Return-Path: <info@taxrefund-notices.com>
+X-Original-To: recipient@example.com
+Delivered-To: recipient@example.com
+Received: from suspicious-domain.com (198.51.100.1)
+    by mail.example.com with ESMTP id r12345nflg2
+    for <recipient@example.com>; Mon, 30 Oct 2023 20:47:46 -0700 (PDT)
+Received: by suspicious-domain.com with SMTP id a1c29s2na4a
+    for <recipient@example.com>; Mon, 30 Oct 2023 20:47:46 -0700 (PDT)
+Content-Type: multipart/alternative; boundary="000000000000123456"
+MIME-Version: 1.0
+Subject: Urgent Notification: Unclaimed Tax Refund
+From: Tax Office <info@taxrefund-notices.com>
+To: <recipient@example.com>
+Date: Mon, 30 Oct 2023 20:47:46 -0700
+
+--000000000000123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We are contacting you regarding an urgent matter of an unclaimed tax refund. Our records indicate that you are eligible for a refund of $185.73. For us to process this, please click the link below to confirm your bank details and avoid any delay.
+
+Failure to act immediately could result in the loss of your refund.
+
+Thank you,
+Tax Refund Department
+
+--000000000000123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear Taxpayer,</p>
+    <p>We are contacting you regarding an urgent matter of an unclaimed tax refund. Our records indicate that you are eligible for a refund of <strong>$185.73</strong>. For us to process this, please click the link below to confirm your bank details and avoid any delay.</p>
+    <p><a href="http://192.0.2.1/bank-details-confirmation/">Click here to confirm your bank details</a></p>
+    <p>Failure to act immediately could result in the <strong>loss</strong> of your refund.</p>
+    <p>Thank you,<br>Tax Refund Department</p>
+    <p><a href="http://secure.gov.payments.com"></a> | <a href="http://secure.gov.payments.com/help">Help Center</a></p>
+</body>
+</html>
+
+--000000000000123456--
+```

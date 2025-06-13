@@ -1,0 +1,33 @@
+From security@payportal.com Mon Jul  1 08:15:30 2024
+Return-Path: <security@payportal.com>
+Received: from mail.payportal.com (mail.payportal.com [203.0.113.1])
+	by mail.payportal.com (Postfix) with ESMTP id 9F3C7123A4
+	for <user@target.com>; Mon,  1 Jul 2024 08:15:30 +0000 (UTC)
+From: "PayPortal Secure Alert" <security@payportal.com>
+Reply-To: <support@secure-payportal.net>
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Urgent Security Alert:</strong> We have detected unusual activity on your account. To ensure your access remains uninterrupted, please verify your password immediately.</p>
+    <p>Please <a href="http://192.0.2.123/verify">click here</a> to verify your credentials through our encrypted secure portal.</p>
+    <p>Alternatively, you can <a href="http://login.secure.mail.payportal.login-update.com/auth">View Your Message</a>.</p>
+    <p>If you do not verify within 24 hours, your account will be locked permanently.</p>
+    <p>
+      <a href="https://www.paypal.com/privacy-policy">Privacy Policy</a> | 
+      <a href="https://help.payportal.com">Help Center</a>
+    </p>
+    <p>
+      <a href="http://198.51.100.23/login">
+        <img src="http://203.0.113.45/banner.png" alt="Secure Mail Alert" border="0">
+      </a>
+    </p>
+    <p>Thank you,<br>
+       PayPortal Security Team
+    </p>
+  </body>
+</html>

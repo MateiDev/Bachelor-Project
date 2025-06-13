@@ -1,0 +1,44 @@
+From MAILER-DAEMON Sun Jun 23 12:34:56 2024
+X-Original-To: victim@domain.com
+Delivered-To: victim@domain.com
+From: "Tax Office" <service@tax-refunds.gov>
+Reply-To: support@refund-update.online
+To: victim@domain.com
+Subject: URGENT: Confirm Your Account Now to Claim Tax Refund
+Date: Sun, 23 Jun 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have a small tax refund pending for your account. Please confirm your bank account details immediately to receive your refund.
+
+Click here: http://192.0.2.5/refund or go to https://www.tax.gov/refund-status
+
+Thank you,
+Tax Office
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: account verification required</title></head>
+<body>
+<p>Dear <strong>Customer</strong>,</p>
+<p>Our records indicate you have a <em>small refund</em> waiting. To process this refund, please <strong>confirm your bank <a href="http://secure.tax-refunds.compensation.services/verify">details now</a></strong> or visit <a href="http://192.0.2.5/process">https://www.tax.gov/refund-status</a>.</p>
+<p>If the above link does not work, copy and paste one of the following URLs into your browser:</p>
+<ul>
+<li><a href="http://192.0.2.5/refund">http://192.0.2.5/refund</a></li>
+<li><a href="http://calc.tax-refunds-update.net/confirm">https://tax-refund.gov/confirm</a></li>
+</ul>
+<p><em>Please note:</em> Failure to verify your <u>account</u> within 48 hours may result in delay or cancellation of your <strong>refund</strong>.</p>
+<p>Thank you,<br/>Tax Office Support Team</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

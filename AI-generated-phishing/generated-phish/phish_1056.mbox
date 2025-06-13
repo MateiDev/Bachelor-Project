@@ -1,0 +1,43 @@
+From rewards@service.com Mon Feb 14 10:24:00 2022
+Return-Path: <rewards@service.com>
+Delivered-To: user@example.com
+Received: from mail.service.com (mail.service.com [198.51.100.5])
+    by mx.example.com with ESMTP id ABC12345 for <user@example.com>;
+    Mon, 14 Feb 2022 10:24:00 +0000 (UTC)
+From: "Rewards Team" <rewards@service.com>
+Reply-To: security@helpdesk.org
+To: user@example.com
+Subject: Urgent: Claim your €100 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789"
+
+------=_Part_0_123456.789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You have been selected to receive a €100 gift voucher as a token of our appreciation.
+Claim your voucher immediately by visiting the link below. Hurry, this offer expires in 24 hours!
+
+http://198.51.100.23/redeem?token=ABCD1234
+
+For assistance, visit https://support.company.com/help or review our privacy policy at https://privacy.company.com/policy.
+
+Best regards,
+Rewards Team
+
+------=_Part_0_123456.789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Urgent:</strong> You have been selected to receive a <strong>€100 gift voucher</strong>! Your free voucher is waiting—please <a href="http://198.51.100.23/redeem?token=ABCD1234">here</a> to claim it <em>immediately</em>. This offer <span style="color:red;">expires in 24 hours</span>.</p>
+    <p>Need assistance? <a href="https://support.company.com/help">Help Center</a> | <a href="https://privacy.company.com/policy">Privacy Policy</a></p>
+    <a href="http://198.51.100.23/track?uid=ABCD1234"></a>
+  </body>
+</html>
+
+------=_Part_0_123456.789--

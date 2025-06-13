@@ -1,0 +1,47 @@
+From noreply@securemail-portal.uk Fri Jul 19 10:15:00 2024
+Return-Path: <noreply@securemail-portal.uk>
+Delivered-To: user@victim.com
+Received: by mail.securemail-portal.uk with SMTP id 12345; Fri, 19 Jul 2024 10:15:00 +0000
+Date: Fri, 19 Jul 2024 10:15:00 +0000
+From: "SecureMail Portal" <noreply@securemail-portal.uk>
+To: user@victim.com
+Subject: Urgent Security Alert: Account Password Verification Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZboundary"
+
+--XYZboundary
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unauthorized login attempt on your secure portal. To secure your account and password, you must verify your credentials immediately to avoid suspension or breach.
+
+Please verify now by visiting the following links:
+1) http://203.0.113.45/verify
+2) https://secureportal-mail.co.uk/secure
+3) Privacy Policy: https://portal-secure-mail.co.uk/privacy
+
+If you suspect a breach, reset your credentials here: http://198.51.100.23/reset
+
+Thank you,
+SecureMail Portal Security Team
+
+--XYZboundary
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Security Alert</title></head>
+<body>
+<p>Dear User,</p>
+<p>We detected an <strong>unauthorized</strong> login attempt on your secure portal. To secure your <em>account</em> and <em>password</em>, you must verify your credentials <strong>immediately</strong> to avoid <span style="color:red">suspension</span> or <span style="color:red">breach</span>.</p>
+<p>Click <a href="http://203.0.113.45/verify">here</a> to verify now.</p>
+<p>Or visit <a href="http://198.51.100.23/login">https://secureportal-mail.co.uk/secure</a> to login.</p>
+<p>View the alert details: <a href="http://198.51.100.23/alert"><img src="http://203.0.113.45/images/alert.png" alt="Security Alert" border="0"></a></p>
+<p><a href="http://198.51.100.23/reset"></a> Reset your credentials if you suspect a breach.</p>
+<p>Privacy policy: <a href="https://portal-secure-mail.co.uk/privacy">https://portal-secure-mail.co.uk/privacy</a></p>
+</body>
+</html>
+
+--XYZboundary--

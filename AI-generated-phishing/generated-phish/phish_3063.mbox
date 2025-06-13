@@ -1,0 +1,41 @@
+From service@paypal.com Thu Jul 25 14:30:00 2024
+Return-Path: <service@paypal.com>
+From: "PayPal Security" <service@paypal.com>
+Reply-To: help@secure-paypal.alerts.com
+To: user@domain.com
+Subject: URGENT: Action Required to Secure Your Account Now
+Date: Thu, 25 Jul 2024 14:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1595629780234"
+
+------=_Part_123456_789012345.1595629780234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account has been flagged for suspicious activity and is at risk of being permanently locked. To prevent loss of access, verify your identity immediately by clicking the link below:
+
+http://192.0.2.123/verify
+
+If you do not complete this within 24 hours, your account will be suspended without further notice.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_123456_789012345.1595629780234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">Your account has been flagged for <span style="text-decoration:underline;">suspicious activity</span> and is at <strong>IMMEDIATE</strong> risk of being permanently locked.</p>
+    <p>To prevent loss of access, please verify your identity <a href="http://192.0.2.123/verify"></a> now. Failure to do so within <strong>24 hours</strong> will result in suspension.</p>
+    <p>You can also go to <a href="http://203.0.113.45/authenticate">https://www.paypal.com/login</a> to sign in.</p>
+    <p>If you have questions, review our <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full">Privacy Policy</a> or get help <a href="http://verification.paypal.secure-alerts.com/help">here</a>.</p>
+    <p>Thank you,<br/>The PayPal Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_789012345.1595629780234--

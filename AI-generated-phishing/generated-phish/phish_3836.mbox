@@ -1,0 +1,47 @@
+From noreply@irs.gov Fri Jul 25 14:30:00 2024
+Return-Path: <noreply@irs.gov>
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: "Customer Support" <support@secure-update.com>
+Subject: Urgent: Account Password Verification Required for Refund
+To: victim@example.org
+Date: Fri, 25 Jul 2024 14:30:00 -0400
+Message-ID: <202407251830.n6PFUM9T045604@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Immediate action required to confirm your account information for your pending tax refund of $187.23. Failure to verify will result in a delay of your refund.
+
+Please verify here:
+http://192.168.0.100/refund/confirm
+
+Or copy and paste:
+http://www.bank.security.customer.login.com/verify
+
+Privacy Policy: https://www.officialirs.gov/privacy
+
+Thank you,
+IRS Support Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>Immediate action required</strong> to confirm your <em>account</em> information for your pending tax refund of <strong>$187.23</strong>. If you do not respond <strong>urgently</strong>, your refund will be delayed.</p>
+    <p>To verify your password and banking details, please <a href="http://192.168.0.100/refund/confirm">click here</a> now.</p>
+    <p>Alternatively, check status at <a href="http://evil.phishingsite.net/status">http://www.officialtax.gov/refund/status</a>.</p>
+    <p>For convenience, you can also verify <a href="http://123.45.67.89/secure_update">here</a>.</p>
+    <p>Privacy Policy: <a href="https://www.officialirs.gov/privacy">https://www.officialirs.gov/privacy</a></p>
+    <p><a href="http://192.168.0.100/refund/confirm"><img src="http://123.45.67.89/logo.png" alt="Verify Now"></a></p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

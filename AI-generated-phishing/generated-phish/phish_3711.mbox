@@ -1,0 +1,68 @@
+From security-alert@secureportal.com Sat Jun 15 10:33:21 2024
+Date: Sat, 15 Jun 2024 10:33:21 +0000
+From: "Secure Portal Notifications" <security-alert@secureportal.com>
+Reply-To: support@quick-support.com
+To: user@company.com
+Subject: URGENT: Encrypted Secure-Mail Delivery Failure – Action Required
+Message-ID: <20240615103321.12345@secureportal.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01D8"
+
+----=_NextPart_000_01D8
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT SECURITY ALERT
+
+Dear User,
+
+Our mail gateway failed to deliver an encrypted message due to policy violations.
+Your secure mail has been quarantined and will be deleted in 24 hours unless you verify your account immediately.
+
+Please visit the Secure Portal to resolve this issue:
+
+http://secure.portal.company.com/login
+or copy and paste the following link into your browser:
+http://123.45.67.89/verify/secure-mail
+
+Failure to act within 24 hours will result in permanent loss of access to your secure messages.
+
+For assistance, click here:
+http://help.company.com/support
+
+Thank you,
+Secure Portal Team
+
+----=_NextPart_000_01D8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">URGENT SECURITY ALERT</p>
+    <p>Dear User,</p>
+    <p>Our mail gateway failed to deliver an encrypted message due to policy violations.
+       Your secure mail has been quarantined and will be <strong>deleted in 24 hours</strong> unless you verify your account immediately.</p>
+    <p>Please <a href="http://malicious.portal.com/verify?token=ABCD1234" style="color:blue; text-decoration:underline;">
+         http://secure.portal.company.com/login
+       </a>
+       or copy and paste this link:<br>
+       <a href="http://123.45.67.89/verify/secure-mail">http://123.45.67.89/verify/secure-mail</a>
+    </p>
+    <p>Failure to act within <strong>24 hours</strong> will result in permanent loss of access to your secure messages.</p>
+    <p>For assistance, review our 
+       <a href="https://help.company.com/privacy.policy.html">Privacy Policy</a> | 
+       <a href="https://help.company.com/terms.of.service.html">Terms of Service</a> or click 
+       <a href="http://malicious-support.com/support">here</a>.
+    </p>
+    <p>To proceed with verification, click the image below:</p>
+    <p>
+      <a href="http://malicious.portal.com/verify/image">
+        <img src="http://123.45.67.89/images/secure_mail.png" alt="" width="200" height="50">
+      </a>
+    </p>
+    <p>If the image does not load, <a href="http://malicious.portal.com/secret"></a></p>
+  </body>
+</html>
+
+----=_NextPart_000_01D8--

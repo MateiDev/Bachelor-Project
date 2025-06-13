@@ -1,0 +1,43 @@
+From support@legitcompany.com Tue Jul 25 10:15:30 2023
+Return-Path: <support@legitcompany.com>
+Delivered-To: victim@gmail.com
+Received: from mail.legitcompany.com (mail.legitcompany.com [203.0.113.10])
+    by mx.google.com with ESMTPS id abc123;
+    Tue, 25 Jul 2023 10:15:30 -0700 (PDT)
+From: "Legit Company Support" <support@legitcompany.com>
+Reply-To: "Security Team" <security@update-alerts.net>
+Subject: Urgent: Update Your Account Password for €50 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You're eligible for a €50 voucher as part of our loyalty program.
+Please claim your reward now.
+
+Visit http://192.0.2.123/claim to proceed.
+Or copy/paste this link: http://203.0.113.5/reward
+
+Best Regards,
+Legit Company Support
+
+--BOUNDARY123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Congratulations! You're eligible for a <strong>€50 voucher</strong> as part of our loyalty program.</p>
+    <p>Please <a title="urgent account update" href="http://203.0.113.5/reward"></a>claim your reward now.</p>
+    <p>Alternatively, click <a title="password reset" href="http://198.51.100.25/verify">http://secure.legitcompany.com/verify</a> to validate your details and receive your voucher.</p>
+    <p>Best Regards,<br>
+       Legit Company Support</p>
+  </body>
+</html>
+
+--BOUNDARY123--

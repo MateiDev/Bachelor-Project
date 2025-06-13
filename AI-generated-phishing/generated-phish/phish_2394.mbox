@@ -1,0 +1,46 @@
+From phishing-sim@test.com Thu Jul 25 12:34:56 2024
+Return-Path: <noreply@rewards-portal.com>
+Delivered-To: user@example.com
+Received: by mail.rewards-portal.com with SMTP id abc123; Thu, 25 Jul 2024 12:34:56 +0000
+Date: Thu, 25 Jul 2024 12:34:56 +0000
+From: "Rewards Team" <noreply@rewards-portal.com>
+To: user@example.com
+Subject: URGENT: Your €50 Voucher is Waiting
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1627215296000"
+
+------=_Part_123456_789012345.1627215296000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear valued customer,
+
+Congratulations! You have been selected to receive a €50 gift voucher. To claim your reward, please visit the link below:
+
+http://192.0.2.123/claim?code=XYZ987
+
+Thank you for choosing our service.
+
+Best regards,
+Rewards Team
+
+------=_Part_123456_789012345.1627215296000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Account Notice</title>
+</head>
+<body>
+  <p>Dear valued customer,</p>
+  <p>Congratulations! You are eligible for a <b>€50 voucher</b>. To claim your reward, click the link below:</p>
+  <p><a href="http://192.0.2.123/claim?code=XYZ987">www.voucher.rewards.eu.claim</a></p>
+  <p>Or click the banner below to redeem now:</p>
+  <p><a href="http://192.0.2.123/banner_click?code=XYZ987"><img src="http://192.0.2.123/banner.jpg" alt="Claim Your Voucher"></a></p>
+  <p>For full terms and conditions, click here: <a href="http://192.0.2.123/terms?code=XYZ987"></a></p>
+  <p>Best regards,<br>Rewards Team</p>
+</body>
+</html>
+
+------=_Part_123456_789012345.1627215296000--

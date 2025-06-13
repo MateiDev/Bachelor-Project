@@ -1,0 +1,41 @@
+```mbox
+From fake-tax-refunds@example.com Mon Oct  2 14:21:04 2023
+Return-Path: <fake-tax-refunds@example.com>
+Delivered-To: user@example.com
+Received: by 10.52.84.194 with SMTP id e2csp2234560vdg;
+        Mon, 2 Oct 2023 14:21:04 -0700 (PDT)
+X-Received: by 10.16.88.1 with SMTP id a1mr22345678ioa;
+        Mon, 2 Oct 2023 14:21:04 -0700 (PDT)
+Return-Path: <fake-tax-refunds@example.com>
+Received: from suspicious-ip.net (suspicious-ip.net. [198.51.100.123])
+        by mx.google.com with ESMTP id a5si123456qhw.135.2023.10.02.14.21.03
+        for <user@example.com>;
+        Mon, 02 Oct 2023 14:21:04 -0700 (PDT)
+Received-SPF: fail (google.com: domain of fake-tax-refunds@example.com does not designate 198.51.100.123 as permitted sender) client-ip=198.51.100.123;
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of fake-tax-refunds@example.com does not designate 198.51.100.123 as permitted sender) smtp.mailfrom=fake-tax-refunds@example.com
+Received: by suspicious-ip.net with SMTP id b7n12345;
+        Mon, 2 Oct 2023 21:21:04 +0000 (UTC)
+From: "Tax Refunds" <fake-tax-refunds@example.com>
+To: <user@example.com>
+Reply-To: alert@example.net
+Date: Mon, 02 Oct 2023 21:21:04 +0000
+Subject: Notification: Tax Refund Urgent Processing Required
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>You have a <strong>pending tax refund</strong> of 179.45 USD that you need to confirm.</p>
+    <p>To proceed, please <a href="http://198.51.100.50/secure/refund" style="color: blue; text-decoration: underline;"><img src="http://example.com/clickhere.png" alt="Click Here"></a> and follow the instructions.</p>
+    <p>If you need help, visit our <a href="http://example.com/help">Help Center</a> or read our <a href="http://example.com/privacy-policy">Privacy Policy</a>.</p>
+    <br>
+    <a href="http://198.51.100.50/">  </a>
+    <p>Thank you,<br>Tax Refunds Department</p>
+    <br>
+    <p>Note: Please <strong>do not ignore</strong> this message as it is urgent and your response is required.</p>
+</body>
+</html>
+```

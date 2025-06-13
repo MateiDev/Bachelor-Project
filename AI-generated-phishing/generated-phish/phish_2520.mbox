@@ -1,0 +1,49 @@
+From - Thu Oct 12 14:55:30 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from 198.51.100.1 (unknown [198.51.100.1])
+    by mx.example.com (Postfix) with ESMTP id 1234567890
+    for <victim@example.com>; Thu, 12 Oct 2023 14:55:28 +0000 (UTC)
+Date: Thu, 12 Oct 2023 14:55:28 +0000
+From: "DHL Notification" <no-reply@dhl-example.com>
+Reply-To: "Customer Support" <support@parcel-confirmation.net>
+Subject: Urgent: Package Delivery Notification
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="=_boundary_12345_="
+
+--=_boundary_12345_=
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Attention,
+
+Your package is on hold due to address verification. Follow the link to confirm your address and ensure delivery: 
+
+http://198.51.100.2/redirect
+
+Thank you,
+DHL Customer Service
+
+--=_boundary_12345_=
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+    <title>Urgent: Package Delivery Notification</title>
+</head>
+<body>
+    <p>Attention,</p>
+    <p>Your package is on hold due to address verification.</p>
+    <p>To confirm your address and ensure delivery, please <a href="http://198.51.100.2/redirect">here</a>.</p>
+    <p>Or click the image below:</p>
+    <a href="http://198.51.100.2/redirect">
+        <img src="https://www.example.com/images/dhl_banner.jpg" alt="DHL" />
+    </a>
+    <p>Thank you,<br>DHL Customer Service</p>
+    <p><a href="http://www.dhl.com/help">Help</a> | <a href="http://www.dhl.com/privacy-policy">Privacy Policy</a></p>
+</body>
+</html>
+
+--=_boundary_12345_=--

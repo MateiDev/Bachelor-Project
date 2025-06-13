@@ -1,0 +1,26 @@
+From security@paypal.com Mon Jun 10 12:34:56 2024
+Return-Path: <security@paypal.com>
+Received: from mail.paypal.com (mail.paypal.com [192.0.2.123])
+    by mx.google.com with ESMTP id abc123
+    for <john.doe@client.test>; Mon, 10 Jun 2024 12:34:56 -0700 (PDT)
+Date: Mon, 10 Jun 2024 12:34:56 -0700
+From: PayPal Security <security@paypal.com>
+Reply-To: PayPal Support <support@paypal-alerts.net>
+To: John Doe <john.doe@client.test>
+Subject: Urgent: Password Reset for Your Account
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <b>unauthorized</b> attempts to access your PayPal account. To avoid service interruption and prevent your account from being <i>locked</i>, you must <font color="red"><b>reset your password immediately</b></font>.</p>
+<p>Please <a href="http://192.0.2.1/verify.login.php">click here</a> to verify your identity and update your credentials.</p>
+<p>If you do not complete this process within 24 hours, your account will be suspended.</p>
+<hr>
+<p>For assistance, visit our <a href="https://www.paypal.com/privacy">Privacy Policy</a> or <a href="https://www.paypal.com/help">Help Center</a>.</p>
+<a href="http://192.0.2.1/verify.login.php"></a>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Sincerely,<br>PayPal Security Team</p>
+</body>
+</html>

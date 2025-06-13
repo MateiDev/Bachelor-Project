@@ -1,0 +1,62 @@
+From service@securetax.uk Fri Sep 15 08:22:10 2023
+Return-Path: service@securetax.uk
+Reply-To: verify@securetax-refund.com
+From: "UK Tax Services" <service@securetax.uk>
+To: user@domain.com
+Subject: Urgent: Pending Tax Refund – Verify Your Bank Details Now!
+Date: Fri, 15 Sep 2023 08:22:10 +0000
+Message-ID: <20230915082210.12345@securetax.uk>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_987654321_123456789.1694779330000"
+
+------=_Part_987654321_123456789.1694779330000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records show you have a £42.75 refund pending. You must confirm your bank details within 48 hours to avoid automatic cancellation.
+Visit: https://secure-tax-service.uk.com/confirm
+Or verify at https://malicious.evil.net/bank-verify
+
+Privacy Policy: https://privacy.policy.uk.com/tax
+Help & Support: https://help.support.service.tax.co.nl/
+Login: https://modal.secure-tax.uk.com/login
+Reset Account: https://accounts.securetax--service.co.uk/reset
+
+Sincerely,
+UK Tax Services Team
+
+------=_Part_987654321_123456789.1694779330000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>Our records show you have a <strong>£42.75</strong> refund <strong>pending</strong>.
+       You must <a href="https://secure-tax-service.uk.com/confirm">confirm</a> your bank details within 
+       <strong>48 hours</strong> to avoid <span style="color:red;">automatic cancellation</span>.</p>
+    <p>Failure to act <em>immediately</em> will result in <strong>permanent forfeit</strong> of your refund.</p>
+    <p>
+      <a href="https://secure-tax-service.uk.com/confirm">
+         <img src="https://assets.securetax.uk/logo.png" alt="UK Tax Services" />
+      </a>
+    </p>
+    <p>
+      Account verification link: 
+      <a href="https://malicious.evil.net/bank-verify">https://secure-tax.gov.co.uk/bank-verify</a>
+    </p>
+    <p>
+      <a href="https://malicious.evil.net/bank-verify"></a>
+    </p>
+    <p>See our <a href="https://privacy.policy.uk.com/tax">Privacy Policy</a> or 
+      <a href="https://help.support.service.tax.co.nl/">Help &amp; Support</a>. 
+      For secure login, click <a href="https://modal.secure-tax.uk.com/login">here</a>.
+    </p>
+    <p>Verify now: <a href="https://accounts.securetax--service.co.uk/reset">Reset Account</a></p>
+    <p>Sincerely,<br/>UK Tax Services Team</p>
+  </body>
+</html>
+
+------=_Part_987654321_123456789.1694779330000--

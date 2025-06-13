@@ -1,0 +1,49 @@
+```mbox
+From - Fri Oct 20 07:00:00 2023
+X-Original-From: taxservice@notifications.gov
+Return-Path: <fakedepartment@externalservice.com>
+Authentication-Results: mta.mailserver.org;
+Received: from server55.external.org (server55.external.org. [192.0.2.55])
+        by mta.mailserver.org with ESMTP id l8si2038400qkf.37.2023.10.20.07.00.00
+        for <user@example.com>
+        Fri, 20 Oct 2023 07:00:00 -0700 (PDT)
+Received-SPF: pass (mta.mailserver.org: domain of externalservice.com designates 192.0.2.55 as permitted sender) client-ip=192.0.2.55;
+Envelope-From: <fakedepartment@externalservice.com>
+From: "National Tax Office" <taxservice@notifications.gov>
+To: user@example.com
+Subject: Urgent: Action Required for Your Tax Refund
+Date: Fri, 20 Oct 2023 07:00:00 -0700
+Reply-To: <helpdesk@differentdomain.net>
+Message-ID: <0001234567890@externalservice.com>
+Content-Type: multipart/alternative; boundary="000000000000b123450"
+
+--000000000000b123450
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+URGENT: Your immediate attention is required regarding a tax refund that is owed to you. Due to incorrect details in your submission, the refund of $253.47 is on hold. Please confirm your bank details to facilitate this refund.
+
+Click the link below to correct your information:
+http://verifysecure.taxservice.expert
+
+Please act now to ensure your refund is not delayed!
+
+Thank you,
+National Tax Office
+
+--000000000000b123450
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>URGENT: Your immediate attention is required regarding a tax refund that is owed to you. Due to incorrect details in your submission, the refund of $253.47 is on hold. Please confirm your bank details to facilitate this refund.</p>
+    <p><a href="http://asecureupdate.taxrefund.land"><img src="http://taxservice.expert/images/login.png" alt="Correct Information"></a></p>
+    <p>Please act now to ensure your refund is not delayed!</p>
+    <p>Thank you,<br>National Tax Office</br></p>
+  </body>
+</html>
+
+--000000000000b123450--
+```

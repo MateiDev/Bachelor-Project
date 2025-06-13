@@ -1,0 +1,49 @@
+From phishing@dhl-notice.com Fri Sep 15 10:55:23 2023
+Date: Fri, 15 Sep 2023 10:55:23 -0400
+From: DHL Express <no-reply@dhl-express.com>
+Reply-To: support@dhl-express.com
+To: user@domain.com
+Subject: Delivery Notification – Urgent Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+------=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is being held due to unpaid duties. Urgent action required to avoid return.
+
+Please visit https://dhlupdates.com/verify to verify your account and release your package.
+
+If no action is taken within 24 hours, your package will be returned.
+
+Thank you,
+DHL Express
+
+------=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>urgent: account password verification required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Your shipment is on hold pending clearance. <strong>Immediate action is required</strong> to prevent <span style="color:red;">delivery failure</span>.</p>
+<p>Please click the link below to verify your account and pay the outstanding fee:</p>
+<p>
+<a href="http://123.45.67.89/verify" title="urgent verification">https://dhlupdates.com/verify</a>
+</p>
+<p>Alternatively, you can click the image below:</p>
+<p>
+<a href="http://123.45.67.89/verify" title="urgent verification"><img src="http://123.45.67.89/images/dhl_logo.png" alt="DHL Logo" width="200" height="50" /></a>
+</p>
+<p>If we do not receive payment within 24 hours, your package will be returned to the sender.</p>
+<p>Thank you for choosing DHL Express.</p>
+</body>
+</html>
+
+------=_Part_0_123456789.987654321--

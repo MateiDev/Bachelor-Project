@@ -1,0 +1,50 @@
+From security-alert@bank-support.com Wed Mar 15 07:55:00 2023
+From: "Security Alert" <security-alert@bank-support.com>
+Reply-To: it.helpdesk@bank-recovery.com
+To: user@personalmail.com
+Subject: [Action Required] Unusual Sign-In Detected – Verify Now!
+Date: Wed, 15 Mar 2023 07:55:00 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.1678878900000"
+
+------=_Part_0_123456789.1678878900000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an urgent, unusual sign-in on your account. Your password expires today – reset immediately to avoid account suspension.
+
+Please verify your account now by visiting one of the links below:
+
+https://secure.login.bank.com/verify?user=12345
+http://203.0.113.45/verify
+http://update.account.verify-login.info/reset
+http://192.168.1.100/login
+
+This is a critical alert. Failing to act immediately will result in your account being suspended.
+
+Thank you,
+Security Team
+
+------=_Part_0_123456789.1678878900000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected an <strong>urgent</strong> and <strong>unusual sign-in</strong> on your account. <span style="color:red;">Action is required</span> immediately – your <u>password expires today</u>, reset now!</p>
+    <p>
+      <a href="https://secure.login.bank.com/verify?user=12345">https://update.verify.bank-secure.com/login</a><br/>
+      <a href="http://203.0.113.45/verify">https://secure.bank-authentication.com/verify</a><br/>
+      <a href="http://update.account.verify-login.info/reset"></a><br/>
+      <a href="http://192.168.1.100/login">click here</a><br/>
+    </p>
+    <p>Alternatively, visit our <a href="https://www.bank.com/help">help</a> or <a href="https://www.bank.com/privacy">privacy policy</a> pages.</p>
+    <p style="color:red;">If you do not act within 24 hours, your account will be <strong>suspended</strong>.</p>
+    <p>Best Regards,<br/>Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.1678878900000--

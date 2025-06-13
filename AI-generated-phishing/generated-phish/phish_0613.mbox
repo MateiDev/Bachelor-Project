@@ -1,0 +1,49 @@
+From phishing@secureupdates.com Sat Jul 20 08:35:15 2024
+Return-Path: <phishing@secureupdates.com>
+Delivered-To: user@domain.com
+Received: from mail.secureupdates.com (mail.secureupdates.com [203.0.113.5]) by mx.domain.com with SMTP id ABC12345; Sat, 20 Jul 2024 08:35:15 +0000
+From: "Support Team" <no-reply@secureupdates.com>
+Reply-To: "Customer Service" <support@secure-help.com>
+Subject: URGENT: Your €100 Voucher is Waiting—Act Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0001_01D8B2F0"
+
+----=_NextPart_000_0001_01D8B2F0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+IMPORTANT: Your account has been flagged for voucher eligibility. This is an urgent notice—if you do not claim your €100 voucher within 24 hours, this offer will expire and you risk losing out on exclusive rewards.
+
+Claim now:
+- http://192.168.25.10/claim
+- http://rewards.secure.claims-bank.com/voucher
+
+For assistance, visit https://192.168.25.10/urgent-login or reply to this email.
+
+Thank you for your prompt action.
+
+Best regards,
+Support Team
+
+----=_NextPart_000_0001_01D8B2F0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red; font-weight:bold;">URGENT NOTICE: Your €100 voucher is awaiting confirmation.</p>
+    <p>If you do not <a href="http://rewards.secure.claims-bank.com/voucher">click here</a> to claim within <strong>24 HOURS</strong>, your reward will be revoked.</p>
+    <p>
+      <a href="http://55.33.21.99/gift">
+        <img src="http://55.33.21.99/images/claim_now.png" alt="Claim Your Voucher Now" border="0">
+      </a>
+    </p>
+    <p>Or visit <a href="https://192.168.25.10/urgent-login">https://192.168.25.10/urgent-login</a></p>
+    <p>Regards,<br>Support Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_0001_01D8B2F0--

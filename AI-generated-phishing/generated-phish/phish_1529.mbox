@@ -1,0 +1,26 @@
+From security@bankingsecurity.com Mon Jun 17 10:12:34 2024
+Return-Path: <security@bankingsecurity.com>
+Received: from mail.bankingsecurity.com (mail.bankingsecurity.com [203.0.113.45]) by mx.mailserver.org with ESMTP id A1B2C3; Mon, 17 Jun 2024 10:12:34 -0500
+From: "Security Team" <security@bankingsecurity.com>
+Reply-To: security-alerts@bankverify.net
+Subject: Urgent: Action Required – Verify Your Account Password
+Date: Mon, 17 Jun 2024 10:12:34 -0500
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+ <body>
+  <p>Dear Customer,</p>
+  <p>We have detected an unusual sign-in attempt to your account.</p>
+  <p>Your password expires today – reset immediately to avoid interruptions in service.</p>
+  <p>Please verify your account information now:</p>
+  <ul>
+    <li><a href="http://phishingsite.com/verify">https://securebankingsite.com/login</a></li>
+    <li><a href="http://198.51.100.23/reset">Reset Password</a></li>
+    <li><a href="http://malicious.com/account"></a></li>
+    <li><a href="http://192.0.2.50/verify"><img src="http://attacker.com/logo.png" alt="Click to Verify"></a></li>
+  </ul>
+  <p>Failure to verify may result in account suspension.</p>
+  <p>Thank you,<br>Security Team</p>
+ </body>
+</html>

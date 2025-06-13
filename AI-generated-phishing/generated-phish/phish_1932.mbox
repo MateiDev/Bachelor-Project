@@ -1,0 +1,41 @@
+From support@voucherrewards.com Mon Jul  1 10:15:00 2024
+Subject: Urgent Password Alert: Account Verification Required for €50 Voucher
+From: "Voucher Rewards Support" <support@voucherrewards.com>
+Reply-To: service@vouchersecurity.net
+To: subscriber@legitmail.com
+Date: Mon, 1 Jul 2024 10:15:00 +0200
+Message-ID: <20240701101500.12345@voucherrewards.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0001"
+
+----=_NextPart_000_0001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear valued customer,
+
+Your account has been selected for a €50 voucher as part of our rewards program.
+To confirm your identity and secure your reward, please click the link below within 24 hours:
+
+https://voucherrewards.com/claim
+
+Best regards,
+Customer Support Team
+
+----=_NextPart_000_0001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>Your <b>account</b> has been selected for a <strong>€50 voucher</strong> as part of our rewards program.</p>
+    <p>To confirm your identity and secure your reward, please <a href="http://secure.claim.voucher.rewards.giveaway.net/verify?uid=12345">here</a>.</p>
+    <p>Alternatively, visit <a href="http://malicious.phish-site.net/redirect">https://voucherrewards.com/claim</a> now.</p>
+    <p>For more info, check our <a href="https://voucherrewards.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Invisible link: <a href="http://hidden.phish.net/track"></a></p>
+    <p>Best regards,<br/>Customer Support Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_0001--

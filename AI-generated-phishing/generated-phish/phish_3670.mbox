@@ -1,0 +1,48 @@
+From mail-dhl.com Fri Jul 09 14:32:10 2021
+Return-Path: <no-reply@dhl-parcel.com>
+Received: from [10.0.0.1] (unknown [10.0.0.1]) by mail-dhl.com with SMTP id ABC123; Fri,  9 Jul 2021 14:31:58 +0000
+Received: from mail-dhl.com (mail-dhl.com [198.51.100.5]) by mx.example.com with ESMTP id DEF456; Fri,  9 Jul 2021 14:32:00 +0000
+Delivered-To: victim@example.com
+From: "DHL Notification" <no-reply@dhl-parcel.com>
+Reply-To: <support@dhlsupport.example.net>
+To: victim@example.com
+Subject: Urgent: Account Password Verification Required
+Date: Fri,  9 Jul 2021 14:32:10 +0000
+Message-ID: <20210709143210.12345@mail-dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package but could not verify your account credentials. To avoid the return of your parcel, please verify your account password immediately. This is URGENT.
+
+Click here: http://192.0.2.123/verify
+or track your shipment at http://dhl.com/track
+
+Failure to verify within 24 hours may result in a shipping delay.
+
+Regards,
+DHL Parcel Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package but could not verify your <strong>account</strong> credentials. To avoid the return of your parcel, please verify your account password immediately. This is <strong>URGENT</strong>.</p>
+    <p>Please <a href="http://192.0.2.123/verify"></a> or <a href="http://malicious.example.com/track">http://dhl.com/track</a> your shipment.</p>
+    <p>Alternatively, you can <a href="http://secure.login.dhl.ups.com.example.org/update">click here</a> to update your information.</p>
+    <p>For more info, see our <a href="http://dhl-parcel.com/privacy-policy">privacy-policy</a> or <a href="http://dhl-parcel.com/help">help</a>.</p>
+    <p>Failure to verify within <span style="color:red;">24 hours</span> may result in a shipping delay.</p>
+    <p>Regards,<br/>
+    DHL Parcel Team</p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

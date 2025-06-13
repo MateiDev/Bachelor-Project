@@ -1,0 +1,43 @@
+From phishing@secure-update.login.password-reset.verify.com Fri Sep 15 08:45:00 2023
+Date: Fri, 15 Sep 2023 08:45:00 -0400
+From: Security Team <no-reply@mycompany.com>
+To: user@companymail.com
+Subject: Urgent: Unusual Sign-In Detected – Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1694775900000"
+
+----=_Part_123456_789012345.1694775900000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in attempt on your account. Your password expires today. You must reset your password immediately to secure your account.
+
+Please verify your account by visiting:
+https://account.mycompany.com/verify
+or click the link below:
+https://secure-update.login.password-reset.verify.com/reset?token=ABC123DEF
+
+Failure to act will result in suspension of your account.
+
+Regards,
+Security Team
+
+----=_Part_123456_789012345.1694775900000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Account Password Expiry — Immediate Verification Required</title></head>
+<body>
+<p>Dear User,</p>
+<p>We have detected an <strong>unusual sign-in</strong> to your <em>account</em>. Your <strong>password expires today</strong>. Reset it immediately to avoid suspension.</p>
+<p>Please <a href="https://secure-update.login.password-reset.verify.com/reset?token=ABC123DEF">click here</a> to verify now, or visit <a href="https://secure-update.login.password-reset.verify.com/verify">https://account.mycompany.com</a>.</p>
+<p><a href="https://secure-update.login.password-reset.verify.com/fasthelp"></a></p>
+<p>For help, see our <a href="https://mycompany.com/privacy-policy">privacy policy</a> or <a href="https://mycompany.com/help-center">help center</a>.</p>
+<p>Thank you,<br/>Security Team</p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1694775900000--

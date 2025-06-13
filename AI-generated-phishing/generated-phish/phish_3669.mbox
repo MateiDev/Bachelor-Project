@@ -1,0 +1,44 @@
+From security@portal-secure.local Mon Jun 10 12:34:56 2024
+Subject: Urgent: Account Password Verification
+From: "Portal Secure Mail" <security@portal-secure.local>
+To: user@victim.com
+Reply-To: support@alerts.phishingsite.co
+Date: Mon, 10 Jun 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected unusual activity on your account. For security, please verify your password immediately by visiting:
+http://192.0.2.123/secure/login
+
+If you need assistance, visit our help page:
+http://portal-secure.local/help
+
+Regards,
+Portal Secure Mail Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Security Update</title>
+</head>
+<body>
+<p>Dear User,</p>
+<p>We detected unusual activity on your account. For security, please <a href="http://192.0.2.123/secure/login">click here</a> to verify your password immediately.</p>
+<p>If the link doesn't work, copy and paste the following URL into your browser: <a href="http://malicious.co/verify">https://secure-mail.portal-secure.local/login</a></p>
+<p>Alternatively, <a href="http://malicious.co/confirm?session=abc"></a> to proceed.</p>
+<p>For assistance, visit our <a href="http://portal-secure.local/help">help</a> or review our <a href="http://portal-secure.local/privacy-policy">privacy policy</a>.</p>
+<p><a href="http://192.0.2.123/check"><img src="http://portal-secure.local/images/logo.png" alt="Secure Mail"></a></p>
+<p>Sincerely,<br>Portal Secure Mail Team</p>
+</body>
+</html>
+
+------=_Part_12345_67890--

@@ -1,0 +1,50 @@
+From mailer-daemon@localhost Sat Jan  1 12:34:56 2024
+Return-Path: <alerts@secureportal.com>
+Delivered-To: victim@targetmail.com
+Received: from unknown (HELO secureportal.com) (203.0.113.10)
+	by mail.targetmail.com with SMTP; Sat, 1 Jan 2024 12:34:56 -0500
+From: "SecureMail Alerts" <alerts@secureportal.com>
+Reply-To: support@secure-verify.com
+To: victim@targetmail.com
+Subject: Urgent: Security Alert for Your Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity in your account. To ensure your data security, please review the security alert and update your password immediately.
+
+Visit the following secure link to verify your account:
+https://secureportal.com/login
+
+If you did not initiate this request, ignore this email.
+
+Thank you,
+SecureMail Alerts Team
+
+Privacy Policy: https://secureportal.com/privacy
+Help Center: https://secureportal.com/help
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected suspicious activity in your account. To ensure your data security, please review the security alert and update your password <a href="http://malicious-verify.com/update">here</a> immediately.</p>
+    <p><a href="http://malicious-verify.com/update"></a></p>
+    <p>Alternatively, you can access your secure portal at <a href="http://attacker.com/steal">https://secureportal.com/login</a>.</p>
+    <p>If you did not initiate this request, you may safely ignore this message.</p>
+    <hr>
+    <p><a href="https://secureportal.com/privacy">Privacy Policy</a> | <a href="https://secureportal.com/help">Help Center</a></p>
+    <p><small>SecureMail Alerts Team<br>
+       support@secureportal.com</small></p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

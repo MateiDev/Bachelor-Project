@@ -1,0 +1,80 @@
+```
+From - Mon Oct 23 14:22:47 2023
+X-Account-Key: account2
+X-UIDL: UID594
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+Return-Path: <no-reply@fake-dhl.com>
+Received: from unknown (HELO fake-dhl.com) by fake.dhl.server with SMTP; Mon, 23 Oct 2023 14:22:47 +0000
+Message-ID: <001a06c5c3a4$e3e66d70$ab6d4820$@fake-dhl.com>
+Subject: Urgent: Action Required - Parcels Held Due to Unpaid Fees
+Date: Mon, 23 Oct 2023 14:22:47 +0000
+From: DHL Express <no-reply@fake-dhl.com>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_001D_01D2A6C5.0B67B820"
+
+------=_NextPart_000_001D_01D2A6C5.0B67B820
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We are writing to inform you that your package is currently on hold at our facility due to unpaid delivery fees. It is urgent that you pay the outstanding amount to avoid return shipment.
+
+Please click the link below to view your delivery details and resolve the issue:
+
+https://fake-dhl.jnl.shipping.details.processing.payment.confirm.paynow.secure.your.row
+
+For security reasons, you must complete this process at your earliest convenience. Failure to do so within the next 24 hours will result in your package being returned to sender.
+
+Click here to complete your payment: [Click Here](https://fake.payment-gateway.now.online)
+
+Thank you for choosing DHL Express.
+
+Best Regards,
+DHL Customer Support
+
+For more information, please visit our Help Center or Privacy Policy.
+
+------=_NextPart_000_001D_01D2A6C5.0B67B820
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+
+<p>We are writing to inform you that your package is currently on hold at =
+our facility due to unpaid delivery fees. It is urgent that you pay the =
+outstanding amount to avoid return shipment.</p>
+
+<p>Please click the link below to view your delivery details and resolve =
+the issue:</p>
+
+<p><a href=3D"https://fake-dhl.jnl.shipping.details.processing.payment.co=
+nfirm.paynow.secure.your.row">https://fake-dhl.jnl.shipping.details.proce=
+ssing.payment.confirm.paynow.secure.your.row</a></p>
+
+<p>For security reasons, you must complete this process at your earliest =
+convenience. Failure to do so within the next 24 hours will result in =
+your package being returned to sender.</p>
+
+<p>Click here to complete your payment: <a href=3D"https://fake.payment-=
+gateway.now.online" target=3D"_blank"><img src=3D"https://fake-dhl.com/li=
+nks/image/pay-now-button.jpg" alt=3D"Pay Now Button" /></a></p>
+
+<p>Thank you for choosing DHL Express.</p>
+
+<p>Best Regards,<br>
+DHL Customer Support</p>
+
+<p>For more information, please visit our <a href=3D"https://www.dhl.com/=
+help">Help Center</a> or <a href=3D"https://www.dhl.com/privacy-policy">P=
+rivacy Policy</a>.</p>
+</body>
+</html>
+
+------=_NextPart_000_001D_01D2A6C5.0B67B820--
+```

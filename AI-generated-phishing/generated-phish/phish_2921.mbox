@@ -1,0 +1,61 @@
+```mbox
+From MAILER-DAEMON Thu Oct 12 14:34:12 2023
+Return-Path: <security-alerts@secure-mail-service.com>
+Received: from mail2.secure-mail-service.com (mail2.secure-mail-service.com. [192.168.10.10])
+        by mx.google.com with ESMTP id n2si1234567qpd.89.2023.10.12.14.34.12;
+        Thu, 12 Oct 2023 14:34:12 -0700 (PDT)
+Received-SPF: pass (google.com: domain of security-alerts@secure-mail-service.com designates 192.168.10.10 as permitted sender) client-ip=192.168.10.10;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@secure-mail-service.com;
+       spf=pass (google.com: domain of security-alerts@secure-mail-service.com designates 192.168.10.10 as permitted sender) smtp.mailfrom=security-alerts@secure-mail-service.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=secure-mail-service.com
+Received: from localhost (localhost [127.0.0.1])
+        by mail2.secure-mail-service.com (Postfix) with ESMTP id 123456789AB;
+        Thu, 12 Oct 2023 14:34:12 -0700 (PDT)
+Reply-To: secure-update@warnings-email.net
+From: "Account Security Team" <security-alerts@secure-mail-service.com>
+To: victim@example.com
+Subject: Urgent Account Notice - Immediate Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789123456.1234567890123"
+
+------=_Part_123456_789123456.1234567890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your immediate attention is required. A recent security anomaly was detected on your account. It is vital to verify your account information to prevent unauthorized access. Failure to comply within 24 hours can result in permanent suspension.
+
+Review now: http://203.0.113.5/secureid-update
+
+Additionally, please ensure that you verify your contact information by visiting our privacy policy and help pages:
+
+Privacy Policy: http://www.secure-mail-service.com/privacy-policy
+Help Center: http://www.secure-mail-service.com/help-center
+
+Regards,
+Account Security Team
+
+------=_Part_123456_789123456.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your immediate attention is required. A recent security anomaly was detected on your account. It is vital to verify your account information to prevent unauthorized access. Failure to comply within 24 hours can result in permanent suspension.</p>
+    <p><strong>Review now:</strong> <a href="http://203.0.113.5/secureid-update">click here</a></p>
+    <br/>
+    <img src="http://www.secure-mail-service.com/images/secure-banner.png" alt="Secure Service Logo" />
+    <p>Additionally, please ensure that you verify your contact information by visiting our privacy policy and help pages:</p>
+    <ul>
+      <li>Privacy Policy: <a href="http://www.secure-mail-service.com/privacy-policy">here</a></li>
+      <li>Help Center: <a href="http://www.secure-mail-service.com/help-center">here</a></li>
+    </ul>
+    <p>Regards,<br/>Account Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_789123456.1234567890123--
+```

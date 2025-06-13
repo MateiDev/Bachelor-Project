@@ -1,0 +1,42 @@
+From baba@example.com Sat Oct 14 11:30:00 2023
+Date: Sat, 14 Oct 2023 11:30:00 +0000
+From: DHL Express <delivery@dhl-express.com>
+To: victim@example.com
+Subject: Urgent: Delivery Notification - Action Required
+
+This is a multi-part message in MIME format.
+
+--Boundary_(ID_xxx)
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel has encountered an issue during delivery. Please review the details below and take action to ensure your package is delivered promptly.
+
+--Boundary_(ID_xxx)
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <h2>Urgent Delivery Notification</h2>
+    <p>Dear Customer,</p>
+    <p>Your parcel has encountered an issue during delivery. Please <a href="http://192.168.0.1/delivery-status" style="color:#00f;">click here</a> to review.</p>
+    <br />
+    <p>Click <a href="http://192.168.0.1/pay-fee"></a> to complete payment and release your parcel.</p>
+    <p>For any concerns regarding your account, you may review our <a href="http://dhl.com/privacy-policy">privacy policy</a>.</p>
+    <p>Thank you for choosing DHL Express.</p>
+    <p>The DHL Team</p>
+    <img src="https://ispalerts.com/logo.png" alt="DHL Logo">
+    <p><a href="http://dhl.com/help"></a>Help</p>
+</body>
+</html>
+
+--Boundary_(ID_xxx)--
+
+Links in this message:
+- http://192.168.0.1/delivery-status
+- http://192.168.0.1/pay-fee
+- http://dhl.com/privacy-policy
+- http://dhl.com/help

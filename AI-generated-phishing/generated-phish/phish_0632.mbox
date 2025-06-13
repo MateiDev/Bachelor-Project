@@ -1,0 +1,29 @@
+From secure@bank-secure-update.com Mon Jul 31 09:15:00 2023
+Date: Mon, 31 Jul 2023 09:15:00 -0400
+From: "Security Alerts" <secure@bank-secure-update.com>
+To: user@client.com
+Subject: [URGENT] Account Tax Refund Confirmation Required
+Message-ID: <20230731091500.secure@bank-secure-update.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red;"><strong>Final Notice: Immediate Action Required!</strong></p>
+    <p>Dear Customer,</p>
+    <p>We have identified an issue with your recent tax refund. A <strong>small refund</strong> of $47.89 is awaiting confirmation. Failure to confirm within the next 24 hours will result in <strong>account suspension</strong>.</p>
+    <p>To secure your refund and prevent service interruption, please confirm your banking details immediately by <a href="https://bank-secure-update.com/update" title="Update Banking Information">click here</a>.</p>
+    <p>Alternatively, you can use the link below:</p>
+    <p><a href="http://192.0.2.45/confirm">https://yourbank.com/confirm</a></p>
+    <p>For privacy information, please review our <a href="https://yourbank.com/privacy">Privacy Policy</a>.</p>
+    <p>If you have questions, <a href="mailto:support@bank-secure-update.com"></a> our support team.</p>
+    <p>
+      <a href="http://192.0.2.45/logo"><img src="http://bank-images.com/logo.png" alt="Bank Logo" style="width:100px;"></a>
+    </p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>
+    Security Team<br>
+    Your Bank</p>
+  </body>
+</html>

@@ -1,0 +1,53 @@
+```mbox
+From phishing@support-inbox-alerts.com Tue Oct 10 14:32:54 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: from unknown (HELO support-inbox-alerts.com) (123.45.67.89)
+    by mail.example.com with SMTP; Tue, 10 Oct 2023 14:32:54 -0500 (EST)
+Date: Tue, 10 Oct 2023 14:32:54 -0500
+From: "Support Team" <phishing@support-inbox-alerts.com>
+Reply-To: "Account Alerts" <notices@secure-site-renewal.org>
+Subject: Urgent: Action Required to Verify Your Account
+To: victim@example.com
+Message-ID: <1234567890@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1234567_678910"
+
+------=_Part_1234567_678910
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We're contacting you with an urgent request to verify your account details. Failure to do so may result in suspension of your account. Please visit the link below to avoid any interruptions:
+
+http://support-login-update.com
+
+Thank you for your prompt attention to this matter.
+
+Best Regards,
+Your Support Team
+
+Privacy Policy: http://legitimate-site.com/privacy
+Help Center: http://legitimate-site.com/help
+
+------=_Part_1234567_678910
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We're contacting you with an <b>urgent</b> request to verify your account details. Failure to do so may result in suspension of your account. Please visit the link below to avoid any interruptions:</p>
+    <p><a href="http://145.100.205.50/login" target="_blank"><img src="http://spammy-site.com/click_here.png" alt="Click Here to Verify"></a></p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Best Regards,<br>Your Support Team</p>
+    <a href="http://legitimate-site.com/privacy">Privacy Policy</a>
+    <br />
+    <a href="http://legitimate-site.com/help">Help Center</a>
+  </body>
+</html>
+
+------=_Part_1234567_678910--
+```

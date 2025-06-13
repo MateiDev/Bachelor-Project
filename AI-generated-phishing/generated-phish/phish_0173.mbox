@@ -1,0 +1,34 @@
+From - Sat Oct 28 14:28:32 2023
+X-Account-Key: account2
+X-UIDL: 38493048234.463.mbox
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <rewards@surprizerewards.com>
+Received: from unknown (HELO surprizerewards.com) (203.0.113.5)
+  by mail.example.com with SMTP; Sat, 28 Oct 2023 14:27:32 -0400
+Message-ID: <20231028142732.38493048234.surprizerewards.com>
+Date: Sat, 28 Oct 2023 14:27:32 -0400
+From: "Surprise Rewards" <rewards@surprizerewards.com>
+Subject: URGENT: Your Account is Eligible for a €50 Reward!
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+  <p>Dear Valued Customer,</p>
+  <p>We are excited to inform you that your ACCOUNT has been randomly chosen to receive a <strong>€50 voucher</strong> as part of our loyalty program. This offer expires soon, so you must act fast!</p>
+
+  <p>To claim your reward, click on the link below:<br>
+     <a href="http://www.claims-surprizerewards.com" style="color:blue;"><strong>www.surprizerewards.com</strong></a></p>
+
+  <p>For more information, visit our website:<br>
+     <a href="http://www.viprewards.com" target="_blank"><img src="https://www.surprizerewards.com/images/reward.png" alt="Visit VIP Rewards"></a></p>
+
+  <p>Please be aware that this offer is <strong>urgent</strong> and will only be available for a limited time. If you do not respond, your reward will be given to another eligible customer. Don't miss this exclusive opportunity!</p>
+
+  <p><a href="#" style="color:green;"></a></p>
+
+  <p>Best regards,<br>
+     Surprise Rewards Team</p>
+</body>
+</html>

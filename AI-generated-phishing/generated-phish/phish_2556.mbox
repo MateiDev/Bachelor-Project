@@ -1,0 +1,29 @@
+```mbox
+From fake@notifications-dhl.com Thu Oct 12 14:12:34 2023
+Date: Thu, 12 Oct 2023 13:45:21 +0000
+From: DHL Express <fake@notifications-dhl.com>
+Reply-To: support@dhl-fake-support.com
+To: user@example.com
+Subject: Urgent: Immediate Action Required - Parcel Held!
+
+--boundary-string
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is currently on hold at our facility and pending delivery. Immediate action is required to release it.</p>
+    <p>Click the link below to resolve the issue:</p>
+    <p><a href="http://secure-updates.com/track-package" style="text-decoration: none;"><img src="http://legit-image.com/track-now.png" alt="Track Package"></a></p>
+    <p>Alternatively, you can <a href="http://secure-updates.com/release">click here</a> to complete the simple verification process.</p>
+    <p>Tracking Number: 123456789</p>
+    <p>Failure to comply might lead to additional charges or return of the parcel to the sender.</p>
+    <hr>
+    <p>For privacy policy, <a href="http://dhl.com/privacy">click here</a>.</p>
+    <p>If you did not request this delivery, please contact our support team immediately at <a href="mailto:support@dhl-fake-support.com">support@dhl-fake-support.com</a></p>
+    <p>Thank you,<br>DHL Express Support Team</p>
+  </body>
+</html>
+
+--boundary-string
+```

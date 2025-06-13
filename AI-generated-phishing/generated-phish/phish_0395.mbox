@@ -1,0 +1,39 @@
+```
+From nobody@example.com Thu Oct 12 10:01:01 2023
+From: "Reward Center" <rewards@claim-your-voucher.com>
+To: "Valued Customer" <victim@example.com>
+Subject: Urgent: Claim Your €500 Voucher Before It Expires!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Congratulations! You are eligible for an exclusive €500 voucher. This offer is limited and expires soon. Act now to avoid missing out. 
+
+To claim your reward, please visit our website immediately.
+
+Thank you for being a valued customer.
+
+Regards,
+Reward Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+    <body>
+        <p>Dear Customer,</p>
+        <p>Congratulations! You are eligible for an exclusive <strong>€500 voucher</strong>. This offer is <em>limited and expires soon</em>. Act now to avoid missing out.</p>
+        <p>To claim your reward, please click the link below:</p>
+        <p><a href="http://malicious-link.com">Click here</a></p>
+        <p>If you need any assistance, visit our <a href="http://real-website.com/help">help page</a> or read our <a href="http://real-website.com/privacy-policy">privacy policy</a>.</p>
+        <p>Thank you for being a valued customer.</p>
+        <p>Regards,<br>Reward Team</p>
+    </body>
+</html>
+
+--boundary123--
+```

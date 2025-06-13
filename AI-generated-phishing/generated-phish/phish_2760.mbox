@@ -1,0 +1,48 @@
+From nobody Tue Oct 10 10:00:00 2023
+Return-Path: <noreply@dhl-delivery-center.com>
+Received: from 192.168.1.1 (helo=mx.domain.com)
+    by smtp.domain.com with ESMTPA
+    id <202310101000.m9A0A0Z0009876@mx.domain.com>
+    for <victim@example.com>; Tue, 10 Oct 2023 10:00:00 +0000
+Message-ID: <202310101000.m9A0A0Z0009876@mx.domain.com>
+Reply-To: urgent@parcel-processing.com
+From: "DHL Notifications" <noreply@dhl-deliverycenter.com>
+To: victim@example.com
+Subject: Urgent: Action Required for Your Held Parcel
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+Your package is on hold due to an unpaid delivery fee. Immediate action is required to avoid return.
+
+Visit http://198.51.100.42/delivery-status to resolve this issue.
+
+Secure your delivery by clicking the following link: http://fakeurl.com
+
+For help, visit our support page: http://dhl.com/help
+
+DHL Delivery Team
+
+--boundary123
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your package is on hold due to an <strong>unpaid delivery fee</strong>. <span style="color:red;">Immediate action is required</span> to avoid return.</p>
+
+<p>Visit <a href="http://198.51.100.42/delivery-status">http://dhl.com</a> to resolve this issue.</p>
+
+<p>Secure your delivery by clicking <a href="http://fakeurl.com"><img src="http://dhl.com/logo.png" alt="Click here"></a></p>
+
+<p>For help, visit our support page: <a href="http://dhl.com/help">DHL Help</a></p>
+
+<p>Regards,<br>DHL Delivery Team</p>
+</body>
+</html>
+
+--boundary123--

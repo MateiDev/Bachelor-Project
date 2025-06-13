@@ -1,0 +1,50 @@
+```
+From example@security-alert.com Wed Sep 27 12:34:56 2023
+Return-Path: <example@security-alert.com>
+Delivered-To: user@example.com
+Received: from smtp.security-alert.com (smtp.security-alert.com [192.168.1.1])
+	by mail.example.com (Postfix) with ESMTP id 12345ABCD
+	for <user@example.com>; Wed, 27 Sep 2023 12:34:56 +0000 (UTC)
+Date: Wed, 27 Sep 2023 12:34:56 +0000
+From: Security Alerts <example@security-alert.com>
+Reply-To: noreply@security-alert.com
+To: user@example.com
+Subject: Urgent: Unusual Sign-In Attempt Detected - Immediate Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-example-123456"
+
+--boundary-example-123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt to your account. To secure your account, immediate verification is required. Please visit the following link to verify your identity:
+
+https://security-alert.com.verify.error.update-accountinfo.com/
+
+If you do not verify, your account access might be restricted for your safety. Your password is set to expire today. Reset it immediately here:
+
+https://security-alert.com.reset-password.link.stats.com/
+
+Stay safe,
+Security Team
+
+--boundary-example-123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected an <strong>unusual sign-in attempt</strong> to your account. To secure your account, <strong>immediate verification is required</strong>. Please click the button below:</p>
+    <p><a href="https://security-alert.com.verify.error.update-accountinfo.com/"><img src="https://security-alert.com/images/verify_button.png" alt="Verify Now"></a></p>
+    <p>Your password is set to expire today. <strong>Reset it immediately</strong> using the link below:</p>
+    <p><a href="https://security-alert.com.reset-password.link.stats.com/">Reset Password</a></p>
+    <p>Stay safe,<br />Security Team</p>
+    <img src="https://security-alert.com/images/security_logo.png" alt="Security Team Logo" />
+  </body>
+</html>
+
+--boundary-example-123456--
+```

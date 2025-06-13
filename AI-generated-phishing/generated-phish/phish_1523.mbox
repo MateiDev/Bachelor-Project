@@ -1,0 +1,52 @@
+From support@paypal.com Fri Aug 13 11:22:33 2021
+Return-Path: <support@paypal.com>
+From: "PayPal Support Team" <support@paypal.com>
+Reply-To: <security@account-verification.net>
+Subject: Urgent: Account Password Expires Today – Verify Your Account
+Date: Fri, 13 Aug 2021 11:22:33 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1628844153"
+
+------=_Part_0_123456.1628844153
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Unusual sign-in detected for your account. To ensure your security, you must verify your identity now. Password expires today – reset immediately to avoid service interruption.
+
+Please follow the link below to verify and reset your password:
+www.paypal.com/login
+
+If you do not update within 24 hours, your account may be suspended.
+
+Thank you for your prompt attention.
+
+Sincerely,
+PayPal Support Team
+
+Privacy Policy: https://www.paypal.com/privacy
+
+------=_Part_0_123456.1628844153
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Unusual sign-in detected—verify now.</strong> Your <em>password expires today – reset immediately</em> to avoid suspension.</p>
+    <p>To verify your account, please visit:
+      <a href="http://my.security.account-verification.net/login">www.paypal.com/security</a>
+    </p>
+    <p>You may also <a href="http://alerts.account-secure-check.com/reset">here</a> reset your credentials.</p>
+    <p><a href="http://my.security.account-verification.net/alert"></a></p>
+    <hr>
+    <p>For assistance, visit our
+      <a href="https://www.paypal.com/help">Help Center</a> or
+      <a href="https://www.paypal.com/privacy">Privacy Policy</a>.
+    </p>
+    <p>Sincerely,<br>PayPal Support Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.1628844153--

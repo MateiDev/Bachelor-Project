@@ -1,0 +1,44 @@
+```mbox
+From example@fake-dhl-notice.com Tue Oct 03 14:44:37 2023
+Return-Path: <example@fake-dhl-notice.com>
+Delivered-To: victim@example.com
+Received: from example.com (example.com [123.123.123.123])
+        by mail.example.com (Postfix) with ESMTP id 1234ABCD56
+        for <victim@example.com>; Tue, 3 Oct 2023 14:44:37 +0000 (UTC)
+Subject: URGENT: Your DHL parcel is being held! Action required immediately
+To: victim@example.com
+From: DHL Notifications <example@fake-dhl-notice.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-example-123456"
+
+--boundary-example-123456
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We tried to deliver your package today, but there was an issue. Your immediate attention is needed to release your parcel.
+
+Please <a href="http://192.0.2.1/tracking">click here</a> to resolve the issue.
+
+Thank you for your prompt attention to this matter.
+
+DHL Support Team
+
+--boundary-example-123456
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We tried to deliver your package today, but there was an issue. Your immediate attention is needed to release your parcel.</p>
+<p><b>WARNING:</b> Failure to act within 48 hours will result in your package being returned to the sender.</p>
+<p>Please <a href="http://192.0.2.1/tracking"><img src="http://example.com/tracking-image.jpg" alt="Track your package"></a> to resolve the issue now.</p>
+<p>For more information <a href="http://192.0.2.1/contact"><img src="http://example.com/contact-image.jpg" alt="Contact us"></a></p>
+<p>If you wish to cancel the process, <a href="http://192.0.2.1/cancel"></a> immediately.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>DHL Support Team</p>
+</body>
+</html>
+
+--boundary-example-123456--
+```

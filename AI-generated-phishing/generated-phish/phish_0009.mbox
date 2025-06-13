@@ -1,0 +1,30 @@
+```mbox
+From nobody@dummydomain.com Mon Oct 2 12:34:56 2023
+Return-Path: <alert@secure-mail-support.com>
+Received: from mailhost.secure-mail-support.com (mailhost.secure-mail-support.com [192.168.1.1])
+	by mailbox.domain.com (Postfix) with ESMTP id 123456789AB;
+	Mon, 2 Oct 2023 12:34:56 +0000 (UTC)
+Date: Mon, 2 Oct 2023 12:34:55 +0000
+From: Support Team <alert@secure-mail-support.com>
+Reply-To: donotreply@users-mail.com
+To: victim@domain.com
+Subject: Urgent: Verify Your Account Access to Prevent Suspension!
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+<p>Dear Valued User,</p>
+<p>Your account access needs verification urgently to prevent suspension. We've noticed unusual activity and for security reasons, we require you to <strong>verify your account</strong> immediately.</p>
+<p>Please follow the steps below to secure your account:</p>
+<p><a href="https://secure-login.support.com.verify-update.session.important-login.ch">
+    <img src="https://www.fakeimage.com/logo.jpg" alt="Secure Login" width="200" height="50">
+</a></p>
+<p>Or click <a href="https://secure-login.support.com.verify-update.session.important-login.ch"></a> here to go directly to verify your account.</p>
+<p>Ignoring this message will result in account suspension.</p>
+<p>For questions, please contact our support team.</p>
+<p>Stay Safe,<br>The Support Team</p>
+</body>
+</html>
+```

@@ -1,0 +1,45 @@
+```mbox
+From nobody Fri Oct  6 12:34:56 2023
+Return-Path: <phisher@scam.com>
+Delivered-To: victim@example.com
+Received: from 192.0.2.0 (192.0.2.0)
+        by victim.example.com with ESMTP id AB1234; Fri, 6 Oct 2023 12:34:56 +0000
+Date: Fri, 6 Oct 2023 12:34:56 +0000
+From: "Customer Service" <support@rewardzone.com>
+Subject: Urgent! Claim your €500 voucher now
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Due to a recent update, you are eligible for a €500 gift card from our rewards program. This offer expires soon, so claim your voucher now.
+
+To claim your reward, please click the link below:
+
+http://192.0.2.1/claim-reward
+
+Thank you for being a valued customer!
+
+Best,
+Reward Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Due to a recent update, you are eligible for a €500 gift card from our rewards program. This offer expires soon, so claim your voucher now.</p>
+    <a href="http://192.0.2.1/claim-reward"><img src="http://www.rewards.com/button.jpg" alt="Claim Now"></a>
+    <p>Thank you for being a valued customer!</p>
+    <p>Best,<br>Reward Team</p>
+    <p><a href="http://www.rewards.com/privacy-policy"></a></p>
+    <p><a href="http://www.rewards.com/terms"> </a></p>
+  </body>
+</html>
+
+--boundary-string--
+```

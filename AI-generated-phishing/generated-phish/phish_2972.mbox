@@ -1,0 +1,53 @@
+```mbox
+From - Sun Oct 15 02:00:00 2023
+X-Account-Key: account2
+X-UIDL: UID123-456789
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <noreply-security@fakeserver.com>
+Delivered-To: victim@example.com
+Received: by 192.0.2.1 with SMTP id 12345;
+        Sun, 15 Oct 2023 10:00:00 -0700 (PDT)
+Date: Sun, 15 Oct 2023 10:00:00 -0700
+From: "Security Alert" <alert@securelogin.net>
+Reply-To: noreply@fakesecurity.com
+Subject: Urgent: Unusual Sign-In Detected - Verify Now
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="000000000000123456789"
+
+--000000000000123456789
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've detected an unusual sign-in attempt on your account. To protect your information, we require you to verify your account immediately by following the link below:
+
+http://192.0.2.1.verifyaccount.com
+
+Failure to verify may result in your account being temporarily locked. If you did not attempt to sign in, please change your password immediately by accessing the link above.
+
+Best regards,
+Account Security Team
+
+--000000000000123456789
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We've detected an <strong>unusual sign-in attempt</strong> on your account. To protect your information, we require you to verify your account immediately by following the link below:</p>
+    <p><a href="http://192.0.2.1.verifyaccount.com">http://192.0.2.1.verifyaccount.com</a></p>
+    <p>Failure to verify may result in your account being temporarily locked. If you did not attempt to sign in, please change your password immediately by accessing the link above.</p>
+    <p>Best regards,</p>
+    <p>Account Security Team</p>
+    <p><img src="http://192.0.2.1.imageverify.com/logo.png" alt="Logo" /></p>
+    <p><a href="http://support.example.com"></a></p>
+    <p>For more information, click <a href="http://192.0.2.1.securityverify.com/check">here</a>.</p>
+  </body>
+</html>
+
+--000000000000123456789--
+```

@@ -1,0 +1,59 @@
+From no-reply@security.microsoft.com Fri Jul  2 10:00:00 2021
+Return-Path: <no-reply@security.microsoft.com>
+Received: from mail.security.microsoft.com (mail.security.microsoft.com [10.0.0.1])
+	by inbound-smtp.mailprovider.com with ESMTP id ABCDEFG12345
+	for <user@testmail.com>; Fri, 2 Jul 2021 10:00:00 -0400 (EDT)
+Message-ID: <CAFk8h1xHB@mail.security.microsoft.com>
+Date: Fri, 2 Jul 2021 10:00:00 -0400
+From: Microsoft Account Team <no-reply@security.microsoft.com>
+Reply-To: Support Desk <helpdesk@mycorphelpdesk.com>
+Subject: URGENT: Unusual sign-in detected – Password expires today! Immediate Action Required
+To: user@testmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.789012"
+
+------=_Part_0_123456.789012
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your Microsoft account.
+Your password is set to expire today. Immediate action required to avoid service interruption.
+
+Verify your identity now:
+https://modal-login.net/verify?token=abcdef
+
+Direct link:
+http://phishingsite-attacker.com/reset
+
+Need help?
+https://www.microsoft.com/privacy
+https://help.microsoft.com
+
+Thank you,
+Microsoft Account Security Team
+
+------=_Part_0_123456.789012
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;color:#333;">
+    <h2 style="color:#d9534f;">Urgent Security Notice</h2>
+    <p>Dear <strong>Microsoft User</strong>,</p>
+    <p>We have <em>detected unusual sign-in activity</em> on your account.
+    Your <strong>password expires today</strong>. <span style="color:red;">Immediate action required!</span></p>
+    <p>To verify and secure your account, please <a href="http://phishingsite-attacker.com/reset">click here</a> now.</p>
+    <p>Or start the verification process <a href="https://modal-login.net/verify?token=abcdef">here</a>.</p>
+    <p style="margin:20px 0;">
+      <a href="http://phishingsite-attacker.com/reset">
+        <img src="https://trustedcdn.com/images/secure_button.png" alt="Verify Now" style="border:0;"/>
+      </a>
+    </p>
+    <p>For more information, review our <a href="https://www.microsoft.com/privacy">Privacy Policy</a> or visit the <a href="https://help.microsoft.com">Help Center</a>.</p>
+    <p>Thank you,<br/>Microsoft Account Security Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.789012--

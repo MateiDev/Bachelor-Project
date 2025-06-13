@@ -1,0 +1,63 @@
+From toc@hptesting.local Sat Oct 07 12:34:56 2023
+Return-Path: <support@irs.gov.fake-domain.com>
+Received: from userpc.hptesting.local (userpc.hptesting.local [192.0.2.200])
+    by mail.hptesting.local with ESMTP id abc123
+    for <user@example.com>; Sat, 7 Oct 2023 12:34:56 -0400
+Date: Sat, 07 Oct 2023 12:34:56 -0400
+From: "IRS Tax Services" <support@irs.gov.fake-domain.com>
+To: user@example.com
+Subject: URGENT: Tax Refund Pending Confirmation
+Message-ID: <20231007123456.abc123@mail.hptesting.local>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_890123"
+
+----=_Part_1234567_890123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear taxpayer,
+
+We have completed processing your 2022 tax return and a small refund of $47.15 is pending deposit to your bank account. Immediate action is required to confirm your payment details.
+
+Please confirm at your earliest convenience by visiting the following links:
+
+https://www.irs.gov/RefundStatus
+http://192.0.2.123/confirm
+
+Failure to respond within 48 hours will result in cancellation of your refund and may incur penalties.
+
+For support, visit:
+https://secure.irs.gov.help/tax-support
+https://www.irs.gov/login (http://phishingsite.online/login)
+
+Sincerely,
+IRS Tax Services
+
+Privacy Policy: https://www.irs.gov/privacy
+
+----=_Part_1234567_890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Tax Refund Pending Confirmation</title>
+</head>
+<body>
+  <p>Dear taxpayer,</p>
+  <p>We have completed processing your 2022 tax return and a small refund of <strong>$47.15</strong> is pending deposit to your bank account. <span style="color:red;">Immediate Action Required!</span></p>
+  <p>Click <a href="http://192.0.2.123/confirm">here</a> to verify your payment details. You can also check your status at <a href="https://www.irs.gov/RefundStatus">https://www.irs.gov/RefundStatus</a>.</p>
+  <p>Or sign in securely: <a href="http://phishingsite.online/login">https://www.irs.gov/signin</a></p>
+  <p><a href="http://secure.bank-confirm.tax-refund.co/user-auth"><img src="http://192.0.2.123/logo.png" alt="IRS Logo" border="0"></a></p>
+  <p>
+    <a href="http://malicious.example.com/privacy-policy.html">Privacy Policy</a> |
+    <a href="http://malicious.example.com/help.html"></a>
+  </p>
+  <p style="color:red;">Failure to respond within 48 hours will result in cancellation of your refund and may incur penalties.</p>
+  <p>Sincerely,<br/>
+     IRS Tax Services Team
+  </p>
+</body>
+</html>
+
+----=_Part_1234567_890123--

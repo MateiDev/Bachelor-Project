@@ -1,0 +1,53 @@
+From shipping@dhl.com Wed Jun 12 16:42:00 2024
+Return-Path: <shipping@dhl.com>
+Received: from mailrelay.dhl.com (mailrelay.dhl.com [198.18.0.10])
+    by mail.dhl.com with ESMTP id abc123xyz
+    for <user@victim.net>; Wed, 12 Jun 2024 16:42:00 +0200
+Message-ID: <202406121642.mail123@dhl.com>
+Date: Wed, 12 Jun 2024 16:42:00 +0200
+From: DHL Express <no-reply@dhl.com>
+To: user@victim.net
+Reply-To: support@192.168.0.45
+Subject: URGENT: Delivery Notification - Verify Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_123456789.1655064123456"
+
+----=_Part_000_123456789.1655064123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery could not be completed due to missing verification.
+Failure to verify your account will result in a return of your shipment.
+Please click the link below to confirm and pay any required fee:
+
+https://dhl.com/track-package
+
+If you do not act immediately, your shipment will be delayed.
+
+Best regards,
+DHL Express Support Team
+
+----=_Part_000_123456789.1655064123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>URGENT: Delivery Notification - Verify Your Account</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+  <p>Dear Customer,</p>
+  <p>Your recent delivery by <strong>DHL Express</strong> could not be processed due to account verification issues. Unauthorized shipments are held until verification is completed. Immediate action is required to avoid delay.</p>
+  <p>Please <a href="http://108.61.128.105/verify?shipment=AB123456789">click here</a> to confirm your details and pay the necessary fee.</p>
+  <p><a href="https://dhl.com/track" ></a></p>
+  <p>If you do not verify within 24 hours, your package will be returned to sender.</p>
+  <p>Thank you,<br/>
+     DHL Express Delivery Team</p>
+  <hr/>
+  <p><a href="http://45.76.23.11/privacy.policy.html">Privacy Policy</a> | <a href="http://45.76.23.11/help.center">Help Center</a></p>
+</body>
+</html>
+
+----=_Part_000_123456789.1655064123456--

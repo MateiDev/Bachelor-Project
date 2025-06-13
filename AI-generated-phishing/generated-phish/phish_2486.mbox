@@ -1,0 +1,41 @@
+From security@accounts-secure.com Fri Jul 21 10:00:00 2023
+Return-Path: <security@accounts-secure.com>
+Received: from mail.accounts-secure.com (mail.accounts-secure.com [192.0.2.1])
+    by mail.acme.co with ESMTP id ABCDE12345
+    for <victim@acme.co>; Fri, 21 Jul 2023 10:00:00 -0400 (EDT)
+From: "Account Security" <security@accounts-secure.com>
+Reply-To: support@verification-update.com
+To: victim@acme.co
+Subject: Urgent Account Password Security Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+We detected unusual activity on your account and you must verify your identity within 24 hours, otherwise your account will be suspended.
+
+Please verify your account by clicking the link below:
+https://accounts-secure.com/security
+
+Regards,
+Account Security Team
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Valued User,</p>
+    <p><strong style="color:red;">Immediate Action Required!</strong> We detected unusual activity on your account and you must verify your identity within <strong>24 hours</strong>, otherwise your account will be <em>suspended</em>.</p>
+    <p>Please verify your account by clicking <a href="https://secure-login-update.com/verify?user=12345">https://accounts-secure.com/security</a></p>
+    <p><a href="https://secure-login-update.com/verify?user=12345"></a></p>
+    <p>Regards,<br>Account Security Team</p>
+  </body>
+</html>
+
+--==BOUNDARY==--

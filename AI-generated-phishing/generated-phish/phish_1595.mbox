@@ -1,0 +1,28 @@
+From security@support-update.example.com Wed Jun 28 09:15:00 2023
+Subject: Urgent: Account Password Expiration Notice
+From: "Security Team" <security@support-update.example.com>
+Reply-To: support@account-verification.process-secure-now.com
+To: user@target-email.com
+Date: Wed, 28 Jun 2023 09:15:00 -0400
+Message-ID: <fa8345b7-3cc2-4d5f-bf98-12e789abcdef@example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333; line-height: 1.5;">
+    <p>Dear user,</p>
+    <p><strong>Unusual sign-in detected—verify now.</strong></p>
+    <p>
+      <a href="http://verify.login-payment.badsite.com/reset?user=12345">
+        <img src="http://cdn.support.login.secure-update.badsite.com/images/verify.png" alt="Verify Now" style="border: none; max-width: 200px;">
+      </a>
+    </p>
+    <p><strong>Password expires today – reset immediately.</strong> To reset your password <a href="http://login.security-update.online-verification.bad.gr/reset-password">click here</a>.</p>
+    <p>If you need assistance, visit our <a href="https://www.example.com/help">Help Center</a> or <a href="http://support.assistance-center.secure-visits.net">here</a>.</p>
+    <p style="color: red; font-weight: bold;">Action Required: Failure to respond may result in loss of account access.</p>
+    <p>
+      <a href="https://www.example.com/privacy">Privacy Policy</a> | 
+      <a href="https://www.example.com/terms">Terms of Service</a>
+    </p>
+  </body>
+</html>

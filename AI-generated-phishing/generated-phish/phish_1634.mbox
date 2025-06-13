@@ -1,0 +1,25 @@
+From securemail@company.com Fri Jul 05 14:22:33 2024
+Subject: Urgent: Account Password Verification Required
+From: Secure Mail Alert <securemail@company.com>
+Reply-To: support@security-update.net
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <h1>Portal Security Alert</h1>
+    <p>Dear user,</p>
+    <p>We detected unusual activity on your account. To ensure your data is protected, we require you to verify your password immediately.</p>
+    <p><a href="http://192.168.0.50/verify?user=user&id=1234">click here</a> to begin the secure verification process.</p>
+    <p>Alternatively, use our secure portal:</p>
+    <a href="http://10.0.0.1/session/start">
+      <img src="http://10.0.0.1/images/secure-icon.png" alt="Secure Portal">
+    </a>
+    <p>If the link above does not work, <a href="http://login.security.portal.secure.server.com.fake-domain.phish.net/validate"> </a></p>
+    <p>This request is urgent. Failure to verify within 24 hours may result in account suspension.</p>
+    <p>Need help? Visit our <a href="https://company.com/help">Help Center</a> or read our <a href="https://company.com/privacy">Privacy Policy</a>.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Sincerely,<br>Secure Mail Team</p>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+```mbox
+From - Wed Oct 04 14:32:29 2023
+X-Original-To: user@example.com
+Delivered-To: user@example.com
+Received: by 192.0.2.7 with SMTP id j7c3vn729388y3c3q
+        for <user@example.com>; Wed, 4 Oct 2023 14:32:29 -0800 (PST)
+Date: Wed, 4 Oct 2023 14:32:29 -0800
+From: "Security Update" <no-reply@update-service.com>
+Reply-To: support-team@fake-service.com
+Subject: Urgent: Verify your Account Information!
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------08042023143229121500"
+
+This is a multi-part message in MIME format.
+--------------08042023143229121500
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your account and need you to verify your information immediately. Failure to do so may result in account suspension.
+
+Please log in to your account to verify your details:
+http://192.0.2.9/security-update
+
+Thank you for your prompt attention to this matter.
+
+Best Regards,
+Security Team
+
+--------------08042023143229121500
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We have detected <b>unusual activity</b> on your account and need you to verify your information immediately. Failure to do so may result in account suspension.</p>
+<p>Please <a href="http://192.0.2.9/security-update">log in to your account</a> to verify your details.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Best Regards,<br>
+Security Team</p>
+</body>
+</html>
+
+--------------08042023143229121500--
+```

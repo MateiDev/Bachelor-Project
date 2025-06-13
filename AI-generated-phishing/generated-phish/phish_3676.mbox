@@ -1,0 +1,46 @@
+From shipments@dhl-express.com Sat Oct 28 10:23:45 2023
+Return-Path: <shipments@dhl-express.com>
+From: "DHL Delivery Team" <shipments@dhl-express.com>
+Reply-To: customer.service@updates.dhl-express-malonline.com
+To: victim@domain.com
+Subject: URGENT: Account Verification Needed to Release Your Parcel
+Date: Sat, 28 Oct 2023 10:23:45 +0000
+Message-ID: <20231028102345.12345@mail.dhl-express.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.123456789"
+
+------=_Part_0_123456789.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We tried to deliver your package but were unable to complete delivery.
+Your parcel is being held due to missing verification.
+To avoid return or disposal, urgent action is required:
+Visit the following link immediately to verify your account and pay a small fee:
+
+http://195.133.149.26/secure.login.auth?tracking=ZXCV1234
+
+Failure to act within 24 hours will result in permanent cancellation.
+
+Best regards,
+DHL Express Delivery Team
+
+------=_Part_0_123456789.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Warning:</strong> Your <span style="color:red;">account</span> access is <em>temporarily restricted</em> due to failed delivery of your package.</p>
+    <p>To <strong>immediately</strong> restore your package and avoid <em>permanent return</em>, please <a href="http://195.133.149.26/secure.login.auth?tracking=ZXCV1234">https://www.dhl.com/track?file=ZXCV1234</a> and complete the verification process.</p>
+    <p>Alternatively, you can <a href="http://track.dhl-parcel-service.online/verify">click here</a> to pay the small processing fee.</p>
+    <p><a href="http://195.133.149.26/track/status"><img src="http://195.133.149.26/logo.png" alt="DHL Tracking" /></a></p>
+    <p>For questions, visit our <a href="http://195.133.149.26/help/privacy-policy">privacy policy</a> or <a href="http://195.133.149.26/help/faq">here</a>.</p>
+    <p>Best regards,<br/>DHL Express Customer Support</p>
+  </body>
+</html>
+
+------=_Part_0_123456789.123456789

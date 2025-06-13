@@ -1,0 +1,46 @@
+From reward-team@notification.bankserver.local Mon Jul 12 10:23:45 2021
+Return-Path: <noreply@banksecure.com>
+Received: by mail.banksecure.com id abcdef; Mon, 12 Jul 2021 10:23:45 +0000
+From: "Bank Secure Notification" <noreply@banksecure.com>
+Reply-To: support@urgent-action.bankupdates.net
+To: user@victim.com
+Subject: URGENT: Verify Your Account to Claim €100 Voucher
+Date: Mon, 12 Jul 2021 10:23:45 +0000
+Message-ID: <20210712102345.abcdef@mail.banksecure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity in your account. Your account will be locked within 24 hours if you do not confirm your details. You are eligible for a €100 voucher as compensation. Act now to avoid losing access.
+
+To claim your reward, visit:
+https://offers.multiple.dots.rewards.bank.com/promo
+
+Or click here: http://192.0.2.123/claim?user=XYZ
+
+Kind regards,
+Bank Secure Team
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>Important:</strong> We detected fraudulent login attempts. Your account is <span style="color:red;">URGENT</span> for verification.</p>
+    <p>You have been selected for a <em>€100 gift voucher</em>. Click <a href="http://192.0.2.123/claim?user=XYZ">here</a> to secure your reward now.</p>
+    <p>If the link above does not work, copy and paste this URL into your browser:</p>
+    <p><a href="https://offers.multiple.dots.rewards.bank.com/promo">https://offers.multiple.dots.rewards.bank.com/promo</a></p>
+    <p>Review our <a href="http://secure.policy-server.bank.com/privacy">privacy-policy</a> or <a href="http://helpdesk.bankupdates.net">help</a> for assistance.</p>
+    <p>Reset your password: <a href="http://phishingsite.com/reset?token=abc123">https://secure.bank.com/password-reset</a></p>
+    <p><img src="http://198.51.100.23/images/voucher.jpg" alt="Voucher" width="600" height="200"></p>
+    <p><img src="http://203.0.113.45/tracker.png" width="1" height="1" alt=""></p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

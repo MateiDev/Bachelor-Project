@@ -1,0 +1,56 @@
+From MAILER-DAEMON Tue Oct 31 10:00:00 2023
+Return-Path: <mail@example.com>
+Received: from mail.example.com (mail.example.com [192.168.1.100])
+    by mx.example.net with SMTP id AB1234CD5678
+    for <user@example.com>; Tue, 31 Oct 2023 10:00:00 +0000 (UTC)
+Date: Tue, 31 Oct 2023 10:00:00 +0000 (UTC)
+From: "Portal Security" <portal-security@secure-portal.com>
+Reply-To: support@security-alert.com
+Subject: Urgent: Immediate Action Required for Your Account Security
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="000000000000abcd0000488c"
+
+--000000000000abcd0000488c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+We have detected unusual activity on your account that requires immediate attention. Failure to act promptly could lead to your account being suspended.
+
+Please verify your account details by clicking the secure link below:
+
+Click here: http://192.0.2.0/secure-login
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Portal Security Team
+
+--000000000000abcd0000488c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity on your account that requires immed=
+iate attention. Failure to act promptly could lead to your account being su=
+spended.</p>
+    <p>Please verify your account details by clicking the secure link below:=
+</p>
+    <p>
+      <a href=3D"http://192.0.2.0/secure-login">Click <empty></a>
+      <a href=3D"http://192.0.2.0/secure-login"></a>
+      <a href=3D"http://192.0.2.0/secure-login">here</a>
+    </p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br/>
+    Portal Security Team</p>
+    <p>For more information, visit our <a href=3D"https://www.secure-portal.com/privacy-policy">privacy policy</a> or <a href=3D"https://www.secure-portal.com/help">help page</a>.</p>
+  </body>
+</html>
+
+--000000000000abcd0000488c--

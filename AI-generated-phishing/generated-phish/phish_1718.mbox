@@ -1,0 +1,26 @@
+From phishing@securemail-portal.com Sat Jun  1 10:12:34 2024
+From: "SecureMail Alerts" <alerts@securemail-portal.com>
+Reply-To: support@securemail.helpdesk.com
+To: user@domain.com
+Subject: IMPORTANT: Encrypted Secure-Mail Delivery Failed!
+Date: Wed, 31 May 2024 14:22:11 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p><strong>URGENT:</strong> Your encrypted secure-mail delivery has <strong>FAILED</strong> due to a <strong>security breach</strong>. Immediate action is required to avoid permanent message deletion and <strong>account suspension</strong>.</p>
+    <p>To verify your identity and secure your confidential messages, please follow the steps below:</p>
+    <ul>
+      <li>Secure Portal Verification: <a href="http://203.0.113.76/authenticate">https://securemail-portal.com/authenticate</a></li>
+      <li>Privacy Policy: <a href="https://securemail-portal.com/privacy-policy">https://securemail-portal.com/privacy-policy</a></li>
+      <li>Help Center: <a href="https://helpcenter.securemail-portal.com">https://helpcenter.securemail-portal.com</a></li>
+      <li>Security Update: <a href="http://203.0.113.76/update"></a></li>
+    </ul>
+    <p>Alternatively, you may <a href="http://192.0.2.123/verify">click here</a> to confirm your account within the next <strong>24 HOURS</strong> to prevent irreversible data loss.</p>
+    <p>Your prompt response is <strong>CRITICAL</strong> to avoid further <strong>risks</strong>.</p>
+    <p>Sincerely,<br/>
+       SecureMail Support Team</p>
+  </body>
+</html>

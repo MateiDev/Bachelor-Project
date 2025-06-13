@@ -1,0 +1,32 @@
+From support@bankalerts.com Fri Jul 09 14:42:00 2021
+Return-Path: <support@bankalerts.com>
+Delivered-To: user@domain.com
+Received: from mail.bankalerts.com (mail.bankalerts.com [192.0.2.10])
+    by mx.domain.com with ESMTP id abc123
+    for <user@domain.com>; Fri,  9 Jul 2021 14:42:00 +0000 (UTC)
+Subject: Account Alert: Urgent Action Required - Password Expiration & Unusual Sign-In
+From: Bank Security <security@bankalerts.com>
+To: user@domain.com
+Date: Fri, 9 Jul 2021 14:42:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <body>
+  <p>Dear Customer,</p>
+  <p>We detected an <strong>unusual sign-in</strong> attempt to your account from a new device. Additionally, your <strong>password expires today</strong>. To secure your account and continue uninterrupted access, <span style="color:red;">action required</span> immediately.</p>
+  <p>Please verify your account and reset your password by clicking <a href="http://login.security-update.bank.fakebank.com/verify?uid=12345">here</a>.</p>
+  <p>If the link above does not work, copy and paste the following into your browser:</p>
+  <ul>
+    <li>IP-based URL: <a href="http://203.0.113.5/login-security/reset">203.0.113.5/login-security/reset</a></li>
+    <li>Alternate: https://secure.bank.com/login</li>
+  </ul>
+  <p>Or visit: <a href="http://malicious.com/secure">https://secure.bank.com/login</a></p>
+  <p><a href="http://redirect.phish-portal.bankhelp.com/privacy.policy.helpcenter.bank.fakebank.com">Privacy Policy</a> | <a href="http://redirect.phish-portal.bankhelp.com/help">Help Center</a></p>
+  <p>Thank you for your prompt attention to this <em>urgent</em> matter.</p>
+  <p>Sincerely,<br>
+     Bank Security Team</p>
+  <a href="http://phish-login.fakebank.biz/urgent"></a>
+ </body>
+</html>

@@ -1,0 +1,43 @@
+From no-reply@dhl.com Tue Mar 21 10:15:42 2023
+From: DHL Notification <no-reply@dhl.com>
+Reply-To: support@dhl-update123.net
+To: john.doe@domain.com
+Subject: Urgent Delivery Exception Notification
+Date: Tue, 21 Mar 2023 10:14:00 +0000
+Message-ID: <20230321101400.abcdef@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ123"
+
+--XYZ123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent parcel delivery is currently on hold due to an address verification issue.
+Immediate action is required to avoid return to sender. Please click here to release your package:
+http://123.45.67.89/release
+
+This hold will expire within 24 hours. Failure to resolve will result in your parcel being destroyed.
+
+Thank you for your prompt response.
+
+DHL Delivery Services
+
+--XYZ123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Your DHL parcel is being held due to an address verification failure.</p>
+    <p>To <a href="http://123.45.67.89/release" style="font-weight:bold;">release your package</a>, please complete the verification process <a href="http://123.45.67.89/verify">here</a> within the next 24 hours. If you do not act immediately, your package will be returned to sender.</p>
+    <p><a href="http://123.45.67.89/pay">Pay Now</a></p>
+    <p><a href="http://123.45.67.89/release"><img src="https://i.imgur.com/dhl-logo.png" alt="DHL Notification" width="200"/></a></p>
+    <p><small>For more information regarding our policies, please refer to our <a href="https://privacy.ups.verify.secure-track-111.com">Privacy Policy</a> or visit the <a href="https://help.dhl-notify.com">Help Center</a>.</small></p>
+    <p>Thank you,<br/>DHL Delivery Services</p>
+  </body>
+</html>
+
+--XYZ123--

@@ -1,0 +1,60 @@
+From shipments@dhl-shippings.com Wed Jun 26 12:34:56 2024
+Return-Path: <shipments@dhl-shippings.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.10]) by mx.recipient.com with ESMTP id ABC123DEF for <victim@recipient.com>; Wed, 26 Jun 2024 12:34:56 +0200
+From: "DHL Shipping" <shipments@dhl-shippings.com>
+Reply-To: support@dhl-care.com
+To: victim@recipient.com
+Subject: URGENT: DHL Account Password Verification Required
+Date: Wed, 26 Jun 2024 12:34:56 +0200
+Message-ID: <CAKE1234@dhl-shippings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an urgent issue with your DHL account and a pending parcel delivery.
+Your package is being held at our facility and requires immediate attention.
+Please click the link below to verify your account information and password
+to release your shipment:
+
+Click here: http://192.168.0.55/verify?ref=parcel123
+
+If verification is not completed within 24 hours, your package will be returned to sender and a
+security hold fee of $9.99 USD will be charged to your account.
+
+OVERVIEW:
+- Unclaimed Shipment ID: 123456789
+- Current Status: Security Alert - Delivery On-Hold
+
+Thank you for your prompt action.
+
+DHL Customer Service Team
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification</title>
+</head>
+<body style="font-family:Arial,sans-serif;color:#333;">
+<p>Dear Customer,</p>
+<p style="color:red;font-weight:bold;">Security Alert: Your package is on hold!</p>
+<p>We noticed an issue with your <b>DHL account</b> and failed <i>password</i> verification. To avoid immediate return, please <a href="http://192.168.0.55/verify?ref=parcel123">click here</a> to confirm your details.</p>
+<p>You can also track your shipment using the link below:</p>
+<p><a href="http://updates.dhl.securetrack.com/release"><img src="http://malicious.com/track.png" alt="Track Package" border="0"></a></p>
+<p>Alternatively, visit our <a href="http://privacy.dhlservice-update.com.helpcenter.login/terms">Privacy Policy</a> for more info.</p>
+<p style="font-size:0.8em;"><a href="http://staging.release.dhl.ups-service.com/confirm"></a></p>
+<p>If you have any questions, reply to this message or contact support.</p>
+<footer>
+<p>© 2024 DHL Express</p>
+</footer>
+</body>
+</html>
+
+----=_NextPart_000_0000--

@@ -1,0 +1,31 @@
+```
+From fake-service-alerts@accountalert.com Fri Oct 27 14:22:58 2023
+Return-Path: <fake-service-alerts@accountalert.com>
+Date: Fri, 27 Oct 2023 14:22:58 +0000
+From: Security Team <support@secure-service.com>
+Reply-To: noreply-security@alerts.example.com
+Subject: Urgent: Unusual Sign-In Detected - Verify Now
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Attention Required: Unusual Sign-In Activity</title>
+</head>
+<body>
+    <div style="font-family: Arial, sans-serif; line-height: 1.6;">
+        <h2>Hello,</h2>
+        <p>We detected an <strong>unusual sign-in attempt</strong> on your account from a new device. To ensure your account's safety, please verify your information.</p>
+        <p><a href="http://secure-login.example.com.reset-password.cn/security-check" style="color: #d9534f; font-weight: bold;"><img src="http://www.example.com/email/img/verify_account.png" alt="Verify Now"></a></p>
+        <p>If this was not you, we recommend you to reset your account password immediately to protect your information.</p>
+        <p><a href="http://secure-login.example.com.reset-password.cn/password-reset" style="color: #d9534f; text-decoration: none;">Reset Password</a></p>
+        <hr>
+        <p>If you have any questions, please visit our <a href="https://help.example.com">Help Center</a> or read our <a href="https://www.example.com/privacy-policy">Privacy Policy</a>.</p>
+        <p>Thank you for your attention,</p>
+        <p>Security Team</p>
+    </div>
+</body>
+</html>
+```

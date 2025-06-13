@@ -1,0 +1,50 @@
+From no-reply@security.portal.com Fri Jul 14 09:22:33 2023
+Reply-To: phishing-support@credentialhelp.com
+From: "Portal Security Team" <no-reply@security.portal.com>
+Date: Fri, 14 Jul 2023 09:22:33 -0400
+Subject: Urgent Security Alert: Account Password Reset Required
+To: user@clientmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY1234"
+
+--BOUNDARY1234
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Our systems have detected suspicious activity on your account. To secure your credentials and avoid service interruption, please reset your password immediately by visiting the link below:
+
+http://fakeportal-security.reset.secure.mail.authentication.com
+
+If you do not complete this within 24 hours, your access will be suspended.
+
+Thank you,
+Portal Security Team
+
+--BOUNDARY1234
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Urgent: Password Account Verification</title>
+</head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+  <h2 style="color: #a00;">Security Alert</h2>
+  <p>Dear Valued User,</p>
+  <p>We have detected unauthorized attempts to access your account. To protect your information, you must verify and reset your password immediately.</p>
+  <p><strong>Reset your password now:</strong> <a href="http://fakeportal-security.reset.secure.mail.authentication.com">click here</a></p>
+  <p>Alternatively, <a href="http://malicious.phisher.badlogin.com"></a> to proceed through our secure portal.</p>
+  <p>If you need assistance, refer to our <a href="https://portal.security.com/privacy-policy">privacy policy</a> or <a href="https://portal.security.com/help-center">help center</a>.</p>
+  <p style="margin-top:30px;">
+    <a href="http://security-update.verify.services.secure-login.com">
+      <img src="https://cdn.portalsecurity.com/images/logo.png" alt="Portal Logo" style="border:0;width:150px;height:auto;" />
+    </a>
+  </p>
+  <p>Thank you,<br/>Portal Security Team</p>
+</body>
+</html>
+
+--BOUNDARY1234--

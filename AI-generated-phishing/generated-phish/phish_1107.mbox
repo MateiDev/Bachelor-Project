@@ -1,0 +1,66 @@
+From no-reply@dhl-delivery.com Mon Sep 27 10:13:14 2021
+Return-Path: <no-reply@dhl-delivery.com>
+Received: from dhl-delivery.com (unknown [203.0.113.5])
+    by mx.example.com with ESMTP id ABC123
+    for <victim@example.com>; Mon, 27 Sep 2021 10:13:14 -0400 (EDT)
+Date: Mon, 27 Sep 2021 10:13:14 -0400
+From: DHL Delivery Notification <no-reply@dhl-delivery.com>
+To: victim@example.com
+Subject: Urgent: Action Required to Release Your DHL Package
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--Boundary--"
+
+----Boundary--
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is currently being held due to unpaid customs duties.
+Please pay the fee to avoid return of your parcel.
+
+Visit the link below to complete payment:
+http://203.0.113.5/track.now.delivery/confirm.html?parcel=XYZ123
+
+Thank you,
+DHL Customer Service
+
+----Boundary--
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is currently being held due to unpaid customs duties.<br>
+       Please pay the fee to avoid return of your parcel.</p>
+    <p>
+      <!-- Image-based link with IP-based URL -->
+      <a href="http://203.0.113.5/secure?token=XYZ123">
+        <img src="http://198.51.100.45/images/dhl-logo.png" alt="DHL Delivery Notice" border="0">
+      </a>
+    </p>
+    <p>Please click here to track your parcel: 
+       <!-- Non-matching URL -->
+       <a href="http://198.51.100.33/confirm?ref=XYZ123">http://dhl.com/track?ref=XYZ123</a>
+    </p>
+    <p>Or visit: 
+       <!-- Link with multiple dots -->
+       <a href="http://192.0.2.25/track.now.delivery.confirm.html?parcel=XYZ123">
+         http://192.0.2.25/track.now.delivery.confirm.html?parcel=XYZ123
+       </a>
+    </p>
+    <p>  
+       <!-- Empty visible link -->
+       For urgent support, click here: <a href="http://192.0.2.123/hiddenLink"></a>
+    </p>
+    <p>Multiple URLs for support:<br>
+       <a href="http://203.0.113.5/support">Support Center</a> | 
+       <a href="http://staging.dhl-service-test.com/info">Service Info</a>
+    </p>
+    <p>Thank you,<br>
+       DHL Customer Service Team</p>
+  </body>
+</html>
+
+----Boundary--

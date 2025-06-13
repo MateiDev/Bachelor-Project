@@ -1,0 +1,46 @@
+From portalalerts@secure-portal.com Thu Jul 15 10:20:30 2021
+From: Portal Security <portalalerts@secure-portal.com>
+To: user@victim.com
+Subject: Urgent: Account Password Security Alert
+Message-ID: <20210715102030.12345@secure-portal.com>
+Date: Thu, 15 Jul 2021 10:20:30 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456789.987654321"
+
+----=_Part_0_123456789.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected unusual activity on your account. Please click the link below to review your security alert and verify your password:
+http://198.51.100.23/security?uid=12345
+
+If the above link fails, please visit:
+https://secure.portal.company.com/verify-password
+
+Regards,
+Portal Security Team
+
+----=_Part_0_123456789.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We detected unusual activity on your <strong>account</strong>. Please verify your <strong>password</strong> to avoid suspension.</p>
+    <p><a href="http://198.51.100.23/security?uid=12345">Click here to review your security alert</a></p>
+    <p>If the link above does not work, copy and paste the following URL into your browser:<br>
+       https://secure.portal.company.com/verify-password
+    </p>
+    <p>Alternatively, use the direct link:<br>
+       <a href="http://192.0.2.44/login.portal.secure?x=1">https://secure.portal.company.com/reset-password</a>
+    </p>
+    <p>Or click the image below:</p>
+    <p><a href="http://192.0.2.99/secure-login"><img src="http://192.0.2.99/images/login.png" alt="Secure Login" /></a></p>
+    <p>Thank you,<br>Portal Security Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456789.987654321--

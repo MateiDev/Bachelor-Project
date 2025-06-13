@@ -1,0 +1,50 @@
+From phishing-sender@mail.test-domain.net Fri Jul 10 12:34:56 2020
+Return-Path: <rewards@service-mail.test-domain.com>
+Received: from service-mail.test-domain.com (unknown [192.0.2.1])
+    by mail.test-domain.net (Postfix) with ESMTP id ABC123DEF
+    for <victim@recipient-domain.org>; Fri, 10 Jul 2020 12:34:56 +0200 (CEST)
+Message-ID: <20200710103456.abc123@service-mail.test-domain.com>
+Date: Fri, 10 Jul 2020 12:34:56 +0200
+From: "Rewards Team" <rewards@service-mail.test-domain.com>
+Reply-To: "Account Support" <support@legit-help.org>
+To: victim@recipient-domain.org
+Subject: URGENT: Your account Password Voucher Reward €100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f2df05a1234abc"
+
+--000000000000b3f2df05a1234abc
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Congratulations! You are eligible for a €100 gift voucher. To claim your reward, please visit the link below:
+
+http://192.0.2.123/claim?user=Victim123
+
+Note: This is an urgent account notification. Ensure your password is up to date.
+
+For help and support, go to:
+http://support-service.org/help
+
+Best regards,
+Rewards Team
+
+--000000000000b3f2df05a1234abc
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Congratulations! You’re eligible for a <strong>€100</strong> gift voucher.</p>
+    <p>To claim your reward, <a href="https://claim.modal-offers.net/claim?ref=abc.def.ghi">click here</a>.</p>
+    <p><a href="http://203.0.113.45/promo"><img src="http://203.0.113.45/images/voucher.png" alt="Voucher" style="border:0;"></a></p>
+    <p>Or directly: <a href="http://192.0.2.123/claim?user=Victim123">http://voucher.reward.service/secure</a></p>
+    <p><a href="https://www.test-domain.com/privacy">Privacy Policy</a> | 
+       <a href="http://help.support.test-domain.org">Help Center</a></p>
+    <p>© 2020 Rewards Service</p>
+  </body>
+</html>
+
+--000000000000b3f2df05a1234abc--

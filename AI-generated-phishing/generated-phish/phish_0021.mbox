@@ -1,0 +1,52 @@
+```
+From example@security.com Mon Oct  2 15:37:48 2023
+Return-Path: <example@security.com>
+Received: from suspicious-ip.com (suspicious-ip.com [192.168.1.100])
+        by yourmailserver.com (Postfix) with ESMTP id 123ABCD456
+        for <recipient@example.com>; Mon,  2 Oct 2023 15:37:48 +0000 (UTC)
+Message-ID: <20231002153748.12345.example@security.com>
+Date: Mon, 2 Oct 2023 15:37:48 +0000
+From: Security Alert <example@security.com>
+To: recipient@example.com
+Subject: Urgent: Immediate Action Required to Update Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="--=_NextPart_000_0000_01D1234A.12345678"
+
+----=_NextPart_000_0000_01D1234A.12345678
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected unusual activity on your account. Please update your credentials immediately to avoid suspension.
+
+Click the link below to secure your account:
+http://192.168.1.101/login
+
+Thank you,
+Security Team
+
+----=_NextPart_000_0000_01D1234A.12345678
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Account Alert: Immediate Action Required</title>
+</head>
+<body>
+<p>Dear user,</p>
+<p>We have detected unusual activity on your account. It is imperative that=
+ you <b>update your credentials immediately</b> to avoid suspension. Failure=
+ to act now may result in loss of service access.</p>
+<p>Click the link below to secure your account:</p>
+<p><a href="http://192.168.1.101/login"></a></p>
+<p>For more information, visit our <a href="http://192.168.1.102/support"></a></p>
+<p>Thank you,<br>Security Team</p>
+</body>
+</html>
+
+----=_NextPart_000_0000_01D1234A.12345678--
+
+```

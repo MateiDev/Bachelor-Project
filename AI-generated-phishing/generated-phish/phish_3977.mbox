@@ -1,0 +1,48 @@
+From support@microsoft.com Sat Jul 20 12:34:56 2024
+Return-Path: <support@microsoft.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.google.com with ESMTP id ABCDE12345 for <user@example.com>; Sat, 20 Jul 2024 12:34:56 -0400 (EDT)
+Received: from unknown (HELO mail) (203.0.113.5) by mail.example.com with SMTP; Sat, 20 Jul 2024 12:34:56 -0400
+Date: Sat, 20 Jul 2024 12:34:56 -0400
+Message-ID: <CAXYZ12345@mail.microsoft.com>
+From: "Microsoft Support Team" <support@microsoft.com>
+Reply-To: support@secure-mail.net
+To: user@example.com
+Subject: Urgent: Action Required to Secure Your Account Password
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_000_123456"
+
+----=_Boundary_000_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We detected unusual activity in your account. To avoid deactivation,
+you must verify your credentials immediately.
+
+Login here: https://account.microsoft.com
+
+If you do not verify within 24 hours, your access will be restricted.
+
+Thank you,
+Microsoft Support Team
+
+----=_Boundary_000_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p><strong>Urgent:</strong> We detected unusual activity in your <span style="color:red;">account</span>. To avoid <em>deactivation</em>, you must verify your <span style="color:red;">password</span> immediately.</p>
+    <p>Please <a href="http://123.45.67.89/login">https://account.microsoft.com</a> to secure your details.</p>
+    <p>Alternatively, you can also sign in at <a href="http://login.microsoftonline.com.verify.secure-logon.net/sign-in">http://login.microsoftonline.com</a>.</p>
+    <p>If you have any questions, click <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/privacy" target="_blank">here</a> to view our Privacy Policy.</p>
+    <p><a href="http://1.2.3.4/authenticate"></a></p>
+    <p><em>Failure to verify within 24 hours may result in permanent suspension.</em></p>
+    <p>Best regards,<br/>Microsoft Support Team</p>
+  </body>
+</html>
+
+----=_Boundary_000_123456--

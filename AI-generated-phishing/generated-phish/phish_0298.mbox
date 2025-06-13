@@ -1,0 +1,24 @@
+```mbox
+From phishingalert@example.com Mon Oct 23 14:22:01 2023
+Return-Path: <phishingalert@example.com>
+Received: from fake-server.com (unknown [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 12345ABCDEF
+    for <victim@example.com>; Mon, 23 Oct 2023 14:22:01 -0600 (MDT)
+From: "Security Team" <alerts@example.com>
+Date: Mon, 23 Oct 2023 21:22:01 +0000
+Subject: Urgent: Unusual Sign-In Detected on Your Account
+To: victim@example.com
+Content-Type: text/html; charset=UTF-8
+Reply-To: alerts-notifications@secure.example.net
+
+<html>
+<body>
+<p>Dear User,</p>
+<p><strong>Action Required Immediately!</strong> We have detected an unusual sign-in attempt on your account and to ensure your security, we need you to verify your details.</p>
+<p>If this was not you, your account may be at risk. <a href="http://secure-login-example.com" style="color:blue; text-decoration:none;">http://secure.example.com</a> <a href="http://secure-login-example.com"></a></p>
+<p>To avoid any interruption in service, please follow this <a href="http://secure-login-example.com/update">link</a> and verify your information within the next 24 hours. Failure to act may result in account suspension.</p>
+<p>Regards,<br>Security Team</p>
+</body>
+</html>
+
+```

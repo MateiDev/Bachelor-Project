@@ -1,0 +1,26 @@
+From phishing@tax.gov Thu Jun 1 10:00:00 2024
+From: "Tax Support" <support@tax-authority.gov>
+To: client@domain.com
+Subject: Urgent: Tax Refund Available - Confirm Your Account Now!
+Date: Thu, 1 Jun 2024 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<head>
+<title>urgent account alert</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Our system has detected a small <b>tax refund</b> waiting for you. Immediate action required to avoid cancellation of your refund:</p>
+<ul>
+<li>Failure to act within 48 hours may result in <span style="color:red;">unauthorized denial</span> of your claim.</li>
+</ul>
+<p>Please <a href="http://203.0.113.45/verify" title="urgent update"><img src="http://192.0.2.123/images/tax_alert.png" alt="Tax Alert"></a> or click the secure link below to confirm your bank details:</p>
+<p><a href="http://198.51.100.7/confirm"></a></p>
+<p>Alternatively, copy and paste this link into your browser:<br>
+<a href="http://198.51.100.7/confirm">http://secure.tax-authority.gov/confirm</a></p>
+<p>Thank you for your cooperation.</p>
+<p>Sincerely,<br>Tax Authority Support Team</p>
+</body>
+</html>

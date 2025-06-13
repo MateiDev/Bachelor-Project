@@ -1,0 +1,49 @@
+From support@taxservices.gov Mon Aug 02 09:00:00 2021
+Return-Path: <support@taxservices.gov>
+Received: from taxservices.gov (taxservices.gov [203.0.113.5]) by mail.example.com with ESMTP id ABC123DEF for <user@example.com>; Mon,  2 Aug 2021 09:00:00 -0400 (EDT)
+Date: Mon, 2 Aug 2021 09:00:00 -0400
+From: "Tax Services" <support@taxservices.gov>
+Reply-To: "Tax Team" <refunds@secure-verification.com>
+To: user@example.com
+Subject: Urgent: Action Required for Your Tax Refund Account Verification
+Message-ID: <20210802090000.support@taxservices.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_678901234.1627894800000"
+
+------=_Part_12345_678901234.1627894800000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear taxpayer,
+
+We have processed your tax refund of $35.42 and noticed incomplete bank details.
+To receive your refund without delay, please confirm your banking information:
+http://192.168.0.5/confirm?user=12345
+
+Failure to act within 48 hours will result in cancellation of your refund.
+
+Regards,
+Tax Refund Department
+
+------=_Part_12345_678901234.1627894800000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Verify Your Account Password Now</title>
+</head>
+<body>
+<p>Dear <strong>Taxpayer</strong>,</p>
+<p>Your <em>tax refund</em> of <strong>$35.42</strong> is <strong>pending</strong> due to missing bank details.</p>
+<p>Please <a href="http://192.168.0.5/confirm?user=12345">click here</a> to verify your <i>account</i> now. This action is <strong>urgent</strong> and <em>required immediately</em> to avoid delays.</p>
+<p>For detailed info, click <a href="http://taxservices-modal.com/info">here</a>.</p>
+<p>For support, visit our <a href="http://help.secure.refund.verify.domain.com/faq">Privacy Policy</a> or <a href=""></a>.</p>
+<p><a href="http://172.16.254.1/reset"><img src="http://203.0.113.10/images/logo.png" alt="Tax Services Logo"></a></p>
+<p>Alternatively, copy and paste the link below into your browser:<br>
+<a href="http://192.168.0.5/confirm?user=12345">http://taxservice.gov/refund</a></p>
+<!-- Fette et al. (2007) -->
+</body>
+</html>
+
+------=_Part_12345_678901234.1627894800000--

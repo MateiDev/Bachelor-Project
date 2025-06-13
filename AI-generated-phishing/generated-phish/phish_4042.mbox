@@ -1,0 +1,48 @@
+From shipments@dhl.com Fri Sep 15 08:42:10 2023
+Subject: URGENT: Delivery Notification for Your DHL Account
+From: DHL Delivery <shipments@dhl.com>
+Reply-To: Support Team <support@dhlsecure.com>
+To: customer@example.com
+Date: Fri, 15 Sep 2023 08:42:10 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_NextPart_000_01D4A1.5BEEB490"
+
+------=_NextPart_000_01D4A1.5BEEB490
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery has been attempted and is currently held at our facility due to unpaid fees. Immediate action is required to avoid return to sender.
+
+To release your package, please visit:
+https://www.dhl.com/track
+
+Alternatively, click here:
+http://123.45.67.89/hold
+
+Failure to comply within 24 hours will result in your package being returned. This is an URGENT matter affecting your account and may require password revalidation.
+
+Regards,
+DHL Delivery Team
+
+------=_NextPart_000_01D4A1.5BEEB490
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your package delivery has been attempted and is currently held at our facility due to unpaid fees. Immediate action is required to avoid return to sender.</p>
+<p>To release your package, please <a href="http://123.45.67.89/hold">here</a>.</p>
+<p>Alternatively, confirm your tracking info at <a href="http://123.45.67.89/malicious">https://www.dhl.com/track</a> before it expires.</p>
+<p><a href="http://98.76.54.32/release"></a></p>
+<p>For more information, see our <a href="https://www.dhl.com/en/privacy-policy.html">Privacy Policy</a> or visit our <a href="https://www.dhl.com/en/help-center.html">Help Center</a>.</p>
+<p>Failure to comply within 24 hours will result in your package being returned. This is an URGENT matter affecting your account and may require password revalidation.</p>
+<p>Regards,<br/>
+DHL Delivery Team</p>
+</body>
+</html>
+
+------=_NextPart_000_01D4A1.5BEEB490--

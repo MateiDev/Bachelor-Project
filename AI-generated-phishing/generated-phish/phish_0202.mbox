@@ -1,0 +1,49 @@
+```mbox
+From phishing-alerts@example.com Sat Feb 11 11:33:12 2023
+Return-Path: <phishing-alerts@example.com>
+Received: from suspicious-server (192.168.1.10 [192.168.1.10])
+	by mail.example.com (Postfix) with ESMTP id 12345ABCDEF
+	for <victim@example.com>; Sat, 11 Feb 2023 11:33:10 -0500 (EST)
+Date: Sat, 11 Feb 2023 11:33:10 -0500
+From: Security Alert <phishing-alerts@example.com>
+Subject: Urgent: Unusual Sign-In Detected on Your Account
+To: victim@example.com
+Message-ID: <98765.12345@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_987654321.123456789"
+
+------=_Part_1234567_987654321.123456789
+Content-Type: text/plain; charset=us-ascii
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. It is imperative that you verify your identity immediately to secure your account. Failure to do so may result in your account being temporarily suspended.
+
+To verify your account, please click the link below:
+http://192.168.1.10/verify
+
+If you did not attempt to sign in, please visit our help and support page here:
+http://www.trustedsupport.com/help
+
+Sincerely,
+Your Security Team
+
+------=_Part_1234567_987654321.123456789
+Content-Type: text/html; charset=us-ascii
+
+<html>
+<head></head>
+<body>
+<p>Dear User,</p>
+<p>We have detected <strong>unusual sign-in</strong> activity on your account. It is imperative that you <strong>verify your identity immediately</strong> to secure your account. <span style="color:red;">Failure to do so may result in your account being temporarily suspended.</span></p>
+<p>To verify your account, please click the link below:</p>
+<a href="http://192.168.1.10/verify">Verify Now</a>
+<p>If you did not attempt to sign in, please visit our help and support page here:</p>
+<a href="http://www.trustedsupport.com/help">Help and Support</a>
+<p>Sincerely,</p>
+<p>Your Security Team</p>
+</body>
+</html>
+
+------=_Part_1234567_987654321.123456789--
+```

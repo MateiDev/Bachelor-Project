@@ -1,0 +1,56 @@
+```
+From - Thu Oct 26 14:18:13 2023
+X-GM-Labels: \Inbox
+Return-Path: <security-alerts@secure-notification.com>
+Received: from mail.secure-notification.com (mail.secure-notification.com. [203.0.113.42])
+        by mx.google.com with ESMTP id u9si570000qkm.344.2023.10.26.14.18.13
+        for <user@example.com>;
+        Thu, 26 Oct 2023 14:18:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of security-alerts@secure-notification.com designates 203.0.113.42 as permitted sender) client-ip=203.0.113.42;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@secure-notification.com header.s=s001 header.b=HbK4lqWZ;
+       spf=pass (google.com: domain of security-alerts@secure-notification.com designates 203.0.113.42 as permitted sender) smtp.mailfrom=security-alerts@secure-notification.com;
+       dmarc=pass (p=REJECT sp=QUARANTINE dis=NONE) header.from=secure-notification.com
+Received: by mail.secure-notification.com with SMTP id 1B6B782CDA1;
+        Thu, 26 Oct 2023 14:18:12 -0700 (PDT)
+Date: Thu, 26 Oct 2023 14:18:12 -0700
+From: Account Security <account-updates@security-notification.com>
+Reply-To: noreply-secureauth@security-updates.com
+To: user@example.com
+Subject: Urgent: Action Required to Secure Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="000000000000e9203206051b5359"
+
+--000000000000e9203206051b5359
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected an **unusual sign-in** attempt on your account from a new device. As a result, we have temporarily locked your account to protect your information.
+
+To regain access, please verify your account immediately. **Failure to do so will result in permanent suspension of your account**.
+
+Please verify your account by clicking on this link: http://secure-updates-link.com/verify
+
+Sincerely,
+Account Security Team
+
+--000000000000e9203206051b5359
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected an <strong>unusual sign-in</strong> attempt on your account from a new device. As a result, we have temporarily locked your account to protect your information.</p>
+    <p>To regain access, please verify your account immediately. <strong>Failure to do so will result in permanent suspension of your account</strong>.</p>
+    <a href="http://secure-updates-link.com/verify">
+      <img src="http://secure-updates-link.com/button.jpg" alt=""/>
+    </a>
+    <p>&nbsp;</p>
+    <p>Sincerely,<br>Account Security Team</p>
+  </body>
+</html>
+
+--000000000000e9203206051b5359--
+```

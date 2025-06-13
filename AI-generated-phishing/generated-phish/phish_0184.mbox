@@ -1,0 +1,43 @@
+```mbox
+From someone@example.com Mon Oct 2 12:18:39 2023
+Return-Path: <someone@example.com>
+Delivered-To: victim@target.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by target.com (Dovecot) with LMTP id 5JyvB9iFg1w6FwA
+	for <victim@target.com>; Mon, 02 Oct 2023 12:18:39 +0000
+Received: by mail.example.com (Postfix, from userid 1001)
+	id 8A9E92C2D3; Mon,  2 Oct 2023 12:18:38 +0000 (UTC)
+To: victim@target.com
+Subject: Urgent: Immediate Action Required on Your Account
+From: "Security Team" <security@trustedbank.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_8A9E92C2D3"
+
+--b1_8A9E92C2D3
+Content-Type: text/plain; charset=us-ascii
+
+Dear User,
+
+We have detected unusual activity on your account. It is important that you verify your activity immediately to avoid any disruptions. Please visit the secure verification page to confirm your details.
+
+Thank you,
+Security Team
+
+--b1_8A9E92C2D3
+Content-Type: text/html; charset=us-ascii
+
+<html>
+<body>
+    <h2 style="color: red;">Urgent: Immediate Action Required on Your Account</h2>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unusual activity</strong> on your account. It is important that you verify your activity immediately to avoid any disruptions.</p>
+    <p>Please visit the <a href="http://secure-login.support.bank-verification.com/signin" style="color: blue;">secure verification page</a> to confirm your details.</p>
+    <p>If you need further assistance, you can still access our <a href="https://www.trustedbank.com/help">help center</a> or read our <a href="https://www.trustedbank.com/privacy-policy">privacy policy</a>.</p>
+    <div style="text-align: center;">
+        <a href="http://secure-login.support.bank-verification.com/signin"><img src="http://images.trustedbank.com/login_button.png" alt="Verify Now" /></a>
+    </div>
+    <p>Thank you,<br>Security Team</p>
+</body>
+</html>
+--b1_8A9E92C2D3--
+```

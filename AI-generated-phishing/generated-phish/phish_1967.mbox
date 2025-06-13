@@ -1,0 +1,32 @@
+From noreply@mybank.com Thu Jul  4 12:00:00 2024
+Subject: Urgent: Account Password Action Required
+From: Security Alert <noreply@mybank.com>
+To: user@domain.com
+Date: Thu, 4 Jul 2024 12:00:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <h2 style="color: #c00;">Unusual Sign-In Detected – Verify Now</h2>
+    <p>Dear User,</p>
+    <p>We have detected an <strong>unusual sign-in</strong> attempt on your account that requires your <strong>immediate attention</strong>. Your <em>password expires today</em> – <span style="color:#c00;">reset immediately</span> to avoid suspension.</p>
+    <p>To verify your identity, please visit the link below:</p>
+    <p>
+      <a href="http://login.mybank.security-update.info/authenticate">https://www.mybank.com/login</a>
+    </p>
+    <p>If that link does not work, use this alternate portal:</p>
+    <p>
+      <a href="http://secure.mail.mybank.com.login.update.phish-domain.net/verify"></a>
+    </p>
+    <p>Review our privacy policy:</p>
+    <p>
+      <a href="http://phish-secure.com/privacy">
+        <img src="http://phish-domain.net/icons/privacy.png" alt="Privacy Policy" style="border:none;"/>
+      </a>
+    </p>
+    <p>Need assistance? <a href="http://support.mybank.phish-support.org/help">click here</a>.</p>
+    <p style="color: #c00;"><strong>Failure to act will result in permanent account suspension.</strong></p>
+    <p>Sincerely,<br/>MyBank Security Team</p>
+  </body>
+</html>

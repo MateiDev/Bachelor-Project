@@ -1,0 +1,55 @@
+From notifications@secure.microsoft.com Thu Jun 20 12:34:56 2024
+Return-Path: <notifications@secure.microsoft.com>
+Received: from webmail.securelogin.microsoft.com (webmail.securelogin.microsoft.com [198.51.100.23])
+	by mx.example.com (Postfix) with SMTP id 9F3C2123
+	for <user@example.com>; Thu, 20 Jun 2024 12:34:56 -0400 (EDT)
+Reply-To: support@helpdesk-secure.com
+From: "Microsoft Secure Portal Alert" <notifications@secure.microsoft.com>
+To: user@example.com
+Subject: Urgent: Action Required - Encrypted Secure-Mail Notification
+Date: Thu, 20 Jun 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+----=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued User,
+
+You have received an encrypted secure-mail that requires your immediate attention. Please use the secure portal to view the message:
+http://secure-login.verify.microsoft-security.com/view?token=ABCD1234
+
+If you do not access the message within 24 hours, your account may be temporarily suspended.
+
+Thank you for your prompt action,
+Microsoft Secure Portal Team
+
+----=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head><title>Secure-Mail Notification</title></head>
+  <body>
+    <p>Dear Valued User,</p>
+    <p>You have received an <b>encrypted secure-mail</b> that requires your immediate attention.</p>
+    <p>Click the button below to <i>view</i> the secure message:</p>
+    <p>
+      <a href="http://secure-login.verify.microsoft-security.com/view?token=ABCD1234">
+        <img src="http://cdn-images.microsoft.com/images/secure_view_button.png" alt="Secure View" style="border:0;">
+      </a>
+    </p>
+    <p>Or you can also login at 
+      <a href="http://webmail.microsoft.com.login.verify-security.net">https://webmail.microsoft.com</a>
+    </p>
+    <p>------------------------------</p>
+    <p>
+      <a href="http://login.microsoft.com.session-reset.example.com"></a>
+    </p>
+    <p>If you have any issues, please visit our <a href="http://helpdesk-secure.com/support">Help Center</a> or email support@helpdesk-secure.com.</p>
+    <p>Thank you,<br>Microsoft Secure Portal Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_001--

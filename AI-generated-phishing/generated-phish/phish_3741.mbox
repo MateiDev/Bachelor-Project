@@ -1,0 +1,75 @@
+From security@portal-company.com Fri Nov  3 11:22:33 2023
+Date: Fri, 3 Nov 2023 11:22:33 -0400
+From: "Portal Security" <security@portal-company.com>
+Reply-To: support@legit-support.com
+To: user@example.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been locked due to multiple failed password attempts.
+This is an URGENT security notification. We have sent you an encrypted secure-mail.
+To restore access, you must verify your identity IMMEDIATELY.
+
+View your secure message:
+https://secure.portal-company.com/security
+Or click here: https://login.portal-company.com.evil.com/verify-now
+
+If you do not respond within 24 hours, your account will be suspended.
+
+Privacy Policy: https://portal-company.com/privacy
+Help Center: https://portal-company.com/help
+
+Sincerely,
+Portal Security Team
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>URGENT: Account Password Verification Required</title>
+  </head>
+  <body>
+    <p>Dear User,</p>
+    <p>Your account has been <strong>locked</strong> due to multiple failed password attempts.
+    This is an <span style="color:red;">URGENT</span> security notification.
+    We have sent you an <em>encrypted secure-mail</em>.</p>
+    <p>To restore access, you must verify your identity <strong>IMMEDIATELY</strong>.</p>
+    <p>View your secure message:</p>
+    <p>
+      <a href="https://evil-login-portal.com/secure/verify">
+        https://secure.portal-company.com/security
+      </a>
+    </p>
+    <p>
+      Or <a href="https://login.portal-company.com.evil.com/verify-now">click here</a> to proceed.
+    </p>
+    <p>
+      <a href="https://malicious.com/getsecure"></a>
+    </p>
+    <p>
+      <a href="https://login.portal-company.com.evil.com/verify-now">
+        <img src="https://portal-company.com/images/secure-mail.png" alt="Secure Mail"/>
+      </a>
+    </p>
+    <p>
+      Need assistance? <a href="https://portal-company.com/help">here</a>
+    </p>
+    <p>
+      Read our <a href="https://portal-company.com/privacy">Privacy Policy</a>
+    </p>
+    <p>If you do not respond within 24 hours, your account will be suspended.</p>
+    <p>Sincerely,<br/>Portal Security Team</p>
+  </body>
+</html>
+
+----=_NextPart_000_0000--

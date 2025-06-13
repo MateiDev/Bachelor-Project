@@ -1,0 +1,35 @@
+From phishing-simulator@example.org Tue Jul 23 10:12:34 2024
+Message-ID: <20240723.101234.support@company.com>
+Date: Tue, 23 Jul 2024 10:12:34 +0200
+From: Customer Support <support@company.com>
+Reply-To: helpdesk@malicious-domain.com
+To: user@example.net
+Subject: Urgent: Claim Your €100 Shopping Voucher Now!
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Urgent: Voucher Claim - Update Your Account Password</title>
+</head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+  <h2 style="color: #C0392B;">Congratulations!</h2>
+  <p>Dear Valued Customer,</p>
+  <p>We are excited to inform you that you are eligible for a <strong>€100 shopping voucher</strong>. This is part of our exclusive rewards program for loyal users.</p>
+  <p><a href="http://voucher.claim.bank-secure.server-update.com/claim?ID=ABCD1234" style="background-color: #27AE60; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 4px;">Click here to redeem your voucher</a></p>
+  <p>If the button above does not work, please <a href="http://voucher.claim.bank-secure.server-update.com/claim?ID=ABCD1234">click here</a> or paste the URL into your browser.</p>
+  <p style="margin-top: 30px;">
+    <a href="http://alert.security-update-login.co.claim-voucher.de/">
+      <img src="http://cdn.images.company.com/banner1.jpg" alt="Claim your voucher" width="600" style="border: none;">
+    </a>
+  </p>
+  <p>Note: For your security, please <a href="http://bank.update-policy.verify-user.com/reset"></a>update your account password within 24 hours to avoid voucher expiration.</p>
+  <hr>
+  <p>
+    <a href="https://company.com/privacy">Privacy Policy</a> | 
+    <a href="https://company.com/help">Help Center</a>
+  </p>
+  <p style="font-size: 0.9em; color: #777;">© 2024 Company Inc. All rights reserved.</p>
+</body>
+</html>

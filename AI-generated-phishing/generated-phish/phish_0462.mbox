@@ -1,0 +1,50 @@
+```mbox
+From - Thu Oct 26 15:15:36 2023
+X-Account-Key: account2
+X-UIDL: 8001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <no-reply@taxdepartment.secure>
+Received: from 192.168.1.1 (EHLO mail.taxes.gov) by email.provider.com with SMTP; Thu, 26 Oct 2023 15:15:30 -0700
+Date: Thu, 26 Oct 2023 15:15:30 -0700
+From: Tax Refund Department <no-reply@taxdepartment.secure>
+Subject: Urgent: Action Required to Claim Your Pending Tax Refund
+To: victim@useremail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000eac82b05f3b5a1c0"
+
+--000000000000eac82b05f3b5a1c0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+Our records indicate that you are eligible for a tax refund of $482.50. Due to recent security updates, it is crucial that you confirm your banking details to process your refund. 
+
+Please note, failure to confirm your details within 24 hours will result in forfeiture of your refund. Visit [_](http://198.51.100.1/nf0rm?d3t41l5) immediately to avoid any delays.
+
+Best regards,
+Tax Refund Department
+
+--000000000000eac82b05f3b5a1c0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Our records indicate that you are eligible for a tax refund of $482.50. =
+Due to recent security updates, it is crucial that you confirm your banking=
+ details to process your refund.</p>
+<p><b>Please note, failure to confirm your details within 24 hours will re=
+sult in forfeiture of your refund.</b> Visit <a href=3D"http://198.51.100.1=
+/nf0rm?d3t41l5">http://secure.tax-filing.gov</a> immediately to avoid any d=
+elays.</p>
+<p><a href=3D"http://192.0.2.1/secure_refund"><img src=3D"http://secure-im=
+age.tax-refund.com/confirm.jpg" alt=3D"Confirm Now"></a></p>
+<p>Best regards,<br>
+Tax Refund Department</p>
+</body>
+</html>
+
+--000000000000eac82b05f3b5a1c0--
+```

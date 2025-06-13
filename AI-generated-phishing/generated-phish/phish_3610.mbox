@@ -1,0 +1,53 @@
+From service@dhl.com Thu Jun 13 09:45:32 2024
+Return-Path: <service@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5])
+    by victimmail.com (Postfix) with ESMTP id 123456
+    for <victim@example.com>; Thu, 13 Jun 2024 09:45:32 -0400 (EDT)
+From: "DHL Express" <service@dhl.com>
+Reply-To: <support@dhl-help.com>
+To: victim@example.com
+Subject: Urgent: Delivery Notification - Account Password Update Needed
+Date: Thu, 13 Jun 2024 09:45:32 -0400
+Message-ID: <ABC123XYZ@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.123456"
+
+------=_Part_0_123456.123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery has been held due to an urgent update required on your account password. To release your shipment, please verify your billing information.
+
+Visit the link below to update your account details immediately:
+https://www.dhl.com/verify-account
+
+Failure to do so within 24 hours will result in your package being returned to the sender.
+
+If you need assistance, check our privacy policy:
+https://www.dhl.com/privacy-policy
+
+Thank you for your prompt attention.
+
+DHL Express Support Team
+
+------=_Part_0_123456.123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Your package delivery is being held due to an <span style="color:red;">urgent</span> account <em>password</em> verification requirement.</strong></p>
+    <p>To release your shipment, please update your billing information by <a href="http://192.0.2.123/release?pkg=789" style="font-weight:bold;">clicking here</a>.</p>
+    <p>Alternatively, you can login directly at <a href="http://198.51.100.75/login">https://www.dhl.com/track</a> to view delivery details.</p>
+    <p><a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> | <a href="https://www.dhl.com/help">Help</a></p>
+    <p><a href="http://192.0.2.123/release?pkg=789"> </a></p>
+    <p><a href="http://198.51.100.75/download/shipment"><img src="cid:logo@dhl.com" alt="DHL Logo"></a></p>
+    <p>Failure to comply within <strong>24 hours</strong> will result in return of the package.</p>
+    <p>Thank you,<br>DHL Express Support Team</p>
+  </body>
+</html>
+
+------=_Part_0_123456.123456--

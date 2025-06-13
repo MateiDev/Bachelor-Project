@@ -1,0 +1,30 @@
+From mbox import mbox, mboxMessage
+import email.utils
+import time
+
+msg = mboxMessage()
+msg.set_unixfrom('From phishing@example.com ' + time.strftime('%a %b %d %H:%M:%S %Y'))
+
+msg['From'] = 'security-update@securemail.com'
+msg['To'] = 'victim@example.com'
+msg['Date'] = email.utils.formatdate(localtime=True)
+msg['Subject'] = 'Urgent: Verify Your Account Immediately to Prevent Suspension'
+msg['Reply-To'] = 'support-helpdesk@notsecuremail.com'
+
+html_content = '''
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected unusual activity in your account and for security reasons, your account has been temporarily suspended. To reactivate your account, please verify your identity by clicking the button below:</p>
+    <p><a href="http://192.168.0.1/secure/verification" style="background-color:#4CAF50;color:white;padding:10px 15px;text-align:center;text-decoration:none;display:inline-block;">Verify Now</a></p>
+    <p>If you do not verify your account within 24 hours, it will be permanently suspended.</p>
+    <p>To review our privacy policy, click <a href="https://securemail.com/privacy-policy">here</a>.</p>
+    <p>For help, visit our support page <a href="https://securemail.com/help">here</a>.</p>
+    <img src="http://192.168.0.1/images/logo.png" alt="Secure Mail Logo" style="width:100px;height:50px;">
+  </body>
+</html>
+'''
+
+msg.set_payload(html_content, 'html')
+mbox = mbox()
+mbox.add(msg)

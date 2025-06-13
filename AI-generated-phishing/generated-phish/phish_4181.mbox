@@ -1,0 +1,60 @@
+From service@paypal.com Fri Jun 14 12:34:56 2024
+Return-Path: <service@paypal.com>
+Received: from unknown (HELO mailservice) (198.51.100.23)
+    by mail.example.org with SMTP; Fri, 14 Jun 2024 12:34:56 -0400
+From: "PayPal Notification" <service@paypal.com>
+Reply-To: support@secure-paypal.net
+Subject: Urgent: Password Verification Required for Your Account
+To: user@example.org
+Date: Fri, 14 Jun 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.567890"
+
+----=_Part_0_123456.567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+We detected suspicious login attempts on your account, and for your protection your access has been temporarily limited. Please verify your password immediately to restore full access. Failure to comply will result in permanent suspension.
+
+To verify your account, visit the link below:
+
+http://192.0.2.123/verify
+
+If you need assistance, please review our Help Center:
+https://www.paypal.com/us/smarthelp/home
+
+Thank you,
+PayPal Security Team
+
+----=_Part_0_123456.567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear customer,</p>
+    <p style="color:red; font-weight:bold;">
+      We detected <span style="text-decoration:underline;">unauthorized</span> login attempts on your <strong>account</strong>. 
+      Your <strong>access</strong> has been <em>immediately</em> limited to protect you.
+    </p>
+    <p>Please verify your <strong>password</strong> <span style="color:red;">now</span> to avoid <u>permanent suspension</u>.</p>
+    <p>
+      <a href="http://192.0.2.123/verify"></a>
+      <a href="http://203.0.113.45/login.secure.bank.com.fake.site.com">click here</a> to <u>verify</u>.
+    </p>
+    <p>If the above link doesn't work, copy and paste this URL into your browser:</p>
+    <p>
+      <a href="http://198.51.100.99/secure">https://www.paypal.com/security</a>
+    </p>
+    <p>Or visit our legitimate help pages:</p>
+    <ul>
+      <li><a href="https://www.paypal.com/us/smarthelp/home">Privacy Policy</a></li>
+      <li><a href="https://www.paypal.com/us/smarthelp/contact">Help Center</a></li>
+    </ul>
+    <p>Thank you,<br/>PayPal Security Team</p>
+  </body>
+</html>
+
+----=_Part_0_123456.567890--

@@ -1,0 +1,48 @@
+From phishing@secureportal.com Fri Sep 15 09:30:00 2023
+Return-Path: <phishing@secureportal.com>
+From: "Secure Portal Notifications" <phishing@secureportal.com>
+Reply-To: security@auth-portal-alerts.net
+To: user@victim.com
+Subject: URGENT: Security Alert - Verify Your Account Immediately
+Date: Fri, 15 Sep 2023 09:30:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_000"
+
+----=_Boundary_000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Your Secure Portal account has been flagged for suspicious activity.
+This is an urgent security alert and your access will be locked if you do not verify immediately.
+Please visit the link below to review and confirm your identity:
+
+http://192.168.1.100/verify/login.php?token=ABCD1234
+
+Failure to comply within 24 hours will result in permanent suspension.
+Thank you for your prompt attention.
+
+----=_Boundary_000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Security Alert</title></head>
+<body>
+<p>Dear User,</p>
+<p><strong style="color:red;">URGENT SECURITY ALERT:</strong> We detected unusual activity on your account. You must verify your credentials immediately to avoid suspension.</p>
+<p>Click the button below to secure your account:</p>
+<p>
+<a href="http://192.168.1.100/verify/login.php?token=ABCD1234" style="display:none;"></a>
+<a href="http://login.portal.secure.com.verify-access.info/account" style="padding:10px 20px; background-color:#0073e6; color:#ffffff; text-decoration:none;">View Secure Mail</a>
+</p>
+<p>If the link above does not work, copy and paste one of the following URLs into your browser:</p>
+<ul>
+<li>http://192.168.1.100/verify/login.php?token=ABCD1234</li>
+<li>http://login.portal.secure.com.verify-access.info/account</li>
+</ul>
+<p>Thank you,<br>
+Secure Portal Team</p>
+</body>
+</html>
+
+----=_Boundary_000--

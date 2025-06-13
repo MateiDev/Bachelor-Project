@@ -1,0 +1,29 @@
+```
+From - Thu Oct 19 16:29:35 2023
+X-GM-THRID: 1
+X-Gmail-Labels: Important
+Return-Path: <taxrefundservice@example.com>
+Received: from unknown (HELO 192.0.2.1) by mail.example.com with SMTP; Thu, 19 Oct 2023 08:00:00 -0700
+Reply-To: taxsupport@randomsupport.com
+From: "IRS Notification" <taxrefundservice@example.com>
+Date: Thu, 19 Oct 2023 08:00:00 -0700
+Message-ID: <001a1141239b676e8abc456d@example.com>
+To: recipient@example.com
+Subject: Urgent: Confirm your account for immediate tax refund
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have noticed that you are eligible for a tax refund. To process this refund, please confirm your bank details urgently to avoid any delay.</p>
+    <p>Kindly follow the link below to confirm your information:</p>
+    <p><a href="http://192.0.2.2/verify">Click here to verify now!</a></p>
+    <p>Ensure all information is correct to expedite your refund process.</p>
+    <p>If you do not complete this verification in 48 hours, your refund will be cancelled.</p>
+    <p><a href="http://randomsupport.com"> </a></p>
+    <p>For privacy policy and more information, you can visit <a href="https://www.irs.gov/privacy">https://www.irs.gov/privacy</a> or check our <a href="http://fake-helpdesk.com">help desk</a>.</p>
+    <p>Sincerely,<br>IRS Refund Services</p>
+  </body>
+</html>
+```

@@ -1,0 +1,49 @@
+```mbox
+From fake-taxoffice@example.com Tue Oct 31 10:30:00 2023
+Return-Path: <fake-taxoffice@example.com>
+Delivered-To: victim@example.org
+Received: from 192.0.2.1 (unknown [192.0.2.1])
+        by mail.example.org (Postfix) with ESMTP id 9C2CD12345
+        for <victim@example.org>; Tue, 31 Oct 2023 10:30:00 -0700 (PDT)
+Message-ID: <1234567890@example.com>
+Date: Tue, 31 Oct 2023 10:30:00 -0700 (PDT)
+From: "Tax Refund Dept" <fake-taxoffice@example.com>
+Reply-To: urgent@tax-claims-office.com
+Subject: Urgent: Action Required to Claim Your Tax Refund
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We have been attempting to reach you regarding a pending tax refund that needs your immediate attention. You are eligible for a refund of $150.23. Due to an administrative error, your bank details need confirmation in order for us to process this refund.
+
+Please act quickly to avoid delays in receiving your funds. It is important that you verify your information today.
+
+Act now by clicking the link below to confirm your details:
+http://123.45.67.89/secure/refund
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Tax Refund Department
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have been attempting to reach you regarding a <strong>pending tax refund</strong> that needs your immediate attention. You are eligible for a refund of <strong>$150.23</strong>. Due to an administrative error, your bank details need confirmation in order for us to process this refund.</p>
+    <p>Please act quickly to avoid delays in receiving your funds. It is important that you verify your information today.</p>
+    <p>Act now by clicking <a href="http://123.45.67.89/secure/refund">here</a> to confirm your details.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>Tax Refund Department</p>
+    <p><a href="https://www.example.com/privacy-policy">Privacy Policy</a> | <a href="https://www.example.com/help">Help Center</a></p>
+  </body>
+</html>
+
+--boundary123--
+```

@@ -1,0 +1,30 @@
+From security@accounts.microsoft.com Sat Jul 24 15:30:37 2021
+Return-Path: <security@accounts.microsoft.com>
+From: "Microsoft Account Security" <security@accounts.microsoft.com>
+Reply-To: updates@account-support.net
+To: user@example.com
+Subject: Unusual sign-in detected — verify now
+Date: Sat, 24 Jul 2021 15:30:37 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Valued Microsoft Customer,</p>
+<p>We have detected an unusual sign-in attempt to your Microsoft account from a new device on Jul 24, 2021 13:22 UTC. As a security precaution, your account has been temporarily suspended.</p>
+<p><strong>Password expires today – reset immediately.</strong> To verify your identity and secure your account, please <a href="http://198.51.100.45/verify">click here</a> to proceed.</p>
+<p>If you do not verify within 24 hours, your account may be permanently disabled.</p>
+<p>For your reference:</p>
+<ul>
+  <li>Privacy Policy: <a href="https://www.microsoft.com/en-us/privacy">https://www.microsoft.com/en-us/privacy</a></li>
+  <li>Help Center: <a href="">here</a></li>
+  <li>Alternative verification: <a href="http://malicious.verify-login.net">https://account.microsoft.com/security</a></li>
+  <li>Quick verify: <a href="http://secure.service.login.microsoft-update.verify.com/action?token=XYZ123">click here</a></li>
+  <li>Backup link: <a href="http://login.microsoft.com.verify-id.org">here</a></li>
+  <li>Direct reset: <a href="http://192.0.2.123/pw-reset"></a></li>
+</ul>
+<p>Thank you for your prompt attention to this urgent matter.</p>
+<p>Best regards,<br>Microsoft Account Security Team</p>
+<p>Please do not reply to this message.</p>
+</body>
+</html>

@@ -1,0 +1,56 @@
+From no-reply@dhl.com Mon Jul 29 07:15:27 2024
+Return-Path: <no-reply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5])
+    by mail.receiver.net with ESMTP id ABC123DEF
+    for <user@receiver.com>; Mon, 29 Jul 2024 07:15:27 -0400 (EDT)
+From: "DHL Delivery Service" <no-reply@dhl.com>
+Reply-To: support@dhl-delivery-secure.net
+Subject: Urgent: Delivery Notification - Immediate Attention Needed
+Date: Mon, 29 Jul 2024 11:15:26 +0000
+Message-ID: <20240729071526@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent shipment to your address is currently on hold due to an unpaid customs fee.
+Failure to pay immediately will result in your package being returned to the sender.
+This is URGENT and TIME-SENSITIVE.
+
+To release your shipment now, please visit:
+https://shipping.dhl-delivery.com/track?ref=1234567890
+
+Alternatively, you can pay the fee via:
+http://195.54.45.23/payment/abcd
+
+If you do not act within 24 hours, your parcel will be returned automatically.
+
+Thank you for your prompt attention.
+
+DHL Delivery Service
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your recent shipment to your address is currently <strong>on hold</strong> due to an unpaid customs fee.
+    <span style="color:red;">Failure to pay <em>immediately</em> will result in your package being <strong>returned</strong> to the sender. This is <strong>URGENT</strong> and <strong>TIME-SENSITIVE</strong>.</span></p>
+    <p>Please <a href="http://195.54.45.23/payment/abcd">click here</a> to pay the fee now and release your shipment.</p>
+    <p>Track your package: <a href="http://89.23.12.4/steal?ref=1234567890">https://dhl.com/track?ref=1234567890</a></p>
+    <p>Company Privacy: <a href="https://dhl.com/privacy-policy">Privacy Policy</a></p>
+    <p>Help Center: <a href="https://support.dhl.com/">Help Center</a></p>
+    <p><a href="http://195.54.45.23/malware.js"></a></p>
+    <p><em>If you do not act within <strong>24 HOURS</strong>, your parcel will be returned <u>automatically</u>.</em></p>
+    <p>Thank you for your prompt attention.<br>
+    DHL Delivery Service</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

@@ -1,0 +1,40 @@
+From alert@dhl-express.com Thu Jul 18 12:34:56 2024
+From: "DHL Express Notifications" <alert@dhl-express.com>
+Reply-To: security@ups-support.com
+To: victim@example.com
+Subject: URGENT: Delivery Notification for your account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3f6e805a9d5f5e5"
+
+--000000000000b3f6e805a9d5f5e5
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your package delivery is on hold due to an unpaid service fee.
+Immediate action is required to avoid delay. Please visit:
+http://192.0.2.123/dhl/hold
+or
+http://update.shop.pe.delivery.service.net/release.gateway
+
+Thank you,
+DHL Express Customer Support
+
+--000000000000b3f6e805a9d5f5e5
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p><strong>Immediate action required!</strong> Your package is currently <em>on hold</em> due to an outstanding fee.</p>
+<p>Please click the link below to verify your <strong>account</strong> and pay the fee to avoid <span style="color:red;">delay</span>:</p>
+<p><a href="http://192.0.2.123/dhl/hold" title="Verify your password"><img src="http://198.51.100.45/images/dhl_logo.png" alt="DHL Logo"></a></p>
+<p>If the link above is not working, copy and paste the following URL into your browser:<br>
+http://update.shop.pe.delivery.service.net/release.gateway</p>
+<p>For assistance, visit our support page: <a href="http://198.51.100.45/support.html"></a></p>
+<p>Thank you,<br>
+DHL Express Customer Support</p>
+</body>
+</html>
+
+--000000000000b3f6e805a9d5f5e5--

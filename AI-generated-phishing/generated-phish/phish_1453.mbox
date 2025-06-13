@@ -1,0 +1,50 @@
+From phishing@malicious.test Sat Jul 10 12:34:56 2024
+Return-Path: <noreply@irs.gov>
+Received: from unknown (HELO mail.irs.gov) (203.0.113.99)
+    by mail.receiver.com with SMTP; Sat, 10 Jul 2024 12:34:56 +0000
+Date: Sat, 10 Jul 2024 12:34:56 +0000
+From: "IRS Tax Department" <noreply@irs.gov>
+Reply-To: support@secure-update.com
+To: victim@example.com
+Subject: [Action Required] Tax Refund Confirmation
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============123456789=="
+
+--===============123456789==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate that you are eligible for a small tax refund from this fiscal year. This refund is pending verification of your bank details.
+
+To secure your refund, please confirm your banking information immediately:
+http://203.0.113.15/confirm
+
+Failure to confirm within 48 hours may result in forfeiture of your refund.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+IRS Tax Department
+
+--===============123456789==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Taxpayer,</p>
+    <p>We have processed a small refund for your recent tax filings. To complete the refund process, please confirm your bank details by clicking the button below:</p>
+    <!-- Image-based link -->
+    <p><a href="http://192.168.1.50/confirm_refund"><img src="http://192.168.1.50/assets/button.png" alt="Confirm Your Refund" /></a></p>
+    <!-- Empty visible <a> text -->
+    <a href="http://192.168.1.50/secure_form"></a>
+    <p>If the button does not work, <a href="http://203.0.113.15/refund">click here</a> to proceed.</p>
+    <p>For assistance, visit our <a href="https://www.irs.gov/help">help center</a> or review our <a href="https://www.irs.gov/privacy-notice">privacy policy</a>.</p>
+    <p>– IRS Tax Department</p>
+  </body>
+</html>
+
+--===============123456789==--
+

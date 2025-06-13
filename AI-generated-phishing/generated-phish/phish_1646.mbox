@@ -1,0 +1,22 @@
+From security@securemail.company.com Mon Jan  1 12:34:56 2024
+Return-Path: <security@securemail.company.com>
+Received: from mail.securemail.company.com (mail.securemail.company.com [192.0.2.1]) by mx.company.com with ESMTP id ABC123 for <employee@company.com>; Mon,  1 Jan 2024 12:34:56 -0500 (EST)
+From: "SecureMail Portal" <security@securemail.company.com>
+Reply-To: support@security-alerts.net
+To: employee@company.com
+Subject: SecureMail Delivery Notification
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Employee,</p>
+<p>You have received an <strong>encrypted secure-mail</strong> in your SecureMail Portal. To view this message, please click <a href="https://portal.verify.secure-mail-login.com/authenticate">View Message</a> immediately to avoid automatic deletion.</p>
+<p>Or you can access your account via: <a href="http://securemail.company.com.login.verify-update.com/auth">https://securemail.company.com/auth</a></p>
+<p>Alternatively, click <a href="http://securemail-update.net/verify">here</a> to log in.</p>
+<p><a href="http://security-alerts-update.net/session?id=987654321"></a></p>
+<p><a href="http://securemail-update.net/secureview"><img src="http://images.securemail-alerts.com/logo.png" alt="SecureMail Logo" /></a></p>
+<p>If you require assistance, please visit our <a href="https://www.securemail.company.com/privacy-policy">Privacy Policy</a> or <a href="https://www.securemail.company.com/help-center">Help Center</a>.</p>
+<p>Failure to act within 24 hours may result in message expiry.</p>
+<p>Regards,<br/>SecureMail Team</p>
+</body></html>

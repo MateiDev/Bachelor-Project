@@ -1,0 +1,47 @@
+```mbox
+From - Mon Oct 16 09:56:01 2023
+X-Google-Smtp-Source: ABdhPQADeDShYLGHyaTVzWwS2+H2/Rukh2Mi1mzRhcda9aE63DQmI8eEZQ+y7KorfAfDAo0Frt5X
+Date: Mon, 16 Oct 2023 09:56:01 +0000
+From: "Security Alert" <noreply@secure-update.com>
+Reply-To: "Support Team" <urgent-update@alerts.tv>
+Subject: Urgent: Unusual Sign-In Attempt Detected - Please Verify Immediately
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="0000000000000"
+MIME-Version: 1.0
+
+--0000000000000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your account. This action requires immediate verification to safeguard your information. Please act quickly.
+
+To confirm your identity, click the link below:
+
+http://123.45.67.890/security-check
+
+If this is not verified today, your account access may be disrupted.
+
+Thank you,
+Account Security Team
+
+--0000000000000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en">
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected an <strong>unusual sign-in attempt</strong> on your account. This action requires immediate verification to safeguard your information. Please act quickly.</p>
+    <p>To confirm your identity, <a href=3D"http://123.45.67.890/security-check" target=3D"_blank">
+    <img src=3D"http://secure-images.update.com/click_here_button.png" alt=3D"Click Here" /></a></p>
+    <p>If this is not verified today, your account access may be disrupted.</p>
+
+    <p>Thank you,<br/>
+    Account Security Team</p>
+    <p><a href=3D"http://secure-update.com/privacy-policy">Privacy Policy</a> | <a href=3D"http://secure-update.com/help-center">Help Center</a></p>
+  </body>
+</html>
+--0000000000000--
+```

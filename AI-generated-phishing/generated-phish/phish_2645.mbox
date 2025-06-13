@@ -1,0 +1,48 @@
+```
+From - Sun Oct 15 14:02:03 2023
+X-GM-THRID: 0000000000000000
+X-Gmail-Labels: Spam
+Delivered-To: victim@example.com
+Received: by 2002:a17:906:abcd:: with SMTP id u12csp2878itw;
+        Sun, 15 Oct 2023 07:02:02 -0700 (PDT)
+Message-ID: <0000000000@example.com>
+Date: Sun, 15 Oct 2023 14:02:02 +0000
+From: "Security Alert" <no-reply@security-alert.com>
+Reply-To: secure-update@notsecurity.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="00000000000000000"
+
+--00000000000000000
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We've noticed some unusual activity in your account. For your security, please verify your identity by clicking the link below:
+
+Your immediate response is required: [Verify Now](http://123.45.67.89/verification)
+
+Thank you,
+Account Security Team
+
+--00000000000000000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+    <title>Urgent Security Update Required</title>
+  </head>
+  <body>
+    <p>Dear User,</p>
+    <p>We&#39;ve noticed some <strong>unusual activity</strong> in your account. For your security, please verify your identity by clicking the link below:</p>
+    <p>Your immediate response is required: <a href=3D"http://123.45.67.89/verification">Verify Now</a></p>
+    <p><img src=3D"http://123.45.67.89/logo.png" alt=3D"Security Logo"></p>
+    <p>Thank you,</p>
+    <p>Account Security Team</p>
+    <hr>
+    <p>For more information, please visit our <a href=3D"http://www.security-alert.com/privacy-policy">Privacy Policy</a> or <a href=3D"http://www.security-alert.com/help">Help Center</a>.</p>
+  </body>
+</html>
+
+--00000000000000000--
+```

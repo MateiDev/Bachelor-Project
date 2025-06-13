@@ -1,0 +1,23 @@
+```
+From nobody Fri Oct  6 12:34:56 2023
+From: "HM Revenue & Customs" <noreply@hmrc.co.uk>
+To: user@example.com
+Subject: Urgent: Action Required to Claim Your Tax Refund
+Date: Fri, 6 Oct 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <img src="http://official-hmrc-site.co.uk/logo.jpg" alt="HMRC Logo" width="200"><br>
+    <p>Dear Valued Customer,</p>
+    <p>We have determined that you are eligible for a tax refund of <strong>£298.57</strong>. To complete your refund, please verify your bank details urgently.</p>
+    <p>Due to our new online security measures, these details must be confirmed by the end of the week, or your refund will be forfeited.</p>
+    <a href="http://official-hmrc-site.co.uk/confirmation">Confirmation Link</a><br>
+    <a href="http://malicious-site.com/verify"><b><img src="http://official-hmrc-site.co.uk/button.jpg" alt="Verify Now" width="150"></b></a>
+    <p>If you have questions, visit our <a href="http://official-hmrc-site.co.uk/faq">FAQ</a> or <a href="http://official-hmrc-site.co.uk/contact">Contact Us</a> page. Click <a href="http://malicious-site.com/secure"><span></span></a> to secure your information today.</p>
+    <p>Thank you,</p>
+    <p><i>HM Revenue & Customs Team</i></p>
+  </body>
+</html>
+```

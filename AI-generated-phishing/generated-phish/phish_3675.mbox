@@ -1,0 +1,27 @@
+From MAILER-DAEMON Wed Jun 19 10:34:56 2024
+Return-Path: <security@secure-portal.com>
+Received: from unknown (unknown [198.51.100.12]) by mail.secure-portal.com (Postfix) with ESMTP id A1B2C3D4E5; Wed, 19 Jun 2024 10:34:54 +0000 (UTC)
+Received: from mail.secure-portal.com (mail.secure-portal.com [192.0.2.200]) by mx.gateway.net (mx.gateway.net [203.0.113.10]) with ESMTP id F6G7H8I9J0; Wed, 19 Jun 2024 10:34:52 +0000 (UTC)
+Date: Wed, 19 Jun 2024 10:34:54 +0000
+From: "Secure Portal Alert" <security@secure-portal.com>
+Reply-To: "Support Team" <support@helpdesk.trusted-oldbank.com>
+Subject: URGENT: Your Account Password is at Risk - Immediate Action Required
+Message-ID: <CAJ3dZ8X@mail.secure-portal.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Account Password Alert - URGENT</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>suspicious</strong> activity on your account. Your account has been <strong>temporarily locked</strong> for security reasons. Immediate action is <em>required</em> to restore access.</p>
+<p>Please <a href="http://192.0.2.100/verify?token=ABCD1234"><img src="http://198.51.100.45/images/securemail.png" alt="Secure Notification" border="0"/></a> to verify your identity now.</p>
+<p>Alternatively, you may <a href="http://123.45.67.89/unlock?user=5678"> </a> if the image above does not load.</p>
+<p>For secure login, <a href="http://verify123-security.modal-domain.info/reset">here</a>.</p>
+<p>Or click <a href="http://malicious.example.com/redirect">https://secure.yourbank.com/account</a> to proceed.</p>
+<p>If you did not request this, please ignore this message or contact our support immediately.</p>
+<hr/>
+<p><a href="https://www.legitimate-bank.com/privacy-policy">Privacy Policy</a> | <a href="https://www.legitimate-bank.com/help">Help Center</a></p>
+</body>
+</html>

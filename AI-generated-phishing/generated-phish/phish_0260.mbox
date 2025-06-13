@@ -1,0 +1,49 @@
+```
+From - Fri Oct 20 14:28:01 2023
+X-Account-Key: account2
+X-UIDL: 0001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <no-reply@dhl-support.com>
+Received: from unknown (HELO dhl-support.com) (212.92.113.142)
+  by mail.example.com with SMTP; Fri, 20 Oct 2023 14:26:58 -0700
+Date: Fri, 20 Oct 2023 14:26:58 -0700
+From: DHL Express <no-reply@dhl-support.com>
+Reply-To: DHL Support <support@dhl.com>
+Subject: Urgent: Parcel on Hold - Action Required
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_Mixed"
+Message-ID: <01CVFI12345ABCD@mail.example.com>
+
+--b1_Mixed
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is waiting for you but requires immediate action. Please visit our website to resolve the issue: http://delivery.dhl.com.verify-center.us
+
+Failure to do so within 24 hours will result in your parcel being returned. Click here to resolve: http://dhl.com-support-confirm.delivery
+
+For more information, please visit our official website or contact support via the provided details.
+
+Regards,
+DHL Express
+
+--b1_Mixed
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>Your package is waiting for you but requires <strong>immediate action</strong>. Please visit our website to resolve the issue: <a href="http://delivery.dhl.com.verify-center.us">http://dhl.com-package-tracking</a></p>
+    <p><strong>Failure</strong> to do so within 24 hours will result in your parcel being returned. <a href="http://dhl.com-support-confirm.delivery">Click here</a> to resolve.</p>
+    <p>For more information, please visit our official <a href="http://www.dhl.com">website</a> or <a href="http://www.dhl.com/privacy-policy">contact support</a> via the provided details.</p>
+    <p>Regards,<br>DHL Express</p>
+</body>
+</html>
+
+--b1_Mixed--
+```

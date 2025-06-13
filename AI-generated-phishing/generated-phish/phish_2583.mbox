@@ -1,0 +1,51 @@
+From MAILER-DAEMON Fri Oct 13 10:22:18 2023
+Return-Path: <spoofed_sender@example.com>
+Delivered-To: victim@example.com
+Received: from 198.51.100.1 (mail.fakeprovider.com [198.51.100.1])
+    by mail.example.com (Postfix) with ESMTP id 123ABCD456
+    for <victim@example.com>; Fri, 13 Oct 2023 10:22:17 +0000 (UTC)
+Message-ID: <20231013102217.123ABCD456@mail.example.com>
+Date: Fri, 13 Oct 2023 10:22:17 +0000 (UTC)
+From: "Rewards Team" <rewards@example.com>
+To: victim@example.com
+Subject: Urgent: Claim Your €100 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Congratulations! You're eligible for a €100 voucher to your favorite store. Claim your reward quickly as this offer is time-sensitive. Click the link below to redeem:
+
+http://192.0.2.56/special_offer/voucher
+
+Act fast to ensure you don’t miss out!
+
+Best Regards,
+Rewards Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <img src="http://example.com/logo.png" alt="Brand Logo" style="width:100px;height:100px;">
+    <p>Dear User,</p>
+    <p><strong>Congratulations!</strong> You're eligible for a <strong>€100 voucher</strong> to your favorite store.</p>
+    <p>Claim your reward quickly as this offer is <strong>time-sensitive</strong>. Click the link below to redeem:</p>
+    <p><a href="http://192.0.2.56/special_offer/voucher">http://special-offer.example.com</a></p>
+    <p>Act fast to ensure you don’t miss out!</p>
+    <p>Best Regards,</p>
+    <p>Rewards Team</p>
+    <p>
+      <a href="http://example.com/privacy">Privacy Policy</a> |
+      <a href="http://example.com/help">Help</a>
+    </p>
+  </body>
+</html>
+
+--boundary123--

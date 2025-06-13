@@ -1,0 +1,52 @@
+```
+From fake.notifications@secureclient.com Thu Sep 21 10:35:28 2023
+Return-Path: <fake.notifications@secureclient.com>
+Received: from unknown (HELO secureclient.com) (192.168.1.1)
+  by mail.example.com with SMTP; Thu, 21 Sep 2023 10:35:28 +0000
+Date: Thu, 21 Sep 2023 10:35:28 +0000
+From: Secure Client <fake.notifications@secureclient.com>
+Subject: Urgent Security Alert: Immediate Action Required
+To: Victim <victim@example.com>
+Content-Type: multipart/alternative; boundary="--=_Part_123456_78901234.12345678"
+
+----=_Part_123456_78901234.12345678
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Valued Client,
+
+We have detected an issue with your account that requires your immediate at=
+tention. Please follow the secure link below to verify your credentials and=
+resolve this matter tonight. Failure to act could result in account restri=
+ction. Act now to avoid any interruption to your services.
+
+Thank you for your prompt attention.
+
+Sincerely,
+Secure Client Support Team
+
+----=_Part_123456_78901234.12345678
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear Valued Client,</p>
+<p>We have detected an <b>issue with your account</b> that requires your <b=
+>immediate attention</b>. Please follow the secure link below to verify you=
+r credentials and resolve this matter <font color=3D"red">tonight</font>. F=
+ailure to act could result in <b>account restriction</b>. <b>Act now</b> to=
+ avoid any interruption to your services.</p>
+<p><a href=3D"http://192.168.1.2/security-update"><img src=3D"http://secure=
+client.com/images/secure_link.png" alt=3D"Secure Link"></a></p>
+<p>If you have questions, please refer to our <a href=3D"http://secureclien=
+t.com/help">Help</a> section or view our <a href=3D"http://secureclient.com=
+/privacy-policy">Privacy Policy</a>.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Sincerely,<br>Secure Client Support Team</p>
+<div style=3D"display:none;"><a href=3D"http://malicious-site.com"></a></d=
+iv>
+</body>
+</html>
+----=_Part_123456_78901234.12345678--
+```

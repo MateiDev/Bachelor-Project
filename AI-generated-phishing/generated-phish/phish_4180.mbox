@@ -1,0 +1,49 @@
+From phishing@dhl-delivery.com Fri May 10 14:22:01 2024
+Message-ID: <20240510142201.phish@dhl-delivery.com>
+Date: Fri, 10 May 2024 14:22:01 +0200
+From: "DHL Express" <noreply@dhl.com>
+Reply-To: urgent-update@parcel-dhl-service.org
+To: customer@testmail.org
+Subject: Urgent: Delivery Notification - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_001_123456789.1683721321"
+
+------=_Part_001_123456789.1683721321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear valued customer,
+
+Your package is currently on hold due to incomplete customs documentation.
+To release your shipment, we require additional verification.
+Please click here to complete the form:
+http://195.148.60.4/verify
+Failure to respond within 24 hours will result in return to sender.
+
+For privacy policy and terms:
+https://help.dhl.com/privacy-policy.
+
+Thank you,
+DHL Express Support
+
+------=_Part_001_123456789.1683721321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Delivery Notification</title></head>
+<body>
+<p>Dear valued customer,</p>
+<p>Your package is currently <strong>on hold</strong> due to <span style="color:red">incomplete customs documentation</span>.</p>
+<p>To <strong>release</strong> your shipment, we require additional verification. Please <a href="http://195.148.60.4/verify">click here</a> to complete the form.</p>
+<p>You can also use the following link if the button does not work:<br>
+<a href="http://203.0.113.27/release?pkg=12345">http://203.0.113.27/release?pkg=12345</a></p>
+<p><a href="https://help.dhl.com/privacy-policy"><img src="http://track.dhl--images.net/logo.png" alt="DHL Logo"></a></p>
+<p>Failure to respond within <strong>24 hours</strong> will result in <strong>return to sender</strong>.</p>
+<p>If you have any questions, reply to this email or visit <a href="http://dhl-shiphelp.dhl.secure-login.net">www.dhl-shiphelp.com</a>.</p>
+<p>Best regards,<br>
+DHL Express Support Team</p>
+</body>
+</html>
+
+------=_Part_001_123456789.1683721321--

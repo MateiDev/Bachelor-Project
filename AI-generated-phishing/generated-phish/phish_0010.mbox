@@ -1,0 +1,47 @@
+```
+From phishing-attack@example.com Mon Oct 9 12:45:23 2023
+X-Google-Sender-Auth: ABcdEf12GH
+X-Received: by 2002:a05:6902:e99:: with SMTP id v147mr22896067otp.173.1696855483219;
+        Mon, 09 Oct 2023 12:45:23 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a05:6214:455:: with HTTP; Mon, 9 Oct 2023 12:45:23 -0700 (PDT)
+From: "Google Support Team" <support-noreply@verification-alert-google.com>
+Date: Mon, 9 Oct 2023 12:45:23 -0700
+Subject: Urgent: Unusual Sign-In Attempt Detected
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000abcde12345"
+
+--000000000000abcde12345
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We detected an unusual sign-in attempt to your Google account from a foreign location. If this was not you, we highly recommend you verify your account immediately to protect your data.
+
+To continue using your account safely, please reset your password today by following the secure link below:
+
+<a href="http://192.0.2.1/login">Update your password</a>
+
+If you do not take action, access to your account may be interrupted.
+
+Best regards,
+The Google Security Team
+
+--000000000000abcde12345
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We detected an unusual sign-in attempt to your Google account from a secret location. If this was not you, we highly recommend you verify your account immediately to protect your data.</p>
+<p>To continue using your account safely, please reset your password today by following the secure link below:</p>
+<p><a href="http://192.0.2.1/login"><img src="http://example.com/images/secure.png" alt="Secure Update"></a></p>
+<p>If you do not take action, access to your account may be interrupted.</p>
+<p>Best regards,</p>
+<p>The Google Security Team</p>
+<p><a href="http://example.com/privacy-policy"></a> <a href="http://example.com/help">Help</a> <a href="http://example.com/terms">Terms</a></p>
+</body>
+</html>
+
+--000000000000abcde12345--
+```

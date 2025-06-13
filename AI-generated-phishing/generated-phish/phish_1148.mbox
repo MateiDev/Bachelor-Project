@@ -1,0 +1,32 @@
+From secure-alerts@mail.portal.com Sat Jul  1 12:00:00 2023
+Return-Path: <secure-alerts@mail.portal.com>
+Received: from mail.portal.com (mail.portal.com [198.51.100.23])
+    by mx.clientmail.com with ESMTPS id abc123
+    for <user@clientmail.com>; Sat, 1 Jul 2023 12:00:00 -0400
+From: "Portal Secure Mail" <secure-alerts@mail.portal.com>
+Reply-To: support@secure-update.banktrusted.com
+To: user@clientmail.com
+Subject: Urgent: Account Password Security Alert
+Date: Sat, 1 Jul 2023 12:00:00 -0400
+Message-ID: <20230701120000.12345@mail.portal.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Account Password Notice</title></head>
+<body>
+<p>Dear User,</p>
+<p>We have detected unauthorized access attempts on your account. For your protection, your access has been temporarily suspended.</p>
+<p>You must verify your credentials to restore access to your encrypted messages immediately:</p>
+<p><a href="http://203.0.113.45/secureportal">click here</a> to verify your account.</p>
+<p>Or go directly to: <a href="http://192.0.2.55/verify">https://secure-mail.portal.com/verify/account/login</a></p>
+<p>If you cannot click the link, please copy and paste the following URL into your browser:</p>
+<p>https://secure-mail.portal.com/verify/account/login</p>
+<p>If you experience any issues, click <a href="http://login.security-update.banktrusted.com">here</a> for support.</p>
+<p><a href="http://203.0.113.45/policy"></a></p>
+<p>Thank you for your prompt attention to this urgent security notification.</p>
+<br>
+<p>— Portal Secure Mail Security Team</p>
+</body>
+</html>

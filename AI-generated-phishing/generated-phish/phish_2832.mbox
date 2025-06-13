@@ -1,0 +1,42 @@
+
+```
+From - Mon Oct 23 14:50:00 2023
+X-Google-Smtp-Source: ABdhPOvWk+33/B22B/pRUV098yoCKFpNW7gcqX7XDi3lGsVKRczVigFxNG1gHg==
+Return-Path: <shipping@notification-service.com>
+Received: from 192.168.1.100 (192.168.1.100) by mail.service.com with SMTP; Mon, 23 Oct 2023 14:48:00 +0000
+Date: Mon, 23 Oct 2023 14:48:00 +0000
+From: "DHL Express" <shipping@notification-service.com>
+Reply-To: delivery-update@service-alerts.com
+Message-ID: <20231023.144800.1234567890.mail@notification-service.com>
+Subject: Urgent: Action Required - Your Parcel Delivery Has Been Delayed!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b3ffd705e98a7f8a"
+
+--000000000000b3ffd705e98a7f8a
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your package is on hold due to an unpaid shipping fee. Resolve this immediately to avoid further delays: http://192.120.45.10/dhl-verification.
+
+Thank you,
+DHL Express
+
+--000000000000b3ffd705e98a7f8a
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package is on hold due to an unpaid shipping fee. Resolve this immediately to avoid further delays: <a href="http://192.120.45.10/dhl-verification">http://dhl-tracking.com/recover</a>.</p>
+    <p>Please click <a href="http://88.202.222.15/verify">here</a> to complete the verification process.</p>
+    <p>Note: Failure to respond will result in your package being returned to the sender.</p>
+    <br/>
+    <a href="http://dhl.express.com/help"></a>| <a href="http://dhl.express.com/privacy-policy">Privacy Policy</a>
+    <p>Thank you,</p>
+    <p>DHL Express</p>
+  </body>
+</html>
+
+--000000000000b3ffd705e98a7f8a--
+```

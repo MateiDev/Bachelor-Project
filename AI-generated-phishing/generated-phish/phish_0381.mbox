@@ -1,0 +1,51 @@
+```
+From nobody Fri Oct 27 12:34:56 2023
+Return-Path: <no-reply@mail-security-alert.com>
+Received: from 192.168.1.1 (unknown [192.168.1.1])
+    by mail.example.com (Postfix) with ESMTP id 12345678;
+    Fri, 27 Oct 2023 12:34:56 +0000 (UTC)
+Message-ID: <00000001@mail-security-alert.com>
+Date: Fri, 27 Oct 2023 12:34:56 +0000
+From: Account Security <no-reply@mail-security-alert.com>
+Subject: Urgent: Action Required to Secure Your Account
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_78901234.56789012"
+
+------=_Part_123456_78901234.56789012
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected suspicious activity on your account and temporary restrictions have been applied. It's urgent to verify your details to avoid permanent suspension.
+
+Please visit the link below to confirm your identity:
+http://192.0.2.1/authenticate
+Failure to do so may result in irreversible actions.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Account Security Team
+
+------=_Part_123456_78901234.56789012
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected suspicious activity on your account and temporary restrictions have been applied. It's urgent to verify your details to avoid permanent suspension.</p>
+    <p>Please visit the link below to confirm your identity:</p>
+    <a href="http://192.0.2.1/authenticate"></a>
+    <a href="http://192.0.2.1/login"> </a>
+    <p>Failure to do so may result in irreversible actions.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>Account Security Team</p>
+  </body>
+</html>
+
+------=_Part_123456_78901234.56789012--
+```

@@ -1,0 +1,47 @@
+From mailer.dhl-security Thu Jul 25 09:12:34 2024
+Return-Path: <no-reply@dhl.com>
+Delivered-To: user@clientmail.net
+Received: from mailer.dhl-service.com (mailer.dhl-service.com [198.51.100.23])
+    by mx.clientmail.net with ESMTP id abc123
+    for <user@clientmail.net>; Thu, 25 Jul 2024 09:12:34 +0200
+From: "DHL Delivery Service" <no-reply@dhl.com>
+Reply-To: customer.support@dhl-support.com
+To: user@clientmail.net
+Subject: Urgent: Account Password Required for Delivery Update
+Date: Thu, 25 Jul 2024 09:12:34 +0200
+Message-ID: <CA+1234567890@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.7890123456789"
+
+----=_Part_0_123456.7890123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package is currently ON HOLD due to an URGENT security check. To avoid additional delay, please confirm your account password and pay the small release fee IMMEDIATELY by visiting http://123.45.67.89/release?order=8675309 or http://www.dhl-tracking.com. If you suspect any unauthorized attempt or have questions, contact our support team at http://185.92.203.12/support.
+
+Thank you for your prompt attention.
+
+DHL Delivery Service Team
+Privacy Policy: https://www.dhl.com/privacy-policy
+Help Center: https://www.dhl.com/help
+
+----=_Part_0_123456.7890123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your package is currently on <strong>HOLD</strong> due to an <strong>URGENT</strong> security check. To avoid additional <strong>delay</strong>, please confirm your account password and pay the small release fee <strong>IMMEDIATELY</strong> by clicking <a href="http://123.45.67.89/release?order=8675309">here</a>.</p>
+<p>You may also verify your tracking status by visiting: <a href="http://192.168.0.199/tracking?ref=ACCT">http://www.dhl-tracking.com</a>.</p>
+<p>You can also check <a href="http://209.141.58.64/info">www.dhl.com/status</a> for more details.</p>
+<p>If you have questions, please <a href="http://185.92.203.12/support"></a> or visit our <a href="https://www.dhl.com/help">Help Center</a>.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Best regards,<br>DHL Delivery Service Team</p>
+<p><a href="https://www.dhl.com/privacy-policy">Privacy Policy</a></p>
+</body>
+</html>
+
+----=_Part_0_123456.7890123456789--

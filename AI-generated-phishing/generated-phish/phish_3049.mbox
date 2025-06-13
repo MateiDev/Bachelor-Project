@@ -1,0 +1,64 @@
+From support@securemail.com Sat Jul 13 11:22:33 2024
+Return-Path: <support@securemail.com>
+Received: from smtp-out.securemail.com (smtp-out.securemail.com [198.51.100.10])
+    by mx.company.com with ESMTPS id 123ABC456DEF
+From: SecureMail Support <noreply@securemailer.com>
+Reply-To: helpdesk@verification-updates.info
+Subject: [SECURITY ALERT] Immediate Verification Required
+To: victim@company.com
+Date: Sat, 13 Jul 2024 11:22:33 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_89101112.13141516"
+
+----=_Part_1234567_89101112.13141516
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+URGENT: We detected suspicious activity on your mailbox. Immediate action is required to avoid ACCOUNT LOCKOUT.
+
+Please verify your account now by visiting the link below:
+http://192.168.100.200/login?session=ABCD1234
+
+If you do not complete verification within 24 hours, your mailbox will be deactivated.
+
+For any assistance, visit:
+https://help.securemail.com/privacy-policy
+
+Thank you,
+SecureMail Support
+
+----=_Part_1234567_89101112.13141516
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color: #ff0000; font-weight: bold;">
+      URGENT SECURITY ALERT: Your account is at risk!
+    </p>
+    <p>
+      We have noticed unusual login attempts. You must <a href="http://203.0.113.5.securemail-portal.com/verify?token=XYZ">click here</a> to confirm your identity NOW.
+    </p>
+    <p>
+      <!-- Image-based link -->
+      <a href="http://123.45.67.89/login.secure.portal/session?id=999">
+        <img src="https://securemail.com/images/secure-check.png" alt="Verify Now" />
+      </a>
+    </p>
+    <p>
+      <!-- Empty visible link -->
+      Proceed with the process by clicking <a href="http://malicious.verify-session.com/confirm"></a>
+    </p>
+    <p>
+      Need help or want to read our privacy policy?
+      <a href="https://help.securemail.com/privacy-policy">https://help.securemail.com/privacy-policy</a>
+    </p>
+    <p style="font-size: small; color: gray;">
+      This is a system-generated message. Do not reply to this email.
+    </p>
+  </body>
+</html>
+
+----=_Part_1234567_89101112.13141516--

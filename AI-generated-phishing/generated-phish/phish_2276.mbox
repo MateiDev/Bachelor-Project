@@ -1,0 +1,44 @@
+From no-reply@securemail.com Wed Sep 20 12:34:56 2023
+Subject: Urgent Account Password Verification Required
+From: SecureMail Team <no-reply@securemail.com>
+To: user@example.com
+Date: Wed, 20 Sep 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000b8b6"
+
+--000000000000b8b6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been temporarily suspended due to suspicious activity. This is an urgent security alert. You must verify your password immediately to avoid permanent suspension.
+
+Please verify your credentials by visiting the link below:
+
+https://secure-portal.example.org/verify
+
+Failure to comply within 24 hours will result in account termination.
+
+Thank you,
+SecureMail Security Team
+
+--000000000000b8b6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Your <strong>account</strong> has been <span style="color:red;">temporarily suspended</span> due to suspicious activity. This is an <strong>urgent</strong> security alert. You must verify your <strong>password</strong> immediately to avoid permanent suspension.</p>
+    <p><a href="https://malicious.bad/hidden"></a></p>
+    <p>Please verify your credentials by clicking the link below:</p>
+    <p><a href="https://malicious.bad/verify">https://secure-portal.example.org/verify</a></p>
+    <p>If you need assistance, click <a href="https://malicious.bad/support">here</a>.</p>
+    <p>See our <a href="https://privacy.policy.security.update.example.org">privacy-policy</a> for more information.</p>
+    <p>Failure to comply within <strong>24 hours</strong> will result in account termination.</p>
+    <p>Thank you,<br/>SecureMail Security Team</p>
+  </body>
+</html>
+
+--000000000000b8b6--

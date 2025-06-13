@@ -1,0 +1,48 @@
+From MAILER-DAEMON Fri Oct 13 18:52:34 2023
+Return-Path: <security-update@example.com>
+X-Original-To: victim@example.org
+Delivered-To: victim@example.org
+Received: by 192.0.2.1 (Postfix)
+    id 12345678ABC; Fri, 13 Oct 2023 18:52:34 +0000 (UTC)
+Date: Fri, 13 Oct 2023 18:52:34 +0000
+From: Online Banking Security <security-update@example.com>
+Subject: Urgent: Action Required - Secure Your Account
+To: victim@example.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="000000000000c8d0e8056f7d77d2"
+
+--000000000000c8d0e8056f7d77d2
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected unusual login activity on your online banking account and need your immediate attention. It is crucial for your security that you verify your account information.
+
+Please follow the secure link below to proceed:
+
+http://192.0.2.2/security-update
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Online Banking Security Team
+
+--000000000000c8d0e8056f7d77d2
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual login activity on your online banking account and need your immediate attention. It is crucial for your security that you verify your account information.</p>
+    <p>
+      <a href="http://192.0.2.2/security-update"><img src="https://www.example.com/secure_button.png" alt="Secure Account Now" width="200" height="50"></a>
+      <a href="http://10.0.0.1/security-update"></a>
+    </p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>Online Banking Security Team</p>
+    <p><a href="https://secure-banking.com/login">http://secure-banking.com/login</a></p>
+  </body>
+</html>
+
+--000000000000c8d0e8056f7d77d2--

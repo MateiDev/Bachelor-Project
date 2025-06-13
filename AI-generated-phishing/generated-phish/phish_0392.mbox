@@ -1,0 +1,43 @@
+From - Fri Oct 27 16:56:23 2023  
+Return-Path: \<delivery-notification@uptodateshipping.com\>  
+Received: from 192.168.1.2 (localhost [127.0.0.1])  
+    by mail.mailserver.net (Postfix) with ESMTP id 123ABC456  
+    for \<victim@example.com\>; Fri, 27 Oct 2023 16:56:23 +0000 (UTC)  
+Date: Fri, 27 Oct 2023 16:56:23 +0000  
+From: "DHL Express" \<support@dhl-parcel.com\>  
+Subject: Urgent: Your Parcel Is On Hold  
+To: \<victim@example.com\>  
+MIME-Version: 1.0  
+Content-Type: multipart/alternative; boundary="123456789-boundary"  
+
+--123456789-boundary  
+Content-Type: text/plain; charset="utf-8"  
+
+Dear Customer,
+
+We attempted to deliver your parcel today, but there was an issue with the delivery address. Your parcel is currently on hold and will be returned if not claimed within 48 hours. This is your last opportunity to claim your package.
+
+Please visit the following link to update your delivery information: http://192.0.2.0/claim-now
+
+Thank you for using DHL Express.
+
+Regards,
+DHL Customer Service
+
+
+--123456789-boundary  
+Content-Type: text/html; charset="utf-8"  
+
+<html>
+<body>
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your parcel today, but there was an issue with the delivery address. Your parcel is currently on hold and will be returned if not claimed within <strong>48 hours</strong>. This is your last opportunity to claim your package.</p>
+    <p><a href="http://192.0.2.0/claim-now"><img src="http://www.dhl.com/image.png" alt="DHL Logo" /></a></p>
+    <p>Please visit the following link to update your delivery information: <a href="http://securedelivery.com/claim-now">http://dhl.com/track-package</a></p>
+    <p>Thank you for using DHL Express.</p>
+    <p>Regards,<br/>DHL Customer Service</p>
+    <p><a href="http://www.dhl-legal.com/privacy-policy">Privacy Policy</a> | <a href="http://www.dhl-help.com/contact-us">Help</a></p>
+</body>
+</html>
+
+--123456789-boundary--  

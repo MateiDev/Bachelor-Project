@@ -1,0 +1,47 @@
+```
+From nobody Mon Oct 30 19:13:13 2023
+From: "Support Team" <support@fakebanksecurity.com>
+Date: Mon, 30 Oct 2023 19:13:13 +0000
+Subject: Urgent: Unusual Sign-In Activity Detected in Your Account
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ-1234567890"
+
+--XYZ-1234567890
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,
+
+We have detected unusual sign-in activity on your account. As a security measure, please verify your information to ensure your account security. Failure to do so might lead to temporary suspension of your account.
+
+Verify Now by clicking the link below:
+http://192.168.1.1/verify-your-account
+
+It is important to act quickly for security reasons to recover any potential losses.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Security Team
+
+--XYZ-1234567890
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear Customer, </p>
+<p>We have detected <b>unusual sign-in activity</b> on your account. As a security measure, please verify your information to ensure your account security. Failure to do so might lead to temporary suspension of your account.</p>
+<p><a href="http://192.168.1.1/verify-your-account">Verify Now by clicking here.</a></p>
+<p><img src="http://fake.security.images/alert.png" alt="Security Alert" /></p>
+<p>It is important to act quickly for security reasons to recover any potential losses.</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Sincerely, <br/> Security Team</p>
+<p><a href="http://dangerous-link.fakebanksecurity-alert.com">Additional Information</a></p>
+</body>
+</html>
+
+--XYZ-1234567890--
+
+```

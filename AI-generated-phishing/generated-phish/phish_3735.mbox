@@ -1,0 +1,27 @@
+From support@securemail.com Sat Jan 14 09:23:15 2023
+Subject: URGENT: Account Password Verification Required
+From: "SecureMail Alert" <support@securemail.com>
+To: user@victimcompany.com
+Reply-To: "IT Helpdesk" <it-support@msft-updates.net>
+Date: Sat, 14 Jan 2023 09:23:15 -0500
+Message-ID: <20230114092315.12345@securemail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued User,</p>
+<p>We detected multiple failed login attempts to your account password. Your account has been temporarily suspended due to suspicious activity. Immediate verification is required to avoid permanent lockout.</p>
+<p>To restore access, please <a href="http://192.0.2.50/verify?user=12345">click here</a> now.</p>
+<p>You may also access the secure portal via the following link:</p>
+<p><a href="http://192.0.2.50/login">https://secureportal-company.com/login</a></p>
+<p>If the above links do not work, copy and paste this URL into your browser:</p>
+<p>http://198.51.100.23/secure/ext/login.php?ref=urgent.alert</p>
+<p><a href=""></a></p>
+<p><a href="http://malicious-server.fake-update.com/download?token=abcdef"><img src="http://203.0.113.10/logo.png" alt="SecureMail Alert"></a></p>
+<p>If you have additional questions, click <a href="http://203.0.113.10/support">here</a> to access your support portal.</p>
+<p>Trusted by thousands of customers. For assistance, visit our <a href="https://secureportal-company.com/privacy-policy">Privacy Policy</a> or <a href="https://secureportal-company.com/help-center">Help Center</a>.</p>
+<p>Thank you,<br>SecureMail Security Team</p>
+</body>
+</html>

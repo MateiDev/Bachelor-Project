@@ -1,0 +1,39 @@
+From - Fri Sep 15 08:00:00 2023
+X-Account-Key: account2
+X-UIDL: 00001
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-path: <noreply@shipment-update.com>
+Envelope-to: user@example.com
+Delivery-date: Fri, 15 Sep 2023 08:00:00 -0500
+Received: from unknown (HELO mta1) (10.0.0.1)
+    by mail.example.com with SMTP; Fri, 15 Sep 2023 08:00:00 -0500
+Reply-To: noreply@parceltrackingservice.com
+Date: Fri, 15 Sep 2023 08:00:00 -0500
+From: DHL Notifications <noreply@shipment-update.com>
+Subject: Urgent: Delivery Notification - Action Required
+To: user@example.com
+Content-Type: multipart/alternative; boundary="boundary"
+
+--boundary
+Content-Type: text/plain; charset=UTF-8
+
+Your parcel is on hold. Please proceed with the confirmation urgently.
+
+--boundary
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your <b>parcel</b> is awaiting your confirmation. To ensure prompt delivery, please complete the verification:</p>
+    <p><a href="http://192.0.2.1/checkpackage">Click here</a> to confirm your parcel delivery details.</p>
+    <p>Alternatively, you can log in to your account via our secure portal and track your shipment:</p>
+    <p><a href="http://dhl-verification.com/login">http://dhl-verification.com</a></p>
+    <p>For more details, visit our <a href="http://dhl.com/privacy-policy">privacy policy</a> or <a href="http://dhl.com/help">help</a> page.</p>
+    <p><img src="http://example.com/button.png" alt="hidden button"><a href="http://192.0.2.1/verify"> </a></p>
+    <p>Thank you,<br>DHL Support Team</p>
+  </body>
+</html>
+
+--boundary--

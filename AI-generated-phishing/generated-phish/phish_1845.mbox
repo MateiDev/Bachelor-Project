@@ -1,0 +1,70 @@
+From MAILER-DAEMON Wed Jul 20 10:12:45 2022
+From: "DHL Shipping"<no-reply@dhlglobalupdates.com>
+To: John Doe <john.doe@domain.com>
+Subject: Urgent: Delivery Notification – Account Verification Required
+Date: Wed, 20 Jul 2022 10:12:45 -0400
+Message-ID: <20220720101245.12345@dhlglobalupdates.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_89012345.1658328765"
+
+------=_Part_1234567_89012345.1658328765
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We attempted to deliver your package today but couldn't complete the shipment due to an address verification issue. To avoid returning your parcel to sender, please verify your account information and pay a small fee using one of the secure links below.
+
+Release Your Package:
+http://203.0.113.45/release?pkg=6789
+
+Track Your Shipment:
+http://198.51.100.23/track?uid=12345
+
+Confirm Details:
+https://secure.update.dhl-ship-global.com/confirm?id=xyz
+
+For urgent account verification, access here:
+https://unlock.package.dhlglobal-ship.online/unlock?session=7890
+
+If you have any questions, visit our Help Center:
+https://www.dhl.com/content/dam/downloads/g0/general/help.html
+
+View our Privacy Policy:
+https://www.dhl.com/en/legal/privacy.html
+
+Thank you for choosing DHL.
+
+Best regards,
+DHL Shipping Team
+
+------=_Part_1234567_89012345.1658328765
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;line-height:1.6;">
+    <p>Dear Customer,</p>
+    <p>We attempted to deliver your package today but couldn't complete the shipment due to an address verification issue. To avoid returning your parcel to sender, please verify your <strong>account</strong> information and pay a small fee using the secure options below.</p>
+    <p>
+      <a href="http://203.0.113.45/release?pkg=6789" style="display:inline-block;padding:10px 20px;background-color:#c60000;color:#ffffff;text-decoration:none;border-radius:4px;">Release Your Package</a>
+    </p>
+    <p>Alternatively, track your shipment by clicking on the image below:</p>
+    <p>
+      <a href="http://198.51.100.23/track?uid=12345">
+        <img src="http://198.51.100.23/tracking.png" alt="View Package Status" border="0" />
+      </a>
+    </p>
+    <p>Or confirm your shipment details here:<br />
+      <a href="https://secure.update.dhl-ship-global.com/confirm?id=xyz">https://secure.update.dhl-ship-global.com/confirm?id=xyz</a>
+    </p>
+    <p>For <strong>urgent</strong> <strong>account</strong> verification, <a href="https://unlock.package.dhlglobal-ship.online/unlock?session=7890">click here</a>.</p>
+    <hr />
+    <p>If you have any questions, visit our Help Center: <a href="https://www.dhl.com/content/dam/downloads/g0/general/help.html">Help Center</a></p>
+    <p>View our Privacy Policy: <a href="https://www.dhl.com/en/legal/privacy.html">Privacy Policy</a></p>
+    <p>Thank you for choosing DHL.</p>
+    <p>Best regards,<br />DHL Shipping Team</p>
+  </body>
+</html>
+
+------=_Part_1234567_89012345.1658328765--

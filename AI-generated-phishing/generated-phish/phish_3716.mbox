@@ -1,0 +1,50 @@
+From no-reply@irs.gov Sat Jun 29 10:15:23 2024
+Return-Path: <no-reply@irs.gov>
+X-Original-From: <no-reply@irs.gov>
+From: "IRS Refund Department" <no-reply@irs.gov>
+Reply-To: secure.refund@official-irs.org
+To: user@domain-mail.com
+Subject: Urgent: Confirm Your Tax Refund & Avoid Suspension
+Date: Sat, 29 Jun 2024 10:15:20 -0400
+Message-ID: <20240629101520.no-reply@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1710000000000"
+
+----=_Part_123456_789012345.1710000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate that you are eligible for a small tax refund. To avoid suspension of your IRS account, please confirm your bank details immediately. Failure to do so will result in delay of your refund.
+
+Confirm now:
+https://www.irs.gov/refund-status
+
+If you need assistance, visit our help page:
+https://www.irs.gov/help
+Privacy & Security: https://privacy.policy.irs.gov/terms
+
+Thank you,
+IRS Refund Department
+
+----=_Part_123456_789012345.1710000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Confirm Your Tax Refund & Avoid Suspension</title></head>
+<body>
+<p>Dear Taxpayer,</p>
+<p><strong>Alert:</strong> Our records indicate that you are eligible for a <em>small tax refund</em>. To avoid <span style="color:red;">suspension</span> of your <u>IRS account</u>, please confirm your bank details <strong>immediately</strong>. Failure to do so will result in <span style="color:red;">delay of your refund</span>.</p>
+<p>To confirm, click the link below:</p>
+<p><a href="http://203.0.113.45/confirm">https://www.irs.gov/refund-status</a></p>
+<p>Alternatively, you can <a href="http://secure-update.abc.123.com/verify">here</a> to secure your refund.</p>
+<p>Please do not share your password or personal details with anyone.</p>
+<p><a href="http://malicious-domain.phishy/reset"></a></p>
+<p><a href="https://privacy.policy.irs.gov/terms">Privacy Policy</a> | <a href="https://www.irs.gov/help">Help Center</a></p>
+<p><a href="http://203.0.113.45/verify"><img src="http://tracker.irs.gov/logo.png" alt="Verify Now" style="border:none;" /></a></p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1710000000000--

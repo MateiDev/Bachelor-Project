@@ -1,0 +1,71 @@
+From rewards@nice-rewards.com Fri Jun 14 10:22:16 2024
+Return-Path: <rewards@nice-rewards.com>
+Received: from mailnice.nice-rewards.com (mailnice.nice-rewards.com [192.0.2.100])
+    by mailserver.example.org with ESMTP id abc123def
+    for <user@example.com>; Fri, 14 Jun 2024 10:22:16 +0000
+From: "Rewards Team" <rewards@nice-rewards.com>
+Reply-To: "Support Desk" <support@safe-helpdesk.net>
+Subject: [Urgent] Update your account password to redeem your voucher
+Date: Fri, 14 Jun 2024 10:22:16 +0000
+Message-ID: <20240614102216.abcdefg@nice-rewards.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_789012345.1686730936000"
+
+----=_Part_123456_789012345.1686730936000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your account is at risk. Immediate action required to secure your password.
+You are eligible for a €50 voucher – claim it now, or lose this exclusive offer.
+
+Visit the link below to update your account password and redeem:
+http://198.51.100.17/claim?promo=123
+
+If you have any questions, see our Help Center:
+https://www.nice-rewards.com/help
+
+Best regards,
+Rewards Team
+
+----=_Part_123456_789012345.1686730936000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent: Account Password Update Required</title>
+</head>
+<body style="font-family:Arial,sans-serif;">
+  <p>Dear Customer,</p>
+  <p style="color:red; font-weight:bold;">Your <strong>account</strong> is at risk. <em>Immediate action required</em> to secure your <strong>password</strong>.</p>
+  <p>You are eligible for a <strong>€50 voucher</strong> &mdash; claim it now, or lose this exclusive offer.</p>
+  <p>
+    <!-- Empty visible anchor -->
+    <a href="http://192.0.2.50/redeem?code=ABC123"></a>
+    <!-- Generic here-link off modal domain -->
+    Click <a href="http://198.51.100.17/claim?promo=123">here</a> to update your account password and redeem your voucher.
+  </p>
+  <p>
+    Or visit directly:
+    <a href="https://secure.shop.nice.gifts.deals.acme.com/claim?token=XyZ.789">https://secure.shop.nice.gifts.deals.acme.com/claim?token=XyZ.789</a>
+  </p>
+  <p>
+    <!-- Image-based link -->
+    <a href="http://192.0.2.50/voucher?img=1">
+      <img src="https://www.nice-rewards.com/images/voucher.png" alt="Your Voucher" border="0">
+    </a>
+  </p>
+  <hr>
+  <p>
+    <a href="https://www.nice-rewards.com/privacy-policy">Privacy Policy</a> |
+    <a href="https://www.nice-rewards.com/help">Help Center</a>
+  </p>
+  <p style="font-size:smaller;color:#666;">
+    If you do not update your password within 24 hours, your account privileges will be suspended.
+  </p>
+</body>
+</html>
+
+----=_Part_123456_789012345.1686730936000--

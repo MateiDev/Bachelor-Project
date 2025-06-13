@@ -1,0 +1,49 @@
+From rewards@promo-testdomain.org Sat Feb 24 16:15:07 2024
+Date: Sat, 24 Feb 2024 16:15:07 +0200
+From: "Rewards Dept" <rewards@promo-testdomain.org>
+Reply-To: support@testdomainbilling.info
+To: user@victimdomain.net
+Subject: Urgent: Confirm your account details for €50 Voucher
+Message-ID: <ABC12345@promo-testdomain.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001"
+
+------=_NextPart_000_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+You have been selected for an exclusive reward! Congratulations! You are eligible for a €50 voucher to use on your next purchase.
+
+To claim your voucher, please verify your account details and password by clicking the link below:
+
+http://123.45.67.89/claim?uid=ABCD1234
+
+If you do not verify your information within 24 hours, your voucher will expire.
+
+Thank you,
+Rewards Team
+
+------=_NextPart_000_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Notification</title>
+</head>
+<body>
+<p>Dear Valued Customer,</p>
+<p>You have been selected for an <strong>exclusive reward</strong>! Congratulations! You are eligible for a <strong>€50 voucher</strong> to use on your next purchase.</p>
+<p>To claim your voucher, please verify your <em>account</em> details and <em>password</em> by clicking the link below:</p>
+<p><a href="http://123.45.67.89/claim?uid=ABCD1234"><img src="http://promo.testdomain-billing.info/images/voucher.png" alt="Claim Your Voucher" width="300" height="200"></a></p>
+<!-- Empty visible link -->
+<p><a href="https://secure.reward.claim.promo.voucher.net/?id=5678"></a></p>
+<p>This is an urgent request. If you do not verify your information within 24 hours, your voucher will expire.</p>
+<p>Thank you,<br>
+Rewards Team</p>
+</body>
+</html>
+
+------=_NextPart_000_001--

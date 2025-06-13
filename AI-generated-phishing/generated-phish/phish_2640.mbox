@@ -1,0 +1,44 @@
+```
+From MAILER-DAEMON@dhl-delivery-support.com Sun Oct 15 14:13:00 2023
+Return-Path: <MAILER-DAEMON@dhl-delivery-support.com>
+Received: from smtp.dhl-delivery-confirmation.com (smtp.dhl-delivery-confirmation.com [93.184.216.34])
+	by mail.server.com (Postfix) with SMTP id 1234567890
+	for <user@example.com>; Sun, 15 Oct 2023 14:13:00 -0700 (PDT)
+Message-ID: <0987654321@mail.dhl-delivery-support.com>
+Date: Sun, 15 Oct 2023 14:13:00 -0700 (PDT)
+From: DHL Support <support@dhl-delivery.com>
+Reply-To: alert@dhl-shipping-alert.com
+To: user@example.com
+Subject: Urgent: Immediate Action Required for Held Package Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123456"
+
+--boundary123456
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We attempted to deliver a package to your account but require immediate attention to resolve a delivery issue. Please address this urgently to avoid return of your package.
+
+Visit http://dhl-track-id.com immediately.
+
+Sincerely,
+DHL Delivery Support
+
+--boundary123456
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver a package to your account but require <strong>immediate attention</strong> to resolve a delivery issue. Please address this urgently to avoid return of your package.</p>
+<p>Visit <a href="http://192.0.2.123/package/help" target="_blank">http://dhl.com/track/yourpackage</a> immediately.</p>
+<p>For more tracking information, you can also <a href="http://dhl-confirmation.com/redirect">click here</a>.</p>
+<a href="http://dhl-support.com/account-help"><img src="http://dhl-support.com/images/track_button.png" alt="Track Package"></a>
+<p>Sincerely,<br>DHL Delivery Support</p>
+<p><a href="http://dhl.com/privacy">Privacy Policy</a> | <a href="http://dhl.com/help">Help</a></p>
+</body>
+</html>
+
+--boundary123456--
+```

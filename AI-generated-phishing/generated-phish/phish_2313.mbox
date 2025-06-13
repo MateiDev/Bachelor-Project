@@ -1,0 +1,66 @@
+From notifications@dhl-delivery.com Mon Jan  1 12:34:56 2024
+Date: Mon, 1 Jan 2024 12:34:56 +0000
+From: "DHL Delivery Notification" <notifications@dhl-delivery.com>
+Reply-To: support@fastparcel-confirm.net
+To: user@example.com
+Subject: Urgent: Your shipment is pending delivery - Action required
+Message-ID: <20240101123456.ABC123@mail.dhl-delivery.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_ABCDEF"
+
+----=_NextPart_000_0000_ABCDEF
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your recent shipment #123456789 from DHL is pending release due to an unpaid handling fee.
+Please confirm your details and pay the fee to avoid return to sender.
+
+Track your shipment: http://dhl.com/track?num=123456789
+Confirm and pay: http://192.0.2.123/pay?order=123456789
+
+Alternatively, click here to view invoice: http://verify.status.dhl-shipmentsecure.com/invoice?id=123456789
+
+Thank you,
+DHL Delivery Team
+
+----=_NextPart_000_0000_ABCDEF
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333;">
+    <p>Dear Customer,</p>
+    <p>Your recent shipment <strong>#123456789</strong> from DHL is pending release due to an unpaid handling fee.</p>
+    <p>Please confirm your details and pay the fee to avoid return to sender.</p>
+    <p>
+      Track your shipment:
+      <a href="http://maliciousdomain.com/track?num=123456789">
+        http://dhl.com/track?num=123456789
+      </a>
+    </p>
+    <p>
+      Confirm and pay:
+      <a href="http://192.0.2.123/pay?order=123456789">
+        https://dhl.com/confirm-payment
+      </a>
+    </p>
+    <p>
+      To view your invoice, <a href="http://verify.status.dhl-shipmentsecure.com/invoice?id=123456789">click here</a>.
+    </p>
+    <p>
+      <a href="http://track.delivery.dhlsecure.verify.me/authorize?id=123456789">
+        <img src="http://192.0.2.123/tracker.png" alt="DHL Tracker" style="border:none;" />
+      </a>
+    </p>
+    <p>Thank you,<br/>DHL Delivery Team</p>
+    <hr/>
+    <p style="font-size: small;">
+      <a href="https://dhl-delivery.com/privacy">Privacy Policy</a> |
+      <a href="https://dhl-delivery.com/help">Help Center</a>
+    </p>
+  </body>
+</html>
+
+----=_NextPart_000_0000_ABCDEF--

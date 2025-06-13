@@ -1,0 +1,42 @@
+From phishing@maliciousdomain.com Sat Sep 30 14:22:00 2023
+Return-Path: <phishing@maliciousdomain.com>
+Delivered-To: user@target.com
+Received: by mailserver.com with SMTP id abc123; Sat, 30 Sep 2023 14:22:01 +0000
+Message-ID: <20230930142201.abc123@maliciousdomain.com>
+From: "Internal Revenue Service" <no-reply@irs.gov123.redirect-domain.com>
+To: user@target.com
+Subject: Urgent: Tax Refund Confirmation Required for Your Account
+Date: Sat, 30 Sep 2023 14:22:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Attention: There is a small tax refund waiting for your bank account.
+Please confirm your bank details immediately to avoid delays or risk forfeiture.
+Visit the following links:
+http://123.45.67.89/verify
+https://secure-login.account.verify.com/confirm
+Or click here: http://malicious.site.pay-refund.com/secure
+
+--BOUNDARY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent: Tax Refund Confirmation Required for Your Account</title></head>
+<body>
+<p><strong>Attention!</strong> You have a pending <span style="color:red;">tax refund</span> of $57.23 waiting. To avoid <em>immediate</em> forfeiture, you must <strong>confirm</strong> your bank <u>account</u> details within <strong>24 hours</strong>.</p>
+<p>To proceed, <a href="http://malicious.site.pay-refund.com/secure">click here</a> now.</p>
+<p>Please also <a href="http://123.45.67.89/verify/refund?acct=12345"></a>visit the secure portal above to complete verification.</p>
+<p>Or access your file: <a href="http://malicious.site.pay-refund.com/secure">https://www.officialtax.gov/confirm</a></p>
+<p>Need Help? <a href="https://www.irs.gov/help">Help Center</a> | <a href="https://www.irs.gov/privacy">Privacy Policy</a></p>
+<p>Login portal: <a href="https://secure.tax.refund.review.com/login">secure.tax.refund.review.com</a></p>
+<p><a href="http://89.23.45.12/confirm"><img src="http://images.taxservice.support/click.png" alt="Confirm Refund"></a></p>
+<p>Regards,<br>IRS Support Team</p>
+</body>
+</html>
+
+--BOUNDARY--

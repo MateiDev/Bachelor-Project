@@ -1,0 +1,55 @@
+From internal-revenue@irs.gov Mon Jun 10 12:34:56 2024
+Subject: URGENT: Your Account Tax Refund - Immediate Action Required
+From: "Internal Revenue Service" <no-reply@irs.gov>
+Reply-To: helpdesk@taxsupport.com
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_123456"
+
+------=_Boundary_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WARNING: You are at risk of losing your tax refund! A small refund amount
+is waiting for you. To avoid delays, please confirm your bank details
+IMMEDIATELY by visiting one of the following links:
+
+- https://secure.tax-refund.modalpolicy.org/confirm
+- http://192.0.2.123/banking/confirm
+- https://checkout.office.taxes.refund.authority.com/secure?ref=abc
+
+Failure to reply within 24 hours may result in permanent forfeiture of
+your refund.
+
+If you have any questions, contact our support team at (800) 555-0199.
+
+------=_Boundary_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">ALERT: Immediate action required to secure your refund!</p>
+    <p>Dear Taxpayer,</p>
+    <p>Our system indicates a small tax refund is pending for your account. To prevent
+    any interruptions, please <a href="https://secure.tax-refund.modalpolicy.org/confirm">click here</a>
+    and verify your bank information without delay.</p>
+    <p>You may also use one of the alternative links below:</p>
+    <ul>
+      <li><a href="http://192.0.2.123/banking/confirm">here</a></li>
+      <li><a href="https://checkout.office.taxes.refund.authority.com/secure?ref=abc"></a> (secure portal)</li>
+      <li><a href="https://policy.privacy.taxes-modal.co.uk/update">Update Details</a></li>
+    </ul>
+    <p><a href="http://192.0.2.123/banking/confirm"><img src="http://203.0.113.5/images/refund.png"
+        alt="Refund Image" style="border:none;"></a></p>
+    <p>Do not ignore this URGENT warning. Confirm within 24 hours to avoid delays.</p>
+    <p>For support, visit our privacy-policy or help page:
+       <a href="https://policy.privacy.taxes-modal.co.uk/terms">Terms of Service</a> |
+       <a href="https://policy.privacy.taxes-modal.co.uk/privacy">Privacy Policy</a> |
+       <a href="https://policy.privacy.taxes-modal.co.uk/help">Help Center</a>
+    </p>
+    <p>IRS Compliance Division</p>
+  </body>
+</html>
+
+------=_Boundary_123456--

@@ -1,0 +1,60 @@
+From support@banking-example.com Fri Jan 20 10:30:00 2024
+Message-ID: <202401201030.support@banking-example.com>
+Date: Fri, 20 Jan 2024 10:30:00 -0500
+From: "Banking Support" <support@banking-example.com>
+Reply-To: security@bank-alerts.org
+To: user@example.com
+Subject: URGENT: Account Password Expiry – Action Required
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: multipart/alternative; boundary="ALTBOUNDARY456"
+
+--ALTBOUNDARY456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account. Your password expires today and must be reset immediately to avoid service interruption.
+
+Please visit the link below to verify your account and reset your password:
+
+http://192.0.2.123/reset-password
+
+If you have any questions, visit our help page:
+https://www.bank.com/help
+
+Thank you,
+Banking Support Team
+
+--ALTBOUNDARY456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Expiry Notice</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <strong>unusual sign-in</strong> activity on your <em>account</em>, and your <strong>password expires today</strong> – <span style="color:red;">reset immediately</span> to prevent access loss.</p>
+<p>Please <a href="http://192.0.2.123/reset?user=12345" style="font-weight:bold;">click here</a> to verify and <a href="https://modal-update.com/verify"></a> reset your credentials now.</p>
+<p>Alternatively, copy and paste the URL below into your browser:</p>
+<p><a href="http://login.bank-secure.com/reset">www.bank.com/account/reset</a></p>
+<p>If you need assistance, visit our privacy <a href="https://www.bank.com/privacy">policy</a> or <a href="https://www.bank.com/help">help</a> page.</p>
+<p><a href="http://192.0.2.123"><img src="cid:logo" alt="Bank Logo"></a></p>
+<p>Thank you,<br>Banking Support Team</p>
+</body>
+</html>
+
+--ALTBOUNDARY456--
+
+--BOUNDARY123
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-ID: <logo>
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAA...
+--BOUNDARY123--

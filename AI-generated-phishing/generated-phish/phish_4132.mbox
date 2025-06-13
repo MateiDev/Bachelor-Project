@@ -1,0 +1,56 @@
+From MAILER-DAEMON Mon Jul 01 12:34:56 2024
+Return-Path: <no-reply@ups-delivery.com>
+Received: from mail.ups-delivery.com (mail.ups-delivery.com [203.0.113.45])
+    by mx.victimmail.com with ESMTP id ABC123DEF
+Subject: Urgent: Account Password Verification & Delivery Notification
+From: "UPS Delivery Services" <support@ups-delivery.com>
+Reply-To: <security@ups-support.com>
+To: victim@victimdomain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0001_5555_6666"
+
+----=_Part_0001_5555_6666
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We regret to inform you that your package is currently HELD at our facility. 
+Your account will be LOCKED and you will face a PENALTY if you do not act IMMEDIATELY. 
+To avoid RETURN or additional CHARGES, please pay the small fee without delay:
+
+1) Visit: http://tracking.ups.com/confirm_delivery
+2) Or go to: http://203.0.113.99/verify
+
+Failure to comply within 24 hours will RESULT in your package being SENT BACK.
+
+Thank you for your prompt attention,
+UPS Delivery Services
+
+----=_Part_0001_5555_6666
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent: Account Password Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p><strong>WARNING:</strong> Your delivery is <span style="color:red;">URGENT</span> and currently <em>DELAYED</em> due to an <span style="color:red;">INCOMPLETE PAYMENT</span>. 
+Your account will be <strong>LOCKED</strong> if you fail to act <span style="color:orange;">IMMEDIATELY</span>.</p>
+
+<p>Please <a href="http://203.0.113.99/verify">click here</a> to settle the mandatory fee of $2.99 and release your package.</p>
+
+<p>Alternatively, check status at <a href="http://203.0.113.99/verify">http://tracking.ups.com</a> (link currently disabled).</p>
+
+<p>For more details, <a href="http://203.0.113.99/documents"></a>View shipping documents.</p>
+
+<p>Need help? Visit our Help Center: <a href="http://help.ups-delivery.com">help.ups-delivery.com</a></p>
+
+<p>Privacy: <a href="http://help.ups-delivery.com/privacy">Privacy Policy</a> | <a href="http://help.ups-delivery.com/terms">Terms of Service</a></p>
+
+</body>
+</html>
+
+----=_Part_0001_5555_6666--

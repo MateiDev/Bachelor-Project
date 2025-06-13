@@ -1,0 +1,59 @@
+From notifications@portalsecure.com Mon Sep 04 10:15:00 2023
+Return-Path: <notifications@portalsecure.com>
+Delivered-To: user@example.com
+Received: from portalsecure.com (portalsecure.com [192.0.2.1]) by mail.example.com with SMTP; Mon, 4 Sep 2023 10:15:00 -0400
+From: "Portal Security Team" <notifications@portalsecure.com>
+Reply-To: admin@portal-alerts.com
+To: user@example.com
+Subject: Urgent Account Password Alert
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC123"
+
+--ABC123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear user,
+
+We have detected suspicious activity on your account and your password is at risk.
+To secure your account immediately, click here:
+http://login.portalsecure.com/reset?token=abc123
+Or view your secure message:
+http://portal.secure.alerts.com/view?msg=xyz456
+For direct access copy and paste:
+http://malicious-login.portalsecure.com
+If you do not act within 24 hours, your account will be locked.
+
+privacy-policy: http://help.portalsecure.com/privacy-policy
+help: http://support.portalsecure.com/faq
+
+Best regards,
+Portal Security Team
+
+--ABC123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>We have detected <strong>urgent</strong> <span style="color:red">suspicious activity</span> on your <strong>account</strong> and your <strong>password</strong> is at risk.</p>
+    <p>To secure your account <a href="http://login.portalsecure.com/reset?token=abc123">click here</a>
+       or view your secure message by clicking
+       <a href="https://portal.secure.alerts.com/view?msg=xyz456">here</a>.</p>
+    <p>Alternatively, copy and paste the URL:<br>
+       <a href="http://malicious-login.portalsecure.com">http://www.portalsecure.com/login</a>
+    </p>
+    <p><a href="http://malicious.example.com/login"></a></p>
+    <p><a href="http://login.modal.alerts.secure.com"><img src="http://cdn.modal.alerts.com/banner.gif" alt="SecureMail"></a></p>
+    <p><a href="http://help.portalsecure.com/privacy-policy">privacy-policy</a> |
+       <a href="http://support.portalsecure.com/faq">help</a>
+    </p>
+    <p>If you do not act <em>immediately</em>, your account will be locked.</p>
+    <p>Regards,<br>
+       <img src="http://images.portalsecure.com/logo.png" alt="Portal Secure Logo">
+    </p>
+  </body>
+</html>
+
+--ABC123--

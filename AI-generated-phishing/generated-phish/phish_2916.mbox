@@ -1,0 +1,26 @@
+```mbox
+From scammer@example.com Mon Oct 9 15:53:09 2023
+Return-Path: <scammer@example.com>
+Received: from unknown (192.168.1.1)
+    by mail.example.com with SMTP; Mon, 9 Oct 2023 15:53:09 +0000
+Message-ID: <001a113d4c0b@example.com>
+Subject: Urgent: Action Required to Release Your Held Parcel
+From: Delivery Service <service@example.com>
+Reply-To: no-reply@differentdomain.com
+Date: Mon, 09 Oct 2023 15:53:09 +0000
+To: victim@example.com
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <h2>Action Required: Your Parcel is on Hold</h2>
+    <p>Dear Customer,</p>
+    <p>We tried to deliver your package, but there was an issue. Your urgent attention is required. To release the parcel, please <a href="http://192.0.2.1/release-package" target="_blank">click here</a> and verify your details.</p>
+    <p>If you do not complete this verification within 24 hours, your package will be returned to the sender. <em>Act fast</em> to ensure timely delivery.</p>
+    <p>Thank you,<br>The Delivery Team</p>
+    <p><img src="http://192.0.2.1/logo.png" alt="Our Company Logo"></p>
+    <p>Privacy information available at our <a href="http://www.legitshipping.com/privacy-policy">Privacy Policy</a> page. For assistance, visit <a href="http://www.legitshipping.com/help"></a>.</p>
+    <p>To track your package, click <a href="http://www.trackyourparcel.net" target="_blank">www.trackyourparcel.net</a>.</p>
+  </body>
+</html>
+```

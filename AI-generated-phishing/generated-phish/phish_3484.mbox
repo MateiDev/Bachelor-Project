@@ -1,0 +1,51 @@
+From security@notifications.account-update.services.com Fri Jan 1 12:00:00 2021
+Return-Path: <security@notifications.account-update.services.com>
+Received: from mailer.smtp.com (mailer.smtp.com [198.51.100.10]) by mx.targetdomain.com (Postfix) with ESMTP id ABC123DEF for <user@targetdomain.com>; Fri, 1 Jan 2021 12:00:00 +0000 (UTC)
+From: Account Security <security@notifications.account-update.services.com>
+To: user@targetdomain.com
+Subject: URGENT: Account Password Expires Today – Action Required
+Date: Fri, 1 Jan 2021 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_5678.abcdef"
+
+----=_Part_1234_5678.abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an UNUSUAL sign-in attempt on your account and your password EXPIRES TODAY. Immediate action is required to prevent account suspension.
+
+Reset now:
+https://secure.account-services.login.update.verify-login.net/reset-password
+
+Alternatively, visit our privacy page:
+https://www.company.com/privacy-policy
+
+Regards,
+Security Team
+
+----=_Part_1234_5678.abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>URGENT: Account Password Expiration Notice</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p style="font-weight:bold;color:#a00;">Unusual sign-in detected—verify now; your password expires <strong>today</strong>. <span style="color:red;">Immediate action is required</span> to prevent <strong>suspension</strong>.</p>
+<ul>
+<li><a href="http://45.76.23.19/login">https://secure.bank.login.verify.com</a></li>
+<li><a href="http://198.51.100.45/reset-password?userID=789">Click here</a></li>
+<li><a href="https://www.company.com/help">Help Center</a></li>
+<li><a href="https://www.company.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="http://malicious-login.com/verify"></a></li>
+<li><a href="https://secure.account-services.login.update.verify-login.net/customer/update">here</a></li>
+</ul>
+<p>Thank you,<br>Account Security Team</p>
+</body>
+</html>
+
+----=_Part_1234_5678.abcdef--

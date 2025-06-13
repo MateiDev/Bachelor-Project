@@ -1,0 +1,40 @@
+From securemail-alerts@notifications.org Fri Mar 15 08:55:12 2024
+From: "SecureMail Alerts" <alerts@secure-mail.com>
+Reply-To: support@securemail-service.com
+To: victim@targetdomain.com
+Subject: Urgent: Encrypted Secure-Mail Notification
+Date: Fri, 15 Mar 2024 08:55:12 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890.1234567890"
+
+------=_Part_1234_567890.1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+You have received a new encrypted message. Please view the secure portal to decrypt and read your message:
+
+https://secure.online-bank.systems/view?msg-id=TE1NVVFjdFJK
+
+This is an urgent notification. Failure to access your message may result in missed updates.
+
+Regards,
+SecureMail Alerts
+
+------=_Part_1234_567890.1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>You have received a new <strong>encrypted message</strong>. To decrypt and read it, please access the secure portal below:</p>
+    <p><a href="https://portal.decryptor.co/login" title="urgent account update">https://secure.online-bank.systems/view</a></p>
+    <p>If the link above does not load, <a href="https://portal.decryptor.co/login" title="account password reset required">click here</a> to log in.</p>
+    <p>For support, visit our <a href="https://help.securemail-service.com/privacy-policy">privacy-policy</a> or <a href="https://help.securemail-service.com/terms">terms</a>, or <a href="https://portal.decryptor.co/login"></a></p>
+    <p>Regards,<br/>SecureMail Alerts Team</p>
+  </body>
+</html>
+
+------=_Part_1234_567890.1234567890--

@@ -1,0 +1,28 @@
+From user@example.com Wed Jun 12 14:36:07 2024
+Return-Path: <notifications@dhl.com>
+Delivered-To: user@localdomain.com
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.50])
+    by mx.localdomain.com with ESMTP id ABC123456
+    for <user@localdomain.com>; Wed, 12 Jun 2024 14:36:07 -0400 (EDT)
+Subject: Urgent: Delivery Notification - Package Held
+From: "DHL Express" <notifications@dhl.com>
+Reply-To: support@dhl-claim.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package today, but it was <strong>held</strong> at our local facility due to <em>unpaid fees</em>. This is <span style="color:red;">urgent</span>: if we do not receive payment within 24 hours, your parcel will be <strong>returned to sender</strong>.</p>
+<p>Please <a href="http://198.51.100.23/release?package=123456">click here</a> to settle the fee immediately.</p>
+<p>If the link above fails, go to <a href="http://203.0.113.45/track?ref=abcd">http://www.dhl-delivery.com/track</a> for more information.</p>
+<p>Alternatively, you may verify your shipment at our secure portal:</p>
+<ul>
+<li><a href="http://update.dhl.services.ntp.secure-account.com/login">update.dhl.services.ntp.secure-account.com/login</a></li>
+<li><a href="http://198.51.100.23/malware"></a></li>
+</ul>
+<p>For questions, see our <a href="http://www.dhl.com/privacy-policy">Privacy Policy</a> or our <a href="http://www.dhl.com/help">Help Center</a>.</p>
+<p>Thank you for your prompt attention.<br>
+DHL Express Delivery Team</p>
+</body>
+</html>

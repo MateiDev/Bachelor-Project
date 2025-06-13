@@ -1,0 +1,20 @@
+From notifications@bankalerts.com Fri Jul 19 16:05:43 2024
+Return-Path: <notifications@bankalerts.com>
+Received: from unknown (HELO bankalerts.com) (203.0.113.10) by mail.userdomain.com with SMTP; Fri, 19 Jul 2024 16:05:43 +0000
+From: Bank Alerts <notifications@bankalerts.com>
+To: user@useremail.com
+Subject: Urgent: Confirm your account password now to claim your tax refund
+Date: Fri, 19 Jul 2024 16:05:43 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p><strong>Immediate action required!</strong></p>
+<p>Your recent tax filing indicates that a small refund is waiting. Your account is at risk of being flagged if you do not verify your password immediately.</p>
+<p>Please <a href="http://192.168.1.50/update">click here</a> to confirm your bank details and secure your funds before the deadline.</p>
+<p>You may also <a href="https://secure.bank.verify-info.co/account/update">verify your account information</a> directly on our secure server.</p>
+<p><a href="http://203.0.113.5/refund"><img src="http://images.bank.com/logo.png" alt="Bank Secure Logo"></a></p>
+<p>Need help? Visit our <a href="https://www.bank.com/privacy-policy">Privacy Policy</a> or <a href="https://www.bank.com/help">Help Center</a>.</p>
+</body>
+</html>

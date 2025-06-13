@@ -1,0 +1,46 @@
+From notifications@bank-security.com Wed Apr 12 09:21:00 2023
+Date: Wed, 12 Apr 2023 09:21:00 -0400
+From: Secure Bank <notifications@bank-security.com>
+Reply-To: Support Team <support@bank-recovery.com>
+To: user@example.com
+Subject: Urgent Tax Refund - Action Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.987654321"
+
+----=_Part_0_123456.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your tax refund and there is a pending amount waiting for your confirmation. Please confirm your bank details to avoid any delay.
+
+Click the link below to proceed:
+http://123.45.67.89/confirm
+
+Thank you,
+Secure Bank Security Team
+
+----=_Part_0_123456.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Secure Bank Tax Refund</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>Your <strong>Tax Refund</strong> of <strong>$23.45</strong> is pending and needs your immediate confirmation.</p>
+  <p>To receive your refund, please confirm your account information by following one of the links below:</p>
+  <ul>
+    <li><a href="http://123.45.67.89/confirm"></a> (Confirm your refund)</li>
+    <li><a href="http://modal-bank.com/popup">here</a> to confirm via secure modal.</li>
+    <li><a href="http://98.76.54.32/process">https://secure.bank.com/confirm</a></li>
+  </ul>
+  <p>For assistance, visit our <a href="https://bank.com/help">Help Center</a> or review our <a href="https://bank.com/privacy-policy">Privacy Policy</a>.</p>
+  <p>Thank you,<br/>Secure Bank Security Team</p>
+</body>
+</html>
+
+----=_Part_0_123456.987654321--

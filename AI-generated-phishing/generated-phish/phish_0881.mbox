@@ -1,0 +1,52 @@
+From support@securebank.com Tue Jun 22 09:15:00 2021
+Return-Path: <support@securebank.com>
+Delivered-To: user@victim.com
+Date: Tue, 22 Jun 2021 09:15:00 -0500
+From: "SecureBank Support" <support@securebank.com>
+To: user@victim.com
+Subject: URGENT: Unusual Sign-In Detected – Verify Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_78910"
+
+----=_Part_123456_78910
+Content-Type: text/plain; charset=UTF-8
+
+URGENT SECURITY NOTICE:
+
+Dear Customer,
+
+We detected an UNUSUAL SIGN-IN from a new device. Your SecureBank account will be LOCKED in 24 hours unless you verify your identity IMMEDIATELY.
+
+Please visit one of the links below to verify now:
+1) https://securebank.verify-account.com/confirm
+2) https://securebank.com.verify.secure-login.update/reset
+3) https://securebank.unusual.signin.attention/verify
+
+Reset your password here:
+https://securebank.login-update.info/reset
+
+Need help? click here: https://help.securebank-account.verify-now.com/support
+
+Failure to act will cause PERMANENT ACCOUNT LOCKOUT.
+
+SecureBank Support Team
+
+----=_Part_123456_78910
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <h2 style="color:#D8000C;">URGENT SECURITY ALERT</h2>
+    <p>Dear Customer,</p>
+    <p>We have detected an <strong style="color:#D8000C;">unusual sign-in</strong> attempt on your SecureBank account. To prevent immediate account suspension, you must <strong>verify your identity within 24 hours</strong>.</p>
+    <p><a href="http://securebank.verify-account.com/confirm" style="font-size:16px;color:#00529B;font-weight:bold;">Verify Your Account Now</a></p>
+    <p><a href="http://securebank.verify-account.com/confirm"><img src="https://securebank.com/assets/verify-button.png" alt="Verify Now" /></a></p>
+    <p>Your password <em>expires today</em>. Reset it immediately by visiting: <a href="http://securebank.login-update.info/reset" title="Reset Password">https://securebank.com/reset</a></p>
+    <p>If you have questions, <a href="http://help.securebank-account.verify-now.com/support">click here</a> for assistance.</p>
+    <p><small>Privacy Policy: <a href="https://securebank.com/privacy-policy">https://securebank.com/privacy-policy</a></small></p>
+    <p style="color:#D8000C;">Failure to act IMMEDIATELY will result in permanent LOCKOUT.</p>
+    <p>Thank you,<br/>SecureBank Support Team</p>
+  </body>
+</html>
+
+----=_Part_123456_78910--

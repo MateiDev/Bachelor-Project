@@ -1,0 +1,46 @@
+From support@paypal.com Sat May 18 11:15:30 2024
+Return-Path: <support@paypal.com>
+From: "PayPal Support" <support@paypal.com>
+Reply-To: <security@paypal-alerts.com>
+To: victim@example.com
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_abcdef"
+
+----=_NextPart_000_abcdef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+For security reasons, your PayPal account password must be verified immediately. Failure to do so will result in suspension.
+
+Please visit the following links to verify your account:
+https://www.paypal.com/verify
+http://192.0.2.123/login.html
+
+Thank you,
+PayPal Security Team
+
+----=_NextPart_000_abcdef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Urgent: Account Password Update</title>
+</head>
+<body>
+<p>Dear PayPal User,</p>
+<p>We detected <strong>unusual activity</strong> on your account. You must <strong>verify your password</strong>
+<a href="http://192.0.2.123/login.html"></a> immediately to avoid suspension!</p>
+<p>For additional details, visit <a href="http://phishingsite.com/help">https://www.paypal.com/help</a> or view our <a href="https://www.paypal.com/legalprivacy">Privacy Policy</a>.</p>
+<p>Access your account securely: <a href="http://203.0.113.45/secure">http://www.paypal.com/secure</a></p>
+<p>Click <a href="http://fake-secure.paypal.verify.com/login">here</a> to confirm your details.</p>
+<p><a href="http://malicious.example.com/"><img src="http://phishingsite.com/logo.png" alt="PayPal Logo"></a></p>
+<p>Thank you for your prompt attention.</p>
+</body>
+</html>
+
+----=_NextPart_000_abcdef--

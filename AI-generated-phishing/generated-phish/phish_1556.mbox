@@ -1,0 +1,22 @@
+From secure-alert@portal-bank.com Fri Jul 15 09:17:32 2022
+Return-Path: <secure-alert@portal-bank.com>
+From: "Portal Security Alert" <security@portal-bank.com>
+Reply-To: <admin@portal-security-support.com>
+To: user123@recipientdomain.com
+Subject: Urgent Account Password Alert
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong style="color:red;">Immediate Action Required:</strong> We have detected multiple failed sign-in attempts on your account. Your account is now locked for your protection.</p>
+    <p>To restore access, please verify your credentials immediately. Click below:</p>
+    <p><a href="https://secure.login.portal-bank.com.alert.verification-service.net/portal/login">https://portal-bank.com/login</a></p>
+    <p>If you do not act within 24 hours, your account will be permanently suspended.</p>
+    <p>For assistance, <a href="http://verify.portal-support-update.info/auth">click here</a> to proceed.</p>
+    <p>Review our privacy policy: <a href="https://portal-bank.com/privacy"></a></p>
+    <hr>
+    <p>This is a system-generated message. Do not reply to this email.</p>
+  </body>
+</html>

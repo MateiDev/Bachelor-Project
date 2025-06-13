@@ -1,0 +1,55 @@
+From service@paypal.com Wed Mar 15 08:00:00 2023
+Date: Wed, 15 Mar 2023 08:00:00 -0800
+From: "PayPal" <service@paypal.com>
+Reply-To: <support@paypal.security-alerts.com>
+To: customer@mail.com
+Subject: Urgent: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_1234_01D9C5A2.12345678"
+
+----=_Part_000_1234_01D9C5A2.12345678
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your PayPal account. To ensure your account remains secure, please verify your login credentials immediately.
+
+Go to the following link to verify your account:
+https://www.paypal.com/security/verify
+
+Failure to verify your account will result in limited access.
+
+Thank you,
+PayPal Security Team
+
+----=_Part_000_1234_01D9C5A2.12345678
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We detected <strong>unusual activity</strong> on your PayPal account. To ensure your account remains secure, please verify your login credentials immediately.</p>
+<p>Click the link below to verify your account:</p>
+<p>
+<a href="http://update.verify.paypal-alert.com/login">https://www.paypal.com/security/verify</a>
+</p>
+<p>Alternatively, click the image below to proceed:</p>
+<p>
+<a href="http://update.verify.paypal-alert.com/login">
+<img src="http://paypal.com/images/verify_account.png" alt="Verify Account"/>
+</a>
+</p>
+<p style="display:none;">
+<a href="http://update.verify.paypal-alert.com/login"></a>
+</p>
+<p>Failure to verify your account will result in limited access.</p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+
+----=_Part_000_1234_01D9C5A2.12345678--

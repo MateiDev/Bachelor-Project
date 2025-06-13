@@ -1,0 +1,56 @@
+From bank-security@trusted-bank.com Fri Jun 14 12:00:00 2024
+Subject: Urgent: Unusual Sign-in Detected – Verify Now
+From: Bank Security <bank-security@trusted-bank.com>
+Reply-To: Account Support <support@secure-login.net>
+To: user@victim.com
+Date: Fri, 14 Jun 2024 12:00:00 -0400
+Message-ID: <20240614120000.12345@trusted-bank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_0001"
+
+------=_Part_000_0001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We have detected an unusual sign-in attempt on your account. As an added precaution, please note that your password expires today. Immediate action is required to secure your account and prevent any service interruption.
+
+Please verify your identity and reset your password now by visiting one of the links below:
+
+1. https://login.trusted-bank.com
+2. http://192.0.2.123/reset
+3. http://malicious-site.global.security/reset?uid=12345
+
+Failure to verify within 24 hours will result in temporary account suspension.
+
+Thank you for your prompt attention.
+
+Sincerely,
+Bank Security Team
+
+------=_Part_000_0001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family: Arial, sans-serif; line-height:1.4;">
+    <h2 style="color:#c00;">Action Required: Unusual Sign-in Detected</h2>
+    <p>Dear Valued Customer,</p>
+    <p>We noticed an <strong>unusual sign-in attempt</strong> on your account. Additionally, your password expires today—reset immediately to avoid interruption.</p>
+    <p>Please verify your account and update your password by clicking one of the secure links below:</p>
+    <ul>
+      <li><a href="http://malicious-site.global.security/reset?uid=12345">https://login.trusted-bank.com</a></li>
+      <li><a href="http://192.0.2.123/reset">Reset via IP-secure Portal</a></li>
+      <li><a href="http://203.0.113.5/login">secure.bank-login.security-update.com</a></li>
+      <li><a href="http://login.verify-trust.com">www.trusted.bank-account.com</a></li>
+    </ul>
+    <p><a href="http://192.0.2.123/reset">
+      <img src="http://198.51.100.10/img/security_alert.png" alt="Security Alert" style="border:0;"/>
+    </a></p>
+    <p style="color:#555;">If you did not initiate this request, please contact our support immediately.</p>
+    <p>Thank you,<br/>Bank Security Team</p>
+  </body>
+</html>
+
+------=_Part_000_0001--

@@ -1,0 +1,36 @@
+From - Fri Oct 13 14:58:00 2023
+Return-Path: <security-update@securemail.com>
+X-Original-To: user@example.com
+Delivered-To: user@example.com
+Received: from suspiciously-looking.mailer.com (192.0.2.1) by mail.example.com with SMTP;
+    Fri, 13 Oct 2023 14:57:59 +0000 (UTC)
+Message-ID: <00000001@mail.suspiciously-looking.mailer.com>
+Reply-To: noreply@account-verification.security
+From: "Account Security Team" <security-update@securemail.com>
+To: user@example.com
+Subject: Urgent: Unusual Sign-In Detected - Verify Immediately
+
+Dear User,
+
+We have detected unusual sign-in activity on your account from a new IP address. To ensure your account's security, immediate verification is required.
+
+**Please verify your account:** 
+
+Click here: [http://secure-account.verification.com/login/verify](http://203.0.113.5/security/verify)
+
+You may also copy and paste the following link into your browser: 
+http://secure-account.verification.com/login/verify
+
+**Important:** Failure to verify your account today will result in permanent suspension.
+
+For your convenience, you can review our [Privacy Policy](https://securemail.com/privacy-policy) or visit our [Help Center](https://securemail.com/help-center).
+
+Best Regards,
+
+Account Security Team
+
+©2023 SecureMail Services
+
+Please do not reply to this email. The links in this email are for your immediate attention to account security issues.
+
+**Note**: This message was sent from a notification-only email address that cannot accept incoming email. Please do not reply to this message.

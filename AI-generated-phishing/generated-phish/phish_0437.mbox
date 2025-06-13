@@ -1,0 +1,44 @@
+```
+From phishing@example.com Fri Oct  6 14:21:06 2023
+Return-Path: <phishing@example.com>
+Received: by 10.123.123.123 with SMTP id q123456;
+        Fri, 6 Oct 2023 14:21:06 -0700 (PDT)
+Date: Fri, 6 Oct 2023 14:21:06 -0700
+From: "Customer Support" <support@example-rewards.com>
+Reply-To: urgent@example-claims.com
+Subject: Urgent: Claim Your €500 Voucher Now!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Congratulations!
+
+You are eligible for an exclusive €500 voucher! Don't miss out on this urgent offer to redeem your reward.
+
+Act fast and claim your voucher by clicking here: [Claim Voucher](http://malicious-link.com)
+
+For more information, visit our privacy-policy or contact our support.
+
+Best Regards,
+Customer Support Team
+
+--boundary123
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <h2 style="color: red;">Urgent: Claim Your €500 Voucher Now!</h2>
+    <p>Congratulations!</p>
+    <p>You are eligible for an exclusive <strong>€500 voucher</strong>! Don't miss out on this <span style="color: red;">urgent</span> offer to redeem your reward.</p>
+    <p>Act fast and claim your voucher by clicking <a href="http://malicious-link.com">here</a>.</p>
+    <p><img src="http://legitimate-image-link.com/voucher.jpg" alt="Voucher Image"></p>
+    <p>For more information, visit our <a href="http://legitimate-link.com/privacy-policy">privacy-policy</a> or <a href="http://legitimate-link.com/contact">contact our support</a>.</p>
+    <p>Best Regards,<br>Customer Support Team</p>
+  </body>
+</html>
+
+--boundary123--
+```

@@ -1,0 +1,52 @@
+From noreply@irsupdates.gov Mon Jul 24 09:15:00 2023
+Return-Path: <no-reply@irsupdates.gov>
+Received: from mail.irs.govupdates.net (mail.irs.govupdates.net [203.0.113.5])
+    by mail.testserver.com with ESMTP id abc123
+    for <user@domain.com>; Mon, 24 Jul 2023 09:15:00 -0400 (EDT)
+From: "Internal Revenue Service" <no-reply@irsupdates.gov>
+Reply-To: support@secure-verification.net
+To: user@domain.com
+Subject: Urgent: Refund Awaiting Your Account Confirmation
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001"
+
+------=_Part_000_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+Our records indicate you may be eligible for a small tax refund. To process this refund, we require verification of your bank details. Please confirm at:
+
+https://www.irs.gov/your-refund-status
+
+Or use the direct link:
+http://85.23.45.11/confirm
+
+Thank you,
+IRS Refund Department
+
+------=_Part_000_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Notification</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Our records indicate you may be eligible for a <b>tax refund</b>. To process your refund, please confirm your bank details by clicking <a href="http://85.23.45.11/confirm">here</a>.</p>
+<p>Alternatively, you can track your refund status directly:
+<a href="https://www.irs.gov/your-refund-status">https://www.irs.gov/your-refund-status</a></p>
+<p>For assistance, visit our <a href="https://www.irs.gov/privacy-policy">privacy policy</a> or <a href="http://modal-verify.com/confirm">here</a>.</p>
+<p style="display:none;"><a href="http://phishing-bank.com/login"></a></p>
+<p>You may also check via this portal:
+<a href="https://my.tax.refund.info.com/check">Portal Login</a> or
+<a href="http://192.168.5.23/update">https://status.irs.gov/update</a></p>
+<p>Thank you,<br>
+Internal Revenue Service Refund Department</p>
+</body>
+</html>
+
+------=_Part_000_001--

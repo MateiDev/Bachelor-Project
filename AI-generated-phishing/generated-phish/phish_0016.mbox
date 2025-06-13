@@ -1,0 +1,42 @@
+```mbox
+From - Mon Oct 30 12:34:56 2023
+From: "Security Team" <security-notice@secure-account.com>
+Reply-To: noreply@account-notification.biz
+To: "Valued User" <user@example.com>
+Subject: Urgent: Action Required - Unusual Sign-In Attempt Detected
+Date: Mon, 30 Oct 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--=_Part_12345678"
+
+----=_Part_12345678
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected an unusual sign-in attempt on your account. Immediate action is required to secure your information. If you do not verify your account, it may be suspended. Please follow the link below to verify your identity and secure your account:
+
+Verify Now: http://secure-user.verify-login.asp.net/security-alert
+
+Thank you for your attention to this urgent matter.
+
+Sincerely,
+Security Team
+
+----=_Part_12345678
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+    <body>
+        <p>Dear User,</p>
+        <p>We have detected an <strong>unusual sign-in attempt</strong> on your account. Immediate action is required to secure your information. Failure to verify your account may result in suspension. Please follow the link below to verify your identity and secure your account:</p>
+        <p><a href="http://secure-user.verify-login.asp.net/security-alert"></a></p>
+        <p><a href="http://login.account-security.confirm-now.mng.net/verify">Verify Now</a></p>
+        <p>Thank you for your attention to this <em>urgent matter</em>.</p>
+        <p>Sincerely,<br>Security Team</p>
+    </body>
+</html>
+
+----=_Part_12345678--
+```

@@ -1,0 +1,44 @@
+```
+From MAILER-DAEMON Thu Jun 24 18:28:25 2023
+Return-Path: <security-alert@securemail-service.com>
+Received: from unknown (HELO securemail-alert.com) (192.168.1.100)
+  by yourdomain.com with SMTP; Thu, 24 Jun 2023 18:28:25 -0700
+Date: Thu, 24 Jun 2023 21:28:22 -0400
+From: SecureMail Support <security-alert@securemail-service.com>
+Reply-To: noreply@secured-alert.com
+Subject: Urgent: Immediate Action Required To Restore Your Email Access
+To: victim@yourdomain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual activity on your email account. Immediate verification is required to prevent suspension. Please confirm your identity by visiting the secure link below.
+
+Thank you,
+SecureMail Support Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unusual activity</strong> on your email accoun=
+t. <span style="color: red;">Immediate verification is required</span> to pre=
+vent suspension. Please confirm your identity by visiting the <a hr=ef="//93.=
+184.216.34/secureverify" style="color:blue;">&#8203;</a> below.</p>
+    <p>Visit this <a href="//203.0.113.45/secureportal">&#8203;</a> to restore=
+ access.</p>
+    <p>Thank you,<br>
+    SecureMail Support Team</p>
+  </body>
+</html>
+
+--boundary-string--
+```

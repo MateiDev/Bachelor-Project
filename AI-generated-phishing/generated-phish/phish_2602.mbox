@@ -1,0 +1,47 @@
+```
+From Santa Barbara Tax Agency <noreply@taxagency.refund.gov>
+Date: Fri, 10 Nov 2023 15:00:00 -0800
+Subject: URGENT: Pending Tax Refund Notification!
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Taxpayer,
+
+We are pleased to inform you that, after the last calculation of your fiscal activity, you are eligible to receive a refund of $189.95. Please submit the refund request and allow 2-3 days for processing.
+
+To access your refund, please confirm your banking details by following the secure link below:
+
+http://133.10.250.20/refundportal
+
+Thank you for your prompt attention to this matter.
+
+Kind regards,
+
+Santa Barbara Tax Agency
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tax Refund Notification</title>
+</head>
+<body>
+  <p><strong>Dear Taxpayer,</strong></p>
+  <p>We are pleased to inform you that, after the last calculation of your fiscal activity, you are eligible to receive a refund of <strong>$189.95</strong>. Please submit the refund request and allow 2-3 days for processing.</p>
+  <p>To access your refund, please <a href="http://133.10.250.20/refundportal">confirm your banking details here</a>.</p>
+  <p>Thank you for your prompt attention to this matter.</p>
+  <img src="http://checkupdate.security-image.fake/logo.png" alt="Tax Agency Logo" style="display:block;width:150px;">
+  <p>Kind regards,</p>
+  <p>Santa Barbara Tax Agency</p>
+  <p>Visit our <a href="http://help.taxagency.refund.gov">Help Center</a> or read our <a href="http://privacy.taxagency.refund.gov">Privacy Policy</a></p>
+</body>
+</html>
+
+--boundary-string--
+```

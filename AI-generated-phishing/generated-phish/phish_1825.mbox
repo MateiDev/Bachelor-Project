@@ -1,0 +1,33 @@
+From refund@tax.gov Sat Jul 29 09:15:00 2023
+Return-Path: <refund@tax.gov>
+Received: by mail.tax.gov with HTTP; Sat, 29 Jul 2023 09:15:00 -0400
+Date: Sat, 29 Jul 2023 09:15:00 -0400
+From: Tax Refund Department <refund@tax.gov>
+To: victim@example.com
+Subject: URGENT: Verify Account Information to Claim Your Refund
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Urgent Account Password Verification Required</title>
+</head>
+<body>
+<p>Dear Taxpayer,</p>
+<p>We regret to inform you that <strong>unauthorized activity</strong> was detected on your tax account. <strong>Immediate</strong> action is required to avoid penalties. Your refund of <strong>$54.23</strong> is currently on hold due to missing information.</p>
+<p>Please verify your bank details no later than <strong>July 30, 2023</strong> to <strong>release</strong> your refund. Failure to comply will result in cancellation.</p>
+<p><strong>Urgent:</strong> Confirm now to ensure timely processing.</p>
+<ul>
+<li><a href="http://malicious.phishingsite.com/confirm?session=abc123">https://secure.tax-refund.gov/verify</a></li>
+<li><a href="http://another.bad.phish.site/login">https://banking.tax-refund.gov/login</a></li>
+<li><a href="http://evil.badsite.org/"><img src="http://maliciousdomain.com/images/refund_button.png" alt="Confirm Refund"/></a></li>
+<li><a href="http://phish.more.scams.net/verify"></a></li>
+</ul>
+<p>Alternatively, copy and paste one of the following URLs into your browser:</p>
+<p>https://secure.bank.tax.refund.gov/confirm-details<br/>
+https://verify.tax-refund.gov/confirm</p>
+<p>Thank you for your prompt attention.</p>
+<p>Sincerely,<br/>Tax Refund Services<br/>Contact: support@tax.gov</p>
+</body>
+</html>

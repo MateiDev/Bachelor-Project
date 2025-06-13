@@ -1,0 +1,30 @@
+From me@phishy.com Tue Oct 24 07:42:10 2023
+Return-Path: <me@phishy.com>
+Delivered-To: victim@example.com
+Received: from unknown (HELO phishy.com) (192.0.2.1)
+  by mx.example.com with SMTP; Tue, 24 Oct 2023 07:42:10 -0000
+From: "Support Team" <support@phishy.com>
+To: victim@example.com
+Subject: Urgent: Action Required - Unusual Sign-In Detected on Your Account
+Date: Tue, 24 Oct 2023 07:42:10 -0000
+Message-ID: <phish1234567890@phishy.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+
+<p>Dear Customer,</p>
+
+<p>We have detected <strong>unusual sign-in activity</strong> on your account which prompts immediate action to secure your information. Our system identified an attempt to access your account from an unrecognized device on <strong>October 24, 2023</strong>. To ensure your account's safety, verify your identity right away. <span style="color:#ff0000;">Failure to do so will result in temporary suspension of your account.</span></p>
+
+<p>Please <a href="http://example.scam-site.com/login">click here</a> to verify your details and secure your account.</p>
+
+<p>For more information, you can visit our <a href="http://example.com/privacy">Privacy Policy</a> or <a href="http://example.com/help"></a>.</p>
+
+<p>If you are unable to verify, your account will be locked within 24 hours.</p>
+
+<p>Thank you,<br>Your Account Security Team</p>
+
+</body>
+</html>

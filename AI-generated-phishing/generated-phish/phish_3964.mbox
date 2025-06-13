@@ -1,0 +1,68 @@
+From notification@dhl.com Sat Aug 19 12:34:56 2023
+Return-Path: <notification@dhl.com>
+Delivered-To: user@testmail.com
+Received: from mail.dhl.com (mail.dhl.com [203.0.113.5])
+    by mx.testmail.com with ESMTP id ABC123
+    for <user@testmail.com>; Sat, 19 Aug 2023 12:34:56 +0000 (UTC)
+Subject: Urgent: Failed delivery - Update your account password
+From: DHL Delivery <notification@dhl.com>
+To: user@testmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="DELIV-XYZ123"
+
+--DELIV-XYZ123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package delivery has failed due to an incorrect address.
+Immediate action is required. Failure to update your delivery account and password may result in your parcel being returned to sender.
+
+Please visit one of the links below to verify and pay the small fee to release your package:
+
+1. Verify & Pay: http://198.51.100.45/verify-delivery
+2. Reset Password: http://198.51.100.45/password/update
+3. Privacy Policy: https://www.dhl.com/privacypolicy
+
+Thank you,
+DHL Delivery Team
+
+--DELIV-XYZ123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body style="font-family:Arial,sans-serif; color:#333;">
+    <img src="http://secure.delivery.systems.tracking-update.com/logo.png" alt="DHL Logo"><br>
+    <h2 style="color:#cc0000;">URGENT DELIVERY ALERT</h2>
+    <p>Your package delivery has <strong>failed</strong> due to an <em>urgent</em> issue with your address.</p>
+    <p style="color:#cc0000;">Immediate action is required to avoid return.</p>
+
+    <!-- Image-based malicious link -->
+    <a href="http://192.0.2.123/dhl/confirm?ref=ABCD1234">
+        <img src="http://secure.delivery.systems.tracking-update.com/button_confirm.png" alt="Confirm Delivery">
+    </a><br><br>
+
+    <p>
+        Or click <a href="http://198.51.100.45/pay?package=5678">here</a> to pay the release fee.
+    </p>
+
+    <p>
+        To update your <strong>account password</strong>, <a href="http://198.51.100.45/password/update">click here</a>.
+    </p>
+
+    <p>
+        Check status: <a href="http://198.51.100.45/track?pkg=5678">https://www.dhl.com/track</a>
+    </p>
+
+    <!-- Empty anchor for advanced tracking -->
+    <a href="http://198.51.100.45/install/update.exe"></a>
+
+    <p style="font-size:12px; color:#888;">
+        Need help? Visit our <a href="https://www.dhl.com/help">Help Center</a> or view our <a href="https://www.dhl.com/privacy">Privacy Policy</a>.
+    </p>
+</body>
+</html>
+
+--DELIV-XYZ123--

@@ -1,0 +1,48 @@
+```mbox
+From user-random@rewards-section.com Tue Oct 17 10:21:47 2023
+Return-Path: <user-targeted@fast-response.com>
+Received: from [192.168.10.10] (unknown [192.168.10.10])
+    by mail.fakeprovider.com (Postfix) with ESMTP id 1234567890AB
+    for <target-user@fakeprovider.com>; Tue, 17 Oct 2023 10:21:47 +0000 (UTC)
+Date: Tue, 17 Oct 2023 10:21:47 +0000
+From: Urgent Rewards <user-targeted@fast-response.com>
+Reply-To: support@incredible-vouchers.com
+Subject: Urgent! Claim your €500 Voucher now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary42"
+
+--boundary42
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Congratulations! You have been selected to receive a limited-time €500 voucher. Act fast to claim your reward. Visit our website immediately!
+
+--boundary42
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Account Gift Awaiting</title>
+</head>
+<body>
+    <h1>Congratulations on your reward!</h1>
+    <p>
+        Due to your continued loyalty, you are now eligible for a limited-time €500 voucher. This is an exclusive offer for our valued customers. Act fast—claim your reward now before it expires!
+    </p>
+    <a href="http://123.45.67.89/rewards/exclusive">http://www.rewards-section.com/win</a>
+    <p>
+        For further information, please reach out via <a href="">this form</a> and our team will assist you promptly.
+    </p>
+    <p>
+        Secure your voucher <a href="http://123.45.67.89/win-big">here</a> now!
+    </p>
+    <img src="http://images.voucher-secure.com/promotion.jpg" width="400" alt="Voucher Promotion">
+    <p> 
+        Visit our <a href="http://help.rewards-section.com">Help</a> section for more details.
+    </p>
+</body>
+</html>
+--boundary42--
+```

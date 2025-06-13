@@ -1,0 +1,60 @@
+From mailer-daemon@localhost Mon Jul 24 12:34:56 2023
+Return-Path: <notifications@paypal.com>
+Received: from mailstore1.evil.com (unknown [198.51.100.23]) by mail.paypal.com with SMTP id ABC123; Mon, 24 Jul 2023 12:34:56 -0700 (PDT)
+Reply-To: support@198.51.100.23
+From: "PayPal Security" <notifications@paypal.com>
+To: john.doe@domain.com
+Subject: Urgent: Your PayPal Account Password Requires Immediate Attention
+Date: Mon, 24 Jul 2023 12:34:56 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.1658648096000"
+
+------=_Part_0_123456.1658648096000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your PayPal account. To secure your funds, you must verify your login credentials immediately.
+
+Please visit the link below to secure your account:
+https://www.paypal.com/login
+
+If you do not complete this verification within 24 hours, your account will be limited.
+
+Thank you,
+PayPal Security Team
+
+------=_Part_0_123456.1658648096000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>Urgent Account Alert</title>
+</head>
+<body>
+  <p>Dear Customer,</p>
+  <p>We detected <b>suspicious activity</b> on your PayPal account and it is at risk. To protect your <i>account</i> and <i>password</i>, you must verify your login details <u>now</u>.</p>
+  <p>
+    <a href="http://203.0.113.45/verify?user=12345" title="urgent account verification">
+      <img src="http://secure.login.paypal.verify-security.net/img/secure.png" alt="Secure your account" />
+    </a>
+  </p>
+  <p>
+    Or you can <a href="http://203.0.113.45/login">click here</a> to verify.
+  </p>
+  <p>
+    You can also go directly to <a href="http://evil.sub.domain.verify-login.paypal.com">https://www.paypal.com/login</a>
+  </p>
+  <p>
+    <a href="http://198.51.100.45/privacy-policy"></a>
+  </p>
+  <p>
+    If you do not complete this within <b>24 hours</b>, your account will be permanently limited.
+  </p>
+  <p>Thank you,<br/>PayPal Security Team</p>
+</body>
+</html>
+
+------=_Part_0_123456.1658648096000--

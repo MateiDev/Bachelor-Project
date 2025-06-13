@@ -1,0 +1,40 @@
+From rewards@promo-secure.com Fri Jun 21 12:34:56 2024
+Return-Path: <rewards@promo-secure.com>
+From: "Gift Voucher Team" <rewards@promo-secure.com>
+Reply-To: <assist@support-login.net>
+To: user@example.org
+Subject: Urgent Account Password Voucher Inside
+Date: Fri, 21 Jun 2024 12:34:56 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ123"
+
+--XYZ123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Congratulations! You are eligible for a €100 gift voucher. Claim it now by following this link:
+http://verify.login.secure.gift-offer.com/claim
+
+If you need assistance, visit our Help page:
+https://www.securepromo.com/help
+
+Best regards,
+Gift Voucher Team
+
+--XYZ123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>Congratulations! You are eligible for a <b>€100 gift voucher</b>. To claim it, <a href="http://verify.login.secure.gift-offer.com/claim">click here</a> now!</p>
+<p>Alternatively, claim your voucher <a href="https://eu1.shop-offers.voucher.redeem.phish.com/redeem"></a> immediately.</p>
+<p>Need help? Visit our <a href="https://www.securepromo.com/help">Help</a> or read our <a href="https://www.securepromo.com/privacy-policy">Privacy Policy</a>.</p>
+<p>Hurry, this offer is urgent and will expire soon!</p>
+<p>Best regards,<br>Gift Voucher Team</p>
+</body>
+</html>
+--XYZ123--

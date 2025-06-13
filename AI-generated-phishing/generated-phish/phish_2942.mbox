@@ -1,0 +1,60 @@
+```
+From - Thu Oct 26 15:35:09 2023
+X-Account-Key: account2
+X-UIDL: 3c9f030cdcb4187c3a7c9e7f6c7fad55
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-path: <phishingalerts@secure-logins.com>
+Envelope-to: victim@example.com
+Delivery-date: Thu, 26 Oct 2023 15:35:08 +0000
+Received: from secure-logins.com (192.168.1.100) by mail.example.com with SMTP; Thu, 26 Oct 2023 15:35:08 +0000
+Date: Thu, 26 Oct 2023 15:35:07 +0000
+Subject: Urgent: Unusual Sign-In Activity Detected!
+X-Priority: 1 (Highest)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="---=_Part_6179237_325691410.63102081"
+
+-----=_Part_6179237_325691410.63102081
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected unusual sign-in activity on your account. To protect your security, you must verify your identity. Follow the link below immediately:
+
+Verify now - http://www.example.com/verify
+
+Failure to comply will lead to access restriction. Your immediate attention is needed.
+
+Regards,
+Security Team
+
+-----=_Part_6179237_325691410.63102081
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+   <title>Account Alert</title>
+</head>
+<body>
+   <h2 style="color:red;">Urgent: Unusual Sign-In Activity Detected!</h2>
+   <p>Dear User,</p>
+   <p>We have detected unusual sign-in activity on your account. To protect your account, please verify your identity <a href="http://192.168.1.105/verify">here</a>. You must take action immediately to avoid any restrictions.</p>
+   <p>Your account password expires today. <a href="http://suspicious-site.com/reset">Reset Password</a> now to keep your account active.</p>
+   
+   <img src="http://192.168.1.200/image.jpg" alt="Security Alert" />
+   
+   <a href="http://192.168.1.200/privacy">Privacy Policy</a> | 
+   <a href="http://192.168.1.200/help">Help</a> 
+   
+   <p>Regards,</p>
+   <p>Security Team</p>
+
+   <p><a href="http://192.168.1.200"></a></p>
+</body>
+</html>
+
+-----=_Part_6179237_325691410.63102081--
+```

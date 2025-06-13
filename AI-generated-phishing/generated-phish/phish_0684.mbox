@@ -1,0 +1,52 @@
+From security@bankupdates.com Fri Jun 07 12:34:56 2024
+Return-Path: <security@bankupdates.com>
+Received: from mail.bankupdates.com (mail.bankupdates.com [198.51.100.23])
+    by mx.yourdomain.com with ESMTP id ABC123
+    for <user@mybank.com>; Fri, 07 Jun 2024 12:34:56 -0400 (EDT)
+From: "Bank Security Team" <security@bankupdates.com>
+Reply-To: "Customer Support" <support@customer-help.com>
+To: user@mybank.com
+Subject: Security Alert: Unusual Sign-In Detected – Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_0"
+
+------=_Boundary_0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in to your account from a new device. To secure your account, please verify your identity immediately. Additionally, your password expires today – reset immediately to avoid interruption.
+
+Verify here: https://auth.bankupdates.com/signin
+
+Or visit: http://203.0.113.10/reset-password
+
+Thank you,
+Bank Security Team
+
+------=_Boundary_0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected an <strong>unusual sign-in</strong> to your account from a <em>new device</em>. To secure your account, please <strong>verify now</strong>. Additionally, your password <strong>expires today</strong> – <em>reset immediately</em> to avoid interruption.</p>
+    <p>
+      <a href="http://192.168.1.100/login">https://auth.bankupdates.com/signin</a><br />
+      <a href="http://203.0.113.10/reset-password">Reset Password</a>
+    </p>
+    <p>
+      <a href="http://192.168.1.100/verify">
+        <img src="http://images.secure.bankupdates.com/verify-now.png" alt="Verify Now" style="border:0;" />
+      </a>
+    </p>
+    <p>
+      <a href="http://203.0.113.10/opened"></a>
+    </p>
+    <p>Thank you,<br/>Bank Security Team</p>
+  </body>
+</html>
+
+------=_Boundary_0--

@@ -1,0 +1,49 @@
+From phishing@securemail.com Wed Sep 13 12:34:56 2023
+Return-Path: <alert@securemail.com>
+From: "SecureMail Alert" <alert@securemail.com>
+Reply-To: admin@secure-update.net
+To: victim@example.com
+Subject: URGENT: Account Password Verification Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_00001_0000000"
+
+------=_Part_00001_0000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear SecureMail User,
+
+We have detected suspicious activity on your account. This is an urgent security alert.
+To secure your account and prevent immediate suspension, please verify your credentials by visiting the link below immediately:
+
+https://securemail.com.review.verification.portal/login
+
+Alternatively, use the links:
+https://securemail.com/privacy-policy
+https://securemail.com/help
+
+Failure to verify your password promptly may result in account suspension.
+
+Best regards,
+SecureMail Support Team
+
+------=_Part_00001_0000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Password Verification</title>
+</head>
+<body>
+<p>Dear SecureMail User,</p>
+<p>We have detected <strong>suspicious activity</strong> on your account. This is an <em>urgent</em> security <strong>alert</strong>! To secure your account and prevent <span style="color:red;">immediate suspension</span>, please verify your credentials by <strong><a href="http://192.0.2.123/verify">click here</a></strong>.</p>
+<p><a href="http://192.0.2.123/secure/login.php"><img src="http://198.51.100.45/images/security.png" alt="Secure Verification" width="200" height="50"/></a></p>
+<p>If the image is not visible, <a href="http://198.51.100.45/login?id=abc123"></a> or visit <a href="http://malicious-phish.example.net/portal/login">https://securemail.com.portal.verify.login/</a></p>
+<p>For more information, see our <a href="https://securemail.com/privacy-policy">Privacy Policy</a> and <a href="https://securemail.com/help">Help Center</a>.</p>
+<p>Failure to comply immediately will result in <strong>account suspension</strong>.</p>
+<p>Best regards,<br/>SecureMail Support Team</p>
+</body>
+</html>
+
+------=_Part_00001_0000000--

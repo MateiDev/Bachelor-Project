@@ -1,0 +1,29 @@
+```mbox
+From email-alerts@secure-update.com Wed Oct 18 21:12:34 2023
+Return-Path: <email-alerts@secure-update.com>
+Delivered-To: user@example.com
+Received: from unknown (HELO vpn253.server.com) (102.54.23.81)
+    by mail.example.com with SMTP; Wed, 18 Oct 2023 21:12:34 -0700 (PDT)
+Message-ID: <872334900.34.21C9BC918@secure-update.com>
+Date: Wed, 18 Oct 2023 21:12:34 -0700 (PDT)
+From: Account Security <email-alerts@secure-update.com>
+Reply-To: noreply@alert-center.com
+Subject: Action Required: Verify Your Account Now
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <h2 style="color: red;">Unusual Sign-In Activity Detected</h2>
+    <p>Dear user,</p>
+    <p>We have detected unusual sign-in activity on your account. For your security, please <a href="http://192.168.10.20/secure-update" style="color: blue;">CLICK HERE</a> to verify your account immediately.</p>
+    <p>Failure to verify your account will result in a temporary suspension.</p>
+    <h3>Password Expiry Alert</h3>
+    <p>Your password expires today. Please <a href="http://secure-update.com/reset" style="color: blue;">reset it immediately</a> to avoid any disruptions to your account access.</p>
+    <p>Alternatively, you can manage your account settings by visiting <a href="http://safe-account-management.com">http://safe-account-management.com</a>.</p>
+    <p>For more information, please visit our <a href="http://secure-update.com//privacy-policy">Privacy Policy</a> or contact <a href="http://help.secure-update.com">Help Center</a>.</p>
+    <img src="http://secure-update.com/images/security-banner.png" alt="Security Update" width="400px"><br>
+    <a href="http://." style="display:inline-block;"></a>
+</body>
+</html>
+```

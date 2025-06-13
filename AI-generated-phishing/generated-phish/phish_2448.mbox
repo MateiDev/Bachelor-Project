@@ -1,0 +1,29 @@
+From phishing-simulator@domain.com Tue Apr 02 12:00:00 2024
+Return-Path: <no-reply@service-alert.com>
+Delivered-To: user@example.com
+Received: from sponsor.services [192.168.0.10] by mx.domain.com with ESMTP id ABC123; Tue, 02 Apr 2024 12:00:00 +0000
+Subject: Urgent: Reset Your Account Password to Claim Your € Voucher
+From: Service Alerts <alerts@service.com>
+Reply-To: support.team@secure-mail.login
+To: user@example.com
+Date: Tue, 02 Apr 2024 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>We have detected unusual activity on your account. To secure your data and claim your €50 voucher, you must <strong>reset your password</strong> immediately.</p>
+    <p>Click the link below to confirm your account and grab your reward:</p>
+    <ul>
+      <li><a href="http://203.0.113.5/claim">Click here to claim now</a></li>
+      <li><a href="http://203.0.113.5/password-reset">https://secure.giftcards.voucher.com</a></li>
+      <li><a href="http://203.0.113.5/reward"></a></li>
+      <li>Or copy-paste this link in your browser:<br>
+        http://login.agent.service.credentials.voucher.com/verify</li>
+    </ul>
+    <p>If you do not reset your password within 24 hours, your account will be temporarily suspended.</p>
+    <p>Thank you for your prompt attention.</p>
+    <p>Best regards,<br>Security Team</p>
+  </body>
+</html>

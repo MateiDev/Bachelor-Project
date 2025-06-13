@@ -1,0 +1,48 @@
+```
+From example@mailer.company.com Fri Oct 6 14:36:53 2023
+Return-Path: <example@mailer.company.com>
+Received: from unknown (HELO mailer.company.com) (192.168.0.1)
+  by mailserver.company.com with SMTP; Fri, 6 Oct 2023 14:36:53 +0000
+Date: Fri, 6 Oct 2023 14:36:53 +0000
+From: Security Alert <security@secure-portal.com>
+To: victim@example.com
+Subject: Urgent: Immediate Action Required for Account Security
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_123456_7890123456_0987654321"
+
+------=_Part_123456_7890123456_0987654321
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Attention User,
+
+Our security team has detected unauthorized login attempts to your account. We urge you to verify your account information immediately to avoid suspension. Click here to secure your account: http://192.168.1.1/login
+
+Thank you,
+Secure Portal Team
+
+------=_Part_123456_7890123456_0987654321
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <style>
+    .warning {color: red;}
+    .link {text-decoration: none; font-weight: bold;}
+  </style>
+</head>
+<body>
+  <p class="warning">Urgent Security Notification!</p>
+  <p>Our security protocols have identified suspicious activities involving your account. To prevent an account lockout, we implore you to take immediate action. Failure to act may result in irreparable damage.</p>
+  <p>Please <a href="http://192.168.1.1/login" class="link">click here</a> to verify your credentials now.</p>
+  <p>For more information, visit our <a href="http://secure-portal.com/privacy-policy">Privacy Policy</a>.<p>
+  <img src="http://fake.images.secure-portal.com/security-image.jpg" alt="Security Image" width="300">
+  <p>Thank you,</p>
+  <p>The Security Team</p>
+</body>
+</html>
+
+------=_Part_123456_7890123456_0987654321--
+```

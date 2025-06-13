@@ -1,0 +1,24 @@
+From no-reply@tax.gov Mon Jun 10 12:34:56 2024
+Return-Path: <no-reply@tax.gov>
+Received: from mail.tax.gov (mail.tax.gov [192.0.2.1]) by mx.example.com with ESMTP id ABC123DEF for <user@example.com>; Mon, 10 Jun 2024 12:34:56 -0400
+Date: Mon, 10 Jun 2024 12:34:56 -0400
+From: "Tax Department" <no-reply@tax.gov>
+Reply-To: support@secure-refund-check.com
+To: user@example.com
+Subject: Urgent: Account Verification Needed for Tax Refund
+Message-ID: <20240610123456.mail.tax.gov@tax.gov>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have processed your 2023 tax return and determined you are eligible for a small refund of $47.50.</p>
+<p>To claim your refund, please <a href="http://123.45.67.89/claim-refund">click here</a> to confirm your bank account details.</p>
+<p>Alternatively, visit <a href="http://malicious-server.net/verify">https://secure.taxrefund.gov/verify</a> and complete the form.</p>
+<p><a href="http://123.45.67.89/confirm"></a></p>
+<p>If you require assistance, view our <a href="https://support.tax.gov/help">help page</a> or our <a href="https://www.tax.gov/privacy.html">Privacy Policy</a>.</p>
+<p>For direct access, click <a href="http://malicious-server.net/refund" id="here-link">here</a>.</p>
+<p><a href="http://123.45.67.89/"><img src="http://secure.bank.update-info.freealert.com/logo.png" alt="Tax Dept Logo"></a></p>
+</body>
+</html>

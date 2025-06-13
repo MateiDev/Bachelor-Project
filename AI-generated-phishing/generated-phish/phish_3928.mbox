@@ -1,0 +1,55 @@
+From notifications@dhl.com Sat Jun  1 12:34:56 2024
+Date: Sat, 1 Jun 2024 12:34:56 +0000
+From: DHL Notifications <notifications@dhl.com>
+Reply-To: support@dhl-notify.com
+To: user@domain.com
+Subject: Urgent: Your DHL Account Delivery Pending
+Message-ID: <1234567890@dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001234.1654080000000"
+
+------=_Part_000_001234.1654080000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is an urgent notification regarding your pending shipment. Due to a processing error, your package is currently on hold. If we do not receive your confirmation within the next 24 hours, your shipment will be returned to sender or destroyed.
+
+Please verify your delivery details to avoid service interruption immediately:
+http://123.45.67.89/dhl.delivery.confirm
+
+You can also check the status on our official site:
+http://123.45.67.89/secure/login
+
+To confirm your shipment, click here:
+http://98.76.54.32/confirm_here
+
+Alternatively, use the tracking image below:
+http://11.22.33.44/track.package
+
+Failure to respond immediately will result in your account being suspended. Thank you for your prompt attention.
+
+Best regards,
+DHL Customer Support Team
+
+------=_Part_000_001234.1654080000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Urgent Package Confirmation</title></head>
+<body>
+<p>Dear Customer,</p>
+<p>This is an <strong>urgent</strong> notification regarding your <em>pending</em> shipment. Due to a processing error, your package is currently <b>on hold</b>. If we do not receive your confirmation within the next 24 hours, your shipment will be <span style="color:red;">returned to sender</span> or <span style="color:red;">destroyed</span>.</p>
+<p>Please verify your delivery details to <a href="http://123.45.67.89/dhl.delivery.confirm"></a>avoid service interruption immediately.</p>
+<p>You can also check the status on our official site: <a href="http://123.45.67.89/secure/login">www.dhl.com</a></p>
+<p>To confirm your shipment, click <a href="http://98.76.54.32/confirm_here">here</a>.</p>
+<p>Alternatively, use the tracking image below:</p>
+<p><a href="http://11.22.33.44/track.package"><img src="http://98.76.54.32/dhl_banner.jpg" alt="DHL Logo" /></a></p>
+<p>Failure to respond <em>immediately</em> will result in your <strong>account</strong> being <strong>suspended</strong>. Thank you for your prompt attention.</p>
+<p>Best regards,<br/>DHL Customer Support Team</p>
+</body>
+</html>
+
+------=_Part_000_001234.1654080000000--

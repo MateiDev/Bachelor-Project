@@ -1,0 +1,66 @@
+From MAILER-DAEMON Wed Jun 19 10:15:00 2024
+Return-Path: <newsletter@rewards-service.com>
+Received: from mail.rewards-service.com (mail.rewards-service.com [192.0.2.1])
+    by receiver.domain.com with ESMTP id ABC12345
+    for <user@domain.com>; Wed, 19 Jun 2024 10:15:00 +0200
+From: "Reward Service" <newsletter@rewards-service.com>
+To: user@domain.com
+Subject: URGENT: Reset Account Password to Claim €50 Voucher Reward
+Date: Wed, 19 Jun 2024 10:15:00 +0200
+Message-ID: <20240619101500.ABC12345@mail.rewards-service.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0001_0002"
+
+----=_Part_0001_0002
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You are eligible for a FREE €50 voucher reward.
+However, immediate action is required. Your account will be suspended
+within 24 hours if you do not confirm your password.
+
+To claim your voucher and secure your account:
+https://malicious-modal.com/claim?token=ABCD1234
+
+This link will expire soon. Failure to act may result in termination
+of your reward and account access.
+
+For more information:
+https://trusteddomain.com/privacy-policy
+https://trusteddomain.com/help
+
+Thank you,
+Reward Service Team
+
+----=_Part_0001_0002
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body style="font-family:Arial,sans-serif;line-height:1.5;color:#333;">
+    <h2 style="color:#c00;">URGENT: Your Account Needs Attention!</h2>
+    <p>Dear Customer,</p>
+    <p><strong>Congratulations!</strong> You're eligible for a <span style="color:#090;">€50 voucher</span> reward.
+       <em>Immediate action is required</em> to prevent your account from being suspended.</p>
+    <p style="text-align:center;margin:20px 0;">
+      <a href="https://malicious-modal.com/claim?token=ABCD1234">
+        <img src="https://malicious-modal.com/images/voucher.png" alt="€50 Voucher" style="border:0;width:200px;">
+      </a>
+    </p>
+    <p style="font-size:14px;color:#900;"><strong>WARNING:</strong> This offer expires in 24 hours!</p>
+    <p>To proceed, click the link below:</p>
+    <p><a href="https://malicious-modal.com/claim?token=ABCD1234"></a></p>
+    <p>Need assistance? Visit our
+      <a href="https://trusteddomain.com/privacy-policy" style="color:#06c;">Privacy Policy</a> or
+      <a href="https://trusteddomain.com/help" style="color:#06c;">Help Center</a>.
+    </p>
+    <p style="font-size:12px;color:#666;">If you did not request this, please disregard this message.</p>
+    <p style="font-size:12px;color:#666;">
+      <a href="https://trusteddomain.com/unsubscribe">Unsubscribe</a>
+    </p>
+  </body>
+</html>
+
+----=_Part_0001_0002--

@@ -1,0 +1,20 @@
+From irs-notify@irs.gov Fri Jan 01 2021 12:00:00 -0000
+Return-Path: <irs-notify@irs.gov>
+Received: from mail.irs.gov by mailserver.com with SMTP; Fri, 01 Jan 2021 12:00:00 -0000
+To: user@mail.com
+Subject: Urgent: Account Password Verification Required for Tax Refund
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>You have a small federal tax refund pending. This is an <strong>urgent</strong> notification. Your window to claim expires in <strong>24 hours</strong>. To avoid cancellation, you must <a href="http://192.0.2.123/confirm">confirm</a> your account password now!</p>
+<p>Start here: <a href="http://203.0.113.10/login">https://irs.gov/verify</a></p>
+<p><a href="http://192.0.2.123/verify"></a></p>
+<p><a href="http://203.0.113.5/payout"><img src="http://203.0.113.5/logo.png" alt="IRS Logo"/></a></p>
+<p>For details, see our <a href="http://109.74.45.23/help">privacy policy</a> or contact <a href="http://109.74.45.23/help">help</a>.</p>
+<p>Failure to act immediately will result in permanent forfeiture of your refund.</p>
+<p>Sincerely,<br/>Internal Revenue Service</p>
+</body>
+</html>

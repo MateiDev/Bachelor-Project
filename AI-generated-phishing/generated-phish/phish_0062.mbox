@@ -1,0 +1,45 @@
+```mbox
+From test@dhl-notification.com Sat Oct 28 14:22:02 2023
+Date: Sat, 28 Oct 2023 14:22:02 +0000
+From: DHL Notification <no-reply@dhl-notification.com>
+To: victim@example.com
+Subject: Urgent: Delivery Notification for Your Parcel
+
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--boundary_text_string"
+
+----boundary_text_string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your package has been placed on hold due to an unpaid delivery fee. It is important to address this immediately to ensure delivery. 
+
+To avoid additional charges, please visit our website and confirm your payment details. Use the secure link below:
+
+http://example.com/secure-payment
+
+If you have any questions, visit our help center http://example.com/help or privacy policy http://example.com/privacy.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+DHL Support Team
+
+----boundary_text_string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your package has been placed on hold due to an <strong>unpaid delivery fee</strong>. It is important to address this <u>immediately</u> to ensure delivery.</p>
+    <p>To avoid additional charges, please visit <a href="http://example.com/secure-payment">this page</a> and confirm your payment details.</p>
+    <p>If you have any questions, visit our <a href="http://example.com/help"></a> or our <a href="http://example.com/privacy">Privacy Policy</a>.</p>
+    <p>Thank you for your prompt attention to this matter.</p>
+    <p>Sincerely,<br>DHL Support Team</p>
+  </body>
+</html>
+----boundary_text_string--
+```

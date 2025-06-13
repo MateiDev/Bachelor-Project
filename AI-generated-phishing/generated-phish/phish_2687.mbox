@@ -1,0 +1,40 @@
+```
+From nobody Thu Oct 19 12:26:41 2023
+Return-Path: <security-alerts@securemail.com>
+Delivered-To: victim@example.com
+Received: from 192.0.2.123 (192.0.2.123) by mail.example.com with SMTP; Thu, 19 Oct 2023 12:26:41 -0700 (PDT)
+Message-ID: <0123456789abcdef@mail.example.com>
+Date: Thu, 19 Oct 2023 12:25:31 -0700 (PDT)
+From: "Secure Mail Alerts" <security-alerts@securemail.com>
+Reply-To: "Secure Mail Alerts" <security-alerts@securemail.com>
+Subject: Urgent: Action Required - Secure Your Account Immediately
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------0123456789ABCDEF"
+
+--------------0123456789ABCDEF
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We have detected suspicious activity in your account. Immediate action is required to secure your data. Please view the secure message immediately.
+
+Thank you,
+Secure Mail Team
+
+--------------0123456789ABCDEF
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+    <body>
+        <p>Dear User,</p>
+        <p>We have detected suspicious activity in your account. <b>Immediate action is required</b> to secure your data.</p>
+        <p>Please <a href="http://secure-email-check.com?user=victim@example.com" style="text-decoration: none;"><img src="https://securemail.com/encrypted-message.png" alt="View Encrypted Message" border="0"/></a> to view the secure message immediately.</p>
+        <p>For your safety, if you did not initiate this request, please <a href="http://192.0.2.123/report" style="text-decoration: none;">click here</a> and follow the instructions.</p>
+        <p>If you have any questions, see our <a href="http://www.securemail.com/help">Help Center</a> or <a href="http://www.securemail.com/privacy">Privacy Policy</a>.</p>
+        <p>Thank you,<br/>Secure Mail Team</p>
+    </body>
+</html>
+--------------0123456789ABCDEF--
+```

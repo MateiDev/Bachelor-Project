@@ -1,0 +1,33 @@
+From noreply@tax.gov Tue Jun 25 10:00:00 2024
+Return-Path: <noreply@tax.gov>
+Received: from mailserver.tax.gov (mailserver.tax.gov [203.0.113.10]) by mail.receiver.com with ESMTP id 123ABC for <user@domain.com>; Tue, 25 Jun 2024 10:00:00 -0400
+Date: Tue, 25 Jun 2024 10:00:00 -0400
+From: "Tax Department" <noreply@tax.gov>
+Reply-To: support@secure-taxsupport.com
+To: user@domain.com
+Subject: Urgent: Tax Refund Pending - Confirm Account Details
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+<title>Urgent Account Notification</title>
+</head>
+<body>
+<p>Dear Valued Taxpayer,</p>
+<p>We have processed your annual tax return and a <strong>small refund</strong> of <strong>$48.75</strong> is currently waiting in your account. To deposit this refund, please <em>confirm your bank details</em> immediately.</p>
+<p>You may verify your refund status here:<br/>
+<a href="http://192.0.2.123/secure-confirm">https://mytaxrefund.gov/claim</a>
+</p>
+<p>Alternatively, click the button below to confirm now:</p>
+<p>
+<a href="http://verify.refund-site.com"><img src="http://verify.refund-site.com/refund.png" alt="Confirm Refund Now" style="border:none;"></a>
+</p>
+<p>If the button does not work, use the link below:<br/>
+<a href="http://verification.tax-office.gov/refund?id=12345"></a>
+</p>
+<p>For any questions, contact our support team.</p>
+<p>Thank you for your prompt attention to this urgent matter.</p>
+<p>Sincerely,<br/>Tax Department</p>
+</body>
+</html>

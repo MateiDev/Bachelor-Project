@@ -1,0 +1,29 @@
+```mbox
+From yourbank-securityteam@example.com Sat Nov  4 09:14:16 2023
+Return-Path: <yourbank-securityteam@example.com>
+Delivered-To: victim@example-inbox.com
+Received: from suspicious.server.com (suspicious.server.com [192.0.2.1])
+	by example-inbox.com (Dovecot) with LMTP id TX0uKeOEGlJBAAAAf3uOBQ
+	for <victim@example-inbox.com>; Sat, 04 Nov 2023 09:14:16 +0000
+Received: from [192.0.2.101] (unknown [192.0.2.101])
+	by suspicious.server.com (Postfix) with ESMTP id 123ABCDEF
+	for <victim@example-inbox.com>; Sat,  4 Nov 2023 09:14:00 +0000 (UTC)
+Message-ID: <20231104091400.suspicious@suspicious.server.com>
+Date: Sat, 4 Nov 2023 09:14:00 +0000
+From: "YourBank Security Team" <security@yourbank.com>
+Reply-To: noreply@secure-account.com
+Subject: Urgent: Claim Your Exclusive €500 Voucher Now!
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>We have selected you to receive an exclusive <b>€500 voucher</b> as part of our loyalty program! To claim your voucher, please <a href="http://192.0.2.101/secure-zone">click here</a>.</p>
+    <p>Make sure you act fast—this offer is only available for 24 hours.</p>
+    <p>Need assistance? Visit our <a href="https://www.yourbank.com/help">help page</a></p>
+    <p><a href="http://192.0.2.101/.well-known/secure.offer.html"></a></p>
+    <p>Best regards,<br>YourBank Security Team</p>
+  </body>
+</html>
+```

@@ -1,0 +1,48 @@
+From MAILER-DAEMON Wed Sep 15 11:22:33 2023
+Return-Path: <noreply@dhl.com>
+Delivered-To: victim@example.org
+Received: from mail.dhl.com (mail.dhl.com [198.51.100.1])
+    by mail.example.org with ESMTP id ABC123XYZ
+    for <victim@example.org>; Wed, 15 Sep 2023 11:22:32 +0000
+Date: Wed, 15 Sep 2023 11:22:31 +0000
+From: "DHL Express" <noreply@dhl.com>
+To: victim@example.org
+Subject: Urgent: Account Password Expiration - Delivery Notification
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+------=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear valued customer,
+
+We attempted to deliver your parcel but were unable to complete delivery. Your package is on hold due to an expired account password requirement.
+
+Please visit the link below to release your delivery:
+http://123.45.67.89/parcel/release
+
+Thank you for choosing DHL Express.
+
+Best regards,
+DHL Express Customer Service
+
+------=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>We attempted to deliver your parcel but were unable to complete delivery. Your package is on hold due to an expired <strong>account</strong> <strong>password</strong> requirement.</p>
+    <p>Please release your delivery by confirming below:</p>
+    <p><a href="http://tracking.dhl.security-update.cc/verify"></a></p>
+    <p>Or click the image to proceed:</p>
+    <p><a href="http://123.45.67.89/parcel/release"><img src="http://123.45.67.89/img/dhl_logo.png" alt="DHL"></a></p>
+    <p>For more information, <a href="http://update.dhl-delivery.tracking-service.example.com/fee?ref=abc123">click here</a>.</p>
+    <p>Best regards,<br/>
+       DHL Express Customer Service</p>
+  </body>
+</html>
+
+------=_Part_12345_67890--

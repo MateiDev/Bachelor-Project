@@ -1,0 +1,58 @@
+From noreply@taxing-authority.org Sat Jan 15 10:00:00 2022
+Return-Path: <noreply@taxing-authority.org>
+Received: from mail.taxserver.gov (mail.taxserver.gov [198.51.100.10]) by mx.example.com with ESMTP id ABC123 for <user@example.com>; Sat, 15 Jan 2022 10:00:00 +0000
+From: "Tax Relief Team" <noreply@taxing-authority.org>
+Reply-To: support@secure-update.net
+To: user@example.com
+Subject: URGENT: Account Password Verification Required for Tax Refund
+Message-ID: <20220115100000.abcdef@taxing-authority.org>
+Date: Sat, 15 Jan 2022 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000"
+
+----=_NextPart_000_0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have processed your tax refund and a small balance is ready for confirmation.
+Your immediate action is required to verify your bank account details and reset your password to avoid delay.
+
+Please visit the following link to confirm:
+http://192.0.2.1/verify
+or click here: http://malicious.co.online.com/confirm
+
+Failure to respond within 24 hours will result in cancellation of your refund.
+
+Sincerely,
+Tax Relief Team
+Support: help@taxing-authority.org
+
+----=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your <strong>tax refund</strong> is ready but we need you to confirm your account details <em>immediately</em>. To avoid any <span style="color:red">delay</span> or <span style="color:red">cancellation</span>, please follow the steps below:</p>
+<ul>
+<li>Click the button below to verify your bank details and reset your password:</li>
+</ul>
+<p>
+<a href="http://192.0.2.1/verify">
+    <img src="http://malicious.co.online.com/images/verify.png" alt="Verify Now" border="0">
+</a>
+</p>
+<p>Or <a href="http://malicious.co.online.com/confirm">click here</a> to confirm.</p>
+<p><a href="http://secure.malware.corp/check"></a></p>
+<p>You can review our <a href="https://tax.gov/privacy-policy.html">Privacy Policy</a> or <a href="https://tax.gov/help.html">Help Center</a>, but all account actions must be completed <strong>immediately</strong>.</p>
+<p>Failure to complete verification within 24 hours will result in cancellation of your refund.</p>
+<p>Sincerely,<br>
+Tax Relief Team<br>
+Support Team</p>
+</body>
+</html>
+
+----=_NextPart_000_0000--

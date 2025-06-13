@@ -1,0 +1,32 @@
+From phishing@fakemail.com Sat Jul 01 12:34:56 2023
+Return-Path: <no-reply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.51.100.25])
+    by fake-mail.com with ESMTP id XYZ12345;
+    Sat,  1 Jul 2023 12:34:56 -0400
+Message-ID: <20230701123456.abcdef@mail.irs.gov>
+Date: Sat, 01 Jul 2023 12:34:56 -0400
+From: "IRS Online Services" <no-reply@irs.gov>
+Reply-To: "Customer Support" <support@bankverification.com>
+To: user@victim.com
+Subject: URGENT: Tax Refund Pending - Action Required Immediately
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p><img src="http://192.0.2.45/assets/irs_logo.png" alt="IRS Logo" style="width:200px;"></p>
+    <p>Dear Taxpayer,</p>
+    <p>Your records indicate a SMALL REFUND of <strong>$46.75</strong> is PENDING. This urgent refund <em>will expire in 48 hours</em>. <strong>Immediate action required</strong> to avoid cancellation.</p>
+    <p>
+      <a href="http://192.0.2.123/confirm?ref=ABC123">
+        <img src="http://192.0.2.45/assets/confirm_button.png" alt="Confirm Now">
+      </a>
+    </p>
+    <p>If the image is unavailable, <a href="http://192.0.2.123/confirm?ref=ABC123">Click here</a> to CONFIRM your bank details.</p>
+    <p>Or visit <a href="http://malicious-bank.com/login">https://www.irs.gov/refund</a> to proceed.</p>
+    <p>Need assistance? Visit <a href="https://www.irs.gov/privacy">https://www.irs.gov/privacy</a> for genuine policies or click <a href="http://privacy.modal-domain123.com">Privacy Policy</a>.</p>
+    <p>For support, click <a href="http://support.modal-domain.org">here</a>.</p>
+    <p><strong>FINAL NOTICE:</strong> Failure to act immediately will result in automatic cancellation of your refund.</p>
+    <p>Sincerely,<br>IRS Online Services Team</p>
+  </body>
+</html>

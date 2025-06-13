@@ -1,0 +1,66 @@
+From phishing@voucherservice.eu Mon Jun 10 08:15:30 2024
+Subject: URGENT: Claim Your €50 Voucher Immediately
+From: support@voucherservice.eu
+To: user@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============BOUNDARY1234=="
+
+--===============BOUNDARY1234==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account is eligible for a €50 reward voucher! This is a LIMITED-TIME offer and will EXPIRE IMMEDIATELY. Please claim your voucher now to avoid PERMANENT SUSPENSION.
+
+Visit:
+http://update.payments.verify.account.com/redeem
+
+Or go to:
+https://www.vouchersecure.com/claim
+
+If you do not claim within 24 hours, your voucher will be FORFEITED.
+
+Privacy Policy: https://voucherservice.eu/privacy-policy
+Help Center: https://voucherservice.eu/help
+
+Best regards,
+Customer Support Team
+
+--===============BOUNDARY1234==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p style="color:red;"><strong>URGENT:</strong> Your account is <em>eligible</em> for a <strong>€50 reward voucher</strong>!</p>
+    <p>This is a <strong>LIMITED-TIME</strong> offer and will <strong>EXPIRE IMMEDIATELY</strong>. Please claim your voucher <strong>now</strong> to avoid <strong>PERMANENT SUSPENSION</strong>.</p>
+
+    <!-- Image-based Link -->
+    <a href="http://malicious-claim.eu/redeem">
+      <img src="http://malicious-claim.eu/images/voucher.jpg" alt="Click to claim your voucher" style="border:0;"/>
+    </a>
+
+    <p>Visit <a href="http://malicious-claim.eu/redeem">https://www.vouchersecure.com</a> to claim.</p>
+
+    <p>
+      <!-- Empty visible link -->
+      <a href="http://malicious-claim.eu/redeem"></a>
+      <!-- Here-link off modal domain -->
+      <a href="http://modal.rewards-portal.com/claim">here</a>
+    </p>
+
+    <p>Track status: <a href="http://secure.voucher.service.help">http://secure.voucher.service.help</a></p>
+
+    <p>Privacy Policy: <a href="https://voucherservice.eu/privacy-policy">Privacy Policy</a> | 
+    Help Center: <a href="https://voucherservice.eu/help">Help Center</a></p>
+
+    <p>If you ignore this notice, your voucher will be <strong>forfeited</strong> after the deadline.</p>
+
+    <p>Best regards,<br/>
+    Customer Support Team</p>
+  </body>
+</html>
+
+--===============BOUNDARY1234==--

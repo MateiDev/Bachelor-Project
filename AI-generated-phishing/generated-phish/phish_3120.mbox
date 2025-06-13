@@ -1,0 +1,44 @@
+From - Wed Mar 10 08:15:30 2021
+Return-Path: <no-reply@secure-tax.gov>
+Delivered-To: user@domain.local
+Received: from mail.secure-tax.gov (mail.secure-tax.gov [198.51.100.23])
+    by mx.domain.local with ESMTP id wX7KJ2L5
+    for <user@domain.local>; Wed, 10 Mar 2021 08:15:30 -0500
+From: "Tax Department" <no-reply@secure-tax.gov>
+Reply-To: support@verify.sysmail.info
+Subject: Urgent: Account Password Update Required for Refund Confirmation
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_Boundary"
+
+------=_NextPart_000_001D_Boundary
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is an urgent WARNING regarding your tax filing. Our system indicates a small refund is pending, but we require you to confirm your bank details immediately to avoid processing delays or potential penalties. Failure to update within 24 hours may result in account suspension or delayed payment.
+
+Please confirm now: http://192.0.2.50/confirm
+Review our policy: https://help.secure.tax-policy.update.refund.com/policy
+
+Thank you for your prompt attention.
+
+Sincerely,
+Tax Department
+
+------=_NextPart_000_001D_Boundary
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>Alert:</strong> Your tax refund is <em>critical</em> and requires IMMEDIATE action. Confirm your bank details within 24 hours to avoid suspension or penalties.</p>
+    <p><a href="http://192.0.2.50/confirm">click here</a> to confirm your information now.</p>
+    <p>For more details, see our <a href="https://policy.review.securetax.refund-update.com/terms">Privacy Policy</a> or <a href="https://help.secure.tax-policy.update.refund.com/policy">Help Center</a>.</p>
+    <p><a href="http://203.0.113.10/verify"></a></p>
+    <p>Thank you,<br/>Tax Department</p>
+  </body>
+</html>
+
+------=_NextPart_000_001D_Boundary--

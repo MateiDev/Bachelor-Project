@@ -1,0 +1,53 @@
+```
+From - Tue Oct 24 07:26:26 2023
+Return-Path: <support@reward-claims.com>
+Received: from mail.reward-claims.com (192.0.2.1) by mail.example.com with SMTP;
+        Tue, 24 Oct 2023 07:26:26 +0000
+Message-ID: <002c01d5f789$53812390$fa837ab0$@reward-claims.com>
+Reply-To: support@reward-claims.com
+From: "Rewards Team" <support@reward-claims.com>
+To: undisclosed-recipients:;
+Subject: Urgent: Claim Your €500 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_NextPart_000_0045_01D5F789.53812390"
+
+------=_NextPart_000_0045_01D5F789.53812390
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+You have been selected to receive an exclusive €500 voucher! This is a limited time offer, so act fast and claim your reward.
+
+Please go to
+http://192.0.2.2/claim-voucher-now
+to activate your €500 voucher today!
+
+Don't miss out on this opportunity. 
+
+Best,
+Rewards Team
+
+------=_NextPart_000_0045_01D5F789.53812390
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+    <title>Claim Your Voucher</title>
+</head>
+<body>
+    <p>Dear User,</p>
+    <p>You have been selected to receive an exclusive €500 voucher! This is a <strong>limited time offer</strong>, so <span style="color: red;">act fast</span> and claim your reward.</p>
+    <p>Click the link below to activate your voucher:</p>
+    <p><a href="http://192.0.2.2/claim-voucher-now"><img src="http://192.0.2.3/images/claim-button.png" alt="Claim Now" /></a></p>
+    <p>Alternatively, you can copy and paste this URL into your browser: <a href="http://scam-link.com/fakeurl">http://192.0.2.2/claim-voucher-now</a></p>
+    <p>Don't miss out on this amazing opportunity. <span style="color: red;">Claim immediately!</span></p>
+    <p>Best,</p>
+    <p>Rewards Team</p>
+</body>
+</html>
+
+------=_NextPart_000_0045_01D5F789.53812390--
+```

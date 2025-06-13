@@ -1,0 +1,46 @@
+From support@trustedbank.com Fri Jul 21 14:12:07 2023
+Return-Path: <support@trustedbank.com>
+Received: from mail.trustedbank.com (mail.trustedbank.com [192.0.2.45]) by inbound.trustedbank.com with ESMTP id ABC123 for <user@domain.com>; Fri, 21 Jul 2023 14:12:07 +0000
+Date: Fri, 21 Jul 2023 14:12:07 +0000
+From: "Trusted Bank Support" <support@trustedbank.com>
+Reply-To: support@helpdesk.realbank-secure.com
+Subject: Urgent: Account Password Expires Today – Unusual Sign-In Detected
+Message-ID: <20230721141207.ABC123@mail.trustedbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01D9F57E.A7B3E730"
+
+----=_NextPart_000_001A_01D9F57E.A7B3E730
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected an unusual sign-in to your account from a new device. Your password expires today. To prevent immediate suspension, please verify your identity and reset your password within 24 hours:
+
+1. Verify Identity & Login: https://trustedbank.com/login
+2. Reset Password Now: click here
+
+Failure to complete these steps will result in account lockout. For more details, visit our Privacy Policy: https://trustedbank.com/privacy-policy or Help Center: https://trustedbank.com/help
+
+Thank you for your prompt attention.
+
+Trusted Bank Support Team
+
+----=_NextPart_000_001A_01D9F57E.A7B3E730
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected an <strong>unusual sign-in</strong> to your <strong>account</strong> from a new device. Your <strong>password</strong> expires today. To prevent immediate suspension, please verify your identity and reset your password within 24 hours:</p>
+<ol>
+<li>Verify Identity &amp; Login: <a href="http://secure-login.bank-update.co.uk/authenticate">https://trustedbank.com/login</a></li>
+<li>Reset Password Now: <a href="http://login.secure.realbank-login.com/reset">click here</a></li>
+</ol>
+<p>Failure to complete these steps will result in account lockout. For more details, visit our <a href="https://trustedbank.com/privacy-policy">Privacy Policy</a> or <a href="https://trustedbank.com/help">Help Center</a>.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Trusted Bank Support Team</p>
+</body>
+</html>
+----=_NextPart_000_001A_01D9F57E.A7B3E730--

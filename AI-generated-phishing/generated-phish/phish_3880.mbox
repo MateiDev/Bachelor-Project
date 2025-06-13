@@ -1,0 +1,46 @@
+From MAILER-DAEMON Sat Jan  1 12:34:56 2022
+Return-Path: <delivery@dhl-express.com>
+Received: from mailserver.dhl-express.com (mailserver.dhl-express.com [203.0.113.1])
+    by victim.example.com with ESMTP id ABC12345;
+    Sat,  1 Jan 2022 12:34:56 +0000
+Date: Sat,  1 Jan 2022 12:34:56 +0000
+From: "DHL Express" <delivery@dhl-express.com>
+To: victim@example.com
+Subject: Urgent: Delivery Notification - Action Required
+Message-ID: <20220101123456.ABC12345@mailserver.dhl-express.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234_567890.1610000000000"
+
+------=_Part_1234_567890.1610000000000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your shipment is on hold due to an unpaid fee. Please review the delivery notification below.
+To release your package, visit:
+https://dhl-secure-updates.dhl.delivery/claim-info
+
+Failure to act within 24 hours will result in return to sender.
+Thank you for your prompt attention.
+
+------=_Part_1234_567890.1610000000000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Delivery Notification</title>
+</head>
+<body style="font-family: Arial, sans-serif; color: #333;">
+  <p><strong>URGENT:</strong> Your DHL package is <span style="color: red;">on hold</span> due to an unpaid fee.</p>
+  <p>Please <a href="http://192.0.2.55/release-fee" title="account update required">click here</a> to pay the small release fee and <span style="text-decoration: underline;">claim your package immediately</span>. This link will expire in <strong>24h</strong>.</p>
+  <p>If the link does not work, copy and paste this URL into your browser:</p>
+  <p><a href="http://203.0.113.5/delivery/track?ref=ABC123">https://dhl.com/track</a></p>
+  <p><img src="http://198.51.100.23/images/dhl_logo.png" alt="DHL Logo" width="200" height="50"/>
+     <a href="http://198.51.100.23/images/dhl_logo.png"></a>
+  </p>
+  <p>For more information, visit our <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> or <a href="https://help.dhl.com" title="password help">Help Center</a>.</p>
+  <p style="color: #d00;"><strong>Immediate action required</strong>: failure to comply will cause your package to be returned.</p>
+  <p>Best regards,<br/>DHL Express Support Team</p>
+</body>
+</html>
+------=_Part_1234_567890.1610000000000--

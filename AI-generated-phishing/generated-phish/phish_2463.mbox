@@ -1,0 +1,51 @@
+From MAILER-DAEMON Tue Jun 18 12:00:00 2024
+Return-Path: <noreply@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1]) by mail.example.com with ESMTP id abc123 for <victim@example.com>; Tue, 18 Jun 2024 12:00:00 -0700 (PDT)
+Date: Tue, 18 Jun 2024 12:00:00 -0700
+From: "DHL Delivery" <noreply@dhl.com>
+To: victim@example.com
+Subject: Urgent: Account Password Confirmation Required to Release Your Parcel
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1_2345678.987654321"
+
+----=_Part_1_2345678.987654321
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your parcel with tracking number DH123456789US is currently on hold due to an unpaid customs fee. To avoid further delays, please confirm your account details and pay the fee immediately.
+
+Confirm your delivery status at: https://www.DHL-Tracking.delivery-info.com/confirm
+
+Or complete payment directly: https://secure.payment-service.org/pay
+
+If you encounter any issues, click here to restart the process: https://malicious.org/update
+
+Privacy Policy: https://www.dhl.com/privacy-policy.html
+Help Center: https://www.dhl.com/help.html
+
+Thank you for choosing DHL.
+
+----=_Part_1_2345678.987654321
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your parcel with tracking number <b>DH123456789US</b> is currently on hold due to an unpaid customs fee. To avoid further delays, please confirm your account details and pay the fee immediately.</p>
+    <p>Confirm your delivery status at:
+      <a href="https://dhl-verify.example.org/confirm">https://www.DHL-Tracking.delivery-info.com/confirm</a>
+    </p>
+    <p>Or complete payment directly:
+      <a href="https://secure.payment-service.org/pay"><img src="https://images.dhl.com/secure.png" alt="Secure Payment"></a>
+    </p>
+    <p><a href="https://hold-package.safe-release.co/payment"></a></p>
+    <p>If you encounter any issues, <a href="https://malicious.org/update">click here</a> to restart the process.</p>
+    <p><a href="https://www.dhl.com/privacy-policy.html">Privacy Policy</a> | <a href="https://www.dhl.com/help.html">Help Center</a></p>
+    <p>Thank you for choosing DHL.</p>
+  </body>
+</html>
+
+----=_Part_1_2345678.987654321--

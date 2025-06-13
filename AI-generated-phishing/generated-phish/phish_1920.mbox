@@ -1,0 +1,52 @@
+From phishing@fraudster.com Wed Jul 17 10:00:00 2024
+Return-Path: <phishing@fraudster.com>
+Delivered-To: victim@example.com
+Received: from unknown (HELO mail.fakebank.com) (203.0.113.5)
+    by victim-mail.example.com with SMTP; Wed, 17 Jul 2024 10:00:00 +0200
+Date: Wed, 17 Jul 2024 10:00:00 +0200
+From: "Rewards Team" <no-reply@fakebank.com>
+To: victim@example.com
+Subject: Urgent: Claim Your €50 Voucher Now
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XXXXboundary text"
+
+--XXXXboundary text
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Congratulations! You are eligible for an exclusive €50 gift voucher.
+This offer is urgent and set to expire in 24 hours!
+
+Please confirm your account details immediately to avoid losing your reward.
+Visit http://198.51.100.23/verify and log in to claim your voucher.
+You can also visit http://secure.fakebank.com/rewards for more info.
+
+Thank you for your prompt attention.
+
+Best Regards,
+Rewards Team
+
+--XXXXboundary text
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Congratulations! You are eligible for an exclusive <strong>€50 gift voucher</strong>.</p>
+<p><span style="color:red;">This offer is <strong>urgent</strong> and set to expire in 24 hours!</span></p>
+<p>Please confirm your <em>account</em> details <strong>immediately</strong> to avoid losing your reward.</p>
+<p>
+<a href="http://198.51.100.23/verify"></a>
+<a href="http://secure.fakebank.com/rewards">Click here to claim your voucher</a>
+</p>
+<p>Alternatively, verify here: <a title="password" href="http://login.safe.fakebank.com">http://fakebank-secure.com/verify</a></p>
+<p>Failure to act now will result in the voucher being reallocated.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Best Regards,<br/>Rewards Team</p>
+</body>
+</html>
+
+--XXXXboundary text--

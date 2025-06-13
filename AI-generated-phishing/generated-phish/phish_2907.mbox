@@ -1,0 +1,51 @@
+```mbox
+From nobody Mon Oct 16 21:43:00 2023
+Return-Path: <fake-offer@fakevoucher.com>
+Received: from fakevoucher.com (fakevoucher.com [192.168.1.10])
+    by mail.example.com (Postfix) with ESMTP id 1234ABCD
+    for <user@example.com>; Mon, 16 Oct 2023 21:42:57 +0200 (CEST)
+Date: Mon, 16 Oct 2023 21:42:57 +0200
+From: Exclusive Offer <fake-offer@fakevoucher.com>
+Reply-To: claim@voucher-rewards.com
+Subject: Act Now: Claim Your €100 Voucher!
+
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_000_001"
+
+------=_Part_000_001
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+You are eligible for a €100 gift voucher! Act immediately as this offer expires soon!
+
+Claim your reward now by visiting our site.
+
+Thank you,
+Voucher Rewards Team
+
+------=_Part_000_001
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+    <h2>Dear Customer,</h2>
+
+    <p>Congratulations! You are eligible for a <b>€100 gift voucher!</b></p>
+
+    <p>Act <b>immediately</b> as this offer expires soon! To claim your reward, please <b><a href="http://192.168.1.100/claimnow/">click here</a></b>.</p>
+    
+    <p>&nbsp;</p>
+    <p><a href="http://fakevoucher.com/images/banner.png"><img src="http://fakevoucher.com/images/banner.png" alt="Claim Now"></a></p>
+    
+    <p>For more information, please visit our <a href="http://fakevoucher.com/privacy-policy">privacy policy</a>.</p>
+
+    <p>Thank you,</p>
+    <p>Voucher Rewards Team</p>
+</body>
+</html>
+
+------=_Part_000_001--
+```

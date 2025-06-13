@@ -1,0 +1,45 @@
+From noreply@irs.gov Fri Jun 28 12:34:56 2024
+Return-Path: <noreply@irs.gov>
+Received: from mail.irs.gov (mail.irs.gov [198.51.100.25])
+	by recipient.mail.server with ESMTP id ABC123
+	for <user@example.com>; Fri, 28 Jun 2024 12:34:56 -0400 (EDT)
+From: "Internal Revenue Service" <noreply@irs.gov>
+Reply-To: support@securetaxhelp.info
+Subject: Urgent: Account Password Verification Required for Your Refund
+Date: Fri, 28 Jun 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear taxpayer,
+
+URGENT NOTICE: A small tax refund of $47.20 is waiting for you. You must confirm your bank account details immediately or your refund will expire in 24 hours.
+
+Confirm here:
+https://secure.tax-refund.verify-bank.info/confirm?tid=ABC123
+
+Thank you,
+IRS Tax Department
+
+--BOUNDARY123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear <strong>taxpayer</strong>,</p>
+    <p style="color:red"><strong>URGENT:</strong> Your <em>refund</em> of <strong>$47.20</strong> is pending. <u>Action required</u> immediately to avoid expiration.</p>
+    <p>Please <b>confirm</b> your bank details by clicking the link below:</p>
+    <p><a href="http://malicious-site.com/confirm">https://secure.tax-refund.verify-bank.info/confirm?tid=ABC123</a></p>
+    <p>Or click the image:</p>
+    <p><a href="http://123.45.67.89/submit"><img src="http://evilserver.com/refund_image.png" alt="Verify Now" /></a></p>
+    <p>Fast link: <a href="http://anotherbad.com/fast/track"> </a></p>
+    <p>This is your <strong>final notice</strong>. Failure to respond will result in <em>loss</em> of your refund.</p>
+    <p>Sincerely,<br/>IRS Customer Service Team</p>
+  </body>
+</html>
+
+--BOUNDARY123--

@@ -1,0 +1,63 @@
+```mbox
+From - Thu May 11 09:22:54 2023
+X-Google-Smtp-Source: ABdhPQrldxyBsdfgh9vZXY123
+Received: by 2002:a05:620a:10a6:b0:3e:ac:99 with SMTP id fg10csp1944821lkb;
+        Thu, 11 May 2023 06:22:54 -0700 (PDT)
+X-Received: by 2002:a63:8a12:: with SMTP id m78mr41701923pgc.16.1683812574407;
+        Thu, 11 May 2023 06:22:54 -0700 (PDT)
+Received: from unknown (host.example.com. [93.184.216.34])
+        by smtp.gmail.com with ESMTPSA id f8sm5063543pgf.63.2023.05.11.06.22.53
+        for <user@example.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 11 May 2023 06:22:54 -0700 (PDT)
+Message-ID: <001d01d87000$ad4ab8d0$07f02a70$@secure-example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_NextPart_000_001A_01D8CDEF.285F3BE0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQH0ETj1FSPaL0HYQHlVfZ8G7HA==
+Content-Language: en-us
+Subject: Urgent: Portal Security Update Required
+Date: Thu, 11 May 2023 16:22:53 +0300
+From: Portal Security Team <no-reply@secure-example.com>
+To: user@example.com
+
+------=_NextPart_000_001A_01D8CDEF.285F3BE0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Your immediate action is required to update your portal security settings. Please view the encrypted security alert [here](http://192.0.2.1/security-update).
+
+------=_NextPart_000_001A_01D8CDEF.285F3BE0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUS-ASCII">
+</head>
+<body>
+<div style=3D"font-size: 14px; font-family: Arial, sans-serif;">
+<p>Dear User,</p>
+<p>As part of our continuous efforts to enhance security, an update to you=
+r portal security settings is required. Please <a href=3D"http://192.0.2.1=
+/security-update">view the encrypted security alert</a>.</p>
+<p>For privacy policy and help information, visit our official site at:</p>
+<ul>
+<li><a href=3D"https://www.officialsite.com/privacy">Privacy Policy</a></l=
+i>
+<li><a href=3D"https://www.officialsite.com/help">Help</a></li>
+</ul>
+<p>If the above link does not work, copy and paste the following URL into =
+your browser: <a href=3D"http://192.0.2.1/security-update">http://portal.se=
+cure-example.com/security-update</a></p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Best Regards,<br>
+Portal Security Team</p>
+</div>
+</body>
+</html>
+
+------=_NextPart_000_001A_01D8CDEF.285F3BE0--
+
+```

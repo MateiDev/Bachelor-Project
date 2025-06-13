@@ -1,0 +1,30 @@
+```mbox
+From: Rewards Team <reward@notarealcompany.com>
+To: recipient@example.com
+Subject: URGENT: You've Been Selected for a €1000 Voucher!
+
+From nobody Mon Oct  2 15:54:48 2023
+Return-Path: <reward@notarealcompany.com>
+Date: Mon, 2 Oct 2023 15:54:48 +0000
+Message-ID: <001a1135df1c$12b4aed0$382ca090$@notarealcompany.com>
+Reply-To: customer-support@yahoo.com
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<h2>Congratulations! <font color="red">Urgent</font> Notification</h2>
+<p>Dear customer,</p>
+<p>You've been selected to <strong>receive</strong> a <strong>€1000 gift voucher</strong> redeemable at top online stores. This is a limited-time offer.</p>
+<p>To claim your voucher, please visit the link below:</p>
+<p><a href="http://192.168.0.1/claim"> </a></p>
+<img src="http://192.168.0.1/images/reward.jpg" alt="Claim Reward" width="500" height="200">
+<p>If the image above does not load, you can manually enter in your browser: <strong>http://rewards.net/claim-voucher</strong></p>
+<p>Don't <em>miss</em> out on this opportunity, as vouchers are available on a <strong>first-come, first-served</strong> basis. Click below to <strong>act</strong> now:</p>
+<p><a href="http://malicious-link.com">http://secure-claims.com</a></p>
+<p>We look forward to your participation.</p>
+<p><a href="http://another-site.com/path.to/many.nested.links"> </a></p>
+<p>Regards,</p>
+<p>The Rewards Team</p>
+</body>
+</html>
+```

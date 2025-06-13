@@ -1,0 +1,47 @@
+From service@paypal.com Sat Jul 22 12:34:56 2023
+Return-Path: <service@paypal.com>
+Received: from mail.paypal.com (unknown [198.51.100.10])
+	by recipientdomain.com with SMTP id abc123
+	for <user@victim.com>; Sat, 22 Jul 2023 12:34:56 +0000
+From: PayPal Account <service@paypal.com>
+Reply-To: PayPal Support <support@paypal-secure.net>
+Subject: Urgent: Verify Your Account Immediately or It Will Be Suspended
+To: user@victim.com
+Date: Sat, 22 Jul 2023 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000000000000adbc"
+
+--000000000000adbc
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your PayPal account. To protect you, we have limited access. You must verify your identity immediately to avoid account suspension.
+
+Please click on the links below to re-confirm your credentials:
+http://192.0.2.123/secure.login.paypal
+http://198.51.100.45/auth.login.paypal
+
+Failure to verify within 24 hours will result in permanent account lock.
+
+Thank you for your prompt attention,
+PayPal Security Team
+
+--000000000000adbc
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We detected <b>unusual</b> activity on your <span style="color:#003087;">PayPal</span> account. Access has been <span style="color:red;">limited</span>. You must verify your identity <strong>immediately</strong> to avoid <em>account suspension</em>.</p>
+    <p>Please <a href="http://192.0.2.123/secure.login.paypal"></a> or <a href="http://198.51.100.45/auth.login.paypal"></a> to reconfirm your credentials now.</p>
+    <p><a href="http://192.0.2.123/secure.login.paypal">Click here to verify your account.</a></p>
+    <p>This is an <strong>urgent</strong> security alert. If you do not act within <strong>24 hours</strong>, your account will be <span style="color:red;">suspended</span>.</p>
+    <p>Thank you for using PayPal.</p>
+    <p>--<br>PayPal Security Team</p>
+  </body>
+</html>
+
+--000000000000adbc--

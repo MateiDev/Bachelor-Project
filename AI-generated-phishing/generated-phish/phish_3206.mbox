@@ -1,0 +1,51 @@
+From support@dhl.com Tue Oct 10 11:22:33 2023
+Return-Path: <support@dhl.com>
+Received: by mailserver.dhl.com id 12345; Tue, 10 Oct 2023 11:22:33 +0000
+From: "DHL Express" <support@dhl.com>
+Reply-To: <helpdesk@delivery-track.net>
+To: user@domain.com
+Subject: URGENT: Delivery Attempt Failed – Action Required IMMEDIATELY
+Date: Tue, 10 Oct 2023 11:22:33 +0000
+Message-ID: <ABC12345@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Boundary_123456"
+
+----=_Boundary_123456
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WARNING: Your DHL parcel delivery has FAILED due to unpaid customs fees!
+If you fail to pay the small fee within 24 hours, your package will be returned and LOST.
+Immediate action is REQUIRED to avoid RETURN and extra CHARGES.
+Pay now:
+https://dhl-track-status.com/secure/payment
+http://update.dhl-support.info/verifypass
+
+----=_Boundary_123456
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red; font-weight:bold;">URGENT: DELIVERY FAILED!</p>
+    <p>Your shipment is being held due to <strong>unpaid customs fees</strong>. If not resolved within <strong>24 HOURS</strong>, it will be <em>RETURNED FOR GOOD</em>.</p>
+    <p>
+      <a href="https://dhl-track-status.com/secure/payment">
+        <img src="https://cdn.dhl.com/assets/dhl_badge.png" alt="DHL Express" border="0">
+      </a>
+      <a href="http://secure.delivery-claims.net/refund"></a>
+    </p>
+    <p>To complete payment, <a href="https://security.dhl-secure.net/confirm?ref=XYZ789"></a></p>
+    <p>Verify at <a href="http://malicious-service.net/verify.html">https://dhl.com/verify</a></p>
+    <p>Alternative links:</p>
+    <ul>
+      <li>https://dhl-track-status.com/secure/payment</li>
+      <li>http://update.dhl-support.info/verifypass</li>
+    </ul>
+    <p>If you have any questions, click <a href="http://help.dhl-secure.net">here</a>.</p>
+    <p>For FAQs, see our <a href="https://privacy.policy.dhl-secure.net">privacy policy</a> or <a href="https://help.dhl-secure.net">help center</a>.</p>
+    <p style="font-size:small; color:gray;">© DHL Express 2023</p>
+  </body>
+</html>
+
+----=_Boundary_123456--

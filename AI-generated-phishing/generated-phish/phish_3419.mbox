@@ -1,0 +1,66 @@
+From rewards@bankservice.com Fri Nov 19 09:21:00 2023
+Return-Path: <rewards@bankservice.com>
+Delivered-To: user@example.com
+Received: from mail.bankservice.com (mail.bankservice.com [203.0.113.10])
+    by mx.example.com (Postfix) with ESMTP id 123ABCD
+    for <user@example.com>; Fri, 19 Nov 2023 09:21:00 +0000 (UTC)
+Message-ID: <20231119092100.123456789@mail.bankservice.com>
+Date: Fri, 19 Nov 2023 09:21:00 +0000
+From: "BankService Rewards" <rewards@bankservice.com>
+Reply-To: support@customershelp.com
+To: user@example.com
+Subject: Urgent: Voucher Reward for Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==BOUNDARY=="
+
+--==BOUNDARY==
+Content-Type: text/plain; charset="UTF-8"
+
+Dear valued customer,
+
+Congratulations! You have been selected to receive a €100 voucher.
+To claim your reward, please visit the link below:
+
+http://123.45.67.89/claim?voucher=ABC123
+
+Alternatively, click here:
+http://promo.reward.bankservice.co.uk.secure-gift.com/activate
+
+Best regards,
+BankService Rewards Team
+
+This is an automated message. Please do not reply to this email.
+If you need assistance, visit our privacy policy at
+https://bankservice.com/privacy.
+
+--==BOUNDARY==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>Urgent: Voucher Reward for Your Account</title>
+  </head>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>Congratulations! You have been selected to receive a <strong>€100 voucher</strong>.</p>
+    <p>Please <a href="http://123.45.67.89/claim?voucher=ABC123">here</a> to activate your reward <img src="http://198.51.100.99/images/gift.png" alt="Gift" style="border:none;"></p>
+    <p>
+      Or click on the image below:<br>
+      <a href="http://98.76.54.32/win"><img src="http://198.51.100.99/images/winner.png" alt="Winner" border="0"></a>
+    </p>
+    <p>
+      Need help? Visit our <a href="https://bankservice.com/help">help center</a> or <a href="https://bankservice.com/privacy">privacy policy</a>.
+    </p>
+    <p>
+      <a href="http://promo.reward.bankservice.co.uk.secure-gift.com/activate"></a>
+    </p>
+    <p>
+      Enjoy your reward!<br>
+      Best regards,<br>
+      BankService Rewards Team
+    </p>
+  </body>
+</html>
+
+--==BOUNDARY==--

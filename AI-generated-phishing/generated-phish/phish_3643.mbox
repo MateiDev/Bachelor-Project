@@ -1,0 +1,62 @@
+From phishing@bankingalerts.com Fri Jul 14 12:30:00 2023
+Return-Path: <noreply@secure.bank.com>
+Received: from unknown (HELO mail.secure.bank.com) (192.0.2.5)
+    by mail.bankingalerts.com with SMTP; Fri, 14 Jul 2023 12:29:58 +0000
+From: "Security Alert" <security@secure.bank.com>
+To: user@victimmail.com
+Reply-To: support-team@bankingalerts.net
+Subject: URGENT: Verify Your Account Password Now to Claim €50 Voucher!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0000000000008bb3b7058e3e8b23"
+
+--0000000000008bb3b7058e3e8b23
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your bank account is flagged for review. To avoid losing access and to receive your €50 voucher,
+you must verify your account password immediately.
+
+Visit the link below to confirm:
+https://secure.bank.com/verify
+
+Thank you,
+Security Team
+
+--0000000000008bb3b7058e3e8b23
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;">
+      <strong>Urgent Action Required!</strong>
+      Your account has been flagged for 
+      <a href="http://192.0.2.100/r3view" title="account">review</a>.
+    </p>
+    <p>
+      To avoid losing access and receive your <strong>€50 Voucher</strong>, 
+      <a href="http://192.168.1.100/claim?user=123" title="password">click here</a> immediately.
+    </p>
+    <p>Hurry, this offer will expire in 24 hours!</p>
+    <p>Or copy and paste this link in your browser:</p>
+    <p>
+      <a href="http://192.168.1.100/claim?user=123">https://secure.bank.com/login</a>
+    </p>
+    <p align="center">
+      <a href="http://203.0.113.50/picclick">
+        <img src="http://192.168.1.100/images/voucher-banner.png" alt="Your Voucher" />
+      </a>
+    </p>
+    <p style="font-size:small;">
+      For help, see our 
+      <a href="https://support.bankings.help/privacy-policy" title="urgent">Privacy Policy</a> 
+      or <a href="https://support.bankings.help/help" title="password"></a>
+    </p>
+    <p>Sincerely,<br />Security Team<br />secure.bank.com</p>
+  </body>
+</html>
+
+--0000000000008bb3b7058e3e8b23--

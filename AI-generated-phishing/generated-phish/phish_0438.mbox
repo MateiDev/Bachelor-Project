@@ -1,0 +1,26 @@
+```mbox
+From john.doe@tax-refunds.com Tue Oct 17 10:35:47 2023
+Return-Path: <john.doe@tax-refunds.com>
+Delivered-To: victim@example.com
+Received: from mail.tax-refunds.com (192.168.1.100) by mail.example.com with SMTP; Tue, 17 Oct 2023 10:35:47 -0400
+Subject: Urgent: Your Immediate Tax Refund Is Available - Act Now!
+Date: Tue, 17 Oct 2023 10:35:47 -0400
+From: Tax Refund Department <john.doe@tax-refunds.com>
+Reply-To: security-alert@secure-localbank.com
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected that your pending tax refund amount of <strong>$543.27</strong> is available for immediate credit. However, it is <strong>urgent</strong> that you verify your <em>bank details</em> to ensure that there is no delay in processing your refund.</p>
+<p>Please confirm your information by <a href="http://192.0.2.123/update-details" style="color:blue; text-decoration:underline;">clicking here</a>.</p>
+<p>The link is safe and supported by our <a href="https://www.tax-refunds.com/privacy-policy" style="color:blue;text-decoration:underline;">Privacy Policy</a> and our <a>Help</a> page.</p>
+<p>Note: Failure to verify your details in 2 business days will result in the <strong>cancellation</strong> of your refund.</p>
+<p>Thank you,</p>
+<p>Tax Refund Department</p>
+<p>For any queries, feel free to contact our <a href="https://www.tax-refunds.com/contact-us" style="color:blue; text-decoration:underline;">support team</a>.</p>
+</body>
+</html>
+```

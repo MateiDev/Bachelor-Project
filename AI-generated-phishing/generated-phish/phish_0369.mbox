@@ -1,0 +1,55 @@
+```
+From example-service@email.com Wed Oct 18 14:28:19 2023
+Return-Path: <example-service@email.com>
+Delivered-To: victim@example.com
+Received: from fake.email-server.com (fake.email-server.com [192.0.2.1])
+        by mail.example.com (Postfix) with ESMTP id 1234567890A
+        for <victim@example.com>; Wed, 18 Oct 2023 14:28:19 -0500 (CDT)
+From: "Example Service Support" <support@example.com>
+Subject: Urgent: Verify Your Account Information
+Date: Wed, 18 Oct 2023 14:28:19 -0500
+Message-ID: <001a11345bc1d7d567e2@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="000a114b5ce54a5ce7b2"
+
+--000a114b5ce54a5ce7b2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+We have detected unusual activity in your account. As a security measure, y=
+our account has been temporarily locked. To restore access, please verify y=
+our login details by following the link below:
+
+Verify your account: http://login.verify.example.com
+
+Your prompt attention is required to avoid permanent suspension.
+
+Thank you,
+Example Service Support
+
+--000a114b5ce54a5ce7b2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div>
+  <p>Dear User,</p>
+  <p>We have detected unusual activity in your account. As a security measure, your a=
+ccount has been temporarily locked. To restore access, please verify your login detail=
+s by following the link below:</p>
+  <p>
+    <a href=3D"http://scam.verify-login.example.com">
+      <img src=3D"http://example.com/images/clickhere.png" alt=3D"Click Here to Verify" />
+    </a>
+  </p>
+  <p>Alternatively, you can also <a href=3D"http://malicious.example.com">click her=
+e</a> to verify immediately.</p>
+  <p><a href=3D"http://privacy.example.com/policy"><img src=3D"https://example.com/im=
+ages/empty.png" alt=3D"" /></a></p>
+  <p>Your prompt attention is required to avoid permanent suspension.</p>
+  <p>Thank you,<br>Example Service Support</p>
+</div>
+
+--000a114b5ce54a5ce7b2--
+```

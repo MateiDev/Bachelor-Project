@@ -1,0 +1,24 @@
+From shipping@dhl.com Tue Jul 20 09:15:00 2021
+Return-Path: <shipping@dhl.com>
+Delivered-To: user@example.com
+Subject: URGENT: Delivery Notification - Account Verification Required
+From: "DHL Express" <shipping@dhl.com>
+To: user@example.com
+Reply-To: alerts@deliveries-update.net
+Date: Tue, 20 Jul 2021 09:15:00 -0400
+Message-ID: <ORD123456789@mail.dhl.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p><strong>Attention:</strong> Your package is currently on hold due to an urgent <strong>account</strong> verification requirement. Failure to act <span style="color:red">immediately</span> will result in your shipment being returned to the sender.</p>
+    <p>Please verify and release your parcel within the next 12 hours to avoid additional charges or risk of permanent return:</p>
+    <p><a href="http://123.45.67.89/verify?ref=ORD123456789" target="_blank">https://dhl.com/track.your.package</a></p>
+    <p>For detailed terms, view our <a href="http://123.45.67.89/policy.update" target="_blank">privacy-policy</a>.</p>
+    <p>If you need assistance, <a href="http://track.delivery.dhl-service.com/support" target="_blank">click here</a> to contact live support.</p>
+    <p>Do not ignore this critical notification. Verify now to prevent shipment failure.</p>
+    <p>Thank you for your prompt cooperation.<br/>
+       DHL Express Security Team</p>
+  </body>
+</html>

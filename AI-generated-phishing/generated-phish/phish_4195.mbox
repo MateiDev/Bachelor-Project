@@ -1,0 +1,55 @@
+From rewards@amazon.com Thu Jun 20 10:22:12 2024
+Return-Path: <rewards@amazon.com>
+From: "Amazon Rewards" <rewards@amazon.com>
+Reply-To: "Amazon Support" <support@amazon-rewards.com>
+To: user@example.com
+Subject: URGENT: Claim your €50 Amazon Voucher NOW!
+Date: Thu, 20 Jun 2024 10:22:12 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1234567_89101112.1655893332123"
+
+------=_Part_1234567_89101112.1655893332123
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected unusual activity on your account. As compensation, you are eligible for a €50 Amazon Voucher.
+
+To claim your voucher, visit the link below within 24 hours:
+https://www.amazon.com.verify-account.secure-promo.info/claim
+Or manually navigate to:
+http://192.0.2.123/redeem
+
+Act NOW to avoid forfeiture!
+
+Amazon Customer Service
+
+------=_Part_1234567_89101112.1655893332123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p style="color:red;font-weight:bold;">⚠️URGENT: Your account is at risk! Claim your voucher now!⚠️</p>
+    <p>Congratulations! You're eligible for a <strong>€50 Amazon Voucher</strong>.</p>
+    <p>Click the button below to redeem:</p>
+    <p>
+      <a href="http://94.102.49.10/claim?voucher=50">
+        <img src="http://192.0.2.123/images/redeem-now.png" alt="Redeem Now" />
+      </a>
+    </p>
+    <p>Or visit:
+      <a href="http://203.0.113.45/verify">https://www.amazon.com/verify</a>
+    </p>
+    <p>Alternatively, click <a href="https://promo.amazon.vouchersnow.com/redeem">here</a> to redeem your voucher.</p>
+    <p>Privacy policy: <a href="https://www.amazon.com/privacy-policy">https://www.amazon.com/privacy-policy</a><br/>
+       Help Center: <a href="https://www.amazon.com/help">https://www.amazon.com/help</a>
+    </p>
+    <p>If you don't claim within <strong>24 hours</strong>, your voucher will be void.</p>
+    <p>Regards,<br/>Amazon Support Team</p>
+  </body>
+</html>
+
+------=_Part_1234567_89101112.1655893332123--

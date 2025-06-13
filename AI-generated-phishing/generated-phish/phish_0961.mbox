@@ -1,0 +1,44 @@
+From alerts@irs.gov.com Fri Jul 05 14:15:22 2024
+Return-Path: <alerts@irs.gov.com>
+From: "Tax Refund Department" <alerts@irs.gov.com>
+Reply-To: support@taxservice.help
+Subject: Urgent: Account Confirmation Required for Your Tax Refund
+Date: Fri, 05 Jul 2024 14:15:22 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We noticed that your recent tax return is eligible for a small refund. To avoid any delay or risk of forfeiture, you must confirm your account details immediately. Failure to confirm now may result in your refund being revoked.
+
+Please visit the link below to confirm your banking information:
+
+https://www.irs.gov/refund-status
+
+Thank you for your prompt attention.
+
+Sincerely,
+Tax Refund Department
+Internal Revenue Service
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <body>
+  <p>Dear Customer,</p>
+  <p>We have detected that your <strong>tax return</strong> is eligible for a <span style="color:green;">small refund</span>. To avoid any <strong>urgent</strong> issues with your refund, you must confirm your <em>account</em> details <u>immediately</u>. Delay may cause your refund to be <strong>revoked</strong> or delayed.</p>
+  <p>Please <a href="http://secure.tax-refund.verify.login-update.com/confirm?id=ABCD1234" style="font-weight:bold;">click here</a> to confirm your banking information.</p>
+  <p>If you encounter any problems, you can visit our <a href="http://support.taxservice.help/privacy-policy">privacy-policy</a> or <a href="http://support.taxservice.help/help">help</a> pages.</p>
+  <p>Alternatively, you can check your refund status directly:</p>
+  <p><a href="http://secure.tax-refund.verify.login-update.com/status" title="https://www.irs.gov/online-tools/refund-status">https://www.irs.gov/online-tools/refund-status</a></p>
+  <p>Sincerely,<br>Tax Refund Department<br>Internal Revenue Service</p>
+ </body>
+</html>
+
+----=_Part_12345_67890--

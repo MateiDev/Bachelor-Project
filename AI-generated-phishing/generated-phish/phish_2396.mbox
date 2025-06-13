@@ -1,0 +1,49 @@
+From test@portal.com Fri Jun  7 12:34:56 2024
+Return-Path: <security@securemail.com>
+Delivered-To: user@example.net
+Received: from securemail.com (unknown [192.168.1.200])
+    by mail.example.net (Postfix) with ESMTP id ABC123
+    for <user@example.net>; Fri,  7 Jun 2024 12:34:56 +0000 (UTC)
+Subject: SecureMail Portal Security Alert
+From: SecureMail <security@securemail.com>
+To: user@example.net
+Message-ID: <20240607123456.ABC123@securemail.com>
+Date: Fri,  7 Jun 2024 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="------------SECUREMAIL123456"
+
+------------SECUREMAIL123456
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+URGENT: We have detected suspicious login attempts to your SecureMail account. To avoid immediate suspension, please verify your identity:
+http://192.168.0.123/verify
+
+Failure to respond within 24 hours will result in permanent account lock.
+
+Thank you,
+SecureMail Team
+
+------------SECUREMAIL123456
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<h2>SecureMail Portal Security Alert</h2>
+<p>Dear customer,</p>
+<p>We have detected multiple suspicious login attempts to your account. To avoid immediate account suspension, you must verify your identity <a href="http://192.168.0.123/verify">here</a> within 24 hours. Failure to comply will result in a permanent lock.</p>
+<p>Alternatively, access via our secure portal:</p>
+<ul>
+<li><a href="http://192.168.0.123/login"></a></li>
+<li><a href="http://192.168.0.123/auth">https://secure.yourbank.com</a></li>
+<li>For assistance, visit <a href="https://help.portal.support.com/help">https://help.portal.support.com/help</a>.</li>
+<li>To secure now <a href="http://192.168.0.123/login?ref=portal.page.secure.q1">click here</a></li>
+</ul>
+<p>This is an <b>urgent</b> alert. Act now to secure your account and avoid <b>critical</b> risk.</p>
+<p>Thank you,<br/>SecureMail Team</p>
+</body></html>
+
+------------SECUREMAIL123456--

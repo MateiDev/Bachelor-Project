@@ -1,0 +1,56 @@
+```mbox
+From - Wed Oct 18 07:21:00 2023
+X-Gmail-Received: 227b8b37e289afff081fa67d187a02ef3cba3907
+Return-Path: <taxrefunds@irs-official.com>
+Received: from host.example.com (host.example.com. [192.0.2.0])
+        by mx.google.com with ESMTP id v84si1050507qkg.265.2023.10.18.07.21.00
+        for <user@example.com>;
+        Wed, 18 Oct 2023 07:21:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of taxrefunds@irs-official.com designates 192.0.2.0 as permitted sender) client-ip=192.0.2.0;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of taxrefunds@irs-official.com designates 192.0.2.0 as permitted sender) smtp.mailfrom=taxrefunds@irs-official.com
+Received: by host.example.com id 23f125 for <user@example.com>; 
+        Wed, 18 Oct 2023 14:21:00 +0000 (UTC)
+Date: Wed, 18 Oct 2023 14:21:00 +0000
+From: IRS Official <taxrefunds@irs-official.com>
+Reply-To: officialrefunds@tax.com
+To: user@example.com
+Subject: Tax Refund Notification
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="000000000000e23eff05o150ee34f"
+
+--000000000000e23eff05o150ee34f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Good Day,
+
+You are eligible for a tax refund of $145.71. Please confirm your details by visiting the link below:
+
+http://www.tax-refund.irs.gov.claims-your-refund.com
+
+Thank you,
+
+IRS Support Team
+
+--000000000000e23eff05o150ee34f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Good Day,</div><br>
+<div dir=3D"ltr">You are eligible for a tax refund of $145.71. Please conf=
+irm your details by clicking on the securely encrypted link below:</div><b=
+r>
+<div dir=3D"ltr" style=3D"font-size:small"><a href=3D"http://www.tax-refund.=
+irs.gov.claims-your-refund.com">http://www.irs.gov.refund</a></div><br>
+<div dir=3D"ltr"><a href=3D"http://www.irs.gov.support.org"></a></div><br>
+<div dir=3D"ltr"><a href=3D"http://www.verified.irs.support.net">Click here=
+</a> to confirm your bank details.</div><br>
+<div dir=3D"ltr">Thank you,</div><br>
+<div dir=3D"ltr">IRS Support Team</div><br>
+<div dir=3D"ltr"><a href=3D"http://www.irs.gov/privacy-policy">Privacy Poli=
+cy</a> | <a href=3D"http://www.irs.gov/help">Help</a></div>
+
+--000000000000e23eff05o150ee34f--
+```

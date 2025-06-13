@@ -1,0 +1,25 @@
+From no-reply@dhl.com Mon Jul 15 12:34:56 2024
+Return-Path: <no-reply@dhl.com>
+Delivered-To: user@myemail.com
+To: user@myemail.com
+Subject: URGENT: Account Password Update Required to Release DHL Parcel
+From: "DHL Parcel Notification" <no-reply@dhl.com>
+Reply-To: "DHL Support" <support@dhl-delivery-info.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+  <p>Dear Customer,</p>
+  <p>We attempted to deliver your package (ID: 78910) today, but it is currently on hold due to an <strong>account password</strong> issue. To avoid return to sender, please <a href="http://192.0.2.123/update" title="https://dhl.com/update-account">https://dhl.com/update-account</a> and update your password immediately.</p>
+  <p>Once updated, <a href="http://203.120.223.5/pay-fee">click here</a> to pay the small release fee.</p>
+  <p>You can also check your parcel status via <a href="http://198.51.100.42/claim"><img src="https://www.dhl.com/images/release_now.png" alt="Release Now" border="0"></a></p>
+  <p>Alternatively, visit <a href="http://198.51.100.42/login">https://secure.dhl.update.delivery-service.com/login</a> to manage your delivery.</p>
+  <hr>
+  <p>
+    <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a> |
+    <a href="https://www.dhl.com/help">Help Center</a>
+  </p>
+  <p>Thank you for choosing DHL.</p>
+</body>
+</html>

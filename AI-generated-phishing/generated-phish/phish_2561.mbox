@@ -1,0 +1,45 @@
+```mbox
+From nobody Tue Oct 10 14:48:52 2023
+Return-Path: <phishing@alert-security.com>
+Received: from suspicious-ip.com (unknown [192.0.2.0])
+        by mail.example.com (Postfix) with ESMTP id ABC123456;
+        Tue, 10 Oct 2023 14:48:52 +0000 (UTC)
+Date: Tue, 10 Oct 2023 14:48:52 +0000
+From: "Security Alert" <alert@secure-update.com>
+Reply-To: support@secure-login-service.com
+Subject: Urgent Account Action Required - Password Security Update
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123456"
+
+--boundary123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual login attempt to your account. For your safety, please verify your information by logging in here: http://192.0.2.0/security-update/
+
+Thank you,
+Security Team
+
+--boundary123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Urgent Account Action Required</title>
+</head>
+<body>
+    <p>Dear User,</p>
+    <p>We detected an <strong>unusual login attempt</strong> to your account. For your safety, please verify your information by logging in <a href="http://192.0.2.0/security-update/"> </a> here.</p>
+    <p>Visit our <a href="https://secure.example.com/help">help page</a> or review our <a href="https://secure.example.com/privacy">privacy policy</a>.</p>
+    <img src="http://192.0.2.0/security-update/logo.png" alt="Security Logo">
+    <p>Thank you,<br>Security Team</p>
+</body>
+</html>
+
+--boundary123456--
+```

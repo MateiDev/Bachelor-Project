@@ -1,0 +1,46 @@
+```
+From MAILER-DAEMON Thu Oct 26 00:00:00 2023
+Return-Path: <phishing@fakegiftcards.com>
+Received: from mail.fakegiftcards.com (mail.fakegiftcards.com [192.0.2.1])
+    by recipient.com (Postfix) with ESMTP id 123456789
+    for <victim@recipient.com>; Thu, 26 Oct 2023 00:00:00 +0000 (UTC)
+Date: Thu, 26 Oct 2023 00:00:00 +0000 (UTC)
+From: GiftCard Center <notification@fakegiftcards.com>
+Reply-To: support@fakegiftcards.com
+To: victim@recipient.com
+Subject: Urgent: You're eligible for a €100 voucher—claim now
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="boundary-string"
+
+--boundary-string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Congratulations! You're eligible for an exclusive €100 gift voucher. Act fast and claim your reward by clicking the following link below:
+
+< http://fakegiftcards.com/redeem?voucher_code=123456 >
+
+Don't miss out on this opportunity!
+
+Best,
+GiftCard Team
+
+--boundary-string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="font-size:18px;">Hello,</p>
+    <p style="font-size:16px;">Congratulations! You're eligible for an exclusive €100 gift voucher. Act fast and click <a href="http://fakegiftcards.com/redeem?voucher_code=123456"><img src="http://fakegiftcards.com/images/voucher.jpg" alt="Voucher Image" /></a> to claim your reward.</p>
+    <p style="font-size:16px;">Don't miss out on this&nbsp;<a href="http://scamlink.gifts.claim-now.fakegiftcards.com"></a>&nbsp;opportunity!</p>
+    <p style="font-size:18px;">Best,<br/>GiftCard Team</p>
+  </body>
+</html>
+
+--boundary-string--
+
+```

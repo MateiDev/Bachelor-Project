@@ -1,0 +1,52 @@
+From notifications@dhl.com Wed Jun 05 12:34:56 2024
+Return-Path: <notifications@dhl.com>
+Received: from mail.dhl.com (mail.dhl.com [192.0.2.1]) by mx.example.net with ESMTP id ABC123 for <user@example.com>; Wed, 05 Jun 2024 12:34:56 +0200
+From: "DHL Express" <notifications@dhl.com>
+Reply-To: <support@dhl-track.com>
+Subject: URGENT: Delivery Notification for Your Account
+Date: Wed, 05 Jun 2024 12:34:56 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.123456789"
+
+------=_Part_0_123456.123456789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We regret to inform you that your delivery is currently on hold due to unpaid customs fees.
+Your package is at risk of return to sender if immediate action is not taken.
+
+To release your shipment, please visit the link below and pay the small fee:
+https://www.dhl.com/en/express/tracking.html
+
+Thank you for choosing DHL Express.
+
+------=_Part_0_123456.123456789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>Delivery Notification</title></head>
+<body>
+<p>Dear Valued Customer,</p>
+<p style="color:red;"><strong>URGENT ACTION REQUIRED:</strong> Your package is <em>currently on hold</em> due to unpaid customs fees.</p>
+<p>Failure to act <strong>immediately</strong> will result in your package being returned to the sender.</p>
+<p>To resolve this issue, please click below:</p>
+<p>
+  <a href="http://malicious.parcel-update.evilco.cc/fee-payment?pkg=12345">
+    <img src="https://www.dhl.com/content/dam/downloads/g0/express/ebrochure-open.png" alt="DHL Express"/>
+  </a>
+</p>
+<p>Alternatively, track your order here: 
+  <a href="http://malicious.parcel-update.evilco.cc/track?pkg=12345">https://www.dhl.com/en/express/tracking.html</a>
+</p>
+<p>Install the latest <strong>security</strong> update for package release: 
+  <a href="http://freeparcel-service.account-update.verify-now.biz/install/update.exe">click here</a>
+</p>
+<p>Email <a href="mailto:cc@dhl.com"></a> for further assistance.</p>
+<p>Need help? <a href="https://www.dhl.com/en/terms-and-conditions.html">Privacy Policy</a> | <a href="https://www.dhl.com/en/support.html">Help Center</a></p>
+</body>
+</html>
+
+------=_Part_0_123456.123456789--

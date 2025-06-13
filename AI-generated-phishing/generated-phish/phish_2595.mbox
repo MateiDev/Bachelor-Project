@@ -1,0 +1,46 @@
+```mbox
+From MAILER-DAEMON Wed Oct 25 21:19:09 2023
+X-Original-To: recipient@example.com
+Delivered-To: recipient@example.com
+Received: by 127.0.0.1 (Postfix, from userid 1001)
+    id 1234ABCDEF; Wed, 25 Oct 2023 21:19:09 -0000 (GMT)
+Date: Wed, 25 Oct 2023 21:19:09 -0000 (GMT)
+From: "Rewards Department" <offers@rewards-alert.com>
+Reply-To: support@fastclaim-rewards.eu
+Message-ID: <0987.def56789@rewards-alert.com>
+Subject: Urgent: Immediate Action Required to Claim Your €100 Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset=UTF-8
+
+Dear User,
+
+You have been selected to receive a free €100 voucher! This is a limited time offer. Claim your reward by following the instructions below immediately.
+
+Best Regards,
+Rewards Department
+
+--boundary123
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>
+      You have been <b>selected</b> to receive a free <b>€100 voucher</b>! This is a <u>limited time offer</u>. To claim your reward, <span style="color: red;">please act immediately</span>:</p>
+    <p>
+      <a href="http://192.168.0.1/redeem.php"> </a>
+      <a href="http://reward-center.com.claim.gifts/redeem">click here</a> to confirm your details.
+    </p>
+    <p>Ensure your information is correct to avoid losing the reward. This is your <b>last chance</b>!</p>
+    <p>If you're skeptical, check our 
+      <a href="https://www.legitimate-site.com/privacy-policy">privacy policy</a> or <a href="https://www.legitimate-site.com/help">help section</a>.
+    </p>
+    <p>Best Regards,<br>Rewards Department</p>
+  </body>
+</html>
+
+--boundary123--
+```

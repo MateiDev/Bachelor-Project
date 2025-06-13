@@ -1,0 +1,21 @@
+From alerts@securemail.bank.com Wed Jul 21 15:39:00 2021
+Return-Path: <alerts@securemail.bank.com>
+From: "SecureMail Alerts" <alerts@securemail.bank.com>
+Reply-To: support@phishing-malicious.net
+To: user@victim.com
+Subject: SecureMail Notification - Encrypted Message Awaiting
+Date: Wed, 21 Jul 2021 15:39:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html><body>
+<p>Dear User,</p>
+<p>You have received an encrypted secure-mail that requires your immediate verification.</p>
+<p>Please <a href="http://phishing-malicious.net/securemail/verify?uid=2781">https://secure.bank.com/verify?uid=2781</a> to access the message.</p>
+<p>For help, click <a href="http://203.0.113.5/support">here</a>.</p>
+<p>You can also use our portal: <a href="http://192.0.2.50/login">login.portal.bank.secure.com</a></p>
+<p>Privacy Policy: <a href="http://securemail.bank.com/privacy-policy">Privacy Policy</a><br>
+Help Center: <a href="http://securemail.bank.com/help-center">Help Center</a></p>
+<a href="http://malicious.biz/capture"></a>
+<p>Thank you,<br>SecureMail Team</p>
+</body></html>

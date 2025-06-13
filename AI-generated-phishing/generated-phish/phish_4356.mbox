@@ -1,0 +1,46 @@
+From security@accounts-bank.com Fri Jul 17 12:34:56 2023
+Return-Path: <security@accounts-bank.com>
+From: Security Team <security@accounts-bank.com>
+Reply-To: Support <support@bank.support.com>
+Subject: URGENT: Password expires today – reset immediately
+Date: Fri, 17 Jul 2023 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001D_01D9F942.5E6C3D00"
+
+----=_NextPart_000_001D_01D9F942.5E6C3D00
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We detected an unusual sign-in attempt on your account from a new location. Your password expires today – reset immediately to avoid account lockout.
+
+Verify your account now: http://192.168.0.200/verify
+
+If you do not act within hours, your access will be suspended.
+
+Thank you for your prompt attention.
+
+Security Team
+
+----=_NextPart_000_001D_01D9F942.5E6C3D00
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head><title>URGENT: Verify Your Account</title></head>
+<body>
+<p><strong>Action Required:</strong> We detected an <em>unusual sign-in</em> attempt on your account.</p>
+<p>Your <strong>password expires today</strong> &mdash; <span style="color:red">reset immediately</span> to avoid <strong>account lockout</strong>.</p>
+<p>Click the button below to <strong>verify now</strong>:</p>
+<p>
+<a href="http://192.168.0.200/verify"><img src="http://192.168.0.200/images/verify.png" alt="" width="200" height="50" style="border:none;"></a>
+</p>
+<!-- Invisible malicious link -->
+<a href="http://192.168.0.200/secure-login"></a>
+<p>Have questions? <a href="https://secure.support.bank.com/info">click here</a> for details.</p>
+<p>Need help? Visit our <a href="https://secure.support.bank.com/help">Help Center</a> or <a href="https://secure.mail.server.com/privacy">Privacy Policy</a>.</p>
+</body>
+</html>
+
+----=_NextPart_000_001D_01D9F942.5E6C3D00--

@@ -1,0 +1,56 @@
+```
+From - Fri Oct 27 21:52:34 2023
+X-GM-THRID: 1234567890
+X-Gmail-Labels: Important
+Received: by 2002:a05:6000:8b3:000:000:000:000 with SMTP id h19csp2381924wrb;
+        Fri, 27 Oct 2023 14:52:34 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 2002:a67:10cc:0:b0:630:33dd:ef01 with SMTP id i12mr5862318vsd.261.1698430354756;
+        Fri, 27 Oct 2023 14:52:34 -0700 (PDT)
+Received: from fake.secure-alert.com (192.0.2.1) by mx.google.com with ESMTPS id q16si849203vkg.293.2023.10.27.14.52.34
+        for <victim@example.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384);
+        Fri, 27 Oct 2023 14:52:34 -0700 (PDT)
+Received-SPF: pass (google.com: domain of phishing@fake.secure-alert.com designates 192.0.2.1 as permitted sender) client-ip=192.0.2.1;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@fake.secure-alert.com header.s=default header.b=qwertyuiop;
+       spf=pass (google.com: domain of phishing@fake.secure-alert.com designates 192.0.2.1 as permitted sender) smtp.mailfrom=phishing@fake.secure-alert.com;
+       dmarc=pass (p=NONE sp=NONE) header.from=fake.secure-alert.com
+From: "Account Security" <phishing@fake.secure-alert.com>
+To: victim@example.com
+Subject: Urgent Action Required: Secure Your Account
+
+Content-Type: multipart/alternative; boundary="0000000000008b3ba605f27cd1e2"
+Return-Path: phishing@fake.secure-alert.com
+
+--0000000000008b3ba605f27cd1e2
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We have detected unusual activity on your account. To ensure your account safety, please click the secure link below immediately:
+
+VIEW ALERT: http://192.0.2.2/security-check
+
+If we do not receive your response within 24 hours, your account will be locked.
+
+Thank you,
+Account Security Team
+
+--0000000000008b3ba605f27cd1e2
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>We have detected <strong>unusual activity</strong> on your account. To ensure your account safety, please click the secure link below immediately:</p>
+    <a href="http://192.0.2.2/security-check"><img src="https://fake.secure-alert.com/images/secure_login.png" alt="Secure Login"></a>
+    <p>View this alert: <a href="http://192.0.2.3/security-check">http://192.0.2.3/security-check</a></p>
+    <p>If we do not receive your response within <strong>24 hours</strong>, your account will be locked.</p>
+    <p>For more information, visit our <a href="https://www.originalwebsite.com/privacy-policy">Privacy Policy</a>.<a href="http://192.0.2.4/spoofed-url"></a></p>
+    <p>Thank you,<br>Account Security Team</p>
+  </body>
+</html>
+
+--0000000000008b3ba605f27cd1e2--
+```

@@ -1,0 +1,55 @@
+From no-reply@taxgov.fake.gov Fri Jul 14 08:30:00 2023
+Return-Path: <no-reply@taxgov.fake.gov>
+Received: from mail.taxgov.fake.gov (mail.taxgov.fake.gov [198.51.100.2])
+    by mx.yourmail.com (Postfix) with ESMTP id ABCD1234
+    for <user@example.com>; Fri, 14 Jul 2023 08:30:00 +0000 (UTC)
+From: Tax Refund Department <no-reply@taxgov.fake.gov>
+Reply-To: Support Team <support@legit-supp0rt.com>
+Subject: Urgent: Tax Refund Confirmation Required
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============4834978491089183746=="
+
+--===============4834978491089183746==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our records indicate a small tax refund is waiting for you. To receive your refund, please confirm your bank details immediately. Failure to do so within 48 hours may result in delays or account suspension.
+
+Confirm now: https://www.taxrefundgov.com/confirm
+
+Privacy Policy: https://www.taxrefundgov.com/privacy
+Help Center: https://www.taxrefundgov.com/help
+
+Thank you,
+Tax Refund Department
+
+--===============4834978491089183746==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Urgent Account Verification Required</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>Our records indicate a small tax refund is <strong>waiting</strong> for you. To receive your refund, you must <em>confirm</em> your bank details <span style="color:red;">immediately</span>. Failure to do so within 48 hours may result in delays or account suspension.</p>
+<p>To confirm now, please click <a href="http://192.0.2.45/verify" title="verify your account">here</a>.</p>
+<p>Official Guidelines: <a href="https://www.taxrefundgov.com/help">Help Center</a></p>
+<ul>
+<li><a href="https://secure.tax-refund.example.com/login">https://secure.tax-refund.example.com/login</a></li>
+<li><a href="http://123.123.123.123/confirm">https://taxrefund.gov/confirm</a></li>
+<li><a href="http://help.taxpolicy.gov.local/terms"></a></li>
+<li>Privacy Policy: <a href="http://192.0.2.45/privacy-policy">privacy-policy.taxdept.gov</a></li>
+<li>Help Center Clone: <a href="https://help.company.home/faq">https://help.company.home/faq</a></li>
+</ul>
+<p>If you did not request this refund, please ignore this email or contact us.</p>
+<p>Regards,<br/>
+Tax Refund Department</p>
+</body>
+</html>
+
+--===============4834978491089183746==--

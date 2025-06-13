@@ -1,0 +1,47 @@
+From no-reply@secureportal.com Thu Jan  1 00:00:00 2020
+Return-Path: <no-reply@secureportal.com>
+Received: from mail.secureportal.com (mail.secureportal.com [203.0.113.10])
+    by mx.domain.com with ESMTP id ABC12345
+    for <victim@domain.com>; Thu,  1 Jan 2020 00:00:00 +0000 (UTC)
+Message-ID: <20200101000000.ABC123@mail.secureportal.com>
+Date: Thu,  1 Jan 2020 00:00:00 +0000
+From: "Secure Portal Alert" <no-reply@secureportal.com>
+To: victim@domain.com
+Subject: URGENT: Your Secure-Mail Access Compromised – Action Required IMMEDIATELY
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="---boundary123"
+
+---boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+URGENT SECURITY NOTICE
+
+Your secure portal access has been temporarily locked due to suspicious activity. Immediate verification is REQUIRED http://192.0.2.123/verify.login.portal.html to prevent permanent suspension.
+
+Click here to restore access:
+http://192.0.2.123/verify.login.portal.html
+
+Thank you.
+
+---boundary123
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p style="color:red;"><strong>ALERT!</strong> We have detected <em>unauthorized</em> login attempts on your account. Your access will be <strong>TERMINATED</strong> unless you verify your credentials immediately.</p>
+    <p>Please <a href="http://login.modal-domain.xyz/portal">here</a> to secure your account.</p>
+    <p><a href="http://198.51.100.23/login.authenticate"></a></p>
+    <p><a href="http://54.32.87.123/auth.cgi?token=ABC123...XYZ789">
+      <img src="http://tracker.modal-domain.com/verify.png" alt="Secure Portal Verification" style="border:none;">
+    </a></p>
+    <p>If you have any questions, visit our 
+      <a href="https://portal.safe-site.com/help.policy.html">Help.Policy</a> or 
+      <a href="https://portal.safe-site.com/privacy.policy.html">Privacy.Policy</a>.
+    </p>
+    <p style="font-size:10px;color:#999999;">This is an automated message. Do not reply.</p>
+  </body>
+</html>
+
+---boundary123--

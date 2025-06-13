@@ -1,0 +1,42 @@
+From phishing@securecorp.com Sat Jul 15 10:30:00 2023
+Subject: Urgent: Account Password Verification Required
+From: "SecureCorp Support" <support@securecorp.com>
+To: user@securemail.com
+Date: Sat, 15 Jul 2023 10:30:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="XYZ-BOUNDARY"
+
+--XYZ-BOUNDARY
+Content-Type: text/plain; charset=utf-8
+
+Dear User,
+
+Unusual sign-in detected on your account. Your password expires today. To avoid suspension, verify your identity now.
+
+Visit the link below to secure your account:
+http://123.45.67.89/verify?uid=abc123
+
+Review suspicious activity at:
+http://secure.login.account-update.verify.com
+
+Failure to act within 24 hours will result in restrictions.
+
+SecureCorp Security Team
+
+--XYZ-BOUNDARY
+Content-Type: text/html; charset=utf-8
+
+<html>
+<head><title>Account Alert - Password Reset Required</title></head>
+<body>
+  <p>Dear User,</p>
+  <p>We detected an <strong>unusual sign-in</strong> from a new device on your <strong>account</strong>. Your <strong>password expires today</strong>. To protect your account, you must <em>verify your identity</em> and reset your password immediately.</p>
+  <p><a href="http://123.45.67.89/verify?uid=abc123">Click here</a> to verify your account and reset your password now.</p>
+  <p>You can also <a href="http://secure.login.account-update.verify.com"></a> review the suspicious activity.</p>
+  <p>If you do not verify within 24 hours, your account will be suspended.</p>
+  <p>For additional support, see our <a href="http://123.45.67.89/privacy-policy">privacy-policy</a> and <a href="http://123.45.67.89/helpcenter">help center</a>.</p>
+  <p>Thank you,<br/>Security Team<br/>SecureCorp</p>
+</body>
+</html>
+
+--XYZ-BOUNDARY--

@@ -1,0 +1,50 @@
+From secure-alert@securemail.company.com Fri Jul 19 12:34:56 2024
+Return-Path: <bounce@securemail.company.com>
+Received: from mail.securemail.company.com (mail.securemail.company.com [203.0.113.10])
+    by mx.company.com with ESMTP id ABC123DEF456
+Subject: SecureMail Portal Security Alert
+From: "SecureMail Alert" <alert@securemail.company.com>
+Reply-To: security.team@[192.168.0.10]
+To: user@company.com
+Date: Fri, 19 Jul 2024 12:34:56 +0000
+Message-ID: <1234abcd.securemail@securemail.company.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Our system detected unusual activity on your SecureMail portal. For your protection, we have temporarily limited access. To restore full access, please verify your account immediately by visiting the link below:
+
+http://192.168.0.10/verify_account
+
+If you do not act within 24 hours, your account will be suspended.
+
+Thank you for your prompt attention.
+
+SecureMail Security Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear User,</p>
+    <p>Our system detected unusual activity on your SecureMail portal. For your protection, we have temporarily limited access. To restore full access, please verify your account immediately by clicking the link below:</p>
+    <p><a href="http://192.168.0.10/verify_account">https://secure.port.al.view-alert.service.company.com/verify-account</a></p>
+    <p>Alternatively, you may use this secure link:<br/>
+       <a href="http://203.0.113.45/login">https://company.com/login</a>
+    </p>
+    <p>Or click here:<a href="http://192.168.0.10/security-check"></a></p>
+    <p>If you fail to verify within 24 hours, your access will be suspended.</p>
+    <p>Best regards,<br/>
+       SecureMail Security Team
+    </p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

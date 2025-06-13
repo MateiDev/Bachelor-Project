@@ -1,0 +1,49 @@
+```
+From examplebanksecure@secure-email.com Wed Jul 12 14:00:00 2023
+Return-Path: <examplebanksecure@secure-email.com>
+Received: from secured-server.com (secured-server.com [192.168.1.100])
+        by yourmailserver.com (Postfix) with ESMTP id 12345
+        for <youremail@yourdomain.com>; Wed, 12 Jul 2023 14:01:00 +0000 (UTC)
+Date: Wed, 12 Jul 2023 14:00:00 +0000
+From: Account Security <examplebanksecure@secure-email.com>
+Reply-To: noreply@trusted-login-alert.com
+Subject: Urgent: Your Account Needs Immediate Attention
+
+--b1_1234567890abcdef
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+We have detected unusual activity on your account and your immediate attention is needed. Please verify your account information as soon as possible to avoid any restrictions.
+
+Access your account securely and continue enjoying our services without any interruptions.
+
+Click on the secure link below to verify your account:
+
+Secure Portal Login: [    ]
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Example Bank Security Team
+
+--b1_1234567890abcdef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We have detected unusual activity on your account and your immediate attention is needed. Please verify your account information as soon as possible to avoid any restrictions.</p>
+<p>Access your account securely and continue enjoying our services without any interruptions.</p>
+<p>Click on the secure link below to verify your account:</p>
+<p>Secure Portal Login: <a href="http://secure.email-portal-login.com/security-check">    </a></p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Sincerely,<br>Example Bank Security Team</p>
+<img src="http://examplebank-secure-verify.com/logo.png" alt="" />
+</body>
+</html>
+
+--b1_1234567890abcdef--
+```

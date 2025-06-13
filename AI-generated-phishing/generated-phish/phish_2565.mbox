@@ -1,0 +1,46 @@
+```mbox
+From nobody Mon Oct  2 17:43:00 2023
+Return-Path: <info@giftrewards.com>
+Received: from mail.giftrewards.com (mail.giftrewards.com [192.168.1.1])
+    by yourserver.com (Postfix) with ESMTP id 123456789
+    for <user@example.com>; Mon,  2 Oct 2023 17:43:00 +0000 (UTC)
+Date: Mon, 2 Oct 2023 17:43:00 +0000
+From: "Gift Rewards" <info@giftrewards.com>
+Reply-To: urgent@claimvoucher.net
+To: user@example.com
+Subject: Urgent: Claim Your €1000 Voucher Now!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="utf-8"
+
+Congratulations!
+
+You are eligible for a €1000 voucher! This is your last chance to claim your reward. Please act quickly to avoid missing out.
+
+Visit now: http://claimvoucher.u3y1.freevoucher.com/win
+
+Thank you for your attention.
+
+Best,
+Gift Rewards Team
+
+--boundary123
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<p>Congratulations!</p>
+<p>You are eligible for a €1000 voucher! This is your last chance to claim your reward. Please act quickly to avoid missing out.</p>
+<p>Visit now: <a href="http://98.139.180.149/claim">http://claimvoucher.u3y1.freevoucher.com/win</a></p>
+<img src="http://giftrewards.com/image.png" alt="Claim Your Voucher Now">
+<p>Thank you for your attention.</p>
+<p>Best,</p>
+<p>Gift Rewards Team</p>
+<p><a href=""> </a></p>
+</body>
+</html>
+
+--boundary123--
+```

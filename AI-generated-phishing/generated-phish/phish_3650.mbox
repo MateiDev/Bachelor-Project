@@ -1,0 +1,52 @@
+From support@yourbank.com Fri Jun 14 12:34:56 2024
+Return-Path: <support@yourbank.com>
+Received: from mail.yourbank.com (mail.yourbank.com [198.51.100.5])
+    by smtp.yourbank.com with ESMTPS id ABC123DEF
+    for <user@test.com>; Fri, 14 Jun 2024 12:34:56 -0400
+From: "YourBank Support" <support@yourbank.com>
+Reply-To: security.alerts@notify-secure.net
+To: user@test.com
+Subject: Urgent: Account Password & Refund Confirmation Required
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1234567_7654321.1592247890000"
+
+------=_Part_1234567_7654321.1592247890000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We are sending a final notice regarding a small tax refund that is pending in your account. Immediate action is required to confirm your bank details and password to process your refund. Failure to confirm by end of today may result in cancellation of your refund and temporary account suspension.
+
+Please visit the following link to verify now:
+http://192.168.0.100/refund/confirm
+
+Thank you for your prompt attention.
+
+YourBank Support Team
+
+------=_Part_1234567_7654321.1592247890000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Dear Customer,</p>
+<p>We have detected an <strong>URGENT</strong> update to your <span style="color:red;">Account</span>. A small <em>Tax Refund</em> is <em>WAITING</em> for you. To avoid delays and possible <strong>ACCOUNT SUSPENSION</strong>, please <strong>CONFIRM</strong> your <strong>PASSWORD</strong> and bank details immediately. This is your <u>FINAL NOTICE</u>.</p>
+<p>Click here to verify your details:<br>
+<a href="http://203.0.113.45/submit?acct=98765">http://secure.yourbank.com/submit</a>
+</p>
+<p>Or use this link:<br>
+<a href="http://www.0x0.0x1.0x02/verify?user=12345"></a>
+</p>
+<p>Alternatively, visit:<br>
+<a href="http://198.51.100.23/update">https://secure.bank.verify-check.system.com/update</a>
+</p>
+<p>
+<a href="http://192.0.2.123/confirm"><img src="http://192.0.2.33/images/btn_confirm.png" alt="Confirm Now"></a>
+</p>
+<p>If you do not respond <strong>immediately</strong>, your refund will be automatically cancelled and your account may be temporarily locked.</p>
+<p>Thank you,<br>YourBank Security Team</p>
+</body></html>
+
+------=_Part_1234567_7654321.1592247890000--

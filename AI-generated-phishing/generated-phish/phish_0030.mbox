@@ -1,0 +1,49 @@
+```mbox
+From mgomez@revenue-agency.com Tue Oct 10 14:16:22 2023
+Return-Path: <mgomez@revenue-agency.com>
+Delivered-To: user@example.com
+Received: from mailserver1.evilserver.com (mailserver1.evilserver.com [192.0.2.1])
+        by usermailserver.com (Dovecot) with ESMTP id OvICHEoAIPeHSx0Y2023
+        for <user@example.com>; Tue, 10 Oct 2023 14:16:22 +0000
+Received: from [192.0.2.1] (unknown [10.0.0.1])
+        by mailserver1.evilserver.com (Postfix) with ESMTP id 6E930226A56
+        for <user@example.com>; Tue, 10 Oct 2023 14:16:22 +0000 (UTC)
+Date: Tue, 10 Oct 2023 14:16:22 +0000
+From: Tax Refund Service <mgomez@revenue-agency.com>
+Reply-To: noreply@tax-refund.com
+Subject: Urgent: Action Required to Claim Your Tax Refund Now
+Message-ID: <20231010141622.6274GG49T9@mailserver1.evilserver.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head></head>
+<body>
+<p>Dear Taxpayer,</p>
+
+<p>We are pleased to inform you that you have an outstanding tax refund of =
+<span style=3D"font-weight:bold;color:#ff0000;">$234.56</span> due to you.=
+ To receive your refund, please confirm your bank details to prevent any d=
+elay.</p>
+
+<p>Click the link below to proceed:</p>
+
+<p><a href=3D"http://secure.tax-refund.confirmation.evilsite.com/process" =
+style=3D"display:block;width:100%;text-align:center;">
+<img src=3D"http://secure.tax-refund.confirmation.evilsite.com/image.jpg" =
+alt=3D"Click Here to Confirm"></a></p>
+
+<p>We urge you to complete this process to avoid any interruption to your =
+refund acquisition.</p>
+
+<p>Thank you,<br>
+Tax Refund Service Team<br>
+For queries, please visit our <a href=3D"http://secure.contact.evilsite.co=
+m/help"></a>.</p>
+
+<p style=3D"font-size:0;">This message is intended for <?user@example.com?>, =
+please do not reply.</p>
+</body>
+</html>
+```

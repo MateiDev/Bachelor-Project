@@ -1,0 +1,43 @@
+From user@example.com Tue Oct 10 14:48:36 2023
+Return-Path: <phisher@example.com>
+Received: from unknown (HELO mail.fake.com) (203.0.113.5)
+  by fake.com with SMTP; Tue, 10 Oct 2023 14:48:36 -0500
+Date: Tue, 10 Oct 2023 14:48:36 -0500
+From: "Security Alert" <security@bankoftrust.com>
+Subject: Urgent: Action Required for Your Account Security
+To: victim@example.com
+Content-Type: multipart/alternative; boundary="000000000000c3aeae060f123456"
+
+--000000000000c3aeae060f123456
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+We have detected unusual activity on your account which requires immediate attention. Failure to verify your credentials will result in account suspension.
+
+Please click the secure link to verify: http://192.168.1.1/secure
+
+Urgently,
+Bank of Trust Security Team
+
+--000000000000c3aeae060f123456
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have <b>detected unusual activity</b> on your account which requires <b>immediate attention</b>. Failure to verify your credentials will result in account suspension.</p>
+    <p>Please click the secure link to verify:</p>
+    <p><a href="http://192.168.1.1/secure"><img src="http://example.com/images/secure.png" alt="Secure Verification" /></a></p>
+    <p>Urgently,</p>
+    <p>Bank of Trust Security Team</p>
+    <footer>
+      <p>For our privacy policy, please visit <a href="http://bankoftrust.com/privacy">here</a>.</p>
+      <p>Need help? Click <a href="http://bankoftrust.com/help">here</a> for assistance.</p>
+    </footer>
+  </body>
+</html>
+
+--000000000000c3aeae060f123456--

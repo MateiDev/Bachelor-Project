@@ -1,0 +1,61 @@
+```
+From - Wed Oct 18 20:41:27 2023
+X-Original-To: victim@example.com
+Delivered-To: victim@example.com
+Received: by 10.200.45.23 with SMTP id k23csp149874qtc;
+        Wed, 18 Oct 2023 20:41:27 -0700 (PDT)
+X-Google-Smtp-Source: APXvYxw4PYAijB29QFds+fd0R0v3IN8duGuVlakJp/Fly
+X-Received: by 10.36.174.5 with SMTP id r5mr7063755qke.92.1508305287123;
+        Wed, 18 Oct 2023 20:41:27 -0700 (PDT)
+Return-Path: <spammer@malicious.com>
+Received: from malicious.com (malicious.com. [192.0.2.42])
+        by mx.google.com with ESMTP id w37si850877qka.161.2023.10.18.20.41.26;
+        Wed, 18 Oct 2023 20:41:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of spammer@malicious.com designates 192.0.2.42 as permitted sender) client-ip=192.0.2.42;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of spammer@malicious.com designates 192.0.2.42 as permitted sender) smtp.mailfrom=spammer@malicious.com
+Received: by malicious.com with ESMTP id B65F9A364851
+        for <victim@example.com>; Wed, 18 Oct 2023 20:41:27 -0700 (PDT)
+Content-Type: multipart/alternative; boundary="000000000000b29b7c056e1a1e4d"
+MIME-Version: 1.0
+Date: Wed, 18 Oct 2023 20:41:27 -0700
+From: Online Rewards <rewards@support.com>
+To: "victim@example.com" <victim@example.com>
+Subject: Urgent: Claim your €100 Gift Voucher Now!
+Message-ID: <CAF123YdTGHuOpdBZmGn4RVi17TT=q1+7U-R@malicious.com>
+
+--000000000000b29b7c056e1a1e4d
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer,
+
+Congratulations! You have been selected to receive an exclusive €100 gift voucher to spend at any of your favorite stores. This is a limited time offer, and it is urgent that you claim it now.
+
+Simply click the link below to claim your voucher instantly:
+
+http://192.0.2.42/gift-voucher
+
+If you are unsure about this email, please check our privacy policy or contact us for help at http://www.support.com/help.
+
+We hope to serve you better as your satisfaction is our priority.
+
+Best,
+The Online Rewards Team
+
+--000000000000b29b7c056e1a1e4d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <p>Dear Valued Customer,</p>
+    <p>Congratulations! You have been selected to receive an exclusive <strong>&euro;100 gift voucher</strong> to spend at any of your favorite stores. This is a limited time offer, and it is <strong>urgent</strong> that you claim it now.</p>
+    <p>Simply click <a href="http://192.0.2.42/gift-voucher">here</a> to claim your voucher instantly.</p>
+    <p>If you are unsure about this email, please check our <a href="http://www.support.com/privacy-policy">privacy policy</a> or contact us for <a href="http://www.support.com/help">help</a>.</p>
+    <p>We hope to serve you better as your satisfaction is our priority.</p>
+    <p>Best, <br /> The Online Rewards Team</p>
+  </body>
+</html>
+
+--000000000000b29b7c056e1a1e4d--
+```

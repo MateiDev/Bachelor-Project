@@ -1,0 +1,50 @@
+```
+From - Mon Oct 23 13:16:39 2023
+Return-Path: <noreply@securebank.com>
+Delivered-To: victim@example.com
+Received: from mail.securebank.com (unknown [203.0.113.5])
+    by mail.example.com (Postfix) with ESMTP id C84E341D39
+    for <victim@example.com>; Mon, 23 Oct 2023 13:16:39 +0000 (UTC)
+Subject: Urgent Security Alert: Verify Your Account Details
+Reply-To: noreply-verify@secureportal.com
+From: SecureBank <noreply@securebank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456_78901234.5678901234"
+
+------=_Part_123456_78901234.5678901234
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Our security team has detected suspicious activity on your account. To ensure your account remains secure, please verify your details by clicking the link below:
+
+http://192.168.1.100/secure-update
+
+Thank you,
+SecureBank Security Team
+
+------=_Part_123456_78901234.5678901234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head></head>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Our security team has detected suspicious activity on your account. To ensure your account remains secure, please verify your details by clicking the link below:</p>
+    <a href="http://192.168.1.100/secure-update"><img src="http://www.securebank.com/images/security.png" alt="Secure Update"/></a>
+    <p>Alternatively, you can click 
+      <a href="http://securebank.com/login">here</a>
+    </p>
+    <div style="display:none;"><a href="http://192.168.1.100/hidden-url"></a></div>
+    <p>Thank you,</p>
+    <p>SecureBank Security Team</p>
+    <p><a href="http://www.securebank.com/help">Help</a> |
+       <a href="http://www.securebank.com/privacy-policy">Privacy Policy</a>
+    </p>
+  </body>
+</html>
+
+------=_Part_123456_78901234.5678901234--
+```

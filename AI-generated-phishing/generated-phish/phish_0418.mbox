@@ -1,0 +1,47 @@
+```mbox
+From fake-alert@secure-service.com Tue Oct 10 15:30:12 2023
+Return-Path: <fake-alert@secure-service.com>
+Received: from unknown (HELO secure-service.com) (192.0.2.1)
+  by mail.example.com with SMTP; Tue, 10 Oct 2023 15:30:12 +0000
+Reply-To: alerts-handle@support-secure.com
+From: "Security Notice" <fake-alert@secure-service.com>
+Subject: Urgent: Unusual sign-in detected on your account
+To: victim@example.com
+Date: Tue, 10 Oct 2023 15:30:12 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_Part_0_1234567.891011121314"
+Message-ID: <1234567890.1234567891234.JavaMail.fake-alert@secure-service.com>
+
+------=_Part_0_1234567.891011121314
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+We detected an unusual sign-in attempt on your account. To ensure your account's safety, please verify your activity immediately. 
+
+Please proceed with the verification by visiting the following link: 
+
+http://192.0.2.0/verification_alert
+
+Thank you,
+Security Team
+
+------=_Part_0_1234567.891011121314
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We detected an <b>unusual sign-in attempt</b> on your account. To ensure your account's safety, please verify your activity immediately.</p>
+<p>Please proceed with the verification by visiting the following link:</p>
+<p><a href="http://192.0.2.0/verification_alert"></a></p>
+<p>If you did not sign in, please <a href="http://secure.fake-login.com/check_activity">click here to secure your account</a>.</p>
+<p>Thank you,<br>Security Team</p>
+</body>
+</html>
+
+------=_Part_0_1234567.891011121314--
+```

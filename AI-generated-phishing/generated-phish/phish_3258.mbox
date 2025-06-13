@@ -1,0 +1,49 @@
+From no-reply@taxrefupdates.gov Sat Jun 29 12:34:56 2024
+From: "Tax Department" <no-reply@taxrefupdates.gov>
+Reply-To: "Tax Support Team" <support@urefunds-tax.gov>
+To: "Valued Customer" <victim@domain.com>
+Subject: urgent: account refund confirmation required
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===BOUNDARY==="
+
+--===BOUNDARY===
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have processed your recent tax submission and determined that you are eligible for a small refund of $42.15. To receive your refund, please confirm your banking information immediately:
+
+http://192.168.100.50/verify
+http://phish-server.com/confirm
+http://secure.login.bank.gov.verify-account.payment.int/web
+
+If you have any questions, respond to this message.
+
+Thank you,
+Tax Refund Department
+
+--===BOUNDARY===
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>urgent account password verification</title>
+</head>
+<body>
+<p>Dear Customer,</p>
+<p>We have processed your recent tax submission and determined that you are eligible for a small refund of <strong>$42.15</strong>. To receive your refund, please confirm your banking information immediately:</p>
+<ul>
+<li>Visit: <a href="http://192.168.100.50/verify">http://192.168.100.50/verify</a></li>
+<li>Click <a href="http://phish-server.com/confirm">http://taxref.gov/confirm</a> to proceed.</li>
+<li>Alternate link: <a href="http://secure.login.bank.gov.verify-account.payment.int/web">Confirm Now</a></li>
+</ul>
+<p>Quick verify:</p>
+<p><a href="http://phish-server.com/bankverify"></a></p>
+<p><a href="http://192.168.100.50/bankdetails"><img src="http://tracking.urefunds-tax.gov/track.png" alt=""></a></p>
+<p>If you have any questions, reply to this message or contact our support.</p>
+<p>Thank you,<br>Tax Refund Department</p>
+</body>
+</html>
+
+--===BOUNDARY===

@@ -1,0 +1,58 @@
+From alert@banksecure.com Wed Jun 05 14:55:02 2024
+Return-Path: <alert@banksecure.com>
+Received: from mx1.banksecure.com (mx1.banksecure.com [198.51.100.23]) by mail.victim.com with ESMTP id ABC12345 for <user@victim.com>; Wed, 05 Jun 2024 14:55:02 -0400
+From: "Secure Banking Alert" <alert@banksecure.com>
+Reply-To: "Support Team" <helpdesk@support-verification.net>
+To: user@victim.com
+Subject: Urgent: Account Password Expiry & Verification Required
+Date: Wed, 05 Jun 2024 14:55:02 -0400
+Message-ID: <20240605145502.abc123@banksecure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_0_123456.123456789"
+
+------=_Part_0_123456.123456789
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Immediate action required. We detected an unusual sign-in attempt on your account. For your protection, your account is temporarily locked and your password expires TODAY.
+
+Verify your account NOW: http://192.0.2.44/check?uid=ABC123
+Reset your password immediately: http://203.0.113.5/login?reset=XYZ789
+
+Failure to act within 24 hours will result in permanent suspension.
+
+Privacy Policy: https://banksecure.com/privacy-policy
+Help Center: https://banksecure.com/help-center
+
+Regards,
+Online Security Team
+
+------=_Part_0_123456.123456789
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p><strong>CRITICAL ALERT:</strong> Unusual sign-in detected&mdash;verify now!</p>
+    <p>Your <a href="http://192.0.2.44/check?uid=ABC123">account</a> has been locked due to suspicious activity.</p>
+    <p>Your password expires today &ndash; <a href="http://203.0.113.5/login?reset=XYZ789">reset immediately</a>.</p>
+    <p>To reactivate your account, <a href="http://192.0.2.44/reactivate">click here</a> now.</p>
+    <p>Alternatively, log in via 
+       <a href="http://203.0.113.5/login?user=ABC123">https://secure.bank-portal.net/login</a>
+    </p>
+    <p>
+      <a href="https://banksecure.com/privacy-policy">Privacy Policy</a> |
+      <a href="https://banksecure.com/help-center">Help Center</a>
+    </p>
+    <p>
+      <a href="https://login.secure-bank.com/account">
+        <img src="http://203.0.113.5/img/logo.png" alt="Secure Bank Logo" border="0"/>
+      </a>
+    </p>
+    <p><em>If you do not verify now, you risk losing access to your account!</em></p>
+  </body>
+</html>
+------=_Part_0_123456.123456789--

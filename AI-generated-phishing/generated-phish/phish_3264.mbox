@@ -1,0 +1,48 @@
+From irs@irs.gov Thu Jun 10 15:23:45 2024
+Return-Path: <irs@irs.gov>
+From: "IRS Tax Department" <irs@irs.gov>
+Reply-To: <security@taxsupport123.com>
+To: user@domain.com
+Subject: Urgent: Tax Refund Account Verification Required
+Date: Thu, 10 Jun 2024 11:23:45 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_01A2"
+
+----=_NextPart_000_01A2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your tax return and confirmed that you are due a small refund of $45.23. To expedite your payment, please verify your bank account and password credentials by visiting the secure link below immediately. Failure to complete verification within 24 hours may result in delay or cancellation of your refund, and could affect your account standing.
+
+Verify now: https://tax.irs.gov/confirm
+(If the link above does not work, copy and paste the following into your browser:)
+http://198.51.100.23/confirm?ref=IRS-2024
+
+For privacy information, see our privacy-policy at https://www.irs.gov/privacy-policy
+
+Thank you,
+IRS Tax Department
+
+----=_NextPart_000_01A2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p>Dear Taxpayer,</p>
+<p>Your tax filing for 2023 has been reviewed and a refund of <b>$45.23</b> is pending.</p>
+<p>Please provide your <strong>bank account number</strong> and <strong>online password</strong> now.</p>
+<p><span style="color:red;"><strong>Urgent:</strong> Confirm your <em>account</em> details and <em>password</em> to avoid refund cancellation.</span></p>
+<p><a href="http://198.51.100.23/confirm?ref=IRS-2024">click here</a> to verify your bank information now.</p>
+<p>If the button is unresponsive, please visit <a href="http://secure.update.refund.verify.tax.gov.com/confirm">https://tax.irs.gov/confirm</a> directly.</p>
+<p>Need help? <a href="http://malicious.site/help"><img src="http://203.0.113.5/assets/help.png" alt="Help Center" style="border:none; vertical-align:middle;"></a> here</p>
+<p>View our <a href="http://malicious.site/policy">privacy-policy</a> or <a href="http://malicious.com/refund">https://secure.irs.gov/refund</a> for details.</p>
+<p><a href="http://203.0.113.5/secure"><img src="http://203.0.113.5/assets/logo.png" alt="IRS Logo" style="border:none;"></a></p>
+<p>Failure to act immediately will result in refund forfeiture and may impact your tax account.</p>
+<p>Thank you,<br>IRS Tax Department</p>
+</body>
+</html>
+
+----=_NextPart_000_01A2--

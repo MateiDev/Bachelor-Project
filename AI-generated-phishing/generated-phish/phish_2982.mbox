@@ -1,0 +1,40 @@
+```mbox
+From nobody Thu Oct 26 19:47:50 2023
+Return-Path: <spoof@dhl-notification.com>
+Received: from mail.dhl-notification.com (mail.dhl-notification.com [192.0.2.1])
+    by example.com (Postfix) with ESMTP id 1A2BC34D56
+    for <user@example.com>; Thu, 26 Oct 2023 19:47:50 +0000 (UTC)
+Message-ID: <20231026194750.1A2BC34D56@mail.dhl-notification.com>
+Date: Thu, 26 Oct 2023 19:47:50 +0000 (UTC)
+From: DHL Notification <spoof@dhl-notification.com>
+Reply-To: urgent@parcel-service-alert.com
+To: user@example.com
+Subject: URGENT: Your DHL Parcel is On Hold
+
+--boundary_string
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head></head>
+<body>
+<p>Dear Customer,</p>
+
+<p>We attempted to deliver your parcel today, but it is currently on hold due to unpaid fees. To ensure prompt delivery, please settle the outstanding amount immediately.</p>
+
+<p><strong>Action Required:</strong> <span style="color:red;">Immediate payment is necessary to avoid return of your parcel.</span></p>
+
+<p><a href="http://192.0.2.2/track"><img src="http://192.0.2.3/images/dhl-logo.png" alt="DHL Parcel Track"></a></p>
+
+<p><a href="http://example.com/parcel-tracking">Track Your Parcel (192.0.2.2)</a></p>
+
+<p>Failure to react in a timely manner could result in the <strong>LOSS</strong> of your package! </p>
+
+<p><a href="http://192.0.2.5/update"> </a></p>
+
+<p>Thank you for choosing DHL,</p>
+
+<p>Your DHL Customer Service Team</p>
+</body>
+</html>
+--boundary_string--
+```

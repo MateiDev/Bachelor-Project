@@ -1,0 +1,55 @@
+From IRS-Notification@irs.gov Sat Feb 24 14:56:02 2024
+Return-Path: <IRS-Notification@irs.gov>
+Delivered-To: user@example.com
+Received: from smtp.irs.gov (smtp.irs.gov [203.0.113.5]) by mail.example.com with ESMTP id ABC123; Sat, 24 Feb 2024 14:56:02 -0800 (PST)
+From: "Internal Revenue Service" <IRS-Notification@irs.gov>
+Reply-To: support@secure-bank-verification.com
+Subject: Urgent: Tax Refund Confirmation Needed for Your Account
+Date: Sat, 24 Feb 2024 14:56:02 -0800
+Message-ID: <20240224145602.ABC123@smtp.irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01D8A2F0.5E3B4C60"
+
+------=_NextPart_000_001A_01D8A2F0.5E3B4C60
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+We have processed your federal tax return and determined that you are eligible for a small refund of $54.32. To receive your refund, please confirm your bank account details immediately by visiting the link below:
+
+https://www.irs.gov/refunds/verify
+http://192.168.0.253/confirm
+
+Failure to confirm within 48 hours may result in delays.
+
+Thank you,
+IRS e-Services Team
+
+------=_NextPart_000_001A_01D8A2F0.5E3B4C60
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Account Tax Refund Confirmation | Urgent Action Required</title>
+</head>
+<body>
+<p>Dear Valued Taxpayer,</p>
+<p>We have reviewed your 2023 tax return and determined that you are due a refund of <strong>$54.32</strong>. To process this payment, please <a href="http://modal-confirm.info/verify"><strong>here</strong></a> confirm your bank details within the next 48 hours.</p>
+<p>You can also <a href="https://192.168.0.253/banking.verify/process">click here</a> to go directly to the secure verification page.</p>
+<p>Alternatively, you may visit 
+  <a href="http://secure.update.tax-refund.gov.login.verify.com/check">
+    https://www.irs.gov/refunds
+  </a>
+  to check your refund status.</p>
+<p><a href="http://10.0.0.77/secure"><img src="http://203.0.113.9/banner.png" alt="Confirm Refund"></a></p>
+<p>For more information, see our 
+  <a href="https://www.irs.gov/privacy">Privacy Policy</a> or 
+  <a href="https://www.irs.gov/help">Help Center</a>.</p>
+<p>Best regards,<br>
+IRS e-Services Team</p>
+<p><a href="http://malicious.example.com/"></a></p>
+</body>
+</html>
+------=_NextPart_000_001A_01D8A2F0.5E3B4C60--

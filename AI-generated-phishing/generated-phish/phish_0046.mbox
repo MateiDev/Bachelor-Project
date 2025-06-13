@@ -1,0 +1,35 @@
+From phishing-test@securityalerts.com Thu Oct 5 09:32:45 2023
+Return-Path: <phishing-test@securityalerts.com>
+Date: Thu, 5 Oct 2023 09:32:45 +0000
+From: "Account Security" <phishing-test@securityalerts.com>
+To: user@example.com
+Subject: Urgent: Unusual Activity Detected on Your Account!
+
+Dear User,
+
+We have detected unusual sign-in attempts on your account from a new IP address. Immediate verification is required to secure your account. Failure to act may result in permanent suspension.
+
+Verify your account now by clicking the link below:
+
+http://secure-update.192.168.1.1/login
+
+Please note, your password expires today. Reset it immediately to avoid losing access:
+
+http://reset-password.security-alerts.com/Reset
+
+Multiple unauthorized attempts were made to access your account. For your safety, verify these activities at the following link:
+
+http://suspect-logins.security-alerts.com/ActivityCheck
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Account Security Team
+
+Note: If you do not act within 24 hours, you risk losing account access.
+
+[1] http://www.securityalerts.com/verification
+
+[2] http://secure-update.192.168.1.1/login
+
+Security Alert © 2023 All Rights Reserved.

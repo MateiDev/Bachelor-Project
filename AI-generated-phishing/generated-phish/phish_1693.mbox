@@ -1,0 +1,41 @@
+From MAILER-DAEMON Tue Jul 28 09:45:00 2024
+From: "National Tax Service" <noreply@official-gov-taxrefund.com>
+Reply-To: support@quickbankingupdate.org
+To: recipient@client-email.com
+Subject: Urgent: Account Password Verification Required to Claim Tax Refund
+Date: Wed, 28 Jul 2024 09:45:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_12345_67890"
+
+----=_Part_12345_67890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Taxpayer,
+
+ALERT: Your small tax refund is pending and you MUST ACT IMMEDIATELY to avoid having your refund request REJECTED. We have detected irregularities in your banking details.
+
+To confirm your details and claim your refund, click one of the links below:
+
+1) https://secure.bank-refund.com.verify.account-update.org/confirm
+2) https://taxrefunds.gov-secure-payment.co.uk/validate
+
+Failure to complete verification within 48 hours will result in your account being flagged and your password reset and refund cancelled.
+
+Sincerely,
+National Tax Service Support Team
+
+----=_Part_12345_67890
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p><strong>WARNING:</strong> Your <em>tax refund</em> of <span style="color:green">$135.50</span> is still <strong>awaiting confirmation</strong>. You must confirm your account details <u>immediately</u> to avoid delay.</p>
+    <p><a href="https://secure.bank-refund.com.verify.account-update.org/confirm"><img src="https://images.taxrefunds.gov/alert.png" alt="Confirm Now" /></a></p>
+    <p>Or visit: <a href="http://login-update.secure-gov-tax.com/update.bank.info">http://login-update.secure-gov-tax.com/update.bank.info</a></p>
+    <p><em>National Tax Service</em> | <a href="https://taxrefunds.gov-secure-payment.co.uk/validate">Validate Payment</a></p>
+  </body>
+</html>
+
+----=_Part_12345_67890--

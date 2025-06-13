@@ -1,0 +1,49 @@
+From notifications@dhl-express.com Fri Jul 19 12:34:56 2024
+Return-Path: <notifications@dhl-express.com>
+Delivered-To: user@domainmail.com
+Received: from mailserver.dhl-express.com (mailserver.dhl-express.com [192.0.2.1]) by mx.domainmail.com with ESMTP id abc123 for <user@domainmail.com>; Fri, 19 Jul 2024 12:34:56 +0200
+Received: from dhl-smtp1.dhl.com (unknown [203.0.113.10]) by mailserver.dhl-express.com with ESMTPS id def456; Fri, 19 Jul 2024 12:34:55 +0200
+From: "DHL Express" <notifications@dhl-express.com>
+Reply-To: support@dhlsecure.net
+To: user@domainmail.com
+Subject: Urgent: Account Password Verification Required for Your Shipment
+Date: Fri, 19 Jul 2024 12:34:56 +0200
+Message-ID: <E1mz0aJ-0002Mf-4Z@dhl-express.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001A_01D8ABC3.2A3B5C20"
+
+------=_NextPart_000_001A_01D8ABC3.2A3B5C20
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+Your package delivery has been temporarily suspended due to a pending payment.
+
+Please visit the following links to confirm your account password and pay the small fee to release your shipment:
+https://www.dhl.com/delivery/payment
+https://secure.dhl-express.com/confirm
+
+Failure to act within 24 hours will result in the return of your parcel.
+
+Thank you,
+DHL Express Team
+Privacy Policy: https://www.dhl.com/privacy-policy
+
+------=_NextPart_000_001A_01D8ABC3.2A3B5C20
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear customer,</p>
+    <p><strong>Your DHL shipment is on hold!</strong> Immediate action required to avoid return of your parcel.</p>
+    <p>To verify your <b>account password</b> and pay the release fee, please <a href="http://tracking.dhl-express-support.net/verify?uid=9f8b7e">click here</a>.</p>
+    <p>Track your package status: <a href="http://tracking.dhl-express-support.net/track?pkg=123456">https://www.dhl.com/en/express/tracking.html</a></p>
+    <p>Need help? Visit our <a href="https://www.dhl.com/help">Help Center</a> or review our <a href="https://www.dhl.com/privacy-policy">Privacy Policy</a>.</p>
+    <p>Best regards,<br/>
+       DHL Express Customer Service</p>
+  </body>
+</html>
+
+------=_NextPart_000_001A_01D8ABC3.2A3B5C20--
