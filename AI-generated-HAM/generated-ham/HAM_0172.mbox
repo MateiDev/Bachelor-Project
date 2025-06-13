@@ -1,0 +1,30 @@
+From alice.smith@example.com Tue Sep 21 14:32:10 2021
+Return-Path: <alice.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by smtp.example.org with ESMTP id abc123
+    for <bob.johnson@example.com>; Tue, 21 Sep 2021 14:32:10 -0400
+Date: Tue, 21 Sep 2021 18:32:08 +0000
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.com>
+Subject: Agenda for Thursday’s Team Meeting
+Message-ID: <CA+1d9E_abc1234def@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I’m writing to share the agenda for our team meeting on Thursday:
+
+1. Review of last quarter’s performance metrics
+2. Project timeline updates for the new marketing campaign
+3. Feedback from the design team on the recent prototype
+4. Resource allocation for upcoming events
+5. Open discussion and action items
+
+Please let me know if you’d like to add any topics or if you have questions about the current items. Also, if you could send a brief update on your progress with the social media analytics report by Wednesday, that would be great.
+
+Thanks, and I look forward to catching up on Thursday.
+
+Best regards,
+Alice

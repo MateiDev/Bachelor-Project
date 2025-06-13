@@ -1,0 +1,30 @@
+From alice@example.com Mon Mar 01 09:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mail.receiver.com (Postfix) with ESMTP id 1234ABCD
+	for <bob@example.net>; Mon,  1 Mar 2023 09:15:00 -0500 (EST)
+Message-ID: <20230301091500.1234ABCD@mail.example.com>
+Date: Mon, 1 Mar 2023 09:15:00 -0500
+From: Alice <alice@example.com>
+To: Bob <bob@example.net>
+Subject: Weekend Potluck Plan
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about our neighborhood potluck this Saturday afternoon. Here's what I have in mind:
+
+  * Time: 2:00 PM
+  * Location: Clara’s backyard at 45 Maple Street
+  * Theme: Comfort foods (think casseroles, soups, pies)
+
+I’m planning to bring my grandmother’s cheesy potato casserole. If you’d like, you could make your famous corn salad—or anything else you prefer. No pressure, though! Just let me know what you’d like to bring so we can avoid duplicates.
+
+Also, feel free to invite anyone else from the block who might enjoy joining us. It’s been a while since we all caught up, and the warmer weather makes it the perfect time for an outdoor get-together.
+
+Looking forward to hearing from you.
+
+Best,
+Alice

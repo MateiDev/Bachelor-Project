@@ -1,0 +1,27 @@
+From jane.doe@example.com Sat Jan 14 12:34:56 2023
+Return-Path: <jane.doe@example.com>
+Delivered-To: john.smith@example.com
+Received: by mail.example.com (Postfix, from userid 1001) id 123456ABCDEF; Sat, 14 Jan 2023 12:34:56 +0000 (UTC)
+Message-ID: <20230114123456.ABCDEF@mail.example.com>
+Date: Sat, 14 Jan 2023 12:34:56 +0000
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Team Meeting Agenda
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello John,
+
+Hope you're doing well. As discussed, please find below the agenda for next week's team meeting scheduled on Monday, January 16th at 10:00 AM.
+
+1. Project Updates
+2. Budget Review
+3. Timeline Adjustments
+4. New Hire Introductions
+5. AOB (Any Other Business)
+
+Let me know if you'd like to add any topics or if the timing works for you. Looking forward to catching up with everyone.
+
+Best regards,
+Jane Doe

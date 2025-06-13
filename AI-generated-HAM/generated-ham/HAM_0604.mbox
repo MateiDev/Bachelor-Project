@@ -1,0 +1,25 @@
+From alice@example.com Tue Sep 26 09:00:00 2023
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Reminder: Saturday Hiking Trip
+Date: Tue, 26 Sep 2023 09:00:00 -0400
+Message-ID: <20230926090000.alice@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Just a friendly reminder that we’re meeting for our weekend hike this Saturday at Pine Ridge Trail. Let’s plan to meet at the trailhead parking lot at 8:00 AM. The forecast looks great—sunny with mild temperatures. Don’t forget to bring:
+
+- Plenty of water
+- Snacks or a light lunch
+- Sunscreen and a hat
+- Comfortable hiking shoes
+
+If you need a ride or want to carpool, let me know by Friday evening. Feel free to reach out if you have any questions or want to adjust the start time.
+
+Looking forward to catching up and enjoying the outdoors!
+
+Best,
+Alice

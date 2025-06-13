@@ -1,0 +1,31 @@
+From sender@example.com Fri Jul 05 15:27:00 2024
+Return-Path: <sender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id abc123
+    for <recipient@example.com>; Fri, 05 Jul 2024 15:27:00 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.com>
+Subject: Weekend Hiking Trip
+Date: Fri, 5 Jul 2024 15:27:00 -0400
+Message-ID: <CAKJsdflkj38127362@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well! I was thinking about our plans for next weekend and thought it would be great to organize a day hike up Pine Mountain. The trail is about 6 miles round trip and offers some beautiful views from the summit.
+
+Here's a rough itinerary:
+- Saturday, July 13
+- Meet at the trailhead parking lot by 8:00 AM
+- Estimated return by 3:00 PM
+- Pack lunch, water, and sunscreen
+- Don't forget sturdy shoes and a light jacket; it can be windy at the top.
+
+Let me know if this works for you or if you'd prefer a different date. Also, if anyone else wants to join, feel free to extend the invitation.
+
+Looking forward to catching up and enjoying some fresh air!
+
+Best,
+Alice

@@ -1,0 +1,26 @@
+From alice@example.com Tue Jun 11 11:22:33 2024
+Received: by mx.example.com with SMTP id abc123; Tue, 11 Jun 2024 11:22:33 -0400 (EDT)
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekly Project Update
+Date: Tue, 11 Jun 2024 11:22:33 -0400
+Message-ID: <20240611152233.abc123@mx.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+Here's the weekly update for the Greenfield project:
+
+1. Completed the database schema review.
+2. Initial UI mockups are ready for stakeholder feedback.
+3. We scheduled a meeting with the design team on Thursday at 2 PM.
+4. The API integration tests have begun and are ~50% complete.
+
+Please let me know if you'd like to discuss any of these items in more detail. Otherwise, I'll proceed with drafting the project timeline for next week.
+
+Best,
+Alice

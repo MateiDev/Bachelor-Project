@@ -1,0 +1,38 @@
+From sarah.johnson@example.com Tue Jun  6 12:34:56 2024
+Return-Path: <sarah.johnson@example.com>
+Delivered-To: michael.lee@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 1234ABCD
+    for <michael.lee@example.com>; Tue,  6 Jun 2024 12:34:56 -0400 (EDT)
+Date: Tue, 6 Jun 2024 12:34:56 -0400
+From: Sarah Johnson <sarah.johnson@example.com>
+To: Michael Lee <michael.lee@example.com>
+Subject: Q2 Team Progress Update
+Message-ID: <CAFy+X=1234abcd5678@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Michael,
+
+Here is the progress update for Team Orion for the second quarter:
+
+- Completed the initial design mockups for Project Aurora.
+- Finalized vendor selection for the new hardware rollout.
+- Completed sprint 4 and sprint 5 with all user stories delivered.
+- Held stakeholder review meeting on June 3; received positive feedback.
+
+Up next, we have:
+- Integration testing scheduled for June 10–15.
+- UX feedback sessions with beta users starting June 18.
+- Planning session for Q3 roadmap on June 20.
+
+Please let me know if you have any questions or if you’d like to schedule a brief meeting to discuss these items in more detail.
+
+Thanks,
+Sarah
+
+Sarah Johnson
+Product Manager
+ExampleCorp
+Phone: (555) 123-4567

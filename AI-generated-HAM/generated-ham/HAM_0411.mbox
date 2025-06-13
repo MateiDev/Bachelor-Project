@@ -1,0 +1,33 @@
+From alice@example.com Tue Feb 14 11:15:23 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by smtp.example.org with ESMTP id 12345ABCD
+    for <bob.smith@example.org>; Tue, 14 Feb 2023 11:15:23 -0500 (EST)
+Date: Tue, 14 Feb 2023 11:15:23 -0500
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob.smith@example.org>
+Subject: Team Meeting Follow-Up
+Message-ID: <CAF12345XYZ@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. Thanks again for organizing the team meeting this morning. Here’s a quick summary of the action items we agreed on:
+
+1. Update the project timeline by Friday (assigned to Sarah).
+2. Finalize the budget proposal draft (assigned to me).
+3. Schedule a follow-up call with the design team next Wednesday.
+4. Prepare a list of potential risks by end of day Thursday.
+
+Please let me know if I missed anything or if you have any questions. I’ll share the updated timeline draft by Thursday afternoon.
+
+Have a great rest of your day!
+
+Best regards,
+Alice Johnson
+Project Coordinator
+Example Corp.
+alice@example.com
+(555) 123-4567

@@ -1,0 +1,27 @@
+From alice@example.org Fri Jun 14 16:20:28 2024
+Return-Path: <alice@example.org>
+Delivered-To: bob@example.com
+Received: by mail.example.com id 12345; Fri, 14 Jun 2024 16:20:28 -0400
+Received: from alice-pc.local by mail.example.com id 67890; Fri, 14 Jun 2024 16:20:27 -0400
+From: Alice Smith <alice@example.org>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hike Plan
+Date: Fri, 14 Jun 2024 16:20:27 -0400
+Message-ID: <CAF1234abcd@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to follow up on our plan to go hiking this weekend. The weather forecast looks clear, and I found a trail that's about 6 miles round trip with a nice overlook at the end. It should take us about 4 hours including breaks.
+
+Here’s what I suggest:
+- Meet at my place around 8:00 AM on Saturday.
+- Bring water, snacks, and sturdy shoes.
+- I’ll pack a small first-aid kit and some trail mix.
+
+After the hike, we can stop by that new café downtown for lunch. Let me know if that works for you or if you have any other ideas. Looking forward to catching up and enjoying some fresh air!
+
+Best,
+Alice

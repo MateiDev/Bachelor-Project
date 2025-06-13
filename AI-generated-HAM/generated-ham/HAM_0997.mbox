@@ -1,0 +1,35 @@
+From alice.smith@example.com Fri Jul 26 08:15:37 2024
+Return-Path: <alice.smith@example.com>
+Received: by mail.example.com id abcd1234; Fri, 26 Jul 2024 08:15:37 -0400
+Date: Fri, 26 Jul 2024 08:15:37 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.com>
+Subject: Team Lunch Next Friday
+Message-ID: <20240726081537.ABCD1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to let you know that we're planning a team lunch
+next Friday, August 2nd, at 12:30 PM. The location will be the new bistro downtown,
+The Olive Tree. It's just a short walk from the office, and they have a variety of
+salads, sandwiches, and vegetarian options.
+
+Please let me know by Tuesday if you can make it so I can confirm the reservation:
+- Yes, I'll be there
+- Sorry, I'll be out of office
+
+Also, feel free to suggest any other spots if you prefer something different. Looking
+forward to spending some time together outside the office.
+
+Best regards,
+Alice
+
+--
+Alice Smith
+Project Coordinator
+Example Solutions, Inc.
+alice.smith@example.com
+(555) 123-4567

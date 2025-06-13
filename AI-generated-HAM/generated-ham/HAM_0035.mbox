@@ -1,0 +1,26 @@
+From alice.johnson@example.com Fri Jul 14 09:15:00 2023
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id x7J2K9LMNOP
+	for <team@example.com>; Fri, 14 Jul 2023 09:15:00 -0400 (EDT)
+Date: Fri, 14 Jul 2023 09:15:00 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Team <team@example.com>
+Subject: Reminder: Office Potluck This Friday
+Message-ID: <CADbQ+eGQZ_20230714@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+Just a friendly reminder that our office potluck is scheduled for this Friday at 12:30 PM in the main conference room. Please bring a dish to share—homemade or store-bought—and add your name and dish to the sign-up sheet on the break room bulletin board by Wednesday end of day.
+
+We have slots for appetizers, main courses, sides, desserts, and beverages. If you need serving utensils or have any setup questions, let me know, and I’ll arrange them.
+
+Looking forward to a delicious meal and great company! Thanks for participating.
+
+Best,
+Alice Johnson
+Office Coordinator
+alice.johnson@example.com

@@ -1,0 +1,28 @@
+From jdoe@example.com Wed Jun 12 14:32:01 2024
+Return-Path: <jdoe@example.com>
+Received: from smtp.example.com (smtp.example.com [203.0.113.45])
+    by mail.example.org with ESMTPS id DEF456
+    for <team@example.org>; Wed, 12 Jun 2024 14:32:01 -0500 (CDT)
+Date: Wed, 12 Jun 2024 14:32:01 -0500
+From: "John Doe" <jdoe@example.com>
+To: team@example.org
+Subject: Quarterly Team Outing Plans
+Message-ID: <20240612143201.DEF456@smtp.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone is doing well! With the second quarter wrapping up, it's time for our quarterly team outing. Here are the proposed options:
+
+1. Kayaking on Lakeview River – Saturday, June 22
+2. Hiking at Green Ridge Trails – Sunday, June 23
+3. Picnic at Riverside Park – Saturday, June 22
+
+Please reply with your preference by Friday, June 14. Once we have everyone's input, I'll book the venue and share the details.
+
+Looking forward to spending some time together outside the office!
+
+Best,
+John

@@ -1,0 +1,37 @@
+From alice@example.com Sat Jun 15 09:30:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com by mx.example.com with ESMTP id ABC12345; Sat, 15 Jun 2024 09:30:01 -0400
+Received: from desktop-01.local (unknown [192.0.2.1]) by mail.example.com with ESMTP id ABC12344; Sat, 15 Jun 2024 09:29:59 -0400
+Message-ID: <EDC12345F6789@example.com>
+Date: Sat, 15 Jun 2024 09:30:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Team Meetup
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just wanted to remind everyone that the team meetup is scheduled for this Saturday at 10:00 AM
+at the Lakeside Community Center. It will be a great opportunity for team building and
+to discuss our Q3 goals in a relaxed environment.
+
+Agenda:
+1. Welcome and breakfast.
+2. Review of last quarter achievements.
+3. Brainstorming session for upcoming projects.
+4. Lunch and informal networking.
+
+If you need any assistance with transportation or have dietary preferences for lunch, please let
+me know by Thursday end of day.
+
+Looking forward to seeing you and the rest of the team there!
+
+Best regards,
+Alice Smith
+Senior Project Manager
+ExampleCorp
+alice@example.com
+(555) 123-4567

@@ -1,0 +1,30 @@
+From alice@example.com Wed Jul 14 09:12:34 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com id 12345; Wed, 14 Jul 2021 09:12:34 -0400 (EDT)
+Message-ID: <CAF12345@mail.example.com>
+Date: Wed, 14 Jul 2021 09:12:34 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Lunch Meeting Next Week
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. It’s been a busy few weeks, and I thought it would be great to catch up over lunch. Are you available next Thursday, July 22nd, around noon? We could try that new café on Maple Avenue that just opened—it has great reviews.
+
+I’d also like to discuss the upcoming project timeline and get your input on resource allocation. No rush on formal materials; just a relaxed conversation to make sure we’re aligned before we dive into the next phase.
+
+Let me know if that works for you or if another time is better. Looking forward to catching up!
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Coordinator
+Example Corp.
+alice@example.com
+(555) 123-4567

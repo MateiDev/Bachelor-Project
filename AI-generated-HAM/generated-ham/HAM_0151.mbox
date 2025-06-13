@@ -1,0 +1,25 @@
+From alice@example.com Fri Jul 14 09:15:45 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail-server.example.com id abc123xyz; Fri, 14 Jul 2023 09:15:45 -0400 (EDT)
+Date: Fri, 14 Jul 2023 09:15:45 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Lunch Next Week
+Message-ID: <CAF5JG-abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to check in and see if you’d be interested in joining the team for lunch next Wednesday at the new Italian bistro downtown. A few of us have been talking about it, and it would be great to get everyone together for a relaxed afternoon.
+
+Please let me know if you’re free around 12:30 PM. If the time doesn’t work, we can adjust to fit the majority. Also, if you have any dietary preferences or favorite dishes, be sure to share them—I know the menu has plenty of vegetarian and gluten-free options.
+
+Looking forward to catching up outside of the office!
+
+Best,
+Alice Johnson
+Project Coordinator, Marketing Team
+example.com | (555) 123-4567

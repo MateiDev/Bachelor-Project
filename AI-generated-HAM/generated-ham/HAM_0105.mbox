@@ -1,0 +1,19 @@
+From alice@example.org Thu Jun 20 09:15:42 2024
+Received: from mail.example.org (mail.example.org [192.0.2.1]) by mx.example.org with ESMTP id DEF5678; Thu, 20 Jun 2024 09:15:42 -0400 (EDT)
+Date: Thu, 20 Jun 2024 09:15:42 -0400
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Hiking Trip
+Message-ID: <ABCD1234@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you've been well. I wanted to see if you'd like to join me and a few friends for a hiking trip this weekend at Pine Ridge Trail. The plan is to meet at the trailhead parking lot at 8:00 AM on Saturday. We'll probably be done by early afternoon. Please bring comfortable shoes, water, snacks, and sunscreen.
+
+Let me know if you can make it. It will be a great opportunity to enjoy nature and get some fresh air.
+
+Best,
+Alice

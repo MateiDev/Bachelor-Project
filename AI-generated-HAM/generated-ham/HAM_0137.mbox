@@ -1,0 +1,45 @@
+From alice.johnson@example.com Wed Jul 10 09:15:00 2024
+Return-Path: <alice.johnson@example.com>
+Delivered-To: john.doe@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+    by mx.example.net with ESMTP id abc123xyz
+    for <john.doe@example.com>; Wed, 10 Jul 2024 09:15:02 -0400 (EDT)
+Date: Wed, 10 Jul 2024 09:15:00 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Team Meeting Recap and Next Steps
+Message-ID: <20240710091500.abc123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+Thanks again for attending this morning’s team meeting. Here’s a quick recap of what we covered and the next steps:
+
+1. Project Timeline
+   - Phase 1 (Research and Planning): Completed by July 15.
+   - Phase 2 (Development): Starts July 16, to be completed by August 20.
+   - Phase 3 (Testing and QA): August 21–September 5.
+
+2. Responsibilities
+   - You’ll lead the API design (due July 18) and coordinate with the front-end team.
+   - Maria will handle the database schema, and Greg will set up the deployment pipeline.
+
+3. Action Items
+   - John: Draft API specification and share with the team by July 16.
+   - Maria: Review existing schema and propose adjustments by July 14.
+   - Greg: Prepare deployment scripts and test environment by July 20.
+
+4. Next Meeting
+   - Scheduled for Monday, July 17 at 10:00 AM in Conference Room B.
+
+Please let me know if you have any questions or need to adjust deadlines. Looking forward to making great progress together!
+
+Best,
+Alice
+
+-- 
+Alice Johnson
+Project Manager | Example Corp
+alice.johnson@example.com | (555) 123-4567

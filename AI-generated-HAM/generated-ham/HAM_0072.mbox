@@ -1,0 +1,24 @@
+From alice@example.com Thu Jun 20 10:15:30 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com (Postfix, from userid 1001) id 3B1C1423F; Thu, 20 Jun 2024 10:15:30 -0700 (PDT)
+Date: Thu, 20 Jun 2024 10:15:30 -0700
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Team Lunch Next Week
+Message-ID: <20240620101530.3B1C1423F@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. The marketing team thought it would be fun to organize a casual lunch next Thursday, June 27th, at the Downtown Bistro.
+I'd like to confirm if you can make it. We'll meet at 12:30 PM in the lobby and walk over together.
+
+Please let me know by end of day Friday if you can join us, and if you have any dietary restrictions.
+
+Looking forward to a relaxing afternoon outside of meetings!
+
+Best regards,
+Alice

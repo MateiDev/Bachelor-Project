@@ -1,0 +1,26 @@
+From alice.smith@example.com Thu Jun 13 09:15:00 2024
+Return-Path: <alice.smith@example.com>
+Delivered-To: bob.jones@example.com
+Received: by mail.example.com id abc12345; Thu, 13 Jun 2024 09:15:02 -0400 (EDT)
+Date: Thu, 13 Jun 2024 09:15:00 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Jones <bob.jones@example.com>
+Subject: June Marketing Team Update
+Message-ID: <CAFwAS1u2r_HAMEVENNING@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Bob,
+
+I hope you’re doing well. I wanted to share the latest updates from the marketing team:
+
+1. The June newsletter went out to 5,000 subscribers yesterday and we've already seen a 12% open rate, which is a 3% increase from last month.
+2. Our social media engagement continues to grow; Instagram followers are up by 8% and Twitter mentions have doubled since the campaign launch.
+3. The ad budget for Q3 has been finalized. You can find the breakdown in the shared drive at /Marketing/Budgets/JuneBudget.xlsx.
+
+Please let me know if you have any questions or would like to discuss next steps in our upcoming meeting.
+
+Best regards,
+Alice Smith
+Marketing Coordinator
+ExampleCorp

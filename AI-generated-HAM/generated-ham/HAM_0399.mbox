@@ -1,0 +1,23 @@
+From john.doe@example.com Mon Mar 04 08:15:22 2024
+Return-Path: <john.doe@example.com>
+Received: by mail.example.com id abcd1234; Mon, 4 Mar 2024 08:15:22 -0500
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Team Meeting Follow-up
+Date: Mon, 4 Mar 2024 08:15:22 -0500
+Message-ID: <CAFekj12abc@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+Thanks for joining the team meeting yesterday. I wanted to follow up on a few action items:
+1. Budget report: Please send the updated figures by Friday, March 8.
+2. Venue booking for the Q2 offsite: I’ll confirm availability and share options by Tuesday.
+3. Draft agenda: I’ll circulate a first draft by end of day today.
+
+Let me know if you have any questions or need clarification on any points.
+
+Best,
+John

@@ -1,0 +1,22 @@
+From alice.smith@example.com Fri Jul 14 10:15:30 2023
+Return-Path: <alice.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by inbound.example.com with SMTP; Fri, 14 Jul 2023 10:15:30 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.com>
+Subject: Team Lunch Invitation
+Date: Fri, 14 Jul 2023 10:15:30 -0400
+Message-ID: <20230714101530.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to invite you and the marketing team to join me for lunch next Wednesday, July 19th, at 12:30 PM. I’ve reserved a table at The Green Leaf Cafe on Main Street. They have a great selection of salads, sandwiches, and vegan options, so there should be something for everyone.
+
+Please let me know by Tuesday afternoon if you can make it, and if you have any dietary restrictions or preferences. It will be a nice break and a chance to catch up outside the office.
+
+Looking forward to spending some time with the team!
+
+Best regards,
+Alice Smith

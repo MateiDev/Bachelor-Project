@@ -1,0 +1,27 @@
+From jane.doe@example.com Wed Mar 10 08:30:00 2021
+Subject: Team Meeting Reminder
+From: Jane Doe <jane.doe@example.com>
+To: Project Team <project.team@example.com>
+Date: Wed, 10 Mar 2021 08:30:00 -0500
+Message-ID: <20210310083000.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+This is a friendly reminder that our weekly project meeting is scheduled for Friday, March 12th, at 2:00 PM in Conference Room B. We will review progress on the current deliverables, discuss any blockers, and plan next steps.
+
+Please come prepared with a brief status update on your tasks. If you have any materials you'd like to share, kindly email them to me by Thursday afternoon so I can compile them into the meeting agenda.
+
+Looking forward to our discussion.
+
+Best regards,
+Jane
+
+-- 
+Jane Doe
+Project Manager
+Example Corporation
+jane.doe@example.com
+(555) 123-4567

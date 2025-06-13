@@ -1,0 +1,31 @@
+From manager@example.com Fri Feb 16 11:23:45 2024
+Return-Path: <manager@example.com>
+Delivered-To: team@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by smtp.example.com (Postfix) with ESMTPS id A1B2C3D4E5
+	for <team@example.com>; Fri, 16 Feb 2024 11:23:45 -0500 (EST)
+Date: Fri, 16 Feb 2024 11:23:45 -0500
+From: Alice Manager <manager@example.com>
+To: Project Team <team@example.com>
+Subject: Lunchtime Schedule for Next Week
+Message-ID: <20240216112345.A1B2C3D4E5@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+As discussed in yesterday’s meeting, we’ll be rotating the lunchtime schedule for next week. Please review and let me know if any adjustments are needed:
+
+Monday:    12:00 PM – 1:00 PM  
+Tuesday:   12:30 PM – 1:30 PM  
+Wednesday: 12:00 PM – 1:00 PM  
+Thursday:  12:15 PM – 1:15 PM  
+Friday:    12:00 PM – 1:00 PM  
+
+If you have any dietary concerns or timing conflicts, reply by end of day Friday so we can finalize the schedule.
+
+Best regards,
+Alice Manager
+Project Lead
+manager@example.com

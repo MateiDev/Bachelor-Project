@@ -1,0 +1,22 @@
+From alice@example.com Mon Jun 12 14:23:05 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbound-smtp.example.org with ESMTP id ABCDE12345
+    for <bob@example.org>; Mon, 12 Jun 2023 14:23:05 -0400
+Date: Mon, 12 Jun 2023 14:23:05 -0400
+From: Alice <alice@example.com>
+To: Bob <bob@example.org>
+Subject: Weekend Hike Plan
+Message-ID: <1234567890@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Are you still up for the hike this weekend? I was thinking we could meet at the trailhead at 9:00 AM on Saturday. I'll pack some sandwiches, fruit, and plenty of water.
+
+Let me know if that time works for you or if you’d prefer to start a bit earlier. Looking forward to catching up and enjoying the great outdoors!
+
+Cheers,
+Alice

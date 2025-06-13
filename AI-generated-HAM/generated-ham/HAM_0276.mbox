@@ -1,0 +1,24 @@
+From alice.smith@example.com Sat Jul 20 09:23:45 2024
+Return-Path: <alice.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by receiver.example.org with ESMTP id ABCD1234
+    for <bob.jones@example.com>; Sat, 20 Jul 2024 09:23:46 -0400 (EDT)
+Date: Sat, 20 Jul 2024 09:23:45 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Jones <bob.jones@example.com>
+Subject: Team Picnic This Weekend
+Message-ID: <20240720092345.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+As you know, our annual team picnic is this Saturday. The weather forecast looks great, with a high of 78°F and sunny skies. We will meet at Elm Park at 11:00 AM by the main pavilion. Please bring a side dish or beverage to share with the group. I've volunteered to bring sandwiches and bottled water.
+
+Let me know if you need directions or want to coordinate a carpool. It should be a fun afternoon catching up outside the office.
+
+Looking forward to seeing you there!
+
+Best,
+Alice

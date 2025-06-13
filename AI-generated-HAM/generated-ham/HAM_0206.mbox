@@ -1,0 +1,28 @@
+From alice.smith@example.com Thu Jun 15 09:30:00 2023
+Return-Path: <alice.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id abc123
+    for <bob.johnson@example.com>; Thu, 15 Jun 2023 09:30:01 -0400 (EDT)
+Date: Thu, 15 Jun 2023 09:30:00 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.com>
+Subject: Meeting Agenda for Monday
+Message-ID: <20230615093000.123456@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you’re doing well. I wanted to share the draft agenda for our meeting scheduled on Monday, June 19th at 10:00 AM. Please review the items below and let me know if you’d like to add or modify anything:
+
+1. Project status updates
+2. Resource allocation for Q3
+3. Client feedback and next steps
+4. Budget review
+5. Open discussion
+
+Feel free to reply with any comments or additional topics you’d like to cover. I’m looking forward to a productive session.
+
+Best regards,
+Alice

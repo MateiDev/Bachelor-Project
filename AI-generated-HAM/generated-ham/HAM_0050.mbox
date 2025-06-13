@@ -1,0 +1,31 @@
+From john.doe@example.com Tue Jul 02 10:12:45 2024
+Message-ID: <20240702101245.12345.john.doe@example.com>
+Date: Tue, 2 Jul 2024 10:12:45 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Team Meeting Reminder
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Jane,
+
+This is a friendly reminder about our weekly team meeting scheduled for this Wednesday, July 3rd at 2:00 PM in Conference Room B. The agenda will include:
+
+ - Project status updates  
+ - Upcoming deadlines  
+ - Resource planning  
+ - Any other business
+
+Please review the project notes I shared last Friday and be prepared to discuss your section. If you have any items you’d like to add to the agenda, let me know by end of day tomorrow.
+
+Looking forward to seeing everyone then.
+
+Best regards,
+John
+
+-- 
+John Doe
+Senior Project Manager
+Example Corporation
+john.doe@example.com
+(555) 123-4567

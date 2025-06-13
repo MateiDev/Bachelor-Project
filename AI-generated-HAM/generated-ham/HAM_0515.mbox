@@ -1,0 +1,22 @@
+From john.doe@example.com Mon Sep 20 09:30:00 2021
+Return-Path: <john.doe@example.com>
+Received: from mailserver.example.com (mailserver.example.com [198.51.100.10])
+    by mx.example.org with ESMTP id abcde12345
+    for <jane.smith@example.com>; Mon, 20 Sep 2021 09:30:00 -0400 (EDT)
+Date: Mon, 20 Sep 2021 09:29:50 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Weekend Camping Trip Itinerary
+Message-ID: <20210920132950.67890@mailserver.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+Just wanted to share the finalized itinerary for our camping trip this Saturday. We'll meet at the trailhead at 8:00 AM and plan to set up camp by 1:00 PM near Lake Pine. I've attached the gear list and a grocery shopping list for the group. Let me know if you think of anything else we need.
+
+Looking forward to some fresh air and good company!
+
+Cheers,
+John

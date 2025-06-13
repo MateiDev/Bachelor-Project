@@ -1,0 +1,24 @@
+From alice@example.com Sat Jul 24 14:02:00 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com (Postfix, from userid 1001)
+    id 4F3A21001; Sat, 24 Jul 2021 14:02:00 -0400 (EDT)
+From: Alice Example <alice@example.com>
+To: Bob Example <bob@example.com>
+Subject: Weekend Hiking Plans
+Date: Sat, 24 Jul 2021 14:02:00 -0400
+Message-ID: <20210724140200.4F3A21001@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! The weather forecast for this weekend looks great, so I was thinking about going for a hike on Saturday morning. There's a new trail at Pine Ridge Park that I'd like to explore—it's supposed to have some beautiful overlooks.
+
+Would you be interested in joining? We can meet at my place around 8:00 AM, grab some coffee on the way, and head out by 8:30. The trail is about 5 miles long with moderate difficulty, and I expect we'll be back by early afternoon.
+
+Let me know if that works for you. Feel free to bring extra snacks or water if you'd like. Looking forward to catching up and enjoying the outdoors!
+
+Best,
+Alice

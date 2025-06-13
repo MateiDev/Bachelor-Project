@@ -1,0 +1,28 @@
+From john.doe@example.com Thu Jul  4 10:22:42 2024
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+        by mx.example.com with ESMTP id ABC123DEF
+        for <jane.smith@example.org>; Thu, 04 Jul 2024 10:22:42 -0400
+Date: Thu, 4 Jul 2024 10:22:42 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Weekend Picnic Plans
+Message-ID: <202407041422.j3EHL6V5001234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're doing well! I wanted to touch base about our plans for this weekend. The weather forecast looks great for Saturday afternoon, so I thought it would be perfect for our picnic at Riverside Park.
+
+Here's what I have in mind:
+- We'll meet at the park entrance around 12:30 PM.
+- I'll bring sandwiches, fresh fruit, and lemonade.
+- Could you bring some snacks and drinks? Maybe chips and iced tea?
+- Don't forget your picnic blanket and a deck of cards for some fun.
+
+Let me know if that works for you or if you'd like to suggest any changes. Looking forward to a relaxing afternoon outdoors!
+
+Best,
+John

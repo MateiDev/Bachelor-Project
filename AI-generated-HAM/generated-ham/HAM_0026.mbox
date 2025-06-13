@@ -1,0 +1,38 @@
+From jane.smith@example.com Fri Jul 12 14:23:45 2024
+Return-Path: <jane.smith@example.com>
+Delivered-To: john.doe@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.receiver.net with ESMTP id abc123xyz
+    for <john.doe@example.com>; Fri, 12 Jul 2024 14:23:45 -0400
+Date: Fri, 12 Jul 2024 14:23:45 -0400
+From: "Jane Smith" <jane.smith@example.com>
+To: "John Doe" <john.doe@example.com>
+Subject: Summer Team Outing Details
+Message-ID: <20240712142345.1f2e3d4c@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+I hope you’re doing well! I’m reaching out with the final details for our summer team outing scheduled for next Friday, July 19th.
+
+Location: Riverside Park, 123 Park Lane, Springfield
+Time: 10:00 AM meet-up by the pavilion; we’ll wrap up around 4:00 PM
+Activities: Picnic lunch, frisbee, team relay races, and a short nature walk
+What to bring:
+- Comfortable shoes and casual attire
+- Sunscreen and a hat
+- Any outdoor games you’d like to share
+
+We’ll provide sandwiches, snacks, and refreshments. If you have any dietary restrictions, please let me know by Monday so we can make arrangements.
+
+Looking forward to a fun day with the team! Feel free to reply if you have questions or suggestions.
+
+Best,
+Jane
+
+--
+Jane Smith
+Project Coordinator | Acme Corp
+jane.smith@example.com | (555) 123-4567

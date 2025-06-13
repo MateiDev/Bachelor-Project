@@ -1,0 +1,33 @@
+From user@example.com Sat Oct 02 12:00:00 2021
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mailhost.example.com (Postfix) with ESMTP id 1234ABCD
+    for <bob.smith@example.org>; Sat,  2 Oct 2021 12:00:00 -0400 (EDT)
+Date: Sat, 2 Oct 2021 12:00:00 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.org>
+Subject: Weekend Hiking Trip Details
+Message-ID: <CAF3h123abc456def@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+I'm really excited about our hiking trip this weekend! Here are the details:
+- Date: Saturday, October 9
+- Meeting Point: Pinewood Trailhead parking lot at 8:00 AM
+- Trail: Lakeview Summit Trail (approx. 6 miles round trip)
+- Difficulty: Moderate
+
+Please make sure to bring:
+* Sturdy hiking boots
+* Water (at least 2 liters)
+* Snacks and a packed lunch
+* Rain jacket (just in case)
+
+Let me know if you have any questions or if the time/place doesn't work for you.
+
+Looking forward to it!
+
+Best,
+Alice

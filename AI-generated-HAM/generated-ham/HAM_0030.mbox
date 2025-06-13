@@ -1,0 +1,21 @@
+From sender@example.com Fri Jul 14 10:00:00 2023
+From: John Doe <john.doe@example.com>
+To: Sara Smith <sara.smith@example.com>
+Subject: Weekend Hiking Trip
+Date: Fri, 14 Jul 2023 10:00:00 -0400
+Message-ID: <20230714100000.12345678@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Sara,
+
+I hope you're doing well! I wanted to check if you'd like to join our hiking trip this weekend.
+We're planning to head to Maple Ridge Trail on Saturday morning. We'll meet at the trailhead
+parking lot at 8:00 AM. Feel free to bring any snacks or drinks, and don't forget good hiking
+boots and plenty of water.
+
+Let me know if you're interested or if you have any questions. We'd love to have you along!
+
+Best,
+John

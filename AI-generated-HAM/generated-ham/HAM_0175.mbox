@@ -1,0 +1,33 @@
+From friend@example.com Tue Jul  9 15:23:45 2024
+Return-Path: <friend@example.com>
+Delivered-To: me@example.com
+Received: from mail.example.com (mail.example.com [198.51.100.23])
+    by mx.example.com with ESMTP id YXZ1234567
+    for <me@example.com>; Tue,  9 Jul 2024 15:23:45 -0400 (EDT)
+Message-ID: <20240709152345.12345@mail.example.com>
+Date: Tue,  9 Jul 2024 15:23:45 -0400
+From: "Alex Rivera" <friend@example.com>
+To: "Jordan Smith" <me@example.com>
+Subject: Weekend Hiking Trip Details
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jordan,
+
+I'm really excited about our upcoming hiking trip this weekend! I checked the weather forecast, and it looks like we'll have sunny skies with temperatures around 70°F (21°C). Perfect hiking weather.
+
+Here’s the plan:
+1. Meet at the Trailhead Parking Lot at 8:00 AM on Saturday.
+2. Bring plenty of water (at least 2 liters), snacks, and a packed lunch.
+3. Wear sturdy hiking boots and dress in layers.
+4. Trail route: Pine Ridge Loop (approximately 8 miles round trip).
+5. Estimated return time by late afternoon.
+
+I’ve also found a detailed trail map online that might be helpful:
+https://www.nationalparkservice.gov/pineridge-loop-map
+
+Let me know if this schedule works for you or if you have any questions. Looking forward to exploring the park together and catching up along the way!
+
+Best,
+Alex

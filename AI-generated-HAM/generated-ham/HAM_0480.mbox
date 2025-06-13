@@ -1,0 +1,40 @@
+From alice@example.com Thu Jul 15 10:23:45 2021
+Subject: Quarterly Team Lunch
+From: Alice Johnson <alice@example.com>
+To: Team Mailing List <team@example.com>
+Date: Thu, 15 Jul 2021 10:23:45 -0400
+Message-ID: <20210715102345.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+As we approach the end of the quarter, I'd like to invite everyone to our quarterly team lunch next Friday, July 23rd. Here are the details:
+
+Venue: The Garden Bistro, 123 Oak Street
+Time: 12:30 PM
+RSVP: Please reply by Tuesday, July 20th so I can confirm the reservation.
+
+Feel free to suggest any dietary preferences or special requests. Looking forward to catching up outside the office!
+
+Best regards,
+Alice Johnson                                    
+  
+From bob@example.net Mon Jul 19 08:15:22 2021
+Subject: RE: Quarterly Team Lunch
+From: Bob Smith <bob@example.net>
+To: Alice Johnson <alice@example.com>
+Date: Mon, 19 Jul 2021 08:15:22 -0400
+Message-ID: <20210719081522.67890@example.net>
+In-Reply-To: <20210715102345.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Alice,
+
+Thanks for organizing this! I'll be there and would prefer a vegetarian option if possible. Looking forward to it.
+
+Cheers,
+Bob Smith

@@ -1,0 +1,33 @@
+From alice@example.com Wed Jul 10 10:15:30 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id abc123
+	for <bob@example.org>; Wed, 10 Jul 2024 10:15:30 -0400 (EDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Team Meeting and Lunch Next Week
+Date: Wed, 10 Jul 2024 10:15:30 -0400
+Message-ID: <20240710101530.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope your week is going well. I wanted to touch base about scheduling our team meeting next Tuesday at 2:00 PM in Conference Room B. We have a few project updates to review, and it would be great to discuss the upcoming deadlines for the marketing campaign.
+
+After the meeting, I thought it would be nice to grab lunch together. There’s a new café around the corner called The Green Leaf that serves healthy bowls and sandwiches. Let me know if you’re interested or if you have another spot in mind.
+
+Please feel free to invite anyone else from the team who should be there. If the suggested time doesn’t work for you, just let me know and we can adjust.
+
+Thanks, and looking forward to catching up.
+
+Best regards,
+Alice
+
+--
+Alice Smith
+Project Coordinator
+Example Corp.
+Phone: (555) 123-4567
+Email: alice@example.com

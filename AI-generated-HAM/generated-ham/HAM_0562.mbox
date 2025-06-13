@@ -1,0 +1,25 @@
+From sender@example.com Mon Jun 24 14:00:00 2024
+Return-Path: <alice.smith@example.com>
+Delivered-To: bob.jones@example.com
+Received: by mail.example.com (Postfix, from userid 1001)
+    id 1234ABCD; Mon, 24 Jun 2024 14:00:02 -0400 (EDT)
+From: Alice Smith <alice.smith@example.com>
+To: Bob Jones <bob.jones@example.com>
+Subject: Team Outing Next Friday
+Date: Mon, 24 Jun 2024 14:00:00 -0400
+Message-ID: <CAFk+X0abcdEFGH@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to let you know that I’m organizing a team outing next Friday,
+July 5th. We’re planning to meet at 5:00 PM at Riverside Park for a picnic, followed by a casual
+kickball game. Feel free to bring any snacks, drinks, or games you’d like.
+
+Let me know if you can make it, and if you have any dietary restrictions or suggestions for
+activities. It should be a fun opportunity to relax and hang out outside of work.
+
+Best,
+Alice

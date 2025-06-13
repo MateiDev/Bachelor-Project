@@ -1,0 +1,19 @@
+From alice@example.com Tue Oct 10 09:15:27 2023
+Return-Path: <alice@example.com>
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Weekend Picnic Plans
+Date: Tue, 10 Oct 2023 09:15:27 -0400
+Message-ID: <20231010091527.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to check if you're free this Saturday for a picnic at Riverside Park. The weather forecast looks perfect—sunny with a gentle breeze. I thought we could meet around noon, bring some sandwiches, salads, and maybe a Frisbee to toss around.
+
+Let me know if that works for you and if you'd like me to pick up anything specific. Looking forward to catching up!
+
+Best,
+Alice

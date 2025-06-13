@@ -1,0 +1,24 @@
+From alice@example.com Fri Jun 30 14:15:00 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by bob.example.org with ESMTP id abc123
+    for <bob@example.org>; Fri, 30 Jun 2023 14:15:00 -0400 (EDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend BBQ Invitation
+Date: Fri, 30 Jun 2023 14:15:00 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I hope you're doing well! I'm planning to host a BBQ at my place this Saturday, July 1st, starting around 2 PM. We're going to fire up the grill, make some burgers and veggie skewers, and enjoy some cold drinks in the backyard. Feel free to bring anything you'd like—side dishes, snacks, or desserts are always welcome.
+
+Let me know if you can make it. It would be great to catch up and spend some time outdoors.
+
+Looking forward to hearing from you!
+
+Best,
+Alice

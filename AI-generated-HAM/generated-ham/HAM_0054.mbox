@@ -1,0 +1,25 @@
+From alice@example.com Fri Jul 12 10:15:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ABCDE12345
+    for <bob@example.org>; Fri, 12 Jul 2024 10:15:05 -0400 (EDT)
+Date: Fri, 12 Jul 2024 10:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Invitation to July Book Club Meeting
+Message-ID: <20240712101500.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I'm writing to invite you to our July Book Club meeting, which will take place on Tuesday, July 20th at 7:00 PM at the Maple Community Center.
+
+This month, we'll be discussing "The Night Watchman" by Louise Erdrich. It’s a compelling novel about heritage and perseverance, and I think you'll enjoy it.
+
+Please let me know if you can make it. Feel free to bring a snack or beverage to share if you’d like.
+
+Looking forward to catching up and chatting about the book!
+
+Best regards,
+Alice

@@ -1,0 +1,22 @@
+From alice@example.com Wed Jul  3 10:15:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id ABC123DEF
+    for <bob@example.com>; Wed,  3 Jul 2024 10:15:01 -0400 (EDT)
+Received: by mail.example.com id DEF456GHI; Wed,  3 Jul 2024 10:14:59 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Team lunch next week
+Date: Wed,  3 Jul 2024 10:14:58 -0400
+Message-ID: <20240703101458.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+Just a quick note to see if you’d like to join the team for lunch next Wednesday at the new café downtown. We’re thinking around 12:30 PM. Let me know if that works for you.
+
+Best,
+Alice

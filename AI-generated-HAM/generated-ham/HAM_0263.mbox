@@ -1,0 +1,31 @@
+From john.doe@example.com Tue Jun 20 14:58:00 2023
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id ABC123 for <jane.smith@example.com>; Tue, 20 Jun 2023 14:58:00 -0400 (EDT)
+Date: Tue, 20 Jun 2023 14:58:00 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Quarterly Team Lunch and Agenda
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+Hope you’re doing well. As discussed during yesterday’s meeting, we’re organizing our quarterly team lunch next Wednesday at noon in the main conference room. We’ll have sandwiches, salads, and a few dessert options. Please let me know if you have any dietary restrictions or preferences by end of day Monday.
+
+Below is the draft agenda for the Q2 review meeting:
+1. Project A status update
+2. Budget review for Q2
+3. Timeline and deliverables for Project B
+4. Team feedback and open discussion
+
+Feel free to suggest any additional items by tomorrow afternoon, and I’ll include them before sending out the final version.
+
+Looking forward to catching up over lunch!
+
+Best regards,
+John Doe
+Senior Project Manager
+Example Corporation
+john.doe@example.com
+(555) 123-4567

@@ -1,0 +1,35 @@
+From alice@company.com Wed Mar 15 09:23:42 2023
+Return-Path: <alice@company.com>
+Delivered-To: bob@company.com
+Received: from mail.company.com (mail.company.com [198.51.100.23])
+    by mx.company.com with ESMTP id abc12345; Wed, 15 Mar 2023 09:23:42 -0400 (EDT)
+Date: Wed, 15 Mar 2023 09:23:42 -0400
+From: Alice Johnson <alice@company.com>
+To: Bob Smith <bob@company.com>
+Subject: Weekly Team Update
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Here is the weekly update from our Marketing team:
+
+1. Campaign Performance
+ - The spring newsletter reached 12,500 subscribers with a 22% open rate.
+ - Social media engagement saw a 15% increase across all platforms.
+
+2. Upcoming Events
+ - We confirmed the booth at the Annual Tech Expo on April 10-12.
+ - The webinar on market trends is scheduled for March 28 at 2:00 PM.
+
+3. Content Creation
+ - The blog post series on user acquisition is live on our website.
+ - The video tutorials will be published next week.
+
+Let me know if you have any feedback or would like additional details on any item.
+
+Best regards,
+Alice Johnson
+Marketing Manager
+Company Inc.

@@ -1,0 +1,29 @@
+From sender@example.com Wed Jul 10 09:15:00 2024
+Return-Path: <sender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.net with ESMTPS id abc123 for <recipient@example.org>; Wed, 10 Jul 2024 09:15:00 -0400 (EDT)
+Date: Wed, 10 Jul 2024 09:15:00 -0400
+From: John Doe <sender@example.com>
+To: Project Team <team@example.org>
+Subject: Weekly Project Update
+Message-ID: <20240710091500.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone had a relaxing weekend and is ready for the week ahead. Here’s the update on our current project milestones:
+
+- Task A: The draft proposal has been reviewed by the steering committee and we received positive feedback.
+- Task B: The design mockups are 75% complete. Mary will share the final versions by Friday.
+- Task C: Development for the login module has started. Alex and Nina are pairing to integrate the authentication API.
+
+Key dates coming up:
+* Review meeting: Thursday, July 12 at 2:00 PM (Zoom invite sent separately)
+* UI walkthrough: Friday, July 13 at 11:00 AM
+* Code freeze: Tuesday, July 17
+
+Please let me know if you have any questions or need assistance with your tasks. Looking forward to another productive week!
+
+Best regards,
+John

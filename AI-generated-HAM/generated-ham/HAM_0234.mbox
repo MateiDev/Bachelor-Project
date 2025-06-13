@@ -1,0 +1,30 @@
+From hr@company.com Tue Sep  5 14:03:12 2023
+Return-Path: <hr@company.com>
+Delivered-To: john.doe@example.com
+Received: from mail.company.com (mail.company.com [192.0.2.1])
+	by mx.example.com with ESMTPS id ABC12345
+	for <john.doe@example.com>; Tue,  5 Sep 2023 14:03:12 +0000 (UTC)
+Date: Tue, 5 Sep 2023 14:03:12 +0000
+From: "HR Department" <hr@company.com>
+To: "John Doe" <john.doe@example.com>
+Subject: Invitation: Team Lunch Next Friday
+Message-ID: <20230905140312.abc123@mail.company.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello John,
+
+We are hosting a team lunch next Friday, September 15th, at The Green Garden cafeteria in Building A.
+The lunch will start at 12:30 PM and is scheduled to end by 2:00 PM. This is a great opportunity for
+everyone to catch up and discuss ongoing projects in an informal setting.
+
+Please RSVP by replying to this email by Wednesday, September 13th, so we can finalize the headcount
+with the cafeteria staff.
+
+If you have any dietary restrictions or special requests, feel free to mention them in your response.
+
+Looking forward to seeing you there!
+
+Best regards,
+HR Department

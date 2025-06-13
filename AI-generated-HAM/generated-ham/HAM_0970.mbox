@@ -1,0 +1,42 @@
+From alice@example.com Fri Jul 07 10:15:42 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com with SMTP id x8csp12345qtx;
+        Fri,  7 Jul 2023 10:15:42 -0700 (PDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hiking Trip Details
+Date: Fri, 07 Jul 2023 10:15:42 -0700
+Message-ID: <CAF8bY1=exampleID@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+Just wanted to send you the final details for our weekend hiking trip to Cedar Ridge.
+
+Date & Time:
+Saturday, July 15, 2023
+Meet at 8:00 AM at the trailhead parking lot.
+
+Packing List:
+- Hiking boots
+- Water bottle (at least 2 liters)
+- Snacks (trail mix, granola bars)
+- Sunscreen and hat
+- Lightweight rain jacket (just in case)
+- Camera (optional)
+
+Trail Info:
+The hike is approximately 10 miles round trip with moderate elevation gain. We should aim to complete it in about 5-6 hours. There are a few viewpoints along the way where we can stop for photos and lunch.
+
+Carpool:
+I'll be driving my SUV. I can pick you up at your place around 7:00 AM if that works for you. Let me know, and I'll share my address and coordinate pickup.
+
+Weather Forecast:
+Sunny in the morning, with a slight chance of afternoon showers (20%). Temperatures will be in the mid-70s.
+
+If you have any questions or need to adjust anything, just reply to this email. Looking forward to it!
+
+Best,
+Alice

@@ -1,0 +1,44 @@
+From alice.smith@example.com Wed Jun 26 09:00:00 2024
+Return-Path: <alice.smith@example.com>
+Received: by mailserver.example.com id abc123; Wed, 26 Jun 2024 09:00:00 -0400 (EDT)
+Received: from laptop-01 [192.168.1.10] by mailserver.example.com; Wed, 26 Jun 2024 09:00:00 -0400
+Date: Wed, 26 Jun 2024 09:00:00 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Jones <bob.jones@example.org>
+Subject: Planning the Company Picnic
+Message-ID: <CA+XYZ1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. As we discussed in last week's meeting, it's time to
+start planning this year's company picnic. I wanted to outline some
+preliminary ideas and see what you think.
+
+Date and Venue
+-------------
+We are considering Saturday, July 20th, at Green Hill Park. The park has
+picnic shelters, a playground, and a hiking trail that should be perfect
+for families.
+
+Food and Beverages
+------------------
+I suggest a potluck-style lunch where teams can bring dishes to share.
+I'll coordinate a sign-up sheet to ensure we have a good balance of main
+dishes, sides, and desserts. For drinks, we can provide bottled water,
+lemonade, and iced tea.
+
+Activities
+----------
+1. Sack races and tug-of-war
+2. Face painting for kids
+3. Scavenger hunt along the nature trail
+
+Let me know if you have any other ideas or if you'd like to take the lead
+on any particular activity. Also, please confirm if the date works for
+you so we can reserve the shelter by next Monday.
+
+Thanks,
+Alice

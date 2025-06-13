@@ -1,0 +1,23 @@
+From alice@example.com Sat Jul 29 12:34:56 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id ABC1234
+    for <bob@example.com>; Sat, 29 Jul 2023 12:34:56 -0400 (EDT)
+Date: Sat, 29 Jul 2023 12:34:56 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Quarterly Team Lunch Planning
+Message-ID: <CAF3_1yKWJ@mail.example.com>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+As we approach the end of the quarter, I'd like to schedule our team lunch to celebrate recent milestones.
+Please let me know your availability next week. I was thinking of trying the new café downtown
+on Tuesday or Wednesday around 12:30 PM.
+
+Also, could you confirm whether the conference room bookings have been updated for the next quarter?
+
+Thanks,
+Alice

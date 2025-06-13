@@ -1,0 +1,23 @@
+From alice@example.com Thu Jul 11 08:30:00 2024
+Return-Path: <alice@example.com>
+Received: by mail.example.com id abc123;
+    Thu, 11 Jul 2024 08:30:00 -0400 (EDT)
+Date: Thu, 11 Jul 2024 08:30:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Picnic at Lakeview Park
+Message-ID: <CAF8x1-example@alice.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Just wanted to see if you'd like to join me and a few friends for a picnic at Lakeview Park this Saturday afternoon. We'll plan to meet around 11:00 AM near the main pavilion. I'm bringing sandwiches, some fresh fruit, and lemonade. If you’d like, feel free to bring something to share – maybe some snacks or a board game.
+
+The weather forecast looks perfect, sunny with a mild breeze. It should be a great chance to relax, catch up, and enjoy the outdoors. Let me know if you can make it, and I’ll save you a seat!
+
+Looking forward to it!
+
+Cheers,
+Alice

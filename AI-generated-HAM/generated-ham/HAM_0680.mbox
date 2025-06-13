@@ -1,0 +1,26 @@
+From alice@example.com Mon Mar 25 14:33:17 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ABC123 for <bob@example.org>; Mon, 25 Mar 2024 14:33:17 -0400 (EDT)
+Date: Mon, 25 Mar 2024 14:33:17 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Upcoming Team Picnic on April 10th
+Message-ID: <20240325143317.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to let you know that our department is organizing a team picnic on Wednesday, April 10th, at Central Park. We’ll meet by the main fountain at 11:30 AM and spend the afternoon enjoying games, a potluck lunch, and some friendly competition.
+
+If you’d like to contribute a dish, feel free to reply with what you’d like to bring—sandwiches, salads, desserts, or snacks are all great. And if you have any outdoor games (frisbee, badminton, etc.), please bring them along.
+
+Please let me know by Friday, April 5th if you’re able to join, so we can finalize headcounts and arrangements.
+
+Looking forward to a fun day outside!
+
+Best regards,
+Alice Johnson
+Senior Project Coordinator
+Example Innovations Inc.

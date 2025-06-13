@@ -1,0 +1,35 @@
+From alice@example.com Fri Jul 14 11:30:00 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.net
+Received: by mx.example.net with SMTP id q1csp123456qkv;
+        Fri, 14 Jul 2023 11:30:05 -0400 (EDT)
+Received: from mail.example.com (mail.example.com. [198.51.100.42])
+        by mx.example.net with ESMTPS id p2sm654321piz.110.2023.07.14.11.30.03
+        for <bob@example.net>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Fri, 14 Jul 2023 11:30:04 -0400 (EDT)
+Date: Fri, 14 Jul 2023 11:30:00 -0400
+From: Alice Johnson <alice@example.com>
+To: bob@example.net
+Subject: Weekend Hike and Picnic Plans
+Message-ID: <CAFk3b+xU0abc123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to follow up on our conversation about the hiking trip this weekend. The weather forecast looks great, with sunny skies and mild temperatures around 75°F.
+
+Here are the details:
+- Meeting point: Cedar Trailhead Parking Lot
+- Date & time: Saturday, July 22, at 8:00 AM
+- Estimated hiking distance: 6 miles round-trip
+- Bring: water, snacks, sunscreen, and sturdy shoes
+
+After the hike, I'm planning to have a small picnic by the lake. I'll bring sandwiches, fruit, and some homemade granola bars. Let me know if you have any dietary preferences or if you’d like to bring something to share.
+
+Feel free to reach out if you have any questions or need to adjust the timing. Looking forward to getting out on the trail!
+
+Best,
+Alice

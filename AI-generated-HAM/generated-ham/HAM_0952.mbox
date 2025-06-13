@@ -1,0 +1,32 @@
+From alice.smith@example.com Wed Jul 17 09:22:10 2024
+Return-Path: <alice.smith@example.com>
+Delivered-To: bob.johnson@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by recipientserver.com (Postfix) with ESMTP id 1234ABCD
+    for <bob.johnson@example.com>; Wed, 17 Jul 2024 09:22:10 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; d=example.com; s=default; c=relaxed/simple;
+    h=from:to:subject:date:mime-version:content-type;
+    bh=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;
+    b=YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY;
+Message-ID: <unique-id-1234@example.com>
+Date: Wed, 17 Jul 2024 09:22:10 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.com>
+Subject: Weekend Hike Plan
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+This is just a quick note to confirm our hiking plans for this coming Saturday. The weather looks promising, with sunny skies and mild temperatures. Here's what I suggest:
+
+1. Meet at the trailhead parking lot by 8:00 AM.
+2. Trail: Pine Ridge Loop, approximately 7 miles.
+3. Don't forget to pack water, snacks, and sunscreen.
+4. We'll aim to return by mid-afternoon for lunch at the lodge you mentioned.
+
+Let me know if this works for you or if you’d prefer a different route. Looking forward to spending the day outdoors and catching up!
+
+Best regards,
+Alice

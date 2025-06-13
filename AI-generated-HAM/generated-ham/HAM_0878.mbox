@@ -1,0 +1,24 @@
+From alice.johnson@company.com Fri Jan  5 10:30:00 2024
+Return-Path: <alice.johnson@company.com>
+Received: by mail.company.com id abc12345; Fri, 5 Jan 2024 10:30:00 -0500 (EST)
+Date: Fri, 5 Jan 2024 10:30:00 -0500
+From: Alice Johnson <alice.johnson@company.com>
+To: Bob Smith <bob.smith@company.com>
+Subject: Re: Project Update and Next Steps
+Message-ID: <20240105103000.abc12345@mail.company.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Thanks for sending over the initial draft of the project update. I reviewed the document and added a few comments:
+
+- Section 2.2: I clarified the timeline for the client presentation.
+- Section 3.1: I updated the budget figures based on our last meeting.
+- Section 4: Please confirm if we should allocate additional resources to testing.
+
+Could you take a look at my notes and let me know if we're aligned? Once we finalize this version, I'll circulate it to the wider team.
+
+Enjoy your weekend,
+Alice

@@ -1,0 +1,38 @@
+From alice@example.com Sat Jul 20 08:30:45 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by example.com (Postfix) with ESMTP id 9F8E1234AB
+    for <bob@example.com>; Sat, 20 Jul 2024 08:30:45 -0400 (EDT)
+Message-ID: <20240720083045.GA12345@mail.example.com>
+Date: Sat, 20 Jul 2024 08:30:45 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hike Details
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I'm really looking forward to our hike this weekend! Here are the details:
+
+Date: Saturday, July 27th  
+Time: 8:00 AM meet-up  
+Location: Bear Mountain State Park, Trailhead parking lot  
+Trail: Perkins Memorial Tower Loop (approx. 5 miles)  
+Difficulty: Moderate  
+
+Please bring:  
+- At least 2 liters of water  
+- Snacks or a packed lunch  
+- Comfortable hiking shoes  
+- Sunscreen and a hat  
+- A light jacket (it can be cooler up top)
+
+I'll be driving and have space for two more if you'd like to carpool. Let me know if you need directions or have any dietary preferences for snacks. I'm planning to bring my camera to grab some scenic shots!
+
+See you soon and have a great week!
+
+Cheers,
+Alice  
+Sent from my personal email, please reply here.

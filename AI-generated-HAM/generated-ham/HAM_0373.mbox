@@ -1,0 +1,24 @@
+From alice@example.com Fri Sep 15 09:30:00 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com id abc123; Fri, 15 Sep 2023 09:30:00 -0400
+Subject: Team Lunch Next Week
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Date: Fri, 15 Sep 2023 09:30:00 -0400
+Message-ID: <20230915093000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Bob,
+
+Just a quick reminder that our team lunch is scheduled for next Wednesday at 12:30 PM at The Green Bistro. Please let me know if you have any dietary restrictions or preferences.
+
+Looking forward to catching up with everyone!
+
+Best regards,
+Alice
+
+Alice Smith
+Product Manager | Example Corp
+Phone: (555) 123-4567

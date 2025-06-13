@@ -1,0 +1,22 @@
+From alice.johnson@example.com Wed Jul 10 14:32:15 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id abc123 for <bob.smith@example.com>; Wed, 10 Jul 2024 14:32:15 -0400 (EDT)
+Message-ID: <CAEpO3=xyz123@example.com>
+Date: Wed, 10 Jul 2024 14:32:15 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Lunch Tomorrow?
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just checking to see if you’re still up for lunch tomorrow at the new café on Main Street. They have great reviews, and I heard their avocado toast is amazing.
+
+Let me know if 12:30 PM works for you. If you'd prefer something else, I'm happy to adjust.
+
+Looking forward to catching up!
+
+Best,
+Alice

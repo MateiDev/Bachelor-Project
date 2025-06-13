@@ -1,0 +1,39 @@
+From alice@example.org Mon Apr  3 09:45:12 2023
+Return-Path: <alice@example.org>
+Received: from mail.example.org (mail.example.org [192.0.2.1])
+    by mx.example.org with ESMTPS id OQJfi3L2Cn38
+    for <bob@example.org>; Mon,  3 Apr 2023 09:45:12 -0400 (EDT)
+Date: Mon, 3 Apr 2023 09:45:12 -0400
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Hiking Trip Details
+Message-ID: <20230403094512.abcdef@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I hope you’re doing well! Just wanted to send you the final details for our weekend hiking trip:
+
+- Meeting Point: Pine Ridge Trailhead at 8:00 AM on Saturday  
+- Gear Checklist:  
+  * Sturdy hiking boots  
+  * Water bottles (at least 2 liters)  
+  * Packed lunch and snacks  
+  * Lightweight rain jacket  
+  * Sunscreen and sunglasses  
+  * First-aid kit  
+
+The trail is about 10 miles round-trip, with some moderate elevation gain. We should be back by mid-afternoon. I’ll bring extra trail mix and a small portable grill if we decide to stop by the creek for lunch.
+
+Let me know if you need me to pick you up or if you have any questions. Looking forward to a great day out in nature!
+
+Cheers,  
+Alice Johnson  
+
+-- 
+Alice Johnson  
+Email: alice@example.org  
+Phone: (555) 123-4567  
+

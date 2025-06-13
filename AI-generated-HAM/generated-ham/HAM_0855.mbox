@@ -1,0 +1,35 @@
+From alice@example.com Sat Sep 18 10:15:30 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Date: Sat, 18 Sep 2021 10:15:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Picnic Next Month
+Message-ID: <20210918101530.1A2B3C4D@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! As we discussed in last week's meeting,
+we're planning a team picnic on Saturday, October 2nd, at Lakeside Park.
+The plan is to meet at the main pavilion around 11:00 AM and
+stay until about 4:00 PM.
+
+Here's a quick overview:
+- Location: Lakeside Park, Pavilion #3
+- Date: Saturday, October 2nd, 2021
+- Time: 11:00 AM – 4:00 PM
+- What to bring: a dish for the potluck, outdoor games,
+  and any personal items (sunscreen, hats, etc.)
+
+Please let me know by Wednesday (September 22nd)
+if you can make it and what dish you'd like to bring.
+Also, if you have any ideas for activities or dietary restrictions,
+feel free to mention them.
+
+Looking forward to a fun afternoon with everyone!
+
+Best regards,
+Alice

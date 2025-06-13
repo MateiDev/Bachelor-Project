@@ -1,0 +1,24 @@
+From alice@example.com Fri Jul 07 10:30:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id abcd1234 for <bob@example.com>; Fri, 07 Jul 2023 10:30:05 -0400
+Date: Fri, 07 Jul 2023 10:30:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hiking Trip
+Message-ID: <20230707103000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to follow up on our conversation about going hiking this weekend. The weather forecast is looking great for Saturday morning, with clear skies and temperatures around 70°F.
+
+I found a trail at Green Valley Park that’s about 8 miles round-trip with some scenic overlooks. It’s rated moderate, so bring good hiking boots, sunscreen, and plenty of water. If you’re up for it, we can meet at the park entrance at 8:00 AM.
+
+After the hike, we could stop by that new café in town that serves amazing sandwiches and smoothies. Let me know if that works for you or if you have another plan in mind.
+
+Looking forward to catching up and enjoying the outdoors!
+
+Best regards,
+Alice Smith

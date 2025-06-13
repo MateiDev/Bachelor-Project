@@ -1,0 +1,19 @@
+From alice@example.com Mon Jul 24 14:30:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.42])
+	by mail.bobdomain.com (Postfix) with ESMTPS id 9FBCD123
+	for <bob@example.com>; Mon, 24 Jul 2023 14:30:00 -0400 (EDT)
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Weekend Hiking Trip
+Date: Mon, 24 Jul 2023 14:30:00 -0400
+Message-ID: <CAM1Pq9_3Z-abc123@mail.example.com>
+
+Hey Bob,
+
+I'm planning a hiking trip this weekend to Blackwood Forest. The weather forecast looks great, and I thought you might like to join. We'll meet at the trailhead at 8:00 AM on Saturday. The hike is about 10 miles round trip, with a scenic waterfall at the halfway point. I'll pack sandwiches, water, and some snacks, but feel free to bring anything you'd like.
+
+Let me know if you can make it. It would be great to catch up outside the office.
+
+Cheers,
+Alice

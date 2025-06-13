@@ -1,0 +1,25 @@
+From alice@example.com Sat Jul 20 09:14:27 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id abc123
+    for <bob@example.org>; Sat, 20 Jul 2024 09:14:27 -0400 (EDT)
+Date: Sat, 20 Jul 2024 09:14:27 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Lunch and Project Update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I hope you're doing well. Just wanted to check if you're free for lunch
+next Tuesday, July 23rd. We can meet at the usual café around noon.
+Also, I'd like to give you a quick update on the Thompson project.
+We've finalized the design mockups, and I'll bring the latest files
+so you can review them.
+
+Let me know if that works for you or if you'd prefer a different time.
+
+Best,
+Alice

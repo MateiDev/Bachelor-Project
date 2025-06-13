@@ -1,0 +1,18 @@
+From alice@example.com Tue Nov 15 14:23:05 2022
+Message-ID: <CAJDrH7+XHGvUZp_hb1k87_y8RZjVVfPBaA@mail.example.com>
+Date: Tue, 15 Nov 2022 14:23:05 -0500
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Project Update and Meeting Schedule
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to give you a quick update on the Aurora Project. We've completed the initial design draft, and the team is currently reviewing it. We're on track to finalize the document by December 1st.
+
+Could we schedule a follow-up meeting next week to discuss the feedback and outline the next steps? I'm available on Wednesday and Thursday afternoons. Let me know which time works best for you.
+
+Thanks,
+Alice

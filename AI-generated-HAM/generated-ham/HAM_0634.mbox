@@ -1,0 +1,30 @@
+From alice@example.com Sat Jul 13 12:34:56 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id abc123
+	for <bob@example.org>; Sat, 13 Jul 2024 12:34:56 -0400 (EDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Hike Plans
+Message-ID: <20240713123456.abc123@mail.example.com>
+Date: Sat, 13 Jul 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+I hope you're doing well! I wanted to confirm our plans for this weekend’s hike. The weather forecast looks great for Saturday morning—sunny with temperatures in the low 70s.
+
+Here’s what I had in mind:
+- Meet at the trailhead parking lot at 8:00 AM.
+- Bring plenty of water, snacks, and sunscreen.
+- The route is about 5 miles round-trip, with a scenic overlook halfway.
+
+Let me know if that time still works for you or if you'd prefer a different spot. If we finish early, we could grab lunch in town afterward.
+
+Looking forward to it!
+
+Best regards,
+Alice Smith
+Senior Engineer
+Example Corp.

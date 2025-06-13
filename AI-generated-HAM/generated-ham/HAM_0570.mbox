@@ -1,0 +1,25 @@
+From alice.smith@example.com Sat Jan  1 12:34:56 2022
+Return-Path: <alice.smith@example.com>
+Delivered-To: bob.jones@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.recipient.com (Postfix) with ESMTPS id 1A2B3C4D5E
+    for <bob.jones@example.com>; Sat,  1 Jan 2022 12:34:56 -0500 (EST)
+Date: Sat, 1 Jan 2022 12:34:56 -0500 (EST)
+From: Alice Smith <alice.smith@example.com>
+To: Bob Jones <bob.jones@example.com>
+Subject: Upcoming Team Meeting
+Message-ID: <20220101123456.321098765@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. Just a quick reminder about our upcoming team meeting tomorrow at 10:00 AM in Conference Room B. We will discuss the project timeline, upcoming deliverables, and allocate tasks for the next sprint.
+
+Please review the agenda I shared last week and let me know if you'd like to add any items.
+
+Looking forward to your input.
+
+Best regards,
+Alice

@@ -1,0 +1,30 @@
+From alice@example.com Thu Jun 20 14:22:10 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by smtp.example.org with ESMTP id ABC123DEF
+    for <bob@example.org>; Thu, 20 Jun 2024 14:22:10 -0400
+Date: Thu, 20 Jun 2024 18:22:10 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Jones <bob@example.org>
+Subject: Weekend Cottage Getaway
+Message-ID: <20240620182210.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I finally managed to book that little lakeside cottage for the upcoming weekend.
+It's a quaint place with a small dock and a rowboat, perfect for fishing or just relaxing by the water.
+I thought it would be a great chance for us to catch up, go for a hike in the nearby woods, and maybe have a barbecue
+under the stars.
+
+I've arranged for us to arrive Friday late afternoon. There's a grocery store on the way, so we can grab supplies
+for dinners and breakfasts. Feel free to bring anything special you'd like—I'm planning on grilling burgers and
+vegetable skewers one evening and making pancakes the next morning.
+
+Let me know if you need a ride or if you'd prefer to meet me there. Looking forward to a fun and restful
+weekend away!
+
+Cheers,
+Alice

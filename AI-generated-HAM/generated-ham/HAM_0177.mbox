@@ -1,0 +1,22 @@
+From test.user@example.com Wed Jun 28 10:15:00 2023
+Return-Path: <test.user@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.123])
+    by example.com (8.14.4/8.14.4) with ESMTP id ABC12345
+    for <jane.doe@example.com>; Wed, 28 Jun 2023 10:15:00 -0400
+Date: Wed, 28 Jun 2023 10:15:00 -0400
+From: Test User <test.user@example.com>
+To: Jane Doe <jane.doe@example.com>
+Subject: Lunch Plans for Next Week
+Message-ID: <20230628101500.abcdefg@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Jane,
+
+I hope you're doing well. I wanted to check in about our plan to grab lunch next week. How does Thursday, July 6th around 12:30 PM work for you? I was thinking we could try that new Italian cafe downtown—I've heard great things about their bruschetta.
+
+Let me know if that date and time fit your schedule or if you'd prefer a different spot. Looking forward to catching up!
+
+Best,
+Test User

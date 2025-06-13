@@ -1,0 +1,24 @@
+From alice@example.com Mon May 01 10:23:45 2023
+Return-Path: <alice@example.com>
+Received: from smtp.example.org (smtp.example.org [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTPS id ABC123DEF
+    for <bob@example.com>; Mon,  1 May 2023 10:23:45 -0400 (EDT)
+Date: Mon, 1 May 2023 10:23:45 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip
+Message-ID: <CAF0wx3Kx=abc123xyz@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I’m writing to confirm our plans for the hiking trip this Saturday. The trailhead meet-up is set for 8:00 AM at Pine Ridge Park. I’ve checked the weather, and it looks clear and sunny with highs in the mid-70s.
+
+I’ve already packed a small cooler with sandwiches, fruit, and bottled water. Feel free to bring any snacks or drinks you’d like. Don’t forget your hiking boots and a light jacket, just in case it gets breezy in the afternoon.
+
+Looking forward to catching up on the trail. Let me know if anything changes.
+
+Best,
+Alice

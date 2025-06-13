@@ -1,0 +1,32 @@
+From jane.doe@example.com Fri Sep 01 10:00:00 2023
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by example.com with ESMTP id ABC123
+	for <john.smith@example.org>; Fri, 1 Sep 2023 10:00:00 +0000
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.org>
+Subject: Weekly Project Update
+Date: Fri, 1 Sep 2023 10:00:00 +0000
+Message-ID: <20230901100000.1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+Here is the weekly update on the Riverdale project:
+
+1. Tasks completed:
+   - Designed the schematic for the new sensor module.
+   - Finalized the UI mockups for the dashboard.
+2. In progress:
+   - Integrating the sensor firmware with the main control system.
+   - Writing unit tests for the data parsing routines.
+3. Upcoming:
+   - Preparing presentation for the stakeholder meeting next Wednesday.
+   - Reviewing the budget proposal for Q4.
+
+Let me know if you have any questions or need further details.
+
+Best regards,
+Jane Doe

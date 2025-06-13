@@ -1,0 +1,23 @@
+From alice@example.com Wed Jul 10 09:15:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com id abc123 for <bob@example.com>; Wed, 10 Jul 2024 09:15:00 -0400 (EDT)
+Subject: Weekend Hike Plans
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Date: Wed, 10 Jul 2024 09:15:00 -0400
+Message-ID: <20240710091500.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just wanted to confirm our plans for the weekend hike. The weather forecast is looking great for Saturday.
+Shall we meet at the trailhead at 8:00 AM? I can bring some sandwiches and snacks.
+Let me know if that works for you, or if you'd prefer a different meeting time.
+
+Looking forward to it!
+
+Best,
+Alice

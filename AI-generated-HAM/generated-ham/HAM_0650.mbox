@@ -1,0 +1,19 @@
+From alice@example.com Mon Jul 01 10:00:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ABC123DEF for <marketing@example.com>; Mon, 1 Jul 2024 10:00:00 -0400 (EDT)
+Date: Mon, 1 Jul 2024 10:00:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Marketing Team <marketing@example.com>
+Subject: Updated Q3 Campaign Plan
+Message-ID: <CAF3eK1+abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Team,
+
+I've updated the Q3 campaign plan with the latest market research insights and budget adjustments. You can find the document in our shared drive under Marketing > Campaigns > Q3 Plan.
+
+Please review the outline and let me know if you'd like to discuss any details in our meeting on Wednesday at 3 PM.
+
+Thanks,
+Alice

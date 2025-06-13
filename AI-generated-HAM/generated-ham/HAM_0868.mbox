@@ -1,0 +1,32 @@
+From test-sender@example.com Wed Oct 18 09:30:00 2023
+Return-Path: <alice.davis@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.10])
+    by example.org with ESMTP id ABC123
+    for <bob.smith@example.com>; Wed, 18 Oct 2023 09:30:00 -0400 (EDT)
+Message-ID: <20231018133000.abc123@mail.example.com>
+Date: Wed, 18 Oct 2023 09:30:00 -0400
+From: "Alice Davis" <alice.davis@example.com>
+To: "Bob Smith" <bob.smith@example.com>
+Subject: Team Lunch Next Week
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. The team is planning a casual lunch next Wednesday at 12:30 PM
+to celebrate the completion of our quarterly report. We're thinking of meeting
+at the new café around the corner, "Sunny Side Bistro."
+
+Would you be able to join us? If you have any dietary preferences or
+restrictions, please let me know by Monday so I can make reservations.
+
+Looking forward to catching up!
+
+Best regards,
+Alice
+
+-- 
+Alice Davis
+Project Coordinator | Example Corp
+alice.davis@example.com | (555) 123-4567

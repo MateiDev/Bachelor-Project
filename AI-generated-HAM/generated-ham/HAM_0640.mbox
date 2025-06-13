@@ -1,0 +1,31 @@
+From alice@example.org Fri Jul 21 10:15:00 2023
+Date: Fri, 21 Jul 2023 10:15:00 -0400
+From: Alice Smith <alice@example.org>
+To: Bob Johnson <bob.johnson@example.org>
+Subject: Weekly Team Update
+Message-ID: <20230721101500.GA9876@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+I hope everyone had a great week. Here’s a quick update on our current projects:
+
+- Project Phoenix: The design phase is nearly complete. We’ll start development next Monday.
+- Marketing Campaign: Drafts for social media posts have been shared. Please review by Wednesday.
+- QA Testing: The test environment is scheduled for maintenance on Thursday; expect limited access between 2 PM and 4 PM.
+
+Action Items:
+1. Review and comment on the social media drafts.
+2. Prepare your weekly status reports by end of day Wednesday.
+3. Confirm availability for the development kickoff meeting on Monday at 9 AM.
+
+Let me know if you have any questions or need assistance with your tasks. Enjoy your weekend!
+
+Best regards,
+Alice Smith
+Project Manager
+Example Corp
+alice@example.org
+(555) 123-4567

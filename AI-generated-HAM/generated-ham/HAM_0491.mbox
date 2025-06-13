@@ -1,0 +1,46 @@
+From alice.smith@company.com Thu Jul 18 14:12:00 2024
+Return-Path: <alice.smith@company.com>
+Received: from mail.company.com (mail.company.com [192.0.2.1])
+	by mx.company.com with ESMTP id ABC12345 for <team@company.com>;
+	Thu, 18 Jul 2024 14:12:00 -0400 (EDT)
+Date: Thu, 18 Jul 2024 14:12:00 -0400
+From: Alice Smith <alice.smith@company.com>
+To: Team <team@company.com>
+Subject: Weekly Project Update
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Team,
+
+Here is the update for our current project as of this week:
+
+1. Completed Tasks:
+   - Finalized the user authentication module.
+   - Completed UI mockups for the dashboard.
+   - Performed initial load tests with positive results.
+
+2. In-Progress:
+   - Integrating the analytics service API.
+   - Writing unit tests for the reporting feature.
+
+3. Upcoming Milestones:
+   - Code freeze for feature complete on July 25.
+   - QA testing phase begins July 26.
+   - Stakeholder review scheduled for July 30.
+
+Action Items:
+- Please submit your API integration notes by end of day tomorrow.
+- UI team to prepare design specs for the mobile view.
+
+Next Meeting:
+Let's meet on Monday, July 22 at 10:00 AM in Conference Room B to go over any blockers and align on next steps.
+
+Thanks for your hard work this week.
+
+Best regards,
+Alice
+
+Alice Smith
+Project Manager | company.com
+alice.smith@company.com
++1 (555) 123-4567

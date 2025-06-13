@@ -1,0 +1,26 @@
+From alice@example.com Wed, 13 Oct 2021 17:15:21 +0000
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by example.com (Postfix) with ESMTP id ABC123
+	for <bob@example.com>; Wed, 13 Oct 2021 17:15:21 +0000 (UTC)
+Date: Wed, 13 Oct 2021 17:15:21 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Team Outing Next Week
+Message-ID: <1234567890.mail@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to let you know that we've scheduled a team outing next Friday,
+October 22nd at 5:30 PM. We'll be meeting at Riverside Park for a picnic and some outdoor games.
+Feel free to bring along your favorite snacks and drinks. If you have any suggestions or special
+dietary requirements, please let me know by Tuesday.
+
+Looking forward to spending a fun evening with the team!
+
+Best regards,
+Alice

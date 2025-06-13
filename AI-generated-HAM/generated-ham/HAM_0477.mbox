@@ -1,0 +1,26 @@
+From test.sender@example.com Tue Aug 15 14:45:12 2023
+Return-Path: <test.sender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTPS id 1hY5Q2-0005LZ-6L for <jane.doe@example.org>; Tue, 15 Aug 2023 14:45:12 -0400 (EDT)
+Received: from smtp-out.example.com (smtp-out.example.com [192.0.2.2]) by mail.example.com with ESMTPS id 2J6QnU-0005Nz-5J for <jane.doe@example.org>; Tue, 15 Aug 2023 14:45:11 -0400 (EDT)
+Subject: Team Lunch and Office Updates
+From: Mark Thompson <test.sender@example.com>
+To: Jane Doe <jane.doe@example.org>
+Date: Tue, 15 Aug 2023 14:45:00 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope your week is off to a great start!
+
+Just a quick note to remind you about the team lunch this Friday at 12:30 PM in the main conference room. Catering will be provided by GreenLeaf Bistro, and they have options for vegetarian and gluten-free diets.
+
+Also, the office maintenance team will be replacing the carpet on the 3rd floor over the weekend. Please remove any personal items from your desk area by end of day Friday to ensure a smooth process.
+
+If you have any questions or special requests for the lunch menu, let me know by Wednesday afternoon.
+
+Thanks, and looking forward to seeing everyone on Friday!
+
+Best,
+Mark

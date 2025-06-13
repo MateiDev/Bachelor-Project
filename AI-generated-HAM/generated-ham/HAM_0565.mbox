@@ -1,0 +1,23 @@
+From alice@example.com Sat Jul 15 10:00:00 2023
+Date: Sat, 15 Jul 2023 10:00:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Hiking Trip Details
+Message-ID: <20230715140000.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to share the details for our weekend hiking trip:
+
+- Meeting point: Pine Hill parking lot at 8:30 AM on Saturday.
+- Trail: Lakeview Loop, approximately 6 miles.
+- What to bring: water, snacks, sturdy shoes, and a light jacket.
+- Estimated return: around 4:00 PM.
+
+Let me know if you have any questions or need a ride. I’m looking forward to exploring the trails with you!
+
+Best regards,
+Alice

@@ -1,0 +1,32 @@
+From alice@example.com Thu Jul 15 08:30:00 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by smtp.example.com with ESMTP id abc123; Thu, 15 Jul 2021 08:30:00 -0400 (EDT)
+Date: Thu, 15 Jul 2021 08:30:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting Summary and Next Steps
+Message-ID: <CAF+xyzabcdefghijklmnop@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Thanks for taking the time to meet yesterday. Here's a quick summary of what we discussed:
+
+1. Project Timeline
+   - Phase 1: Requirements gathering (due July 30)
+   - Phase 2: Design mockups (due August 15)
+   - Phase 3: Development sprint (due September 30)
+
+2. Action Items
+   - Alice: Prepare detailed requirements document by July 22
+   - Bob: Review requirements and provide feedback by July 25
+   - Carol: Set up Jira board by July 20
+
+3. Next meeting scheduled for Monday, July 26 at 10:00 AM.
+
+Please let me know if you have any questions or need further clarification.
+
+Best regards,
+Alice Johnson

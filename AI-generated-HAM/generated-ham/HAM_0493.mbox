@@ -1,0 +1,34 @@
+From alice.johnson@example.com Mon Feb 20 10:25:43 2023
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTPS id E123456789
+    Mon, 20 Feb 2023 10:25:43 -0500 (EST)
+Received: by mail.example.com id ABCDEFGH1234
+    Mon, 20 Feb 2023 07:25:42 -0800 (PST)
+Date: Mon, 20 Feb 2023 10:25:43 -0500
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Quarterly Team Lunch - Menu Suggestions
+Message-ID: <CAF3k2p+98X3k5UR=12@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. As we discussed in the last meeting, our quarterly team lunch is scheduled for Friday, March 10th at noon. I'd like to finalize the menu by the end of the week.
+
+Could you please review the following suggestions and let me know your preferences?
+
+1. Mediterranean platter: hummus, falafel, tabbouleh, stuffed grape leaves  
+2. Italian pasta bar: penne with marinara, fettuccine Alfredo, fusilli primavera, garlic bread  
+3. Asian cuisine: vegetable spring rolls, chicken teriyaki, vegetable fried rice, miso soup  
+4. Vegetarian options: quinoa salad, grilled vegetable skewers, fruit platter  
+
+Additionally, if you have any dietary restrictions or special requests, please let me know.
+
+Looking forward to your feedback.
+
+Best regards,
+Alice Johnson
+ekele254@example.com

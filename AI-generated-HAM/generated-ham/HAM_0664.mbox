@@ -1,0 +1,31 @@
+From sender@example.com Sat Jun 29 08:12:53 2024
+Return-Path: <sender@example.com>
+Received: by mail.example.com id abcd1234; Sat, 29 Jun 2024 08:12:53 -0400
+Message-ID: <1234567890@mail.example.com>
+Date: Sat, 29 Jun 2024 08:12:53 -0400
+From: John Doe <john.doe@example.com>
+To: Mary Smith <mary.smith@example.com>
+Subject: Team Lunch and Project Update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Mary,
+
+I hope you're having a great week! Just a quick reminder that our team lunch
+is scheduled for Tuesday, July 2nd, at 12:30 PM at The Garden Bistro.
+I've already made the reservation for our group of six.
+
+Additionally, here’s a brief project update:
+
+- Final design mockups have been approved by the client.
+- Development will begin next Monday, with initial focus on the
+  authentication module.
+- QA will receive the first build on July 9th.
+
+Let me know if you have any dietary restrictions or questions about the agenda.
+Looking forward to catching up in person!
+
+Best regards,
+John Doe
+john.doe@example.com

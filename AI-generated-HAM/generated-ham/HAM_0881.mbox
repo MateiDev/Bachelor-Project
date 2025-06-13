@@ -1,0 +1,25 @@
+From alice.johnson@example.com Wed Sep 22 14:35:00 2021
+Return-Path: <alice.johnson@example.com>
+Delivered-To: bob.smith@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by inbox.example.com with ESMTPS id ABC12345
+	for <bob.smith@example.com>; Wed, 22 Sep 2021 14:35:00 -0400 (EDT)
+Date: Wed, 22 Sep 2021 14:35:00 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Weekend Hiking Plans
+Message-ID: <202109221835.12345.AJ@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Are you free this weekend to go hiking at Bear Mountain? The weather forecast looks great, and I'd love to catch up. I’m thinking of leaving early Saturday morning around 8:00 AM. Let me know if that works for you.
+
+Also, if you need any gear, I have an extra pair of hiking poles and a backpack you can borrow.
+
+Looking forward to hearing from you.
+
+Best,
+Alice Johnson

@@ -1,0 +1,33 @@
+From john.smith@example.com Fri Jul 15 14:30:00 2022
+Return-Path: <john.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.google.com with ESMTPS id abc123xyz
+    for <dev-team@example.com>; Fri, 15 Jul 2022 14:30:00 -0400 (EDT)
+Date: Fri, 15 Jul 2022 14:30:00 -0400
+From: John Smith <john.smith@example.com>
+To: Development Team <dev-team@example.com>
+Subject: Reminder: Team Potluck This Friday
+Message-ID: <20220715183000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+Just a friendly reminder that our monthly team potluck is happening this Friday at 5:00 PM in the break room. If you haven't signed up yet, please add your name and dish to the shared spreadsheet by Thursday afternoon.
+
+Suggested categories:
+- Appetizers
+- Main Dishes
+- Side Dishes
+- Desserts
+- Beverages
+
+Feel free to bring anything you like, and let us know if you need any serving utensils or special accommodations.
+
+Looking forward to seeing everyone and enjoying some great food together!
+
+Best regards,
+John Smith
+Office Coordinator
+john.smith@example.com

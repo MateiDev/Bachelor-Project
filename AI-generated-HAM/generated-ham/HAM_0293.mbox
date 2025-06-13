@@ -1,0 +1,24 @@
+From alice@example.com Tue Jul 11 08:45:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by bob-mail.example.net (Postfix) with ESMTP id 1234567890
+    for <bob@example.net>; Tue, 11 Jul 2023 08:45:00 -0400 (EDT)
+Date: Tue, 11 Jul 2023 08:45:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.net>
+Subject: Photos from Saturday’s Hike
+Message-ID: <CAF7hK+xyz@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Great hiking trip on Saturday! I’ve taken a few of my favorite photos from the trailhead and the river crossing. The sun was shining perfectly, and the wildflowers were in full bloom.
+
+Let me know which ones you like best, and I can send you the full-res versions.
+
+Looking forward to our next adventure. Maybe we can try the new trail near Maple Falls next month?
+
+Cheers,
+Alice

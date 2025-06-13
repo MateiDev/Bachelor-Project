@@ -1,0 +1,22 @@
+From alice@example.com Mon Jul 24 09:30:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.5]) by mx.example.org with ESMTP id ABC123 for <bob@example.org>; Mon, 24 Jul 2023 09:30:05 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Hiking Trip
+Date: Mon, 24 Jul 2023 09:30:00 -0400
+Message-ID: <20230724093000.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just wanted to follow up on our conversation about the weekend hiking trip. The weather forecast looks great for this Saturday in the Lakeview area. I thought we could meet up at the trailhead parking lot around 8:00 AM. Remember to bring water, snacks, and appropriate gear.
+
+Let me know if that time still works for you or if you’d prefer to push it back an hour. Also, if you want to invite anyone else from the group, feel free—just give me a heads-up so we can plan carpooling.
+
+Looking forward to spending time outdoors and catching up!
+
+Best,
+Alice

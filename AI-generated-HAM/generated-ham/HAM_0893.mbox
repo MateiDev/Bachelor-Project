@@ -1,0 +1,21 @@
+From jane.doe@example.com Fri Jul 28 09:21:05 2023
+Return-Path: <jane.doe@example.com>
+Delivered-To: john.smith@example.com
+Date: Fri, 28 Jul 2023 09:20:45 -0400
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Upcoming Team Lunch on August 3rd
+Message-ID: <20230728092045.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hello John,
+
+I hope you’re doing well. As discussed in last week’s meeting, we'd like to organize a team lunch to celebrate our recent project milestone. How does Thursday, August 3rd at noon sound to you?
+
+The plan is to meet at Blossom Café (downtown location) and try their seasonal menu. If you have any dietary restrictions or preferences, please let me know so I can inform the restaurant.
+
+Looking forward to your reply.
+
+Best regards,
+Jane Doe

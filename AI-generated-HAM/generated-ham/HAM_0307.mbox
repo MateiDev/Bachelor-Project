@@ -1,0 +1,27 @@
+From john.doe@example.com Sat Aug 12 09:30:00 2023
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Meeting Agenda for Next Week
+Date: Sat, 12 Aug 2023 09:30:00 -0400
+Message-ID: <20230812093000.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're doing well. I wanted to share the draft agenda for our meeting next Tuesday:
+
+1. Project status updates
+2. Budget review for Q3
+3. Timeline adjustments for the new feature rollout
+4. Open discussion / Q&A
+
+Please let me know if you'd like to add any items or modify the order. I'm looking forward to our discussion.
+
+Best regards,
+John Doe
+Marketing Manager
+Example Corp
+john.doe@example.com
+(555) 123-4567

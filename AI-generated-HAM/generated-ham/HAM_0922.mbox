@@ -1,0 +1,27 @@
+From alice@example.com Sat Jul 20 10:15:30 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id ABC123DEF for <bob@example.com>; Sat, 20 Jul 2024 10:15:30 -0400 (EDT)
+Date: Sat, 20 Jul 2024 10:15:30 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Lunch Meeting Reminder
+Message-ID: <20240720101530.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Just a quick reminder about our lunch meeting next Wednesday at 12:30 PM. Let’s meet at the new café downtown, “The Garden Table.” They have a great menu and a comfortable outdoor patio.
+
+I’ve also drafted a preliminary agenda for our project discussion below. Feel free to review and suggest any additional topics.
+
+1. Project timeline
+2. Budget review
+3. Resource allocation
+4. Next steps
+
+Looking forward to catching up.
+
+Best regards,
+Alice

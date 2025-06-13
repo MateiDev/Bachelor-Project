@@ -1,0 +1,32 @@
+From alice@example.com Sat Jul 15 10:35:42 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.gmail.com with ESMTPS id abc123xyz for <bob@example.com>; Sat, 15 Jul 2023 10:35:42 -0400 (EDT)
+Date: Sat, 15 Jul 2023 10:35:42 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hike Plans
+Message-ID: <CAF4k7+exampleMessageID@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I'm writing to confirm our plans for the hiking trip this weekend. The weather forecast looks great—sunny with mild temperatures. Here's the tentative schedule:
+
+- Saturday, 8:00 AM: Meet at the trailhead parking lot.
+- 8:15 AM: Begin the hike on Pine Ridge Trail.
+- 12:30 PM: Lunch break at Maple Grove.
+- 1:30 PM: Resume hiking toward Summit Peak.
+- 4:00 PM: Return to trailhead.
+
+Please remember to bring:
+- Plenty of water (at least 2 liters).
+- Snacks or a packed lunch.
+- Sunscreen and a hat.
+- Sturdy hiking shoes.
+
+Let me know if the timings work for you or if you'd like to adjust anything. Also, feel free to invite anyone else who might be interested. Looking forward to a fun day outdoors!
+
+Best,
+Alice Johnson

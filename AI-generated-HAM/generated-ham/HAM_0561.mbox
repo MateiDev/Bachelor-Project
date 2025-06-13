@@ -1,0 +1,32 @@
+From alice@example.com Tue Mar 23 09:15:00 2021
+Return-Path: <alice@example.com>
+Received: from mailserver.example.com (mailserver.example.com [192.0.2.1]) by inbound.example.com with ESMTP id abc123 for <bob@example.com>; Tue, 23 Mar 2021 09:15:00 -0500
+Date: Tue, 23 Mar 2021 09:15:00 -0500
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekly Project Status Update
+Message-ID: <1627050900.abc123@mailserver.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you’re doing well. Here’s the weekly update on the website redesign project:
+
+1. Completed the new homepage mockup; ready for review.
+2. Finalized the color palette and typography guidelines.
+3. Backend integration with the CMS is currently 60% complete.
+4. QA testing of the user login flow is scheduled to start on Thursday.
+
+I’ve uploaded the mockup files to our shared drive under /Designs/Homepage_Mockup_v2. Please let me know if you have any feedback or would like to schedule a meeting to go over the designs.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Manager
+Example Corp
+alice@example.com
+(555) 123-4567

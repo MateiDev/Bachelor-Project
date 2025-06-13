@@ -1,0 +1,27 @@
+From jane.doe@example.com Wed Jul 17 10:15:00 2024
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id r1234xyz
+    for <john.smith@example.com>; Wed, 17 Jul 2024 10:15:00 -0400 (EDT)
+Date: Wed, 17 Jul 2024 10:15:00 -0400
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Meeting Reminder
+Message-ID: <CAF3sdxA12G_3@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+Just a friendly reminder about our project meeting scheduled for next Tuesday,
+July 23 at 2:00 PM in Conference Room B. We'll review the quarterly report
+draft and finalize the presentation slides.
+
+Please let me know if you need to adjust the time or if there's anything else
+you'd like to add to the agenda.
+
+Looking forward to it!
+
+Best regards,
+Jane Doe

@@ -1,0 +1,26 @@
+From test.sender@example.com Fri Jul 14 10:15:42 2023
+Return-Path: <test.sender@example.com>
+Received: from mail.example.com (mail.example.com [198.51.100.23])
+    by mx.example.com with ESMTP id ABC12345
+    for <test.recipient@example.com>; Fri, 14 Jul 2023 10:15:43 -0400 (EDT)
+Message-ID: <20230714101542.GA12345@mail.example.com>
+Date: Fri, 14 Jul 2023 10:15:42 -0400
+From: Test Sender <test.sender@example.com>
+To: Test Recipient <test.recipient@example.com>
+Subject: Team Picnic This Saturday!
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I'm excited to remind everyone about our annual summer picnic this Saturday at Riverside Park. We’ll meet at the pavilion at 11:00 AM and the event will run until around 4:00 PM. We have sandwiches, drinks, and games all planned, but feel free to bring a side dish or dessert to share if you’d like.
+
+If you have any lawn games or sports equipment (volleyball nets, Frisbees, etc.), please let me know so we can coordinate. Also, if you need a ride or have any dietary restrictions, just reply to this email and I’ll make sure everything is sorted.
+
+Looking forward to a fun day in the sun with everyone!
+
+Best regards,
+Test Sender
+Event Coordinator
+Example Company

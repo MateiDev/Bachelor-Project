@@ -1,0 +1,22 @@
+From alice@example.com Sat Jan 15 14:23:45 2022
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com (Postfix) with ESMTP id 3F6C812345
+    for <bob@example.com>; Sat, 15 Jan 2022 14:23:45 -0500 (EST)
+Date: Sat, 15 Jan 2022 14:23:45 -0500
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Weekend Picnic Plan
+Message-ID: <20220115142345.3f6c8@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re having a great week! The weather forecast for this weekend looks perfect for an outdoor picnic. I was thinking we could meet at Riverside Park at 11:00 AM on Saturday. I’ll bring sandwiches and drinks. Could you please bring a light dessert or some snacks?
+
+Let me know if that works for you or if you have any other ideas.
+
+Looking forward to catching up,
+Alice

@@ -1,0 +1,27 @@
+From alice@example.com Wed Aug  4 10:15:00 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by smtp.example.com with ESMTP id abc123;
+	Wed, 04 Aug 2021 10:15:00 -0400
+Subject: Sunday Hike Plans
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Date: Wed, 4 Aug 2021 10:15:00 -0400
+Message-ID: <0001abcd.example@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Are you still up for the hike this Sunday? The weather forecast looks great 
+with clear skies and mild temperatures. I was thinking we could meet at 
+8:00 AM at the trailhead parking lot near Pine Creek. Don't forget to bring 
+water, snacks, and sunscreen.
+
+Let me know if that works for you, and if you want to invite anyone else, 
+feel free. Looking forward to it!
+
+Best,
+Alice

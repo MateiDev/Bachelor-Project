@@ -1,0 +1,24 @@
+From alice@example.com Sat Jan  1 12:34:56 2022
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by example.com with ESMTP id ABC123DEF; Sat, 1 Jan 2022 12:34:56 -0500
+Received: by mail.example.com id GHI456JKL; Sat, 1 Jan 2022 12:34:54 -0500
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Lunch Next Week?
+Date: Sat, 1 Jan 2022 12:34:52 -0500
+Message-ID: <20220101123452.mail@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Happy New Year! I hope you had a great holiday season.
+
+I was thinking it would be nice to catch up over lunch sometime next week. Are you free on Wednesday or Thursday around noon? There's a new cafe downtown that just opened – I heard they have excellent sandwiches.
+
+Let me know what works best for you. Looking forward to hearing about your break and sharing updates on the project.
+
+Best,
+Alice

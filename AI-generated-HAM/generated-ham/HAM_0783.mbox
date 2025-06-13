@@ -1,0 +1,20 @@
+From someone@example.com Tue Jan 24 12:34:56 2023
+Return-Path: <someone@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABC123
+    for <recipient@example.org>; Tue, 24 Jan 2023 12:34:56 -0500 (EST)
+Date: Tue, 24 Jan 2023 12:34:56 -0500
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.org>
+Subject: Lunch Meeting Tomorrow
+Message-ID: <0001@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. I wanted to confirm our lunch meeting tomorrow at 1:00 PM at the downtown café. Let me know if you need to adjust the time or have any dietary restrictions. Looking forward to catching up and discussing the Q1 project updates.
+
+Best regards,
+Alice

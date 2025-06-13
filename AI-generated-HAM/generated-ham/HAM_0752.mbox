@@ -1,0 +1,51 @@
+From alice@example.com Wed Jun 14 09:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by smtp.example.org with ESMTP id ABCD1234
+	for <bob@example.com>; Wed, 14 Jun 2023 09:15:01 -0400 (EDT)
+Message-ID: <20230614091501.ABCD1234@mail.example.com>
+Date: Wed, 14 Jun 2023 09:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Lunch or Coffee This Week?
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. It's been a busy few weeks, but I finally have some free time this week.
+Would you like to grab lunch or coffee on Thursday or Friday? There's a new café on Main Street
+that just opened and I'm curious to try it out. Let me know which day works better for you,
+and if lunch or coffee is preferable.
+
+Looking forward to catching up!
+
+Best,
+Alice Smith
+
+From alice@example.com Wed Jun 14 09:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by smtp.example.org with ESMTP id ABCD1234
+	for <bob@example.com>; Wed, 14 Jun 2023 09:15:01 -0400 (EDT)
+Message-ID: <20230614091501.ABCD1234@mail.example.com>
+Date: Wed, 14 Jun 2023 09:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Lunch or Coffee This Week?
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. It's been a busy few weeks, but I finally have some free time this week.
+Would you like to grab lunch or coffee on Thursday or Friday? There's a new café on Main Street
+that just opened and I'm curious to try it out. Let me know which day works better for you,
+and if lunch or coffee is preferable.
+
+Looking forward to catching up!
+
+Best,
+Alice Smith

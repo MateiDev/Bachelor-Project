@@ -1,0 +1,19 @@
+From alice@example.com Mon Jul 15 09:21:33 2024
+Return-Path: <alice@example.com>
+Date: Mon, 15 Jul 2024 09:21:33 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Lunch Meet-up Next Week
+Message-ID: <20240715092133.12345.alice@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I’m organizing a small lunch gathering next Wednesday at our usual spot, The Green Leaf Café, around 12:30 PM. A few of the team members from Marketing and Design will be there too. It would be great if you could join us and share any updates on the current project.
+
+Please let me know if you’re available, and I’ll make a reservation. Looking forward to catching up!
+
+Best,
+Alice Johnson

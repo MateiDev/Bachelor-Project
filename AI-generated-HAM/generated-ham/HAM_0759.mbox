@@ -1,0 +1,33 @@
+From alice@wonderland.net Mon Apr 15 10:23:45 2024
+Return-Path: <alice@wonderland.net>
+Received: from mail.wonderland.net (mail.wonderland.net [192.0.2.1])
+    by mx.example.com with ESMTP id abcd1234
+    for <bob@example.com>; Mon, 15 Apr 2024 10:23:45 -0400 (EDT)
+Date: Mon, 15 Apr 2024 10:23:45 -0400
+From: Alice Wonderland <alice@wonderland.net>
+To: Bob Builder <bob@example.com>
+Subject: Monthly Gardening Club Meetup
+Message-ID: <CAFk3Jh82=bookclub123@wonderland.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well! This is a friendly reminder about our Monthly Gardening Club Meetup happening next Tuesday, April 23rd, at 6:30 PM in the community greenhouse. We'll be discussing spring planting tips, sharing seeds, and doing a brief workshop on raised bed construction. Feel free to bring any seeds or tools you'd like to show off.
+
+The address is:
+Greenway Community Greenhouse
+123 Garden Lane
+Hometown, HT 12345
+
+After the meeting, a small potluck will follow. Feel free to bring a snack or beverage to share.
+
+Looking forward to seeing you there!
+
+Best regards,
+Alice
+
+Alice Wonderland
+Gardening Club Coordinator
+alice@wonderland.net

@@ -1,0 +1,29 @@
+From alice@example.com Wed Mar 15 09:23:45 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com ([192.0.2.1]) by mx.example.com with ESMTP id ABC12345 for <bob@example.com>; Wed, 15 Mar 2023 09:23:45 -0400
+Date: Wed, 15 Mar 2023 09:23:45 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekly Project Update
+Message-ID: <msg1.1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+Here is the update on our project this week:
+
+- Task A: Completed internal review and awaiting your feedback.
+- Task B: UI prototype is 80% done. We plan to finish the styling by Friday.
+- Task C: We encountered a small database schema issue but have a workaround in place.
+
+Next steps:
+1. Review the internal audit document I shared on Tuesday.
+2. Approve the final UI adjustments.
+3. Schedule a meeting to discuss the new deployment pipeline.
+
+Let me know if you have any questions or need further details.
+
+Best regards,
+Alice

@@ -1,0 +1,21 @@
+From alice@example.com Fri Jul 23 16:45:00 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTPS id abc123
+    for <bob@example.org>; Fri, 23 Jul 2021 16:45:00 -0400 (EDT)
+Date: Fri, 23 Jul 2021 16:45:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Message-ID: <CABFsdf123@example.com>
+Subject: Weekend Plans
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+I hope you're doing well! It's been a while since we last caught up. Are you free this weekend to grab lunch and maybe check out that new café downtown? I heard they have amazing pastries and a relaxed outdoor seating area.
+
+Let me know what your schedule looks like, and we can pick a time that works for both of us. Looking forward to catching up!
+
+Best,
+Alice

@@ -1,0 +1,26 @@
+From john.doe@example.com Tue Jul 30 08:55:23 2024
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id abc123; Tue, 30 Jul 2024 08:55:23 -0400
+Date: Tue, 30 Jul 2024 08:55:23 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+CC: Team Leads <team.leads@example.com>
+Subject: Upcoming Team Building Activity
+Message-ID: <CA+abc123def456@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Jane,
+
+I hope you're doing well. I wanted to remind you about our team building activity scheduled for
+next Friday, August 2nd, at the Riverside Park Pavilion. We'll meet at 10:00 AM for a series
+of group challenges and a catered lunch at noon.
+
+Please RSVP by Wednesday if you haven't already, so we can finalize the lunch order.
+If you have any dietary restrictions or preferences, let me know as soon as possible.
+
+Looking forward to a fun event!
+
+Best regards,
+John

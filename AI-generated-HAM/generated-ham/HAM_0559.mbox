@@ -1,0 +1,33 @@
+From alice@example.com Mon Mar 20 09:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by bob-mail.example.org (Postfix) with ESMTP id 3A1B2C4D5E
+	for <bob@example.org>; Mon, 20 Mar 2023 09:15:02 -0500 (EST)
+Delivered-To: bob@example.org
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Lunch and Project Update
+Date: Mon, 20 Mar 2023 09:15:00 -0500
+Message-ID: <20230320091500.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to confirm our team lunch this Friday at
+noon. We'll meet at the new café on Maple Street; they have a private room
+reserved for us. Please let me know if you have any dietary restrictions.
+
+Also, quick project update:
+- The design draft is 90% complete.
+- We've scheduled the first review meeting for Wednesday at 2 PM.
+- The backend team expects to finish integration tests by the end of next week.
+
+If you need anything else before then, feel free to reach out. Otherwise,
+I'll see you at lunch!
+
+Best,
+Alice Johnson
+Project Coordinator
+alice@example.com

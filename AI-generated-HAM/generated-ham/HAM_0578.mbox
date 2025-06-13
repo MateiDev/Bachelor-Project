@@ -1,0 +1,40 @@
+From alice@example.com Thu Jun 13 08:47:12 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id ABCDE12345
+	for <bob@example.com>; Thu, 13 Jun 2024 08:47:12 -0400 (EDT)
+Message-ID: <20240613084712.alice@mail.example.com>
+Date: Thu, 13 Jun 2024 08:47:12 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Team Outing This Friday
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! As discussed in our last meeting, we’re planning a team outing this Friday afternoon. The current plan is to meet at the office at 2:00 PM and head over to Riverside Park for a picnic and some light games.
+
+Here’s the tentative schedule:
+- 2:00 PM: Gather in the lobby
+- 2:15 PM: Depart for Riverside Park
+- 2:30 PM: Arrive and set up
+- 3:00 PM: Picnic lunch
+- 4:00 PM: Team games (volleyball, frisbee, etc.)
+- 5:30 PM: Wrap up and head back
+
+Please let me know if you have any dietary restrictions or game preferences. Feel free to bring your own snacks or beverages if you’d like. We’ll provide sandwiches, fruit, and bottled water for everyone.
+
+Looking forward to a fun and relaxing afternoon with the team. Let me know if you have any questions or suggestions!
+
+Best regards,
+Alice
+
+-- 
+Alice Smith
+Project Coordinator
+Example Company
+alice@example.com
+(555) 123-4567

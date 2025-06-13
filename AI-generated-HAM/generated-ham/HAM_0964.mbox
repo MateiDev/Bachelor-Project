@@ -1,0 +1,29 @@
+From alice@example.com Sat Aug 12 09:23:00 2023
+Return-Path: <alice@example.com>
+Received: by mailserver.example.com id abcd1234; Sat, 12 Aug 2023 09:23:00 -0400
+Message-ID: <20230812092300.123456@mailserver.example.com>
+Date: Sat, 12 Aug 2023 09:23:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Plan
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about our hiking trip this weekend. The weather forecast looks clear on Saturday morning, so I suggest we meet at the trailhead parking lot by 8:00 AM. Here's the plan:
+
+- 8:00 AM: Meet at Pine Ridge Trailhead  
+- 8:15 AM: Begin the hike  
+- 12:30 PM: Picnic lunch at Eagle Point  
+- 2:00 PM: Head back down  
+- 4:30 PM: Estimated return to the cars
+
+I’ll bring sandwiches, water, and a first aid kit. Feel free to pack any snacks or gear you prefer. If you’d like to invite anyone else, just let me know by Friday evening so I can adjust our supplies.
+
+Looking forward to a great day outdoors! Let me know if you have any questions or need to adjust the schedule.
+
+Best,
+Alice Johnson
+

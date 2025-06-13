@@ -1,0 +1,25 @@
+From alice@example.com Wed Jul 28 09:53:14 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by bob.example.net (Postfix) with ESMTP id ABC123
+    for <bob@example.com>; Wed, 28 Jul 2021 09:53:14 -0400 (EDT)
+Date: Wed, 28 Jul 2021 09:53:14 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Invitation: Q3 Team Meeting
+Message-ID: <20210728095314.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're having a great week! I'd like to invite you to our Q3 team meeting next Tuesday, August 3rd at 2:00 PM in Conference Room B. We'll be covering our project milestones, upcoming deadlines, and sharing feedback from recent customer demos.
+
+Please let me know if you're able to attend. If you have any topics you'd like us to include in the agenda, feel free to send them my way by Friday.
+
+Looking forward to seeing you there!
+
+Best regards,
+Alice

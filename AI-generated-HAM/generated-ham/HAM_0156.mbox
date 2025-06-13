@@ -1,0 +1,28 @@
+From alice@example.com Fri Jul 12 09:15:23 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com by mx.example.org with ESMTP id xyz1234; Fri, 12 Jul 2024 09:15:23 -0400
+Date: Fri, 12 Jul 2024 09:15:23 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Hiking Plans
+Message-ID: <20240712091523.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well! I was thinking about our conversation last week about getting outdoors
+more often. The weather forecast for this weekend looks great—sunny skies and mild
+temperatures—so I thought it would be a perfect time for a day hike.
+
+There's a scenic trail at Pine Ridge Park that's about 8 miles round trip. It has a few
+nice lookout points along the way, and I hear the wildflowers are in full bloom right now.
+We could meet at my place at 8 AM on Saturday and carpool, or meet you at the park entrance
+around 9 AM if that's easier for you.
+
+Let me know what you think, and if you have any trail suggestions of your own. Looking
+forward to getting some fresh air and catching up!
+
+Best,
+Alice

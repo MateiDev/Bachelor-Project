@@ -1,0 +1,24 @@
+From john.doe@example.com Sat Mar  4 12:30:00 2023
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.com
+Received: by mail.example.com (Postfix, from userid 1001)
+    id 9F2A312345; Sat,  4 Mar 2023 12:30:01 -0500 (EST)
+Date: Sat, 4 Mar 2023 12:30:00 -0500
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Saturday Barbecue Plan
+Message-ID: <20230304123000.9F2A312345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I'm planning to host a barbecue at my place this Saturday, March 11th, starting around noon. I'll have burgers, hot dogs, and veggie skewers on the grill. Feel free to bring any side dishes or drinks you'd like.
+
+We'll have some lawn games and music as well. It should be a fun and relaxed afternoon. Let me know if you can make it, and if you have any dietary preferences.
+
+Looking forward to catching up!
+
+Best,
+John

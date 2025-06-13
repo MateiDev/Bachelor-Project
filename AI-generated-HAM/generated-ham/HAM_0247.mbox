@@ -1,0 +1,25 @@
+From alice@example.com Fri Jul 12 10:15:30 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.example.org with ESMTP id abc123
+    for <bob@example.org>; Fri, 12 Jul 2024 10:15:30 -0500 (CDT)
+Received: from [192.0.2.2] (unknown [192.0.2.2]) by mail.example.com with ESMTPSA id def456
+    for <bob@example.org>; Fri, 12 Jul 2024 10:15:29 -0500 (CDT)
+Message-ID: <CAFj=abc123@mail.example.com>
+Date: Fri, 12 Jul 2024 10:15:29 -0500
+Subject: Weekend Hiking Trip
+From: Alice <alice@example.com>
+To: Bob <bob@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Looking forward to our hiking trip this weekend! I’ve mapped out a route to Eagle Peak that’s about 8 miles round trip. We’ll start early Saturday to avoid the afternoon heat. Don’t forget to pack plenty of water, snacks, and a light jacket—the summit can get chilly.
+
+Let me know if you have any suggestions or if you need a ride to the trailhead. I’ll pick you up at your place around 7:00 AM.
+
+Cheers,
+Alice

@@ -1,0 +1,34 @@
+From bob@example.com Fri Jul 12 09:12:07 2024
+Return-Path: <bob@example.com>
+Delivered-To: alice@example.net
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by smtp.example.net with ESMTP id 1234567890
+    for <alice@example.net>; Fri, 12 Jul 2024 09:12:07 -0400 (EDT)
+Date: Fri, 12 Jul 2024 09:12:07 -0400
+From: Bob Smith <bob@example.com>
+To: Alice Johnson <alice@example.net>
+Subject: Summer Picnic Planning
+Message-ID: <CAJ3W3nmO9+K0@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Alice,
+
+I hope you're doing well! I wanted to touch base about our summer picnic next month.
+It's been a while since we all got together, and I thought the end of August
+would be perfect timing.
+
+I've reserved a spot at Lakeside Park on Saturday, August 24th, starting at noon.
+Could you let me know if that works for you? Also, if you have any suggestions for
+activities or food contributions, just reply to this email and I'll add them to
+our planning document.
+
+So far, Sarah is bringing sandwiches, Mike is handling beverages, and I'll take
+care of the desserts. Feel free to bring along any games or your new outdoor
+speaker if you'd like.
+
+Looking forward to catching up and enjoying the sunshine!
+
+Best,
+Bob

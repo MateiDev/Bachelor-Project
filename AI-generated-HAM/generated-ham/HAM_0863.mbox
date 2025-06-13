@@ -1,0 +1,22 @@
+From alice@example.com Mon Aug 16 10:15:00 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.org (mail.example.org [198.51.100.1]) by mx.example.com with ESMTP id 12345ABCDE; Mon, 16 Aug 2021 10:15:00 -0400 (EDT)
+Date: Mon, 16 Aug 2021 10:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Miller <bob@example.com>
+Subject: Weekend Hike Plan
+Message-ID: <202108161015.12345.alice@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. A few of us from the hiking group are planning a day trip to Blue Mountain this Saturday. We plan to meet at the trailhead parking lot at 8:00 AM and return by late afternoon. Please let me know if you're interested and whether you need a ride.
+
+Also, the overnight forecast looks good—mild and sunny. Don't forget to bring plenty of water, snacks, and a light jacket. We'll pack sandwiches, but feel free to bring anything you'd like.
+
+Let me know if you can join, and I'll add you to the group chat.
+
+Best,
+Alice

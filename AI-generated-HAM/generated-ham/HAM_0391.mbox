@@ -1,0 +1,21 @@
+From alice.johnson@example.com Mon Jul 11 10:23:45 2022
+Date: Mon, 11 Jul 2022 10:23:45 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Team Meeting Reminder and Project Update
+Message-ID: <20220711102345.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi Bob,
+
+I hope you’re doing well.
+
+This is a reminder for our team meeting next Wednesday, July 20th at 2:00 PM in Conference Room B. We’ll review the status of the Phoenix project, discuss recent milestones, and plan tasks for the next sprint. I’ve attached the latest project report for your review.
+
+If you have any additional agenda items or questions, please let me know by Friday.
+
+Looking forward to seeing you and the rest of the team.
+
+Best regards,
+Alice Johnson

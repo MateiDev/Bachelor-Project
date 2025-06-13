@@ -1,0 +1,25 @@
+From alice@example.com Fri Jun 14 10:23:45 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id BA6F12R8
+    for <bob@example.com>; Fri, 14 Jun 2024 10:23:45 -0400 (EDT)
+Message-ID: <CAFmQ1n+5Ab=RkU@mail.example.com>
+Date: Fri, 14 Jun 2024 10:23:45 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Lunch Plans This Week
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to see if you’re free for lunch sometime this week. I was thinking about trying out that new café on Maple Street—The Green Spoon. They have a great selection of salads, sandwiches, and a rotating soup of the day. 
+
+If you’re up for something different, there’s also Bella Pizzeria, which just reopened after renovations. Their wood-fired pizzas have excellent reviews, and they offer several vegetarian options. Let me know what sounds best to you, and what day works.
+
+Looking forward to catching up!
+
+Best,
+Alice

@@ -1,0 +1,33 @@
+From no-reply@example.com Fri Jul  5 10:15:22 2024
+Return-Path: <no-reply@example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbound.example.com (Postfix) with ESMTPS id 12345
+    for <user@example.com>; Fri,  5 Jul 2024 10:15:22 -0400 (EDT)
+Date: Fri, 5 Jul 2024 10:15:22 -0400
+From: "Jane Doe" <jane.doe@example.com>
+To: Team <team@example.com>
+Subject: Reminder: Quarterly Team Meeting Next Week
+Message-ID: <20240705101522.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+This is a friendly reminder that our quarterly team meeting is scheduled for next Thursday, July 11th, at 2:00 PM in Conference Room B. The agenda will include:
+
+- Project progress updates  
+- Q3 objectives and milestones  
+- Budget review  
+- Team feedback and brainstorming  
+
+Please review the attached meeting agenda draft and send any additions or comments by Monday, July 8th. If you are unable to attend in person, let me know and I will set up a conference call link.
+
+Thank you all for your hard work and dedication. Looking forward to a productive meeting!
+
+Best regards,
+Jane Doe
+Project Manager
+jane.doe@example.com
+(555) 123-4567

@@ -1,0 +1,38 @@
+From alice@example.com Wed Aug 16 14:32:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABC123XYZ;
+    Wed, 16 Aug 2023 14:32:00 -0400 (EDT)
+Date: Wed, 16 Aug 2023 14:32:00 -0400
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Weekend Hiking Trip Plan
+Message-ID: <20230816143200.ABC123XYZ@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I hope you’re doing well! I wanted to touch base about our hiking trip this coming Saturday. The weather forecast looks perfect—sunny with highs around 75°F.
+
+Here’s the current plan:
+1. Meet at my place at 8:00 AM.
+2. Drive out to Pine Ridge Trailhead (about an hour’s drive).
+3. Hike the Ridge Loop (approximately 10 miles, moderate difficulty).
+4. Stop for lunch by the creek around noon—I'll pack sandwiches and snacks.
+5. Head back down in the afternoon, aiming to be back home by 5:00 PM.
+
+Let me know if that schedule works for you, or if you’d prefer any changes. Also, please bring:
+- Sturdy hiking boots
+- Water bottle (at least 2 liters)
+- Sunscreen and hat
+- Light jacket (it can get breezy on the ridge)
+- Any personal snacks or gear you like
+
+Feel free to invite anyone else who might enjoy the hike—just give me a heads-up so I can adjust carpooling arrangements.
+
+Looking forward to hitting the trails!
+
+Best,
+Alice

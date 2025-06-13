@@ -1,0 +1,16 @@
+From alice@example.com Tue Aug 15 14:23:45 2023
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Lunch next week?
+Date: Tue, 15 Aug 2023 14:23:45 -0400
+Message-ID: <0001abcd1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. Are you available for lunch next Wednesday at our usual spot? Let me know what time works best for you.
+
+Best,
+Alice

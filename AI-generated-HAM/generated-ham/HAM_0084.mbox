@@ -1,0 +1,36 @@
+From alice@example.com Sat Jul 15 10:05:00 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id ABC12345 for <bob@example.com>; Sat, 15 Jul 2023 10:05:01 -0400
+Message-ID: <1626353100.1234.abcde@mail.example.com>
+Date: Sat, 15 Jul 2023 10:05:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hiking Trip Plan
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I hope you're doing well. I wanted to touch base about our hiking trip this coming
+weekend. The forecast looks great — sunny with temperatures in the mid-70s.
+I found a few trails in the Pine Ridge area that look promising.
+
+Our options:
+1. Ridge Loop Trail: Moderate difficulty, about 6 miles.
+2. Pine Valley Path: Easier, mostly level, around 4 miles.
+3. Summit Ridge: Challenging climb, 8 miles round-trip with some steep sections.
+
+Let me know which one you prefer, or if you'd like to mix and match. I can handle
+packing snacks, water, and a small first aid kit. If there's anything specific
+you want me to bring, just let me know.
+
+Also, we should aim to start early — around 8:00 AM on Saturday — to avoid the
+afternoon crowds. Parking can fill up quickly, so arriving around 7:45 AM might
+be best.
+
+Looking forward to getting outdoors and catching up!
+
+Best,
+Alice

@@ -1,0 +1,31 @@
+From alice@example.com Fri Jul 14 10:17:21 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTPS id abc123
+    for <bob@example.com>; Fri, 14 Jul 2023 10:17:21 -0400 (EDT)
+Date: Fri, 14 Jul 2023 10:17:21 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip Plans
+Message-ID: <20230714101721.abc123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi Bob,
+
+I'm excited about our upcoming weekend hiking trip to Pine Ridge Trail. I've looked at the weather forecast, and it looks like we'll have clear skies on Saturday, with temperatures around 75°F. I plan to meet you at the trailhead parking lot around 8:00 AM.
+
+Here’s a rough itinerary:
+- 8:00 AM: Arrive at trailhead and do final gear check
+- 8:15 AM: Start the hike
+- 11:30 AM: Reach the overlook for a picnic lunch (feel free to bring sandwiches or snacks)
+- 1:00 PM: Continue along the ridge toward the lake
+- 3:30 PM: Begin return trip to the trailhead
+- 6:00 PM: Expected arrival back at parking lot
+
+Make sure to bring plenty of water, sunscreen, and sturdy hiking boots. I’ll handle the sandwiches and fruit, and will bring some extra trail mix. If you have any dietary preferences or need anything specific, let me know by Friday evening.
+
+Looking forward to catching up and enjoying the great outdoors!
+
+Best,
+Alice

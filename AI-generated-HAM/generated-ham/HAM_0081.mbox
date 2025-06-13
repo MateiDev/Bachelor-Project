@@ -1,0 +1,30 @@
+From alice@example.com Mon Jul 24 09:15:00 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id abc123
+    for <bob@example.com>; Mon, 24 Jul 2023 09:15:01 -0400 (EDT)
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Saturday Hike Plans
+Date: Mon, 24 Jul 2023 09:15:00 -0400
+Message-ID: <CAFk3X9a+7xyz@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Just wanted to check in about our hike this Saturday. The forecast looks great: sunny with mild temperatures around 72°F. I suggest we meet at the trailhead parking lot at Pine Ridge by 8:30 AM.
+
+Here’s a quick checklist of what to bring:
+- Water (at least 2 liters)
+- Snacks or a packed lunch
+- Sunscreen and a hat
+- Comfortable hiking boots
+- A small first-aid kit, just in case
+
+Let me know if you have any questions or if you prefer a different meeting time. Looking forward to getting some fresh air and enjoying the scenery!
+
+Best,
+Alice

@@ -1,0 +1,26 @@
+From alice@example.com Sat Jun 15 09:47:52 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com (Postfix) with ESMTP id 1234ABCD
+    for <bob@example.com>; Sat, 15 Jun 2024 09:47:52 -0400 (EDT)
+Message-ID: <CA+12345@mail.example.com>
+Date: Sat, 15 Jun 2024 09:47:52 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hiking Plan
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed
+
+Hey Bob,
+
+I hope you’re doing well! I wanted to touch base about our hiking trip this Saturday. The forecast looks perfect—sunny with highs around 75°F—and the trail at Bear Creek is in great shape according to recent reports.
+
+Here’s the plan:
+- Meet at my place around 8:00 AM to carpool.
+- Bring water, snacks, and comfortable shoes.
+- We should be back by early afternoon.
+
+Let me know if that still works for you or if you’d prefer a different time. Looking forward to catching up and enjoying some fresh air!
+
+Cheers,
+Alice

@@ -1,0 +1,22 @@
+From john.doe@example.com Thu Mar 25 14:23:45 2021
+From: John Doe <john.doe@example.com>
+To: Team <team@example.org>
+Subject: Project Kick-Off Meeting Notes
+Date: Thu, 25 Mar 2021 14:23:45 -0400
+Message-ID: <20210325142345.abcdef123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Team,
+
+Thank you for attending the project kick-off meeting this afternoon. Here are the key points we discussed:
+
+- Objectives and scope of the project.
+- Timeline with milestones.
+- Assignments for each team member.
+- Next meeting scheduled for April 1, 2021.
+
+Please review the attached agenda and provide any feedback by Friday. Let me know if you have questions or need clarification.
+
+Best regards,
+John Doe

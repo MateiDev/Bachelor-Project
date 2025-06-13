@@ -1,0 +1,33 @@
+From alice@example.com Tue Mar  5 14:30:00 2024
+Return-Path: <alice@example.com>
+Received: from server.example.net (server.example.net [192.0.2.1]) by mail.example.com with ESMTP id ABC123; Tue, 5 Mar 2024 14:29:30 -0400
+Date: Tue, 5 Mar 2024 14:30:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip Details
+Message-ID: <20240305143000.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+Just confirming the details for our weekend hiking trip.
+
+Date: Saturday, March 9
+Meeting Time: 8:00 AM
+Meeting Point: Central Park North Entrance
+Trail: Lake View Loop (approx. 8 miles)
+Difficulty: Moderate
+
+Please remember to bring:
+- Water (at least 2 liters)
+- Snacks and a packed lunch
+- Comfortable hiking boots
+- Light jacket (it might be chilly in the morning)
+- Sunscreen and sunglasses
+
+Let me know if you have any questions or if something changes. Looking forward to a great day outdoors!
+
+Best,
+Alice

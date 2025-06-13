@@ -1,0 +1,28 @@
+From testsender@example.com Tue Jun 11 10:23:45 2024
+Return-Path: <testsender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.example.com (Postfix) with ESMTP id 1234ABCD
+    for <testrecipient@example.com>; Tue, 11 Jun 2024 10:23:45 -0400 (EDT)
+From: "Alice Johnson" <alice.johnson@example.com>
+To: "Bob Smith" <bob.smith@example.com>
+Subject: Weekend Hiking Trip
+Message-ID: <20240611142345.12345@example.com>
+Date: Tue, 11 Jun 2024 10:23:45 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about the hiking trip this weekend.
+The forecast looks perfect—sunny skies and mild temperatures. I checked the trail
+conditions and it seems the Wildflower Loop is in great shape. Let's plan to meet
+at the trailhead parking lot around 8:00 AM on Saturday.
+
+I’ll bring sandwiches, snacks, and plenty of water. Feel free to bring anything
+special you like. Also, don’t forget your hiking boots and sunscreen!
+
+Looking forward to catching up and enjoying the outdoors.
+
+Best,
+Alice

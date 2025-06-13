@@ -1,0 +1,26 @@
+From alice@example.com Sat Sep 23 10:15:42 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by inbound.example.com with ESMTP id 12345ABC
+	for <bob@example.com>; Sat, 23 Sep 2023 10:15:42 -0700 (PDT)
+Date: Sat, 23 Sep 2023 10:15:42 -0700
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hike Reminder
+Message-ID: <CA+XyZ12AbC=example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a friendly reminder about our hike this Saturday at Redwood Trail. Let's meet at the trailhead parking lot by 8:00 AM. The forecast looks clear, but it might be a bit chilly early in the morning, so don’t forget to bring a light jacket and a water bottle.
+
+If you have time, feel free to pack some snacks for the group—granola bars, fruit, or whatever you prefer. I've asked Carol and Dave to bring some sandwiches, so we should have a nice picnic spot halfway through the hike.
+
+Looking forward to catching up and enjoying the fresh air. Let me know if anything comes up or if you need directions.
+
+See you Saturday!
+
+Best,
+Alice

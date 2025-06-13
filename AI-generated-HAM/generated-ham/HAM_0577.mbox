@@ -1,0 +1,29 @@
+From alice@example.com Fri Jul 28 09:15:30 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10]) by mx.example.org with ESMTP id abc123xyz for <bob@example.org>; Fri, 28 Jul 2023 09:15:30 -0400
+Date: Fri, 28 Jul 2023 09:15:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Team Meeting Notes
+Message-ID: <20230728091530.1@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Thanks for attending this morning’s team meeting. Here’s a quick summary of what we discussed:
+
+- Project Milestones: We’re on track for the August 15 feature freeze.
+- UI Updates: The design team will deliver mockups by Tuesday.
+- Testing Plan: QA will start regression tests next Monday.
+- Documentation: I’ll draft the user guide outline by the end of the week.
+
+Please let me know if I missed anything or if you have any questions. I’ve also scheduled our next sync for Wednesday at 10:00 AM.
+
+Best regards,
+Alice Johnson
+Product Manager
+ExampleCorp
+alice@example.com
+(555) 123-4567

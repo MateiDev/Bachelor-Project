@@ -1,0 +1,25 @@
+From jane.doe@example.com Wed Jun 05 09:15:42 2024
+Return-Path: <jane.doe@example.com>
+Received: from smtp.example.com (smtp.example.com [192.0.2.1]) by mail.example.org with ESMTP id ABC12345 for <john.smith@example.org>; Wed, 5 Jun 2024 09:15:42 -0400 (EDT)
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.org>
+Subject: Project Status Update
+Date: Wed, 5 Jun 2024 09:15:42 -0400
+Message-ID: <20240605091542.ABC12345@smtp.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hello John,
+
+Here is the weekly update on our ongoing project:
+
+1. The design phase was completed on schedule last Friday.
+2. We have started the development of the main module.
+3. QA is scheduled to begin next Monday.
+4. We will have a team review meeting on Thursday at 10:00 AM.
+
+Please let me know if you have any questions or need further details.
+
+Best regards,
+Jane Doe

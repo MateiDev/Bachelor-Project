@@ -1,0 +1,20 @@
+From alice.smith@example.com Tue Jul 16 10:12:05 2024
+Return-Path: <alice.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org (Postfix) with ESMTPS id 3ABCD567F for <bob.johnson@domain.com>; Tue, 16 Jul 2024 10:12:05 -0400 (EDT)
+Date: Tue, 16 Jul 2024 10:12:05 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@domain.com>
+Subject: Weekend Hiking Trip Photos
+Message-ID: <20240716101205.3ABCD567F@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to share some photos from our weekend hiking trip up Bear Ridge. We had perfect weather on Saturday, and the views from the summit were incredible. I’ve attached a few of my favorites to this message.
+
+Let me know what you think, and if you'd like to plan another hike soon, I’m available next weekend. Maybe we can try the Lake Loop trail this time.
+
+Best,
+Alice

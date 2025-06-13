@@ -1,0 +1,27 @@
+From alice@example.org Sat Mar 25 14:32:10 2023
+Delivered-To: bob@example.com
+Return-Path: <alice@example.org>
+Received: from mail.example.org (mail.example.org [192.0.2.123])
+    by mail.example.com with ESMTP id ABC123DEF
+    for <bob@example.com>; Sat, 25 Mar 2023 14:32:10 -0400 (EDT)
+Message-ID: <CA+1234abcdef@mail.example.org>
+Date: Sat, 25 Mar 2023 14:32:10 -0400
+From: Alice Smith <alice@example.org>
+To: Bob Jones <bob@example.com>
+Subject: Weekend Hiking Trip
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about our upcoming weekend hiking trip to Bear Mountain. The weather forecast is looking great—sunny skies with a gentle breeze. I'm planning to start early on Saturday to avoid the afternoon crowds.
+
+Let me know if you need to borrow any gear. I have an extra pair of trekking poles and a lightweight tent, in case yours is still drying out from the last trip. I’ll also bring along some extra snacks—trail mix, sandwiches, and plenty of water.
+
+If you’d like, I can pick you up around 7:00 AM. Otherwise, feel free to meet me at the trailhead by 8:00. Either way works for me. 
+
+Looking forward to catching up and enjoying the fresh air!
+
+Best,
+Alice

@@ -1,0 +1,26 @@
+From alice@example.com Wed Jun 05 11:23:45 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id abc123 for <bob@example.com>; Wed, 05 Jun 2024 11:23:44 +0000 (UTC)
+Date: Wed, 05 Jun 2024 11:23:44 +0000
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Meeting Agenda for Friday's Workshop
+Message-ID: <20240605112344.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well.  I've drafted the agenda for our workshop this Friday.  Please review the outline below and let me know if there’s anything you’d like to add or adjust:
+
+1. Welcome and introductions (15 minutes)
+2. Project overview and objectives (20 minutes)
+3. Breakout sessions for brainstorming (40 minutes)
+4. Group presentations (30 minutes)
+5. Next steps and action items (15 minutes)
+
+Looking forward to your feedback.  Also, could you please confirm if the conference room A-123 is still available at 2:00 PM?
+
+Thanks,
+Alice

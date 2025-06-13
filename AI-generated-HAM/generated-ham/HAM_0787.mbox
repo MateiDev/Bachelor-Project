@@ -1,0 +1,22 @@
+From alice.brown@example.org Fri Jan 01 10:00:00 2021
+Return-Path: <alice.brown@example.org>
+Delivered-To: bob.smith@example.com
+From: Alice Brown <alice.brown@example.org>
+To: Bob Smith <bob.smith@example.com>
+Subject: Lunch Meeting Next Week
+Date: Fri, 1 Jan 2021 10:00:00 -0500
+Message-ID: <20210101100000.12345@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to touch base about our lunch meeting next week. How does Wednesday, January 6th at 12:30 PM sound? There’s a new café called The Green Leaf that opened downtown, and I thought it might be a nice spot.
+
+Please let me know if that works for you, or if you'd prefer another day or location. I’m flexible and happy to accommodate your schedule.
+
+Looking forward to catching up.
+
+Best regards,
+Alice

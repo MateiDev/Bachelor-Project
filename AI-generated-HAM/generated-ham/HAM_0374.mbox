@@ -1,0 +1,26 @@
+From alice@example.com Sat May 25 14:23:45 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.5])
+    by archive.example.net (Inbox) with ESMTP id 6789ABCD
+    for <bob.johnson@example.org>; Sat, 25 May 2024 14:23:45 -0400 (EDT)
+Message-ID: <20240525182345.6789ABCD@mail.example.com>
+Date: Sat, 25 May 2024 14:23:45 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob.johnson@example.org>
+Subject: Plans for this weekend's hiking trip
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just wanted to confirm our plans for the hiking trip this weekend. The weather forecast looks great: sunny with mild temperatures. Here is what I suggest:
+- Meet at the trailhead at 8:00 AM on Saturday.
+- Bring plenty of water, snacks, and a light lunch.
+- Wear sturdy hiking boots and a hat.
+- We can try the new waterfall overlook trail that opened last month.
+
+Let me know if that works for you or if you prefer a different schedule. Looking forward to catching up and enjoying some fresh air!
+
+Best,
+Alice

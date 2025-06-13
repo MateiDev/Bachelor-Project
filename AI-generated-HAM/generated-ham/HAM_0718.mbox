@@ -1,0 +1,20 @@
+From alice@example.com Sat Jul 24 14:22:01 2021
+Message-ID: <CAF5xK+1OzhfQ=abc123def456@example.com>
+Date: Sat, 24 Jul 2021 14:22:01 -0400
+From: Alice Smith <alice@example.com>
+To: John Doe <john.doe@example.org>
+Subject: Lunch Plans Next Week
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi John,
+
+I hope you’re doing well. I wanted to follow up on our conversation from last week and see if you’re available to grab lunch sometime next week. I’m free on Tuesday, Wednesday, and Thursday afternoons. Let me know which day works best for you, and we can pick a restaurant.
+
+Looking forward to catching up!
+
+Best regards,
+Alice Smith
+Software Engineer
+Example Corp
+alice@example.com

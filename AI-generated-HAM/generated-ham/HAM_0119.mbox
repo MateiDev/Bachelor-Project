@@ -1,0 +1,30 @@
+From alice@example.com Tue Aug  1 10:00:00 2023
+Date: Tue, 1 Aug 2023 10:00:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Monthly Team Meeting Reminder
+Message-ID: <1627815600.123456@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+This is a friendly reminder that our monthly team meeting is scheduled for Thursday,
+August 3, 2023 at 2:00 PM in Conference Room B. We will discuss progress on current
+projects, upcoming deadlines, and allocate tasks for next month.
+
+Agenda:
+- Project A status update
+- Budget review for Q3
+- Timeline adjustments for Project B
+- Team feedback and open discussion
+
+Please review the project summary document in our shared drive before the meeting and
+be prepared to share any updates. If you have any items you'd like to add to the
+agenda, send them to me by Wednesday morning.
+
+Looking forward to seeing everyone there.
+
+Best regards,
+Alice Johnson

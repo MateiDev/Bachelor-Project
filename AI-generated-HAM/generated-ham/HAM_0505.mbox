@@ -1,0 +1,21 @@
+From alice@example.com Mon Jul 26 10:15:00 2021
+Return-Path: <alice@example.com>
+Received: by mail.example.com id 12345 for <bob@example.com>; Mon, 26 Jul 2021 10:15:00 -0400
+Date: Mon, 26 Jul 2021 10:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hiking Trip
+Message-ID: <1627301700.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+Are you still up for the hiking trip this weekend? The forecast looks great for Saturday, with sunny skies and mild temperatures. I was thinking we could meet at the trailhead around 8:00 AM. Don't forget to bring plenty of water, snacks, and sunscreen.
+
+Let me know if you need a ride, and I'll pick you up at your place around 7:15. I'm really looking forward to exploring the Bear Creek trail; I've heard the wildflowers are in full bloom right now.
+
+See you soon!
+
+Best,
+Alice

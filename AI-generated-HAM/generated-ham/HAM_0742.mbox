@@ -1,0 +1,27 @@
+From john.doe@example.com Fri Jan 12 14:22:10 2024
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.org
+Received: by mail.example.org id h34jd; Fri, 12 Jan 2024 14:22:10 -0500 (EST)
+Date: Fri, 12 Jan 2024 14:22:10 -0500
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Project Team Meeting Agenda
+Message-ID: <E87654FGH@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're doing well. I’m writing to confirm our project team meeting scheduled for Tuesday, January 16, at 10:00 AM in Conference Room B.
+
+Agenda:
+1. Project milestones review
+2. Budget update
+3. Upcoming deliverables
+4. Q&A
+
+Please let me know if you have any additional items to include. Looking forward to a productive session.
+
+Best regards,
+John Doe

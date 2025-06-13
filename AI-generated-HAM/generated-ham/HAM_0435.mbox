@@ -1,0 +1,27 @@
+From alice@example.com Wed May 15 12:34:56 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by example.com (8.14.4/8.14.4) with ESMTP id ABCD1234
+    for <bob@example.org>; Wed, 15 May 2024 12:34:56 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Update on Q2 Marketing Plan
+Date: Wed, 15 May 2024 12:34:56 -0400
+Message-ID: <20240515123456.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I wanted to share a quick update on the Q2 marketing plan. The social media ads are scheduled to go live on May 20th, and the blog post series will start the following week. I’ve attached the finalized ad copy and the content calendar for your review.
+
+Please let me know if you have any feedback or if you’d like to discuss this further during our call tomorrow at 3 PM.
+
+Best regards,
+Alice
+
+Attachments:
+- Q2_Marketing_Ad_Copy.pdf
+- Content_Calendar.xlsx
+

@@ -1,0 +1,26 @@
+From alice@example.com Thu Jul 14 10:15:20 2022
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.net with ESMTPS id ABC123DEF
+    for <bob@example.net>; Thu, 14 Jul 2022 10:15:20 -0400 (EDT)
+Date: Thu, 14 Jul 2022 10:15:20 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.net>
+Message-ID: <CAF4LKm1-u@localhost>
+Subject: Quick Update on Project Timeline
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope this message finds you well. I wanted to give you a quick update on the project timeline:
+
+1. Initial design phase has been completed as of yesterday.
+2. The development team is scheduled to begin coding next Monday.
+3. We plan to conduct the first internal review by the end of the month.
+
+Please let me know if you'd like to arrange a meeting to discuss any of these points in more detail or if you have feedback on the current plan.
+
+Best regards,
+Alice

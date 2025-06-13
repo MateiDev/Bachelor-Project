@@ -1,0 +1,23 @@
+From alice@example.com Wed Sep 15 11:30:00 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mail.example.com with ESMTP id abc123; Wed, 15 Sep 2021 11:30:00 +0000
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Draft Proposal Review
+Message-ID: <CAF1234PoEXAMPLE@mail.example.com>
+Date: Wed, 15 Sep 2021 11:30:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. I have attached the first draft of our project proposal for the upcoming
+client meeting. Could you please take a look and let me know if you have any feedback by end of day
+tomorrow? Specifically, I'm looking for your thoughts on the timeline section and budget estimates.
+
+If you want to discuss any changes in person, let's schedule a quick call.
+
+Thanks,
+Alice

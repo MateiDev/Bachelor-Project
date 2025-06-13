@@ -1,0 +1,38 @@
+From alice@example.com Thu Jul 20 14:55:02 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id abc123; Thu, 20 Jul 2023 14:55:02 +0000
+Received: by mail.example.com id def456; Thu, 20 Jul 2023 14:55:01 +0000
+Date: Thu, 20 Jul 2023 10:55:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Upcoming Community Garden Volunteer Day
+Message-ID: <1234567890@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to remind you about the upcoming volunteer
+day at the Oakwood Community Garden this Saturday, July 22nd. We'll be meeting
+at 9:00 AM by the main entrance near the oak tree.
+
+Our tasks for the day include weeding the flower beds, mulching around the
+raised planters, and setting up the new compost bins. Gloves, trowels, and
+mulch will be provided, but feel free to bring any tools you prefer.
+
+After we finish, the organizers will have a light lunch with sandwiches and
+refreshments. It's a great chance to catch up, meet other volunteers, and
+enjoy the garden in full bloom. If you haven't registered yet, please sign up
+at the community garden website:
+
+https://www.communitygarden.org/volunteer
+
+Let me know if you can make it or if you have any questions.
+
+Looking forward to seeing you there!
+
+Best,
+Alice

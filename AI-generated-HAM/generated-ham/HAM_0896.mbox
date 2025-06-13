@@ -1,0 +1,32 @@
+From alice.johnson@company.com Fri Jul 16 10:15:27 2021
+Return-Path: <alice.johnson@company.com>
+Received: from mail.company.com (mail.company.com [192.0.2.10])
+    by mx.company.com with ESMTP id abc123def
+    for <bob.smith@company.com>; Fri, 16 Jul 2021 10:15:27 -0400
+Date: Fri, 16 Jul 2021 10:15:27 -0400
+From: Alice Johnson <alice.johnson@company.com>
+To: Bob Smith <bob.smith@company.com>
+Subject: Weekly Team Meeting Agenda
+Message-ID: <CAB6hjUEFCBb=k1x8O6PqD1@mail.company.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Here’s the agenda for our weekly team meeting scheduled next Monday:
+
+1. Project Alpha status update
+2. Client feedback review
+3. Action items from last meeting
+4. Timeline adjustments
+5. AOB (any other business)
+
+Please let me know if you’d like to add any items or if you have any questions. I’ve attached the previous meeting minutes for your reference.
+
+Best regards,
+Alice Johnson
+Project Coordinator
+Company Inc.
+alice.johnson@company.com
+(555) 123-4567

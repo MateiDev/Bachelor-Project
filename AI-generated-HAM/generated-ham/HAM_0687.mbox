@@ -1,0 +1,22 @@
+From alice@example.com Fri Aug 25 08:12:31 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com id abc123;
+    Fri, 25 Aug 2023 08:12:31 -0700 (PDT)
+Message-ID: <20230825151231.abc123@mail.example.com>
+Date: Fri, 25 Aug 2023 08:12:31 -0700
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Coffee Catch-up Next Week
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! It's been a while since we last caught up. I'm going to be in town next Tuesday (August 29th) and wondered if you'd like to grab a coffee at our favorite café on 5th Avenue. My schedule is pretty flexible in the afternoon; let me know what time works for you.
+
+Looking forward to hearing from you.
+
+Best,
+Alice

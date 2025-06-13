@@ -1,0 +1,19 @@
+From john.doe@example.com Sat Jul 15 10:12:34 2023
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Lunch Meeting Next Week
+Date: Fri, 14 Jul 2023 16:45:00 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're doing well. I wanted to check if you'd be available for a lunch meeting next Wednesday to discuss the upcoming project timeline. We could meet at the cafe downstairs around 12:30 PM.
+
+Please let me know if that works for you or suggest another time that better fits your schedule.
+
+Looking forward to catching up.
+
+Best regards,
+John

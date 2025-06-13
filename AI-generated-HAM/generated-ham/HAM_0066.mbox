@@ -1,0 +1,27 @@
+From alice@example.com Fri Jul  9 12:34:56 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: by mail.example.org id 12345; Fri,  9 Jul 2021 12:34:56 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Lunch Meeting Next Week
+Message-ID: <20210709123456.12345@example.com>
+Date: Fri, 9 Jul 2021 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well! Are you available for a quick lunch meeting next Wednesday, July 14th? I'd like to discuss the upcoming project timeline and get your input on the resource allocation plan.
+
+Let me know what time works best for you. The café near the office park is usually quiet around noon, but I'm flexible if you'd prefer someplace else.
+
+Looking forward to catching up.
+
+Best regards,
+Alice Johnson
+Project Coordinator
+Example Solutions Inc.
+alice@example.com
+(555) 123-4567

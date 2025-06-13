@@ -1,0 +1,24 @@
+From alice@example.com Fri Jul 19 14:23:45 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id abc123 for <bob@example.com>; Fri, 19 Jul 2024 14:23:45 -0400 (EDT)
+Date: Fri, 19 Jul 2024 14:23:45 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Community Garden Meetup
+Message-ID: <20240719142345.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to remind you about our community garden meetup this Saturday at 10:00 AM. We'll be planting sunflowers and tomatoes in the east plot, followed by a casual potluck lunch under the oak tree.
+
+Could you bring your garden gloves and any seed packets you have left? Also, if you have a tarp or extra gardening tools, that would be really helpful.
+
+Looking forward to seeing everyone and making some progress on the raised beds. Feel free to invite any neighbors who might be interested.
+
+Let me know if you have any questions.
+
+Best,
+Alice

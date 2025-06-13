@@ -1,0 +1,20 @@
+From alice@company.com Fri Feb 25 09:12:34 2022
+From: Alice Smith <alice@company.com>
+To: Bob Johnson <bob@company.com>
+Subject: Team Meeting Reminder
+Date: Fri, 25 Feb 2022 09:12:34 -0500
+Message-ID: <20220225091234.abcdef@example.com>
+
+Hi Bob,
+
+Just a friendly reminder about our team meeting next Tuesday, March 1st at 10:00 AM in Conference Room B.
+
+Agenda:
+- Project status updates
+- Resource allocation
+- Next steps and timelines
+
+Please let me know if you need to add any items to the agenda or if you have any conflicts. Looking forward to seeing you there.
+
+Best regards,
+Alice

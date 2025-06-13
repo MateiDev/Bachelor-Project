@@ -1,0 +1,41 @@
+From sender@example.com Sat May 11 13:00:00 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by example.com (Postfix) with ESMTP id ABC123
+	for <bob.smith@example.org>; Sat, 11 May 2024 13:00:00 -0400 (EDT)
+Date: Sat, 11 May 2024 13:00:00 -0400
+From: "Alice Johnson" <alice.johnson@example.com>
+To: "Bob Smith" <bob.smith@example.org>
+Subject: Monthly Gardening Club Newsletter
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you’re enjoying the start of spring! Here’s the latest update from the Greenwood Gardening Club:
+
+1. April Meeting Recap
+   - We discussed composting techniques and shared soil amendment tips.
+   - Member spotlight: Laura Davis presented her rose pruning workshop, which received great feedback.
+
+2. Upcoming Events
+   - May 15th, 10 AM: Seed Swap at the Community Center. Bring any extra seeds you’d like to share.
+   - June 5th, 9 AM: Wildflower Walk at Brookside Park. We’ll meet at the parking lot and stroll along the north trail.
+
+3. Garden Tip of the Month
+   With daytime temperatures climbing, remember to water early in the morning to minimize evaporation and help plants recover from the heat.
+
+4. Volunteer Opportunity
+   We’re looking for help maintaining the raised beds at the Eastside Community Garden. If you can lend an hour or two each weekend, please let me know.
+
+Feel free to reply if you have any questions or suggestions for future meetups. We’re always happy to hear new ideas!
+
+Happy gardening,
+Alice
+
+--
+Alice Johnson
+Greenwood Gardening Club Coordinator
+alice.johnson@example.com
+(555) 123-4567

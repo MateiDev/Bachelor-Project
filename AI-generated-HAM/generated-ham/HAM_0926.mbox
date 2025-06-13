@@ -1,0 +1,20 @@
+From alice@example.com Fri Mar 10 14:28:00 2023
+Return-Path: <alice@example.com>
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Team Lunch Next Week
+Date: Fri, 10 Mar 2023 14:28:00 -0500
+Message-ID: <20230310142800.12345.alice@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+I hope you’re doing well. Our team has been talking about getting together for lunch next Wednesday, March 15th, to celebrate the successful launch of our Q1 project. We’re thinking of meeting at the Green Garden Café around 12:30 PM.
+
+Please let me know if that works for you, or if you have any dietary restrictions we should keep in mind. If you’d prefer a different day, feel free to suggest an alternative.
+
+Looking forward to catching up outside of the office!
+
+Best regards,
+Alice

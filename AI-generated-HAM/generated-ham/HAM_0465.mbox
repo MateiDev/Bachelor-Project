@@ -1,0 +1,29 @@
+From jane.doe@example.com Sun May 14 10:00:00 2023
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbound.example.org with ESMTP id abc123XYZ
+    for <john.smith@example.com>; Sun, 14 May 2023 10:00:00 -0400
+Date: Sun, 14 May 2023 10:00:00 -0400
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Team Building Activity Proposal
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+I hope you're doing well. As we discussed in last week's meeting, I'm putting together a proposal for our next
+team building activity. Here are a few ideas:
+
+1. Outdoor scavenger hunt in Central Park.
+2. Cooking class at The Culinary Workshop downtown.
+3. Volunteer day at the local community garden.
+
+Please let me know which option you prefer, or if you have any additional suggestions. I'd like to finalize
+the details by the end of next week so we can send out the invites.
+
+Looking forward to your thoughts.
+
+Best regards,
+Jane Doe

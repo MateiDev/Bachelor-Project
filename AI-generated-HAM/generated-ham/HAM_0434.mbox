@@ -1,0 +1,25 @@
+From sender@example.com Mon Jul 03 10:00:00 2023
+Return-Path: <sender@example.com>
+Delivered-To: jane.doe@example.com
+From: "John Smith" <sender@example.com>
+To: "Jane Doe" <jane.doe@example.com>
+Subject: Marketing Team Meeting Notes
+Date: Mon, 3 Jul 2023 10:00:00 -0400
+Message-ID: <20230703100000.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+Thank you for attending today’s marketing team meeting. Here are the key takeaways:
+
+- We agreed on the new social media schedule for July and August.
+- The budget for the online ads campaign has been approved.
+- Alice will draft the content calendar by next Wednesday.
+- We will review performance metrics at our next meeting on July 10th.
+
+Please let me know if I missed anything or if you have any questions. I’ll follow up later with the detailed minutes.
+
+Best regards,
+John

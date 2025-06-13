@@ -1,0 +1,41 @@
+From john.doe@example.com Fri Jul 23 10:15:00 2021
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+	by smtp.example.net with ESMTP id ABC123XYZ
+	for <jane.smith@example.com>; Fri, 23 Jul 2021 10:15:00 -0400 (EDT)
+Received: by mail.example.com id DEF456UVW; Fri, 23 Jul 2021 10:14:58 -0400 (EDT)
+Date: Fri, 23 Jul 2021 10:14:58 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Team Outing This Friday
+Message-ID: <1627058098.1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you’re doing well. Just a quick reminder about our team outing this Friday afternoon. Here are the details:
+
+Date: Friday, July 23, 2021
+Time: 3:00 PM – 6:00 PM
+Location: Riverside Park Pavilion B
+Agenda:
+ - 3:00 PM: Meet at the company lobby and head to the park
+ - 3:30 PM: Icebreaker games and team activities
+ - 4:30 PM: Light refreshments and snacks
+ - 5:15 PM: Casual networking and wrap-up
+
+Please let me know by Thursday noon if you have any dietary restrictions or special requests. We’d like to make sure everyone has a comfortable and enjoyable time.
+
+Looking forward to seeing you there!
+
+Best regards,
+John
+
+-- 
+John Doe
+Senior Project Manager, Example Corp
+john.doe@example.com
+(555) 123-4567

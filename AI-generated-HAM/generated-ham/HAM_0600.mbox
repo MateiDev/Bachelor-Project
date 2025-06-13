@@ -1,0 +1,22 @@
+From alice.johnson@example.com Fri Jan  1 12:00:00 2021
+Return-Path: <alice.johnson@example.com>
+Delivered-To: bob.smith@example.com
+Received: by mail.example.com id abc123; Fri, 1 Jan 2021 12:00:00 -0500 (EST)
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Weekend Picnic Plans
+Date: Fri, 1 Jan 2021 12:00:00 -0500
+Message-ID: <20210101120000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+I hope you're doing well. I wanted to finalize our plans for this Saturday's picnic in the park. The weather forecast looks perfect—sunny with mild temperatures. I propose we meet at Central Park near the West entrance around 11:00 AM.
+
+I'll bring sandwiches, fruit, and lemonade. Could you take care of the blankets and utensils? Also, let me know if you’d like me to pick up anything else.
+
+Looking forward to a fun day outdoors!
+
+Best regards,
+Alice Johnson

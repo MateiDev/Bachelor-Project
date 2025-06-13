@@ -1,0 +1,29 @@
+From alice@example.com Fri Jul 26 10:15:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id abc123 for <bob@example.com>; Fri, 26 Jul 2024 10:15:00 -0400 (EDT)
+Date: Fri, 26 Jul 2024 10:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Meeting Agenda for Monday
+Message-ID: <20240726101500.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. As discussed in last week's sync, I have prepared the agenda for our team
+meeting on Monday, July 29th at 2:00 PM in Conference Room B.
+
+Please find the agenda items below:
+1. Project Alpha status update
+2. Upcoming client presentation
+3. Team training schedule
+4. Any other business
+
+Let me know if you'd like to add any items or if you have any questions. Looking forward to our
+discussion.
+
+Best regards,
+Alice
+

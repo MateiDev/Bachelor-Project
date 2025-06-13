@@ -1,0 +1,31 @@
+From alice@example.com Thu Jun 01 10:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id ABC123
+    for <bob@example.com>; Thu, 1 Jun 2023 10:15:00 -0400 (EDT)
+Message-ID: <20230601101500.0123456789@mail.example.com>
+Date: Thu, 1 Jun 2023 10:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip Confirmation
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope your week is going well! I just wanted to confirm our plans for the weekend hiking trip. We'll meet at the Pine Trailhead parking lot at 8:00 AM on Saturday. The weather forecast looks great—sunny with a light breeze.
+
+Here's a quick checklist of what to bring:
+ - Comfortable hiking shoes
+ - Water (at least 2 liters)
+ - Snacks and a packed lunch
+ - Sunscreen and a hat
+ - Light jacket (morning can be chilly)
+
+I'll have extra trail maps and a first-aid kit in my backpack. If you think of anything else we need, just let me know.
+
+Looking forward to catching up and enjoying the outdoors!
+
+Best,
+Alice

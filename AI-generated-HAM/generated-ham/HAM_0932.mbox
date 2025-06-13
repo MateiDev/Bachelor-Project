@@ -1,0 +1,23 @@
+From jane.doe@example.com Wed Jul 31 08:15:24 2024
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id lmx123456
+	for <team@example.com>; Wed, 31 Jul 2024 08:15:23 -0400 (EDT)
+Subject: Team Picnic Next Saturday
+To: team@example.com
+From: Jane Doe <jane.doe@example.com>
+Date: Wed, 31 Jul 2024 08:15:24 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone is doing well. As we discussed in our last meeting, we're planning a team picnic next Saturday, August 5th, at Lakeside Park. We'll meet at 11:00 AM near the picnic shelter by the lake.
+
+Please reply with what you plan to bring (food, beverages, games, etc.) so we can coordinate and avoid duplicates. Feel free to let me know if you have any dietary preferences or allergies.
+
+Looking forward to a fun afternoon together!
+
+Best regards,
+Jane Doe

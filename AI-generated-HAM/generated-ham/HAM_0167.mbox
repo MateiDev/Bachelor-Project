@@ -1,0 +1,28 @@
+From alice@example.com Wed Jul 05 09:15:00 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com id 1234 for <bob@example.com>; Wed, 5 Jul 2023 09:15:00 -0500 (CDT)
+Date: Wed, 5 Jul 2023 09:15:00 -0500
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekly Project Status & Lunch Thursday?
+Message-ID: <20230705091500.1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Just a quick update on the Acme project:
+- Completed the draft of the user requirements document.
+- Sent the prototype to the design team for review.
+- Scheduled a meeting with the stakeholders next Tuesday at 10 AM.
+
+I also wanted to see if you’re free for lunch this Thursday. There’s a new café down the street that just opened, and I thought we could try it out around 12:30 PM.
+
+Let me know if that works, and I’ll send a calendar invite.
+
+Have a great day!
+
+Cheers,
+Alice

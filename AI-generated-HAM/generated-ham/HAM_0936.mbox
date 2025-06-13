@@ -1,0 +1,28 @@
+From alice@example.org Wed Jun  7 14:15:00 2023
+Return-Path: <alice@example.org>
+Received: from mail.example.org (mail.example.org [198.51.100.42])
+    by mx.example.org with ESMTPS id 789XYZ
+    for <bob@example.org>; Wed, 07 Jun 2023 14:15:00 -0400 (EDT)
+Message-ID: <20230607181500.12345@mail.example.org>
+Date: Wed, 07 Jun 2023 14:15:00 -0400
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Hiking Trip
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well. Just confirming our plans for the weekend hiking trip up at Pine Ridge. Here’s what I’m thinking:
+
+1) Departure: We meet at my place around 7:30 AM on Saturday and drive up together.
+2) Trail: We’ll take the Lakeside Loop, which is about 8 miles with some moderate elevation gain.
+3) Gear: Don’t forget sturdy hiking boots, a light rain jacket (just in case), and plenty of water. I’ll pack some snacks and sandwiches.
+4) Weather: The forecast calls for partly cloudy skies, with a high near 75°F. Should be perfect for hiking.
+5) Return: We’ll aim to be back by early evening—around 6 PM—so you shouldn’t miss dinner plans.
+
+Let me know if that schedule works for you or if you have any suggestions. Looking forward to spending some time outdoors!
+
+Best,
+Alice

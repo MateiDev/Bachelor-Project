@@ -1,0 +1,24 @@
+From alice.smith@example.com Mon Jun 24 09:15:27 2024
+Return-Path: <alice.smith@example.com>
+Received: from smtp.example.com (smtp.example.com [192.0.2.123])
+	by inbox.example.org (Postfix) with ESMTP id ABCDEF1234
+	for <bob.johnson@example.org>; Mon, 24 Jun 2024 09:15:27 -0400 (EDT)
+Date: Mon, 24 Jun 2024 09:15:27 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.org>
+Subject: Office Potluck Lunch Invitation
+Message-ID: <20240624091527.abcdef1234@smtp.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well! I wanted to remind you about the company potluck lunch this Friday, June 28th, at 12:00 PM in the main conference room. We're organizing a signup sheet to make sure we have a good variety of dishes. Can you let me know what you'd like to bring? Vegetarian and dessert options are especially needed.
+
+The sign-up link is available on our internal portal under "Events," or you can reply to this email with your choice.
+
+Looking forward to seeing you there!
+
+Best regards,
+Alice

@@ -1,0 +1,28 @@
+From alice@example.com Fri Sep 29 10:15:30 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: by mail.example.com id abcd1234; Fri, 29 Sep 2023 10:15:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Hiking Trip
+Date: Fri, 29 Sep 2023 10:15:30 -0400
+Message-ID: <20230929101530.abcde12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well! I wanted to follow up on our plans for the weekend. The local hiking club is organizing a trip to Bear Mountain on Saturday morning. The trail starts at 8:30 AM, and it’s about a 5-mile loop with some scenic overlooks.
+
+Here’s a rough plan:
+- Meet at the trailhead parking lot by 8:15 AM
+- Bring snacks, water, and sturdy shoes
+- We should be back by early afternoon
+
+Let me know if you can make it or if you need a ride. Looking forward to catching up and enjoying some fresh air!
+
+Best,
+Alice Johnson
+Hiking Club Coordinator
+Bear Valley Outdoors

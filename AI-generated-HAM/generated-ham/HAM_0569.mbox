@@ -1,0 +1,36 @@
+From sender@example.com Fri Jul 23 09:15:18 2021
+Return-Path: <sender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id abc123
+	for <recipient@example.com>; Fri, 23 Jul 2021 09:15:18 -0400 (EDT)
+Date: Fri, 23 Jul 2021 09:15:17 -0400
+From: Alex Johnson <sender@example.com>
+To: Hiking Group <recipient@example.com>
+Subject: Weekend Hiking Trip Plan
+Message-ID: <CAJd+XGFm+9Q@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello everyone,
+
+I hope you’re all doing well! I’m writing to share the details of our upcoming weekend hiking trip in the Blue Ridge Mountains.
+
+Date: Saturday, July 31  
+Meeting Point: 8:00 AM at the Visitor’s Center parking lot  
+Trail: Mount Pinnacle Loop (approximately 8 miles)  
+Difficulty: Moderate  
+Estimated Return: 5:00 PM
+
+Please remember to bring:  
+- Comfortable hiking shoes  
+- Plenty of water (at least 2 liters)  
+- Lightweight snacks (granola bars, fruit, nuts)  
+- A light rain jacket (in case of showers)  
+- Sunscreen and a hat
+
+If you need a ride or have any questions, just reply to this email. Looking forward to a fun and safe adventure with you all!
+
+Best regards,  
+Alex Johnson  
+sender@example.com

@@ -1,0 +1,28 @@
+From alice@example.com Thu Jul 25 10:15:42 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by receiver.example.com (Postfix) with ESMTP id 123456789
+	for <bob@example.com>; Thu, 25 Jul 2024 10:15:42 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Meeting Agenda
+Date: Thu, 25 Jul 2024 10:15:42 -0400
+Message-ID: <20240725101542.123456789@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Here’s the agenda for our team meeting scheduled for this Friday:
+
+1. Project status updates
+2. Review of upcoming deadlines
+3. Discussion on resource allocation
+4. Brainstorming session for Q4 initiatives
+5. Any other business
+
+Please let me know if you’d like to add any items or make adjustments.
+
+Thanks,
+Alice

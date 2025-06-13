@@ -1,0 +1,21 @@
+From john.doe@example.com Tue Jun  4 09:23:11 2024
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.1]) by mx.example.org with ESMTP id abc123; Tue, 4 Jun 2024 09:23:10 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Team Lunch Plans for Next Week
+Date: Tue, 4 Jun 2024 09:23:11 -0400
+Message-ID: <20240604092311.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Jane,
+
+I hope you had a great weekend! I wanted to check in about organizing a team lunch next Wednesday, June 12th. A few people mentioned they'd love to try that new café downtown. Would you be available around 12:30 PM? If that time doesn't work, please let me know your availability and I'll adjust accordingly.
+
+Also, if you have any dietary restrictions or special requests, just give me a heads-up so I can make the reservations.
+
+Looking forward to hearing from you.
+
+Best regards,
+John

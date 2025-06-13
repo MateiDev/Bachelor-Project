@@ -1,0 +1,18 @@
+From alice@example.com Sat Jul 13 10:15:00 2024
+Date: Sat, 13 Jul 2024 10:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.net>
+Subject: Lunch Meeting Next Week
+Message-ID: <20240713101500.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to check if you’re available for lunch next week. I found a new café downtown that serves great sandwiches and salads. Would Wednesday or Thursday around 12:30 PM work for you? Let me know what your schedule looks like, and I’ll make a reservation.
+
+Looking forward to catching up!
+
+Best,
+Alice

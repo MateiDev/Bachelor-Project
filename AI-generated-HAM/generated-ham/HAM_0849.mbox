@@ -1,0 +1,16 @@
+From alice@example.com Tue Jul 02 11:34:18 2024
+Date: Tue, 02 Jul 2024 11:34:18 -0400
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Lunch Tomorrow
+Message-ID: <1234567890@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Are you free for lunch tomorrow at our usual spot downtown? Let me know if that works for you or if you'd prefer somewhere else. Also, I wanted to mention that the report on the Thompson account is almost done; I'll send it over by the end of the day tomorrow.
+
+Have a great afternoon,
+Alice

@@ -1,0 +1,29 @@
+From alex.smith@example.com Tue Jun 25 09:15:00 2024
+Return-Path: <alex.smith@example.com>
+Delivered-To: jane.doe@example.com
+Received: by mail.example.com id h12345; Tue, 25 Jun 2024 09:15:00 -0400 (EDT)
+Received: from smtp.example.com (smtp.example.com [192.0.2.10]) by mail.example.com with ESMTP id g67890 for <jane.doe@example.com>; Tue, 25 Jun 2024 09:15:00 -0400 (EDT)
+Date: Tue, 25 Jun 2024 09:15:00 -0400
+From: Alex Smith <alex.smith@example.com>
+To: Jane Doe <jane.doe@example.com>
+Subject: Weekend Hiking Trip
+Message-ID: <CAF=example123@smtp.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you’re doing well! I wanted to touch base about our Saturday hike at Pine Creek Trail. The forecast looks great—sunny with mild temperatures—so it should be perfect for the 8-mile loop we discussed. Let’s meet at the trailhead parking lot at 8:00 AM. Don’t forget to bring enough water, some snacks, and a light jacket in case it gets breezy by the creek.
+
+Also, I’ve attached a quick packing checklist below for reference:
+- Water (2 liters per person)
+- Trail mix or energy bars
+- Sunscreen and a hat
+- First aid kit
+- Camera or smartphone for photos
+
+Looking forward to catching up and enjoying the outdoors together. Let me know if you have any questions or need to adjust the timing.
+
+Best,
+Alex Smith

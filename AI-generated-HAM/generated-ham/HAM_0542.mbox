@@ -1,0 +1,27 @@
+From alice@example.com Sat Jul 13 14:23:01 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ID12345 for <bob@example.org>; Sat, 13 Jul 2024 14:23:01 -0400 (EDT)
+Date: Sat, 13 Jul 2024 14:23:01 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Family Picnic Reminder
+Message-ID: <20240713142301.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a friendly reminder about our family picnic this Sunday, July 15th, at Riverside Park. We'll start around 11:00 AM near the south pavilion. Please bring a side dish or dessert to share—don't forget to label any dishes containing nuts.
+
+Here's a quick list of what others are bringing:
+- Mom: Fried chicken
+- Uncle Mike: Potato salad
+- Aunt Sarah: Lemon bars
+- Cousin Jenna: Fresh fruit
+
+Let me know if you'd like to borrow any outdoor games or chairs. Looking forward to a fun day together!
+
+See you soon,
+Alice

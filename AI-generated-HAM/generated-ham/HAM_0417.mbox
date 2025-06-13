@@ -1,0 +1,28 @@
+From alice@example.com Sat Jul 20 10:01:02 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABC123
+    for <bob@example.org>; Sat, 20 Jul 2024 10:01:02 -0700 (PDT)
+Date: Sat, 20 Jul 2024 10:01:02 -0700
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Plans and Book Recommendations
+Message-ID: <1234567890@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! It was great catching up last week. For this weekend, I was thinking we could go for a hike at Pine Ridge Trail on Saturday morning if the weather holds up. After the hike, maybe we could hit that new café downtown and try their seasonal pastries.
+
+Also, I wanted to share a couple of books I've been enjoying recently:
+1. "The Hidden Life of Trees" by Peter Wohlleben – fascinating insights into forest ecosystems.
+2. "Educated" by Tara Westover – a powerful memoir about resilience and learning.
+
+Let me know if you’re interested in joining the hike and if you’ve read any good books lately.
+
+Have a great day!
+
+Best,
+Alice

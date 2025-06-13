@@ -1,0 +1,39 @@
+From alice@example.com Fri Jul 23 09:15:00 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id abc123
+    for <team@company.com>; Fri, 23 Jul 2021 09:15:05 -0400 (EDT)
+Date: Fri, 23 Jul 2021 09:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Team Mailing List <team@company.com>
+Subject: Upcoming Quarterly Planning Meeting
+Message-ID: <20210723091500.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone is doing well. As we approach the end of Q3, I'd like to schedule our quarterly planning meeting to review our performance and set priorities for the next quarter.
+
+Proposed date and time:
+  - Wednesday, August 4th
+  - 2:00 PM – 3:30 PM (EST)
+
+Agenda:
+1. Review of Q3 achievements
+2. Challenges encountered and lessons learned
+3. Setting goals for Q4
+4. Resource allocation and timelines
+5. Open discussion
+
+Please reply with your availability or suggest alternative times if this slot doesn't work for you. I'll send a calendar invitation once we have consensus on the schedule.
+
+Thanks, and looking forward to our discussion!
+
+Best regards,
+Alice Johnson
+Product Manager
+ExampleCorp
+alice@example.com
+(555) 123-4567

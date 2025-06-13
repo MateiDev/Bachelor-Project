@@ -1,0 +1,32 @@
+From alice@example.com Thu Jan 25 09:30:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mailbox.example.org with ESMTP id ABC123
+    for <bob@example.org>; Thu, 25 Jan 2024 09:30:00 -0500 (EST)
+Message-ID: <1234567890@mail.example.com>
+Date: Thu, 25 Jan 2024 09:30:00 -0500
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Project Update and Next Steps
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to give you a quick update on the Stellar Project. As of this week, we've completed the initial design phase and are moving into development.
+
+Here's the plan for next steps:
+- Finalize the UI mockups by next Tuesday.
+- Schedule a kickoff meeting with the development team.
+- Review the API documentation draft.
+
+Could you please let me know your availability for the kickoff meeting? I'm thinking Wednesday afternoon or anytime Thursday morning.
+
+I'll share the mockup files via our shared drive once they're ready.
+
+Looking forward to your feedback.
+
+Best regards,
+Alice

@@ -1,0 +1,35 @@
+From jane.doe@example.com Fri Jun 14 12:34:56 2024
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+	by recipient.mail.server.com (Postfix) with ESMTP id 4F12A67B02
+	for <john.smith@example.com>; Fri, 14 Jun 2024 12:34:56 -0400 (EDT)
+From: "Jane Doe" <jane.doe@example.com>
+To: "John Smith" <john.smith@example.com>
+Subject: Agenda for Monday’s Team Sync
+Date: Fri, 14 Jun 2024 12:34:56 -0400
+Message-ID: <CAFbYz=8Jx4uOJL+8=@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John and Team,
+
+Hope everyone’s week is going well. I’ve drafted the agenda for our Monday morning sync:
+
+1. Quick round-robin updates (5 mins per person)
+2. Status on Project Falcon deliverables
+3. Feedback on the recent design prototypes
+4. Roadmap adjustments for Q3
+5. Any blockers or questions?
+
+Please review and let me know if you’d like to add any items. I’ll share the final agenda in the shared folder by end of day Friday.
+
+Have a great weekend!
+
+Best,
+Jane
+
+-- 
+Jane Doe
+Product Manager | Acme Corp
+jane.doe@example.com | (555) 123-4567

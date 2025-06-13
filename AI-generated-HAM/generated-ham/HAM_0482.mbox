@@ -1,0 +1,22 @@
+From john.doe@example.com Mon Jul  5 14:30:00 2021
+Return-Path: <john.doe@example.com>
+Received: from smtp.example.com (smtp.example.com [192.0.2.1]) by mail.example.com with ESMTP id ABC123; Mon, 5 Jul 2021 14:30:01 -0400 (EDT)
+Date: Mon, 5 Jul 2021 14:30:00 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Weekend Plans
+Message-ID: <1625524200.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're doing well. I wanted to touch base about our plans for this weekend. As we discussed, we could go hiking at Sunrise Park on Saturday morning. The weather forecast looks great, with sunshine and temperatures around 75°F (24°C). If that works for you, let's meet at the trailhead parking lot at 8:00 AM.
+
+After the hike, I thought we could grab brunch at The Meadow Café. They have an amazing omelette bar and fresh pastries. If you have any other ideas or preferences, please let me know.
+
+Looking forward to catching up and enjoying some time outdoors!
+
+Best regards,
+John Doe

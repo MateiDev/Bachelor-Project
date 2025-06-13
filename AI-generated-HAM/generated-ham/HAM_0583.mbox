@@ -1,0 +1,24 @@
+From alice@example.com Fri Jul  5 10:15:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by bob.example.org with ESMTP id ABC12345 for <bob@example.org>; Fri, 5 Jul 2024 10:15:05 +0000
+Received: from [192.0.2.2] (example.com [192.0.2.2]) by mail.example.com with ESMTPSA id DEF67890; Fri, 5 Jul 2024 10:15:00 +0000 (UTC)
+Message-ID: <CAF1234567890@example.com>
+Date: Fri, 5 Jul 2024 10:15:00 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Coffee?
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. Would you be interested in grabbing coffee this weekend at our usual spot? I'm free Saturday morning, but let me know what works best for you.
+
+Also, I wanted to update you on the book club meeting next week. We decided to read "The Great Gatsby" and meet at the library's conference room on Thursday at 6 PM.
+
+Looking forward to catching up!
+
+Best regards,
+Alice

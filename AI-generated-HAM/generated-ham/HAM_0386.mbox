@@ -1,0 +1,23 @@
+From alice@example.com Fri Jan 12 09:00:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id abc123xyz
+	for <bob@example.org>; Fri, 12 Jan 2024 09:00:00 -0500 (EST)
+Date: Fri, 12 Jan 2024 09:00:00 -0500
+From: "Alice Johnson" <alice@example.com>
+To: "Bob Smith" <bob@example.org>
+Subject: Friday's Lunch Plans
+Message-ID: <20240112090000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're having a good week. Are you free for lunch this Friday? I was thinking we could try the new cafe on Maple Street—they have great sandwiches and a cozy atmosphere.
+
+Let me know if that works for you or if you’d prefer another spot. Looking forward to catching up!
+
+Best,
+Alice Johnson
+alice@example.com

@@ -1,0 +1,19 @@
+From alice@example.com Tue Mar 14 09:26:40 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id abc123 for <bob@example.org>; Tue, 14 Mar 2023 09:26:40 -0400 (EDT)
+Date: Tue, 14 Mar 2023 09:26:40 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Message-ID: <20230314092640.1@example.com>
+Subject: Neighborhood Garden Club Meeting
+
+Hello Bob,
+
+I hope you’re doing well! I wanted to remind you about the Neighborhood Garden Club meeting this Saturday at 10 AM in the community center. We’ll be discussing spring planting schedules, sharing seed swaps, and planning our annual open garden day.
+
+Please feel free to bring any seeds or cuttings you’d like to exchange, as well as any gardening tips you’ve found helpful. We’ll also have coffee and pastries. If you know anyone else interested in joining, bring them along!
+
+Looking forward to seeing you there.
+
+Best wishes,
+Alice

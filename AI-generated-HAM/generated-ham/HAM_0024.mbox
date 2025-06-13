@@ -1,0 +1,24 @@
+From alice.smith@example.com Wed Jul 10 09:15:30 2024
+Return-Path: <alice.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.net with ESMTP id abc123456;
+	Wed, 10 Jul 2024 09:15:30 -0400 (EDT)
+Message-ID: <20240710091530.GA1234@mail.example.com>
+Date: Wed, 10 Jul 2024 09:15:30 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Jones <bob.jones@example.net>
+Subject: Upcoming Book Club Meeting
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to remind you about our next book club meeting on Thursday, July 18th at 6:30 PM at the Lakeside Community Center. We'll be discussing "The Midnight Library" by Matt Haig.
+
+Please let me know if you can make it and whether you'd like to bring some snacks or refreshments. Also, feel free to suggest any other books for future meetings.
+
+Looking forward to catching up and hearing your thoughts on the novel.
+
+Best regards,
+Alice

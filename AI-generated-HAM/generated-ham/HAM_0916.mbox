@@ -1,0 +1,27 @@
+From alice@example.com Wed Jun  2 14:30:00 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.net with ESMTPS id ABC123DEF
+    for <bob@example.net>; Wed, 2 Jun 2021 14:30:00 -0400 (EDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.net>
+Subject: Weekend Hiking Plans
+Date: Wed, 2 Jun 2021 14:30:00 -0400
+Message-ID: <20210602183000.GA1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Are we still on for the hiking trip this Saturday? I was thinking we could meet
+at the trailhead around 8:00 AM. The weather forecast looks clear, with highs in the
+low 70s and no chance of rain. Perfect hiking weather!
+
+I’ve packed sandwiches, fruit, and plenty of water. Do you want me to bring any
+other snacks? Also, let me know if you prefer a different starting time.
+
+Looking forward to hitting the trails!
+
+Cheers,
+Alice

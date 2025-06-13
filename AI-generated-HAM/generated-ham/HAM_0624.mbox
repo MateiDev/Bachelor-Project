@@ -1,0 +1,25 @@
+From alice@example.com Fri Jul 23 10:15:30 2021
+Return-Path: <alice@example.com>
+Received: from mail.company.com (mail.company.com [192.0.2.1]) by smtp.company.com with ESMTP id ABC123DEF for <bob@example.com>; Fri, 23 Jul 2021 10:15:30 -0400 (EDT)
+Message-ID: <20210723101530.abc123@mail.company.com>
+Date: Fri, 23 Jul 2021 10:15:30 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hiking Trip
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Bob,
+
+I hope you're doing well. As discussed in last week's meeting, I'd like to organize a weekend hiking trip to Blue Ridge Park. It's a great spot with scenic views and moderate trails, perfect for the team to unwind after the project launch.
+
+I was thinking of Saturday, August 7th. We can meet at the office parking lot at 8:00 AM and carpool from there. I'll prepare a shared itinerary and a checklist for supplies like water, snacks, and first-aid kits. Please let me know if the date works for you and if you have any preferences or dietary restrictions. Also, feel free to invite anyone else from the team who might be interested.
+
+Looking forward to your thoughts!
+
+Best regards,
+Alice Smith
+Project Coordinator
+Example Company
+alice@example.com
+(555) 123-4567

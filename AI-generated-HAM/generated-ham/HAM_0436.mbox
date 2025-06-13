@@ -1,0 +1,50 @@
+From alice.johnson@example.com Fri Jul 21 09:03:15 2023
+Return-Path: <alice.johnson@example.com>
+Delivered-To: team@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+    by mx.example.com with ESMTP id 1234567890
+    for <team@example.com>; Fri, 21 Jul 2023 09:03:15 -0400 (EDT)
+From: Alice Johnson <alice.johnson@example.com>
+To: Team <team@example.com>
+Subject: Weekly Team Meeting Recap
+Date: Fri, 21 Jul 2023 09:03:15 -0400
+Message-ID: <20230721090315.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+Thank you all for attending this week’s meeting. Below is a summary of our discussion and action items:
+
+1. Project Alpha Status
+   - Development is 75% complete.
+   - QA will begin next Monday; Sarah will coordinate test cases.
+
+2. Client Feedback
+   - The client appreciates the new dashboard design.
+   - They requested minor changes to the reporting module by July 28.
+
+3. Marketing Campaign
+   - Draft copy for the email series has been reviewed.
+   - John to finalize creatives by Wednesday.
+
+4. Upcoming Deadlines
+   - Budget proposal due August 1.
+   - Team off-site meeting scheduled for August 5.
+
+Action Items:
+- Sarah: Prepare QA test plan for Project Alpha.
+- John: Complete marketing visuals and send for review.
+- Emma: Draft budget proposal outline.
+
+Our next status meeting is scheduled for Friday, July 28 at 10:00 AM in the main conference room. Please update your to-do lists accordingly and let me know if you have any questions.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Manager
+Example Corporation
+alice.johnson@example.com | (555) 123-4567

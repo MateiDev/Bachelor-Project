@@ -1,0 +1,38 @@
+From alice@example.com Fri Jul 12 09:15:00 2024
+Return-Path: <alice@example.com>
+Received: from smtp.example.com (smtp.example.com [192.0.2.1])
+    by mail.example.com with ESMTP id ABC12345
+    for <bob@example.com>; Fri, 12 Jul 2024 09:15:00 -0400 (EDT)
+Date: Fri, 12 Jul 2024 09:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Meeting Notes and Action Items
+Message-ID: <20240712091500.abcdefg@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Thanks again for meeting with the team this morning. I’ve summarized the main points and action items below:
+
+1. Project Timeline:
+   - Phase 1 deliverables due by July 30.
+   - Phase 2 kickoff on August 5.
+
+2. Design Review:
+   - Sarah will finalize wireframes by July 18.
+   - We’ll schedule a feedback session for July 20 at 2 PM.
+
+3. Development:
+   - Initial API prototype due July 25.
+   - John and Maria to set up the dev environment by July 15.
+
+4. Marketing:
+   - Draft press release by July 22.
+   - Rachel to coordinate social media posts.
+
+Let me know if I missed anything or if you have any adjustments. I’ll send out calendar invites shortly.
+
+Best regards,
+Alice

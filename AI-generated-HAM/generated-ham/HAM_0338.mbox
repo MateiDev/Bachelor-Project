@@ -1,0 +1,22 @@
+From alice.smith@example.com Fri Jul 05 14:22:30 2024
+Return-Path: <alice.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbox.example.org with ESMTP id ABC12345
+    for <bob.johnson@example.com>; Fri, 05 Jul 2024 14:22:30 -0400 (EDT)
+Date: Fri, 05 Jul 2024 14:22:30 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.com>
+Subject: Reminder: Sunday Potluck at 3 PM
+Message-ID: <20240705182230.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Just a friendly reminder about the potluck this Sunday at 3:00 PM at my place (123 Maple Street). Feel free to bring your famous guacamole or any dessert you prefer. Also, let me know if you'll need parking—there's a spot reserved in the driveway.
+
+Looking forward to catching up with you and the gang. It's been too long since our last barbecue!
+
+Cheers,
+Alice

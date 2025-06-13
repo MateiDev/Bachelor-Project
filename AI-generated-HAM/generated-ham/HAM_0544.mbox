@@ -1,0 +1,29 @@
+From alice@example.com Fri Jun 21 14:35:07 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+        by mx.example.com with ESMTP id 12345
+        for <bob@example.org>; Fri, 21 Jun 2024 14:35:07 -0400 (EDT)
+Date: Fri, 21 Jun 2024 14:35:07 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Team Outing Next Month
+Message-ID: <CAF1z=abc123def@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to follow up on our conversation about organizing a team outing in July.
+Here are a few suggestions for activities and dates:
+
+- Outdoor picnic at Lakeside Park on Saturday, July 13
+- Bowling and pizza evening on Friday, July 19
+- Hiking trip to Pine Ridge Trail on Sunday, July 21
+
+Please let me know which option works best for you, or if you have any other ideas. Once we’ve agreed on a plan, I’ll coordinate the details and send out an official invite to the rest of the team.
+
+Looking forward to your thoughts!
+
+Best regards,
+Alice

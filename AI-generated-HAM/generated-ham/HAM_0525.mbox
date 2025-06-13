@@ -1,0 +1,31 @@
+From alice@example.com Wed Jul 10 15:24:19 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbound.example.org with ESMTP id 12345ABCD
+    for <bob@example.com>; Wed, 10 Jul 2024 15:24:20 -0400 (EDT)
+Date: Wed, 10 Jul 2024 15:24:19 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Meeting Agenda for Next Week
+Message-ID: <20240710152419.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. Here’s the proposed agenda for our team meeting on Monday, July 15th at 10:00 AM:
+
+ 1. Project Alpha status updates
+ 2. Review of Q3 deliverables
+ 3. New resource allocation
+ 4. Open discussion and Q&A
+
+If you’d like to add any topics or need to reschedule, please let me know by end of day Friday.
+
+Thanks,
+Alice Johnson
+Product Manager
+Example Corp.
+alice@example.com
+(555) 123-4567

@@ -1,0 +1,33 @@
+From bob@example.com Tue Jun 15 09:45:00 2021
+Return-Path: <bob@example.com>
+Delivered-To: alice@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id ABC123
+    for <alice@example.com>; Tue, 15 Jun 2021 09:45:00 -0400 (EDT)
+Date: Tue, 15 Jun 2021 09:45:00 -0400
+From: Bob Sender <bob@example.com>
+To: Alice Receiver <alice@example.com>
+Subject: Meeting Follow-up and Next Steps
+Message-ID: <20210615094500.1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Alice,
+
+Thanks again for yesterday’s meeting. I’ve compiled the notes and highlighted the key action items:
+  1. Finalize the design draft by next Wednesday.
+  2. Coordinate with the development team for API integration.
+  3. Review the budget estimates and share any adjustments.
+
+I’ll send out the updated timeline by end of day tomorrow. Let me know if you have any questions or if there’s anything else we should discuss.
+
+Best regards,
+Bob
+
+-- 
+Bob Sender
+Senior Project Manager
+Example Corp
+Phone: (555) 123-4567
+Email: bob@example.com

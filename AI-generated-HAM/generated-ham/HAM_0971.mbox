@@ -1,0 +1,30 @@
+From alice@example.com Fri Jul 14 10:23:45 2023
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by example.org with ESMTP id ABCD1234
+    for <bob@example.org>; Fri, 14 Jul 2023 10:23:45 +0000
+Message-ID: <20230714102345.ABC123@mail.example.com>
+Date: Fri, 14 Jul 2023 10:23:45 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Picnic Plans
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! Just a quick note to see if you're free this Saturday for a picnic at River Park. The weather forecast looks perfect—sunny with a light breeze.
+
+I'm planning to bring:
+- Turkey and cheese sandwiches
+- Fresh fruit platter
+- Lemonade and iced tea
+- A chessboard and Frisbee for games
+
+If you can make it, feel free to bring any snacks or drinks you'd like. Let's meet at the large oak tree near the playground around 11:30 AM. I'll send you a text when I arrive.
+
+Looking forward to catching up!
+
+Best,
+Alice

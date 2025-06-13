@@ -1,0 +1,16 @@
+From alice@example.com Fri Jul  5 12:34:56 2024
+Date: Fri, 05 Jul 2024 12:34:56 -0400
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Afternoon Coffee Meetup
+Message-ID: <20240705123456.abcdef123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Just wanted to see if you're free this afternoon for coffee at our favorite spot. Let me know what time works for you!
+
+Best,
+Alice

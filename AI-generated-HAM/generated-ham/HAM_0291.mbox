@@ -1,0 +1,26 @@
+From alice@example.com Fri Sep 15 10:30:00 2023
+Date: Fri, 15 Sep 2023 10:30:00 -0400
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Team Outing Next Friday
+Message-ID: <20230915103000.12345.alice@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to remind you about our team outing scheduled for next Friday, September 22nd. We’ll be meeting at 4:00 PM in the lobby of our office building and then heading to Lakeside Park for a few hours of games, a picnic, and some team-building activities.
+
+Please let me know by Wednesday if you have any dietary restrictions or if you need a ride. We’re planning to bring sandwiches, salads, and snacks, and we’ll have cold drinks on hand. Feel free to bring your favorite board game or sports equipment if you’d like.
+
+Looking forward to a fun afternoon with the whole team! Let me know if you have any questions or suggestions.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Coordinator, Acme Corp
+Phone: (555) 123-4567
+Email: alice@example.com

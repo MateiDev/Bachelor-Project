@@ -1,0 +1,18 @@
+From alice@example.com Wed Mar 15 09:30:25 2023
+Subject: Team Lunch Reminder
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Date: Wed, 15 Mar 2023 09:30:25 -0400
+Message-ID: <20230315093025.alice@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. Just a friendly reminder about our team lunch scheduled for this Friday, March 17th, at 12:30 PM. We'll be meeting at the new Italian bistro, La Pasta Bella, located at 123 Main Street.
+
+Please let me know if you have any dietary restrictions or if you need a ride from the office. Looking forward to catching up with everyone!
+
+Best regards,
+Alice

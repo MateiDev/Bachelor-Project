@@ -1,0 +1,28 @@
+From carol@example.org Sat Jul 29 15:30:00 2023
+Return-Path: <carol@example.org>
+Received: from mail.example.org (mail.example.org [198.51.100.42])
+    by inbox.example.org with ESMTP id abc123def; Sat, 29 Jul 2023 15:30:00 -0400
+Date: Sat, 29 Jul 2023 15:30:00 -0400
+From: Carol Thompson <carol@example.org>
+To: Team <team@example.org>
+Subject: Monthly Team Meeting Agenda
+Message-ID: <20230729153000.abc123def@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone is doing well. As a reminder, our monthly team meeting is scheduled for next Tuesday, August 1st at 10:00 AM in Conference Room B. Please find the preliminary agenda below:
+
+1. Project Alpha status update
+2. Budget review for Q3
+3. New hire introductions
+4. Open discussion / Q&A
+
+If you'd like to add any items to the agenda, please let me know by end of day Monday.
+
+Looking forward to seeing you all.
+
+Best regards,
+Carol

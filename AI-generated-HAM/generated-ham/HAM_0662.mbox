@@ -1,0 +1,26 @@
+From alice@example.com Wed Apr  3 14:22:01 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id 123456789
+    for <bob@example.org>; Wed,  3 Apr 2024 14:22:01 -0400 (EDT)
+Message-ID: <20240403182201.abcdef@mail.example.com>
+Date: Wed, 3 Apr 2024 14:22:01 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Summer Picnic on Saturday
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! It’s that time of year again, and we’re planning our annual summer picnic this Saturday at Greenfield Park. We’ll be meeting at the northeast pavilion around 11:00 AM. I’ll bring sandwiches and lemonade.
+
+Could you bring some snacks and folding chairs? Feel free to bring your family along. It’s always a fun time catching up with everyone.
+
+Let me know if you have any dietary restrictions or if you need directions.
+
+See you soon!
+
+Best,
+Alice

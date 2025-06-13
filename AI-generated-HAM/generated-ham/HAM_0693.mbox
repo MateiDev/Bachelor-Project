@@ -1,0 +1,24 @@
+From alice.smith@domain.com Wed Oct 18 09:30:00 2023
+Return-Path: <alice.smith@domain.com>
+Received: from mail.domain.com (mail.domain.com [192.0.2.1])
+	by inbox.domain.com (Postfix) with ESMTP id 4F3A11234
+	for <bob.jones@domain.com>; Wed, 18 Oct 2023 09:30:00 -0400 (EDT)
+Message-ID: <20231018133000.4F3A11234@mail.domain.com>
+Date: Wed, 18 Oct 2023 09:30:00 -0400
+From: Alice Smith <alice.smith@domain.com>
+To: Bob Jones <bob.jones@domain.com>
+Subject: Weekend Hike Photos
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I just got back from our weekend hike up Pine Hill and wanted to share some photos with you. The weather was perfect—sunny but cool—and the fall colors are really starting to show. We saw a family of deer near the ridge and the view from the summit was incredible.
+
+I’ve attached a few shots from the day, including one of the waterfall by the trailhead. Let me know if you’d like me to send the rest or if you have any edits for our blog post.
+
+Looking forward to our next adventure!
+
+Cheers,
+Alice

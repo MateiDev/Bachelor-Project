@@ -1,0 +1,28 @@
+From jane.doe@example.com Sat Jun 15 08:30:00 2024
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com by mx.example.org with ESMTP; Sat, 15 Jun 2024 08:29:50 -0400
+Date: Sat, 15 Jun 2024 08:30:00 -0400
+From: Jane Doe <jane.doe@example.com>
+To: john.smith@example.com
+Subject: Weekly Team Update
+Message-ID: <20240615083000.123456@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+Hope you're doing well. Here's the weekly update on our team's progress:
+
+1. Completed the design mockups for the new client portal.
+2. Integrated the payment API into the staging environment.
+3. Scheduled the user testing session for Tuesday.
+4. Addressed the security audit's minor findings.
+5. Started drafting the Q3 roadmap.
+
+Let me know if you'd like to discuss any of these items in more detail or if there's anything else you'd like us to focus on next week.
+
+Thanks, and have a great weekend!
+
+Best regards,
+Jane Doe

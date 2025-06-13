@@ -1,0 +1,28 @@
+From alice@example.com Thu Sep 30 09:00:00 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com ([192.0.2.1]) by inbound.example.org with ESMTP id ABC123DEF for <bob@example.com>; Thu, 30 Sep 2021 09:00:00 -0400
+Date: Thu, 30 Sep 2021 09:00:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hike Plans
+Message-ID: <20210930090000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about our plans for the weekend hike.
+The weather forecast looks clear on Saturday, with temperatures in the mid-60s
+and plenty of sunshine. I’ve mapped out a trail near Pine Ridge that’s about 8 miles
+round-trip, with some great viewpoints along the way.
+
+If you’re up for it, let’s meet at the trailhead parking lot by 8:00 AM. I’ll bring
+some sandwiches, fruit, and snacks; feel free to let me know if you have any
+special requests. Don’t forget sturdy shoes, a hat, and plenty of water.
+
+Looking forward to catching up and enjoying the outdoors together. Let me know
+if that timing works for you or if you’d prefer a different route.
+
+Best,
+Alice

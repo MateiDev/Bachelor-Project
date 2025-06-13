@@ -1,0 +1,63 @@
+From alice@example.com Wed Jun 19 10:15:30 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.net
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.net (Postfix) with ESMTP id ABC1234
+    for <bob@example.net>; Wed, 19 Jun 2024 10:15:30 -0400 (EDT)
+Message-ID: <CAF1P1x-exampleid@mail.example.com>
+Date: Wed, 19 Jun 2024 10:15:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.net>
+Subject: Weekend Hiking Trip Details
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="====boundary===="
+
+--====boundary====
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Bob,
+
+I hope you're doing well. I'm excited about our upcoming weekend hiking trip
+to Pine Park. Here's the plan:
+
+1. Meet at my place at 8:00 AM on Saturday.
+2. Drive together to the trailhead (about a 1-hour drive).
+3. Pack a lunch and snacks—I'll bring sandwiches and water.
+4. We'll take the North Ridge trail, which is moderate-level and offers
+   great views.
+
+Please let me know if you'll need a ride or if you prefer to meet directly
+at the trailhead. Also, feel free to suggest any additional gear we should
+bring.
+
+Looking forward to a fun day outdoors!
+
+Best regards,
+Alice
+
+--====boundary====
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear Bob,</p>
+    <p>I hope you're doing well. I'm excited about our upcoming weekend
+    hiking trip to <strong>Pine Park</strong>. Here's the plan:</p>
+    <ol>
+      <li>Meet at my place at <strong>8:00 AM</strong> on Saturday.</li>
+      <li>Drive together to the trailhead (about a 1-hour drive).</li>
+      <li>Pack a lunch and snacks—I'll bring sandwiches and water.</li>
+      <li>We'll take the <em>North Ridge</em> trail, which is moderate-level
+          and offers great views.</li>
+    </ol>
+    <p>Please let me know if you'll need a ride or if you prefer to meet
+       directly at the trailhead. Also, feel free to suggest any additional
+       gear we should bring.</p>
+    <p>Looking forward to a fun day outdoors!</p>
+    <p>Best regards,<br/>Alice</p>
+  </body>
+</html>
+
+--====boundary====--

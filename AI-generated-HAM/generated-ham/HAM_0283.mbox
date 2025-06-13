@@ -1,0 +1,36 @@
+From bob@example.com Fri Jun 07 13:40:00 2024
+Return-Path: <bob@example.com>
+Delivered-To: alice@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+        by mx.example.org with ESMTP id ABC123 for <alice@example.com>;
+        Fri, 07 Jun 2024 13:40:02 -0400
+From: Bob Smith <bob@example.com>
+To: Alice Johnson <alice@example.com>
+Cc: All Team <team@example.com>
+Subject: Team Picnic on Friday, June 14th
+Date: Fri, 07 Jun 2024 13:40:00 -0400
+Message-ID: <20240607174000.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi team,
+
+I hope you’re all doing well. As discussed in our last meeting, we’re planning
+to have our annual summer picnic next Friday, June 14th, at Lakeside Park from
+11:00 AM to 3:00 PM.
+
+Agenda:
+- Set up tables and chairs (please arrive by 10:30 AM)
+- Team lunch
+- Games and activities (volleyball, frisbee, board games)
+- Clean-up
+
+Food and drinks will be provided. If you have any dietary restrictions or
+special requests, please let me know by Tuesday, June 11th so we can accommodate
+everyone.
+
+Looking forward to a fun day outdoors!
+
+Best regards,
+Bob

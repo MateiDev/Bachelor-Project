@@ -1,0 +1,22 @@
+From john.doe@example.com Fri Sep 03 09:15:00 2021
+Date: Fri, 3 Sep 2021 09:15:00 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Book Club Meeting Reminder
+Message-ID: <20210903091500.0001@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi Jane,
+
+Just a quick reminder that our monthly book club meeting is coming up on Thursday, September 9th at 7 PM in the community center library (Room 204).
+This month's pick is "The Midnight Library" by Matt Haig. Please bring your copy and any favorite passages or discussion questions you have.
+
+Snacks and refreshments will be provided.
+
+Let me know if you plan to attend or if you need any information about the venue.
+
+Looking forward to another great discussion!
+
+Cheers,
+John

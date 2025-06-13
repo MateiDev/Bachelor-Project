@@ -1,0 +1,28 @@
+From alice@example.com Fri Jul  9 11:25:02 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by smtp.example.com (Postfix) with ESMTPS id 1234ABC for <bob@example.com>; Fri,  9 Jul 2021 11:25:02 -0400 (EDT)
+Received: from [10.0.0.1] (unknown [10.0.0.1]) by mail.example.com (Postfix) with ESMTP id 5678DEF for <bob@example.com>; Fri,  9 Jul 2021 11:24:59 -0400 (EDT)
+Date: Fri, 9 Jul 2021 11:24:59 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Picnic Plans
+Message-ID: <20210709112459.GH4567@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to touch base about our plans for the weekend picnic. The weather forecast looks great for Saturday afternoon, so I suggest we meet at Riverside Park around 1:00 PM.
+
+Here's what we need to bring:
+- A blanket or some folding chairs
+- Snacks and drinks (feel free to bring your favorite)
+- Sunscreen and hats
+- Frisbee or a deck of cards for games
+
+Let me know if you have any other ideas or if you'd like me to pick up anything specific from the store. Looking forward to catching up!
+
+Cheers,
+Alice

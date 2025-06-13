@@ -1,0 +1,26 @@
+From john.doe@example.com Fri Jul 19 10:45:00 2024
+Return-Path: <john.doe@example.com>
+Message-ID: <20240719104500.12345@example.com>
+Date: Fri, 19 Jul 2024 10:45:00 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Quarterly Team Meeting Agenda
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Jane,
+
+Here's the draft agenda for next week's quarterly team meeting scheduled on Monday, July 22nd at 2:00 PM.
+
+1. Welcome and introductions
+2. Q2 performance review
+3. Project updates
+4. Budget planning for Q3
+5. Open discussion and Q&A
+6. Next steps and action items
+
+Please let me know if you'd like to add any topics or if there are any time conflicts. I'll finalize the agenda by end of day Friday.
+
+Thanks,
+John

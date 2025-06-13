@@ -1,0 +1,25 @@
+From alice.johnson@example.com Tue Jul 20 15:32:18 2023
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id abc123
+	for <bob.smith@example.org>; Tue, 20 Jul 2023 15:32:18 -0400 (EDT)
+Date: Tue, 20 Jul 2023 15:32:18 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.org>
+Subject: Weekend Hiking Trip
+Message-ID: <CAFhHWpG=xyz123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to see if you're free this Saturday for a hiking trip
+up at Pine Ridge. The weather forecast looks great, and I'd love to catch up while
+enjoying some fresh air. We can start early, around 8 AM, and bring a packed lunch.
+
+Let me know if that works for you, and feel free to invite anyone else who might be
+interested.
+
+Best regards,
+Alice

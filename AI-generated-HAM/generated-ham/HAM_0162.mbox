@@ -1,0 +1,18 @@
+From alice@example.com Mon Aug 21 12:34:56 2023
+Date: Mon, 21 Aug 2023 12:34:56 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Lunch next week?
+Message-ID: <CA+xyz123abc@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+Are you free for lunch sometime next week? I was thinking of trying that new cafe downtown
+on 5th Street. They have great reviews and the menu looks promising.
+
+Let me know what days work best for you, and we can set a time.
+
+Thanks,
+Alice

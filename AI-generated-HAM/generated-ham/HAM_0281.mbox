@@ -1,0 +1,24 @@
+From alice@example.com Tue Nov 28 10:23:45 2023
+From: Alice Smith <alice@example.com>
+To: Bob Jones <bob@example.com>
+Subject: Project Kickoff Meeting Notes
+Date: Tue, 28 Nov 2023 10:23:45 -0500
+Message-ID: <20231128102345.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi Bob,
+
+Thanks for attending the project kickoff meeting earlier today. Here are the action items we agreed on:
+
+ - Review the project requirements document by this Friday.
+ - Prepare the first draft of the design document.
+ - Schedule a follow-up meeting for next Tuesday at 2:00 PM.
+
+Please let me know if you have any questions or need additional information.
+
+Best regards,
+Alice Smith
+Project Manager
+Example Corp
+alice@example.com

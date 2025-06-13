@@ -1,0 +1,30 @@
+From john.doe@example.com Thu Jun 20 15:22:07 2024
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by relay.example.org with ESMTP id abc123 for <jane.smith@example.org>; Thu, 20 Jun 2024 15:22:07 -0400
+Received: from [10.0.0.1] (unknown [10.0.0.1]) by mail.example.com with ESMTPSA id def456 for <jane.smith@example.org>; Thu, 20 Jun 2024 15:21:50 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Lunch Meeting Follow-Up
+Date: Thu, 20 Jun 2024 15:21:50 -0400
+Message-ID: <CAP9=UV12xyz@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+It was great catching up over lunch today at The Garden Bistro. I enjoyed our conversation about project timelines and the new marketing strategy.
+
+As discussed, I’m sharing the draft outline of our next campaign. Please find the main points below:
+1. Audience segmentation and targeting.
+2. Content calendar for Q3.
+3. Budget allocation for digital ads.
+4. Performance metrics and reporting cadence.
+
+Let me know if you’d like to schedule a follow-up meeting next week to review the details. I’m available on Tuesday or Thursday afternoon.
+
+Thanks again for your time and insights.
+
+Best regards,
+John

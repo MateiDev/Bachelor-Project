@@ -1,0 +1,27 @@
+From alice@example.com Sat Jul 30 15:01:02 2022
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABC123 for <bob@example.com>; Sat, 30 Jul 2022 15:01:02 -0400
+Date: Sat, 30 Jul 2022 15:01:02 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend BBQ Plans
+Message-ID: <20220730190102.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to touch base about the BBQ we’re hosting this weekend. The weather looks perfect—sunny with a light breeze—so it should be a great afternoon in the backyard.
+
+I’ve invited Claire, Mike, and Jenna. Do you want to extend invites to anyone else? Also, let me know if you’d like to bring your famous potato salad; otherwise I can handle the sides. I’m planning to pick up burgers, hot dogs, and some veggie skewers on Friday.
+
+If you have any music playlists you want to queue up, just send them over. And if you need to borrow our cooler or grill tools, feel free. We should aim to start grilling around 2 pm, but come by anytime after 12 to help set up.
+
+Looking forward to catching up and enjoying some good food and company. Let me know if you have any suggestions or special dietary requests.
+
+See you soon!
+
+Best,
+Alice

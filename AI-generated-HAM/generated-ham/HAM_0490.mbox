@@ -1,0 +1,29 @@
+From alice@example.com Wed Jul 10 09:15:00 2024
+Date: Wed, 10 Jul 2024 09:15:00 -0400
+From: Alice Example <alice@example.com>
+To: Bob Example <bob@example.com>
+Subject: Agenda for Friday's Team Meeting
+Message-ID: <CAFEBABE1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to share the preliminary agenda for our team meeting this Friday at 2 PM:
+
+1. Project Alpha status update  
+2. Review of recent client feedback  
+3. Upcoming milestones and deadlines  
+4. Resource allocation for next sprint  
+5. Open discussion / Q&A  
+
+Please let me know if there are any other topics you’d like to add. I’ll circulate the final agenda by Thursday afternoon.
+
+Best regards,
+Alice
+
+-- 
+Alice Example
+Product Manager, Tech Solutions Inc.
+alice@example.com | (555) 123-4567

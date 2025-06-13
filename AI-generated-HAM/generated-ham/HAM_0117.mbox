@@ -1,0 +1,27 @@
+From alice@example.com Sat Jul 22 10:15:00 2023
+X-Envelope-From: alice@example.com
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by recipient.example.org with ESMTP id ABC123
+    for <bob@example.org>; Sat, 22 Jul 2023 10:15:00 -0400
+Received: from desktop.local (unknown [198.51.100.23])
+    by mail.example.com with ESMTP id DEF456
+    for <bob@example.org>; Sat, 22 Jul 2023 09:50:00 -0400
+Date: Sat, 22 Jul 2023 09:50:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Gardening Plans
+Message-ID: <20230722095000.DEF456@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to touch base about our gardening plans for this weekend. The weather forecast looks perfect—sunny with a light breeze. I thought we could start by laying down mulch around the rose bushes and then move on to planting the new daffodil bulbs I picked up at the nursery last week.
+
+Also, I found that recipe for the lemon-thyme chicken you mentioned. It sounds delicious, and I think it would be great to prepare alongside a chill evening in the garden. Let me know if you want me to bring any ingredients or utensils.
+
+Looking forward to catching up and getting our hands dirty!
+
+Best,
+Alice

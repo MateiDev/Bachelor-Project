@@ -1,0 +1,25 @@
+From alice@example.com Fri Mar 10 10:22:33 2023
+Return-Path: <alice@example.com>
+Received: by mail.example.com id abc123 (Postfix) with ESMTPSA for <bob@example.com>; Fri, 10 Mar 2023 10:22:33 -0500 (EST)
+From: Alice Example <alice@example.com>
+To: Bob Example <bob@example.com>
+Subject: Weekend Potluck Planning
+Date: Fri, 10 Mar 2023 10:22:33 -0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I hope you’re doing well! Just wanted to touch base about the potluck we’re hosting this Saturday at my place. So far we have:
+
+- Sarah bringing her famous spinach dip
+- Mike offering to make garlic bread
+- Jenna baking brownies
+
+Could you let me know if you’re up for bringing a salad or maybe a dessert? Also, the event kicks off around 5 PM—feel free to swing by a bit earlier if you’d like to help set up. We’ll have plenty of drinks and non-alcoholic options as well.
+
+Looking forward to catching up and enjoying some good food together. Let me know what you plan to bring!
+
+Best,
+Alice

@@ -1,0 +1,25 @@
+From alice@example.com Wed Jul 10 09:15:00 2024
+Message-ID: <20240710091500.12345@example.com>
+Date: Wed, 10 Jul 2024 09:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Team <team@example.com>
+Subject: Team Lunch Next Week
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Team,
+
+I hope everyone’s doing well. As discussed in today’s stand-up, I’d like to schedule a team lunch next week. Please let me know which of the following days work best for you:
+
+- Tuesday, July 16
+- Wednesday, July 17
+- Thursday, July 18
+
+Also feel free to suggest any restaurant ideas. Looking forward to catching up outside of meetings!
+
+Best regards,
+Alice  
+Product Manager  
+ExampleCorp  
+alice@example.com  
+(555) 123-4567

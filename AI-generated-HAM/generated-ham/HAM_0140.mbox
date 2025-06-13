@@ -1,0 +1,39 @@
+From sender@example.com Mon Jun 24 10:15:00 2024
+Return-Path: <sender@example.com>
+Delivered-To: recipient@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id abc123
+    for <recipient@example.com>; Mon, 24 Jun 2024 10:15:00 -0400
+Received: from localhost (localhost [127.0.0.1])
+    by mail.example.com (Postfix) with ESMTP id def456
+    for <recipient@example.com>; Mon, 24 Jun 2024 10:14:58 -0400
+Date: Mon, 24 Jun 2024 10:15:00 -0400
+From: Alex Johnson <sender@example.com>
+To: Team <team@example.com>
+Subject: Summer Team Picnic Planning
+Message-ID: <20240624101500.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi everyone,
+
+I hope you’re all doing well. Now that summer is just around the corner,
+I thought it would be a great idea for us to plan a team picnic in
+the park. It would be a nice opportunity to relax, get to know each
+other better, and enjoy some good food.
+
+Here are a few initial thoughts:
+- Date: Friday, July 12th, around noon
+- Location: Lakeside Park (Shelter #3)
+- Activities: Frisbee, board games, and a short nature walk
+- Food: Potluck style – please sign up to bring something
+
+Please reply with your availability for July 12th and let me know what
+dish you’d like to bring. If you have any other suggestions for
+activities or location, feel free to share.
+
+Looking forward to some fun in the sun!
+
+Best,
+Alex

@@ -1,0 +1,31 @@
+From alice@example.com Fri Mar  3 10:30:45 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: by mail.example.com (Postfix, from userid 1001)
+    id ABC1234DEF; Fri,  3 Mar 2023 10:30:45 -0500 (EST)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Lunch Meeting Next Week
+Date: Fri, 3 Mar 2023 10:30:45 -0500
+Message-ID: <20230303103045.abcdef1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to check your availability for a lunch meeting next Thursday, March 9th. I have some updates to share regarding our quarterly project review, and it would be great to get your feedback in person.
+
+Does 12:30 PM at Cafe Verde downtown work for you? If not, I'm flexible with other times or locations that week.
+
+Looking forward to catching up!
+
+Best regards,
+Alice
+
+--
+Alice Johnson
+Project Coordinator
+Example Corp.
+alice@example.com
+(555) 123-4567

@@ -1,0 +1,23 @@
+From alice@example.com Wed Jun  5 14:30:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by smtp.example.net with ESMTP id x7K5jY2L
+    for <bob@example.com>; Wed,  5 Jun 2024 14:30:00 -0400 (EDT)
+Date: Wed, 5 Jun 2024 14:30:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Jones <bob@example.com>
+Message-ID: <CAJk2j3+4b5c6d7e8f9g0h@example.com>
+Subject: Picnic Plans for Next Weekend
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to check if you’re still up for the picnic next Saturday at Lakeside Park. The weather forecast looks perfect, and I was thinking we could bring some sandwiches, fruit, and maybe a board game or two.
+
+Let me know if you have any dietary preferences or if there’s something special you’d like to bring. If 11:00 AM works for you, we can meet at the main pavilion near the east entrance.
+
+Looking forward to catching up!
+
+Best,
+Alice

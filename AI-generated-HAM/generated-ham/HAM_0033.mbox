@@ -1,0 +1,29 @@
+From alice@example.com Fri Jul 12 09:34:56 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.example.net (Postfix) with ESMTP id ABC123DEF
+    for <bob@example.org>; Fri, 12 Jul 2024 09:34:56 +0000 (UTC)
+Date: Fri, 12 Jul 2024 09:34:56 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Hike Plan
+Message-ID: <20240712093456.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I hope you're doing well! Are you still up for our weekend hike? 
+The forecast looks great for Saturday morning. I was thinking we could 
+start around 8:00 AM at the trailhead by Pine Valley. It's about a 
+3-mile loop, so we should be back before noon.
+
+Let me know if you need a ride or if that time works for you. I can
+bring some snacks and water for us, too.
+
+Looking forward to it!
+
+Cheers,
+Alice

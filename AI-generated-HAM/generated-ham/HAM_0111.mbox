@@ -1,0 +1,33 @@
+From alice@example.com Mon Jul 15 08:45:12 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTPS id abc123def
+    for <bob@example.org>; Mon, 15 Jul 2024 08:45:11 -0400 (EDT)
+Received: from [10.0.0.5] (unknown [203.0.113.5])
+    by mail.example.com with ESMTPSA id ghi456jkl
+    for <bob@example.org>; Mon, 15 Jul 2024 08:45:10 -0400 (EDT)
+Date: Mon, 15 Jul 2024 08:45:09 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Proposal for Next Week's Meeting
+Message-ID: <CAF12345abcd@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I'm writing to share the draft agenda for our meeting next Wednesday. Please review the items below and let me know if you have any additions or changes:
+
+1. Project timeline updates.
+2. Budget review and allocation.
+3. Team roles and responsibilities.
+4. Client feedback discussion.
+5. Next steps and action items.
+
+Also, I suggest we start the meeting at 10:00 AM instead of 9:00 AM to accommodate the new team members joining us in different time zones. Please confirm if this works for you.
+
+Thanks, and looking forward to your feedback.
+
+Best regards,
+Alice

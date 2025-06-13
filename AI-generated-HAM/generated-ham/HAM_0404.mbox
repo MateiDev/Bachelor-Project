@@ -1,0 +1,28 @@
+From alice@example.com Mon Sep  5 08:30:00 2022
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: by mail.example.com with SMTP id abc1234 for <bob@example.org>;
+    Mon, 5 Sep 2022 08:30:02 -0400 (EDT)
+Date: Mon, 5 Sep 2022 08:30:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Project Timeline and Next Steps
+Message-ID: <CAF9k_Z=example123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. I’ve updated the project timeline spreadsheet based on our discussion last week.
+Please review the milestones and let me know if any adjustments are needed. 
+We’re aiming to finalize the first draft by the end of next week.
+
+You can find the document here:
+https://www.example.com/shared/project-timeline
+
+Feel free to add your comments directly in the sheet. 
+If you’d like to schedule a quick call to go over any details, I’m available on Wednesday afternoon.
+
+Thanks,
+Alice

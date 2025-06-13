@@ -1,0 +1,48 @@
+From alice@example.com Fri Jul 12 09:15:23 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mail-host.example.net (Postfix) with ESMTP id 9ABCD12345
+	for <bob@example.org>; Fri, 12 Jul 2024 09:15:23 -0400 (EDT)
+Date: Fri, 12 Jul 2024 09:15:23 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Project Meeting Recap
+Message-ID: <ALICE-1626130523@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Thanks for joining this morning’s project meeting. Here’s a quick recap of what we discussed:
+
+1. Task Assignments
+   - Design: Carol will finalize the mockups by next Wednesday.
+   - Development: David and I will start integrating the new API endpoints.
+   - QA: Eve will prepare the test plan once the first build is ready.
+
+2. Milestone Dates
+   - Mockup sign-off: July 17
+   - First integration build: July 22
+   - QA review: July 25
+
+3. Dependencies
+   - Waiting for marketing to provide the updated brand assets.
+   - Security team to confirm encryption requirements by July 18.
+
+Next Steps:
+- I’ll send an updated project timeline by end of day Monday.
+- Carol will share the mockup draft for feedback.
+- Please update the shared task board as you make progress.
+
+Let me know if I missed anything or if you have further questions.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Product Manager
+ExampleCorp
+alice@example.com
+(555) 123-4567

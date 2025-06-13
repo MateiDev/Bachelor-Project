@@ -1,0 +1,28 @@
+From john.doe@example.com Fri Mar 01 12:34:56 2024
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by smtp.example.org with ESMTP id ABC123DEF
+    for <jane.smith@example.org>; Fri, 01 Mar 2024 12:34:56 -0500 (EST)
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Weekend BBQ Plans
+Date: Fri, 01 Mar 2024 12:34:56 -0500
+Message-ID: <20240301123456.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you’re doing well! I wanted to firm up the details for our get-together this Saturday. Here’s what I have so far:
+
+1. Time: 3:00 PM – we’ll start firing up the grill around then.
+2. Location: My backyard, 123 Maple Street. There’s plenty of seating and room for the kids to play.
+3. Food: I’ll handle burgers and hot dogs. Could you bring a side dish or salad? Potato salad is always a hit!
+4. Drinks: I’ll have soda, water, and iced tea. Feel free to bring anything else you’d like.
+5. Music: I’ll put together a playlist, but if you have any favorite tunes, send them my way.
+
+Let me know if that works for you or if you’d like to add anything else to the menu. Looking forward to catching up and enjoying some sunshine!
+
+Best,
+John

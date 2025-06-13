@@ -1,0 +1,24 @@
+From alice@example.com Sat Jul 29 10:15:42 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id abc123def456
+	for <bob.smith@example.org>; Sat, 29 Jul 2023 10:15:42 -0400
+Date: Sat, 29 Jul 2023 10:15:42 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob.smith@example.org>
+Subject: Picnic Plans for Next Weekend
+Message-ID: <abcdef1234567890@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I was thinking it would be great to have a picnic next Saturday at Lakeside Park. The weather forecast looks perfect—sunny with a light breeze. How does 11:00 AM sound?
+
+I can bring sandwiches and lemonade, and you could bring one of your famous salads. If you have a portable speaker, we could bring some music as well. Also, let me know if you’d like to invite anyone else; the more the merrier!
+
+Looking forward to catching up and enjoying a relaxing afternoon outdoors. Let me know what you think.
+
+Best,
+Alice Johnson

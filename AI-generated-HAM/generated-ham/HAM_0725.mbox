@@ -1,0 +1,32 @@
+From alice.johnson@example.com Wed Jul 10 09:15:00 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by example.com with ESMTP id 12345
+    for <bob.smith@example.com>; Wed, 10 Jul 2024 09:15:00 -0400
+Date: Wed, 10 Jul 2024 09:15:00 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Team Lunch and Project Update
+Message-ID: <20240710091500.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to remind everyone about our team lunch this Friday at 12:30 PM. We’ll be meeting at The Corner Bistro on 5th Avenue. Please confirm if you can make it so I can finalize the reservation.
+
+Also, here’s a brief update on the current project status:
+
+- Design phase: Completed last week
+- Development: 60% done, on track for next milestone
+- Testing: Scheduled to start in two weeks
+- Documentation: Drafts are in the shared drive
+
+Let me know if you have any questions or if there are additional topics you’d like to discuss at the lunch meeting.
+
+Thanks,
+Alice Johnson
+Product Manager
+Example Corp
+alice.johnson@example.com

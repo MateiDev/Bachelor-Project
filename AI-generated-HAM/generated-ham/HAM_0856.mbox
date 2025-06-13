@@ -1,0 +1,23 @@
+From jane.doe@example.org Wed Jun 26 09:15:32 2024
+Message-ID: <CAF4h9sG78v9h=abc123def456@example.org>
+Date: Wed, 26 Jun 2024 09:15:32 -0400
+From: Jane Doe <jane.doe@example.org>
+To: Team <team@example.org>
+Subject: Team Meeting Recap
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Good morning everyone,
+
+Thank you all for attending yesterday’s team meeting. We covered the Q2 project timelines, reviewed the current budget allocations, and discussed upcoming client deliverables. Overall, we are on track to meet our targets, though we need to pay special attention to the design phase deadlines.
+
+Action items:
+  - Michael will finalize the UI mockups by Friday.
+  - Sara will draft the revised budget proposal and share by next Wednesday.
+  - Raj will coordinate with the QA team for integration testing in early July.
+
+Please let me know if I missed anything. Our next meeting is scheduled for July 3rd at 10:00 AM in Conference Room B. Looking forward to seeing everyone then.
+
+Best regards,
+Jane  

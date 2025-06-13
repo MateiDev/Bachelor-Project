@@ -1,0 +1,24 @@
+From alice.johnson@example.com Mon Sep 13 10:20:00 2021
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Weekly Team Meeting Agenda
+Date: Mon, 13 Sep 2021 10:20:00 -0400
+Message-ID: <20210913102000.alice@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+Here is the agenda for our weekly team meeting scheduled for Wednesday at 2:00 PM:
+
+1. Project status updates from each department
+2. Review of action items from last meeting
+3. Discussion on upcoming product launch timeline
+4. Resource allocation and hiring needs
+5. Open floor for questions and feedback
+
+Please let me know if you'd like to add any topics or if you have any concerns.
+
+Best regards,
+Alice

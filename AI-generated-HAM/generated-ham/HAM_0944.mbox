@@ -1,0 +1,45 @@
+From sender@example.com Sat Jul 13 10:15:00 2024
+Return-Path: <sender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+        by mx.example.com with ESMTP id abc123
+        for <recipient@example.com>; Sat, 13 Jul 2024 10:14:58 -0400 (EDT)
+Date: Sat, 13 Jul 2024 10:14:58 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Project Team <project-team@example.com>
+Subject: Weekly Project Update
+Message-ID: <20240713101458.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi team,
+
+I hope everyone had a great week! Here is the weekly update on our Product Launch project:
+
+1. Design Phase
+   - The final UI mockups have been approved by the stakeholders.
+   - I've shared the design assets in the team drive: /Projects/ProductLaunch/Designs
+
+2. Development
+   - The frontend team completed the responsive layout for the homepage.
+   - Backend integration for the authentication service is 80% done. We expect to wrap up by Tuesday.
+
+3. QA & Testing
+   - QA has begun smoke testing on the staging environment.
+   - Please report any critical issues in the QA Jira board under the "Blocker" priority.
+
+4. Next Steps
+   - User acceptance testing scheduled for next Friday.
+   - Marketing materials draft will be ready for review by Wednesday afternoon.
+
+Action Items:
+- Bob: Finalize the API documentation by Monday.
+- Carol: Prepare the test cases for the payment module.
+- Dave: Coordinate with the infrastructure team for the load testing setup.
+
+Let me know if you have any questions or need assistance with your tasks.
+
+Have a great weekend!
+
+Best regards,
+Alice Johnson

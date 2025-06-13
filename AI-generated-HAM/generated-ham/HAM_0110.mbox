@@ -1,0 +1,22 @@
+From alice.smith@example.com Fri Jul 12 10:35:00 2024
+Return-Path: <alice.smith@example.com>
+Delivered-To: team@example.com
+Received: by mail.example.com with SMTP id abc123; Fri, 12 Jul 2024 10:35:00 -0400
+From: Alice Smith <alice.smith@example.com>
+To: Onboarding Team <team@example.com>
+Subject: Team Lunch Next Week
+Date: Fri, 12 Jul 2024 10:35:00 -0400
+Message-ID: <CAMERA12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Team,
+
+I hope everyone is doing well. I'd like to schedule a team lunch next Wednesday, July 17th, at 12:30 PM. I found a nice place called "The Garden Bistro" downtown that offers vegetarian and vegan options.
+
+Please let me know if you have any dietary restrictions or if another day works better for you. Once everyone confirms, I'll make a reservation.
+
+Looking forward to catching up with you all outside of the office.
+
+Best regards,
+Alice

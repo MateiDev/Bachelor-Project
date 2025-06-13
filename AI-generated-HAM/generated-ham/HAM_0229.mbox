@@ -1,0 +1,20 @@
+From alice@example.com Mon Jun 24 14:28:03 2024
+Message-ID: <20240624142803.12345.alice@example.com>
+Date: Mon, 24 Jun 2024 14:28:03 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Lunchtime Book Club - Next Meeting
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. Our next lunchtime book club meeting is scheduled for Wednesday, July 3rd at 12:30 PM in the cafeteria. We’ll be discussing “The Midnight Library” by Matt Haig.
+
+Please RSVP by Friday so I can reserve enough seating and order refreshments. If you have any dietary preferences or suggestions for our next book selection, let me know.
+
+Looking forward to another great discussion!
+
+Best regards,
+Alice

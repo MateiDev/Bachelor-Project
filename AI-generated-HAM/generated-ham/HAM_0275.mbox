@@ -1,0 +1,26 @@
+From emily.johnson@example.com Tue Jul 11 14:25:00 2023
+Return-Path: <emily.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by example.com with ESMTPS id abc123
+    for <michael.lee@example.com>; Tue, 11 Jul 2023 14:25:00 -0400 (EDT)
+Date: Tue, 11 Jul 2023 14:25:00 -0400
+From: Emily Johnson <emily.johnson@example.com>
+To: Michael Lee <michael.lee@example.com>
+Subject: Team Lunch on Monday
+Message-ID: <202307111825.emilyj@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Michael,
+
+I hope you're doing well. The team is planning to go out for lunch next Monday, July 17th, at 12:30 PM. We thought "The Green Bistro" downtown would be a great spot – they have vegetarian and gluten-free options too.
+
+Could you let me know if you can make it? If not, feel free to suggest another time or place.
+
+Best regards,
+Emily  
+(Emily Johnson)  
+Project Coordinator, Example Corp  
+Phone: (555) 123-4567  
+Email: emily.johnson@example.com

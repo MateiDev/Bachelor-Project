@@ -1,0 +1,38 @@
+From alice@example.com Sun Jun 30 10:15:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [203.0.113.2])
+    by inbound.example.org with ESMTP id ABCD1234
+    for <bob@example.org>; Sun, 30 Jun 2024 10:15:00 -0400 (EDT)
+Date: Sun, 30 Jun 2024 10:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Message-ID: <20240630101500.1234@mail.example.com>
+Subject: Summer Picnic Planning
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! With summer just around the corner, we’re starting to plan the annual company picnic, and I’m putting together a list of tasks and volunteers. Would you be available to help coordinate the food and refreshments this year? Last year’s potluck was a hit, but we could use someone to oversee the drinks and snack stations.
+
+Here’s a draft schedule and task list:
+- Venue reservations (pending)
+- Potluck sign-up sheet
+- Drinks and snacks coordinator
+- Games and activities organizer
+- Music and equipment setup
+
+If you can take on the drinks/snacks role, please let me know by Wednesday so I can update the sign-up sheet. Feel free to suggest any new ideas—maybe a lemonade bar or a fruit skewer station?
+
+Thanks for your help! Looking forward to making this year’s picnic our best one yet.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Community Engagement Coordinator
+Example Company, Inc.
+alice@example.com | (555) 123-4567

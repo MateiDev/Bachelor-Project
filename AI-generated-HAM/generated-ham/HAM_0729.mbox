@@ -1,0 +1,22 @@
+From alice@example.com Tue Mar 14 10:23:45 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com (Postfix) with ESMTPS id 1234567890
+    for <bob@example.com>; Tue, 14 Mar 2023 10:23:45 +0000 (UTC)
+Date: Tue, 14 Mar 2023 10:23:45 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Team Lunch This Friday
+Message-ID: <CAFb1234567@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Our team has decided to go for lunch this Friday at 12:30 PM. We’ll meet at the lobby and head over to The Bistro on Elm Street. Please let me know by Thursday whether you can make it, so I can reserve a table.
+
+Also, feel free to suggest any dietary preferences or favorite dishes.
+
+Best regards,
+Alice

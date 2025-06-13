@@ -1,0 +1,23 @@
+From jane.doe@example.com Tue Jul 02 09:15:30 2024
+Return-Path: <jane.doe@example.com>
+Received: by mail.example.com (Postfix, from userid 1001)
+        id D5F1C2ABC; Tue,  2 Jul 2024 09:15:30 -0400 (EDT)
+Date: Tue, 2 Jul 2024 09:15:30 -0400
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Summer Picnic This Weekend!
+Message-ID: <20240702091530.D5F1C2ABC@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+I hope you're doing well. Are you free this Saturday? A few of us are planning a summer picnic at River Park, starting around 11 AM. We'll have sandwiches, fresh fruit, and lemonade. If you’d like to join, feel free to bring something to share—perhaps your famous potato salad or some snacks.
+
+The park has a covered pavilion and plenty of space for games. It would be great to catch up and enjoy the weather together. Let me know if you can make it and if you need directions or any additional details.
+
+Looking forward to seeing you!
+
+Best,
+Jane

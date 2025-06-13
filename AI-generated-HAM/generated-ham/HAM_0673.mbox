@@ -1,0 +1,38 @@
+From alice@example.com Wed Jul 10 14:14:55 2024
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Meeting Agenda for July
+Date: Wed, 10 Jul 2024 14:14:55 -0400
+Message-ID: <20240710181455.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. Here’s the agenda for our upcoming team meeting on Monday, July 15th at 10:00 AM in Conference Room B:
+
+1. Project Status Updates
+   - Development progress
+   - QA reports
+2. Upcoming Milestones
+   - Feature freeze on July 20th
+   - User testing window
+3. Resource Planning
+   - Allocation for next sprint
+   - Hiring needs
+4. Team Feedback
+   - Open floor for questions and suggestions
+5. Any Other Business
+
+Please take a moment to review and let me know if you’d like to add any topics. If you have any materials or slide decks to share, kindly send them by Friday afternoon.
+
+Looking forward to a productive session.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Manager | Example Corp
+alice@example.com | (555) 123-4567

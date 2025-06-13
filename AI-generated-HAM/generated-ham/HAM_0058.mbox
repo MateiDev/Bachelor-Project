@@ -1,0 +1,22 @@
+From alice@example.com Thu Jul 25 10:15:00 2024
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Lunch and Project Update
+Date: Thu, 25 Jul 2024 10:15:00 -0400
+Message-ID: <202407251015.alice123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to touch base about our upcoming project deadline next week. The team has made great progress on the initial planning, and we’re on track to start development on Monday.
+
+Also, would you be interested in grabbing lunch on Friday afternoon? Some of us are meeting at the café downstairs around 12:30 PM to discuss ideas informally, and it would be great to have you join.
+
+Let me know if that works for you, or if you’d prefer a different time.
+
+Have a great day!
+
+Best,
+Alice

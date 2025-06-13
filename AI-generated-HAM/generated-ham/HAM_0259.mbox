@@ -1,0 +1,33 @@
+From alice.johnson@example.com Fri Jul  5 12:34:56 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id abc123DEF
+	for <bob.smith@example.com>; Fri, 05 Jul 2024 12:34:56 -0400 (EDT)
+Message-ID: <20240705123456.78901@example.com>
+Date: Fri, 05 Jul 2024 12:34:56 -0400
+From: "Alice Johnson" <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Planning for the Summer Picnic
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! It’s time to start organizing our annual summer picnic. Here are a few items we need to discuss:
+
+1. Date and Time: Should we aim for the weekend of July 20th or July 27th? Let me know your availability.
+2. Location: Last year’s park was a hit. Do you think we should book the same spot, or try the lakefront picnic area?
+3. Food and Drinks: I can handle sandwiches and salads. Could you coordinate beverages and snacks?  
+4. Activities: We had the volleyball net and frisbees last year. Are there any new ideas you’d like to suggest?
+5. RSVP List: I’ll send out invites once we finalize details. Please send me a list of any special dietary needs.
+
+Feel free to add any other notes or suggestions. Let’s aim to finalize everything by next Tuesday so we can reserve the spot before it fills up.
+
+Thanks, and talk soon!
+
+Best,
+Alice Johnson
+Event Coordinator, Example Corp
+alice.johnson@example.com
+(555) 123-4567

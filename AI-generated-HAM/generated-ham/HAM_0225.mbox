@@ -1,0 +1,37 @@
+From alice@example.com Sat Oct 07 11:22:33 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by inbox.example.org with ESMTP id abc123xyz
+	for <bob@example.com>; Sat, 07 Oct 2023 11:22:33 -0400 (EDT)
+Date: Sat, 07 Oct 2023 11:22:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hike Details
+Message-ID: <20231007112230.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a quick reminder about our weekend hike at Pine Ridge Trail this Saturday. Here are the details:
+
+Date: Saturday, October 14, 2023
+Meeting Time: 8:00 AM
+Meeting Point: Trailhead parking lot near the ranger station
+Expected Duration: 5–6 hours
+Difficulty: Moderate (some steep sections)
+
+What to Bring:
+- Sturdy hiking boots
+- Water (at least 2 liters)
+- Snacks and a packed lunch
+- Weather-appropriate layers
+- Sunscreen and sunglasses
+- A small first aid kit
+
+Let me know if you need a ride or any additional information. Looking forward to hitting the trail with you!
+
+Best,
+Alice

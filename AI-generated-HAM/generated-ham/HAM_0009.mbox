@@ -1,0 +1,30 @@
+From alice@example.org Fri Jul 12 09:15:23 2024
+Return-Path: <alice@example.org>
+Delivered-To: bob@example.com
+Received: from mail.example.org (mail.example.org [192.0.2.1])
+    by inbound.example.net with ESMTP id 12345ABC
+    for <bob@example.com>; Fri, 12 Jul 2024 09:15:23 -0400 (EDT)
+Date: Fri, 12 Jul 2024 09:15:23 -0400
+From: Alice Johnson <alice@example.org>
+To: Bob Martinez <bob@example.com>
+Subject: Team Picnic Planning Session
+Message-ID: <20240712091523.abcdef123@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. I'm organizing a short planning session for our upcoming team
+picnic next week. I'd like to discuss the location, food options, budget, and activities.
+Are you available for a quick meeting on Monday at 2:00 PM in the 3rd-floor conference
+room? If that doesn't work, let me know your availability, and we'll find another time.
+
+I've created a shared document where we can list ideas:
+https://docs.example.org/spreadsheets/d/1AbCDEfG_hiJklMN/op
+
+Please add any suggestions you have before the meeting. Looking forward to making this
+event a success!
+
+Thanks,
+Alice Johnson

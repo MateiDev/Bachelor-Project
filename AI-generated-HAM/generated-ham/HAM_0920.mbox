@@ -1,0 +1,27 @@
+From john.doe@example.com Sun Jul  7 09:15:00 2024
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbound.example.org with ESMTP id abc123
+    for <jane.smith@example.org>; Sun, 07 Jul 2024 09:15:00 -0400 (EDT)
+Message-ID: <20240707091500.abc123@mail.example.com>
+Date: Sun, 07 Jul 2024 09:15:00 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Weekend Hiking Trip Plans
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're doing well! I wanted to follow up on our conversation about the weekend hiking trip. The weather forecast looks great—sunny with mild temperatures, perfect for being outdoors.
+
+I checked our usual trail at Maple Ridge, and the parking area is expected to open by 8:00 AM. If we meet at my place at 7:00 AM, we can carpool and still grab coffee on the way. I suggest packing the usual gear—water, snacks, sturdy shoes, and a light jacket for the ridge top breeze.
+
+Let me know if that schedule works for you. Also, if you’d like to invite Mark and Lisa along, just give me a heads-up so I can coordinate the car space.
+
+Looking forward to a fun day on the trail! Feel free to reply with any thoughts or adjustments.
+
+Best,
+John

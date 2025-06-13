@@ -1,0 +1,26 @@
+From alice@example.com Sat Jul 20 14:12:35 2024
+Return-Path: <alice@example.com>
+Received: by mail.example.org (Postfix, from userid 1001) id 1234ABCD; Sat, 20 Jul 2024 14:12:35 -0400 (EDT)
+Date: Sat, 20 Jul 2024 14:12:35 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Hiking Trip Recap
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Just wanted to say thanks again for joining the hiking trip this past weekend. The weather was perfect, and I really enjoyed exploring the trails around Pine Ridge Park.
+
+Here are a few highlights:
+- We caught the sunset at Eagle Rock just as the sky turned orange.
+- The creek crossing near Camp Caves was more challenging than I expected!
+- Lunch at the picnic area was delicious—you brought exactly the right amount of sandwiches.
+
+I’m already looking forward to our next adventure. Maybe we can plan a kayaking trip in August? Let me know what dates work for you.
+
+Have a great week!
+
+Cheers,
+Alice

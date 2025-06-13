@@ -1,0 +1,24 @@
+From john.smith@example.com Tue Aug  1 12:34:56 2023
+Return-Path: <john.smith@example.com>
+Received: from mail.example.org (mail.example.org [192.0.2.1])
+    by mx.recipient.org with ESMTP id abc123def
+    for <jane.doe@example.org>; Tue, 1 Aug 2023 12:34:56 -0400 (EDT)
+Date: Tue, 1 Aug 2023 12:34:56 -0400
+From: John Smith <john.smith@example.com>
+To: Jane Doe <jane.doe@example.org>
+Subject: Lunch Meeting Next Week
+Message-ID: <20230801123456.abc123@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you’re doing well. I wanted to check if you’re available for a lunch meeting next week to discuss our upcoming project. I’ve been gathering some initial ideas and would love to get your input before we share them with the broader team.
+
+I was thinking we could meet on Wednesday, August 9th at around 12:30 PM at the Café Veranda near the office. The menu there has some great vegan and gluten-free options, so hopefully it suits your preferences. If that time or location doesn’t work, just let me know and I can suggest alternatives.
+
+Please let me know what you think, and I’ll send a calendar invite once we settle on the details. Looking forward to catching up in person!
+
+Best regards,
+John Smith

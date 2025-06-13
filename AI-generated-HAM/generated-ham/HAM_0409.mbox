@@ -1,0 +1,27 @@
+From alice@example.com Sat Jun 15 12:34:56 2024
+Message-ID: <20240615123456.abcdef@example.com>
+Date: Sat, 15 Jun 2024 12:34:56 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Lunch Next Week
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to let you know that our team is planning a casual lunch next Wednesday, June 19th, at 12:30 PM. We’ll meet at The Garden Bistro on Maple Street, right next to the bookstore. It’s a great spot with a relaxed atmosphere and plenty of vegetarian options.
+
+Please let me know if you can join us and if you have any dietary restrictions. We’d love to have you there for some good food and conversation outside the office.
+
+Looking forward to hearing from you.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Manager
+Example Company
+alice@example.com
+(555) 123-4567

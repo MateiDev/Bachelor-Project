@@ -1,0 +1,23 @@
+From alice@example.com Sat Jul 29 14:15:00 2023
+Return-Path: <alice@example.com>
+Envelope-to: bob@example.com
+Delivery-date: Sat, 29 Jul 2023 14:15:30 -0400
+Received: by mail.example.com (Postfix, from userid 1001)
+        id 4E1F42B123; Sat, 29 Jul 2023 14:15:30 -0400 (EDT)
+Date: Sat, 29 Jul 2023 14:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Team Lunch Next Week
+Message-ID: <20230729141500.4E1F42B123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I’d like to organize a team lunch next week to catch up and discuss our upcoming project milestones. Does Tuesday or Wednesday work better for you? Please let me know your availability, and I’ll coordinate with the rest of the team.
+
+Looking forward to it!
+
+Best regards,
+Alice

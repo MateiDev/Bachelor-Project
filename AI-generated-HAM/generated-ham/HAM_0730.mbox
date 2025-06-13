@@ -1,0 +1,25 @@
+From alice.johnson@example.com Tue Oct  5 09:15:00 2021
+Return-Path: <alice.johnson@example.com>
+Delivered-To: bob.smith@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by recipient.mailserver.com with ESMTP id ABC123DEF
+    for <bob.smith@example.com>; Tue,  5 Oct 2021 09:15:02 -0400 (EDT)
+Subject: Team Lunch on Wednesday, October 13
+From: "Alice Johnson" <alice.johnson@example.com>
+To: "Bob Smith" <bob.smith@example.com>
+Date: Tue,  5 Oct 2021 09:15:00 -0400
+Message-ID: <20211005091500.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to see if you’re available for a team lunch next Wednesday, October 13th, at 12:30 PM. A few of us are planning to try the new Italian place downtown, La Festa, since they’ve got great reviews and a relaxed atmosphere.
+
+Please let me know if that works for you or if you have other restaurant suggestions. It would be great to catch up outside of the office.
+
+Thanks, and have a great day!
+
+Best,
+Alice

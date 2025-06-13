@@ -1,0 +1,20 @@
+From alice@example.org Wed Jul 14 09:32:10 2021
+Return-Path: <alice@example.org>
+Received: by mail.example.org (Postfix) id ABC123DEF4; Wed, 14 Jul 2021 09:32:10 -0400 (EDT)
+Date: Wed, 14 Jul 2021 09:32:10 -0400
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.com>
+Subject: Lunchtime Book Club
+Message-ID: <20210714133210.abcdef1234@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. This is just a quick note about the lunchtime book club meeting tomorrow at noon in the break room. We'll be discussing "The Martian" by Andy Weir, and I'd love to hear your thoughts on the chapter where Mark tries to grow potatoes in his habitat. Feel free to bring your lunch and any questions or comments.
+
+Looking forward to seeing you there!
+
+Best regards,
+Alice

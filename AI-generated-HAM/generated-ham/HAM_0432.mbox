@@ -1,0 +1,28 @@
+From user@example.com Sat Oct 07 12:34:56 2023
+Return-Path: <user@example.com>
+Delivered-To: recipient@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by recipient.example.org with ESMTP id ABC12345
+    for <recipient@example.org>; Sat, 07 Oct 2023 12:34:56 -0400 (EDT)
+Subject: Weekend Get-Together
+From: "Alice Johnson" <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.org>
+Date: Sat, 07 Oct 2023 12:34:56 -0400
+Message-ID: <CAFed2ek4J2xxx@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to see if you'd like to join us for a small get-together at my place this Saturday evening. We're planning a casual potluck with a few friends: Emily, Carlos, and Jenna.
+
+Feel free to bring any dish you'd like—homemade or from your favorite bakery. We'll have drinks, some board games, and a playlist of everyone's favorite tunes. The plan is to start around 6:00 PM and go until about 10:00 PM.
+
+Let me know if you can make it, and if there's something special you'd like to bring or if you have any dietary restrictions we should keep in mind.
+
+Looking forward to catching up!
+
+Best,
+Alice Johnson
+alice.johnson@example.com

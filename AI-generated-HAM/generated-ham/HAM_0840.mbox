@@ -1,0 +1,33 @@
+From alice@example.com Wed Jun 19 09:23:47 2024
+Return-path: <alice@example.com>
+Delivered-To: bob@example.net
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.net with ESMTP id ABC12345
+    for <bob@example.net>; Wed, 19 Jun 2024 09:23:47 -0400 (EDT)
+Message-ID: <20240619092347.abc123@mail.example.com>
+Date: Wed, 19 Jun 2024 09:23:47 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.net>
+Subject: Summer Picnic and Potluck
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! Just a quick reminder about the company-wide summer picnic next Saturday, June 29th, at Lakeside Park. We'll start around noon, and we'll have games, music, and plenty of food.
+
+It's a potluck, so feel free to bring your favorite dish. Some ideas:
+- Grilled chicken or veggie skewers
+- Pasta salad
+- Fresh fruit platter
+- Homemade cookies or brownies
+
+Remember to bring a blanket or lawn chair for seating. The weather forecast looks sunny and warm.
+
+RSVP if you haven't already, so we know how many people to expect. Let me know what dish you're planning to bring, and I'll update the list to avoid duplicates.
+
+Looking forward to seeing you there!
+
+Best regards,
+Alice Johnson

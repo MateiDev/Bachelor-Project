@@ -1,0 +1,31 @@
+From alice@example.com Wed Sep  8 12:34:56 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id abc123; Wed, 8 Sep 2021 12:34:56 -0400 (EDT)
+Received: from [198.51.100.2] (unknown [198.51.100.2]) by mail.example.com with ESMTPSA id def456; Wed, 8 Sep 2021 12:34:55 -0400 (EDT)
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Summer picnic planning
+Date: Wed,  8 Sep 2021 12:34:55 -0400
+Message-ID: <CAF12345@example.com>
+
+Hi Bob,
+
+I hope you’re doing well. With the warmer weather upon us, I thought it would be great to organize a team picnic next month. Here are a few details I’m proposing:
+
+Date: Saturday, October 2nd  
+Time: 11:00 AM – 3:00 PM  
+Location: Riverside Park, Pavilion 4
+
+I’m planning to bring sandwiches, fruit trays, and soft drinks. It would be wonderful if everyone could bring a side dish or dessert to share. Could you let me know by next Friday if you’re available to join? If you have any dietary restrictions or other suggestions—like games or music playlists—just reply and I’ll make sure to include them.
+
+Looking forward to your thoughts!
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Coordinator
+Example Corporation
+alice@example.com
+(555) 123-4567

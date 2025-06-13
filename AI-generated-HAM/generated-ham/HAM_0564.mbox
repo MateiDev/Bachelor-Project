@@ -1,0 +1,35 @@
+From alice.johnson@example.com Wed Apr 12 09:15:00 2023
+Return-Path: <alice.johnson@example.com>
+Delivered-To: staff@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+    by mx.example.com with ESMTP id ABC123DEF
+    for <staff@example.com>; Wed, 12 Apr 2023 09:15:02 -0500 (CDT)
+Date: Wed, 12 Apr 2023 09:15:00 -0500
+From: Alice Johnson <alice.johnson@example.com>
+To: All Staff <staff@example.com>
+Message-ID: <20230412091500.1A2B3C@example.com>
+Subject: Reminder: Team Lunch This Friday at Noon
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello everyone,
+
+Just a friendly reminder that we have our monthly team lunch this Friday, April 14th, at 12:00 PM in the conference room B. The company will be catering sandwiches, salads, and beverages. Please let me know by Thursday end of day if you have any dietary restrictions or special requests.
+
+Agenda for the lunch:
+- Welcome and introductions for new team members
+- Quick project updates
+- Open discussion and Q&A
+- Team building activity
+
+Looking forward to seeing you all there! If you have any questions or need to adjust the timing, feel free to reach out.
+
+Best regards,
+Alice
+
+--
+Alice Johnson
+Product Manager, Acme Corp
+Phone: (555) 123-4567
+Email: alice.johnson@example.com

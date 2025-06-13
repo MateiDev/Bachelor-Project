@@ -1,0 +1,18 @@
+From alice@example.org Sat Jul 15 12:34:56 2023
+Message-ID: <20230715123456.ABC123@example.org>
+Date: Sat, 15 Jul 2023 12:34:56 +0000
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.com>
+Subject: Lunch and hiking this Saturday?
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+It's been a while! I was thinking we could catch up this Saturday. The weather forecast looks great for a hike at Blue Ridge Trail, followed by lunch at the new café downtown.
+
+Let me know if you're interested and what time works for you. Looking forward to catching up!
+
+Best,
+Alice

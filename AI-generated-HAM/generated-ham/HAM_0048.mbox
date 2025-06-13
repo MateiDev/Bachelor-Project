@@ -1,0 +1,29 @@
+From alice@example.com Sat May 14 09:15:27 2022
+Return-Path: <alice@example.com>
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Project Update and Upcoming Meeting
+Date: Sat, 14 May 2022 09:15:27 -0400
+Message-ID: <20220514091527.12345.alice@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to share a quick update on the Orion project:
+
+  * We’ve completed the initial wireframes for the dashboard.
+  * The backend API is 60% implemented; authentication and data endpoints are functional.
+  * UX testing is scheduled for Tuesday morning; I’ll send out calendar invites later today.
+
+Could we meet next Monday at 10:00 AM to review the wireframes and discuss next steps? Please let me know if that time works for you or if you’d prefer a different slot.
+
+Thanks,
+Alice
+
+-- 
+Alice Johnson
+Product Manager, Stellar Innovations
+alice@example.com
+(555) 123-4567

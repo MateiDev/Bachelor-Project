@@ -1,0 +1,22 @@
+From alice@example.org Fri Jan 06 14:35:00 2023
+Return-Path: <alice@example.org>
+Delivered-To: bob@example.org
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.org>
+Subject: Quarterly Team Lunch Reminder
+Date: Fri, 06 Jan 2023 14:35:00 -0500
+Message-ID: <20230106143500.12345@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a friendly reminder that our quarterly team lunch is scheduled for next Friday, January 13th, at 12:30 PM in the office cafeteria. The company will be providing sandwiches, salads, and drinks, but you’re welcome to bring any special dietary items if you prefer.
+
+Please let me know by end of day Wednesday if you have any dietary restrictions or if you cannot attend.
+
+Looking forward to catching up with everyone!
+
+Best regards,
+Alice Johnson

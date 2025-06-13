@@ -1,0 +1,25 @@
+From alice@company.com Wed Jun 12 10:15:30 2024
+Return-Path: <alice@company.com>
+Received: from mail.company.com (mail.company.com [192.0.2.10])
+    by mail.company.com (Postfix) with ESMTPS id 123ABCDEF
+    for <team@company.com>; Wed, 12 Jun 2024 10:15:30 -0400 (EDT)
+Date: Wed, 12 Jun 2024 10:15:30 -0400
+From: Alice Johnson <alice@company.com>
+To: Team <team@company.com>
+Subject: Monthly Team Lunch
+Message-ID: <001a114f-7c8b-4a8f-a0a0-1234567890ab@company.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone is doing well. As we approach the middle of the month, I'd like to schedule our next monthly team lunch.
+Please let me know your availability next week so we can pick a date that works for everyone.
+If you have any dietary restrictions or restaurant suggestions, feel free to share them.
+
+Looking forward to catching up and enjoying a meal together.
+
+Best regards,
+Alice Johnson
+alice@company.com

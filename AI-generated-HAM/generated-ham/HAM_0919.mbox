@@ -1,0 +1,32 @@
+From alice@example.com Tue Jun 11 11:30:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com with SMTP id v11csp1234567
+	for <bob@example.com>; Tue, 11 Jun 2024 11:30:02 -0700 (PDT)
+Received: from mail-out.example.com (mail-out.example.com. [198.51.100.23])
+	by smtp.gmail.com with ESMTPS id abcdefghijklmnop
+	for <bob@example.com>
+	(version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+	Tue, 11 Jun 2024 11:30:01 -0700 (PDT)
+Message-ID: <CAMj+xx0Z+sample+random@example.com>
+Date: Tue, 11 Jun 2024 11:30:00 -0700
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Lunch Reminder
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a friendly reminder about our monthly team lunch tomorrow at 12:30 PM.
+We’ll meet at The Green Leaf Cafe in Building 5. It’ll be a great chance to
+catch up with the team and discuss upcoming projects in a relaxed setting.
+
+If you have any dietary preferences or need to adjust the time, let me know
+by end of day today.
+
+See you there!
+
+Best,
+Alice

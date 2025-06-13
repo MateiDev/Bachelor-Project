@@ -1,0 +1,29 @@
+From alice@example.com Fri Jul  5 12:34:56 2024
+Date: Fri, 05 Jul 2024 12:34:56 -0400
+From: Alice Johnson <alice@example.com>
+To: Project Team <team@example.com>
+Subject: Weekly Project Update
+Message-ID: <20240705123456.abcdef@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Team,
+
+I hope everyone had a productive week. Here are a few updates and reminders:
+
+1. The design mockups for Module A have been completed and are available in the shared drive (Designs/ModuleA).
+2. QA testing for Module B is scheduled to begin next Monday. Please ensure all test cases are prepared by Friday.
+3. We will have our regular stand-up meeting on Monday at 10:00 AM in Conference Room B.
+4. If you have any blocking issues or need assistance, feel free to reach out before the end of the day Thursday.
+
+Thank you all for your hard work. Let’s keep up the momentum!
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Product Manager
+Example Corp
+alice@example.com
+(555) 123-4567

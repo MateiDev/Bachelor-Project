@@ -1,0 +1,35 @@
+From alice@example.com Sat Jun 15 15:30:45 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+    by mx.example.org with ESMTP id abcd1234
+    for <bob@example.com>; Sat, 15 Jun 2024 15:30:45 -0400 (EDT)
+To: bob@example.com
+From: Alice Johnson <alice@example.com>
+Subject: Monthly Team Meeting Agenda
+Date: Sat, 15 Jun 2024 15:30:45 -0400
+Message-ID: <20240615153045.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well. Here’s the agenda for our monthly team meeting scheduled on Monday:
+
+1. Project updates from each team member
+2. Review of last month’s action items
+3. New feature proposals
+4. Timeline adjustments and resource allocation
+5. Open discussion / Q&A
+
+Please let me know if you’d like to add any topics or adjust the order. The meeting will be held in Conference Room B at 10:00 AM and via our usual video link.
+
+Looking forward to your input.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Product Manager | Example Corp
+alice@example.com | +1 (555) 123-4567

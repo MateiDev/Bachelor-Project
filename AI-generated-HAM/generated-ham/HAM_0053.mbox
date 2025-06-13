@@ -1,0 +1,30 @@
+From alice@example.com Thu Jul 18 14:35:21 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbox.example.com with ESMTP id abc123
+    for <bob@example.com>; Thu, 18 Jul 2024 14:35:21 +0000 (UTC)
+Message-ID: <20240718143521.abc123@mail.example.com>
+Date: Thu, 18 Jul 2024 14:35:21 +0000
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Planning for the Summer Team Outing
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. As we discussed in our last meeting, it's time to start planning our summer team outing.
+
+Here are a few ideas:
+- A picnic at Lakeside Park, with a short hike nearby
+- A visit to the city botanical garden, followed by lunch at the café
+- An afternoon bowling session and pizza in town
+
+Please let me know which option you prefer, or if you have any other suggestions. Once we finalize the plan, I'll send out a calendar invite to the entire team.
+
+Thanks, and looking forward to your input!
+
+Best regards,
+Alice Johnson

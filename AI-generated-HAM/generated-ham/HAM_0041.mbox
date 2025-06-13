@@ -1,0 +1,27 @@
+From alice@example.com Mon Jan 01 12:34:56 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com by mx.example.org with ESMTP id 12345;
+  Mon,  1 Jan 2024 12:34:56 -0500 (EST)
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Weekend Hiking Trip
+Date: Mon, 1 Jan 2024 12:34:56 -0500
+Message-ID: <20240101123456.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to follow up on our conversation about planning a weekend hike in the Pinecrest Mountains. The weather forecast for Saturday looks clear and mild, so it’s a great opportunity to hit the trails.
+
+Here’s what I’m thinking:
+- Departure: Meet at the trailhead parking lot at 8:00 AM.
+- Route: We can take the North Ridge Loop, which is about 7 miles with moderate elevation gain.
+- Gear: Don’t forget sturdy boots, plenty of water, and snacks. I’ll bring a small first-aid kit and extra layers in case it gets chilly.
+- Lunch: We could stop at Eagle Rock around noon for a picnic. I’ll pack sandwiches and fruit—let me know if you have any dietary preferences or other requests.
+
+Please let me know if that schedule works for you, or if you’d like to adjust anything. Looking forward to a great day outdoors!
+
+Best,
+Alice

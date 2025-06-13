@@ -1,0 +1,18 @@
+From bob@example.com Wed Mar 20 09:15:32 2024
+Delivered-To: alice@example.com
+Received: by mail.example.com with SMTP id abcd1234; Wed, 20 Mar 2024 09:15:31 -0400 (EDT)
+From: Bob Smith <bob@example.com>
+To: Alice Johnson <alice@example.com>
+Subject: Team Lunch This Friday
+Date: Wed, 20 Mar 2024 09:15:30 -0400
+Message-ID: <20240320091530.abcd1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hi Alice,
+
+I hope you're doing well. I'm organizing a team lunch this Friday at noon at The Bistro on Maple Street.
+It would be great if you could join us. Let me know if you have any dietary restrictions or preferences.
+
+Best regards,
+Bob

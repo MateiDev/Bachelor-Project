@@ -1,0 +1,34 @@
+From alice@example.com Fri Jul 26 15:51:20 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id ABC123
+	for <bob@example.com>; Fri, 26 Jul 2024 15:51:20 -0400
+Message-ID: <CAFed1234abcd5678@example.com>
+Date: Fri, 26 Jul 2024 15:51:20 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Lunch and Project Update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to check in about our team lunch next Wednesday at 12:30 PM. The plan is to meet in the lobby and head over to The Green Bistro. Let me know if that works for you or if you'd prefer a different spot.
+
+Also, I've updated the draft of the Q3 project report. You can review it at the internal site:
+
+http://intranet.example.com/docs/project-update
+
+Feel free to leave comments or suggest changes by EOD Monday. We're aiming to finalize the document before the leadership meeting on Thursday.
+
+Thanks, and looking forward to catching up over lunch.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Coordinator
+Example Corp
+alice@example.com | +1 (555) 123-4567

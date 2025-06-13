@@ -1,0 +1,39 @@
+From alice@example.com Wed Nov  1 09:15:42 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id abc123
+    for <bob@example.com>; Wed,  1 Nov 2023 09:15:42 -0400 (EDT)
+Date: Wed, 01 Nov 2023 09:15:42 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip Details
+Message-ID: <20231101091542.CAFGLjpoi1234abcd@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I'm writing to confirm the details for our weekend hiking trip.
+
+Date: Saturday, November 4th
+Meeting Time: 7:30 AM
+Meeting Place: Main parking lot at Pine Ridge Trailhead
+Expected Return: Around 5:00 PM
+
+Trail Difficulty: Moderate (about 8 miles round trip, with some elevation gain)
+What to Bring:
+- Sturdy hiking boots
+- Water bottle or hydration pack (at least 2 liters)
+- Snacks or a packed lunch
+- Weather-appropriate layers (it may be chilly in the morning)
+- Sunscreen and sunglasses
+- Small first-aid kit
+
+I'll bring a lightweight camp stove to make hot cocoa at the summit. If you have any dietary preferences, let me know so I can pack something suitable. Also, feel free to bring a camera if you’d like—I've heard the view of the valley is especially beautiful at this time of year.
+
+Please reply if you need to adjust the meeting time or if you have any questions. Looking forward to hitting the trails together!
+
+Best,
+Alice

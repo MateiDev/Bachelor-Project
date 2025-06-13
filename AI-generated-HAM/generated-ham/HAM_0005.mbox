@@ -1,0 +1,22 @@
+From alice@example.com Fri Jul 16 08:30:00 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id abc123
+	for <bob@example.com>; Fri, 16 Jul 2021 08:30:00 -0400 (EDT)
+From: "Alice Smith" <alice@example.com>
+To: "Bob Johnson" <bob@example.com>
+Subject: Weekend Barbecue Plans
+Date: Fri, 16 Jul 2021 08:30:00 -0400
+Message-ID: <20210716083000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I’m planning a barbecue this Saturday at my place and would love for you to join. I’m thinking of firing up the grill around 4 PM, and it’ll be a casual get-together with some friends from work. I’ll be grilling chicken, veggies, and making my famous potato salad. Feel free to bring anything you’d like, maybe a side dish or some drinks.
+
+Let me know if you can make it. The backyard is all set up with some foldable chairs and a small table. If the weather’s nice, we can even play some corn hole or frisbee. Hope to see you there!
+
+Best,
+Alice

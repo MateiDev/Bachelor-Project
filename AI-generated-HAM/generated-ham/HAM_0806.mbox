@@ -1,0 +1,43 @@
+From alice.smith@example.com Fri Jul 09 08:15:00 2021
+Return-Path: <alice.smith@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by receiver.example.net with ESMTP id ABC123
+    for <team@example.net>; Fri, 9 Jul 2021 08:15:01 -0400 (EDT)
+From: Alice Smith <alice.smith@example.com>
+To: Team Members <team@example.net>
+Subject: Summer Picnic Planning Meeting
+Date: Fri, 9 Jul 2021 08:15:00 -0400
+Message-ID: <20210709081500.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone is doing well. It's time to finalize the details for our annual summer picnic. Please see the proposed agenda below:
+
+1. Date and time confirmation
+2. Venue selection and reservations
+3. Menu planning (dietary restrictions, potluck assignments)
+4. Activities and games
+5. Budget review
+6. Volunteer roles and responsibilities
+
+Could you reply with your availability on the following dates?
+- Saturday, July 24
+- Saturday, July 31
+- Sunday, August 8
+
+Also, let me know if you have any special requests for activities or menu items. I’ll compile everyone’s input and schedule a brief planning call next week.
+
+Thanks for your input and enthusiasm. Looking forward to a fun team outing!
+
+Best regards,
+Alice
+
+-- 
+Alice Smith
+Project Coordinator
+Example Inc.
+alice.smith@example.com
+(555) 123-4567

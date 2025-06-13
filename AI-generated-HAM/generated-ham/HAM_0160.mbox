@@ -1,0 +1,28 @@
+From alice@example.com Fri Jul 28 10:15:42 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id m1234567890
+    for <bob@example.org>; Fri, 28 Jul 2023 10:15:42 -0400 (EDT)
+Date: Fri, 28 Jul 2023 10:15:42 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Hiking Trip Plans
+Message-ID: <20230728141542.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well. Just wanted to touch base about our hiking trip this weekend. The weather forecast looks great for Saturday, with sunny skies and temperatures in the mid-70s. I suggest we meet at the trailhead at 9:00 AM. Here's the plan:
+
+- Bring plenty of water and snacks.
+- Pack layers, as it may get cooler in the morning.
+- Don't forget your hiking boots and sunscreen.
+- We can take the Lakeview Loop trail, which is about 6 miles.
+
+Let me know if this works for you or if you'd prefer a different time or trail. Looking forward to catching up and enjoying the outdoors together!
+
+Best,
+Alice

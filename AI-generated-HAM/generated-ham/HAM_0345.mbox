@@ -1,0 +1,32 @@
+From test.sender@example.com Tue Mar 14 09:00:00 2023
+Return-Path: <test.sender@example.com>
+Delivered-To: user@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.example.com with ESMTP id abc123xyz
+    for <user@example.com>; Tue, 14 Mar 2023 09:00:00 -0500 (EST)
+Subject: Team Picnic Plans
+To: user@example.com
+From: "Alice Johnson" <test.sender@example.com>
+Date: Tue, 14 Mar 2023 09:00:00 -0500
+Message-ID: <20230314090000.abc123xyz@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi everyone,
+
+I hope you're all doing well. With spring finally here, I thought it would be great to organize a team picnic next Saturday, March 25th, at Riverside Park. It’ll be a casual gathering—feel free to bring any games, snacks, or musical instruments you like.
+
+Here’s the plan:
+- Date: Saturday, March 25th
+- Time: 11:00 AM to 3:00 PM
+- Location: Riverside Park, Shelter #4
+- What to bring: A dish or snack to share (optional), sunscreen, and a blanket or chair.
+
+Please let me know by Wednesday if you can make it, and if you’d like to volunteer to bring drinks or help with setup. Looking forward to a fun afternoon outdoors!
+
+Best,
+Alice Johnson
+Event Coordinator
+Example Corporation
+alice.johnson@example.com

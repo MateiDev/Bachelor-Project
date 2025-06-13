@@ -1,0 +1,25 @@
+From alice@example.com Tue Sep 12 14:23:45 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ABC123 for <bob@example.org>; Tue, 12 Sep 2023 14:23:45 -0400 (EDT)
+Date: Tue, 12 Sep 2023 14:23:45 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Project Update and Next Steps
+Message-ID: <CAJ+9N=abc123mail@localhost>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Bob,
+
+I hope you had a great weekend! I wanted to share a quick update on the marketing dashboard project. Over the past week, I completed the data integration phase and refined the visualization layout. The dashboard now displays real-time metrics for web traffic, conversion rates, and social media engagement.
+
+Next steps:
+- Finalize color scheme and chart labels by Wednesday.
+- Run a usability test with the design team on Thursday afternoon.
+- Prepare a short demo for the stakeholders on Friday.
+
+Let me know if you have any feedback or if you’d like to add other metrics to the report. I’ll also schedule a brief call tomorrow at 11 AM to go over any questions you may have.
+
+Thanks,
+Alice

@@ -1,0 +1,24 @@
+From alice@example.com Tue Oct 10 09:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTPS id ABC123XYZ
+    for <bob@example.org>; Tue, 10 Oct 2023 09:15:00 -0400 (EDT)
+Date: Tue, 10 Oct 2023 09:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Monthly Book Club Lunch
+Message-ID: <0abcd1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Hope you're doing well! Just a quick note to remind you about our monthly book club lunch next Thursday at 12:30 PM. We'll be meeting at The Corner Café on Maple Street. They've added a few new vegetarian options to the menu that I think you'll enjoy.
+
+Feel free to bring the latest book you've finished if you'd like to share some thoughts with the group. This month, we're focusing on short stories, so even if you only have a favorite author or two, that's perfect.
+
+Let me know if you need a ride or if anything changes. Looking forward to catching up!
+
+Best,
+Alice

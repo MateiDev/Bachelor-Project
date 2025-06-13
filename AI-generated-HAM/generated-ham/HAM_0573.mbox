@@ -1,0 +1,24 @@
+From sender@example.com Mon Jan  1 00:00:00 2021
+Return-Path: <sender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbound.example.com with ESMTP id ABC123
+    for <recipient@example.com>; Mon,  1 Jan 2021 00:00:00 +0000 (UTC)
+Date: Mon,  1 Jan 2021 00:00:00 +0000
+From: "Alice Smith" <sender@example.com>
+To: "Bob Johnson" <recipient@example.com>
+Subject: Monthly Team Meeting Reminder
+Message-ID: <20210101000000.ABC123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Bob,
+
+Just a friendly reminder that our monthly team meeting is scheduled for
+Wednesday, January 6th at 10:00 AM in conference room B. We'll be reviewing
+the Q4 performance metrics and outlining our objectives for Q1. Please let
+me know if you'd like to add any agenda items.
+
+Looking forward to catching up with everyone!
+
+Best regards,
+Alice

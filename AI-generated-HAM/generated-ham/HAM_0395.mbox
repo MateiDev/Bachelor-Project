@@ -1,0 +1,20 @@
+From alice@example.com Tue Sep 12 08:30:00 2023
+Date: Tue, 12 Sep 2023 08:30:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.net>
+Subject: Team Lunch on Thursday
+Message-ID: <20230912083000.A1C2D3@localhost>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. Just a quick reminder that our team lunch is scheduled for this Thursday at 12:30 PM at The Garden Bistro. We've reserved a table for 10, so if you know anyone else on the team who'd like to join, please let me know by Wednesday afternoon.
+
+Also, if you have any dietary restrictions or preferences, drop me a note and I'll make sure the restaurant can accommodate everyone.
+
+Looking forward to catching up outside the office!
+
+Best,
+Alice

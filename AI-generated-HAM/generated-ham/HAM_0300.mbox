@@ -1,0 +1,29 @@
+From alice@example.org Mon Jul 24 09:15:00 2023
+Return-Path: <alice@example.org>
+Received: from mail.example.org (mail.example.org [192.0.2.1]) by mx.example.com with ESMTP id abc123 for <bob@example.com>; Mon, 24 Jul 2023 09:15:00 -0400 (EDT)
+Date: Mon, 24 Jul 2023 09:15:00 -0400
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip Reminder
+Message-ID: <20230724091500.abc123@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a friendly reminder about our upcoming weekend hiking trip to Bear Mountain this Saturday. Here's the plan:
+
+- Departure: 7:30 AM from my place (123 Oak Street).
+- Estimated return: around 6:00 PM.
+- What to bring:
+  * Comfortable hiking shoes
+  * Water bottle (at least 1 liter)
+  * Snacks/lunch
+  * Light rain jacket
+  * Sunscreen and sunglasses
+
+Let me know if you need a ride or have any questions. Looking forward to spending the day outdoors with you!
+
+Cheers,
+Alice Johnson

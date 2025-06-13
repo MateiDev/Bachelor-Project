@@ -1,0 +1,30 @@
+From alice@example.com Mon Jul 22 09:15:30 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id 12345ABCD
+    for <team@example.com>; Mon, 22 Jul 2024 09:15:30 -0400
+Message-ID: <20240722091530.alice@example.com>
+Date: Mon, 22 Jul 2024 09:15:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Team <team@example.com>
+Subject: Weekly Team Update
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+Here is the roundup of our progress this week:
+
+- Project Alpha: We completed the user interface mockups and received feedback from the product team. Next steps are to implement the approved designs by end of next week.
+- Project Beta: The development team has resolved five critical bugs. QA testing will begin tomorrow.
+- Documentation: The new API guidelines have been published on the internal wiki. Please review and add any comments by Friday.
+
+Upcoming dates:
+* Demo for stakeholders: Wednesday, July 24 at 2:00 PM in Conference Room B
+* Team social event: Friday, July 26 at 6:30 PM at The Garden Terrace
+
+Please let me know if you have any questions or need assistance with your tasks.
+
+Best regards,
+Alice

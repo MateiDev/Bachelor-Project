@@ -1,0 +1,18 @@
+From alice@example.com Fri Jul 12 09:30:00 2024
+Date: Fri, 12 Jul 2024 09:30:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Reminder: Quarterly Team Lunch Tomorrow
+Message-ID: <20240712093000.1.AJ@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+This is a friendly reminder that our quarterly team lunch is scheduled for tomorrow at 12:00 PM in the main conference room. The catering menu includes a variety of sandwiches, fresh salads, and vegetarian options. Please let me know if you have any dietary restrictions or special requests by the end of the day.
+
+Looking forward to catching up with everyone!
+
+Best regards,
+Alice Johnson

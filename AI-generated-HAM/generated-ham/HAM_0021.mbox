@@ -1,0 +1,26 @@
+From alice@example.com Thu Oct 05 09:17:45 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by smtp.example.com with ESMTPS id ABC123DEF45 for <bob@example.com>; Thu, 05 Oct 2023 09:17:45 -0400 (EDT)
+Date: Thu, 05 Oct 2023 09:17:45 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Book Club Meeting Agenda
+Message-ID: <20231005091745.1b2c3d4e@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well! Our book club meeting is scheduled for this Saturday at 3:00 PM at the downtown library conference room. Here's the agenda:
+
+1. Welcome and introductions
+2. Discussion of "The Midnight Library" by Matt Haig
+3. Snack and coffee break (bring your favorite snack)
+4. Brainstorming sessions for next month's book choices
+5. Wrap-up and reminders
+
+Please let me know if you have any items to add to the agenda or if you'll need to dial in remotely. Looking forward to seeing you there!
+
+Best regards,
+Alice

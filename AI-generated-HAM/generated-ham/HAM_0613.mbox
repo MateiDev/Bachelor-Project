@@ -1,0 +1,31 @@
+From alice@example.com Wed Jul 12 08:15:30 2023
+Message-ID: <20230712081530.12345678@example.com>
+Date: Wed, 12 Jul 2023 08:15:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Team Mailing List <team@example.com>
+Subject: Office Potluck Reminder
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+Just a friendly reminder that our office potluck is coming up next Friday, July 21st, at noon in the break room. Here’s what’s on the list so far:
+
+- Main dishes: 5  
+- Side dishes: 4  
+- Desserts: 3  
+- Drinks: 6  
+
+If you haven’t signed up yet, please reply to this email with what you’d like to bring so we can balance the menu. Don’t worry if you’re not a chef—store-bought items are absolutely fine!
+
+Looking forward to seeing everyone and enjoying some delicious food together. Feel free to drop by anytime after 11:30 AM to help set up.
+
+Best regards,
+Alice
+
+Alice Johnson  
+Office Coordinator  
+ExampleCorp  
+alice@example.com  
+(555) 123-4567

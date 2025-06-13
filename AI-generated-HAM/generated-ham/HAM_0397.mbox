@@ -1,0 +1,24 @@
+From jane.doe@example.com Fri Jul 21 12:34:56 2023
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+    by mx.example.org with ESMTPS id ABC1234
+    for <john.smith@example.org>; Fri, 21 Jul 2023 12:34:56 -0400 (EDT)
+Date: Fri, 21 Jul 2023 12:34:56 -0400
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.org>
+Subject: Weekend Hike Plans
+Message-ID: <CALq=12345abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+I hope you're doing well. I wanted to check in about our plans for the weekend hike. The weather forecast for Saturday looks great—sunny with temperatures in the mid-70s. I was thinking we could meet at the trailhead at 9:00 AM. That should give us plenty of time to complete the 6-mile loop before noon.
+
+I also packed sandwiches, fruit, and plenty of water. Feel free to bring any snacks or drinks you like. If you’d like to carpool, I can pick you up at your place around 8:15 AM. Just let me know what works best.
+
+Looking forward to seeing you and enjoying some time in the outdoors!
+
+Best,
+Jane Doe

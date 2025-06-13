@@ -1,0 +1,24 @@
+From alice@example.com Fri Jul 12 11:35:26 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+    by bob.example.net with ESMTP id ABC123XYZ
+    for <bob@example.net>; Fri, 12 Jul 2024 11:35:26 -0400 (EDT)
+From: Alice <alice@example.com>
+To: Bob <bob@example.net>
+Subject: Weekend Hiking Trip
+Date: Fri, 12 Jul 2024 11:35:25 -0400
+Message-ID: <CAf9jxD_1b2c3e4f5g6h7i8j9k@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about our weekend hiking trip. The weather forecast looks fantastic—sunny with mild temperatures. I’ve checked the trail conditions, and the Riverside Loop should be clear of obstructions.
+
+I’m planning to start early on Saturday around 8:00 AM, meeting at the trailhead parking lot. I’ll bring extra bottled water, snacks, and a basic first-aid kit. Feel free to pack your usual gear: sturdy shoes, a light jacket, sunscreen, and your camera if you’d like to capture any scenic views.
+
+Let me know if that schedule works for you or if you’d prefer a different meeting time. Looking forward to catching up on the trail!
+
+Best,
+Alice

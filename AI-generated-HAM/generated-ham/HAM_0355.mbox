@@ -1,0 +1,21 @@
+From alice.johnson@example.com Thu Jun 20 09:15:00 2024
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mbox.example.com with ESMTP id 123ABCDEF
+    for <bob.smith@example.com>; Thu, 20 Jun 2024 09:15:02 -0400 (EDT)
+Date: Thu, 20 Jun 2024 09:15:00 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Quick Catch-Up Over Lunch?
+Message-ID: <20240620091500.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you’re doing well! I wanted to see if you’d be interested in grabbing lunch this Thursday around 12:30 PM. There’s a new café on Main Street that just opened, and I’ve heard good things about their paninis. It would be great to catch up and chat about the upcoming project milestones.
+
+Let me know if that works for you or if another time is better. Looking forward to it!
+
+Best,
+Alice

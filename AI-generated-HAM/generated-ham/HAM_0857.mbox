@@ -1,0 +1,28 @@
+From alice@example.com Fri Jul 12 09:15:23 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob.smith@example.com
+Received: by mail.example.com with SMTP id abc123; Fri, 12 Jul 2024 09:15:23 -0400 (EDT)
+Received: from mailout.example.com (mailout.example.com [192.0.2.10]) by mail.example.com with ESMTPS id def456 for <bob.smith@example.com>; Fri, 12 Jul 2024 09:15:22 -0400 (EDT)
+Date: Fri, 12 Jul 2024 09:15:23 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Project Update and Next Steps
+Message-ID: <20240712091523.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you had a great week. I wanted to share a quick update on the Apollo project:
+
+1. Design phase is now complete, and all mockups have been approved by the UX team.
+2. Development has started and we anticipate finishing the core modules by next Wednesday.
+3. I've scheduled a review meeting for Monday at 10:00 AM in the main conference room to go over progress and assign the next set of tasks.
+
+Could you please confirm if this time works for you? Also, let me know if there’s anything specific you’d like us to cover during the meeting.
+
+Thanks for your help and looking forward to our discussion.
+
+Best regards,
+Alice

@@ -1,0 +1,29 @@
+From alice@example.com Thu Aug  1 12:34:56 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+    by mx.example.org with ESMTP id ABC12345
+    for <bob@example.net>; Thu,  1 Aug 2024 12:34:56 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.net>
+Subject: Draft of Q3 Project Plan
+Message-ID: <20240801123456.ABC12345@mail.example.com>
+Date: Thu, 1 Aug 2024 12:34:56 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you had a great weekend! I've completed the first draft of the Q3 project plan, including timelines, resource allocation, and key milestones. Please review the outline below:
+
+- Timeline: July 15 to September 30
+- Resource allocation: marketing team for the first phase, support from development for integration
+- Milestones:
+  1. Submit initial review by August 5
+  2. Complete user testing by August 20
+  3. Finalize documentation by September 15
+
+Let me know if you'd like me to adjust any details or if you have additional feedback. I'll be happy to set up a meeting to discuss further.
+
+Thanks,
+Alice

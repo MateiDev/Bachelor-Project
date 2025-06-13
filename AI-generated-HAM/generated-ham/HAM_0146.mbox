@@ -1,0 +1,22 @@
+From jane.doe@example.com Fri Jul  5 14:28:32 2024
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.4]) by smtp.example.com with ESMTPS id abc123 for <john.smith@example.com>; Fri, 5 Jul 2024 14:28:32 -0400 (EDT)
+Date: Fri, 5 Jul 2024 14:28:32 -0400
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Monthly Team Picnic
+Message-ID: <CAF1234abcd1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello John,
+
+I hope you're doing well. I wanted to remind you that our monthly team picnic is scheduled for next Friday, July 12th, at Riverside Park starting at 11:30 AM. We'll have lunch, games, and plenty of time to catch up outside the office.
+
+If you have any dietary restrictions or game ideas, please let me know by Tuesday so I can make arrangements accordingly.
+
+Looking forward to a fun afternoon with the team!
+
+Best regards,
+Jane

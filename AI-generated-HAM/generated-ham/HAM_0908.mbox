@@ -1,0 +1,29 @@
+From alice@example.com Fri Dec 01 09:15:23 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id abc123
+	for <team@example.com>; Fri, 1 Dec 2023 09:15:23 -0500 (EST)
+Date: Fri, 1 Dec 2023 09:15:23 -0500
+From: Alice Johnson <alice@example.com>
+To: Team <team@example.com>
+Cc: Bob Smith <bob.smith@example.com>
+Subject: Agenda for Monday's Team Meeting
+Message-ID: <20231201091523.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone had a productive week. As a reminder, our weekly team meeting is scheduled for Monday, December 4th at 10:00 AM in Conference Room B. Below is the tentative agenda:
+
+1. Project Alpha status updates
+2. Client feedback review
+3. Upcoming deadlines for Q4 deliverables
+4. Resource allocation and task assignments
+5. Open discussion / Q&A
+
+Please review your tasks and come prepared to share your progress. If you'd like to add any items to the agenda, let me know by end of day Friday.
+
+Thanks,
+Alice

@@ -1,0 +1,23 @@
+From alice@example.com Wed Jul 21 10:35:27 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id abc123
+	for <bob@example.com>; Wed, 21 Jul 2021 10:35:27 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Lunch Plans for Friday
+Date: Wed, 21 Jul 2021 10:35:27 -0400
+Message-ID: <CAFkO+1a2b3c4d5e6f7@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+Are you free for lunch this Friday? I was thinking we could try that new Italian place
+on Oak Street. Let me know what time works for you. Also, I've got some updates on
+the Henderson project that I'd like to discuss.
+
+Looking forward to it!
+
+Best,
+Alice

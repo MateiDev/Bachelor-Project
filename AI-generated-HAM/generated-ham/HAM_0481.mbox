@@ -1,0 +1,36 @@
+From alice@example.com Sat Jul 10 12:34:56 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id abc123xyz
+    for <bob@example.com>; Sat, 10 Jul 2021 12:34:56 -0400 (EDT)
+Date: Sat, 10 Jul 2021 12:34:56 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Team Outing This Friday
+Message-ID: <20210710123456.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! As discussed in our last meeting, we're organizing a casual team outing this Friday after work. Here are the details:
+
+Date: Friday, July 16th  
+Time: 5:30 PM  
+Meeting Point: Lobby of the headquarters building  
+Activity: Bowling and pizza at Kingpin Alley  
+Duration: Approximately 2 hours, followed by optional drinks at The Corner Bar
+
+Please let me know by Wednesday afternoon if you can join so I can confirm the reservation and pizza order. Feel free to suggest any dietary preferences or alternative activities if you have other ideas.
+
+Looking forward to a fun evening with the team!
+
+Best regards,
+Alice
+
+--  
+Alice Smith  
+Senior Project Manager  
+Example Corp  
+alice@example.com | +1 (555) 123-4567

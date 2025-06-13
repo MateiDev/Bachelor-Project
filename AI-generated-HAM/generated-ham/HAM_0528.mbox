@@ -1,0 +1,27 @@
+From test.sender@example.com Wed Oct 25 14:32:00 2023
+Return-Path: <test.sender@example.com>
+Delivered-To: recipient@example.com
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+    by mx.gmail.com with ESMTPS id n6si1234567qkg.199.2023.10.25.14.32.00
+    for <recipient@example.com>; Wed, 25 Oct 2023 14:32:00 -0700 (PDT)
+Date: Wed, 25 Oct 2023 14:32:00 -0700
+From: "Test Sender" <test.sender@example.com>
+To: recipient@example.com
+Subject: Meeting Tomorrow
+Message-ID: <20231025143200.12345.mail@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Team,
+
+I hope you all are doing well. I wanted to remind everyone about our scheduled meeting tomorrow at 10:00 AM in the main conference room. We'll be discussing the upcoming project milestones and assigning responsibilities for the next phase.
+
+Please review the project brief I shared earlier this week and come prepared with any questions or updates. If you have any conflicts with the time, let me know and we can adjust accordingly.
+
+Looking forward to a productive session.
+
+Best regards,
+Test Sender
+Project Manager
+Example Corp.

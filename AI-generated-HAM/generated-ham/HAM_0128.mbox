@@ -1,0 +1,31 @@
+From charlie@example.com Tue Jun 11 09:15:00 2024
+Return-Path: <charlie@example.com>
+Delivered-To: diana@example.org
+Received: from smtp.example.com (smtp.example.com [203.0.113.5])
+	by mail.example.org (Postfix) with ESMTP id 5A2B14CDEF
+	for <diana@example.org>; Tue, 11 Jun 2024 09:14:58 +0000 (UTC)
+Date: Tue, 11 Jun 2024 09:14:58 +0000
+From: Charlie Johnson <charlie@example.com>
+To: Diana King <diana@example.org>
+Subject: Project Kickoff Meeting
+Message-ID: <20240611091458.GA1298@smtp.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Diana,
+
+I hope you're doing well. I wanted to confirm our project kickoff meeting scheduled for Wednesday, June 12th at 3:00 PM in Conference Room B. The agenda will cover:
+
+- Introductions and team roles
+- Project scope and deliverables
+- Timeline and milestones
+- Communication plan
+- Q&A
+
+Please let me know if you need any additional information or if you’d like to adjust the time.
+
+Looking forward to getting started.
+
+Best regards,
+Charlie

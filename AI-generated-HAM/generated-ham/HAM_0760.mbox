@@ -1,0 +1,23 @@
+From simon@example.com Fri Jul 30 09:45:12 2021
+Return-Path: <simon@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ABC123; Fri, 30 Jul 2021 09:45:12 -0400
+From: Simon Parker <simon@example.com>
+To: Emily Johnson <emily.johnson@example.com>
+Subject: Lunch and Project Update
+Date: Fri, 30 Jul 2021 09:44:55 -0400
+Message-ID: <CAF7xg4j=Z0b8=abc123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Emily,
+
+I hope you're doing well. Just wanted to check in about the design document for the Riverside project. I'm planning to review the latest draft over lunch today and would love to get your feedback on a few sections, especially the new workflow diagram you added.
+
+Would you be available to meet in the conference room on the 3rd floor at 12:30 PM? If that doesn't work, let me know and we can grab a coffee and chat instead.
+
+On an unrelated note, the team potluck is next Thursday. Could you bring the salad you mentioned last week? It was a hit last time you made it!
+
+Thanks, and talk soon.
+
+Best,
+Simon

@@ -1,0 +1,21 @@
+From alice@example.com Wed Aug 23 14:55:02 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id ABC123 for <bob@example.com>; Wed, 23 Aug 2023 14:55:02 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Outing This Friday
+Date: Wed, 23 Aug 2023 14:55:02 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to remind you about our team outing this Friday at Riverside Park. We’ll meet at the main entrance at 11:30 AM, and then grab lunch at the picnic area. Feel free to bring any of your favorite board games or a frisbee.
+
+If you have any dietary restrictions or need transportation, let me know so I can make the necessary arrangements. The weather forecast looks clear, but I’ll send an update in case anything changes.
+
+Looking forward to a fun afternoon together!
+
+Best,
+Alice Johnson

@@ -1,0 +1,23 @@
+From alice@example.com Wed Mar 20 14:22:47 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id ABC123XYZ
+	for <bob@example.org>; Wed, 20 Mar 2024 14:22:47 -0400 (EDT)
+Date: Wed, 20 Mar 2024 14:22:35 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Lee <bob@example.org>
+Subject: Planning for the Office Potluck
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to touch base about the office potluck next Friday. I'm planning to bring a pasta salad with fresh basil and cherry tomatoes. Would you be able to bring dessert? Your lemon bars were a huge hit last time.
+
+Also, the catering team needs our final headcount by this Friday, so please let me know if you’ll be attending and if you have any dietary restrictions I should pass along.
+
+Thanks, and I look forward to seeing you there!
+
+Best,
+Alice

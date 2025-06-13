@@ -1,0 +1,22 @@
+From john.doe@example.com Tue Jul 16 14:31:15 2024
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by inbound.example.com with ESMTPS id a1B2c3D4e5 for <jane.smith@example.com>; Tue, 16 Jul 2024 14:31:15 -0400 (EDT)
+Received: by mail.example.com id 12345abcdef; Tue, 16 Jul 2024 18:31:13 +0000 (UTC)
+Message-ID: <CAB123XYZ098@example.com>
+Date: Tue, 16 Jul 2024 14:31:15 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Book Club Meeting Reminder
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Jane,
+
+Just a quick reminder that our monthly book club meeting is coming up this Friday, July 19th at 7:00 PM at my place. We'll be discussing "The Night Circus" by Erin Morgenstern. Snacks and drinks will be provided, but feel free to bring something to share if you'd like.
+
+Also, let me know if you need directions. Looking forward to seeing you and hearing your thoughts on the book!
+
+Best,
+John

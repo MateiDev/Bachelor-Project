@@ -1,0 +1,29 @@
+From alice@example.com Wed Aug 02 15:04:05 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id ABC123
+    Wed, 02 Aug 2023 15:04:05 -0400 (EDT)
+Message-ID: <20230802190405.12345@mail.example.com>
+Date: Wed, 02 Aug 2023 15:04:05 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Lunch Meeting Recap
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Bob,
+
+Thank you for taking the time to meet me for lunch today. It was great to catch up and discuss the upcoming project timeline. Here’s a quick recap of what we covered:
+
+- Project milestones and deadlines
+- Resource allocation and team responsibilities
+- Next steps and action items
+
+I’ll share the detailed meeting notes later this afternoon. Let me know if I’ve missed anything.
+
+Looking forward to our next discussion.
+
+Best regards,
+Alice

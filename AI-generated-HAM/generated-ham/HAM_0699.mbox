@@ -1,0 +1,43 @@
+From alice.johnson@example.com Tue Sep 19 09:15:00 2023
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+    by mx.example.org with ESMTP id ABC123XYZ
+    for <bob.smith@example.com>; Tue, 19 Sep 2023 09:15:00 -0400 (EDT)
+Message-ID: <20230919091500.12345@example.com>
+Date: Tue, 19 Sep 2023 09:15:00 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Project Phoenix Weekly Update
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you had a great weekend. Here’s the weekly update on Project Phoenix:
+
+1. Design Phase
+   - UI mockups for the dashboard are 90% complete.
+   - Feedback from the client call on Friday has been incorporated.
+2. Development
+   - API endpoints for user authentication and profile management are live on the staging server.
+   - Junior developer training session scheduled for Wednesday, 2 PM.
+3. Testing
+   - Automated tests for the user registration flow have a 95% pass rate.
+   - Integration testing begins Thursday.
+
+Action Items:
+- Could you review the UI mockups and send any comments by Wednesday morning?
+- Let me know if you’d like to reschedule the training session.
+
+Thanks, and have a productive week!
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Senior Project Manager
+Example Innovations Inc.
+alice.johnson@example.com
+(555) 123-4567

@@ -1,0 +1,45 @@
+From alice@example.com Thu Mar 21 10:15:30 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.example.com with ESMTP id abc123def
+    for <bob@example.com>; Thu, 21 Mar 2024 10:15:30 -0400
+Date: Thu, 21 Mar 2024 10:15:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip Plans
+Message-ID: <20240321101530.abc123def@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to follow up on our plans for the weekend. Here’s a quick summary:
+
+1. Trail Selection:
+   - We’ll meet at the Pine Ridge Trailhead at 8:00 AM on Saturday.
+   - The weather forecast looks clear and sunny, with temperatures in the mid-60s.
+
+2. Gear Checklist:
+   - Comfortable hiking boots, water bottles, snacks, and a light jacket.
+   - If you have trekking poles, feel free to bring them.
+   - I’ll pack a first-aid kit and extra sunscreen.
+
+3. Carpooling:
+   - Let’s meet at my place (123 Maple Street) by 7:15 AM.
+   - I have room for two more in my car; just let me know if you’re driving separately.
+
+4. Lunch:
+   - We can stop at Creekside Picnic Area around noon.
+   - I’m planning to bring sandwiches, but you’re welcome to contribute if you’d like.
+
+5. Return Time:
+   - We should be back in town by around 4:00 PM.
+   - If anyone needs to head back earlier, just give me a heads-up.
+
+Please let me know if you need any adjustments or have additional ideas. I’m really looking forward to spending the day on the trail with everyone.
+
+Have a great evening, and talk to you soon!
+
+Best regards,
+Alice Johnson

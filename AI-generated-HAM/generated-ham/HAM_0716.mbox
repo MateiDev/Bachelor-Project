@@ -1,0 +1,31 @@
+From alice@example.com Tue Aug  3 12:34:56 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.net
+From: Alice <alice@example.com>
+To: Bob <bob@example.net>
+Subject: Weekend Fishing Trip Plans
+Message-ID: <20230803123456.12345@example.com>
+Date: Tue,  3 Aug 2023 12:34:56 -0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just wanted to touch base about our fishing trip this weekend. The weather forecast
+looks great, with clear skies and mild temperatures. I was thinking we could
+meet at the lake parking lot around 7:00 AM on Saturday morning.
+
+Let me know if that time still works for you. I’ll bring the cooler with
+snacks and drinks, and I can also pack some sandwiches for lunch. If there’s
+anything specific you’d like me to bring, just give me a heads up.
+
+Looking forward to catching up and hopefully reeling in some big ones!
+
+Best,
+Alice
+
+-- 
+Alice Johnson
+Outdoor Enthusiast | Photography Buff
+alice@example.com

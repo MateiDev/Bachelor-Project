@@ -1,0 +1,34 @@
+From alice@example.com Sat Jun  8 14:23:45 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+	by mx.example.org with ESMTP id abc123xyz
+	for <bob@example.com>; Sat,  8 Jun 2024 14:23:45 +0000 (UTC)
+Date: Sat, 8 Jun 2024 14:23:45 +0000
+From: "Alice Johnson" <alice@example.com>
+To: "Bob Martin" <bob@example.com>
+Subject: Upcoming Team Picnic
+Message-ID: <20240608142345.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to remind you about our team picnic next Saturday, June 15th, at Riverside Park. We'll meet by the main pavilion at 11:00 AM. Feel free to bring your family, some outdoor games, and any special snacks you’d like to share.
+
+Here's a quick rundown of the plan:
+- 11:00 AM: Gather at the pavilion
+- 11:30 AM: Lunch and potluck meal
+- 1:00 PM: Frisbee, soccer, and other games
+- 3:00 PM: Short nature walk along the riverside trail
+- 4:00 PM: Wrap up and head home
+
+Let me know if you have any dietary restrictions or if you’d like to help with organizing games. The weather forecast looks sunny and mild, so it should be a great afternoon outdoors.
+
+Looking forward to seeing you there!
+
+Best,
+Alice Johnson
+Team Coordinator
+Example Corp
+alice@example.com

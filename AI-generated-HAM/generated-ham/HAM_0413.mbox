@@ -1,0 +1,26 @@
+From alice@example.com Fri Jul 12 09:15:30 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id abc123
+    for <bob@example.com>; Fri, 12 Jul 2024 09:15:30 -0400 (EDT)
+Message-ID: <CAFy3=jKj49.example@mail.example.com>
+Date: Fri, 12 Jul 2024 09:15:30 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Book Club Meeting Reminder
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a friendly reminder that our monthly book club meeting is coming up next Thursday, July 18th, at 7:00 PM. We'll be discussing "The Midnight Library" by Matt Haig. Please let me know if you have any trouble accessing the meeting location or need a ride.
+
+Feel free to bring any snacks or drinks you'd like to share. Looking forward to seeing you there!
+
+Best,
+Alice Johnson
+Book Club Coordinator
+idgetown Public Library
+123 Main Street, Anytown, USA
+(555) 123-4567

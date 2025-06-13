@@ -1,0 +1,36 @@
+From alice@example.com Fri Oct 15 10:12:34 2021
+Return-Path: <alice@example.com>
+Received: by mail.example.com with SMTP id abc123; Fri, 15 Oct 2021 10:12:34 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Planning our weekend hiking trip
+Date: Fri, 15 Oct 2021 10:12:30 -0400
+Message-ID: <20211015101230.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about our plan for the hiking trip this Saturday. The weather forecast looks great for the West Ridge Trail, with clear skies and a high around 68°F.
+
+Here's a rough itinerary:
+- 8:00 AM: Meet at my place and carpool to the trailhead
+- 9:00 AM: Start the hike
+- 12:30 PM: Reach the summit; break for lunch
+- 3:00 PM: Head back down
+- 5:30 PM: Arrive back at the cars
+
+Let me know if this schedule works for you or if you'd like to adjust the timing. Also, don't forget to pack:
+- Plenty of water (at least 2 liters)
+- Snacks or a packed lunch
+- A light jacket (it can get windy at the top)
+- Sunscreen and sunglasses
+- Your camera if you want to capture the views
+
+I'll bring a first-aid kit and extra trail mix. If you have any other items to add, just let me know.
+
+Looking forward to a fun day outdoors!
+
+Best,
+Alice

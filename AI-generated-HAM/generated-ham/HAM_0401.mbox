@@ -1,0 +1,24 @@
+From alice@example.org Fri Feb 16 11:22:33 2024
+Return-Path: <alice@example.org>
+Received: from mail.example.org (mail.example.org [203.0.113.5])
+    by mx.example.com with ESMTP id y7S3Q1L0
+    for <bob@example.com>; Fri, 16 Feb 2024 11:22:33 -0500 (EST)
+Date: Fri, 16 Feb 2024 11:22:33 -0500
+From: Alice Smith <alice@example.org>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Pancake Brunch
+Message-ID: <20240216162233.2345D9EF@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I was thinking it’s been a while since our last catch-up. Would you be interested in joining me for a pancake brunch this Saturday around 10:00 AM at The Maple Corner Cafe downtown? They have a new blueberry banana pancake special that I think you’d love.
+
+Let me know if that works for you or if you'd prefer a different time. It would be great to catch up and chat about the upcoming hiking trip we mentioned last month.
+
+Looking forward to hearing from you!
+
+Best regards,
+Alice

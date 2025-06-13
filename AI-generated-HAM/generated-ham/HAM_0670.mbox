@@ -1,0 +1,38 @@
+From alice.johnson@example.com Fri Jul 14 12:34:56 2023
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+	by mx.example.org with ESMTP id abc123def
+	for <bob.smith@example.com>; Fri, 14 Jul 2023 12:34:56 -0400 (EDT)
+Message-ID: <20230714123456.abc123@mail.example.com>
+Date: Fri, 14 Jul 2023 12:34:56 -0400
+From: "Alice Johnson" <alice.johnson@example.com>
+To: "Bob Smith" <bob.smith@example.com>
+Subject: Planning Our Weekend Hiking Trip
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about our hiking trip this weekend.
+Here's a quick checklist of things we might need:
+
+- Trail map and compass
+- Plenty of water (at least 2 liters each)
+- Energy bars and snacks
+- First aid kit
+- Weather-appropriate clothing
+- Sunscreen and insect repellent
+
+The forecast looks clear, with temperatures in the mid-70s. We can meet at my place around 8:00 AM on Saturday and carpool out to Pine Ridge Trail. That way we should be on the trail by 9:30 AM.
+
+Let me know if any of those items are a problem or if you have any other suggestions. I'm really looking forward to getting outdoors and catching up!
+
+Best,
+Alice Johnson
+
+-- 
+Alice Johnson
+Hiking Enthusiasts Club
+Email: alice.johnson@example.com
+Phone: (555) 123-4567

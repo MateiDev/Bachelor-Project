@@ -1,0 +1,26 @@
+From alice@example.com Wed Jul 17 09:15:23 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org (Postfix) with ESMTPS id 9F1A812345
+    for <bob@example.com>; Wed, 17 Jul 2024 09:15:23 -0400 (EDT)
+Date: Wed, 17 Jul 2024 09:15:23 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Invitation: July Book Club Meeting
+Message-ID: <20240717091523.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you’re doing well. I wanted to invite you to our monthly book club meeting this Friday, July 19th at 7:00 PM in the community center. This month, we’ll be discussing "The Alchemist" by Paulo Coelho.
+
+Please let me know if you can make it. Feel free to bring snacks and any friends who might enjoy the discussion.
+
+Looking forward to seeing you there!
+
+Best regards,
+Alice Johnson
+Community Book Club Coordinator
+alice@example.com

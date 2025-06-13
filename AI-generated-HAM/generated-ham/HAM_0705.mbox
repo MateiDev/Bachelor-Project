@@ -1,0 +1,25 @@
+From alice.johnson@example.com Mon Jun 24 14:22:58 2024
+Return-Path: <alice.johnson@example.com>
+Received: by mail.example.com id abc123; Tue, 25 Jun 2024 10:15:00 -0400 (EDT)
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Team Lunch Next Week
+Date: Tue, 25 Jun 2024 10:15:00 -0400
+Message-ID: <20240625101500.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to check in about organizing our team lunch next week.
+Based on everyone's availability, how does Wednesday, July 3rd at noon sound to you?
+We can meet at the new bistro downtown.
+
+Let me know if that works, or if you'd prefer another day. I'll also send a calendar invite once
+we've confirmed the details.
+
+Looking forward to it!
+
+Best,
+Alice

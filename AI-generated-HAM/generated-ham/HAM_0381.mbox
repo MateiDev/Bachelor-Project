@@ -1,0 +1,28 @@
+From alice@example.com Fri Aug 11 14:23:45 2023
+Return-Path: <alice@example.com>
+Received: by mail.example.com (Postfix) id 1234ABCD; Fri, 11 Aug 2023 14:23:45 -0400 (EDT)
+Subject: Weekend Hiking Trip
+From: Alice <alice@example.com>
+To: Bob <bob@example.net>
+Date: Fri, 11 Aug 2023 14:23:45 -0400
+Message-ID: <20230811182345.1234ABCD@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! I wanted to check if you’re up for a hiking trip this weekend.
+The weather forecast looks perfect—sunny with a light breeze—and I’ve found a trail
+that goes around Lake Pinewood. It’s about 8 miles total, with some gentle climbs and
+great viewpoints.
+
+If you’re interested, we could meet at the trailhead Saturday morning around 8 AM.
+I’ll bring snacks, water, and a simple first-aid kit. Feel free to pack a light lunch
+and any gear you prefer (hiking boots, a hat, sunscreen, etc.).
+
+Let me know if that works for you, or if you’d rather go Sunday instead. Looking
+forward to catching up and enjoying the outdoors!
+
+Cheers,
+Alice

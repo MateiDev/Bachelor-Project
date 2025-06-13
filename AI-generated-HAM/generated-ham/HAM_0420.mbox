@@ -1,0 +1,23 @@
+From john.doe@example.com Tue Jul 09 08:45:30 2024
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by example.org (Postfix) with ESMTP id 3F2A8112C8
+	for <jane.smith@example.org>; Tue,  9 Jul 2024 08:45:30 -0400 (EDT)
+Message-ID: <20240709084530.3F2A8112C8@mail.example.com>
+Date: Tue,  9 Jul 2024 08:45:30 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Catching Up Over Coffee
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're doing well! It's been a while since we last caught up. I'm going to be in your area next week and thought it would be great to meet for coffee if you’re free. How does Thursday morning around 10:00 AM at Brew & Beans sound?
+
+Let me know what works for you, or if there’s a better time/place. Looking forward to hearing about your recent travels!
+
+Best,
+John

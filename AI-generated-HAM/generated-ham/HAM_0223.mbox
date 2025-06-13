@@ -1,0 +1,28 @@
+From jane.doe@example.com Sat Jan  1 12:34:56 2023
+Date: Sat, 1 Jan 2023 12:34:56 -0500
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Quarterly Team Meeting Follow-Up
+Message-ID: <20230101123456.12345678.jane.doe@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+Thanks for attending the quarterly team meeting this morning. Here is a summary of our discussion:
+
+- Project timelines for Q1 and Q2
+- Budget allocation updates
+- Upcoming training sessions
+- Team goals and milestones
+
+Action items:
+1. Please review the updated project timelines attached.
+2. Confirm the budget figures by end of week.
+3. Register for the training sessions via the portal.
+
+Let me know if you have any questions or need further clarification.
+
+Best regards,
+Jane Doe

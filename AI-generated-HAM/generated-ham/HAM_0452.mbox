@@ -1,0 +1,22 @@
+From alice@example.com Fri Jul 12 09:17:56 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by smtp.example.com with ESMTP id abc123 for <bob@example.com>; Fri, 12 Jul 2024 09:17:56 -0400
+Date: Fri, 12 Jul 2024 09:17:56 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Building Workshop Next Week
+Message-ID: <20240712091756.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to remind you about the team building workshop scheduled for next Wednesday, July 17, at 2:00 PM in the main conference room. The HR department has arranged several interactive activities, followed by light refreshments.
+
+Please let me know if you have any dietary restrictions or if you need to participate remotely. We want to ensure everyone can join comfortably.
+
+Looking forward to a productive session with the team!
+
+Best regards,
+Alice

@@ -1,0 +1,42 @@
+From alice@example.com Mon Aug 21 15:42:17 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Date: Mon, 21 Aug 2023 15:42:17 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekly Team Update
+Message-ID: <20230821154217.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you had a great weekend! Here’s a quick update on our ongoing projects:
+
+1. Project Apollo:
+   - The design team has finalized the mockups.
+   - Development is on track; the first prototype is due next Wednesday.
+   - We’re scheduling a review meeting on Thursday at 10:00 AM.
+
+2. Marketing Campaign:
+   - Social media assets are being created and should be ready by Friday.
+   - We’ve drafted the email newsletter; please review and send your feedback.
+
+3. Operations:
+   - The server maintenance window is confirmed for Saturday, August 26th, from 2 AM to 4 AM.
+   - We’ll notify stakeholders with a brief downtime notice.
+
+Action Items:
+- Could you please confirm your availability for the design review on Thursday?
+- Let me know if you have any notes on the newsletter draft by end of day Wednesday.
+
+Thanks for your hard work this week! Let me know if there’s anything else you need.
+
+Best regards,
+Alice
+
+-- 
+Alice Smith
+Product Manager | Example Corp
+alice@example.com | (555) 123-4567

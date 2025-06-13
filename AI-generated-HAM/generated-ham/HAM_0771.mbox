@@ -1,0 +1,24 @@
+From alice@example.com Wed Jun 12 14:12:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com by mx.example.com; Wed, 12 Jun 2024 14:12:00 +0000
+Message-ID: <20240612141200.12345@example.com>
+Date: Wed, 12 Jun 2024 14:12:00 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Team Picnic Reminder
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a friendly reminder that our team picnic is scheduled for
+next Friday, June 21st, at Riverside Park. We'll meet at the main
+pavilion at 11:00 AM. Feel free to bring your favorite games or
+snacks to share.
+
+Please let me know if you have any dietary restrictions or need a
+ride. Looking forward to a fun afternoon with everyone!
+
+Best,
+Alice

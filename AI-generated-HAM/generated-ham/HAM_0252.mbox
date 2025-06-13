@@ -1,0 +1,27 @@
+From alice@example.com Fri Jul 19 15:30:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by bob.example.org (Postfix) with ESMTP id 1A2B3C4D5E
+    for <bob@example.org>; Fri, 19 Jul 2024 15:30:02 +0000 (UTC)
+Received: by mail.example.com (Postfix, from userid 1001)
+    id FG6H7I8J9K; Fri, 19 Jul 2024 15:29:58 +0000 (UTC)
+Date: Fri, 19 Jul 2024 15:29:58 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Garden Get-Together
+Message-ID: <CAFQh2UQw8sTi2z1HjOm=gXmpkn=3eqtoe@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well and enjoying the summer weather. I wanted to invite you to a relaxed garden get-together at my place this Saturday afternoon. I’ll be firing up the barbecue around 4 PM and setting out some cold drinks and snacks. Feel free to bring along anything special you’d like to grill or share.
+
+We’ll have a few lawn games and some acoustic guitar music for those who’d like to play. If you have any dietary preferences, let me know so I can prepare accordingly. Also, Eleanor and Jason from our book club are planning to stop by, and they’d love to see you.
+
+Let me know if you can make it, and I’ll send you my address and directions. Looking forward to catching up!
+
+Best,
+Alice

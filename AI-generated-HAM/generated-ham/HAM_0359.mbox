@@ -1,0 +1,43 @@
+From john.doe@example.com Sun Jan  1 12:00:00 2023
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.org
+Received: from desktop-01.local (unknown [192.0.2.100])
+    by mail.example.com (Postfix) with ESMTPSA id DEF67890
+    for <jane.smith@example.org>; Sun,  1 Jan 2023 12:00:00 -0500 (EST)
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+    by mx.example.org (Postfix) with ESMTP id ABC12345
+    for <jane.smith@example.org>; Sun,  1 Jan 2023 12:00:00 -0500 (EST)
+Date: Sun,  1 Jan 2023 12:00:00 -0500
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Team Meeting Agenda for January 5th
+Message-ID: <20230101120000.DEF67890@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you had a relaxing holiday break. As we prepare to kick off the new year,
+I'd like to share the agenda for our upcoming team meeting on Thursday,
+January 5th at 10:00 AM in the conference room on the 3rd floor.
+
+Agenda:
+1. Project updates and timelines
+2. Resource allocation
+3. Q1 goals and milestones
+4. Open discussion
+
+Please let me know if there are any other topics you'd like to add. If you
+cannot attend in person, we can arrange a video call. Just reply to this email
+and I'll send a meeting invitation with the link.
+
+Looking forward to seeing you and the rest of the team.
+
+Best regards,
+John
+
+John Doe
+Project Manager
+Example Corp.
+Phone: (555) 123-4567

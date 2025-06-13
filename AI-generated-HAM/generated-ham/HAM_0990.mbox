@@ -1,0 +1,26 @@
+From test.user@example.com Sat Jun 29 14:00:00 2024
+From: Test User <test.user@example.com>
+To: colleague@example.com
+Subject: Meeting Recap and Next Steps
+Date: Sat, 29 Jun 2024 14:00:00 -0400
+Message-ID: <20240629140000.test.user@example.com>
+
+Hello Team,
+
+Thank you all for attending today's meeting. Here’s a quick recap of what we discussed and the next steps:
+
+1. Project Timeline – We agreed on the milestones for July and August.
+2. Resource Allocation – Sarah will handle design, and Mark will focus on backend development.
+3. Testing Plan – We will begin initial testing on July 15.
+
+Action Items:
+- Sarah: Prepare the UI mockups by July 5.
+- Mark: Set up the development environment by July 3.
+- Alex: Draft the testing checklist by July 10.
+- Everyone: Review the project documentation and share feedback by July 2.
+
+Please let me know if I missed anything. Our next meeting is scheduled for July 8 at 10:00 AM.
+
+Best regards,
+Test User
+Product Manager

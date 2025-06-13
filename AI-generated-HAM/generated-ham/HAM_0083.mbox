@@ -1,0 +1,34 @@
+From alice@example.com Fri Jul 19 10:23:45 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+    by bob-mail.example.org with ESMTP id ABC123DEF45
+    for <bob@example.org>; Fri, 19 Jul 2024 10:23:45 -0400 (EDT)
+Message-ID: <CAF3k1=abc123xyz@mail.example.com>
+Date: Fri, 19 Jul 2024 10:23:45 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Summer Office Potluck Details
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! Just a quick reminder about our upcoming summer potluck in the office lounge next Wednesday, July 24th, starting at noon. Here are the details:
+
+• Date: Wednesday, July 24, 2024  
+• Time: 12:00 PM – 2:00 PM  
+• Location: 3rd Floor Lounge  
+• What to bring: A dish to share (sweet or savory), enough to serve about 8–10 people
+
+We’ll provide drinks, plates, and utensils. Feel free to let me know if you have any dietary restrictions or need help transporting your dish.
+
+Looking forward to seeing everyone and enjoying some great food!
+
+Best,
+Alice Smith
+Office Coordinator
+Example Corporation
+alice@example.com
+(555) 123-4567

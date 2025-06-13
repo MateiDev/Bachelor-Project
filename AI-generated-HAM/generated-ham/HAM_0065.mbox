@@ -1,0 +1,32 @@
+From alice@example.com Mon Jul 15 09:30:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Date: Mon, 15 Jul 2024 09:30:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Meeting Follow-Up
+Message-ID: <20240715093000.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+Thanks for attending today's team meeting. Here is a brief summary of the points we covered:
+
+- Project timeline updates will be shared by end of week.
+- Design team to finalize mockups by Tuesday.
+- QA will begin testing the prototype on Wednesday.
+
+Action Items:
+1. Alice to update the task tracker with new deadlines.
+2. Bob to coordinate with the design team on resource availability.
+3. Everyone to review the updated project plan before Friday.
+
+Let me know if you have any questions or need further clarification. Otherwise, I'll send the next status report on Monday.
+
+Best regards,
+Alice Johnson
+Project Manager
+Example Corp.
+(555) 123-4567

@@ -1,0 +1,22 @@
+From test.user@example.com Tue Jul 23 10:15:30 2024
+Return-Path: <test.user@example.com>
+Received: by mail.example.com with SMTP id abc123; Tue, 23 Jul 2024 10:15:30 -0400 (EDT)
+Date: Tue, 23 Jul 2024 10:15:30 -0400
+From: Test User <test.user@example.com>
+To: colleague@example.org
+Subject: Lunch and project update
+Message-ID: <20240723101530.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Alex,
+
+Hope you’re doing well! Just a heads-up that I’ll be in the office tomorrow around noon. Would you be up for grabbing lunch at the café downstairs? Thought it’d be a good chance to catch up and go over the new design mockups for our client. I’ve made a few tweaks based on last week’s feedback and have some questions about the color palette.
+
+Let me know if that works for you. If not, we can reschedule for later in the week.
+
+Enjoy the rest of your day!
+
+Best,
+Test

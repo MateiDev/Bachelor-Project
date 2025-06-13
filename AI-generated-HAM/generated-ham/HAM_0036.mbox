@@ -1,0 +1,36 @@
+From sender@example.com Wed Jul 21 10:15:30 2021
+Return-Path: <sender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by receiver.example.com (Postfix) with ESMTP id 1234567890
+    for <recipient@example.com>; Wed, 21 Jul 2021 10:15:30 +0000 (UTC)
+From: Alice Johnson <sender@example.com>
+To: Bob Smith <recipient@example.com>
+Subject: Weekend Hiking Trip
+Date: Wed, 21 Jul 2021 10:15:30 +0000
+Message-ID: <20210721101530.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to touch base about our plan for the hiking trip this Saturday.
+The weather forecast looks great, with temperatures in the mid-70s and clear skies.
+I was thinking we could meet at the trailhead parking lot at 8:00 AM.
+
+Here's a tentative itinerary:
+- 8:00 AM: Arrival and gear check
+- 8:30 AM: Start hike on Pine Ridge Trail
+- 11:30 AM: Lunch break near the waterfall
+- 1:00 PM: Continue to Eagle Peak overlook
+- 3:00 PM: Return hike
+- 5:30 PM: Wrap up and head home
+
+Please let me know if this schedule works for you or if you'd like to adjust any part of it.
+Also, don't forget to bring plenty of water, snacks, and sun protection. I’ll bring the first-aid kit
+and some extra energy bars.
+
+Looking forward to a fun and relaxing day outdoors!
+
+Best,
+Alice

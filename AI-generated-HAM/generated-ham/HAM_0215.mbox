@@ -1,0 +1,27 @@
+From alice.smith@example.com Sat Jan  1 12:00:00 2022
+Return-Path: <alice.smith@example.com>
+Delivered-To: bob.johnson@example.com
+Received: by mail.example.com with SMTP id abc123; Sat,  1 Jan 2022 12:00:00 -0500 (EST)
+Message-ID: <20220101170000.abc123@mail.example.com>
+Date: Sat, 1 Jan 2022 12:00:00 -0500
+From: "Alice Smith" <alice.smith@example.com>
+To: "Bob Johnson" <bob.johnson@example.com>
+Subject: Weekend Hike Plans
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well. I'm planning to go hiking this weekend and wanted to see if you'd like to join. The trail runs near Pine Creek and usually offers beautiful views this time of year. Here are the details:
+
+* Date: Saturday, January 8
+* Meeting time: 8:30 AM
+* Meeting point: Trailhead Parking Lot
+* Difficulty: Moderate
+* What to bring: water, snacks, and sturdy shoes
+
+Let me know if you can make it. Looking forward to catching up and enjoying the outdoors!
+
+Best,
+Alice

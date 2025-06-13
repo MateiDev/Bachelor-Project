@@ -1,0 +1,27 @@
+From alice@example.org Tue Jul 09 14:32:01 2024
+Return-Path: <alice@example.org>
+Delivered-To: bob@example.com
+Received: from mail.example.org (mail.example.org [192.0.2.1])
+    by mx.example.com (Postfix) with ESMTPS id 123456789
+    for <bob@example.com>; Tue,  9 Jul 2024 14:32:00 +0000 (UTC)
+Date: Tue, 9 Jul 2024 14:32:00 +0000
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.com>
+Message-ID: <efgh1234@example.org>
+Subject: Weekend Hiking Trip Reminder
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a quick reminder about our hiking trip this Saturday. We'll meet at the trailhead parking lot at 8:00 AM. I've packed sandwiches, fruit, and plenty of water. The forecast looks clear, but you might want to bring a light jacket in case it gets cool on the ridge.
+
+Let me know if your plans change or if you need any help with gear. Looking forward to spending the day outdoors!
+
+Best,
+Alice Johnson
+Alice Johnson
+Nature Club Coordinator
+alice@example.org
++1 (555) 123-4567

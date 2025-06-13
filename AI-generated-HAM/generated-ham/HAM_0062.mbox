@@ -1,0 +1,38 @@
+From alice@example.com Wed Jul 24 10:15:30 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.net
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.net (Postfix) with ESMTP id 1234ABCD
+    for <bob@example.net>; Wed, 24 Jul 2024 10:15:29 -0400 (EDT)
+Received: from [192.0.2.5] (example-user-computer.example.com [192.0.2.5])
+    by mail.example.com (Postfix) with ESMTPSA id 5678EFGH
+    for <bob@example.net>; Wed, 24 Jul 2024 10:15:28 -0400 (EDT)
+Message-ID: <CAF1234abcd@mail.example.com>
+Date: Wed, 24 Jul 2024 10:15:27 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.net>
+Subject: Team Meeting Agenda and Next Steps
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to share the agenda for our team meeting
+scheduled on Thursday, July 25 at 2:00 PM EDT:
+
+1) Project Alpha status updates
+2) Milestone deadlines for Q3
+3) Resource allocation and responsibilities
+4) Open discussion and Q&A
+
+Please review the attached documents before the meeting:
+- Alpha_Project_Status.pdf
+- Q3_Milestones.xlsx
+
+Let me know if there's anything you'd like to add or if you have any questions.
+
+Looking forward to our discussion.
+
+Best regards,
+Alice Johnson

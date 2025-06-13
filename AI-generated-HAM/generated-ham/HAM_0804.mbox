@@ -1,0 +1,24 @@
+From alice.johnson@example.com Fri Jul 01 10:15:30 2022
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id 12345 for <bob.smith@example.com>; Fri, 01 Jul 2022 10:15:30 -0400 (EDT)
+Date: Fri, 1 Jul 2022 10:15:30 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Project Update
+Message-ID: <20220701101530.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Bob,
+
+I've included the latest draft of the project proposal below. Please review it and share your feedback by end of the week.
+
+Overview:
+- Introduction section updated
+- Budget estimates refined
+- Timeline adjusted based on recent meetings
+
+Let me know if you have any questions.
+
+Thanks,
+Alice

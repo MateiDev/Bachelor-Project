@@ -1,0 +1,24 @@
+From jane.doe@example.com Tue Jan  2 09:15:00 2024
+Return-Path: <jane.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id ABCD1234
+    for <john.smith@example.com>; Tue, 2 Jan 2024 09:15:00 -0500 (EST)
+Date: Tue, 2 Jan 2024 09:15:00 -0500
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Reminder: Book Club Meeting Next Wednesday
+Message-ID: <20240102091500.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi John,
+
+This is a friendly reminder that our monthly book club meeting will be held next Wednesday, January 10th, at 7:00 PM at my place. We’ll be discussing "The Great Gatsby" by F. Scott Fitzgerald.
+
+Please bring your favorite beverage and any snacks you’d like to share. If you need directions or have any questions, let me know.
+
+Looking forward to seeing you there!
+
+Best regards,
+Jane Doe

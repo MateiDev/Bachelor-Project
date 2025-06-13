@@ -1,0 +1,26 @@
+From alice.johnson@example.com Thu Jan  4 10:15:32 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+        by smtp.example.com (Postfix) with ESMTPS id 123ABCD
+        for <bob.smith@example.com>; Thu,  4 Jan 2024 10:15:32 -0500 (EST)
+MIME-Version: 1.0
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Team Lunch Next Week
+Date: Thu, 4 Jan 2024 10:15:32 -0500
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. I wanted to check in about scheduling our team lunch next week.
+Friday, January 12th, seems to work for most people. Are you available around noon?
+If that date doesn't suit, please let me know your availability.
+
+Also, the new deli down the street has some great vegan options, in case you'd prefer
+a meat-free meal. I'm happy to make the reservation once we settle on a time and place.
+
+Looking forward to catching up outside of the office.
+
+Best regards,
+Alice

@@ -1,0 +1,21 @@
+From alice.johnson@example.com Sat Jun 15 07:21:00 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id abc123
+	for <bob.smith@example.net>; Sat, 15 Jun 2024 07:21:00 -0400 (EDT)
+Date: Sat, 15 Jun 2024 07:21:00 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.net>
+Subject: Weekend Hiking Trip
+Message-ID: <20240615072100.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Are you still interested in joining the hiking trip this weekend? I found a great trail up near Pine Creek that’s about 8 miles round trip with some scenic overlooks. The weather forecast looks perfect—sunny with mild temperatures. I was thinking of leaving early Saturday morning around 8:00 AM. We can carpool from my place, pack a lunch, and maybe stop at that diner on the way back.
+
+Let me know if you’re in, and I’ll send you the detailed route and meeting spot. Looking forward to it!
+
+Cheers,
+Alice

@@ -1,0 +1,25 @@
+From sender@example.com Sat Jul 13 10:15:00 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABC12345
+    for <bob.smith@example.org>; Sat, 13 Jul 2024 10:15:00 -0400 (EDT)
+Received: by mail.example.com id DEF67890; Sat, 13 Jul 2024 10:14:50 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.org>
+Subject: Upcoming Team Outing
+Date: Sat, 13 Jul 2024 10:14:50 -0400
+Message-ID: <CAF1234abcd@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to remind you about our upcoming team outing next Friday. We're meeting at the office lobby at 4:00 PM, and we'll head over to the ropes course around 4:30 PM. Please wear comfortable clothes and closed-toe shoes so you can fully enjoy the activities.
+
+After the course, we have dinner reservations at The Garden Bistro at 7:00 PM. The restaurant has a variety of options, including vegetarian dishes, so there should be something for everyone. If you have any dietary restrictions or preferences you haven't mentioned yet, please let me know by Wednesday so I can update the reservation.
+
+Looking forward to a fun afternoon with the team!
+
+Best regards,
+Alice Johnson

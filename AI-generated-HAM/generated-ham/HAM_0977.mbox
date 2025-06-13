@@ -1,0 +1,24 @@
+From john.doe@example.com Wed Feb 14 09:30:00 2024
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id ABC123
+	for <team@example.com>; Wed, 14 Feb 2024 09:30:01 -0500 (EST)
+Date: Wed, 14 Feb 2024 09:30:00 -0500
+From: John Doe <john.doe@example.com>
+To: team@example.com
+Subject: Team Lunch Next Wednesday
+Message-ID: <20240214093000.johndoe@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi team,
+
+Let's gather for lunch next Wednesday to celebrate the quarterly milestones. I've booked us a table at The Green Spoon at noon.
+
+Please let me know if you have any dietary restrictions or preferences. If possible, respond by end of day Friday so I can confirm the reservation.
+
+Looking forward to seeing everyone and enjoying a nice break together.
+
+Best,
+John Doe

@@ -1,0 +1,20 @@
+From alice@example.com Mon Sep 25 10:30:00 2023
+Date: Mon, 25 Sep 2023 10:30:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Team Lunch Next Week
+Message-ID: <20230925103000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're having a great week! I wanted to check in about our team lunch next week. The plan is to meet at The Garden Cafe on Wednesday at 12:30 PM. Let me know if that works for you or if you'd prefer a different day.
+
+Also, please feel free to suggest any dietary accommodations so I can let the cafe know in advance.
+
+Looking forward to catching up!
+
+Best regards,
+Alice

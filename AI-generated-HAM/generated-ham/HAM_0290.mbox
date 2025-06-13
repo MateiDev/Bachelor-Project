@@ -1,0 +1,23 @@
+From alice@example.com Tue Jun 25 14:32:10 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+        by mx.example.org with ESMTP id ABC123DEF456
+        for <bob@example.org>; Tue, 25 Jun 2024 14:32:10 -0400 (EDT)
+Date: Tue, 25 Jun 2024 14:32:10 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Lunch Confirmation
+Message-ID: <20240625183210.GH12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just confirming our lunch plans for tomorrow at the new cafe on Main Street. 
+Let me know if you’d like to try a different time or place.
+
+Looking forward to catching up!
+
+Best,
+Alice

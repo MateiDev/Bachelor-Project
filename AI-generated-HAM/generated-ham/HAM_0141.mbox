@@ -1,0 +1,26 @@
+From alice.johnson@example.com Thu Jan 25 14:32:00 2024
+Return-Path: <alice.johnson@example.com>
+Delivered-To: bob.smith@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id x7J8k4P0
+	for <bob.smith@example.org>; Thu, 25 Jan 2024 14:32:00 -0500 (EST)
+Date: Thu, 25 Jan 2024 14:32:00 -0500
+From: "Alice Johnson" <alice.johnson@example.com>
+To: "Bob Smith" <bob.smith@example.org>
+Subject: Family Gathering This Weekend
+Message-ID: <001a113f4bfd$3b2c9a30$11d27a10$@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to remind you about our family gathering this Saturday at my parents' house.
+We'll have a potluck lunch starting around noon, and feel free to bring your famous potato salad!
+Mom has also asked if you could bring your guitar to play some tunes in the afternoon.
+
+Let me know if you're able to make it or if you need any directions.
+Looking forward to catching up with everyone!
+
+Best,
+Alice

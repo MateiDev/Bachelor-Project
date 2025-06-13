@@ -1,0 +1,27 @@
+From alice@example.com Fri Aug 02 08:30:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+    by mx.example.org with ESMTP id abc123def for <bob@example.org>;
+    Fri,  2 Aug 2024 08:30:00 +0000 (UTC)
+Subject: Weekend Hiking Trip
+To: bob@example.org
+Date: Fri, 2 Aug 2024 08:30:00 +0000
+Message-ID: <20240802083000.1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I'm planning a hiking trip to Blue Mountain next Saturday, August 10th. We'll meet
+at the trailhead parking lot around 8:00 AM and aim to reach the summit by noon.
+The trail is about 7 miles round trip with moderate difficulty.
+
+Feel free to invite anyone who might be interested. Let me know if you need a ride
+or if you plan to meet us there. Also, pack plenty of water, snacks, and wear sturdy shoes.
+
+Looking forward to it!
+
+Best,
+Alice

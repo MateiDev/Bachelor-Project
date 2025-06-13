@@ -1,0 +1,23 @@
+From alice@example.com Sat Jun 15 10:30:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by example.com with ESMTP id abc123 for <bob@example.com>; Sat, 15 Jun 2024 10:30:00 -0500
+Date: Sat, 15 Jun 2024 10:30:00 -0500
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Team Lunch Next Week
+Message-ID: <CAFQ+7z7=example123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to arrange a team lunch next Wednesday at noon.
+The team has been working hard lately, and I thought it would be nice to get together
+outside the office. Let me know if you're available, and if you have any restaurant
+preferences.
+
+Looking forward to it!
+
+Best regards,
+Alice

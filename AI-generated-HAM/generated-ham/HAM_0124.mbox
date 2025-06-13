@@ -1,0 +1,19 @@
+From alice@example.com Fri Jul 19 15:22:01 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id ABC123
+	for <bob@example.org>; Fri, 19 Jul 2024 15:22:01 -0400 (EDT)
+Date: Fri, 19 Jul 2024 15:22:01 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Message-ID: <20240719152201.ABC123@mail.example.com>
+Subject: Weekend Book Club Meeting
+
+Hi Bob,
+
+Just a quick reminder that our book club is meeting this Saturday at 3:00 PM at the community library downtown. We'll be discussing "The Midnight Library" by Matt Haig. Snacks and coffee will be provided.
+
+Looking forward to hearing your thoughts on the novel. Let me know if you have any questions or need directions.
+
+Best regards,
+Alice

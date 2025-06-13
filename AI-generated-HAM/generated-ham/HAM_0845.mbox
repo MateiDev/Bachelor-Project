@@ -1,0 +1,43 @@
+From sender@example.com Fri Jul 12 14:34:56 2024
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+        by mx.example.com with ESMTP id ABC123
+        for <sarah.smith@example.com>; Fri, 12 Jul 2024 14:34:56 -0400 (EDT)
+From: John Doe <john.doe@example.com>
+To: Sarah Smith <sarah.smith@example.com>
+Subject: Recipe from our weekend brunch
+Date: Fri, 12 Jul 2024 14:34:56 -0400
+Message-ID: <20240712183456.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Sarah,
+
+It was great seeing you at brunch last weekend! As promised, here’s the recipe for the blueberry pancakes we made together.
+
+Ingredients:
+- 1 1/2 cups all-purpose flour
+- 3 1/2 teaspoons baking powder
+- 1 tablespoon sugar
+- 1/4 teaspoon salt
+- 1 1/4 cups milk
+- 1 large egg
+- 3 tablespoons melted butter
+- 1 cup fresh blueberries
+
+Instructions:
+1. In a large bowl, whisk together flour, baking powder, sugar, and salt.
+2. In another bowl, beat the egg and then whisk in the milk and melted butter.
+3. Pour the wet ingredients into the dry ingredients and stir until just combined.
+4. Gently fold in the blueberries.
+5. Heat a griddle or non-stick pan over medium heat and lightly grease it.
+6. Scoop 1/4 cup of batter per pancake onto the griddle. Cook until bubbles form on the surface, then flip and cook until golden brown.
+7. Serve warm with maple syrup and extra berries if desired.
+
+Hope you enjoy making these as much as we did! Let me know how they turn out.
+
+Best,
+John
+
+P.S. Next time we should try adding a sprinkle of cinnamon to the batter.

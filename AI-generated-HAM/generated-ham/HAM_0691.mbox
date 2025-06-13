@@ -1,0 +1,32 @@
+From alice@example.com Fri Jul 21 09:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id abc123 for <bob@example.org>; Fri, 21 Jul 2023 09:15:05 -0400 (EDT)
+Date: Fri, 21 Jul 2023 09:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Meeting Recap and Next Steps
+Message-ID: <20230721091500.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Thanks for taking the time to meet earlier today. Here’s a quick recap of what we discussed and the next steps we agreed upon:
+
+1. Project Timeline:
+   - Finalize requirements by July 28
+   - Begin development August 1
+
+2. Resource Allocation:
+   - Sarah will handle backend tasks
+   - Michael on UI design
+
+3. Deliverables:
+   - Prototype demo by August 15
+   - Feedback session on August 17
+
+Please let me know if I missed anything or if you’d like to adjust the timeline.
+
+Best regards,
+Alice Johnson

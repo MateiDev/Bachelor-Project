@@ -1,0 +1,25 @@
+From alice@example.com Sat Jul 24 09:30:00 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com by mx.example.com with ESMTP id ABCDEF123; Sat, 24 Jul 2021 09:30:01 -0400
+Message-ID: <20210724093001.ABCDEF123@mail.example.com>
+Date: Sat, 24 Jul 2021 09:30:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend plans
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+Just wanted to check in and see if you're still up for hiking this weekend.
+The weather forecast looks great for Saturday morning. I thought we
+could meet at the trailhead by 8am and spend a few hours out in the
+park. Afterwards, we could grab lunch at that new café downtown.
+
+Let me know if this works for you or if you'd prefer a different plan.
+Looking forward to catching up!
+
+Best,
+Alice

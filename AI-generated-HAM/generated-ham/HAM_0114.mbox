@@ -1,0 +1,27 @@
+From newsletter@example.com Wed Jul 20 09:15:00 2022
+Return-Path: <newsletter@example.com>
+Delivered-To: john.doe@domain.com
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.domain.com (Postfix) with ESMTP id D1E4A3C5B6 for <john.doe@domain.com>; Wed, 20 Jul 2022 09:15:00 -0400 (EDT)
+Received: from desktop (unknown [192.0.2.2]) by mail.example.com (Postfix) with ESMTP id A2B3C4D5E6; Wed, 20 Jul 2022 09:10:45 -0400 (EDT)
+From: "Community Newsletter" <newsletter@example.com>
+To: "John Doe" <john.doe@domain.com>
+Subject: Upcoming Community Gardening Workshop
+Date: Wed, 20 Jul 2022 09:15:00 -0400
+Message-ID: <20220720091500.ABCD1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello John,
+
+We are excited to invite you to our upcoming Community Gardening Workshop happening on Saturday, August 6th, from 10:00 AM to 2:00 PM at Riverside Park. This free event is open to all gardening enthusiasts, whether you're a seasoned gardener or just starting out.
+
+During the workshop, our expert volunteers will demonstrate eco-friendly planting techniques, composting tips, and seasonal garden planning. We'll provide all necessary materials, including seeds, soil samples, and gardening tools. Feel free to bring your own gloves and favorite trowel.
+
+After the hands-on session, join us for a light lunch featuring locally sourced produce. This is a great opportunity to meet fellow community members, share gardening stories, and exchange plant cuttings. Children are welcome and can participate in our special seed potting activity.
+
+To learn more or confirm your attendance, please visit our website at http://www.communitygarden.org/events or reply to this email. We look forward to growing together!
+
+Best regards,
+The Community Garden Team
+contact@communitygarden.org

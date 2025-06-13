@@ -1,0 +1,20 @@
+From alice@example.com Fri Jul 26 09:33:00 2024
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Team Lunch Next Week
+Date: Fri, 26 Jul 2024 09:33:00 -0400
+Message-ID: <CAF12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Just a quick reminder that we have our team lunch scheduled for next Wednesday at 12:30 PM.
+The reservation is at The Garden Bistro on Maple Avenue. Let me know if you have
+any dietary restrictions or prefer a different time.
+
+Looking forward to catching up with everyone!
+
+Best,
+Alice

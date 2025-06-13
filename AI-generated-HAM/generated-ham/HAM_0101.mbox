@@ -1,0 +1,20 @@
+From alice.smith@example.com Sat Jul  1 17:23:00 2023
+Message-ID: <20230701172300.12345@example.com>
+Date: Sat, 1 Jul 2023 17:23:00 +0000
+From: Alice Smith <alice.smith@example.com>
+To: Bob Johnson <bob.johnson@example.com>
+Subject: Lunch Plans for Next Week
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're having a great week! Would you like to grab lunch next Wednesday at noon? I thought we could try the new café on Maple Street; they have some great vegetarian options. Let me know if that works for you or if another time suits you better.
+
+Also, I wanted to share that the final report for our Q2 project is in progress. I’ll send you a draft by the end of this week so you can review it before our meeting.
+
+Looking forward to catching up!
+
+Best,
+Alice Smith

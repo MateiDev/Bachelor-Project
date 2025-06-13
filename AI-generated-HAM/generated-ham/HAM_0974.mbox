@@ -1,0 +1,26 @@
+From alice@example.com Mon Jul  5 09:30:12 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com (Postfix) with ESMTPS id ABC123
+    for <bob@example.com>; Mon,  5 Jul 2021 09:30:12 -0400 (EDT)
+Message-ID: <CAFQj3mYZf+X1bv=4HIg3YZHJ2w5=example@example.com>
+Date: Mon, 5 Jul 2021 09:30:12 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Re: Weekend Hiking Trip
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Thanks for suggesting the weekend hiking trip! I'm excited about the idea. I did a bit of research on nearby trails and found the Pine Ridge loop. It's about 7 miles
+and has beautiful lake views. The forecast looks clear on Saturday morning, which is perfect.
+
+I could pick you up around 7 AM on Saturday if that works for you. We should bring plenty of water, some snacks, and maybe a small first-aid kit, just in case.
+I can handle the sandwiches and fresh fruit. Do you want to bring anything else? Also, let me know if you prefer to start the hike earlier or later.
+
+Looking forward to it!
+
+Best,
+Alice

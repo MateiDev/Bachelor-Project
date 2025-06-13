@@ -1,0 +1,24 @@
+From alice@example.com Sat Jun 29 14:25:31 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+    by mx.example.org with ESMTP id ABC12345
+    for <bob@example.com>; Sat, 29 Jun 2024 14:25:31 +0000
+Date: Sat, 29 Jun 2024 14:25:31 +0000
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Lunch Gathering Next Week
+Message-ID: <20240629142531.ABC12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+Let's meet for lunch next Wednesday at the new cafe on 5th Street. I heard they have great sandwiches and salads. How does 12:30 PM sound?
+
+If that doesn't work, I'm also free on Thursday afternoon. Let me know what works best for you, and I'll make the reservation.
+
+Looking forward to catching up!
+
+Best,
+Alice

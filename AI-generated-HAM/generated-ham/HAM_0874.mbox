@@ -1,0 +1,31 @@
+From alice@example.com Wed, 30 Aug 2023 14:22:01 -0400
+Return-Path: <alice@example.com>
+X-Original-To: bob@example.com
+Delivered-To: bob@example.com
+Received: from mail.example.com by mail.example.net; Wed, 30 Aug 2023 14:22:01 -0400
+Message-ID: <CAFm=abcd1234@mail.example.com>
+Date: Wed, 30 Aug 2023 14:21:58 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Jones <bob@example.com>
+Subject: Weekend Hiking Trip
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hey Bob,
+
+I hope you're doing well! I wanted to follow up on our plans for the weekend hiking trip. The weather forecast looks great, with sunny skies and mild temperatures. I was thinking we could meet at the trailhead parking lot at 8:00 AM on Saturday.
+
+Here’s our tentative itinerary:
+- 8:00 AM: Meet at the parking lot
+- 8:15 AM: Begin the hike
+- 12:00 PM: Break for lunch (I’ll bring sandwiches and snacks)
+- 2:00 PM: Reach the summit
+- 3:00 PM: Start descent
+- 5:00 PM: Return to parking lot
+
+Please let me know if this works for you or if you’d like to adjust any of the times. Also, bring plenty of water, good hiking boots, a hat, and sunscreen.
+
+Looking forward to it!
+
+Best,
+Alice

@@ -1,0 +1,23 @@
+From alice@example.com Sat Jul 20 15:30:45 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com with SMTP id ABC1234; Sat, 20 Jul 2024 15:30:45 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip
+Message-ID: <20240720153045.ABC123@mail.example.com>
+Date: Sat, 20 Jul 2024 15:30:45 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. The weather this weekend looks perfect for a hike. I was thinking we could head out to Blue Mountain trail on Saturday morning around 9 AM. It should be a moderate route, about 8 miles round-trip, with some great overlooks.
+
+Let me know if that works for you or if you have another trail in mind. I'm happy to handle parking passes and snacks.
+
+Looking forward to it!
+
+Best,
+Alice

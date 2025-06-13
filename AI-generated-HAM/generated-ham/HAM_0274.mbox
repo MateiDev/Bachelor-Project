@@ -1,0 +1,31 @@
+From alice@example.com Tue Jul 02 09:15:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ID123456 for <bob@example.org>; Tue,  2 Jul 2024 09:15:02 -0400 (EDT)
+Received: by mail.example.com id AZ234567; Tue, 2 Jul 2024 13:15:00 +0000 (UTC)
+Subject: Project Kick-off Meeting Agenda
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Date: Tue, 2 Jul 2024 09:15:00 -0400
+Message-ID: <20240702131500.AZ234567@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. As discussed, we're holding the kick-off meeting for the Zenith project this Friday at 10:00 AM in Conference Room B.
+
+Agenda:
+- Introductions and roles
+- Project timeline and milestones
+- Resource allocation
+- Communication plan
+- Next steps and action items
+
+Please review the agenda and let me know if you’d like to add anything. Also, if you need any materials or have questions beforehand, feel free to reach out.
+
+Looking forward to a productive session!
+
+Best regards,
+Alice

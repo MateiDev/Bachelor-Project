@@ -1,0 +1,22 @@
+From alice.johnson@example.com Wed Oct 25 12:34:56 2023
+From: "Alice Johnson" <alice.johnson@example.com>
+To: "Bob Smith" <bob.smith@example.com>
+Subject: Lunch Meeting on Friday
+Date: Wed, 25 Oct 2023 12:34:56 -0400
+Message-ID: <20231025163456.abcdef@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. Just a friendly reminder about our lunch meeting this Friday
+at 12:30 PM at the Corner Bistro. I'm looking forward to catching up and discussing
+the upcoming project milestones.
+
+Please let me know if anything changes or if you need to adjust the time.
+
+See you then!
+
+Best regards,
+Alice Johnson

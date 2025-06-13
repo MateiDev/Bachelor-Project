@@ -1,0 +1,22 @@
+From john.doe@example.com Fri Aug 18 09:30:00 2023
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mail.example.org with ESMTP id abc123 for <jane.smith@example.org>; Fri, 18 Aug 2023 09:30:00 -0400 (EDT)
+From: "John Doe" <john.doe@example.com>
+To: "Jane Smith" <jane.smith@example.org>
+Subject: Weekend Trip Details
+Date: Fri, 18 Aug 2023 09:30:00 -0400
+Message-ID: <20230818133000.ghi456@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're having a great week! I wanted to share the finalized details for our weekend trip to Lakeview Lodge. We’ll be departing on Friday afternoon around 3 PM and returning on Sunday evening. I’ve reserved two cabins, one near the lakefront and another closer to the hiking trailhead, so we can split up based on everyone’s preference.
+
+For meals, I’ve arranged a group dinner at the lodge’s lakeside restaurant on Friday night, followed by a barbecue on Saturday evening at the picnic area. Breakfast and lunch each day will be on your own—we can swing by the local bakery on Saturday morning and pick up pastries. Don’t forget to pack your fishing gear if you’d like to try your luck on the lake, and we should plan a short hike on Saturday afternoon to enjoy the scenery.
+
+Let me know if you have any dietary restrictions or special requests before the trip. Looking forward to a fun and relaxing weekend together. Safe travels, and see you soon!
+
+Best,
+John

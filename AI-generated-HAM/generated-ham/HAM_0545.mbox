@@ -1,0 +1,33 @@
+From user@example.org Sat Jan 15 08:30:00 2022
+Return-Path: <alice@example.org>
+Received: from mail.example.org (mail.example.org [192.0.2.1]) by inbox.example.net with ESMTP id 1234567890AB for <bob@example.net>; Sat, 15 Jan 2022 08:29:50 -0500 (EST)
+Received: from desktop.local (unknown [198.51.100.23]) by mail.example.org with ESMTP id 0987654321CD for <bob@example.net>; Sat, 15 Jan 2022 08:29:45 -0500 (EST)
+Date: Sat, 15 Jan 2022 08:30:00 -0500
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob@example.net>
+Subject: Team Lunch and Project Update
+Message-ID: <20220115083000.12345@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. This is a quick reminder that our team lunch is scheduled for next Wednesday, January 19th at 12:30 PM in the conference room on the 3rd floor. Please let me know if you have any dietary restrictions or preferences by Monday so I can finalize the order.
+
+Additionally, we'll have a brief project update meeting right after lunch. We'll cover:
+- Current milestones and upcoming deadlines
+- Resource allocation for the next sprint
+- Open action items and any blockers
+
+Feel free to bring any questions or topics you'd like to discuss. Thanks, and I look forward to catching up over lunch!
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Project Manager
+Example Organization
+alice@example.org
+(555) 123-4567

@@ -1,0 +1,33 @@
+From alice@example.com Mon Jul  1 09:15:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by smtp.example.com with ESMTP id abc123
+	for <team@example.com>; Mon,  1 Jul 2024 09:15:05 -0400 (EDT)
+Received: by mail.example.com (Postfix, from userid 1001)
+	id DEF456; Mon,  1 Jul 2024 09:14:58 -0400 (EDT)
+From: Alice Smith <alice@example.com>
+To: Team <team@example.com>
+Subject: Team Outing Next Friday
+Date: Mon, 1 Jul 2024 09:15:00 -0400
+Message-ID: <20240701091500.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+I hope everyone is doing well. As discussed in our last meeting, we’re planning our team outing for next Friday, July 5th. Here are the details:
+
+Location: Lakeside Park (Shelter #3)
+Time: 11:30 AM to 4:00 PM
+Activities: Frisbee, volleyball, board games, and a nature walk.
+Food: Potluck style – please bring one dish to share (main, side, or dessert).
+RSVP: Let me know by Wednesday, July 3rd, so I can finalize our park reservation and supplies.
+
+We’ll provide beverages, paper plates, and utensils. Feel free to bring any outdoor games or music instruments. If anyone has dietary restrictions, kindly mention them in your RSVP.
+
+Looking forward to a fun day out with everyone!
+
+Best regards,
+Alice Smith
+alice@example.com

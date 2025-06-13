@@ -1,0 +1,54 @@
+From test.sender@example.com Sat Jul 20 09:30:00 2024
+Return-Path: <test.sender@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+	by mx.example.org with ESMTP id abc123xyz
+	for <project.team@example.org>; Sat, 20 Jul 2024 09:30:05 -0400 (EDT)
+Date: Sat, 20 Jul 2024 09:30:00 -0400
+From: "Alice Roberts" <test.sender@example.com>
+To: <project.team@example.org>
+Subject: Weekly Project Status Update
+Message-ID: <20240720093000.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone had a productive week. Here’s the latest update on the Horizon Project:
+
+1. Development Progress
+   - User authentication module completed and tested.
+   - Front-end team has implemented responsive layouts for the dashboard.
+   - API endpoints for data retrieval are now live on the staging server.
+
+2. QA & Testing
+   - QA has identified and logged five minor bugs in the reporting feature.
+   - Regression tests scheduled for Monday, Jul 22, at 10:00 AM.
+   - Load testing to begin next Wednesday; test scripts under review.
+
+3. Documentation
+   - User guide first draft is available in the docs folder of the project repo.
+   - API reference will be updated by end of day Tuesday.
+   - Team wiki has been reorganized with new sections for feature requests.
+
+4. Upcoming Milestones
+   - Beta release candidate by Jul 30.
+   - Internal demo planned for Aug 2.
+   - Stakeholder review meeting on Aug 5.
+
+Action Items:
+- Developers: Address QA bugs #102–#106 by Tuesday COB.
+- QA: Prepare test plan for load testing.
+- Documentation Team: Finalize API reference updates.
+
+Please let me know if you have any questions or need assistance with assignments. Thanks for all your hard work.
+
+Best regards,
+Alice
+
+-- 
+Alice Roberts
+Senior Project Manager
+Company XYZ
+alice.roberts@example.com
++1 (555) 123-4567

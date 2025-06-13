@@ -1,0 +1,29 @@
+From alice@example.com Wed Jun  5 10:15:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by inbound1.example.com (Postfix) with ESMTP id 1234ABCD
+    for <bob.smith@example.com>; Wed,  5 Jun 2024 10:15:00 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Lunch and Project Update
+Date: Wed,  5 Jun 2024 10:15:00 -0400
+Message-ID: <CAFep12abcd3456ef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well. I wanted to touch base regarding our marketing project due next week. I've updated the draft with the latest campaign ideas below. Could you take a look and let me know if you have any feedback? I'm free to meet after lunch today if that works for you.
+
+1. Social media teaser posts for Instagram and Twitter.
+2. Sponsored newsletter segment.
+3. Influencer partnership guidelines.
+4. Email drip campaign schedule.
+
+Also, are we still on for the client call this Friday at 3 PM? I've reserved the conference room on the third floor.
+
+By the way, a few of us are going to grab lunch at the new cafe around the corner at 12:30. Feel free to join!
+
+Best,
+Alice

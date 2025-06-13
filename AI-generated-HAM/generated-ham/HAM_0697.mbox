@@ -1,0 +1,22 @@
+From alice.smith@company.com Wed Feb 16 15:42:17 2022
+Return-Path: <alice.smith@company.com>
+Received: from mail.company.com (mail.company.com [198.51.100.10]) by mx.company.com with ESMTPS id ABC123 for <bob.johnson@company.com>; Wed, 16 Feb 2022 15:42:17 -0500 (EST)
+Date: Wed, 16 Feb 2022 15:42:17 -0500
+From: Alice Smith <alice.smith@company.com>
+To: Bob Johnson <bob.johnson@company.com>
+Subject: Project Phoenix Status Update
+Message-ID: <20220216154217.12345@mail.company.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I wanted to share a quick status update on Project Phoenix. The development team has completed the initial phase of the user authentication module, and QA testing has begun. We’re on schedule to finish integration testing by the end of next week.
+
+In addition, the design team has finalized the wireframes for the new dashboard, and I’ve attached the PDF for your review. Please let me know if you have any feedback or would like to schedule a walkthrough.
+
+Our next team meeting is set for Monday at 10:00 AM in Conference Room B. I’ll send a calendar invite shortly.
+
+Best regards,
+Alice

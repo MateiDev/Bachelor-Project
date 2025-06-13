@@ -1,0 +1,27 @@
+From alice@example.com Fri Mar 15 10:00:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: by mail.example.org (Postfix, from userid 1001)
+    id 1A2B3C4D5E; Fri, 15 Mar 2024 10:00:00 -0400 (EDT)
+Received: from desktop.local (desktop.local [192.168.1.50])
+    by mail.example.org (Postfix) with ESMTPSA id 5E4D3C2B1A
+    for <bob@example.org>; Fri, 15 Mar 2024 10:00:00 -0400 (EDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Date: Fri, 15 Mar 2024 10:00:00 -0400
+Subject: Weekend Hiking Plans
+Message-ID: <20240315140000.GA1234@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well! I wanted to check in about our hiking trip this Saturday. The weather forecast looks great—sunny with a light breeze. I was thinking we could meet at the trailhead at 8:00 AM. It's about a two-hour hike round trip, and there's a nice lookout point at the summit where we can stop for lunch.
+
+Let me know if that still works for you or if you’d prefer a different time. Also, if you need a ride, I can swing by and pick you up around 7:30 AM.
+
+Looking forward to catching up and enjoying the outdoors!
+
+Best,
+Alice

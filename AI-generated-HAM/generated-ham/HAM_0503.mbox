@@ -1,0 +1,21 @@
+From john.doe@example.com Sat Jan  1 12:34:56 2022
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mail.recipient.org with ESMTPS id ABCDEF123
+    for <jane.smith@example.org>; Sat, 1 Jan 2022 12:34:56 -0500 (EST)
+Date: Sat, 1 Jan 2022 12:34:56 -0500
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Team Lunch Next Week
+Message-ID: <20220101123456.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi Jane,
+
+I hope you had a great weekend. I wanted to confirm our plans for the team lunch next Tuesday at 1 PM. Let me know if that time still works for you, and if you have any dietary preferences I should pass along to the restaurant.
+
+Also, I've updated the project proposal document. Please review it before our meeting on Wednesday.
+
+Thanks,
+John

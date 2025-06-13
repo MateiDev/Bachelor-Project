@@ -1,0 +1,29 @@
+From john.doe@domain.com Wed Mar 10 14:28:53 2021
+Return-Path: <john.doe@domain.com>
+Delivered-To: jane.smith@domain.com
+Received: from mail.domain.com (mail.domain.com [192.0.2.1]) by mx.google.com with ESMTPS id xyzabc123DEF for <jane.smith@domain.com>; Wed, 10 Mar 2021 14:28:53 -0800 (PST)
+Received: from [10.0.0.1] (hostname [10.0.0.1]) by mail.domain.com with ESMTPSA id uvw987zyxLMN; Wed, 10 Mar 2021 14:28:53 -0800
+Date: Wed, 10 Mar 2021 14:28:53 -0800
+From: John Doe <john.doe@domain.com>
+To: jane.smith@domain.com
+Subject: Team Photo and Upcoming All-Hands Meeting
+Message-ID: <CAHkABC123xyz@mail.domain.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+Just wanted to share the team photo from last Friday's offsite retreat. It turned out great—everyone's smiling! You can find the photo attached to this email.
+
+Also, a quick reminder that we have our quarterly all-hands meeting next Monday at 10:00 AM in the main conference room. The agenda includes:
+
+- Project updates from each department
+- Budget overview for Q2
+- Introduction of new team members
+- Open Q&A session
+
+Please let me know if you'd like to add any items to the agenda. Looking forward to seeing everyone there.
+
+Best regards,
+John

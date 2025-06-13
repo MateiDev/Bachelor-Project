@@ -1,0 +1,33 @@
+From test.user@example.org Sat Mar 23 10:15:30 2024
+Delivered-To: colleague@example.com
+Received: from mail.example.org (mail.example.org [192.0.2.1]) by mx.example.com with ESMTP id abc123 for <colleague@example.com>; Sat, 23 Mar 2024 10:15:30 -0500 (EST)
+From: Test User <test.user@example.org>
+To: Colleague <colleague@example.com>
+Subject: Weekend Hiking Trip
+Date: Sat, 23 Mar 2024 10:15:30 -0500
+Message-ID: <20240323101530.abc123@mail.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Sarah,
+
+I hope you're doing well! I wanted to touch base about our plans for the weekend hiking trip. The weather forecast looks promising, with sunny skies and mild temperatures.
+
+Here’s a rough outline of the itinerary:
+- Saturday morning: Meet at my place (123 Maple Street) at 8:00 AM.
+- Saturday afternoon: Hike along the River Trail (approx. 5 miles).
+- Saturday evening: Camp near Pine Lake.
+- Sunday morning: Breakfast and exploration around the lake.
+- Sunday afternoon: Return hike and wrap-up by 4:00 PM.
+
+Please let me know if these times work for you or if you have any suggestions. Also, don’t forget to pack your tent, sleeping bag, and some extra water. I’ll handle the trail maps and snacks.
+
+Looking forward to a great adventure!
+
+Best,
+Emily
+
+Emily Johnson
+test.user@example.org
+(555) 123-4567

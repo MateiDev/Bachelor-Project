@@ -1,0 +1,25 @@
+From alice@example.com Sat Jul 20 14:55:02 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by example.com; Sat, 20 Jul 2024 14:55:02 -0400
+Date: Sat, 20 Jul 2024 14:55:02 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend BBQ Invitation
+Message-ID: <CAF1234abcd@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you've been well! I'm planning a backyard barbecue this Saturday afternoon
+and would love for you to join. We'll fire up the grill around 3 PM. Feel free
+to bring anything you'd like to throw on the grill or a side dish to share.
+
+The kids can play in the yard, and we're setting up some lawn games as well.
+Let me know if you can make it, and I'll send over the address details.
+
+Looking forward to hanging out!
+
+Best,
+Alice

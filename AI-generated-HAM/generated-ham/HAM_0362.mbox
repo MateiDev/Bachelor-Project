@@ -1,0 +1,28 @@
+From alice@example.org Fri Jun 14 10:15:00 2024
+Return-Path: <alice@example.org>
+Received: from mail.example.org (mail.example.org [192.0.2.10])
+	by mx.example.org with ESMTP id abc123
+	for <team@example.org>; Fri, 14 Jun 2024 10:15:00 -0400 (EDT)
+Message-ID: <20240614101500.abc123@mail.example.org>
+Date: Fri, 14 Jun 2024 10:15:00 -0400
+From: Alice Johnson <alice@example.org>
+To: Project Team <team@example.org>
+Subject: Summer Team Lunch Outing
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+I hope everyone is doing well. With summer in full swing, I’d like to organize a casual team lunch next Friday, June 21st, at 12:30 PM. I’ve made a reservation at The Riverside Bistro, which offers a varied menu and outdoor seating by the river.
+
+Please let me know by Wednesday if you can join, so I can confirm the headcount. If you have any dietary restrictions or preferences, include those in your reply. Looking forward to some time together outside the office!
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Senior Project Manager
+Example Corporation
+alice@example.org | (555) 123-4567

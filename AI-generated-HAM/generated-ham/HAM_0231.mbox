@@ -1,0 +1,25 @@
+From alice@example.com Wed Jan 12 09:15:30 2022
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.com with ESMTP id a1b2c3d4; Wed, 12 Jan 2022 09:15:30 -0500 (EST)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Team Picnic Invitation
+Date: Wed, 12 Jan 2022 09:15:30 -0500
+Message-ID: <0001A2B3C4@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! As the weather starts to warm up, the team and I thought it would be fun to organize a picnic in the park next Friday, January 21st, starting at 11:30 AM.
+
+We'll meet at the picnic tables by Lakeview Park (Corner of Main St. and Oak Ave.). I've arranged for some sandwiches, salads, and drinks, but feel free to bring anything you'd like to share. If you have any dietary restrictions, please let me know so I can plan accordingly.
+
+It should be a great opportunity to relax and catch up outside the office. Please RSVP by this Friday so we can finalize the headcount.
+
+Looking forward to it!
+
+Best regards,
+Alice Johnson

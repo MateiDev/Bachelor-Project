@@ -1,0 +1,24 @@
+From alice@example.com Fri Jul 28 09:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by smtp.example.com (Postfix) with ESMTP id 8F1A4123
+	for <bob@example.com>; Fri, 28 Jul 2023 09:15:00 -0400 (EDT)
+Date: Fri, 28 Jul 2023 09:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Lunch Catch-Up This Week
+Message-ID: <20230728091500.8F1A4123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I'm going to be in the office downtown tomorrow and thought it would be great to catch up over lunch. Are you available around 12:30 PM? There's a new Italian deli on 5th Street that has excellent panini and salads.
+
+Let me know if that works or if you have another spot in mind.
+
+Looking forward to it!
+
+Best,
+Alice

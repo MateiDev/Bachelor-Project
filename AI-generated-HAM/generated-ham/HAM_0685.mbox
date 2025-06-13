@@ -1,0 +1,22 @@
+From jane.doe@example.com Fri Jul 12 14:23:45 2024
+From: Jane Doe <jane.doe@example.com>
+To: John Smith <john.smith@example.com>
+Subject: Lunch Meeting Agenda
+Date: Fri, 12 Jul 2024 14:23:45 -0400
+Message-ID: <20240712142345.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi John,
+
+Hope you’re doing well. Here’s the agenda for our lunch meeting next Tuesday:
+
+1. Project status updates
+2. Budget review for Q3
+3. New marketing campaign ideas
+4. Any other business
+
+Please let me know if you’d like to add anything else. Looking forward to our discussion!
+
+Best regards,
+Jane

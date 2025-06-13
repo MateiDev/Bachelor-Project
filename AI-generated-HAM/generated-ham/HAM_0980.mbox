@@ -1,0 +1,30 @@
+From alice.johnson@example.com Fri Jul 14 12:34:56 2023
+Return-Path: <alice.johnson@example.com>
+Delivered-To: bob.smith@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.net (Postfix) with ESMTPS id ABC123
+    for <bob.smith@example.com>; Fri, 14 Jul 2023 12:34:56 -0400 (EDT)
+Date: Fri, 14 Jul 2023 12:34:56 -0400
+From: "Alice Johnson" <alice.johnson@example.com>
+To: "Bob Smith" <bob.smith@example.com>
+Subject: Weekly Team Update
+Message-ID: <cafed00d-1234-5678-90ab-1c2d3e4f5a6b@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello team,
+
+Here is the weekly update for our project:
+
+- Project milestone reached: We successfully completed the initial design phase ahead of schedule.
+- Upcoming tasks: Prototype development will begin next Monday. Please review the design documentation in the shared drive.
+
+Team lunch is scheduled for Wednesday at 12:30 PM in the main cafeteria.
+
+Reminder: Submit your timesheets by end of day Friday.
+
+Let me know if you have any questions or need assistance.
+
+Best regards,
+Alice Johnson

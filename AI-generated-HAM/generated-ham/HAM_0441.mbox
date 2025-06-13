@@ -1,0 +1,29 @@
+From alice@example.com Fri Jul 21 10:05:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by example.com (8.14.4/8.14.4) with ESMTP id o6LJQ7vT017159
+	for <bob@example.com>; Fri, 21 Jul 2023 10:05:00 -0400
+Date: Fri, 21 Jul 2023 10:05:00 -0400
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Weekend Hike Plans
+Message-ID: <20230721100500.o6LJQ7vT017159@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to touch base about our plans for the weekend hike.
+As we discussed, we'll meet at the trailhead at 8:00 AM on Saturday. The forecast
+looks sunny, with temperatures in the mid-70s, so it should be a beautiful day for
+hiking.
+
+I'll bring the map and a first-aid kit, and I can pick up some sandwiches on the way.
+Let me know if you'd prefer a different meeting spot, or if you'd like me to bring
+anything else—perhaps snacks or extra water bottles.
+
+Looking forward to catching up and enjoying the outdoors together. See you soon!
+
+Best,
+Alice

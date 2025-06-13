@@ -1,0 +1,35 @@
+From alice@example.com Fri Jul 05 10:15:00 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [198.51.100.1])
+	by example.com with ESMTP id ABC123DEF
+	for <bob@example.com>; Fri, 05 Jul 2024 10:15:00 -0400
+Date: Fri, 05 Jul 2024 10:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Message-ID: <20240705101500.12345@mail.example.com>
+Subject: Family Reunion Planning
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I'm writing to confirm the details for our upcoming family reunion next month in Cape Cod. As of now, the dates are August 15th through August 18th, and we've reserved the Lakeside Pavilion at Pine Grove Park for Saturday's picnic.
+
+Here's a preliminary agenda:
+
+1. Friday evening: Welcome dinner at the cottage (potluck style)
+2. Saturday morning: Beach games and volleyball
+3. Saturday afternoon: Picnic lunch at the pavilion
+4. Saturday evening: Campfire with s'mores and storytelling
+5. Sunday morning: Nature walk
+6. Sunday afternoon: Family photo session
+7. Monday: Farewell brunch at the local bakery
+
+Could you please let me know if your cousin Emily can bring her famous potato salad? Also, if anyone has dietary restrictions or special requests, just send me a quick note. Lastly, I'm collecting music playlists for the picnic—feel free to email me any song suggestions by July 20th.
+
+Looking forward to seeing everyone and catching up.
+
+Best regards,
+Alice

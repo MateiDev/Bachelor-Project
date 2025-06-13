@@ -1,0 +1,30 @@
+From sender@example.com Sat Jan 15 09:30:00 2022
+Return-Path: <sender@example.com>
+Delivered-To: recipient@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+    by mx.example.com with ESMTP id 12345ABCD
+    for <recipient@example.com>; Sat, 15 Jan 2022 09:30:01 -0500 (EST)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+Subject: Weekend Team Hike Reminder
+From: Alice Johnson <sender@example.com>
+To: Bob Smith <recipient@example.com>
+Date: Sat, 15 Jan 2022 09:29:45 -0500
+
+Hi Bob,
+
+Just a quick reminder that our team hike is scheduled for this Saturday morning. 
+We’ll meet at the park entrance at 8:00 AM, and I’ve attached a map of the trail 
+we’ll be following. The weather forecast looks clear and cool, so dress in layers 
+and wear comfortable hiking boots. Don’t forget to bring water, snacks, and a 
+light jacket.
+
+If you need a ride or have any dietary restrictions for the snack packs, please 
+let me know by Thursday evening. Looking forward to a great time outdoors with 
+everyone!
+
+Best,
+Alice Johnson
+Event Coordinator, Outdoor Activities Committee
+(sender@example.com)

@@ -1,0 +1,24 @@
+From alice@example.com Fri Jan 05 15:30:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com ([192.0.2.1]) by mx.example.org; Fri, 05 Jan 2024 15:30:00 +0000
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.net>
+Subject: Weekend Hiking Plans
+Date: Fri, 05 Jan 2024 15:30:00 +0000
+Message-ID: <20240105153000.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to check in about our plans for the hiking trip this weekend. The weather forecast looks clear, with temperatures around 10-12°C, perfect for a day outdoors.
+
+I was thinking we could start early Saturday morning around 7:30 AM. We should meet at the trailhead parking lot at Pine Ridge. I'll bring snacks, sandwiches, and extra water for everyone. Let me know if you'd like to bring anything special or if you have any dietary restrictions.
+
+Also, I found a map of the trail that includes a scenic overlook about two-thirds of the way up. It's a bit steeper there, but I think it'll be worth the effort for the view.
+
+Looking forward to hearing from you soon. Let me know if that schedule works or if we need to adjust.
+
+Best,
+Alice

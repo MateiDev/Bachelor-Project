@@ -1,0 +1,30 @@
+From alice@example.com Fri Jul 14 09:32:10 2023
+Return-Path: <alice@example.com>
+Received: by mail.example.com id 123ABCD456 for bob@example.org; Fri, 14 Jul 2023 09:32:10 -0400 (EDT)
+Date: Fri, 14 Jul 2023 09:32:10 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Team Meeting Agenda
+Message-ID: <20230714093210.12345.mail@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. Here is the agenda for our team meeting scheduled for next Tuesday at 2:00 PM:
+
+1. Project Alpha status update
+2. Budget review for Q3
+3. Upcoming client deliverables
+4. Team building activities
+5. Any other business
+
+Please let me know if you have any additional items to discuss or if the time needs adjusting.
+
+Best regards,
+Alice Johnson
+Project Coordinator
+Example Corp
+alice@example.com
+(555) 123-4567

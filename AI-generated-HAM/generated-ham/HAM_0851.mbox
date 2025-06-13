@@ -1,0 +1,27 @@
+From alice@example.com Wed Jun 21 10:15:00 2023
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTP id 1234567890
+	for <bob@example.com>; Wed, 21 Jun 2023 10:15:00 -0400 (EDT)
+Date: Wed, 21 Jun 2023 10:15:00 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Reminder: Book Club Meeting This Friday
+Message-ID: <20230621101500.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+Just a friendly reminder that our monthly book club meeting is scheduled for this Friday, June 23rd at 7:00 PM in the downtown community center, Room B.
+
+Agenda:
+1. Discussion on "The Midnight Library" by Matt Haig
+2. Voting on our next book selection
+3. Snacks and social time
+
+Please let me know if you plan to attend, and feel free to bring any snacks you'd like. Looking forward to seeing you and hearing your thoughts on the book!
+
+Best regards,
+Alice

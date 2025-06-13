@@ -1,0 +1,23 @@
+From alice@example.com Tue Jun 11 15:23:45 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com (Postfix) id 12345ABCDE; Tue, 11 Jun 2024 15:23:45 +0000 (UTC)
+Date: Tue, 11 Jun 2024 15:23:45 +0000
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip
+Message-ID: <e1b4e8f3c5a7d@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I hope you're doing well. I wanted to touch base about our plan to go hiking this weekend. The weather forecast looks great, with sunny skies and mild temperatures. I found a trail at Pine Ridge Park that has some beautiful scenic overlooks and a small lake at the halfway point.
+
+If you're up for it, we could meet at the park entrance around 8:00 AM on Saturday. That should give us enough time to hike and enjoy a picnic lunch by the lake before heading back mid-afternoon. Let me know if that works for you or if you have any other suggestions.
+
+Looking forward to catching up and spending some time outdoors!
+
+Best,
+Alice

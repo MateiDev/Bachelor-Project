@@ -1,0 +1,31 @@
+From alice@example.com Fri Jun 14 10:15:02 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABC123DEF
+    for <bob@example.com>; Fri, 14 Jun 2024 10:15:02 -0400 (EDT)
+MIME-Version: 1.0
+Subject: Quarterly Report Draft
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Date: Fri, 14 Jun 2024 10:15:02 -0400
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I've attached the first draft of the quarterly report for your review.
+Please take a look at the financial summary section on pages 2–4 and let me know if any figures need adjustment.
+I also highlighted the key performance indicators in bold for easier reference.
+
+Let me know if you have any questions or would like to set up a meeting to go over the details.
+I'll be available all next week except for Wednesday afternoon.
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Senior Financial Analyst
+Example Corporation
+alice@example.com
+(555) 123-4567

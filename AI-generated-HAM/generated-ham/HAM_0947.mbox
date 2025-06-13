@@ -1,0 +1,28 @@
+From alice@example.com Mon Jul 08 14:32:45 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [203.0.113.1])
+    by bob-mail.example.com with ESMTP id XYZ12345
+    for <bob@example.com>; Mon, 08 Jul 2024 14:32:45 -0400 (EDT)
+Received-SPF: pass (mailfrom) client-ip=203.0.113.1; envelope-from=alice@example.com; helo=mail.example.com;
+Authentication-Results: bob-mail.example.com;
+    dkim=pass header.d=example.com;
+    spf=pass smtp.mailfrom=alice@example.com;
+    dmarc=pass header.from=example.com
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Furniture Assembly Help
+Date: Mon, 8 Jul 2024 14:32:45 -0400
+Message-ID: <20240708183245.abc123def@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Hope you're doing well! I just picked up a new bookshelf kit and was wondering if you might have some time this weekend to help me assemble it. It's a pretty straightforward assembly, but an extra set of hands would be fantastic. We can grab lunch at that new café downtown afterwards – my treat!
+
+Let me know what works for you. Looking forward to catching up.
+
+Best,
+Alice Johnson

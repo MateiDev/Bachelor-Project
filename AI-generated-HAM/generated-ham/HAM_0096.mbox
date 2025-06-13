@@ -1,0 +1,31 @@
+From alice.johnson@example.com Sat Mar 30 10:15:00 2024
+Return-Path: <alice.johnson@example.com>
+Delivered-To: bob.smith@example.org
+Received: from mail.example.com (mail.example.com [203.0.113.45])
+	by mail.example.org with ESMTP id N12345XYZ;
+	Sat, 30 Mar 2024 10:15:00 -0400 (EDT)
+From: "Alice Johnson" <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.org>
+Subject: Plans for Next Weekend's Hiking Trip
+Date: Sat, 30 Mar 2024 10:15:00 -0400
+Message-ID: <20240330141500.N12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. I wanted to follow up on our conversation about the hiking trip next weekend. The weather forecast looks promising, with sunny skies and mild temperatures.
+
+Here are the tentative details:
+- Meeting point: Pine Valley trailhead parking lot
+- Date and time: Saturday, April 6th at 8:00 AM
+- Expected duration: 6 to 7 hours (including lunch)
+- What to bring: sturdy hiking boots, water (at least 2 liters), snacks, a light jacket, and sunscreen
+
+If you have any dietary preferences or suggestions for lunch spots along the trail, please let me know. Also, feel free to invite anyone else who might be interested in joining us.
+
+Looking forward to a fun day outdoors!
+
+Best regards,
+Alice

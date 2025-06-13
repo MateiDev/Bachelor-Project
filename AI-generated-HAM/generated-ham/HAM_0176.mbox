@@ -1,0 +1,35 @@
+From alice@example.com Fri Jul 16 10:15:30 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id abc123
+	for <bob@example.org>; Fri, 16 Jul 2021 10:15:30 -0400 (EDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.org>
+Subject: Weekend Hiking Trip
+Date: Fri, 16 Jul 2021 10:15:30 -0400
+Message-ID: <emailid12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to follow up on our plan for the weekend hiking trip.
+The weather forecast looks great, with sunshine and mild temperatures.
+
+Here's a quick checklist for Saturday morning:
+- Meet at the trailhead parking lot by 8:00 AM
+- Bring plenty of water (at least 2 liters)
+- Wear sturdy hiking boots and layered clothing
+- Pack some snacks (granola bars, trail mix, fruit)
+- Don't forget sunscreen and a hat
+
+I've mapped out a 7-mile loop that passes by the waterfall and offers scenic overlooks. 
+We'll probably finish around 3:00 PM, so feel free to bring a camera or binoculars for wildlife spotting.
+
+Let me know if you need a ride or if you’re joining later. Looking forward to it!
+
+Best,
+Alice Smith
+alice@example.com

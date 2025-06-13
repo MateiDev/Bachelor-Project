@@ -1,0 +1,37 @@
+From mark.jones@example.com Wed Jul 24 09:15:32 2024
+Return-Path: <mark.jones@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.org with ESMTP id ABC12345
+	for <team@example.org>; Wed, 24 Jul 2024 09:15:32 -0400
+Date: Wed, 24 Jul 2024 09:15:32 -0400
+From: Mark Jones <mark.jones@example.com>
+To: Engineering Team <team@example.org>
+Subject: Monthly Team Meeting Agenda
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hello Team,
+
+Please find below the agenda for our upcoming monthly team meeting scheduled on
+Friday, July 26th at 10:00 AM in Conference Room B.
+
+1. Project Updates
+   - Status reports from each sub-team
+   - Timeline review for upcoming milestones
+2. Resource Planning
+   - Discussion on allocating resources for the next sprint
+3. Technical Challenges
+   - Overview of current blockers and proposed solutions
+4. Team Training
+   - Scheduling a skills workshop on the new internal tools
+5. Open Discussion
+   - Any other topics team members wish to raise
+
+Please review the agenda items in advance and come prepared with any comments
+or additional points you'd like to discuss. If you have any questions, you can
+reply to this email or drop by my office.
+
+Looking forward to a productive meeting.
+
+Best regards,
+Mark Jones

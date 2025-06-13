@@ -1,0 +1,21 @@
+From alice@company.com Fri Jul 23 10:15:00 2021
+Return-Path: <alice@company.com>
+Delivered-To: bob@company.com
+Received: by mail.company.com with SMTP id x7C12345abcd; Fri, 23 Jul 2021 10:15:01 -0400
+From: Alice Johnson <alice@company.com>
+To: Bob Smith <bob@company.com>
+Subject: Lunch at the new café tomorrow?
+Date: Fri, 23 Jul 2021 10:15:00 -0400
+Message-ID: <CAFEBABE1234@mail.company.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I just heard about the new café that opened on Pine Street, "The Green Bean". They have a great selection of sandwiches and pastries, and the coffee is supposed to be excellent.
+
+Would you be interested in grabbing lunch there tomorrow around noon? Let me know if that works for you.
+
+Best,
+Alice

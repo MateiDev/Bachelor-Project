@@ -1,0 +1,33 @@
+From bob@example.com Fri Jan 13 09:15:00 2023
+Return-Path: <bob@example.com>
+Delivered-To: alice@company.com
+Received: by mail.company.com id ab12345; Fri, 13 Jan 2023 09:15:00 -0500 (EST)
+Received: from smtp.example.com (smtp.example.com [192.0.2.10])
+	by mail.company.com with ESMTP id cd67890
+	for <alice@company.com>; Fri, 13 Jan 2023 09:14:50 -0500 (EST)
+Date: Fri, 13 Jan 2023 09:15:00 -0500
+From: Bob Johnson <bob@example.com>
+To: Alice Smith <alice@company.com>
+Subject: Meeting Agenda for Next Week
+Message-ID: <20230113091500.abc123@smtp.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Alice,
+
+I hope you're doing well. Below is the preliminary agenda for our team meeting scheduled next Monday:
+
+1. Project X status update
+2. Review of Q1 deliverables and deadlines
+3. Allocation of tasks for the new marketing campaign
+4. Open discussion and Q&A
+
+Please let me know if you'd like to add any topics or if you have any suggestions. I’ll circulate the final agenda by end of day tomorrow.
+
+Thanks,
+Bob Johnson
+Product Manager
+Example Corporation
+bob@example.com
+(555) 123-4567

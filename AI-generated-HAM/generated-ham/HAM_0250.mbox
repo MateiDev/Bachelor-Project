@@ -1,0 +1,28 @@
+From alice.johnson@example.com Sat Jul 20 14:22:33 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+	by mx.example.org with ESMTP id AB12345678
+	for <bob.smith@example.com>; Sat, 20 Jul 2024 14:22:33 -0400 (EDT)
+Date: Sat, 20 Jul 2024 14:22:33 -0400
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Team Lunch Reminder
+Message-ID: <20240720182233.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+X-Mailer: ExampleMailer 2.1
+
+Hi Bob,
+
+Just a quick reminder about our team lunch scheduled for next Thursday at 12:30 PM at the Italian Bistro on Main Street. Please let me know if you have any dietary restrictions or preferences.
+
+Also, I've attached the draft agenda for next week’s project planning meeting. Feel free to review it and suggest any additional topics.
+
+Looking forward to catching up with everyone!
+
+Best regards,
+Alice Johnson
+Project Coordinator
+Example Corp.
+alice.johnson@example.com
+(555) 123-4567

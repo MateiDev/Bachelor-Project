@@ -1,0 +1,27 @@
+From alice@example.com Fri Jul 12 09:14:16 2024
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABC12345
+    for <bob@example.com>; Fri, 12 Jul 2024 09:14:16 -0400 (EDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hiking Trip Photos
+Date: Fri, 12 Jul 2024 09:14:16 -0400
+Message-ID: <20240712091416.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I just wanted to share some of the photos from our weekend hiking trip in the Blue Ridge Mountains. We had perfect weather, and the views from the summit were absolutely stunning. I’ve included a few of my favorites below:
+
+- Sunrise peeking over the ridge
+- Our group taking a break by the waterfall
+- The panoramic vista at the summit
+
+Let me know which ones you like most, and I can send you the high-resolution versions. Looking forward to our next outdoor adventure!
+
+Best,
+Alice

@@ -1,0 +1,24 @@
+From alice@example.com Tue Feb 27 14:22:18 2024
+Return-Path: <alice@example.com>
+Received: from smtp.example.com (smtp.example.com [203.0.113.5]) by mail.example.com with ESMTP id ABC123456789 for <bob@example.com>; Tue, 27 Feb 2024 14:22:18 -0500 (EST)
+Date: Tue, 27 Feb 2024 14:22:18 -0500
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Update on Project Phoenix
+Message-ID: <CAF3A20E.1234@EXAMPLE.COM>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well.
+
+I wanted to give you an update on Project Phoenix. We completed the initial market research last week, and the findings look promising. The design team is scheduled to present the first prototype on Thursday at 2 PM in Conference Room B.
+
+Could you please confirm your availability for the meeting? Also, if you have any questions or need additional information beforehand, feel free to let me know.
+
+Thanks, and I look forward to catching up.
+
+Best regards,
+Alice Smith

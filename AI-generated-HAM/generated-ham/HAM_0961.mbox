@@ -1,0 +1,24 @@
+From alice.johnson@example.com Fri Jan  5 14:06:23 2024
+Return-Path: <alice.johnson@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.org with ESMTP id ABCD1234
+    for <bob.smith@example.com>; Fri,  5 Jan 2024 14:06:23 -0500 (EST)
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Weekend Hiking Plans
+Date: Fri, 05 Jan 2024 14:06:23 -0500
+Message-ID: <abcd1234@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hey Bob,
+
+I'm writing to see if you're still up for our hiking trip this Saturday. The forecast looks great: sunny skies with a high of around 55°F. I was thinking we could start around 9 AM at Green Valley Trailhead. It's a moderate 6-mile loop, and there are some nice viewpoints along the way.
+
+Let me know if that works for you. Also, if you have any other trails in mind, feel free to suggest them. I'll bring snacks and water; if you could pack some sandwiches, that would be awesome.
+
+Looking forward to it!
+
+Cheers,
+Alice

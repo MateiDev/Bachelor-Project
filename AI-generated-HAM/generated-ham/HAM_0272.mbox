@@ -1,0 +1,20 @@
+From alice@example.com Fri Jun 14 09:15:27 2024
+Return-Path: <alice@example.com>
+Received: by mailserver.example.com id abcd1234; Fri, 14 Jun 2024 09:15:27 -0400 (EDT)
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Weekend Project Update
+Date: Fri, 14 Jun 2024 09:15:27 -0400
+Message-ID: <20240614091527.abcd1234@mailserver.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to give you a quick update on the website redesign project. We're on track to complete the new landing page by Tuesday, and I've scheduled a review meeting with the design team for Monday at 2:00 PM.
+
+The new color palette is finalized, and the mockups look really clean. I'll send you the draft by end of day today, so you can share any feedback before the meeting. Please let me know if you have any questions or if you'd like to adjust the schedule.
+
+Thanks,
+Alice

@@ -1,0 +1,45 @@
+From sender@example.com Fri Jul 12 10:14:56 2024
+From: Alice Johnson <alice.johnson@example.com>
+To: Engineering Team <eng-team@example.com>
+Subject: Agenda for Next Week’s Sprint Planning
+Date: Fri, 12 Jul 2024 10:14:56 -0400
+Message-ID: <20240712101456.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi everyone,
+
+I hope you’re all doing well. As we wrap up the current sprint, I wanted to share the agenda for our planning meeting next Tuesday, July 16th, at 2:00 PM in Conference Room B (and via Zoom for remote attendees).
+
+1. Sprint Retrospective
+   - What went well
+   - Challenges and bottlenecks
+   - Action items for improvement
+
+2. Backlog Review
+   - Prioritize user stories for the next sprint
+   - Estimate effort (story points)
+
+3. Resource Allocation
+   - Team availability (vacations, holidays)
+   - Assignments based on expertise
+
+4. Technical Discussion
+   - Proposed changes to the deployment pipeline
+   - Code review best practices
+
+5. Q&A and Open Floor
+
+Please review the current backlog in Jira and add any comments or estimates before the meeting. If you have additional agenda items, send them to me by Monday EOD so I can update the meeting invite.
+
+Looking forward to a productive session. Thanks for all your hard work!
+
+Best regards,
+Alice
+
+-- 
+Alice Johnson
+Product Owner, Acme Tech Solutions
+alice.johnson@example.com | +1 (555) 123-4567
+www.acmetech.com

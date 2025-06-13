@@ -1,0 +1,35 @@
+From alice@example.com Wed Sep 27 09:15:00 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.net
+Received: by mail.example.net with SMTP id abc123; Wed, 27 Sep 2023 09:15:01 -0400
+Message-ID: <20230927091500.abc123@mail.example.net>
+Date: Wed, 27 Sep 2023 09:15:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.net>
+Subject: Planning for the Team Picnic
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+Summer is winding down, and I thought it would be great for the team to get together one last time before fall projects pick up. Let’s plan a team picnic at Riverside Park on Saturday, October 14th, starting at noon.
+
+Here’s a rough agenda:
+- 11:30 AM: Arrive and set up blankets and tables
+- 12:00 PM: Lunch (I’ll coordinate a potluck style menu)
+- 1:30 PM: Outdoor games (volleyball, frisbee)
+- 3:00 PM: Short team photo and casual chat
+- 4:00 PM: Cleanup
+
+Could you please let me know:
+1. Whether you can bring a side dish or dessert
+2. Any dietary restrictions within the team
+3. Ideas for games or activities
+
+I’ve reserved two picnic areas near the playground and restrooms. I also checked the weather forecast, and it looks like it will be sunny and in the mid-70s. If anything changes, I’ll send an update by the week before.
+
+Looking forward to some fun outdoor time!
+
+Best,
+Alice

@@ -1,0 +1,26 @@
+From alice.jones@example.com Fri Jun 16 10:30:00 2023
+Return-Path: <alice.jones@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+	by mx.example.com with ESMTP id ABC123DEF
+	for <team@company.com>; Fri, 16 Jun 2023 10:30:00 -0400 (EDT)
+Date: Fri, 16 Jun 2023 10:30:00 -0400
+From: Alice Jones <alice.jones@example.com>
+To: Team <team@company.com>
+Subject: Reminder: Team Lunch on June 19th
+Message-ID: <20230616143000.12345@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+Just a friendly reminder that our company-sponsored team lunch is scheduled for Monday, June 19th at 12:30 PM in the downtown cafeteria. Please let me know by end of day Friday if you have any dietary restrictions or preferences so I can coordinate with catering.
+
+Looking forward to catching up with everyone!
+
+Best,
+Alice Jones
+Project Coordinator
+Example Corp
+alice.jones@example.com
+(555) 123-4567

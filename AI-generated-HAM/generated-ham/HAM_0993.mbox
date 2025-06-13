@@ -1,0 +1,20 @@
+From alice.johnson@example.com Tue Jul 16 09:45:30 2024
+Return-Path: <alice.johnson@example.com>
+Delivered-To: bob.smith@example.com
+Date: Tue, 16 Jul 2024 09:45:30 -0400
+Message-ID: <20240716094530.GA1234@example.com>
+From: Alice Johnson <alice.johnson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Team Lunch on Friday
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well. I wanted to remind you about our team lunch this Friday at noon. We'll meet at the new cafe around the corner from the office (Sunny Side Cafe, 123 Main Street). The rest of the marketing team will be there, and we've reserved a table for 10.
+
+Please let me know by Thursday if you have any dietary restrictions or prefer a different location. Looking forward to catching up outside the office!
+
+Best regards,
+Alice

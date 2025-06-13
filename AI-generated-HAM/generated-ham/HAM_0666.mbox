@@ -1,0 +1,24 @@
+From john.doe@example.com Wed Jul 24 09:15:00 2024
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by smtp.example.com with ESMTPS id ABC123 for <jane.smith@example.org>; Wed, 24 Jul 2024 09:15:00 -0500
+Date: Wed, 24 Jul 2024 09:15:00 -0500
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.org>
+Subject: Project Meeting Follow-Up
+Message-ID: <CAFmJ5H-=w@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you’re doing well. Thank you for attending yesterday’s project meeting. As discussed, I have summarized the key points and action items below:
+
+1. Finalize the UI design by Friday.
+2. Coordinate with the backend team to define the API endpoints.
+3. Prepare the user test plan and share it by next Wednesday.
+
+Please let me know if I missed anything or if you have any questions. I will be sending the meeting minutes later today.
+
+Best regards,
+John   

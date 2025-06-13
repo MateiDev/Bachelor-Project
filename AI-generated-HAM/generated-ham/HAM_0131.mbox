@@ -1,0 +1,26 @@
+From alice@example.com Mon Jul 08 10:15:42 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by example.com (Postfix) with ESMTP id 12345
+	for <bob@example.com>; Mon, 8 Jul 2024 10:15:42 +0000 (UTC)
+Date: Mon, 8 Jul 2024 10:15:42 +0000
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.com>
+Subject: Weekend Hiking Trip
+Message-ID: <CAF3+XYZ+20240708101542@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well. I wanted to touch base about our hiking trip this weekend. The weather forecast looks perfect with clear skies and mild temperatures.
+
+I’ve planned the route up to Sunset Peak, starting at the trailhead by 8 AM on Saturday. The total distance is around 10 miles round trip, and we should be back by late afternoon.
+
+Please let me know if you have any concerns or if you'd prefer a shorter path. Also, remember to bring plenty of water, snacks, and sun protection.
+
+Looking forward to catching up and enjoying the outdoors!
+
+Best regards,
+Alice Johnson

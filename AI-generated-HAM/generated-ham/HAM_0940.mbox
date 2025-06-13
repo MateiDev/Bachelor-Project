@@ -1,0 +1,30 @@
+From alice@example.com Fri Jul  2 14:13:00 2021
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by mx.example.com with ESMTPS id abc123
+	for <team@example.com>; Fri, 2 Jul 2021 14:13:00 -0400 (EDT)
+Date: Fri, 2 Jul 2021 14:13:00 -0400
+From: Alice Johnson <alice@example.com>
+To: Team <team@example.com>
+Subject: Weekly Team Meeting Agenda
+Message-ID: <1234567890@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+I hope everyone had a great week. Here is the agenda for our weekly meeting scheduled
+for Monday, July 5th at 10:00 AM in Conference Room B:
+
+1. Project Alpha status updates
+2. Review of Q3 goals
+3. Budget planning for next quarter
+4. Team-building activity ideas
+5. Any other business
+
+Please review the attached documents before the meeting. Let me know if you have any
+additional items to add to the agenda.
+
+Best regards,
+Alice

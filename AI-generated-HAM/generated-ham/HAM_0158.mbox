@@ -1,0 +1,40 @@
+From h.collins@example.com Sat Jan 13 14:38:00 2024
+Return-Path: <h.collins@example.com>
+Delivered-To: eng-team@example.com
+Received: by mail.example.com with SMTP id x12345; Sat, 13 Jan 2024 14:38:00 -0500
+Date: Sat, 13 Jan 2024 14:38:00 -0500
+From: Hannah Collins <h.collins@example.com>
+To: Engineering Team <eng-team@example.com>
+Message-ID: <20240113143800.12345@mail.example.com>
+Subject: Agenda for Next Tuesday’s Team Meeting
+Content-Type: text/plain; charset=UTF-8
+
+Hi everyone,
+
+I hope you’re all doing well. Our next team meeting is scheduled for Tuesday, January 16th at 10:00 AM in Conference Room B. Below is the proposed agenda:
+
+1. Project Status Updates
+   - Quick roundtable: where we stand on current tasks
+2. Feature Planning for Q2
+   - Brainstorm new feature ideas
+   - Prioritize based on customer feedback
+3. Code Review Best Practices
+   - Discuss guidelines for reducing review time
+   - Share tips on writing clear commit messages
+4. Team-Building Activity
+   - Brief overview of the offsite event planned for February
+5. AOB (Any Other Business)
+
+Please review the agenda and let me know if you have any additional items by Monday COB. If you’d like to present a particular topic, just reply and I’ll add you to the schedule.
+
+Looking forward to a productive session!
+
+Best regards,
+Hannah
+
+-- 
+Hannah Collins
+Engineering Manager
+Example Corp
+h.collins@example.com
+(555) 123-7890

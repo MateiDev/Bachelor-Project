@@ -1,0 +1,36 @@
+From alice@example.com Thu Jul 13 15:12:01 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.org
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+	by smtp.example.org (Postfix) with ESMTP id 9F2B1234
+	for <bob@example.org>; Thu, 13 Jul 2023 15:12:01 -0400 (EDT)
+Date: Thu, 13 Jul 2023 15:12:01 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Message-ID: <20230713191201.9F2B1234@mail.example.com>
+Subject: Weekend Hiking Trip Details
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! As we discussed, I’ve put together the details for our weekend hiking trip:
+
+Date: Saturday, July 22nd
+Meeting Point: Pine Ridge Trailhead parking lot
+Time: 8:00 AM
+Packing List:
+ - Hiking boots
+ - Water (at least 2 liters)
+ - Snacks (trail mix, energy bars)
+ - Sunscreen and hat
+ - Light rain jacket
+ - First aid kit
+Route Plan:
+We’ll follow the east loop of Pine Ridge Trail (approximately 7 miles round-trip). The terrain is moderate, with a few steep sections but plenty of scenic overlooks. We should be back by early afternoon.
+
+Please let me know if you have any questions or need to adjust anything. Looking forward to hitting the trail together!
+
+Best,
+Alice

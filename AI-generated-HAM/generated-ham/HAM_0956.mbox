@@ -1,0 +1,34 @@
+From alice@example.com Fri Jul 26 14:00:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id abc123 for <bob@example.com>; Fri, 26 Jul 2024 14:00:00 -0400 (EDT)
+Received: by mail.example.com id def456; Fri, 26 Jul 2024 13:59:50 -0400 (EDT)
+Date: Fri, 26 Jul 2024 13:59:50 -0400
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Summer Office Picnic Plans
+Message-ID: <20240726135950.def456@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you're doing well! I wanted to remind you about our upcoming summer office picnic next Friday, August 2nd, starting at noon at Riverside Park. We'll have games, a potluck lunch, and some outdoor activities planned.
+
+Could you please bring your famous pasta salad? I've also signed up for the lemonade and will bring some cold drinks and paper goods. Feel free to invite your family, as many of us will have our kids joining in the afternoon.
+
+If you have any dietary restrictions or special requests, let me know by Wednesday so I can adjust the menu accordingly. We're expecting around 30 people, and it should be a fun afternoon.
+
+Looking forward to seeing you there!
+
+Best regards,
+Alice
+
+------
+Alice Smith
+Marketing Coordinator
+Example Company, Inc.
+123 Main Street, Suite 400
+Springfield, IL 62701
+Phone: (555) 123-4567
+alice@example.com

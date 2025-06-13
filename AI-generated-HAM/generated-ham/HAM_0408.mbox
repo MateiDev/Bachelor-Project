@@ -1,0 +1,21 @@
+From john.doe@example.com Fri Jul 12 14:32:01 2024
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTPS id ABC123 for <jane.smith@example.com>; Fri, 12 Jul 2024 14:31:59 -0400 (EDT)
+Date: Fri, 12 Jul 2024 14:32:01 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Welcome to the Team
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Jane,
+
+Welcome to the team! I just wanted to reach out and say how excited we are to have you on board. Your background in project management and communication will be invaluable for our upcoming initiatives. We’ll have our first team meeting next Monday at 10 AM in the conference room on the third floor.
+
+Please let me know if you have any questions or need anything before then. If you’d like, we can schedule a quick introductory call this afternoon to go over any details.
+
+Looking forward to working together.
+
+Best regards,
+John

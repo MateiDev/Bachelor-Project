@@ -1,0 +1,29 @@
+From alice@example.org Sat Jun 15 11:23:45 2024
+From: Alice Johnson <alice@example.org>
+To: Bob Smith <bob.smith@example.com>
+Subject: Summer Picnic Planning
+Date: Sat, 15 Jun 2024 11:23:45 +0000
+Message-ID: <20240615112345.abcdef@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. As we discussed at the last team meeting, we'd like to organize a
+summer picnic for the department. Here are the current details:
+
+Date: Saturday, July 20, 2024
+Time: 11:00 AM to 3:00 PM
+Location: Lincoln Park, Shelter #5
+
+We'll need volunteers to help with setting up tables, preparing snacks, and organizing games.
+Could you please let me know which role you'd like to take on? Also, feel free to suggest any
+special activities or dishes you'd like to contribute.
+
+I'll send a follow-up email with a signup sheet and further logistics next week.
+
+Thanks in advance for your help. Looking forward to a fun day!
+
+Best regards,
+Alice Johnson

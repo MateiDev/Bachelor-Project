@@ -1,0 +1,22 @@
+From john.doe@example.com Fri Jul 21 09:15:00 2023
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Meeting Follow-Up
+Date: Fri, 21 Jul 2023 09:15:00 -0400
+Message-ID: <20230721091500.12345@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+Thanks for meeting with me yesterday to discuss the upcoming product launch. I wanted to summarize the main points we covered:
+
+- Finalize the marketing materials by next Tuesday.
+- Confirm the guest list for the launch event.
+- Prepare the budget proposal for the third quarter.
+
+Please let me know if I missed anything or if you have any questions. I’ll start working on the draft for the budget proposal this afternoon.
+
+Best regards,
+John

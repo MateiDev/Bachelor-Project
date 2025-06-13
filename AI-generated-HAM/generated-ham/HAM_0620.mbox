@@ -1,0 +1,26 @@
+From alice@example.com Sat Jan 14 09:15:23 2023
+Message-ID: <20230114091523.abcdef1234@example.com>
+Date: Sat, 14 Jan 2023 09:15:23 -0500
+From: Alice Johnson <alice@example.com>
+To: Bob Smith <bob@example.org>
+Subject: Monthly Team Meeting Agenda
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+I hope you're doing well. I'm writing to share the agenda for our upcoming monthly team meeting on Tuesday, January 17 at 10:00 AM. Here's what we'll cover:
+
+1. Project updates
+2. Timeline review for the Q1 deliverables
+3. Resource planning for the new design phase
+4. Discussion of feedback from the client
+5. Action items and next steps
+
+Please let me know if you'd like to add any topics or if you have questions. I look forward to our discussion.
+
+Best regards,
+Alice Johnson
+Product Manager, ExampleCorp
+alice@example.com

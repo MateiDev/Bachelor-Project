@@ -1,0 +1,23 @@
+From john.doe@example.com Fri Jul 28 10:42:00 2023
+Return-Path: <john.doe@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ABC123; Fri, 28 Jul 2023 10:42:00 -0400 (EDT)
+Received: by mail.example.com via SMTP id DEF456; Fri, 28 Jul 2023 14:42:00 +0000
+Message-ID: <20230728144200.DEF456@mail.example.com>
+Date: Fri, 28 Jul 2023 10:42:00 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Weekend Hiking Trip Plans
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+I hope you're doing well. I wanted to touch base about our weekend plans. The weather forecast looks great for Saturday, with sunny skies and mild temperatures. I thought we could meet at the trailhead parking lot at 8:00 AM. The plan is to hike the Pine Ridge Trail, which is about 7 miles round-trip.
+
+I'll bring sandwiches, snacks, and plenty of water. Feel free to pack anything else you'd like. After the hike, we can stop by that new café in town for coffee and pastries. Let me know if that works for you or if you have any other suggestions.
+
+Looking forward to spending the day outdoors!
+
+Best,
+John

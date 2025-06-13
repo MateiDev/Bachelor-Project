@@ -1,0 +1,54 @@
+From alice@example.com Mon Jul 12 08:15:30 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: by mail.example.com (Postfix, from userid 1001)
+    id 6ABCD12345; Mon, 12 Jul 2021 08:15:30 -0400 (EDT)
+Received: from mail-wk0-f41.google.com (mail-wk0-f41.google.com [209.85.210.41])
+    by smtp.example.com (Postfix) with ESMTPS id 1234ABCD56
+    for <bob@example.com>; Mon, 12 Jul 2021 08:15:29 -0400 (EDT)
+Date: Mon, 12 Jul 2021 08:15:29 -0400
+From: Alice Johnson <alice@example.com>
+To: Bob Roberts <bob@example.com>
+Subject: Weekend Hiking Trip Details
+Message-ID: <CALf4wO1yHkV2=example@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+As we discussed last week, here are the details for our upcoming weekend hiking trip:
+
+Date & Time:
+Saturday, July 17th
+Meet at 8:00 AM
+
+Location:
+Pine Ridge Trailhead
+Parking Lot Coordinates: 37.1234, -122.1234
+
+Plan:
+- We will start with the West Ridge trail (moderate difficulty), which is approximately 5 miles round-trip.
+- Bring plenty of water, snacks, and sunscreen.
+- Pack a light lunch to enjoy at the summit.
+
+Meeting Point:
+Please meet by the trailhead parking sign near the restrooms. If you arrive early, feel free to explore the short nature loop nearby.
+
+Participants:
+- Alice Johnson
+- Bob Roberts
+- Charlie Nguyen
+- Dana Patel
+
+What to Bring:
+- Hiking boots or sturdy shoes
+- Hat and sunglasses
+- Light jacket (it can get cool at higher elevations)
+- Personal first-aid kit (if you have one)
+- Camera (optional, for those scenic views!)
+
+Let me know if you have any questions or need to adjust the schedule. Looking forward to a fun day out in nature!
+
+Best,
+Alice

@@ -1,0 +1,33 @@
+From alice@example.com Wed Aug 30 12:34:56 2023
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+	by smtp.example.org (Postfix) with ESMTP id 9A1BC2D3E4
+	for <bob@example.com>; Wed, 30 Aug 2023 12:34:56 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+Date: Wed, 30 Aug 2023 12:34:56 -0400
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Picnic Plans for Saturday
+Message-ID: <20230830123456.abcdef@mail.example.com>
+
+Hi Bob,
+
+I hope you’re doing well! The weather forecast looks great for this Saturday,
+so I thought it would be fun to organize a small picnic at Lakeview Park.
+I’ve reserved a spot by the north pavilion from 11:00 AM to 3:00 PM.
+
+Here’s the plan:
+- I’ll bring sandwiches, fresh fruit, and iced tea.
+- Could you bring some snacks (chips, nuts, or whatever you like)?
+- If possible, please bring a blanket and a portable speaker for music.
+
+Feel free to invite anyone else who might enjoy a relaxed afternoon outdoors.
+Let me know if you have any dietary preferences or special requests.
+
+Looking forward to catching up!
+
+Best,
+Alice

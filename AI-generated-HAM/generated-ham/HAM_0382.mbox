@@ -1,0 +1,25 @@
+From alice@example.com Sat Jul  3 10:00:00 2021
+Return-Path: <alice@example.com>
+Delivered-To: bob@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by mx.example.com with ESMTP id abc123
+    for <bob@example.com>; Sat,  3 Jul 2021 10:00:00 -0500 (CDT)
+From: Alice Smith <alice@example.com>
+To: Bob Johnson <bob@example.com>
+Subject: Weekend Hiking Plans
+Date: Sat, 3 Jul 2021 10:00:00 -0500
+Message-ID: <20210703150000.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+
+I hope you’re doing well! The weather forecast for this weekend looks great, and I was thinking it would be the perfect time for our hiking trip to Pine Ridge Trail. The trail is about 6 miles long and offers some beautiful viewpoints of the valley below.
+
+If you’re still up for it, we can meet at my place around 8:00 AM on Saturday, pack some sandwiches, and head out early to avoid the midday heat. Let me know if that works for you or if you’d prefer Sunday instead. Either way, it should be a fun outing.
+
+Looking forward to catching up and enjoying some fresh air together.
+
+Best,
+Alice

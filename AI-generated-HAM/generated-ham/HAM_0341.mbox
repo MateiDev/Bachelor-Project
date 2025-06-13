@@ -1,0 +1,25 @@
+From alice@example.com Wed Jul 24 09:15:00 2024
+Return-Path: <alice@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1]) by mx.example.org with ESMTP id ABC123DEF; Wed, 24 Jul 2024 09:15:02 -0500 (CDT)
+Date: Wed, 24 Jul 2024 09:15:00 -0500
+From: Alice Johnson <alice@example.com>
+To: Team Members <team@example.org>
+Subject: Draft of Q2 Project Report
+Message-ID: <20240724091500.abc123@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+I hope everyone is doing well. I've attached the first draft of our Q2 project report for your review. Please take a look and share any feedback or suggestions by Friday afternoon.
+
+Key sections to focus on:
+- Executive Summary
+- Budget Analysis
+- Timeline Adjustments
+
+Let me know if you encounter any issues opening the document.
+
+Thanks,
+Alice

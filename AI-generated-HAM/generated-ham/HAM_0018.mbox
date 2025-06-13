@@ -1,0 +1,29 @@
+From john.doe@example.com Thu Jul 04 14:15:23 2024
+Return-Path: <john.doe@example.com>
+Delivered-To: jane.smith@example.com
+Received: from mail.example.com (mail.example.com [203.0.113.10])
+    by mail-host.example.net with ESMTP id abcd1234
+    for <jane.smith@example.com>; Thu, 4 Jul 2024 14:15:23 -0400 (EDT)
+Date: Thu, 04 Jul 2024 14:15:23 -0400
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Weekend Hiking Trip Details
+Message-ID: <20240704181523.abcdef@mail.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Jane,
+
+Hope you're doing well! I'm writing to confirm the details for our hiking trip this Saturday. We'll meet at the Pine Ridge trailhead at 8:00 AM. The weather looks sunny, around 70°F, so remember to bring sunscreen and plenty of water.
+
+We're planning a 5-mile loop that should take about 4 hours, including a lunch break at the overlook. I'll pack some sandwiches and snacks, but feel free to bring anything special you'd like.
+
+Let me know if you have any questions or need to adjust the plan. Looking forward to spending the day outdoors!
+
+Best,
+John
+
+--
+John Doe
+Outdoor Enthusiasts Club
+(555) 123-4567
