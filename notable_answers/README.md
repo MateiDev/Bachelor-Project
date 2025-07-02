@@ -1,0 +1,1 @@
+These were the most common answers the OpenAI API returned in the process of generating phishing emails, in the case it refused to help generate phishing emails despite being told everything was for **testing purposes only**.

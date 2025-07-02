@@ -4,10 +4,9 @@ import argparse
 import mailbox
 import email
 
+#Scan for email headers in the first chunk of a file.
 def detect_email_file(path, max_bytes=2048):
-    """
-    Scan for email headers in the first chunk of a file.
-    """
+
     try:
         with open(path, 'rb') as f:
             head = f.read(max_bytes)
@@ -19,10 +18,8 @@ def detect_email_file(path, max_bytes=2048):
             return True
     return False
 
+# Walk the source directory, parse every email file, and add it to an mbox.
 def merge_maildir(source_dir, dest_mbox):
-    """
-    Walk the source directory, parse every email file, and add it to an mbox.
-    """
     mbox = mailbox.mbox(dest_mbox)
     mbox.lock()
     count_added = 0
@@ -37,7 +34,7 @@ def merge_maildir(source_dir, dest_mbox):
                 count_skipped += 1
                 continue
 
-            # Skip if it doesn’t look like an email
+            # Skip if it is not an email
             if not detect_email_file(path):
                 count_skipped += 1
                 print(f"Skipping: not an email → {path}", file=sys.stderr)
